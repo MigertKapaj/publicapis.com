@@ -1,0 +1,36 @@
+title=title
+
+meta(charset='utf-8')
+meta(http-equiv='X-UA-Compatible', content='IE=edge')
+meta(name='robots', content='index,follow')
+meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no')
+
+meta(name='author', content='{{ site.meta.author.name }}')
+meta(name='description', content='{{ summary }}')
+
+meta(name='twitter:description', content='{{ summary }}')
+
+meta(name='twitter:image:src', content='{{ site.url }}/images/logo.jpg')
+meta(name='twitter:card', content='summary')
+meta(name='twitter:site', content='@{{ site.meta.social.twitter }}')
+meta(name='twitter:creator', content='@{{ site.meta.author.twitter }}')
+meta(name='twitter:url', content='{{ site.url }}{{ page_url }}/')
+meta(name='twitter:title', content='{{ meta_title }}')
+meta(name='twitter:domain', content='{{ site.meta.domain }}')
+
+meta(property='fb:admins', content='{{ site.meta.fbadmin }}')
+meta(property='og:description', content='{{ summary }}')
+meta(property='og:type', content='website')
+meta(property='og:image', content='{{ site.url }}/images/logo.jpg')
+meta(property='og:site_name', content='{{ site.meta.title }}')
+meta(property='og:title', content='{{ meta_title }}')
+meta(property='og:locale', content='en_US')
+meta(property='og:url', content='{{ site.url }}{{ page_url }}/')
+
+meta(name='google-site-verification', content='{{ site.meta.google.verification }}')
+
+link(rel='canonical', href='{{ site.url }}{{ page_url }}/')
+link(rel='author', href='{{ site.meta.author.website }}')
+link(href='/assets/css/main.css', rel='stylesheet', type='text/css')
+link(href='//fonts.googleapis.com/css?family=Open+Sans:400,600,800,300', rel='stylesheet', type='text/css')
+link(href='//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css', rel='stylesheet', type='text/css')

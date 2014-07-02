@@ -1,0 +1,13 @@
+{
+  "name": "PublicAPIs.com",
+  "description": "Public API Directory: Search a list of free open web and mobile APIs",
+  "license": "MIT",
+  "repository": "https://github.com/Mashape/publicapis",
+  "issues": "https://github.com/Mashape/publicapis/issues",
+  "wiki": "https://github.com/Mashape/publicapis/wiki",
+  "author": {
+    "name": "Ahmad Nassri",
+    "email": "ahmad@mashape.com",
+    "url": "mashape.com"
+  }
+}
