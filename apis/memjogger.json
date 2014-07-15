@@ -1,0 +1,15 @@
+{
+  "id": "memjogger",
+  "title": "Memjogger",
+  "link": "http://memjogger.com/help/api",
+  "image": "http://memjogger.com/site_media/front/img/logo.png",
+  "author": {
+    "name": "Memjogger"
+  },
+  "tags": [
+    "Exposes",
+    "Service",
+    "Interface"
+  ],
+  "description": "Memjogger exposes an API that allows every user of the service to perform most of the actions that are possible through the web interface. "
+}

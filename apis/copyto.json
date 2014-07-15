@@ -1,0 +1,14 @@
+{
+  "id": "copyto",
+  "title": "Copyto",
+  "link": "http://copyto.co/apidoc",
+  "image": "http://copyto.co/includes/img/logo.png",
+  "author": {
+    "name": "Copyto"
+  },
+  "tags": [
+    "Developers",
+    "Interact"
+  ],
+  "description": "The Copyto API enables developers to interact with the Copyto web site programmatically via simple HTTP requests."
+}

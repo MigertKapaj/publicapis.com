@@ -1,0 +1,15 @@
+{
+  "id": "fimfiction",
+  "title": "Fimfiction",
+  "link": "http://www.fimfiction.net/faq",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcScuIJuFuez44IP2g7jhQylnMgijnWPuvNZPAwEgh0nC2xtDLEuOQ",
+  "author": {
+    "name": "FIMFiction"
+  },
+  "tags": [
+    "Fanfiction",
+    "Community",
+    "Collection"
+  ],
+  "description": "Fimfiction is a website dedicated to hosting fanfiction based on the cartoon/TV series My Little Pony: Friendship is Magic. It's also a community gathering place for fans of FiM, and a pillar of the fandom in general. Fimfiction is the largest collection of MLP fanfics around!"
+}

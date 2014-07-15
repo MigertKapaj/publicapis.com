@@ -1,0 +1,15 @@
+{
+  "id": "podio",
+  "title": "Podio",
+  "link": "https://developers.podio.com/",
+  "image": "https://d29j36x8cgfa9r.cloudfront.net/images/podio-logo-sprite.png?1375715637",
+  "author": {
+    "name": "Podio"
+  },
+  "tags": [
+    "Contains",
+    "Methods",
+    "Grouping"
+  ],
+  "description": "Our API is split up into different areas, that each contains a subset of methods grouped by functionality. You could call each area its own API, but we like to call them areas, because it's just a simple grouping."
+}

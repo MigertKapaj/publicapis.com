@@ -1,0 +1,15 @@
+{
+  "id": "graphmuse",
+  "title": "GraphMuse",
+  "link": "http://graphmuse.com/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTI6Mpk5hykG850MC7tHV153seukXwL8CeMFHyUVXV25jAP8LPG1Q",
+  "author": {
+    "name": "GraphMuse"
+  },
+  "tags": [
+    "Return",
+    "Protect",
+    "Secure"
+  ],
+  "description": "The GraphMuse API is a RESTful API that returns JSON. To protect your users' privacy, please use the secure HTTPS protocol. "
+}

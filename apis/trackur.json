@@ -1,0 +1,15 @@
+{
+  "id": "trackur",
+  "title": "Trackur",
+  "link": "http://www.trackur.com/sentiment-api-documentation",
+  "image": "http://www.trackur.com/wp-content/uploads/2013/10/Trackur-Hi-Res-Small.png",
+  "author": {
+    "name": "Trackur"
+  },
+  "tags": [
+    "Sentiment",
+    "Advantage",
+    "Analysis"
+  ],
+  "description": "With Trackur’s sentiment and influence API, you can take advantage of our automated sentiment analysis and InfluenceRank scoring."
+}

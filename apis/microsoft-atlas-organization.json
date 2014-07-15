@@ -1,0 +1,14 @@
+{
+  "id": "microsoft-atlas-organization",
+  "title": "Microsoft Atlas Organization",
+  "link": "http://msdn.microsoft.com/en-us/library/dd483235%28v=msads.10%29.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Provides",
+    "Information"
+  ],
+  "description": "This topic provides information about changes to the Microsoft Atlas Organization API."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "wikimeta",
+  "title": "Wikimeta",
+  "link": "http://www.wikimeta.com/api.html",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkfcmddADoi-Jfz8DLl7a6sH3SX1-pk7kzjYXoCvdb4POdBZ6F",
+  "author": {
+    "name": "Wikimeta"
+  },
+  "tags": [
+    "Access",
+    "Obtain",
+    "Online",
+    "Service"
+  ],
+  "description": "To use Wikimeta API, you need an access key. If you do not have an API key, you must first obtain one. This is done instantly: open your Wikimeta API account and obtain your key online in a second. Your account will give you access to extra semantic services, like the semantic html editor. "
+}

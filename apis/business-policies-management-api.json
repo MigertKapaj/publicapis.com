@@ -1,0 +1,14 @@
+{
+  "id": "business-policies-management-api",
+  "title": "Business Policies Management API",
+  "link": "https://www.x.com/developers/ebay/products/business-policy-services-api",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "eBay"
+  },
+  "tags": [
+    "New Business Policies",
+    "Efficient Listing"
+  ],
+  "description": "Business policies is an eBay feature that allows policies to be associated with listings instead of having to provide all of the information that is contained in a policy individually. Listings associated with a given policy can all be updated when the sellers update the policy. \neBay Business Policies Management API allow sellers to take advantage of the new business policies functionality to help sellers list more efficiently."
+}

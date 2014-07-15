@@ -1,0 +1,16 @@
+{
+  "id": "artfacts",
+  "title": "ArtFacts",
+  "link": "https://github.com/ArtFacts/api/blob/master/authentication.md",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Authenticated",
+    "Provided",
+    "Access",
+    "Data"
+  ],
+  "description": "You must be authenticated to use the ArtFacts.Net API. \nAuthentication is provided by HTTP Basic Access Authentication with the security of data transmission provided via HTTPS."
+}

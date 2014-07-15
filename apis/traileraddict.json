@@ -1,0 +1,16 @@
+{
+  "id": "traileraddict",
+  "title": "TrailerAddict",
+  "link": "http://www.traileraddict.com/trailerapi",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0hWjJO2DwDFA-3imuVoa1tzC3pvRHtE4ExId_Cz1rTszaKzaFbw",
+  "author": {
+    "name": "TrailerAddict"
+  },
+  "tags": [
+    "Embedding",
+    "Trailers",
+    "Provide",
+    "Publishers"
+  ],
+  "description": "The TrailerAddict API currently allows for easy embedding of trailers with variables such as width, offset, trailer count, trailers by which film and more. Not only does this page provide web publishers with links and variables to use the API, but coding examples as well. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mediacast",
+  "title": "MediaCast",
+  "link": "http://www.mediatile.com/software/api",
+  "image": "",
+  "author": {
+    "name": "MediaTile"
+  },
+  "tags": [
+    "Remote",
+    "Basic",
+    "Interface",
+    "Software"
+  ],
+  "description": "The MediaCast system provides an Application Programming Interface (API) for customers with software development capabilities. The API enables a remote Internet-connected application to perform many of the basic operations that can be done by a person through the user interface - only without the user interface or the person!The two most common usages for an API of this nature are extension of existing infrastructure management software, and extension of content management automation features."
+}

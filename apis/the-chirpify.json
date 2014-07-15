@@ -1,0 +1,16 @@
+{
+  "id": "the-chirpify",
+  "title": "The Chirpify",
+  "link": "https://chirpify.com/developers",
+  "image": "https://chirpify.com/images/logo.svg",
+  "author": {
+    "name": "Chirpify"
+  },
+  "tags": [
+    "Codes",
+    "Sandbox",
+    "Develop",
+    "Deploy"
+  ],
+  "description": "The Chirpify API is based around REST. We'll return JSON for your requests. We also use proper response codes indicating errors. If you have any feedback please let us know. We have both sandbox and production environments in which to develop, test and deploy your app."
+}

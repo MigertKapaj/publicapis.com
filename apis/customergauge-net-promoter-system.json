@@ -1,0 +1,13 @@
+{
+  "id": "customergauge-net-promoter-system",
+  "title": "CustomerGauge Net Promoter System",
+  "link": "https://www.mashape.com/customergauge/customergauge-net-promoter-system",
+  "image": "",
+  "author": {
+    "name": "customergauge"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "CustomerGauge has powerful input/output features for measuring Net Promoter System values, using our Application Programming Interface (API).\r\n\r\nThe CustomerGauge API set allows the automatic exchange of data between a remote system (server or other device)"
+}

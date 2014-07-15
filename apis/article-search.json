@@ -1,0 +1,16 @@
+{
+  "id": "article-search",
+  "title": "Article Search",
+  "link": "http://developer.nytimes.com/docs/article_search_api",
+  "image": "http://developer.nytimes.com/files/NYTDevLogo.png",
+  "author": {
+    "name": "Article Search"
+  },
+  "tags": [
+    "Retrieving",
+    "Headlines",
+    "Multimedia",
+    "Taxonomic"
+  ],
+  "description": "With the Article Search API, you can search New York Times articles from 1981 to today, retrieving headlines, abstracts, lead paragraphs, links to associated multimedia and other article metadata. Along with standard keyword searching, the API also offers faceted searching. The available facets include Times-specific fields such as sections, taxonomic classifiers and controlled vocabulary terms (names of people, organizations and geographic locations). For details on keyword and faceted searching,"
+}

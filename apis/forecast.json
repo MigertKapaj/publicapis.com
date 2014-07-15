@@ -1,0 +1,14 @@
+{
+  "id": "forecast",
+  "title": "Forecast",
+  "link": "https://developer.forecast.io/docs/v2",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDq1jQHuKJEq03jZJygAlkVsWHSEYsjgINd-Xt_DGM1HnACfwb4w",
+  "author": {
+    "name": "Forecast"
+  },
+  "tags": [
+    "Locations",
+    "Globe"
+  ],
+  "description": "The Forecast API lets you query for most locations on the globe, and returns."
+}

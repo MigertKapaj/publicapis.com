@@ -1,0 +1,16 @@
+{
+  "id": "alchemyapi",
+  "title": "AlchemyAPI",
+  "link": "http://www.programmableweb.com/api/alchemyapi",
+  "image": "http://www.programmableweb.com/images/logo2.png",
+  "author": {
+    "name": "ProgrammableWeb"
+  },
+  "tags": [
+    "Artificial",
+    "Technology",
+    "Cloud Based",
+    "Structured"
+  ],
+  "description": "AlchemyAPI offers artificial intelligence as a service. We teach computers to learn how to read, and apply our technology to text analysis through a cloud-based API. Our customers use AlchemyAPI to transform their unstructured content such as blog posts, news articles, social media posts and internal documents into much more useful structured data."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "twitdoc",
+  "title": "TwitDoc",
+  "link": "http://twitdoc.com/apihelp.asp",
+  "image": "http://twitdoc.com/images/TwitDoc500.gif",
+  "author": {
+    "name": "TwitDoc"
+  },
+  "tags": [
+    "Integrating",
+    "Exlpanation",
+    "Software",
+    "Product"
+  ],
+  "description": "If you are interested in integrating our TwitDoc API into your software, please send an API request to support [at] twitdoc [dot] com with a brief explanation of your software and how TwitDoc would be integrated. We'd love to work with you and appreciate your interest in our product.\n"
+}

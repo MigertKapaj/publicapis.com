@@ -1,0 +1,15 @@
+{
+  "id": "sil-http",
+  "title": "SIL HTTP",
+  "link": "http://www.silinfo.se/sil-http-api",
+  "image": "http://www.silinfo.se/sites/silinfo.se/files/silinfo_logo.png",
+  "author": {
+    "name": "SIL"
+  },
+  "tags": [
+    "Information",
+    "Baserade",
+    "Finns"
+  ],
+  "description": "SIL erbjuder ett HTTP-baserat API för åtkomst till information om läkemedelssubstanser. Vi avser att på sikt erbjuda HTTP-baserade API:er för åtkomst till annan läkemedelsinformation, som tex. den som finns åtkomlig via SIL SOAP API idag."
+}

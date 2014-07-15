@@ -1,0 +1,16 @@
+{
+  "id": "gandi",
+  "title": "Gandi",
+  "link": "http://doc.rpc.gandi.net/",
+  "image": "",
+  "author": {
+    "name": "Gandi"
+  },
+  "tags": [
+    "Remotes",
+    "RPC Protocol",
+    "Manage",
+    "Domain"
+  ],
+  "description": "Gandi provides remotes APIs using the XML-RPC protocol. It becomes easier to build your third party applications to manage your Gandi resources (domain, contact, hosting, etc)."
+}

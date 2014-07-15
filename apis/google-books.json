@@ -1,0 +1,15 @@
+{
+  "id": "google-books",
+  "title": "Google Books",
+  "link": "https://developers.google.com/books/docs/v1/getting_started",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Developer",
+    "Digitize",
+    "Authenticated"
+  ],
+  "description": "This document is intended for developers who want to write applications that can interact with the Google Books API. Google Books has a vision to digitize the world's books. You can use the Google Books API to search content, organize an authenticated user's personal library and modify it as well. "
+}

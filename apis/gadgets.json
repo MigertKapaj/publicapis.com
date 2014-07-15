@@ -1,0 +1,15 @@
+{
+  "id": "gadgets",
+  "title": "Gadgets",
+  "link": "https://developers.google.com/gadgets/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Describes",
+    "Methods",
+    "Information"
+  ],
+  "description": "This document describes the classes and methods in the gadgets.* namespace, some of which are feature-specific. For information on including features, see the Gadgets Specification. "
+}

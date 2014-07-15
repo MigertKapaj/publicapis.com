@@ -1,0 +1,13 @@
+{
+  "id": "poster-printing",
+  "title": "Poster Printing",
+  "link": "https://www.mashape.com/mimeoconnect/poster-printing",
+  "image": "",
+  "author": {
+    "name": "mimeoconnect"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API provides poster printing services for developers. It enables you to price and order commercially printed posters in different sizes, paper, lamination and mounting from within your web and mobile applications."
+}

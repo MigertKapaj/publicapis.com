@@ -1,0 +1,13 @@
+{
+  "id": "flyer-printing",
+  "title": "Flyer Printing",
+  "link": "https://www.mashape.com/mimeoconnect/flyer-printing",
+  "image": "",
+  "author": {
+    "name": "mimeoconnect"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API provides a flyer and brochure printing services for developers. It enables you to price and order commercially printed flyers and brochures with different folds, colors, paper, coating and with or without hold punches from within your web and mobile applications."
+}

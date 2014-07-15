@@ -1,0 +1,15 @@
+{
+  "id": "cooper-hewitt-national-design-museum-collections",
+  "title": "Cooper-Hewitt National Design Museum Collections",
+  "link": "https://collection.cooperhewitt.org/api/",
+  "image": "",
+  "author": {
+    "name": "Cooper-Hewitt National Design Museum Collections"
+  },
+  "tags": [
+    "Collections",
+    "Developers",
+    "Services"
+  ],
+  "description": "Cooper-Hewitt National Design Museum Collections provides a REST-ish style application programming interface (API) for developers to use in their products and services. API requests are made by passing one or more query parameters"
+}

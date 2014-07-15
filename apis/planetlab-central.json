@@ -1,0 +1,16 @@
+{
+  "id": "planetlab-central",
+  "title": "PlanetLab Central",
+  "link": "http://www.planet-lab.org/doc/plc_api",
+  "image": "http://www.planet-lab.org/sites/default/themes/chameleon/planetlab/logo.png",
+  "author": {
+    "name": "PlanetLab"
+  },
+  "tags": [
+    "Database",
+    "Accessed",
+    "Information",
+    "Sites"
+  ],
+  "description": "The PlanetLab Central API (PLCAPI) is the interface through which the PlanetLab Central database should be accessed and maintained. The API is used by the website, by nodes, by automated scripts, and by users to access and update information about users, nodes, sites, slices, and other entities maintained by the database."
+}

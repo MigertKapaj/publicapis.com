@@ -1,0 +1,16 @@
+{
+  "id": "the-easy",
+  "title": "The Easy",
+  "link": "http://theeasyapi.com",
+  "image": "http://datamob.org/media/detail_easyapi.png?1269404848",
+  "author": {
+    "name": "The Easy"
+  },
+  "tags": [
+    "Data",
+    "Application",
+    "Reliable",
+    "World"
+  ],
+  "description": "There has been a fundamental shift in the way that API development has been approached and it's no surprise that with that shift there comes a new way of thinking about data and application development. Data is needed in all applications and how that data is consumed and the methods at which it's displayed means nothing if the data isn't accurate or reliable. For the past four years The Easy API has been delivering highly reliable accurate data and is consumed by some of the largest SEO companies in the world."
+}

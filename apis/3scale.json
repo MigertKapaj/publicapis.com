@@ -1,0 +1,16 @@
+{
+  "id": "3scale",
+  "title": "3scale",
+  "link": "http://www.3scale.net/crawlerinfo/crawlerinfo",
+  "image": "http://www.3scale.net/wp-content/uploads/2012/03/logo-3scale.png",
+  "author": {
+    "name": "3scale"
+  },
+  "tags": [
+    "Internal",
+    "Vibrant",
+    "Business",
+    "Dubbed"
+  ],
+  "description": "As software becomes ubiquitous in today’s business processes, the means by which organizations, partners and customers interface with this software are becoming a critical differentiator in the market place. The Application Programming Interfaces (APIs) that form these interfaces are the means to fuel internal innovation, reach new customers, extend products and create vibrant partner ecosystems.The resulting shift in the way business works is giving rise to huge new opportunities for both individual organizations and global commerce as awhole – this is being dubbed the API Economy."
+}

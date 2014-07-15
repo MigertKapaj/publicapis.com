@@ -1,0 +1,15 @@
+{
+  "id": "astroboa",
+  "title": "Astroboa",
+  "link": "http://www.astroboa.org/section/astroboa-api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpu-SeOjW1wKnIWG2-RGhSZTtLiHFcI7FqD8DMc2Ds66dWrjZM",
+  "author": {
+    "name": "Astroboa"
+  },
+  "tags": [
+    "Service",
+    "Understand",
+    "Managing"
+  ],
+  "description": "It is highly recommended to read about Astroboa Open Content Model prior start using any of the APIs. A basic understanding of how a content model is structured will help to understand how to use the services offered through the APIs for managing content."
+}

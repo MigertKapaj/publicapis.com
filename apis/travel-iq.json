@@ -1,0 +1,15 @@
+{
+  "id": "travel-iq",
+  "title": "Travel IQ",
+  "link": "https://booking-apiv3.travel-iq.com/bookings",
+  "image": "https://booking-apiv3.travel-iq.com/images/logo_traveliq.png",
+  "author": {
+    "name": "Travel IQ"
+  },
+  "tags": [
+    "Access",
+    "Different",
+    "Accessible"
+  ],
+  "description": "The API offers programmatic access to Travel IQ's translations. Translations are strings of text in different languages, which are accessible via a hierarchy of keys."
+}

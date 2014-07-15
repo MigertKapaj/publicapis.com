@@ -1,0 +1,15 @@
+{
+  "id": "avin",
+  "title": "AVIN",
+  "link": "http://www.avin.cc/api-documentation/",
+  "image": "http://www.avin.cc/wp-content/themes/tipztheme/images/AVIN.gif",
+  "author": {
+    "name": "AVIN"
+  },
+  "tags": [
+    "Service",
+    "Access",
+    "Information"
+  ],
+  "description": "The AVIN API is a service that allows automatic access to AVIN’s up-to-date wine information. For service access please contact the email address: info@avin.cc. Below you’ll find the technical information related to these services."
+}

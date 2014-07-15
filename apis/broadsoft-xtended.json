@@ -1,0 +1,15 @@
+{
+  "id": "broadsoft-xtended",
+  "title": " BroadSoft Xtended",
+  "link": "http://developer.broadsoft.com/node/22",
+  "image": "http://developer.broadsoft.com/sites/default/themes/broadsoft/new_images/logo-broadsoft.png",
+  "author": {
+    "name": " BroadSoft Xtended"
+  },
+  "tags": [
+    "Supports",
+    "Promotes",
+    "Evangelize"
+  ],
+  "description": "The BroadSoft Xtended Developers Program supports third party development to extend the value of the BroadWorks platform. The program promotes and evangelizes the BroadWorks Xtended Services Interfaces.\n"
+}

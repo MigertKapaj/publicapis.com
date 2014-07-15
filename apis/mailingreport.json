@@ -1,0 +1,15 @@
+{
+  "id": "mailingreport",
+  "title": "MailingReport",
+  "link": "http://fr.mailingreport.com/api/",
+  "image": "http://fr.mailingreport.com/images/front/logo.png?e23505e",
+  "author": {
+    "name": "MailingReport"
+  },
+  "tags": [
+    "Authenticate",
+    "Account",
+    "Logged"
+  ],
+  "description": "We use the HTTP Basic Authentication to authenticate API requests. You can get your API key from the Account Settings page when logged into your MailingReport account."
+}

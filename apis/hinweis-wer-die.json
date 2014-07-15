@@ -1,0 +1,13 @@
+{
+  "id": "hinweis-wer-die",
+  "title": "Hinweis: wer die",
+  "link": "http://www.openthesaurus.de/about/api",
+  "image": "http://www.openthesaurus.de/static/images/openthesaurus-logo.png",
+  "author": {
+    "name": "openthesaurus.de"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Hinweis: wer die API über reines Testen hinaus benutzt, sollte sich bitte vorher bei feedback at openthesaurus.de melden. Nur so können wir rechtzeitig alle Nutzer kontaktieren, um zum Beispiel über mögliche Änderungen am Ausgabeformat zu informieren."
+}

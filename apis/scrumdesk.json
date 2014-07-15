@@ -1,0 +1,15 @@
+{
+  "id": "scrumdesk",
+  "title": "ScrumDesk",
+  "link": "http://www.scrumdesk.com/scrumdesk-api/",
+  "image": "http://app.livechatoo.com/scrumdesk/files/client-embed/logo.png",
+  "author": {
+    "name": "ScrumDesk"
+  },
+  "tags": [
+    "Connect",
+    "Project",
+    "Applications"
+  ],
+  "description": "ScrumDesk API provides a possibility to connect to project repositories via HTTP from 3rd party applications."
+}

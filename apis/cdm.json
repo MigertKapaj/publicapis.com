@@ -1,0 +1,15 @@
+{
+  "id": "cdm",
+  "title": "CDM",
+  "link": "http://cybertaxonomy.eu/cdmlib/getting-started.html",
+  "image": "http://cybertaxonomy.eu/cdmlib/images/header.png",
+  "author": {
+    "name": "CDM"
+  },
+  "tags": [
+    "Resources",
+    "Accessing",
+    "Media"
+  ],
+  "description": "The CDM REST API is a RESTful interface to resources stored in the CDM. The RESTful architecture allows accessing the various resources like Taxa, Names, References, Media, etc by stable URIs. "
+}

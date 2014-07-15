@@ -1,0 +1,16 @@
+{
+  "id": "disdar",
+  "title": "Disdar",
+  "link": "http://disdar.com/api_documentation.html",
+  "image": "http://disdar.com/assets/img/logo_disdar_blue.png",
+  "author": {
+    "name": "Disdar"
+  },
+  "tags": [
+    "Intrection",
+    "Points",
+    "Read",
+    "Updates"
+  ],
+  "description": "Following REST standards, we represent all interaction points as resources. Resources are identified by a URL such as https://api.disdar.com/<version>/documents and typically allow you to read/create/update and delete the data that is represented by the resource."
+}

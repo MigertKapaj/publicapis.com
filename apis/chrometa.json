@@ -1,0 +1,15 @@
+{
+  "id": "chrometa",
+  "title": "Chrometa",
+  "link": "http://www.chrometa.com/developers/",
+  "image": "http://www.chrometa.com/images/chrometa-logo-silver.png",
+  "author": {
+    "name": "Chrometa"
+  },
+  "tags": [
+    "Data",
+    "Returned",
+    "Progress"
+  ],
+  "description": "Chrometa provides a simple rest-based API to import data into your application. A user generates a key for your application to use, and you can pull data for that user from the URL show below. Data is returned a day at a time, which gives you a good way to update a progress bar if you wish to pull more than one day's worth of data."
+}

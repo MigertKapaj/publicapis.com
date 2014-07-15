@@ -1,0 +1,16 @@
+{
+  "id": "axa-banques",
+  "title": "AXA Banques",
+  "link": "https://developer.axabanque.fr/api/index.html",
+  "image": "",
+  "author": {
+    "name": "AXA Banques"
+  },
+  "tags": [
+    "Data",
+    "Secure",
+    "Possible",
+    "Condition"
+  ],
+  "description": "This is a communication protocol to access the Bank's information system which contains client banking data: Cash account data and all credit cards payments. In other words, this is a secure \"entry door\" allowing software developers to make the best possible usage of customer retail banking data (cash accounts and credit cards), under the condition the client has agreed to. None of the client's access codes (user id and password) will be disclosed at any point in time to developers. Data are updated every night. "
+}

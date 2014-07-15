@@ -1,0 +1,16 @@
+{
+  "id": "lunapic-developer",
+  "title": "Lunapic Developer",
+  "link": "http://www132.lunapic.com/editor/?action=api",
+  "image": "http://www132.lunapic.com/editor/images/lunapic-76.png",
+  "author": {
+    "name": "Lunapic"
+  },
+  "tags": [
+    "Interaction",
+    "Programmer",
+    "Image",
+    "Edits"
+  ],
+  "description": "Want to integrate Lunapic Effects into your online application? Lunapic offers quick and easy API access to most effects on the site that do not involve user interaction. It's all done through a call to our API url. This is a Programmer interface, it's the backend part of Lunapic that does image edits, and does not included front end tools. You make a new front end. "
+}

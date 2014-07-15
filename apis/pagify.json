@@ -1,0 +1,15 @@
+{
+  "id": "pagify",
+  "title": "Pagify",
+  "link": "https://github.com/pagify/php-client",
+  "image": "http://alpha.pagify.io/assets/logo-6b895f3bdd8df5edfcd9dd9a68da46c7.png",
+  "author": {
+    "name": "Pagify alpha"
+  },
+  "tags": [
+    "Designer",
+    "Formatting",
+    "Individual"
+  ],
+  "description": "Pagify features a What-You-See-Is-What-You-Get (WYSIWYG) document designer that works completely within the browser. It offers a comprehensive list of tools for designing and formatting documents, down to the individual pixels."
+}

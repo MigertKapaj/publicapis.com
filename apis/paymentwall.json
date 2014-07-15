@@ -1,0 +1,13 @@
+{
+  "id": "paymentwall",
+  "title": "Paymentwall",
+  "link": "http://www.paymentwall.com/en/getting-started",
+  "image": "http://www.paymentwall.com/images/sprite.png",
+  "author": {
+    "name": "Paymentwall"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

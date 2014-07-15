@@ -1,0 +1,16 @@
+{
+  "id": "tuhunga",
+  "title": "Tuhunga",
+  "link": "http://www.tuhunga.com/plans",
+  "image": "http://www.tuhunga.com/images/tuhungaheader.png",
+  "author": {
+    "name": "Tuhunga"
+  },
+  "tags": [
+    "Data",
+    "Spend",
+    "Checking",
+    "Begin"
+  ],
+  "description": "We've spent the last two decades working with data. Most of it was locked up in spreadsheets, documents and web pages. And far too much of our time was spent getting it into a form that we could use - transcribing, reviewing, and double checking information - before we could even begin to analyze it."
+}

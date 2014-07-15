@@ -1,0 +1,15 @@
+{
+  "id": "assay-depot",
+  "title": "Assay Depot",
+  "link": "http://assaydepot.github.io/api/json",
+  "image": "http://assaydepot.github.io/api/images/logo.png",
+  "author": {
+    "name": "Assay Depot"
+  },
+  "tags": [
+    "Access",
+    "Services",
+    "Authenticate"
+  ],
+  "description": "Assay Depot's JSON API gives read-only access to vendors and services. To use the API you must authenticate using OAuth2."
+}

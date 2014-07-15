@@ -1,0 +1,15 @@
+{
+  "id": "parsel",
+  "title": "Parsel",
+  "link": "http://www.parsel.io",
+  "image": "http://www.parsel.io/images/parsel-logo.png",
+  "author": {
+    "name": "Parsel"
+  },
+  "tags": [
+    "Integration",
+    "Libraries",
+    "Java"
+  ],
+  "description": "Integration to your system is a breeze with Parsel. We offer libraries for Ruby, PHP, Python, Java, and Node as well as many others."
+}

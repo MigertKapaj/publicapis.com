@@ -1,0 +1,16 @@
+{
+  "id": "dirble",
+  "title": "Dirble",
+  "link": "http://dirble.com/api",
+  "image": "http://i.creativecommons.org/l/by/3.0/88x31.png",
+  "author": {
+    "name": "Dirble"
+  },
+  "tags": [
+    "Radio",
+    "Store",
+    "Station",
+    "Functional"
+  ],
+  "description": "The idea came when we wanted to find a open radio directory to our radio app on App Store. This site is meant to be totally open. We will only check incoming stations for acceptance so they actually work and is functional, this is to secure a good database containing working stations."
+}

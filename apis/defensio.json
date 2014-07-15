@@ -1,0 +1,16 @@
+{
+  "id": "defensio",
+  "title": "Defensio",
+  "link": "http://www.defensio.com/api_1",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS00F6t3CHdmzYMg3q00gx2YpNM5LEof1VpkeBFWhT7OvQ-xguH",
+  "author": {
+    "name": "Defensio"
+  },
+  "tags": [
+    "Social",
+    "Developers",
+    "Service",
+    "Web"
+  ],
+  "description": "The Defensio service is backed by Websense® and helps protect social media site owners from spam, malware, and other threats embedded in user-generated content. Our simple API exposes a handful of functions that return structured responses, making it as convenient as possible for developers to build highly usable client apps on top of the Defensio service. It is our hope that the Defensio service API becomes an important part of the Web's ecosystem easing the burden of spam and threats across all types of public social Web platforms. "
+}

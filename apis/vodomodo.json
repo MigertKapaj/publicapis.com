@@ -1,0 +1,17 @@
+{
+  "id": "vodomodo",
+  "title": "Vodomodo",
+  "link": "http://www.vodomodo.com/?p=docs",
+  "image": "http://www.vodomodo.com/images/logo.gif",
+  "author": {
+    "name": "Vodomodo"
+  },
+  "tags": [
+    "Functions",
+    "Detail",
+    "Video",
+    "Active",
+    "System"
+  ],
+  "description": "The Vodomodo API supports three main API functions. They are the tour list, tour detail and video key calls. Each of these calls returns an XML result which is formatted to answer the API query. The tour list call returns a list of the currently active tours in the Vodomodo system. The tour detail call returns all of the details for a specific tour in the Vodomodo system. The video key call returns a key that allows access to one of the videos on the Vodomodo platform. "
+}

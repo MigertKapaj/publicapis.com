@@ -1,0 +1,15 @@
+{
+  "id": "slice",
+  "title": "Slice",
+  "link": "https://www.slice.com/platform",
+  "image": "https://djcgg0wrlysb3.cloudfront.net/30631/images/logo.png",
+  "author": {
+    "name": "Slice"
+  },
+  "tags": [
+    "Platform",
+    "Extensions",
+    "Interface"
+  ],
+  "description": "Register for a Slice API key to build applications on the Slice platform, and you can put all your great ideas for Slice improvements, extensions, and multi-platform interfaces to work. "
+}

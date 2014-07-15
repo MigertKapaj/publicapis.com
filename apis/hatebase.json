@@ -1,0 +1,16 @@
+{
+  "id": "hatebase",
+  "title": "Hatebase",
+  "link": "http://www.hatebase.org/connect_api",
+  "image": "http://www.hatebase.org/resources/img/logo.png",
+  "author": {
+    "name": "Hatebase"
+  },
+  "tags": [
+    "Data",
+    "Progress",
+    "Messages",
+    "Deprecated"
+  ],
+  "description": "The Hatebase API allows authorized users to retrieve Hatebase data asynchronously for use in their own applications. The API is a continual work in progress, so as new vesions of the API become available, old versions will be retired (after a suitable transition period). If you notice that your API calls have stopped returning data, please check the returned status messages to ensure your API URL hasn't become deprecated. Still having problems? Check our FAQs."
+}

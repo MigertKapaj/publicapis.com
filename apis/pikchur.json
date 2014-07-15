@@ -1,0 +1,15 @@
+{
+  "id": "pikchur",
+  "title": "Pikchur",
+  "link": "http://www.pikchur.com/api",
+  "image": "http://pikchur.com/img/static/pikchur_logo.png",
+  "author": {
+    "name": "Pikchur"
+  },
+  "tags": [
+    "Mimics",
+    "Integrated",
+    "Past"
+  ],
+  "description": "Our API mimics the ones you already integrated in the past, and all you need to do is\nChange API End point to http://api.pikchur.com/simple/upload"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "metallizer.dk",
+  "title": "Metallizer.dk",
+  "link": "http://metallizer.dk/content/xml-http-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRggx7WXAo6BbrfZSN3QGrbOt9OFcrOoduI-Zhy0Duam6a0KDM5EQ",
+  "author": {
+    "name": "Metallizer.dk"
+  },
+  "tags": [
+    "Response",
+    "Data",
+    "Album",
+    "Track"
+  ],
+  "description": "The API is very simple: simply request a certain URL to generate a response with data about a random metal album. The document contains the randomly generated artist name, album title, and track list of song titles."
+}

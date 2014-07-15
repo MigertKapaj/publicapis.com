@@ -1,0 +1,15 @@
+{
+  "id": "celoxis",
+  "title": "Celoxis",
+  "link": "http://www.celoxis.com/integration.php",
+  "image": "http://www.celoxis.com/images/logo.png",
+  "author": {
+    "name": "Celoxis"
+  },
+  "tags": [
+    "Software",
+    "Accounting",
+    "Customers"
+  ],
+  "description": "The Celoxis API enables you to write custom software to integrate popular tools like Microsoft Outlook, Salesforce or your in-house software like ERP, accounting, bug tracking etc. with Celoxis project management system. The API is available to both hosted and installable version customers."
+}

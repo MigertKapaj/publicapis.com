@@ -1,0 +1,13 @@
+{
+  "id": "flight-schedules-multi-day-rest-method",
+  "title": "Flight Schedules - Multi Day - REST Method",
+  "link": "https://www.mashape.com/flightlookup/flight-schedules-multi-day-rest-method",
+  "image": "",
+  "author": {
+    "name": "flightlookup"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "FlightLookup Route Service - Want to know the regular service between two airports over a date range? *Returns information for a specific route over a range of dates, *Flight Number, Origin, Destination, Times, Start Date End Date"
+}

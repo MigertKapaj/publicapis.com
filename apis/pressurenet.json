@@ -1,0 +1,15 @@
+{
+  "id": "pressurenet",
+  "title": "pressureNET",
+  "link": "http://pressurenet.cumulonimbus.ca/",
+  "image": "http://pressurenet.cumulonimbus.ca/static/images/logo-pn.png",
+  "author": {
+    "name": "pressureNET"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Service"
+  ],
+  "description": "This document describes our secure API for access to live pressureNET data called pressureNET Live. This is an early revision and is subject to change. Please email us with any questions or comments you have. We are dedicated to\nimproving this service as much as possible."
+}

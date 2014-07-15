@@ -1,0 +1,13 @@
+{
+  "id": "picboxinc-open-geo-engine",
+  "title": "picboxinc open geo engine",
+  "link": "https://www.mashape.com/picbox/picboxinc-open-geo-engine",
+  "image": "",
+  "author": {
+    "name": "picbox"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "'picboxinc open geo engine' is the geo storage and a high-performance query engine.  It can save the location info. And can query the info by the location.\r\nThe primary technology point is base on the cloud technology.\r\n\r\nPlease download http://opensdk.picboxinc.com/geo_open_api_guide.pdf for more details!"
+}

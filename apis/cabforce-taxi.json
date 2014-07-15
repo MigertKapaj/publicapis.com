@@ -1,0 +1,16 @@
+{
+  "id": "cabforce-taxi",
+  "title": "Cabforce Taxi",
+  "link": "https://developer.cabforce.com/bookingengine/#blended",
+  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/cabforce-ltd/2445580055852/profiles/logos/large/logo.png",
+  "author": {
+    "name": "Cabforce"
+  },
+  "tags": [
+    "Services",
+    "Booking",
+    "Enabling",
+    "Provides"
+  ],
+  "description": "Cabforce Partner Program enables partners to integrate taxi bookings to existing services and booking flows in various ways. It offers range of options from very easy to deploy branded site and linking to full API integration, enabling the taxi booking to be on the same transaction as the main product. The Cabforce tech team helps partners with integration and provides example resources to speed up development. See image below for overview of integration methods."
+}

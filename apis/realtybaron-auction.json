@@ -1,0 +1,15 @@
+{
+  "id": "realtybaron-auction",
+  "title": "RealtyBaron Auction",
+  "link": "http://api.realtybaron.com/answers/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrioxz9EJBhnDGlNqPs7UNC8Ne7NWiDvEfCCH8BwuRlsLlZ_7PyQ",
+  "author": {
+    "name": "RealtyBaron Auction"
+  },
+  "tags": [
+    "Serving",
+    "Choice",
+    "Check"
+  ],
+  "description": "Welcome to the API for RealtyBaron.com! We've got REST endpoints serving up your choice of XML or JSON. Please feel welcome to to check it out!"
+}

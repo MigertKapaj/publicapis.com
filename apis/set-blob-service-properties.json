@@ -1,0 +1,14 @@
+{
+  "id": "set-blob-service-properties",
+  "title": "Set Blob Service Properties",
+  "link": "http://msdn.microsoft.com/en-us/library/hh452235.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Service",
+    "Properties"
+  ],
+  "description": "The Set Blob Service Properties operation sets properties for a storage account’s Blob service endpoint, including properties for Storage Analytics and CORS (Cross-Origin Resource Sharing) rules."
+}

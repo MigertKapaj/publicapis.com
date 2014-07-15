@@ -1,0 +1,15 @@
+{
+  "id": "logo",
+  "title": "Logo",
+  "link": "http://www.xignite.com/product/XigniteLogos/api/GetLogo/",
+  "image": "http://www.xignite.com/img/global/logo-text.png",
+  "author": {
+    "name": "Xignite"
+  },
+  "tags": [
+    "Offers",
+    "Percent",
+    "Listed"
+  ],
+  "description": "This API offers company logos for about 70% percent of US listed companies. "
+}

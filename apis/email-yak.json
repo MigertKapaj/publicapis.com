@@ -1,0 +1,15 @@
+{
+  "id": "email-yak",
+  "title": "Email Yak",
+  "link": "http://docs.emailyak.com/post-requests.html",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQVWU01IPUKpmUpRQRLkRlzKvF2b__OVbnUKLx5FhXMFA9R48x9",
+  "author": {
+    "name": "Email Yak"
+  },
+  "tags": [
+    "Ensure",
+    "Libraries",
+    "Determine"
+  ],
+  "description": "Post Authentication is made available so you can ensure that the POST request originated from Email Yak. Using common cryptographic libraries included in all languages, you can determine if Email Yak sent the request or a potentially malicious user."
+}

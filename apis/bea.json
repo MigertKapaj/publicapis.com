@@ -1,0 +1,15 @@
+{
+  "id": "bea",
+  "title": "BEA",
+  "link": "http://www.bea.gov/API/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNYLPsi8nXHVS8MHblvWCit7_l2Yalo7_muKCPcEIs10V5YYoI",
+  "author": {
+    "name": "BEA"
+  },
+  "tags": [
+    "Published",
+    "Data",
+    "Methods"
+  ],
+  "description": "The data API provides programmatic access to BEA published economic statistics using industry-standard methods and procedures. BEA's data API includes methods for retrieving a subset of our statistical data and the meta-data that describes it."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "embrace-grid",
+  "title": "EMBRACE Grid",
+  "link": "http://conscore.embl.de/webservice/CS.wsdl",
+  "image": "http://conscore.embl.de/webservice/EMBRACE_logo.gif",
+  "author": {
+    "name": "EMBRACE Grid"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

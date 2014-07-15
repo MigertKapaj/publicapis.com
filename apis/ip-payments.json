@@ -1,0 +1,15 @@
+{
+  "id": "ip-payments",
+  "title": "IP Payments",
+  "link": "http://www.ippayments.com/online-payment/api/",
+  "image": "http://www.ippayments.com/wp-content/uploads/2013/02/IP_Payments_Logo_WebsiteHomepage.png",
+  "author": {
+    "name": "IP Payments"
+  },
+  "tags": [
+    "Consumed",
+    "Processing",
+    "Secure"
+  ],
+  "description": "The API can be seamlessly consumed by client applications and instantly enable real time transaction processing from within these applications. Transactions are processed via an industry standard secure https connection with all information 128bits encrypted."
+}

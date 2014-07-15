@@ -1,0 +1,15 @@
+{
+  "id": "osmek",
+  "title": "Osmek",
+  "link": "http://osmek.com/docs/api-overview",
+  "image": "http://osmek.com/assets/images/logo-v3-sm.png",
+  "author": {
+    "name": "Osmek"
+  },
+  "tags": [
+    "Access",
+    "Interact",
+    "External"
+  ],
+  "description": "Osmek's API allows you to access and interact with all the information in your account from any external location, and in a number of different formats. "
+}

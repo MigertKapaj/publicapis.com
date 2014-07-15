@@ -1,0 +1,16 @@
+{
+  "id": "clickmeeting",
+  "title": "ClickMeeting",
+  "link": "http://dev.clickmeeting.com/api-doc/",
+  "image": "http://dev.clickmeeting.com/wp-content/themes/cmdevzone/images/sprite-header.png",
+  "author": {
+    "name": "ClickMeeting"
+  },
+  "tags": [
+    "Ability",
+    "Conference",
+    "Intended",
+    ""
+  ],
+  "description": "ClickMeeting is a communication platform that offers the ability to create and manage virtual meetings, conference rooms and teleconference centers. The API documentation below is intended for ClickMeeting account users who want to integrate their accounts with their own platform solutions."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lookupibis",
+  "title": "Lookup/Ibis",
+  "link": "http://www.lookup.cam.ac.uk/doc/ws-doc/",
+  "image": "http://www.lookup.cam.ac.uk/camstyle3/images/ucs.gif",
+  "author": {
+    "name": "UCS"
+  },
+  "tags": [
+    "Read",
+    "Write",
+    "Database",
+    "Principal"
+  ],
+  "description": "The Lookup/Ibis web service API provides a read/write HTTP-based API for querying and manipulating data in the Lookup/Ibis database,loosely following RESTful principles.\n        "
+}

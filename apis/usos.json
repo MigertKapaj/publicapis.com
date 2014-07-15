@@ -1,0 +1,15 @@
+{
+  "id": "usos",
+  "title": "USOS",
+  "link": "http://apps.usos.edu.pl/developers/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtVPhhTXkdRFCqpXTLPGVIc1NWgQvbv0jPL0uO9UqOIGGaXkpH8w",
+  "author": {
+    "name": "USOS"
+  },
+  "tags": [
+    "Protocol",
+    "Access",
+    "Server"
+  ],
+  "description": "USOS API is a simple and fat-free REST-like protocol, which allows developers to access academic database. This particular USOS API installation is called the mother server (what's a mother server?). "
+}

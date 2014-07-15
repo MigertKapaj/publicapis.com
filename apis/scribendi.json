@@ -1,0 +1,16 @@
+{
+  "id": "scribendi",
+  "title": "Scribendi",
+  "link": "https://www.scribendi.com/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST7PbYdMTKWvfwzIwU6W6l5HVQPbutq9qUpgs7vnYehiEnIEW0Rw",
+  "author": {
+    "name": "Scribendi"
+  },
+  "tags": [
+    "Proofreading",
+    "Workflow",
+    "Documents",
+    "Outsource"
+  ],
+  "description": "Our editing services API allows you to easily integrate Scribendi.com's editing and proofreading into the workflow of your documents. You can outsource your editing and proofreading needs to an objective third party, streamline your document revision process, and save yourself time and money.  Your business writing will be improved in a secure and confidential environment."
+}

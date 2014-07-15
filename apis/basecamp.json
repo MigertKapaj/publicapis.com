@@ -1,0 +1,15 @@
+{
+  "id": "basecamp",
+  "title": "Basecamp",
+  "link": "https://github.com/37signals/bcx-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Compatible",
+    "Integrations",
+    "Updated"
+  ],
+  "description": "The all-new Basecamp has an all-new API. It is not compatible with the Basecamp Classic API. All integrations will have to be updated to use the new API. The core ingredients are still the same, though."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pidoco",
+  "title": "Pidoco",
+  "link": "https://pidoco.com/en/help/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3Lh9JjToqsOJXiLfbFwjaGpcIs3-fV-Hltm4xJC4qS2p6-JN2",
+  "author": {
+    "name": "Pidoco"
+  },
+  "tags": [
+    "Developer",
+    "Applications",
+    "Delete",
+    "Resource"
+  ],
+  "description": "The pidoco API provides an interface to fellow developers who want to include pidoco prototypes into other third party applications or write their own simple tools around pidoco. We tried our very best to follow the REST principle. Using of the HTTP request methods POST, GET, PUT, DELETE we allow the different operations to create, read, update, or delete a resource. Each resource is mapped to a specific URL as described on the sub-pages of this section. "
+}

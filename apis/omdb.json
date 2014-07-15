@@ -1,0 +1,15 @@
+{
+  "id": "omdb",
+  "title": "OMDb ",
+  "link": "http://OMDbAPI.com",
+  "image": "http://omdbapi.com/header.png",
+  "author": {
+    "name": "OMDb "
+  },
+  "tags": [
+    "Donate",
+    "Database",
+    "Format"
+  ],
+  "description": "For those of you that donate, you can now download monthly updates of the OMDb database in TSV format! TSV files can easily be imported to any database (Oracle/SQL/mySQL). "
+}

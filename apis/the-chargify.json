@@ -1,0 +1,16 @@
+{
+  "id": "the-chargify",
+  "title": "The Chargify",
+  "link": "http://docs.chargify.com/api-introduction",
+  "image": "",
+  "author": {
+    "name": "Chargify "
+  },
+  "tags": [
+    "Design",
+    "Resources",
+    "HTTP",
+    "Data"
+  ],
+  "description": "The API attempts to conform to the RESTful design principles. You interact with the resources exposed via the API by accessing resource collection and element URIs using the HTTP verbs (GET, POST, PUT, and DELETE).  Chargify accepts and returns both JSON and XML data via the API."
+}

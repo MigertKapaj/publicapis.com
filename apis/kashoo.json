@@ -1,0 +1,14 @@
+{
+  "id": "kashoo",
+  "title": "Kashoo",
+  "link": "https://api.kashoo.com/",
+  "image": "https://api.kashoo.com/img/logo.png",
+  "author": {
+    "name": "Kashoo"
+  },
+  "tags": [
+    "Integrating",
+    "Processes"
+  ],
+  "description": "Kashoo provides a comprehensive API for integrating Kashoo with your other applications and processes. "
+}

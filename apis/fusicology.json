@@ -1,0 +1,13 @@
+{
+  "id": "fusicology",
+  "title": "Fusicology",
+  "link": "http://api.fusicology.com/",
+  "image": "http://api.fusicology.com/img/apisplash.png",
+  "author": {
+    "name": "Fusicology"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

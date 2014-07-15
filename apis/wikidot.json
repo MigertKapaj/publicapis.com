@@ -1,0 +1,15 @@
+{
+  "id": "wikidot",
+  "title": "Wikidot",
+  "link": "https://proxykey.wikidot.com/learn-more",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS5Lji1ac6L6dkRZcDRZ7yg_Pc3oz7ROe3Yr6yrYJri7yQmmU5z",
+  "author": {
+    "name": "ProxyKey"
+  },
+  "tags": [
+    "Server",
+    "Custom",
+    "Keylimit"
+  ],
+  "description": "The idea of ProxyKey is to create a server that acts as a proxy to the Wikidot XML-RPC API. Here is what it will be designed to do:\ngenerate custom keys for each applicationlog API usage for each keylimit permissions for each ProxyKey key; e.g. allowing a certain key to only access pages from a certain sitedelete proxy keys"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "supermarket",
+  "title": "Supermarket",
+  "link": "http://www.supermarketapi.com/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRvYj7yCvtIlW0IlZmzYOZTs3zK-qruduHG44rfQzg-9wFreVDl",
+  "author": {
+    "name": "Supermarket"
+  },
+  "tags": [
+    "Problem",
+    "Created"
+  ],
+  "description": "Knowing the weight of the problem, AisleFinder Labs created Supermarket API. "
+}

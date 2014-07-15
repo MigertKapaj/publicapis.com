@@ -1,0 +1,15 @@
+{
+  "id": "diffbot",
+  "title": "Diffbot",
+  "link": "http://www.diffbot.com/products/automatic/",
+  "image": "http://www.diffbot.com/img/sprite-global.png?v2",
+  "author": {
+    "name": "Diffbot"
+  },
+  "tags": [
+    "Web",
+    "Extraction",
+    "Processed"
+  ],
+  "description": "The Diffbot Analyze API (formerly the Page Classifier API) will visually analyze a web page and determine which Diffbot extraction API -- if any -- is appropriate. Page-types that match a supported extraction API will be automatically processed by that API."
+}

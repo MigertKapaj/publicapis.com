@@ -1,0 +1,15 @@
+{
+  "id": "mindflash",
+  "title": "Mindflash",
+  "link": "https://github.com/Mindflash/mf-api-example",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Service",
+    "Managing",
+    "Groups"
+  ],
+  "description": "The Mindflash API is a simple REST service that allows clients to carry out simple tasks within their own account such as managing users, managing user groups, enrolling trainees in courses/series and getting basic reporting information."
+}

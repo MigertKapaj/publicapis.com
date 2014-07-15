@@ -1,0 +1,16 @@
+{
+  "id": "gyft",
+  "title": " Gyft",
+  "link": "http://developer.gyft.com/docs",
+  "image": "http://developer.gyft.com/files/gyft-logo.png",
+  "author": {
+    "name": " Gyft"
+  },
+  "tags": [
+    "Manages",
+    "Provides",
+    "Minimal",
+    "Reseller"
+  ],
+  "description": "The Gyft platform manages virtual gift cards via mobile apps. Gyft provides a series of REST APIs, which enables reseller’s third party applications to offer their own end-to-end virtual gift card programs with minimal effort. "
+}

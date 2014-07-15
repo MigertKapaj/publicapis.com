@@ -1,0 +1,15 @@
+{
+  "id": "nyc-opendata",
+  "title": "NYC OpenData",
+  "link": "https://data.cityofnewyork.us/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT-aBTA53jrwnQfgZwotW_XdO1EpZFq74cc_Uafl7yyrSUvPMJp",
+  "author": {
+    "name": "NYC OpenData"
+  },
+  "tags": [
+    "Parking",
+    "Data",
+    "Provided"
+  ],
+  "description": "Track and analyze parking tickets and camera violations using data provided by the New York City Department of Finance (DOF), now available through NYC OpenData."
+}

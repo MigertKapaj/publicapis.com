@@ -1,0 +1,15 @@
+{
+  "id": "thriftdb",
+  "title": "ThriftDB",
+  "link": "http://www.thriftdb.com/",
+  "image": "http://n1.octostatic.com/thriftdb/global/thriftdb_logo.779e099c5eea0e36b83915d04f38d7df.png",
+  "author": {
+    "name": "ThriftDB"
+  },
+  "tags": [
+    "Protocol",
+    "Modify",
+    "Searches"
+  ],
+  "description": "ThriftDB is built on top of the Thrift serialization protocol. Using ThriftDB, you can add/delete/modify attributes on the fly without any downtime. You can also perform full-text searches or faceted queries across items."
+}

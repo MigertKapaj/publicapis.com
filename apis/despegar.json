@@ -1,0 +1,14 @@
+{
+  "id": "despegar",
+  "title": "Despegar",
+  "link": "http://api.despegar.com/docs",
+  "image": "http://api.despegar.com/static/img/logo_api.png",
+  "author": {
+    "name": "Despegar"
+  },
+  "tags": [
+    "Polling",
+    "Sparingly"
+  ],
+  "description": "API responses are heavily cached. Polling for changes should be done sparingly in any case, and polling at a rate faster than once a minute (for semantically identical requests) is considered abusive."
+}

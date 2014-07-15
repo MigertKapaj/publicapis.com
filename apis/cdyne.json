@@ -1,0 +1,16 @@
+{
+  "id": "cdyne",
+  "title": "CDYNE",
+  "link": "http://www.cdyne.com/developers/",
+  "image": "http://www.cdyne.com/images/master/logo_cdyneb.gif",
+  "author": {
+    "name": "CDYNE"
+  },
+  "tags": [
+    "Service",
+    "System",
+    "Data",
+    "Solutions"
+  ],
+  "description": "With CDYNE Data Quality Web Services, your developer or IT consultant can implement data processing quickly and easily, helping to streamline your business operations using our simple API. There is no complex system to learn, no software to install, no hardware to buy, and no maintenance required – CDYNE provides monthly updates on our servers, automatically updating your service. Your investment in both time and money is minimal, and you receive the best in data quality solutions."
+}

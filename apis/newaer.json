@@ -1,0 +1,15 @@
+{
+  "id": "newaer",
+  "title": "Newaer",
+  "link": "https://www.newaer.com/developers",
+  "image": "http://newaer.com/wp-content/uploads/2014/02/NewAer-Logo-2014.png",
+  "author": {
+    "name": "Newaer"
+  },
+  "tags": [
+    "Hosted",
+    "Presence",
+    "Mobile"
+  ],
+  "description": "The NewAer Proximity Platform is a lightweight, low power client and hosted server side engine that adds presence events within mobile applications."
+}

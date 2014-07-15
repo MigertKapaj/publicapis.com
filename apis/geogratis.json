@@ -1,0 +1,16 @@
+{
+  "id": "geogratis",
+  "title": "GeoGratis",
+  "link": "http://geogratis.gc.ca/api/en/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVHpyLyp3U3A6Fwk67tCqmKBu-BP5jyc81TywSnX9JGFuEPQLkFg",
+  "author": {
+    "name": "GeoGratis"
+  },
+  "tags": [
+    "Access",
+    "Services",
+    "Protocols",
+    "Data"
+  ],
+  "description": "Use our API to embed GeoGratis search, discovery and access functionalities into new or existing applications and services located within your own work environment. By utilizing the latest web-application standards, protocols and formats, our API aims to minimize the burden of development and maximize the re-use of GeoGratis data and information products."
+}

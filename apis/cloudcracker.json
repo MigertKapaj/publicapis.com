@@ -1,0 +1,16 @@
+{
+  "id": "cloudcracker",
+  "title": "Cloudcracker",
+  "link": "https://www.cloudcracker.com/developers.html",
+  "image": "https://www.cloudcracker.com/css/images/logotype3.png",
+  "author": {
+    "name": "CloudCracker"
+  },
+  "tags": [
+    "Distinct",
+    "Supported",
+    "Options",
+    "Querying"
+  ],
+  "description": "The CloudCracker API provides a distinct JSON-based REST endpoint for each supported format. Those endpoints provide four major pieces of functionality: querying an endpoint for the available dictionary options, submitting a cracking job, submitting payment for a cracking job, and querying the status of a submitted job."
+}

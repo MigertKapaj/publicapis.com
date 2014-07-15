@@ -1,0 +1,15 @@
+{
+  "id": "clover",
+  "title": "Clover ",
+  "link": "https://www.clover.com/docs/rest-api",
+  "image": "https://www.clover.com/web/img/clover-logo-color.png",
+  "author": {
+    "name": "Clover"
+  },
+  "tags": [
+    "Platform",
+    "Developers",
+    "Systems"
+  ],
+  "description": "Innovation in the brick-and-mortar environment has been stymied by the lack of a ubiquitous open platform. It's virtually impossible for third-party developers to build on today's cash registers, payment terminals, Windows-based point-of-sale terminals, or even a new spate of tablet-based POS systems."
+}

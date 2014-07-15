@@ -1,0 +1,15 @@
+{
+  "id": "scap-sync",
+  "title": "SCAP Sync",
+  "link": "https://scapsync.com/api/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqkbLdzdBSHmKH9ONSUJror3umS8x5xTwvXxNAuU2oFYd1riVP",
+  "author": {
+    "name": "SCAP Sync"
+  },
+  "tags": [
+    "Providers",
+    "Consumption",
+    "Describes"
+  ],
+  "description": "SCAP Sync is a website that spiders and indexes SCAP content from a variety of original content providers (including NIST and Mitre). This content is version controlled and made available for both human consumption (on the website) and machine consumption (via a REST API). This documentation describes the features of and use cases for the SCAP Sync REST API."
+}

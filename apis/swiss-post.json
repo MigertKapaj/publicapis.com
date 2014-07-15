@@ -1,0 +1,15 @@
+{
+  "id": "swiss-post",
+  "title": "Swiss Post",
+  "link": "http://www.swisspost.ch/post-barcode-cug.htm",
+  "image": "http://www.swisspost.ch/post-logo.gif",
+  "author": {
+    "name": "Swiss Post"
+  },
+  "tags": [
+    "Service",
+    "Describes",
+    "Checked"
+  ],
+  "description": "The schema is an indispensable template for setting up the \"Barcode\" web service interface. It describes the standard with which incoming requests can be checked for structural conformity (\"correct structure\")."
+}

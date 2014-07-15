@@ -1,0 +1,15 @@
+{
+  "id": "experttexting",
+  "title": "ExpertTexting",
+  "link": "http://www.experttexting.com/features/",
+  "image": "http://www.experttexting.com/_assets/images/logo.png",
+  "author": {
+    "name": "ExpertTexting"
+  },
+  "tags": [
+    "Dedicated",
+    "Sending",
+    "Submitting"
+  ],
+  "description": "This document is dedicated for users who wish to use ExpertTexting gateway for sending SMS messages. This gateway can be accessed by SOAP/XML protocol by submitting values to the API Server by the POST method."
+}

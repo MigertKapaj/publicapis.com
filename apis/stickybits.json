@@ -1,0 +1,15 @@
+{
+  "id": "stickybits",
+  "title": "stickybits",
+  "link": "http://code.google.com/p/stickybits/",
+  "image": "http://code.google.com/p/stickybits/logo?cct=1280048293",
+  "author": {
+    "name": "stickybits"
+  },
+  "tags": [
+    "Public",
+    "Contains",
+    "Platform"
+  ],
+  "description": "stickybits.com has a public RESTful API. This repository contains code libraries and documentation to help you develop on the stickybits platform. "
+}

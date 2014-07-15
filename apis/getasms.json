@@ -1,0 +1,16 @@
+{
+  "id": "getasms",
+  "title": "Getasms",
+  "link": "http://en.getasms.com/api/",
+  "image": "http://en.getasms.com/images/getasms-logo.jpg",
+  "author": {
+    "name": "Getasms"
+  },
+  "tags": [
+    "Link",
+    "Sending",
+    "Marketing",
+    "Improve"
+  ],
+  "description": "Our API based on REST SMS Marketing allows you to link your applications with Getasms. Whether for sending sms or manage your contacts, our SMS Marketing API allows you to extend the functionality of your applications by integrating components sms marketing to improve the user experience.In addition, developers can use our API to integrate SMS functionality into their applications marketing, thus creating a competitive difference will lead to additional revenue."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "metamark",
+  "title": "Metamark",
+  "link": "http://metamark.net/docs/api/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmiivbT504djWWaO-MyhXnypcBL4isjYbvFKtp4NRcYmJ7SGORDw",
+  "author": {
+    "name": "Metamark"
+  },
+  "tags": [
+    "Expires",
+    "Usage",
+    "Search Engine"
+  ],
+  "description": "The Metamark urls expire after five years or two years after the last usage - whichever comes later. However, if a link is never used, it will expire after two years. This should mean that as long as a link is on a public page, some search engine will visit it and keep it alive. "
+}

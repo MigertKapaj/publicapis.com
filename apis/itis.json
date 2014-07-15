@@ -1,0 +1,15 @@
+{
+  "id": "itis",
+  "title": "ITIS",
+  "link": "http://www.itis.gov/ws_description.html",
+  "image": "http://www.itis.gov/Static/images/sublogo.gif",
+  "author": {
+    "name": "ITIS"
+  },
+  "tags": [
+    "Service",
+    "Provided",
+    "Data"
+  ],
+  "description": "his page lists all the ITIS Web Service APIs with a description that includes the information provided by the API, the input needed to get data from the API, and the data that is returned by the API. "
+}

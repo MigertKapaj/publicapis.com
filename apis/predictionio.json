@@ -1,0 +1,16 @@
+{
+  "id": "predictionio",
+  "title": "PredictionIO",
+  "link": "http://docs.prediction.io/current/",
+  "image": "http://prediction.io/assets/images/PredictionIO-logo.png",
+  "author": {
+    "name": "PredictionIO"
+  },
+  "tags": [
+    "Source",
+    "Server",
+    "Application",
+    "Document"
+  ],
+  "description": "PredictionIO is an open source Machine Learning Server. It empowers programmers and data engineers to build smart applications. With PredictionIO, you can add the following features to your apps instantly: predict user behaviorsoffer personalized video, news, deals, ads and job openingshelp users to discover interesting events, documents, apps and restaurantsprovide impressive match-making services"
+}

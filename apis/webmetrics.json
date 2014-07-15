@@ -1,0 +1,15 @@
+{
+  "id": "webmetrics",
+  "title": "Webmetrics",
+  "link": "http://help.webmetrics.com/",
+  "image": "https://www2.webmetrics.com/img/cp/webmetrics-logo.png",
+  "author": {
+    "name": "Neustar Webmetrics"
+  },
+  "tags": [
+    "Service",
+    "Request",
+    "Response"
+  ],
+  "description": "The Webmetrics APIs are provided as RESTful web services. To perform an action using the Webmetrics API, you need to send a GET or POST request to the API URL specifying a method, a valid signature and some arguments, and you will receive a formatted response."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "leaddyno",
+  "title": "LeadDyno ",
+  "link": "http://developer.leaddyno.com/rest-api.html",
+  "image": "http://www.leaddyno.com/img/ld1.png",
+  "author": {
+    "name": "LeadDyno "
+  },
+  "tags": [
+    "Integration",
+    "Website",
+    "Predictable",
+    "Utilizes"
+  ],
+  "description": " LeadDyno offers a REST-ful API for integration with your website. It has predictable, resource-based URLs and utilizes standard HTTP response codes and verbs.\n    \n  \n"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "open",
+  "title": "Open",
+  "link": "http://altergeo.ru/open_api",
+  "image": "http://altergeo.ru/images/main.png",
+  "author": {
+    "name": "ALTERGEO"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Это API даёт возможность разработчикам сторонних приложений взаимодействовать с платформой AlterGeo. Ещё один способ отмечаться в заведениях и получать информацию об активности пользователей AlterGeo."
+}

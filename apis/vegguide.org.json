@@ -1,0 +1,15 @@
+{
+  "id": "vegguide.org",
+  "title": "VegGuide.org",
+  "link": "http://www.vegguide.org/site/api-docs",
+  "image": "http://www.vegguide.org/images/vegguide-logo.png",
+  "author": {
+    "name": "VegGuide.org"
+  },
+  "tags": [
+    "Retrieve",
+    "Entries",
+    "Users"
+  ],
+  "description": "VegGuide currently supports a read-only REST API. This API allows you to retrieve information about entries, regions, and users using a well-defined set of URIs. Currently, all information is returned as JSON. "
+}

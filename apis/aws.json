@@ -1,0 +1,15 @@
+{
+  "id": "aws",
+  "title": "AWS",
+  "link": "http://docs.aws.amazon.com/AWSImportExport/latest/DG/APIEndpoints.html",
+  "image": "http://docs.aws.amazon.com/AWSImportExport/latest/DG/images/documentation_logo200x29.png",
+  "author": {
+    "name": "AWS"
+  },
+  "tags": [
+    "Create",
+    "Job",
+    "Retrieve"
+  ],
+  "description": "The new API is very straightforward. You use CreateJob to create a new Import or Export job, and ListJobs to retrieve a list of your jobs."
+}

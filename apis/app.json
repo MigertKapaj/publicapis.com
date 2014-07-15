@@ -1,0 +1,15 @@
+{
+  "id": "app",
+  "title": " app",
+  "link": "https://crossrider.wiki.zoho.com/API.html",
+  "image": "http://docs.crossrider.com/resources/images/logo.png",
+  "author": {
+    "name": "Crossrider"
+  },
+  "tags": [
+    "Solution",
+    "Extensions",
+    "Methods"
+  ],
+  "description": "The appAPI object is at the heart of Crossrider' solution that enables you to write cross-browser extensions that run on all the major browsers. The API methods can be used in the following scopes."
+}

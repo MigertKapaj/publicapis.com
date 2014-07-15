@@ -1,0 +1,15 @@
+{
+  "id": "valobox",
+  "title": "Valobox",
+  "link": "http://valobox.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ47MNhGuTX9ohsERVsJofbFWyEU4W4OXOfUTKH9CMQQWmy3nlgmA",
+  "author": {
+    "name": "Valobox"
+  },
+  "tags": [
+    "Private",
+    "Alpha",
+    "Testing"
+  ],
+  "description": "The ValoBox API is available for unstable, private, alpha testing."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "hotelsbase",
+  "title": "HotelsBase",
+  "link": "http://api.hotelsbase.org/documentation.php",
+  "image": "http://www.hotelsbase.org/images/logo.png",
+  "author": {
+    "name": "HotelsBase"
+  },
+  "tags": [
+    "Provided",
+    "Service"
+  ],
+  "description": "Hotelsbase is a free API. It is provided as a simple XML service. A single database containing all hotels is also available."
+}

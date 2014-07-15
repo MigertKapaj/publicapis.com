@@ -1,0 +1,16 @@
+{
+  "id": "weogeo",
+  "title": "WeoGeo",
+  "link": "http://www.weogeo.com/developer_doc/API.html",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT8wR0lV_U4vNGOsXvMMzmLRYExdUUlZlvPQBNHQc7l-C0bV-x5uw",
+  "author": {
+    "name": "WeoGeo"
+  },
+  "tags": [
+    "Data",
+    "String",
+    "Instances",
+    "References"
+  ],
+  "description": "Variables or other locations for user-specific data in provided examples will be wrapped with: #{}. For example \"#{dataset_token}\" would indicate the place in a string where a dataset token should be substituted. In instances where it is not obvious what this variable name references, a specific description will be provided."
+}

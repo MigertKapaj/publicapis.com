@@ -1,0 +1,16 @@
+{
+  "id": "the-movie-database",
+  "title": "The Movie Database",
+  "link": "http://docs.themoviedb.apiary.io",
+  "image": "https://apiary.a.ssl.fastly.net/assets/images/apiary-app-logo-1x-136bf1f4d06a3c9e.png",
+  "author": {
+    "name": "The Movie Database"
+  },
+  "tags": [
+    "Movie",
+    "Database",
+    "Generate",
+    "Account"
+  ],
+  "description": "Below you will find a current list of the available methods on our movie, tv (television), actor and image API. If you need help or support, please head over to our talk page. To register for an API key, head into your account page on The Movie Database and generate a new key from within the \"API\" section."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pearson",
+  "title": "Pearson",
+  "link": "http://developer.pearson.com/api/dkimages-api/apimethod/list-images/189/overview",
+  "image": "https://developer.pearson.com/wp-content/themes/pearson-developer-2013/_/inc/images/dp_pearson_logo.gif",
+  "author": {
+    "name": "Pearson"
+  },
+  "tags": [
+    "Developers",
+    "Access",
+    "Applications",
+    "Selecation"
+  ],
+  "description": "Pearson provides developers with access to some of its wealth of content.Explore and build applications with a selection of our APIs"
+}

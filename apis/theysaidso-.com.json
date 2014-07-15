@@ -1,0 +1,16 @@
+{
+  "id": "theysaidso-.com",
+  "title": "theysaidso .com",
+  "link": "http://theysaidso.com/api",
+  "image": "http://theysaidso.com/img/100x100xmonitor.jpg.pagespeed.ic.OM71bixzEX.jpg",
+  "author": {
+    "name": "theysaidso .com"
+  },
+  "tags": [
+    "Database",
+    "Link",
+    "Attribution",
+    "Quotes"
+  ],
+  "description": "We have more than 1 million+ quotes in our quotes database, the largest such database in the world. And our best Quotes API gives easy way to access the data. Note if you are using our public API / quotes from our website an attribution link back to theysaidso.com is required. If you don't want to display attribution please sign up for the private API. Here is the code you can cut and paste to provide attribution."
+}

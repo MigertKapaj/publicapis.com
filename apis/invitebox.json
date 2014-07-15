@@ -1,0 +1,15 @@
+{
+  "id": "invitebox",
+  "title": "InviteBox",
+  "link": "http://invitebox.com/help/api/",
+  "image": "http://static2.invitebox.com/static/86/img/logo_200.png",
+  "author": {
+    "name": "InviteBox"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Marketing"
+  ],
+  "description": "This integration works only for referral programs where you have an access to participants contact data. This integration allows you to pass participants emails to ActiveCampaign and keep them synchronized for further email marketing purposes."
+}

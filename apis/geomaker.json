@@ -1,0 +1,14 @@
+{
+  "id": "geomaker",
+  "title": "GeoMaker",
+  "link": "http://icant.co.uk/geomaker/developers.php",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5E-qiK8k6TkyARSmChXFo7fT4UMfCHT1AP1xRQ0YNGrUfk22ptg",
+  "author": {
+    "name": "GeoMaker"
+  },
+  "tags": [
+    "Developers",
+    "Server"
+  ],
+  "description": "GeoMaker for developers comes in two flavours: you can either download GeoMaker and use it on your own server or just use the API."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kashflow",
+  "title": "KashFlow",
+  "link": "http://www.kashflow.com/developers/soap-api/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQZoxH7WwOf9wQ8Le041Bu9okrQ01LmTYb0Cd55JkedIQP1RzjCRA",
+  "author": {
+    "name": "KashFlow"
+  },
+  "tags": [
+    "Webservice",
+    "Online",
+    "Programs",
+    "Data"
+  ],
+  "description": "The KashFlow SOAP API is a fully featured SOAP/XML webservice that exposes much of the functionality of the KashFlow online accounting software. It enables other computer programs and websites to exchange data with a KashFlow account."
+}

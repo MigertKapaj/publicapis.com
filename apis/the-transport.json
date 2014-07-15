@@ -1,0 +1,16 @@
+{
+  "id": "the-transport",
+  "title": "The Transport",
+  "link": "http://transport.opendata.ch/",
+  "image": "http://equivalence.ch/media/portfolio/pics/transport.opendata.ch_1476y1108.png",
+  "author": {
+    "name": "Transport"
+  },
+  "tags": [
+    "Interested",
+    "Web",
+    "Application",
+    "Exploring"
+  ],
+  "description": "The Transport API allows interested developers to build their own applications using public timetable data, whether they're on the web, the desktop or mobile devices. The aim of the API is to cover public transport within Switzerland. Find out more about how you can start exploring the timetable data playground or just browse the API Documentation."
+}

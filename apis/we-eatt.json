@@ -1,0 +1,16 @@
+{
+  "id": "we-eatt",
+  "title": "We Eatt",
+  "link": "http://www.weeatt.com/pages/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZMMkgTiaKdP-ui49GwCyPpyv1406y-D9Z6XpLxzX9b-drQANvWg",
+  "author": {
+    "name": "We Eatt"
+  },
+  "tags": [
+    "Platform",
+    "Agnostic",
+    "Period",
+    "Enjoy"
+  ],
+  "description": "The We Eatt API is a REST based API that aims to be platform agnostic. Rates are limited to 10,000 requests in a 24 hour period of time. We want you to have fun and enjoy We Eatt!"
+}

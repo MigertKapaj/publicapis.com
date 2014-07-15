@@ -1,0 +1,15 @@
+{
+  "id": "resources",
+  "title": "Resources",
+  "link": "https://app.gtraxapp.com/docs/N66286.html",
+  "image": "https://app.gtraxapp.com/images/logo-knockout.png",
+  "author": {
+    "name": "gTrax"
+  },
+  "tags": [
+    "Controls",
+    "Archive",
+    "Unlimited"
+  ],
+  "description": "The Resources API controls the users -- 'Resources' in gTrax parlance -- that are available to your organization. Using the API you can add, edit and\narchive users. Your organization can have an unlimited number of Resources,however only licensed users will be able to login to the application.\n "
+}

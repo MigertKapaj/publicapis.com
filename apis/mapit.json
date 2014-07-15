@@ -1,0 +1,14 @@
+{
+  "id": "mapit",
+  "title": "MapIt",
+  "link": "http://global.mapit.mysociety.org/",
+  "image": "http://global.mapit.mysociety.org/static/mapit/img/global-header-large.jpg",
+  "author": {
+    "name": "MapIt"
+  },
+  "tags": [
+    "Developers",
+    "Service"
+  ],
+  "description": "The documentation below is for developers who want to use MapIt as a web service, describing its REST API. If that’s all Greek to you, please see our page for non-developers."
+}

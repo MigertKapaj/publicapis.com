@@ -1,0 +1,16 @@
+{
+  "id": "deveo",
+  "title": "Deveo",
+  "link": "https://developer.deveo.com/docs/api/#authentication",
+  "image": "https://developer.deveo.com/blog/images/header/logo.gif?1383639274",
+  "author": {
+    "name": "Deveo"
+  },
+  "tags": [
+    "Data",
+    "Stores",
+    "Clients",
+    "Integrations"
+  ],
+  "description": "On these pages you’ll find everything you need to know about the Deveo REST APIs. These give you access to all the data Deveo stores, and you will be able to build any clients and integrations you need."
+}

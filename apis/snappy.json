@@ -1,0 +1,15 @@
+{
+  "id": "snappy",
+  "title": "Snappy",
+  "link": "https://github.com/BeSnappy/api-docs",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Provide",
+    "Authenticating",
+    "String"
+  ],
+  "description": "You may retrieve your API key via the \"Your Settings\" menu in Snappy. Once in the settings menu, the security tab will provide access to your API key. When authenticating via API key, pass the key as the \"username\" and any string (such as \"x) as the password."
+}

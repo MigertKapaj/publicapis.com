@@ -1,0 +1,16 @@
+{
+  "id": "empireavenue",
+  "title": "Empireavenue",
+  "link": "https://www.empireavenue.com/developers",
+  "image": "https://www.empireavenue.com/public/img/eavlogo/white/eav_w_150.png",
+  "author": {
+    "name": "Empireavenue"
+  },
+  "tags": [
+    "Provides",
+    "Considered",
+    "Discussion",
+    "Community"
+  ],
+  "description": "Empire Avenue provides a limited public API to connect and use Empire Avenue resources. This limited public API is considered to be in BETA which means the limited API continues to evolve and expand. Please join the Empire Avenue General Discussion Community for any announcements but also to communicate with Empire Avenue staff."
+}

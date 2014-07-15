@@ -1,0 +1,16 @@
+{
+  "id": "webservice",
+  "title": "Webservice",
+  "link": "http://www.frontlab.com/proofing/modules.aspx",
+  "image": "http://www.frontlab.com/images/topimages/proofing.jpg",
+  "author": {
+    "name": "Frontlab"
+  },
+  "tags": [
+    "System",
+    "Automate",
+    "Tasks",
+    "Food chain"
+  ],
+  "description": "The Integration module lets you integrate Frontlab Proofing into your existing IT and publishing systems. The module exposes a set of Webservice API’s which enables you to automate standard tasks or integrate the proofing system directly into your existing 'food chain'. "
+}

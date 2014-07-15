@@ -1,0 +1,16 @@
+{
+  "id": "exploring-surreys-past",
+  "title": "Exploring Surrey's Past",
+  "link": "http://www.exploringsurreyspast.org.uk/api/",
+  "image": "http://www.exploringsurreyspast.org.uk/wp-content/uploads/2012/06/logo.png",
+  "author": {
+    "name": "Exploring Surrey's Past"
+  },
+  "tags": [
+    "Widget",
+    "Queries",
+    "Projects",
+    "Subjects"
+  ],
+  "description": "You can use our metadata to create a new widget, mashup or application. We have an Application Programmer’s Interface (API) that is easy to use and quick to get started with.  Via the API you can submit search queries to return metadata for individual projects, partners or subjects."
+}

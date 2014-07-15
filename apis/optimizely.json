@@ -1,0 +1,16 @@
+{
+  "id": "optimizely",
+  "title": "Optimizely",
+  "link": "http://www.optimizely.com/docs/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQx9jAnprXG3Py6fG1mVqz-_obXPPynMVxj7EXDJ2has-WVTAAq",
+  "author": {
+    "name": "Optimizely"
+  },
+  "tags": [
+    "Specific",
+    "Traget",
+    "Content",
+    "Conversuion"
+  ],
+  "description": "The Optimizely client API provides a way for developers to modify the normal behavior of the Optimizely snippet for specific use cases. Use the API to target activation based on specific page content or events, query the state of activation, bucketing, or conversion for use in custom analytics packages, and force visitors into specific variations, among other capabilities."
+}

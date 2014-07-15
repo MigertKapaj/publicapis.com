@@ -1,0 +1,16 @@
+{
+  "id": "coinbase",
+  "title": "Coinbase",
+  "link": "https://coinbase.com/docs/api/authentication",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR1XG1pwmGb5OJ2JYKUd_WncYlAjw91OmDFVRlcuEk8PEDnlAo6Yw",
+  "author": {
+    "name": "Coinbase"
+  },
+  "tags": [
+    "Application",
+    "Sending",
+    "Payments",
+    "Wallets"
+  ],
+  "description": "Coinbase provides a simple and powerful REST API to integrate bitcoin payments into your business or application.\nWe allow all major operations in bitcoin through one API including:\nBuying and selling bitcoin (exchanging it to your local currency)Sending and requesting bitcoin by email or bitcoin address, Accepting bitcoin payments as a merchant, Securely storing bitcoin and creating bitcoin wallets, Access to raw bitcoin network data (blocks, transactions, addresses, etc), The ability to handle micro-transactions and recurring payments"
+}

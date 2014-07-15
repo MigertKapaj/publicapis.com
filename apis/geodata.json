@@ -1,0 +1,15 @@
+{
+  "id": "geodata",
+  "title": "GeoData",
+  "link": "http://gisapps.co.union.nc.us/ws/rest/",
+  "image": "",
+  "author": {
+    "name": "Union County GIS"
+  },
+  "tags": [
+    "Service",
+    "Community",
+    "Relevant"
+  ],
+  "description": "The Union County GIS REST Web Services Framework allows spatial analysis to be performed on Union County GIS data layers through simple HTTP requests. Our Community Mapper application uses these services almost exclusively to perform spatial analysis and return relevant results to our users."
+}

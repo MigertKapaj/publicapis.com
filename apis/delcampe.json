@@ -1,0 +1,15 @@
+{
+  "id": "delcampe",
+  "title": "Delcampe",
+  "link": "http://code.google.com/p/delcampe-api-client/",
+  "image": "http://code.google.com/p/delcampe-api-client/logo?cct=1372410069",
+  "author": {
+    "name": "Delcampe"
+  },
+  "tags": [
+    "Services",
+    "Sales",
+    "Informed"
+  ],
+  "description": "The Delcampe API allows you to communicate easily with the Delcampe.net services. It allows you to start sales, close them, be informed when items are sold, etc. "
+}

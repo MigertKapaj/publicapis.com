@@ -1,0 +1,13 @@
+{
+  "id": "quetter",
+  "title": "Quetter",
+  "link": "http://quetter.com/api.html",
+  "image": "http://quetter.com/images/quetter.gif",
+  "author": {
+    "name": "Quetter"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

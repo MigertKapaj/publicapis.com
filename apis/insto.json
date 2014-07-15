@@ -1,0 +1,15 @@
+{
+  "id": "insto",
+  "title": "Insto",
+  "link": "http://www.insto.co.uk/docs",
+  "image": "http://www.insto.co.uk/img/realtime.png",
+  "author": {
+    "name": "Insto"
+  },
+  "tags": [
+    "Connected",
+    "Messages",
+    "Receive"
+  ],
+  "description": "You will also be able to track how many people are connected to Insto via your application, as well as see how many messages you are sending per day. Message totals are updated once per day, and only include messages that your users receive."
+}

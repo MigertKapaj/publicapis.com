@@ -1,0 +1,16 @@
+{
+  "id": "newsblur",
+  "title": "NewsBlur",
+  "link": "http://www.newsblur.com/api",
+  "image": "http://www.programmableweb.com/images/apis/at3580.png",
+  "author": {
+    "name": "NewsBlur"
+  },
+  "tags": [
+    "News",
+    "Retrive",
+    "Counts",
+    "Icons"
+  ],
+  "description": "NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. NewsBlur's API allows users to retrieve their feeds, feed counts, feed icons, feed statistics, and individual feed stories. No API key is required, but you are requiredto authenticate before using any of the API endpoints. Please be considerate, and don't hammer our servers. We're quite pleased to point out that this entire API is open-source, including the implementation of the endpoints. You can find the source of the /reader/ views source,/social/ views source /rss_feeds/ views source, as well as the API definitions in YAML.We love pull requests. If you want to add an endpoint, modify output, or make something better, NewsBlur's repo on Github is the place to make that happen.\n    "
+}

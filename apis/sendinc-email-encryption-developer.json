@@ -1,0 +1,16 @@
+{
+  "id": "sendinc-email-encryption-developer",
+  "title": "Sendinc Email Encryption Developer",
+  "link": "http://developer.sendinc.com/rest-api",
+  "image": "http://www.sendinc.com/images/logo.png",
+  "author": {
+    "name": "Sendinc"
+  },
+  "tags": [
+    "Integrate",
+    "Email",
+    "Software",
+    "Custom"
+  ],
+  "description": "Sendinc’s API provides a simple way to integrate secure email into your own web and software applications. There are two APIs, the SMTP API and REST API, that can be leveraged to build or enhance custom applications on a wide range of systems.\n        "
+}

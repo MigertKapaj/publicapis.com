@@ -1,0 +1,15 @@
+{
+  "id": "open-library",
+  "title": "Open Library",
+  "link": "https://openlibrary.org/dev/docs/restful_api",
+  "image": "https://openlibrary.org/images/logo_OL-lg.png",
+  "author": {
+    "name": "Open Library"
+  },
+  "tags": [
+    "Developer",
+    "Encourage",
+    "Source"
+  ],
+  "description": "Open Library has developed a suite of APIs to help developers get up and running with our data. We encourage interested developers to join the ol-tech mailing list to stay up-to-date with the latest news, or dive in with our own development team at our bug tracker or our GitHub source code repository. "
+}

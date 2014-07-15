@@ -1,0 +1,15 @@
+{
+  "id": "dailymed",
+  "title": "DailyMed",
+  "link": "http://dailymed.nlm.nih.gov/dailymed/help.cfm",
+  "image": "http://dailymed.nlm.nih.gov/dailymed/images/DM_LOGO_HEADER.png",
+  "author": {
+    "name": "DailyMed"
+  },
+  "tags": [
+    "Service",
+    "Accessing",
+    "Resources"
+  ],
+  "description": "The DailyMed RESTful API is a web service for accessing current SPL information. It is implemented using HTTP and can be thought of as a collection of resources, specified as URIs."
+}

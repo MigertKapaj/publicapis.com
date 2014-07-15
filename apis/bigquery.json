@@ -1,0 +1,15 @@
+{
+  "id": "bigquery",
+  "title": "BigQuery",
+  "link": "https://developers.google.com/bigquery/docs/overview",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Hardware",
+    "Infrastructure",
+    "Hard work"
+  ],
+  "description": "Querying massive datasets can be time consuming and expensive without the right hardware and infrastructure. Google BigQuery solves this problem by enabling super-fast, SQL-like queries against append-only tables, using the processing power of Google's infrastructure. Simply move your data into BigQuery and let us handle the hard work. You can control access to both the project and your data based on your business needs, such as giving others the ability to view or query your data."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "the-live-connect",
+  "title": "The Live Connect",
+  "link": "http://dev.live.com/expo/",
+  "image": "http://msdn.microsoft.com/en-us/live//ff519582.huffington%20post%20logo(en-us,MSDN.10).jpg",
+  "author": {
+    "name": "The Live Connect"
+  },
+  "tags": [
+    "Windows phone",
+    "Android",
+    "Ios"
+  ],
+  "description": "The Live SDK is also available for Windows Phone, Android and iOS. The Live Connect APIs use open standards like OAuth 2.0 and JSON, making them easy and familiar to work with."
+}

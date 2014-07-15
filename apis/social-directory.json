@@ -1,0 +1,16 @@
+{
+  "id": "social-directory",
+  "title": "Social Directory",
+  "link": "http://www.yahooapis.com/social/rest_api_guide/social_dir_api.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEqlyYDxk2Titt3F_IROpbVqzzVOL5PFoh8iwyX6wFtMpbCUCOZg",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Descriptive",
+    "Gender",
+    "Identify",
+    "Confirm"
+  ],
+  "description": "The Social Directory API provides profile (identity) and connection (relationship) information about Yahoo users. A profile is a collection of user provided information that is descriptive of the user, such as the user's name, gender, location, photo, and relationship status. The connections of a user identify other users who might be friends and business associates. To form a connection, both users must confirm the relationship. For example, if Joe wants to add Jane to his list of connections, he asks that she be added and she has to approve. The benefits of connecting include more information sharing between users on Yahoo properties as well as on 3rd-party sites and applications. "
+}

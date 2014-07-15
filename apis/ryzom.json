@@ -1,0 +1,15 @@
+{
+  "id": "ryzom",
+  "title": "Ryzom",
+  "link": "http://dev.ryzom.com/projects/ryzom-api/wiki",
+  "image": "",
+  "author": {
+    "name": "Ryzom"
+  },
+  "tags": [
+    "System",
+    "Information",
+    "Guild profile"
+  ],
+  "description": "Ryzom API is an URL based system to get some Ryzom information like game time or character/guild profile."
+}

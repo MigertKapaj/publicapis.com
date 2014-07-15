@@ -1,0 +1,15 @@
+{
+  "id": "l4",
+  "title": "L4",
+  "link": "http://api.l4.se/",
+  "image": "http://api.l4.se/asset/api/8256420184f85572/images/logo-large.png",
+  "author": {
+    "name": "L4"
+  },
+  "tags": [
+    "Service",
+    "Shared",
+    "Commercial"
+  ],
+  "description": "We currently limit services to 500 requests per IP and day, the quota is shared between all services. If your needs exceed this or you want to know more about commercial use feel free to contact us at hello@levelfour.se. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zoomit",
+  "title": "Zoomit",
+  "link": "http://zoom.it/pages/api/formats/xml-vs-json-p",
+  "image": "http://zoom.it/images/site/SDLogo.png",
+  "author": {
+    "name": "Zoom it"
+  },
+  "tags": [
+    "Site",
+    "Image",
+    "Web",
+    "Viewer"
+  ],
+  "description": "Just like the site, you give it the URL to an image on the web, and you get back a Zoom.it short URL and an embeddable viewer. "
+}

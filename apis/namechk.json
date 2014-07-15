@@ -1,0 +1,15 @@
+{
+  "id": "namechk",
+  "title": "NameCHK",
+  "link": "http://namechk.com/super-secret-api",
+  "image": "http://namechk.com/content/images/logo(194-60).png",
+  "author": {
+    "name": "NameCHK"
+  },
+  "tags": [
+    "Desired",
+    "Username",
+    "Social"
+  ],
+  "description": "Namechk.com was designed by David Gosse and Andy Edinborough to instantly show you if your desired or branded username was available at the majority of the top social networking websites."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "abbreviations",
+  "title": "Abbreviations",
+  "link": "http://www.abbreviations.com/zip_api.php",
+  "image": "http://www.abbreviations.com/root/app_common/img/top_logo_abbr.png",
+  "author": {
+    "name": "Abbreviations"
+  },
+  "tags": [
+    "Acronyms",
+    "Parameter",
+    "Combination"
+  ],
+  "description": "The Abbrevations API from STANDS4 enables you to get classified acronyms and abbreviations content for a given term. Use the Abbreviations REST API to customize your request with parameters such as category id, sort by, search type or a combination of any of them."
+}

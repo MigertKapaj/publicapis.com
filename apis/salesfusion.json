@@ -1,0 +1,16 @@
+{
+  "id": "salesfusion",
+  "title": "Salesfusion",
+  "link": "http://www.salesfusion.com/crm-api/",
+  "image": "http://www.salesfusion.com/wp-content/uploads/2013/11/sf_logo1.png",
+  "author": {
+    "name": "Salesfusion"
+  },
+  "tags": [
+    "System",
+    "Applications",
+    "Solutions",
+    "Marketing"
+  ],
+  "description": "Salesfusion provides a robust Web Services API designed to help you connect your marketing automation system and lead generation processes to a variety of custom applications and off-the shelf solutions. Outside of our standard CRM integrations, our clients have used our REST API/Web Services to build connections between marketing and sales. From custom & legacy CRM systems such as Siebel, to building connections to CMS, ERP and commerce apps, our API uses a variety of industry standards and pre-defined API calls."
+}

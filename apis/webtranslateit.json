@@ -1,0 +1,15 @@
+{
+  "id": "webtranslateit",
+  "title": "WebTranslateIt",
+  "link": "https://webtranslateit.com/en/docs/api/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGBstibE-48YALExiL8m5u1EYdUrULCPYJ6Q0TTYDUKrxaRTas",
+  "author": {
+    "name": "WebTranslateIt"
+  },
+  "tags": [
+    "Describes",
+    "Resources",
+    "Problems"
+  ],
+  "description": "This document describes the resources that make up the WebTranslateIt API. If you have any problems or requests, please contact support."
+}

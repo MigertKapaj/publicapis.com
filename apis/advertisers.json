@@ -1,0 +1,16 @@
+{
+  "id": "advertisers",
+  "title": "Advertisers",
+  "link": "https://developers.google.com/doubleclick-advertisers/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Organize",
+    "Consisting",
+    "Serve",
+    "Reports"
+  ],
+  "description": "DoubleClick for Advertisers (DFA) is used to create and organize campaigns consisting of hundreds or thousands of graphic ads, to serve these ads to specific websites, and to generate a variety of reports tracking cost, impressions, and clickthroughs."
+}

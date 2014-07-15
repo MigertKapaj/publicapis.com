@@ -1,0 +1,16 @@
+{
+  "id": "cocoa",
+  "title": "Cocoa",
+  "link": "http://npjoint.com/CocoaApi.html",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTpM06D5LidxQOxqE9Fm0Vw3QY7PftMwhfqFhgqGDAZqRKwrw1-vA",
+  "author": {
+    "name": "Cocoa"
+  },
+  "tags": [
+    "Dense",
+    "Values",
+    "Procedures",
+    "Suffice"
+  ],
+  "description": "Cocoa is a dense annotator for biological text. It annotates macromolecules, chemicals, protein/DNA parts, complexes, organisms, processes, anatomical parts, locations, physiological terms, parameters, values, experimental techniques, surgical procedures, and foods. The dense annotation cover should suffice to jumpstart a semantic frame -based relation annotator. "
+}

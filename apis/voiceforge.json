@@ -1,0 +1,17 @@
+{
+  "id": "voiceforge",
+  "title": "VoiceForge",
+  "link": "http://www.voiceforge.com/sign-up",
+  "image": "http://www.voiceforge.com/images/VoiceForge.jpg",
+  "author": {
+    "name": "VoiceForge"
+  },
+  "tags": [
+    "Speech",
+    "Text",
+    "Developer",
+    "Expertise",
+    "Service"
+  ],
+  "description": "VoiceForge makes online TTS easy through our hosted speech API. You send us text, tell us the voice and we return an MP3 - yes it's that simple. Register as a developer and we'll be happy to share documentation, code examples and expertise on our hosted speech API and service."
+}

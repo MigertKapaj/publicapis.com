@@ -1,0 +1,15 @@
+{
+  "id": "envolve",
+  "title": "Envolve",
+  "link": "https://www.envolve.com/docs/api.html",
+  "image": "https://www.envolve.com/images/logo.png",
+  "author": {
+    "name": "Envolve"
+  },
+  "tags": [
+    "Designed",
+    "Developers",
+    "Technical"
+  ],
+  "description": "Envolve is designed to be extremely flexible so that developers and website owners can build their own custom user experiences without worrying about any of the technical hurdles involved in real-time chat."
+}

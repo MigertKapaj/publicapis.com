@@ -1,0 +1,13 @@
+{
+  "id": "idilia-sense-analytics",
+  "title": "Idilia Sense Analytics",
+  "link": "https://www.mashape.com/idilia/idilia-sense-analytics",
+  "image": "",
+  "author": {
+    "name": "idilia"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Precisely annotate text with fine senses using the world's only API that disambiguates both common words (all parts of speech) and proper nouns (NEs) with near human accuracy.  Use specialized recipes for well-formed text, queries, and social media (e.g. tweets). Get lexical annotation, statistical confidence scores, external links (wikipedia, twitter verified accounts, etc), and precise classification of NEs.\r\n\r\nTags: disambiguation, wsd, text analytics, language, sense annotation, semantic, extraction\r\n                                                                                                             ** For more documentation see at http://idilia.com/docs/rest_api/text-disambiguate                                                                                              ** Developer forum at http://groups.google.com/forum/?fromgroups#!forum/idilia-developers"
+}

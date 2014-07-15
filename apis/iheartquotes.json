@@ -1,0 +1,16 @@
+{
+  "id": "iheartquotes",
+  "title": "iheartquotes",
+  "link": "http://www.iheartquotes.com/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSELd_Fc90VmSa6mG-R88JmmptB6SMMFDzUDUiuy7J0Vwps_y8g",
+  "author": {
+    "name": "iheartquotes"
+  },
+  "tags": [
+    "Interface",
+    "Data",
+    "Dynamic",
+    "Script"
+  ],
+  "description": "iheartquotes provides an interface for easily pulling a random quote from a database of Unix fortune files. If all you want is the data then you should go find the fortune files (try freshmeat). If what you want is to easily put a dynamic quote on your webpage or in your login script then read on."
+}

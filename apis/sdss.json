@@ -1,0 +1,15 @@
+{
+  "id": "sdss",
+  "title": "SDSS",
+  "link": "http://casjobs.sdss.org/CasJobs/",
+  "image": "http://casjobs.sdss.org/CasJobs/img/sdss_logo.png",
+  "author": {
+    "name": "SDSS"
+  },
+  "tags": [
+    "Online",
+    "Designed",
+    "Access"
+  ],
+  "description": "CasJobs is an online workbench for large scientific catalogs, designed to emulate and enhance local free-form query access in a web environment. "
+}

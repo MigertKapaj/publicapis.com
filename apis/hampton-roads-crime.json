@@ -1,0 +1,15 @@
+{
+  "id": "hampton-roads-crime",
+  "title": "Hampton Roads Crime",
+  "link": "http://labs.hamptonroads.com/api/crime/",
+  "image": "",
+  "author": {
+    "name": "Hampton Roads Crime"
+  },
+  "tags": [
+    "Accessing",
+    "Data",
+    "Considered"
+  ],
+  "description": "This is an experimental API for accessing crime data compiled for PilotOnline.com and HamptonRoads.com. It should not be considered stable. "
+}

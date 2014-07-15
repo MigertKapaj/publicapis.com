@@ -1,0 +1,15 @@
+{
+  "id": "ducksboard",
+  "title": "Ducksboard",
+  "link": "http://dev.ducksboard.com/apidoc/dashboard-api/",
+  "image": "http://dev.ducksboard.com/apidoc/_static/logo-ducksboard-small.svg",
+  "author": {
+    "name": "Ducksboard"
+  },
+  "tags": [
+    "Application",
+    "Data",
+    "Create"
+  ],
+  "description": "Simply put, an API (Application Programming Interface) lets applications speak to each other. We use APIs not only to get and send data, but also to create some kick-ass little widgets."
+}

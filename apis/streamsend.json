@@ -1,0 +1,16 @@
+{
+  "id": "streamsend",
+  "title": "StreamSend",
+  "link": "http://app.streamsend.com/docs/api/index.html",
+  "image": "http://www.streamsend.com/images/logo.gif",
+  "author": {
+    "name": "StreamSend"
+  },
+  "tags": [
+    "Transfer",
+    "Software",
+    "Connectivity",
+    "Features"
+  ],
+  "description": "The StreamSend API uses representational state transfer (REST) style software architecture to allow direct connectivity with core account features via all programming languages - from PHP, .Net, Perl, to Ruby on Rails and more. "
+}

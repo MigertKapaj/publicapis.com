@@ -1,0 +1,16 @@
+{
+  "id": "isocat",
+  "title": "ISOcat",
+  "link": "http://www.isocat.org/rest/help.html",
+  "image": "https://catalog.clarin.eu/isocat/interface/JSXAPPS/ISOcat/images/banner.png",
+  "author": {
+    "name": "ISOcat"
+  },
+  "tags": [
+    "Service",
+    "Described",
+    "Resource",
+    "Negotiation"
+  ],
+  "description": "ISOcat provides a RESTful web services interface. The interface consists of a set of URLs which locate the resources stored in the DCR. The URLs are described using URI templates. When a URL can return various resource representations they can be selected using server-driven content negotiation using the Accept request-header field. "
+}

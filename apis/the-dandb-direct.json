@@ -1,0 +1,16 @@
+{
+  "id": "the-dandb-direct",
+  "title": "The D&B Direct",
+  "link": "http://developer.dnb.com/docs",
+  "image": "http://developer.dnb.com/uberview/static/img/logo-dnb.gif",
+  "author": {
+    "name": "D&B Direct "
+  },
+  "tags": [
+    "Infromation",
+    "Documentation",
+    "Data",
+    "Layer"
+  ],
+  "description": "The D&B Direct API delivers information in data layers, some of which have multiple levels. For the purpose of this documentation, the term Product is used to represent a given level for a data layer."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "qrnganu",
+  "title": "QRNG@ANU",
+  "link": "http://qrng.anu.edu.au/API/api-demo.php",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRPkFgrn7GoOPeNfZTE0piGHkgJfKusqQ8sttAhcCWxqBLbkuGY",
+  "author": {
+    "name": "QRNG@ANU"
+  },
+  "tags": [
+    "Online",
+    "Live",
+    "Random",
+    "Free"
+  ],
+  "description": "This website provides online and live quantum random numbers to the public. Anyone can download the random numbers free of charge."
+}

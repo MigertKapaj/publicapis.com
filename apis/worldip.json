@@ -1,0 +1,16 @@
+{
+  "id": "worldip",
+  "title": "WorldIP",
+  "link": "http://www.wipmania.com/en/api/",
+  "image": "http://wipmania.com/img/logo.png",
+  "author": {
+    "name": "WIPmania"
+  },
+  "tags": [
+    "Service",
+    "Returns",
+    "Address",
+    "Database"
+  ],
+  "description": "Querying WorldIP geolocation service via the published API returns the most up-to-date and detailed results on geographic location of an IP address, than downloading the database."
+}

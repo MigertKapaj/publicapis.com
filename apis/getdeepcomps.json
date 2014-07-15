@@ -1,0 +1,16 @@
+{
+  "id": "getdeepcomps",
+  "title": "GetDeepComps",
+  "link": "http://www.zillow.com/howto/api/GetDeepComps.htm",
+  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
+  "author": {
+    "name": "Zillow"
+  },
+  "tags": [
+    "Property",
+    "Contains",
+    "Comparable",
+    "Data"
+  ],
+  "description": "The GetDeepComps API returns a list of comparable recent sales for a specified property. The result set returned contains the address, Zillow property identifier, and Zestimate for the comparable properties and the principal property for which the comparables are being retrieved. This API call also returns rich property data for the comparables. "
+}

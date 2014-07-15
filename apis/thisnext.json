@@ -1,0 +1,16 @@
+{
+  "id": "thisnext",
+  "title": "ThisNext",
+  "link": "http://www.thisnext.com/help/api/",
+  "image": "http://s2.thisnext.com/img/20111018145342/common/thisnext-logo-25pt.png",
+  "author": {
+    "name": "ThisNext"
+  },
+  "tags": [
+    "Provides",
+    "Data",
+    "Eventually",
+    "Manipulation"
+  ],
+  "description": "The ThisNext API provides access to ThisNext data. It may eventually support data entry and data manipulation. "
+}

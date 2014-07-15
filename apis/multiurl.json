@@ -1,0 +1,13 @@
+{
+  "id": "multiurl",
+  "title": "MultiURL",
+  "link": "http://www.multiurl.com/site/api",
+  "image": "http://www.multiurl.com/web/images/layout/multiurl-logo.gif",
+  "author": {
+    "name": "MultiURL"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "MultiURL offers an API to registered users.You will need to use the POST method to create, update and delete your links automatically.You need an API key to use the API. Register on MultiURL if you haven't yet and you will automatically see your API key in your \"Account\" page.All link you create will be automatically associated with your account and can be managed as usual in the \"Manage links\" page."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bulk-sms",
+  "title": "Bulk SMS",
+  "link": "http://www.znisms.com/api.html",
+  "image": "http://znisms.com/images/sms-gateway.jpg",
+  "author": {
+    "name": "ZNI"
+  },
+  "tags": [
+    "Services",
+    "Backend",
+    "Data",
+    "Directly"
+  ],
+  "description": "API (Application Programming Interface) allows you to integrate ZNI SMS services into your own application for better control and functionality required by you. For example you are using Oracle (as a backend to keep your data) and want to send SMS to all of your customers who have joined you after 1st of May 2009. There are two ways to perform this task either you run a query and then upload all the data on our server and then send or else you can use our API to push the SMS directly from your own application. "
+}

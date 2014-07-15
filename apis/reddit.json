@@ -1,0 +1,15 @@
+{
+  "id": "reddit",
+  "title": "reddit",
+  "link": "http://www.reddit.com/dev/api",
+  "image": "http://www.redditstatic.com/sprite-reddit.Q1C6JdGoYsQ.png",
+  "author": {
+    "name": "reddit"
+  },
+  "tags": [
+    "Protocol",
+    "Filtering",
+    "Show"
+  ],
+  "description": "Many endpoints on reddit use the same protocol for controlling pagination and filtering. These endpoints are called Listings and share five common parameters: after / before, limit, count, and show."
+}

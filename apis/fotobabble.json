@@ -1,0 +1,15 @@
+{
+  "id": "fotobabble",
+  "title": "Fotobabble",
+  "link": "http://www.fotobabble.com/s/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQck92j2Z_6fYAglety6tXqQ8DgnJtBVNj9QRsJoO_GtxmwxBXl",
+  "author": {
+    "name": "Fotobabble"
+  },
+  "tags": [
+    "Developers",
+    "Functionality",
+    "Content"
+  ],
+  "description": "The Fotobabble API will allow third party developers to integrate Fotobabble features, functionality and content into their own site and applications."
+}

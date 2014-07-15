@@ -1,0 +1,15 @@
+{
+  "id": "cloudinary",
+  "title": "Cloudinary",
+  "link": "http://cloudinary.com/documentation/api_and_access_identifiers",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRalY8qT4EiXOsAvboRn95IJG4EfYIMHo_tTfyj4573qxHmBJVk",
+  "author": {
+    "name": "Cloudinary"
+  },
+  "tags": [
+    "Manages",
+    "Delivered",
+    "Server"
+  ],
+  "description": "Cloudinary manages your web application’s resources in the cloud. The resources are delivered from high-performance servers through Content Delivery Networks."
+}

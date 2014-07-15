@@ -1,0 +1,16 @@
+{
+  "id": "ledningskollen",
+  "title": "Ledningskollen",
+  "link": "https://www.ledningskollen.se/English/Home",
+  "image": "https://www.ledningskollen.se/Templates/Images/LedningskollenLogo.gif",
+  "author": {
+    "name": "Ledningskollen.se"
+  },
+  "tags": [
+    "Service",
+    "Information",
+    "Pipelines",
+    "Excavation"
+  ],
+  "description": "Ledningskollen.se is a web service for sharing information about cables, pipelines and other infrastructure underground to reduce excavation damages and provide opportunities for digging coordination."
+}

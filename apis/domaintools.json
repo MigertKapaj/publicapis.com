@@ -1,0 +1,16 @@
+{
+  "id": "domaintools",
+  "title": "DomainTools",
+  "link": "http://www.domaintools.com/api/docs/authentication/",
+  "image": "http://www.domaintools.com/images/logos/DomainToolsLogo2013.gif",
+  "author": {
+    "name": "DomainTools"
+  },
+  "tags": [
+    "Data",
+    "Designed",
+    "Provide",
+    "Securely"
+  ],
+  "description": "The DomainTools API provides direct access to the same data that drives the powerful research tools on DomainTools.com. It is designed for server-to-server communication between your system and the DomainTools network using standard HTTP or HTTPS requests. The API can provide responses in both JSON and XML formats and offers a RESTful URL structure for most queries. You can authenticate securely using HMAC authentication (described in detail below) or with simple key/value pairs in the request. "
+}

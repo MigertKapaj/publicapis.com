@@ -1,0 +1,16 @@
+{
+  "id": "prowls-third-party",
+  "title": "Prowl's third-party",
+  "link": "http://www.prowlapp.com/api.php",
+  "image": "http://www.prowlapp.com/static/sprites.png",
+  "author": {
+    "name": "Prowl"
+  },
+  "tags": [
+    "Grow",
+    "Notification",
+    "Multitude",
+    "Integrate"
+  ],
+  "description": "Prowl is the Growl client for iOS. Push to your iPhone, iPod touch, or iPad notifications from a Mac or Windows computer, or from a multitude of apps and services. Easily integrate the Prowl API into your applications."
+}

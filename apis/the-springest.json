@@ -1,0 +1,15 @@
+{
+  "id": "the-springest",
+  "title": "The Springest ",
+  "link": "http://developer.springest.com/api",
+  "image": "https://4d9ae17c5ae68590ce6f-1c6f7d77e67457fef78cfb90b7e69696.ssl.cf3.rackcdn.com/images/developer.springest.com/springest-api-logo.png",
+  "author": {
+    "name": "Springest "
+  },
+  "tags": [
+    "Communicate",
+    "Country",
+    "Operates"
+  ],
+  "description": "The Springest API is a REST-ful API. This documentation will explain you how you can communicate with it. For each country that we operate in, our API is accessed through a different host. You'll need a separate API key for each host."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fma",
+  "title": "FMA",
+  "link": "http://freemusicarchive.org/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRCotIGEqYvBXqwF70MGuAtCuRwpMAPbFFLljn88XvlqpaFIcskbA",
+  "author": {
+    "name": "FMA"
+  },
+  "tags": [
+    "Interactive",
+    "Public",
+    "Access"
+  ],
+  "description": "The Free Music Archive is an interactive library of high-quality, legal audio downloads directed by WFMU, the most renowned freeform radio station in America.  Radio has always offered the public free access to new music."
+}

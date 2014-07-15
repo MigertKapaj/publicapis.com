@@ -1,0 +1,16 @@
+{
+  "id": "merriam-webster",
+  "title": "Merriam-Webster",
+  "link": "http://www.dictionaryapi.com/products/api-collegiate-thesaurus.htm",
+  "image": "http://www.dictionaryapi.com/images/dev-center-logo-500x100.png",
+  "author": {
+    "name": "Merriam-Webster"
+  },
+  "tags": [
+    "Indispensable",
+    "Thesaurus",
+    "Definitions",
+    "Idiomatic"
+  ],
+  "description": "The Collegiate® Thesaurus API is an updated collection of synonyms and antonyms, based on words entered in Merriam-Webster's Collegiate® Dictionary. An indispensable guide for choosing exactly the right word, with more than 275,000 word choices, examples, and explanations. This fully revised thesaurus includes usage examples for every synonym. Concise definitions pinpoint the meaning shared by synonyms. Alphabetical lists may also include related words, idiomatic phrases, and near antonyms."
+}

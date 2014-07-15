@@ -1,0 +1,16 @@
+{
+  "id": "zendesk",
+  "title": "Zendesk",
+  "link": "http://developer.zendesk.com/documentation/rest_api/introduction.html",
+  "image": "http://developer.zendesk.com/images/zendesk_developers_header.png",
+  "author": {
+    "name": "Zendesk"
+  },
+  "tags": [
+    "Restriction",
+    "Concernms",
+    "Policies",
+    "Documentation"
+  ],
+  "description": "This is the documentation for the Zendesk v2 API. Read the contents of this page carefully, including the Restrictions and Responsibilities described below, to understand how to be a good API citizen and to understand general restrictions and concerns.Your use and access to the API is expressly conditioned on your compliance with the policies, restrictions and other provisions related to the API set forth in our API Restrictions and Responsibilities and the other documentation we provide you"
+}

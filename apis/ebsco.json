@@ -1,0 +1,15 @@
+{
+  "id": "ebsco",
+  "title": "EBSCO",
+  "link": "http://www.ebscohost.com/discovery/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ5dZUE_c6lfRlZRVHSKCJdYqr1J8n8GwmtJ7gtZKDFumCDJxod",
+  "author": {
+    "name": "EBSCO"
+  },
+  "tags": [
+    "Connecting",
+    "Researchers",
+    "Service"
+  ],
+  "description": "Make the most out of your custom discovery solution by connecting researchers to superior content and enhanced search features through the EBSCO Discovery Service (EDS) API."
+}

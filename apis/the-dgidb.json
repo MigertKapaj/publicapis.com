@@ -1,0 +1,16 @@
+{
+  "id": "the-dgidb",
+  "title": "The DGIdb",
+  "link": "http://dgidb.genome.wustl.edu/api",
+  "image": "http://dgidb.genome.wustl.edu/assets/dgidb-header-branding_128c.png",
+  "author": {
+    "name": "DGIdb"
+  },
+  "tags": [
+    "Query",
+    "Drug",
+    "Gene",
+    "Intrection"
+  ],
+  "description": "The DGIdb API can be used to query for drug-gene interactions in your own applications through a simple JSON based interface.\n"
+}

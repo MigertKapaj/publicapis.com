@@ -1,0 +1,16 @@
+{
+  "id": "arkive",
+  "title": "Arkive",
+  "link": "https://www.arkive.org/api/docs/",
+  "image": "https://www.arkive.org/rimg/header/arkive-logo-large.png",
+  "author": {
+    "name": "Arkive"
+  },
+  "tags": [
+    "Instantly",
+    "Automatically",
+    "Generates",
+    "Instruction"
+  ],
+  "description": "The ARKive API (Application Programming Interface) allows you to embed species photos and facts from ARKive into your website. The images include the media credits of some of the world’s very best photographers and a link back to ARKive. Once you have chosen your content, you can instantly see how it will appear in a demo. You do not need to write any code as the ARKive API automatically generates it for you to copy and paste into the html of your website. Technical users can refer to the advanced instructions to automatically include content for multiple species."
+}

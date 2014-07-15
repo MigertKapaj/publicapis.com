@@ -1,0 +1,13 @@
+{
+  "id": "calil",
+  "title": "calil",
+  "link": "http://calil.jp/doc/api_ref.html",
+  "image": "http://calil.jp/public/img/2013/logo.png.pagespeed.ce.JYKfk8ftJe.png",
+  "author": {
+    "name": "calil"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "ウェブにJavaScriptを埋め込んで、簡単に図書館APIを利用できる図書館API JSライブラリを新たに公開しました。 こちらもぜひご利用ください。 "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "litmos",
+  "title": "Litmos",
+  "link": "http://help.litmos.com/developer-api/",
+  "image": "http://help.litmos.com/wp-content/uploads/2011/12/Litmos_STD_200.png",
+  "author": {
+    "name": "Litmos"
+  },
+  "tags": [
+    "Developers",
+    "Connect",
+    "Data",
+    "Systems"
+  ],
+  "description": "The Litmos API (Magnum) enables developers to connect their applications to the Litmos training engine. This allows for greater integration of training data generated in Litmos with any other systems that are currently used within your organization."
+}

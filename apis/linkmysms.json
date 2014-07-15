@@ -1,0 +1,16 @@
+{
+  "id": "linkmysms",
+  "title": "LinkmySMS",
+  "link": "http://www.linkmysms.com/index.php/api.html",
+  "image": "http://www.programmableweb.com/images/apis/at10150.png",
+  "author": {
+    "name": " LinkmySMS"
+  },
+  "tags": [
+    "Website",
+    "Messaging",
+    "HTTP",
+    "Balance"
+  ],
+  "description": "You can interface an application, website or system with our messaging gateway by using our very flexible HTTP API connection. Once you're connected, you'll be able to deliver messages or check your balance."
+}

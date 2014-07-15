@@ -1,0 +1,16 @@
+{
+  "id": "corpwatch",
+  "title": "CorpWatch",
+  "link": "http://api.corpwatch.org/documentation/api_examples.html",
+  "image": "",
+  "author": {
+    "name": "CorpWatch"
+  },
+  "tags": [
+    "Relationship",
+    "Information",
+    "Process",
+    "Data"
+  ],
+  "description": "The CorpWatch API uses automated parsers to extract the subsidiary relationship information from Exhibit 21 of companies' 10-K filings with the SEC and provides a free, well-structured interface for programs to query and process the data."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "foxycart",
+  "title": "Foxycart",
+  "link": "https://wiki.foxycart.com/v/0.6.0/docs/api",
+  "image": "https://cdn.foxycart.com/static/admin/slices/logo.png",
+  "author": {
+    "name": "Foxycart"
+  },
+  "tags": [
+    "Comfortable",
+    "Familiar",
+    "Responsible",
+    "Misuse"
+  ],
+  "description": "Like any API, FoxyCart's API is for advanced users only. If you're not comfortable with programming, you should probably get familiar with your language of choice first, and never test on a live store. FoxyCart cannot be held responsible for any misuse of the API. "
+}

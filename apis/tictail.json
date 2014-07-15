@@ -1,0 +1,17 @@
+{
+  "id": "tictail",
+  "title": "Tictail",
+  "link": "https://tictail.com/developers/",
+  "image": "https://tictail.com/developers/wp-content/themes/tictail-developers/img/top-bar-logo-beta.png?v=2",
+  "author": {
+    "name": "Tictail"
+  },
+  "tags": [
+    "Write",
+    "Data",
+    "Humans",
+    "Responses",
+    "Errors"
+  ],
+  "description": "The Tictail API is what you'll use to read, write and update data in the Tictail stores using your app. We have tried to make the API understandable for humans and machines alike, using standard HTTP verbs and status codes and JSON-formatted responses for everything, including errors."
+}

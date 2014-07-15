@@ -1,0 +1,16 @@
+{
+  "id": "viafo",
+  "title": "Viafo",
+  "link": "http://wiki.viafo.com/doku.php",
+  "image": "http://static.squarespace.com/static/50538c3de4b06a8cd25b0aa1/t/50538df1c4aa7b20b32c1b44/1385598019890/?format=750w",
+  "author": {
+    "name": "Viafo Documentation"
+  },
+  "tags": [
+    "Developers",
+    "Manage",
+    "Services",
+    "Web."
+  ],
+  "description": "Viafo's gateway provides a simple, REST based, way for developers to add, control, manage and track social and other services without having to spend huge amounts of time integrating different web services directly into their app. Integrate directly to our API and that's all you need to."
+}

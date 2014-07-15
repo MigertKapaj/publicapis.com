@@ -1,0 +1,15 @@
+{
+  "id": "aviary",
+  "title": "aviary",
+  "link": "http://www.aviary.com/",
+  "image": "http://images.aviary.com/v9/20140408/img/logo-sdk.png",
+  "author": {
+    "name": "aviary"
+  },
+  "tags": [
+    "Browsers",
+    "Cropping",
+    "Toolset"
+  ],
+  "description": "The Aviary Javascript SDK works in all major browsers, giving you intuitive editing tools for everything from quick fixes and one-tap auto enhance to stylistic effects, cropping, and red eye removal. Adjust the colors of our editor & choose the toolset you need."
+}

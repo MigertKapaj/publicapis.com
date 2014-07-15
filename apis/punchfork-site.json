@@ -1,0 +1,15 @@
+{
+  "id": "punchfork-site",
+  "title": "Punchfork site",
+  "link": "http://punchfork.com/api",
+  "image": "http://punchfork.com/punchfork-header-logo.png",
+  "author": {
+    "name": "Punchfork"
+  },
+  "tags": [
+    "Plateform",
+    "Inspiration",
+    ""
+  ],
+  "description": "Pinterest is often described as a platform for inspiration, and we feel this aligns perfectly with the goals of Punchfork. We couldn't be more thrilled to join forces with the Pinterest team in San Francisco.we will soon be retiring the Punchfork site, API and mobile apps. We believe that a unified destination benefits our users in the long run, and the Punchfork team will focus on contributing to Pinterest as the premier platform for discovering and sharing new recipes and other interests on the web."
+}

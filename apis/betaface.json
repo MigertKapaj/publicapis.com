@@ -1,0 +1,15 @@
+{
+  "id": "betaface",
+  "title": "Betaface",
+  "link": "http://betafaceapi.com/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjWO_S2eP5urgfOEZeJmQA4Z8_31K3u5rw47i_WmzJMAS9g7Q2yA",
+  "author": {
+    "name": "Betaface"
+  },
+  "tags": [
+    "Webservice",
+    "Queued",
+    "Delay"
+  ],
+  "description": "Feel free to use this shared webservice for commercial or non-commercial applications. Depends on the amount of requests you send to webservice your images may be queued and processed with delay."
+}

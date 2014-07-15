@@ -1,0 +1,15 @@
+{
+  "id": "applicasa",
+  "title": "Applicasa",
+  "link": "http://doc.applicasa.com/docs/content/REST/",
+  "image": "http://www.applicasa.com/images/logo.png",
+  "author": {
+    "name": "Applicasa"
+  },
+  "tags": [
+    "Platform",
+    "Explanation",
+    "Chat"
+  ],
+  "description": "Here you can get a full overview on Applicasa’s dashboard. Find out what each screen, button and section in the platform means. \nIf you have any question regarding a part in the dashboard, simply use this section of the documentation to find an explanation about it. If not, feel free to contact our support at: support@applicasa.com or use the support button to chat with us live."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "dmoz",
+  "title": "DMOZ",
+  "link": "https://www.mashape.com/enclout/dmoz",
+  "image": "",
+  "author": {
+    "name": "enclout"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API retrieves DMOZ category for a given domain"
+}

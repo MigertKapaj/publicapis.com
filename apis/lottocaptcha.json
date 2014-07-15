@@ -1,0 +1,13 @@
+{
+  "id": "lottocaptcha",
+  "title": "LottoCaptcha",
+  "link": "http://www.lottocaptcha.com/resources/",
+  "image": "http://www.lottocaptcha.com/img/logo.gif",
+  "author": {
+    "name": "LottoCaptcha"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "In order to display LottoCaptcha on your website, and validate it through LottoCaptcha API"
+}

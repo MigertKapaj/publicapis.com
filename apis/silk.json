@@ -1,0 +1,16 @@
+{
+  "id": "silk",
+  "title": "Silk",
+  "link": "http://developer.silk.co/",
+  "image": "http://developer.silk.co/s/api/v1.4/site/current/file/id/bb71be3d-95e7-46a8-8a9c-8706504db5a5/",
+  "author": {
+    "name": "Silk"
+  },
+  "tags": [
+    "Reading",
+    "Writing",
+    "Logic",
+    ""
+  ],
+  "description": "Silk has a REST based API for reading and writing. This is the basic documentation (for version 1.4.0 of the API) with the most important concepts and logic. Silk itself runs on its own API. So everything you can do on Silk, you can do with the API."
+}

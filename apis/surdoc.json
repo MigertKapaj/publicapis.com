@@ -1,0 +1,15 @@
+{
+  "id": "surdoc",
+  "title": "Surdoc",
+  "link": "https://open.surdoc.com/openapi/surdoc-api.do",
+  "image": "https://open.surdoc.com/imgs/pc/logo.png",
+  "author": {
+    "name": "SurDoc"
+  },
+  "tags": [
+    "Direct",
+    "Access",
+    "Developing"
+  ],
+  "description": "The REST API is the underlying interface for our official SDKs. It’s the most direct way to access the API. This reference document is designed for those interested in developing for platforms not supported by the SDKs or for those interested in exploring API features in detail."
+}

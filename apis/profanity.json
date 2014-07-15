@@ -1,0 +1,13 @@
+{
+  "id": "profanity",
+  "title": "Profanity",
+  "link": "https://www.mashape.com/nsure-io/profanity",
+  "image": "",
+  "author": {
+    "name": "nsure.io"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "From \"fuster clucks\" to 1337 speak, keeping track of profanity and blocking it in your app can be a real nightmare. The nsurePROFANITY API puts a stop to the f-bomb."
+}

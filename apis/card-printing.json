@@ -1,0 +1,13 @@
+{
+  "id": "card-printing",
+  "title": "Card Printing",
+  "link": "https://www.mashape.com/mimeoconnect/card-printing",
+  "image": "",
+  "author": {
+    "name": "mimeoconnect"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API provides card printing services for developers. It enables you to price and order commercially printed cards in different sizes, paper and coating from within your web and mobile applications."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pool-x.eu",
+  "title": "Pool-X.eu",
+  "link": "http://pool-x.eu/aboutapi",
+  "image": "",
+  "author": {
+    "name": "Pool-X.eu"
+  },
+  "tags": [
+    "Contact",
+    "Personal",
+    "Access"
+  ],
+  "description": "The default API output format is JSON. Feel free to contact me if you would like something added or need a custom API for your site or personal use. Please do not hammer this API with more than 1 request per 10 secs or your client will be denied access."
+}

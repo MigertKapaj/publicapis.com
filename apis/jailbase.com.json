@@ -1,0 +1,16 @@
+{
+  "id": "jailbase.com",
+  "title": "JailBase.com",
+  "link": "http://www.jailbase.com/api/",
+  "image": "http://images.jailbase.com/media3/images/logo.jpg",
+  "author": {
+    "name": "JailBase"
+  },
+  "tags": [
+    "Website",
+    "Access",
+    "Search",
+    "Booked"
+  ],
+  "description": "JailBase.com has an easy to use web api so your website or application can access our extensive county jail inmate data. Using the API, you can search for arrested and booked individuals in county jails."
+}

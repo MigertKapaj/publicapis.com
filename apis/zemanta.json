@@ -1,0 +1,15 @@
+{
+  "id": "zemanta",
+  "title": "Zemanta",
+  "link": "http://developer.zemanta.com/",
+  "image": "http://developer.zemanta.com/media/images/layout/logo.png",
+  "author": {
+    "name": "Zemanta"
+  },
+  "tags": [
+    "Parameters",
+    "Relevance",
+    "Entry"
+  ],
+  "description": "7th January 2011 -- We've added some new parameters to our responses. Among others you can find \"relevance\" for links (we used to do just \"confidence\") and \"entity_type\" to determine  which kind of entity it is (a person, book, place...)"
+}

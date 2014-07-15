@@ -1,0 +1,15 @@
+{
+  "id": "opuss",
+  "title": "Opuss",
+  "link": "http://opuss.com/developer/apiv100docs.html",
+  "image": "http://opuss.com/img/logo_paw.png",
+  "author": {
+    "name": "Opuss"
+  },
+  "tags": [
+    "Community",
+    "Developer",
+    "Service"
+  ],
+  "description": "Opuss is a thriving community of talented writers passionate about the beauty of the written word. We value this community and believe that for it to grow we need to make available the tools to let other developers create wonderful apps and web services around it."
+}

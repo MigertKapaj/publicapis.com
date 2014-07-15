@@ -1,0 +1,15 @@
+{
+  "id": "helioviewer",
+  "title": "Helioviewer",
+  "link": "http://helioviewer.org/api/docs/v1/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR6gbXRXWiTe0D4RWJUpk9akeiZPrAOj7zEz3-4CPiJdvriwrmWHA",
+  "author": {
+    "name": "Helioviewer"
+  },
+  "tags": [
+    "Improving",
+    "Access",
+    "Developers"
+  ],
+  "description": "The Helioviewer Project maintains a set of Public APIs with the goal of improving access to solar and heliospheric datasets to scientists, educators, developers, and the general public."
+}

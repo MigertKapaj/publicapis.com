@@ -1,0 +1,16 @@
+{
+  "id": "chef-server",
+  "title": "Chef Server",
+  "link": "http://docs.opscode.com/api_chef_server.html",
+  "image": "http://docs.opscode.com/_static/chef_html_logo.png",
+  "author": {
+    "name": "Chef Server"
+  },
+  "tags": [
+    "Access",
+    "Objects",
+    "Nodes",
+    "Roles"
+  ],
+  "description": "The Chef Server API is a REST API that provides access to objects on the Chef server, including nodes, environments, roles, cookbooks (and \ncookbook versions), and to manage an API client list and the associated RSA public key-pairs."
+}

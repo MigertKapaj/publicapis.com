@@ -1,0 +1,15 @@
+{
+  "id": "binbox",
+  "title": "Binbox",
+  "link": "http://binbox.io/api",
+  "image": "http://binbox.io/public/img/logo.png",
+  "author": {
+    "name": "Binbox"
+  },
+  "tags": [
+    "Referrals",
+    "Specific",
+    "Account"
+  ],
+  "description": "Using our API is an easy way to earn money through referrals. Each user is given a specific API URL as well as a global API URL for anybody who wants to use our API without an account."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "my-movies-collection",
+  "title": "My Movies Collection",
+  "link": "http://mymoviescollection.net/about/api/",
+  "image": "http://mymoviescollection.net/images/template/logo.png",
+  "author": {
+    "name": "My Movies Collection"
+  },
+  "tags": [
+    "Developer",
+    "Integrate"
+  ],
+  "description": "The My Movies Collection \"so called\" API is a very simple interface developers can use to integrate My Movies Collection into their applications."
+}

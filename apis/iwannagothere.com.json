@@ -1,0 +1,15 @@
+{
+  "id": "iwannagothere.com",
+  "title": "iwannagothere.com",
+  "link": "http://iwannagothere.com/api/places_info#get_place_guides",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3XPYKBBDjBzymYOVoZHws_4pq3amLcMvklBiAvMZCB6QnUE7j",
+  "author": {
+    "name": "iwannagothere.com"
+  },
+  "tags": [
+    "Consists",
+    "Provide",
+    "Categories"
+  ],
+  "description": "The iwannagothere.com API consists of a set of callable methods that provide all the information about categories, places and items that you can find at iwannagothere."
+}

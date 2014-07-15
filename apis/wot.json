@@ -1,0 +1,16 @@
+{
+  "id": "wot",
+  "title": "WOT",
+  "link": "http://www.mywot.com/wiki/API",
+  "image": "https://www.mywot.com/w/wotlogo.png",
+  "author": {
+    "name": "WOT"
+  },
+  "tags": [
+    "Reputations",
+    "Ratings",
+    "Concepts",
+    "Data"
+  ],
+  "description": "The WOT reputation system computes website reputations using ratings received from users and information from third-party sources. This section contains a brief introduction to some of the concepts you will need to know to develop applications that use reputation data.\n"
+}

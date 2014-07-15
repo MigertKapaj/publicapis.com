@@ -1,0 +1,16 @@
+{
+  "id": "the-commission-factory",
+  "title": "The Commission Factory",
+  "link": "http://dev.commissionfactory.com.au/V1/",
+  "image": "http://dev.commissionfactory.com.au/Media/Logo.png",
+  "author": {
+    "name": " Commission Factory"
+  },
+  "tags": [
+    "Documentation",
+    "Functionality",
+    "Various",
+    "Interpret"
+  ],
+  "description": " The Commission Factory API Documentation.The Commission Factory API exposes a wide range of functionality, for both affilite and merchant users.To get started, the following pages cover various topics that will help you understand how to call API functions, and how to interpret results.\n    "
+}

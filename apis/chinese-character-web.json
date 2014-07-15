@@ -1,0 +1,16 @@
+{
+  "id": "chinese-character-web",
+  "title": "Chinese Character Web",
+  "link": "http://ccdb.hemiola.com/",
+  "image": "",
+  "author": {
+    "name": "Chinese Character Web"
+  },
+  "tags": [
+    "Web",
+    "Provides",
+    "Data",
+    "Interface"
+  ],
+  "description": "The Chinese Character Web API provides a programmatic way to get information about Chinese characters through a live interface on the Web. The data is from the Unihan Database as provided by The Unicode Consortium."
+}

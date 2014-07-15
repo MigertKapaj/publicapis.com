@@ -1,0 +1,15 @@
+{
+  "id": "google-stock",
+  "title": "Google Stock ",
+  "link": "http://www.jarloo.com/google-stock-api/",
+  "image": "http://www.jarloo.com/wp-content/uploads/2011/10/logo5.png",
+  "author": {
+    "name": "Jarloo"
+  },
+  "tags": [
+    "Consumer",
+    "Exposes",
+    "Message"
+  ],
+  "description": "RabbitMQ has a handy consumer you can use instead of the BasicConsumer called EventingBasicConsumer. This Consumer class exposes a Received Event, so you can bind to your channel and have RabbitMQ give you a nice event when a message is ready."
+}

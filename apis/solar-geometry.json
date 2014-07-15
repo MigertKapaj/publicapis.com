@@ -1,0 +1,13 @@
+{
+  "id": "solar-geometry",
+  "title": "Solar geometry",
+  "link": "https://www.mashape.com/tadatoshi/solar-geometry",
+  "image": "",
+  "author": {
+    "name": "tadatoshi"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Calculates the geometry of the Sun such as the direction of the sunlight on the panel such as solar panel."
+}

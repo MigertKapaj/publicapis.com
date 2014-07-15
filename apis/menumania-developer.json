@@ -1,0 +1,16 @@
+{
+  "id": "menumania-developer",
+  "title": "MenuMania Developer",
+  "link": "http://www.menumania.co.nz/developers/",
+  "image": "http://www.restaurantnz.co.nz/images/logos/Associate%20Logos/menumania.jpg",
+  "author": {
+    "name": "MenuMania"
+  },
+  "tags": [
+    "interface",
+    "Visitor",
+    "Application",
+    "Geo point"
+  ],
+  "description": "Using the Developer API you can interface directly with the MenuMania database and allow your site visitors or application users to View restaurants by location and cuisineSearch for restaurants by GeoPoint and Radius, Address and Suburb/City and/or KeywordNarrow Result Set by Cuisine and/or Attributes"
+}

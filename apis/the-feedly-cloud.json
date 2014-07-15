@@ -1,0 +1,16 @@
+{
+  "id": "the-feedly-cloud",
+  "title": "The feedly Cloud",
+  "link": "http://developer.feedly.com/",
+  "image": "http://developer.feedly.com/images/logo_cloud_white.png",
+  "author": {
+    "name": " feedly Cloud"
+  },
+  "tags": [
+    "Inspiration",
+    "Passion",
+    "Devices",
+    "Experiences"
+  ],
+  "description": "Millions of users depend on their feedly for inspiration, information, and to feed their passions. But one size does not fit all. Individuals have different workflows, different habits, and different devices.  In our efforts to evolve feedly from a product to a platform, we have therefore decided to open up the feedly API. Developers are welcome to deliver new applications, experiences, and innovations via the feedly cloud."
+}

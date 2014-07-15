@@ -1,0 +1,15 @@
+{
+  "id": "imagecollect",
+  "title": "ImageCollect",
+  "link": "http://imagecollect.com/api/pictures-search",
+  "image": "http://imagecollect.com/img/logo.gif",
+  "author": {
+    "name": "ImageCollect"
+  },
+  "tags": [
+    "Service",
+    "Design",
+    "Mobile"
+  ],
+  "description": "The ImageCollect API allows our partners to design their own services, programs, and platforms based off of the ImageCollect interface - on the web, desktop, mobile devices, and more. "
+}

@@ -1,0 +1,14 @@
+{
+  "id": "loco-converter",
+  "title": "Loco Converter",
+  "link": "https://localise.biz/free/converter/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbyIzPP5e9JbdfF7KiVkZdMA_lOkdOIjGjVktTTaaRefRYTtvl",
+  "author": {
+    "name": "Loco"
+  },
+  "tags": [
+    "Language",
+    "Formats"
+  ],
+  "description": "Convert between various language pack file formats with this simple Web API.\nThis is part of the full Loco API, but you're free to use it without an account."
+}

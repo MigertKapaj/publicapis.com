@@ -1,0 +1,16 @@
+{
+  "id": "ustream",
+  "title": "Ustream",
+  "link": "http://developer.ustream.tv/data_api/docs",
+  "image": "http://developer.ustream.tv/sites/all/themes/ustream/images/sprites_v3.png",
+  "author": {
+    "name": "Ustream"
+  },
+  "tags": [
+    "Search",
+    "People",
+    "Intresting",
+    "Total"
+  ],
+  "description": "Access content available on the Ustream website. Search for people, channels and videos. Pull down useful or interesting systems and operations information such as the most recently started show and total concurrent shows."
+}

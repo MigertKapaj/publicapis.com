@@ -1,0 +1,16 @@
+{
+  "id": "bugsnag",
+  "title": "Bugsnag",
+  "link": "https://bugsnag.com/docs/api",
+  "image": "https://bugsnag.com/assets/website/logo-dark-2a53c86ed3001918763d6724d63c68ab.png",
+  "author": {
+    "name": "Bugsnag"
+  },
+  "tags": [
+    "Project",
+    "Errors",
+    "Web",
+    "Exceptions"
+  ],
+  "description": "Bugsnag provides a simple JSON-based API to access information about your Bugsnag account, project and errors.\nBugsnag captures errors in real-time from your web, mobile and desktop applications, helping you to understand and resolve them \nas fast as possible. Create a free account to start capturing exceptions from your applications."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cloud-files",
+  "title": "Cloud Files",
+  "link": "http://www.rackspace.com/cloud/files/api/",
+  "image": "http://images.cdn.rackspace.com/header/rackspace-logo-nav-122x36.png",
+  "author": {
+    "name": "rackspace"
+  },
+  "tags": [
+    "Developers",
+    "Unique",
+    "Solution"
+  ],
+  "description": "The Cloud Files Application Programming Interface (API) allows developers to build their own unique solutions on top of Rackspace's infrastructure. Below are three examples of the numerous applications that have been built using the Cloud Files API."
+}

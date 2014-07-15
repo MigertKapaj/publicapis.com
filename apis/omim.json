@@ -1,0 +1,15 @@
+{
+  "id": "omim",
+  "title": "OMIM",
+  "link": "http://omim.org/help/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSAyneigPBzKIqudmzND9wniiZwONn_WVYlg_cQKGeGwEcuJANahw",
+  "author": {
+    "name": "OMIM"
+  },
+  "tags": [
+    "Website",
+    "Updated",
+    "Response."
+  ],
+  "description": "The OMIM API is a REST-based API against which requests can be made over HTTP. The OMIM website is built on this API so any data and functionality available in the website is also available from the API. The data are updated nightly, and the response can be formatted in XML, JSON, JSONP, Python, or Ruby.\n                    \n                \n\n                \n"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cronos",
+  "title": "CRONOS ",
+  "link": "http://www.nc-climate.ncsu.edu/cronos/api/",
+  "image": "http://www.nc-climate.ncsu.edu/images/SCO_Banner_NewLogo.png",
+  "author": {
+    "name": "CRONOS "
+  },
+  "tags": [
+    "Data",
+    "Perl",
+    "PHP",
+    "Java"
+  ],
+  "description": "The CRONOS API, or web service, enables developers and scientists to access CRONOS data without concerning themselves with database structure or query syntax.  Data can be retrieved by calling a URL.  This is especially well suited for Perl, PHP, Java and other scripting languages.  All queries go through a URL string.  Output is plain text and formatted to parsed easily.  Development is still underway.  No warranties are made."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "shiftboard",
+  "title": "Shiftboard",
+  "link": "https://www.shiftdata.com/",
+  "image": "https://www.shiftboard.com/images/logo.gif",
+  "author": {
+    "name": "Shiftboard"
+  },
+  "tags": [
+    "Software",
+    "Flexible",
+    "Extensible",
+    "Workforce"
+  ],
+  "description": "Shiftboard Online scheduling software provides the most flexible and extensible set of transaction-oriented API's and developer test tools to support real-time, secure, and direct access to the robust Shiftboard online scheduling and workforce management service platform."
+}

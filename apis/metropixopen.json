@@ -1,0 +1,15 @@
+{
+  "id": "metropixopen",
+  "title": "MetropixOpen",
+  "link": "http://www.metropix.co.uk/mtpix/api.aspx",
+  "image": "http://www.metropix.co.uk/mtpix/nlp/img/metropix_logo_350x74.png",
+  "author": {
+    "name": "Metropix"
+  },
+  "tags": [
+    "Floor",
+    "Plans",
+    "Market"
+  ],
+  "description": "MetropixOpen is Metropix's API, or Application Programming Interface.  It allows other companies to add floor plans to their portfolio, taking advantage of Metropix technology to ensure a market-leading product and a rapid route to market."
+}

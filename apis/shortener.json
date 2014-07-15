@@ -1,0 +1,15 @@
+{
+  "id": "shortener",
+  "title": "Shortener",
+  "link": "http://jmb.tw/api",
+  "image": "http://jmb.tw/img/jmb.tw.jpg",
+  "author": {
+    "name": "JumboTweet"
+  },
+  "tags": [
+    "Perform",
+    "Shorten",
+    "Obtain"
+  ],
+  "description": "To perform an API call, simply point your browser/script to : \"http://jmb.tw/api/create/?newurl=\" and pass the URL to shorten as a parameter. For example to programatically obtain the shortened url for the URL jumbotweet.com,"
+}

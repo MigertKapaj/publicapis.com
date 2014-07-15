@@ -1,0 +1,16 @@
+{
+  "id": "harvard-faculty-finder",
+  "title": "Harvard Faculty Finder",
+  "link": "http://api.facultyfinder.harvard.edu/",
+  "image": "",
+  "author": {
+    "name": "Harvard Faculty Finder"
+  },
+  "tags": [
+    "Scholarship",
+    "According",
+    "Teaching",
+    "Data"
+  ],
+  "description": "The Harvard Faculty Finder (HFF) website creates an institution-wide view of the breadth and depth of Harvard faculty and scholarship, and it helps students, faculty, administrators, and the general public locate Harvard faculty according to research and teaching expertise. More information about the HFF website and the data it contains can be found on the Harvard University Faculty Development & Diversity website."
+}

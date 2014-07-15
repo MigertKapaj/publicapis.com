@@ -1,0 +1,16 @@
+{
+  "id": "options",
+  "title": "Options",
+  "link": "http://codex.wordpress.org/Options_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Data",
+    "Access",
+    "Technical",
+    "Reference"
+  ],
+  "description": "The Options API is a simple and standardized way of storing data in the database. The API makes it easy to create, access, update, and delete options. All the data is stored in the wp_options table under a given custom name. This page contains the technical documentation needed to use the Options API. A list of default options can be found in the Option Reference. "
+}

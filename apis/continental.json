@@ -1,0 +1,15 @@
+{
+  "id": "continental",
+  "title": "CONTINENTAL",
+  "link": "http://api.continentalclothing.com/doc",
+  "image": "",
+  "author": {
+    "name": "CONTINENTAL"
+  },
+  "tags": [
+    "Register",
+    "Notice",
+    "Require"
+  ],
+  "description": "In order the get your authKey please register or login and check the Authentication Keys. Please notice that all of API methods require a valid authKey!\n"
+}

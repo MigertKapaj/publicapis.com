@@ -1,0 +1,15 @@
+{
+  "id": "hts",
+  "title": "HTS",
+  "link": "http://www.translated.net/en/translation-api",
+  "image": "http://www.translated.net/en/pub/images/translated-logo.gif",
+  "author": {
+    "name": "Translated.net"
+  },
+  "tags": [
+    "Receive",
+    "Professional",
+    "Documents"
+  ],
+  "description": "HTS™ is an API that allows you to request and receive a professional translation without having to exchange documents via e-mail. "
+}

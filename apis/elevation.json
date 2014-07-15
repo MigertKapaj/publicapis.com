@@ -1,0 +1,16 @@
+{
+  "id": "elevation",
+  "title": "Elevation",
+  "link": "https://developers.google.com/maps/documentation/elevation/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Developer",
+    "Interface",
+    "Data",
+    "Elevation"
+  ],
+  "description": "Welcome to the developer documentation for the Google Elevation API! The Google Elevation API provides you a simple interface to query locations on the earth for elevation data. Additionally, you may request sampled elevation data along paths, allowing you to calculate elevation changes along routes."
+}

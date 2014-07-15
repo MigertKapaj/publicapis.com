@@ -1,0 +1,15 @@
+{
+  "id": "products",
+  "title": "Products",
+  "link": "http://www.wilocate.net/products.html",
+  "image": "",
+  "author": {
+    "name": "WiLocate"
+  },
+  "tags": [
+    "Details",
+    "Market",
+    "Adding"
+  ],
+  "description": "We have a location  API for Android and iPhone. Please contact us for more details.Our sample app WiLocator is available on Android Market. We are adding locations as we speak."
+}

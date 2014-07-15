@@ -1,0 +1,14 @@
+{
+  "id": "pinterest",
+  "title": "Pinterest",
+  "link": "http://pinterestapi.co.uk/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9M-5FwzMyL2ysTKM-vtdZGA1DGve5fud3QrQ5sVjtCI5w9LBz",
+  "author": {
+    "name": "Pinterest"
+  },
+  "tags": [
+    "Site",
+    "Scraper."
+  ],
+  "description": "Pinterest have changed how their site works so the scraper no longer works correctly. There is no planned fix at the moment, apologies."
+}

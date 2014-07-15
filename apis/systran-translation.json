@@ -1,0 +1,16 @@
+{
+  "id": "systran-translation",
+  "title": "SYSTRAN Translation",
+  "link": "http://www.translationsoftware4u.com/api.php",
+  "image": "http://www.translationsoftware4u.com/images/T4U-new-logo2012.png",
+  "author": {
+    "name": "TranslationSoftware4U.com"
+  },
+  "tags": [
+    "Utilized",
+    "Translating",
+    "Data",
+    "Documents"
+  ],
+  "description": "Systran's powerful language translation API is being utilized by thousands of companies worldwide as an invaluable tool for translating large volumes of data with the speed and accuracy required in today's marketplace. In fact millions of documents are translated daily using Systran."
+}

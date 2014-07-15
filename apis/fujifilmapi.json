@@ -1,0 +1,15 @@
+{
+  "id": "fujifilmapi",
+  "title": "Fujifilmapi",
+  "link": "https://www.fujifilmapi.com/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuOddCf4LmK-ICv49Ll5nPqmBxllYLUc_Uc3AHSSJWnMYnyJaL8g",
+  "author": {
+    "name": "FujiFilm"
+  },
+  "tags": [
+    "Interface",
+    "Technology",
+    "Product"
+  ],
+  "description": "The Smart Publishing API is your interface into our cart and fulfillment system.  Utilizing RESTful technologies, we've made it easy to add cart and checkout for photo print and product items to your applications."
+}

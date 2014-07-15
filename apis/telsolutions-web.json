@@ -1,0 +1,17 @@
+{
+  "id": "telsolutions-web",
+  "title": "Telsolutions WEB",
+  "link": "http://www.telsolutions.co.uk/Web-API.php",
+  "image": "http://www.telsolutions.co.uk/layout/logos/telsolutions.gif?1",
+  "author": {
+    "name": "Telsolutions"
+  },
+  "tags": [
+    "Service",
+    "Possible",
+    "Communications",
+    "According",
+    "Technical"
+  ],
+  "description": "The Telsolutions Web Services API makes it possible to seamlessly incorporate proactive customer communications into your business. The API enables users to integrate Telsolutions multi-channel communications solutions into their own business applications, according to their business rules and technical needs."
+}

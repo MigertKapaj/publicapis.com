@@ -1,0 +1,15 @@
+{
+  "id": "aol-on-network",
+  "title": "AOL On Network",
+  "link": "https://support.aolonnetwork.com/API/Videos",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQEt9EaWHVRUXtgcwTTw4icCGffIqXJPi9JRXwuHv67MpqVZ81Z",
+  "author": {
+    "name": "AOL On Network"
+  },
+  "tags": [
+    "Developer",
+    "Functionality",
+    "Data"
+  ],
+  "description": "Welcome to The AOL On Network’s API developer documentation. It enables you to integrate our video content, display and functionality into your website. Below you'll find links to helpful documentation on all of the different methods you can use to get data from The Aol On Network."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "the-wallpaper-abyss",
+  "title": "The Wallpaper Abyss",
+  "link": "http://wall.alphacoders.com/api.php",
+  "image": "",
+  "author": {
+    "name": "Wallpaper Abyss "
+  },
+  "tags": [
+    "Commercial",
+    "Non- commercial",
+    "Queries",
+    "Branding"
+  ],
+  "description": "The API is free to use up to 5,000 queries/day for commercial and non commercial use :)Please include A 'Powered By Wallpaper Abyss' link that links to http://wall.alphacoders.com somewhere on pages that use our api. Place it wherever you want.If you need more queries/day, or want to remove the branding, please contact us at admin@alphacoders.comIt's our goal to provide the API at cost, so rates are very low. We want you to still be able to make a living too :)"
+}

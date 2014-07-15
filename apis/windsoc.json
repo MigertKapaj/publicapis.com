@@ -1,0 +1,15 @@
+{
+  "id": "windsoc",
+  "title": "Windsoc",
+  "link": "http://www.windsoc.co/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJDnbtwqoQvxWI6FHdEmo82vRNlMnF39Y5z7FsdVFU3JDSe9775w",
+  "author": {
+    "name": "Windsoc"
+  },
+  "tags": [
+    "Requires",
+    "Access",
+    "Request"
+  ],
+  "description": "Please note: the Windsoc API is currently in beta. All URLs and parameters are subject to change. The Windsoc API requires an access_token parameter passed with every request."
+}

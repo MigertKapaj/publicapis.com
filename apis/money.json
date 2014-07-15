@@ -1,0 +1,15 @@
+{
+  "id": "money",
+  "title": "Money",
+  "link": "http://api.yandex.com/money/doc/dg/concepts/protocol-response.xml",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3DngKXlxGhX8MbX-007X-A0taahawi488QRQ9P9O1oCgmiEb4",
+  "author": {
+    "name": "Yandex"
+  },
+  "tags": [
+    "Virtually",
+    "Connected",
+    "Services"
+  ],
+  "description": "The API enables you to offer your clients virtually any opportunity connected with paying for goods and services that is useful to your business."
+}

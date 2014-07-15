@@ -1,0 +1,13 @@
+{
+  "id": "myshows.ru",
+  "title": "MyShows.ru",
+  "link": "http://api.myshows.ru/",
+  "image": "",
+  "author": {
+    "name": "MyShows.ru"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

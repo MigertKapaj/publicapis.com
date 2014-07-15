@@ -1,0 +1,15 @@
+{
+  "id": "developers",
+  "title": "Developers",
+  "link": "https://developer.id.me/documentation/endpoints",
+  "image": "https://developer.id.me/assets/icons/developers-bf09a4318282da71a9465ed915149f1a.png",
+  "author": {
+    "name": "Developers"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Retrieve"
+  ],
+  "description": "Clients access protected data by making API calls with the access token for a given user. Please see the OAuth Implementation page for instructions on how to retrieve an access token. "
+}

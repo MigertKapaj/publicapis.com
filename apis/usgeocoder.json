@@ -1,0 +1,16 @@
+{
+  "id": "usgeocoder",
+  "title": "USgeocoder",
+  "link": "http://usgeocoder.com/api_overview",
+  "image": "http://usgeocoder.com/img/logo.gif",
+  "author": {
+    "name": "USgeocoder"
+  },
+  "tags": [
+    "Political",
+    "Municipal",
+    "Senators",
+    "State governor"
+  ],
+  "description": "Auto-populate your constituents' political jurisdictions from Congressional to municipal, tribal reservation, and school board levels Auto-populate your constituents' Senators, Congress people, State Legislators, and State Governor and Lieutenant Governor Auto-populate your constituents' voting precincts Auto-populate zip+9 and carrier route information for your mass mailings, member service files and customer files Calculate California Sales and Use Tax rates for your online stores"
+}

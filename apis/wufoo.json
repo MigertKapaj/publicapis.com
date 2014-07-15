@@ -1,0 +1,16 @@
+{
+  "id": "wufoo",
+  "title": "Wufoo",
+  "link": "http://www.wufoo.com/docs/api/v3/",
+  "image": "http://www.wufoo.com/images/loginosaur2.png",
+  "author": {
+    "name": "Wufoo"
+  },
+  "tags": [
+    "Data",
+    "Provide",
+    "Advanced",
+    "Reports"
+  ],
+  "description": "The Wufoo API is designed to unlock the potential of the data stored inside your Wufoo account. We provide all the tools required to build applications, advanced reports and visualizations not currently offered by the default Wufoo UI."
+}

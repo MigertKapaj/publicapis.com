@@ -1,0 +1,16 @@
+{
+  "id": "coupz.com",
+  "title": "Coupz.com",
+  "link": "http://www.coupz.com/api/index.html",
+  "image": "http://coupz.com/media/images/logo_cloud2.png",
+  "author": {
+    "name": "Coupz"
+  },
+  "tags": [
+    "Aggregator",
+    "Discounts",
+    "Coupons",
+    "Cream"
+  ],
+  "description": "We are a 50% to 90% off deal aggregator. Meaning we look through all the best discounts, coupons, daily deal sites that are out there and bring you the cream of the crop."
+}

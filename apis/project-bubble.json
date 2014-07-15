@@ -1,0 +1,16 @@
+{
+  "id": "project-bubble",
+  "title": "Project Bubble",
+  "link": "http://projectbubble.com/developers/api",
+  "image": "http://static.projectbubble.com/static/enterprise/images/logo.png",
+  "author": {
+    "name": "Project Bubble"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Applications",
+    "Parameter."
+  ],
+  "description": "The Project Bubble Restful API allows you to access and download your data as well as develop applications. Responses are in XML format but can be return in other formats such as CSV, JSON, and HTML by using a /format/csv parameter."
+}

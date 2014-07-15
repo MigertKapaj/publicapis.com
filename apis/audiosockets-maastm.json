@@ -1,0 +1,17 @@
+{
+  "id": "audiosockets-maastm",
+  "title": " Audiosocket's MaaS™",
+  "link": "http://develop.audiosocket.com/",
+  "image": "http://develop.audiosocket.com/images/audiosocket.png",
+  "author": {
+    "name": " Audiosocket's MaaS™"
+  },
+  "tags": [
+    "Integration",
+    "Search",
+    "stream",
+    "license",
+    "Independent"
+  ],
+  "description": " Audiosocket's MaaS™ development site. MaaS provides a rich integration API that allows you to search,stream, and license thousands of tracks from the world's best independent musicians. Need help? Want more info or an API key? Drop us a line at api@audiosocket.com and we'll get you squared away.\n"
+}

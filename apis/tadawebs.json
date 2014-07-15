@@ -1,0 +1,16 @@
+{
+  "id": "tadawebs",
+  "title": "TaDaweb’s",
+  "link": "http://www.tadaweb.com/pricing",
+  "image": "http://www.tadaweb.com/img/top-navigation/logo.png",
+  "author": {
+    "name": "TaDaweb"
+  },
+  "tags": [
+    "Currently",
+    "Technology",
+    "Information",
+    "Internet"
+  ],
+  "description": "Unlike anything else currently on the market, TaDaweb’s cutting edge technology enables users to extract any information, from any website on the Internet, regardless of whether it has an RSS or API. "
+}

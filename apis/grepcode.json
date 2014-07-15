@@ -1,0 +1,15 @@
+{
+  "id": "grepcode",
+  "title": "GrepCode",
+  "link": "http://grepcode.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQZHQdgcD4M5r_FmGHn0jn71sZoRNUMylZSl86Mo5I0IFOrW-0B4g",
+  "author": {
+    "name": "GrepCode"
+  },
+  "tags": [
+    "Eclipse",
+    "Access",
+    "Search"
+  ],
+  "description": "The GrepCode (GC) plugin for Eclipse allows Eclipse users to access the search facilities provided by GrepCode without leaving the IDE."
+}

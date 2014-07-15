@@ -1,0 +1,15 @@
+{
+  "id": "asterank",
+  "title": "Asterank",
+  "link": "http://www.asterank.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKu5G_SBaXQ-fUyBlY8QieoNAZzJGwL21drvM8zjv1usBkYs_e",
+  "author": {
+    "name": "Asterank"
+  },
+  "tags": [
+    "Data",
+    "Merged",
+    "Sources"
+  ],
+  "description": "The Asterank database is a thin layer over the NASA/JPL Small Body Database, merged with JPL delta-v data, published asteroid mass data, and our own calculations. You can learn more about Asterank data sources on the About page. "
+}

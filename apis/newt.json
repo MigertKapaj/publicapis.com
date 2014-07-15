@@ -1,0 +1,16 @@
+{
+  "id": "newt",
+  "title": "Newt",
+  "link": "https://newt.nersc.gov/api/",
+  "image": "https://newt.nersc.gov/images/logo.png",
+  "author": {
+    "name": "Newt"
+  },
+  "tags": [
+    "Scientist",
+    "Programmers",
+    "Data",
+    "Web Browser"
+  ],
+  "description": "NEWT is a collection of REST based services that allow scientists, programmers, staff, and the public to write web apps for HPC. These are services designed to make HPC computing and data resources highly usable via a web browser. Web browser interaction is often mediated through scripts and web apps that poll, aggregate, and mashup the content from the restful API's URLs. As such the API is not really a set of web pages, but a set of well defined URLs that web apps can invoke which act as information sources and sinks."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ethor",
+  "title": "eThor",
+  "link": "http://developers.ethor.com",
+  "image": "http://dev-ethor.devportal.apigee.com/sites/default/files/eThor_logo_40pxhigh_0.png",
+  "author": {
+    "name": "eThor"
+  },
+  "tags": [
+    "Partners",
+    "Menu",
+    "Experienences",
+    "Mobile"
+  ],
+  "description": "The API has been designed to allow partners to build native menu display `and ordering experiences into websites and mobile applications."
+}

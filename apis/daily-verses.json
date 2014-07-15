@@ -1,0 +1,16 @@
+{
+  "id": "daily-verses",
+  "title": "Daily Verses",
+  "link": "http://www.ourmanna.com/verses/api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuJMlZRS-rClOQMQE81v-nSjjkkzNROsM4E3luMtTa1E9bxAnG",
+  "author": {
+    "name": "Our manna"
+  },
+  "tags": [
+    "Bible",
+    "Website",
+    "Verse",
+    "Widget"
+  ],
+  "description": "Add Our Manna’s Bible verses to your website or app. Get the daily new verse or a new verse every time the user refreshes the page. Display it easily with the javascript widget or by other methods for your app."
+}

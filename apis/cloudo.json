@@ -1,0 +1,15 @@
+{
+  "id": "cloudo",
+  "title": "Cloudo",
+  "link": "http://www.cloudo.com/",
+  "image": "http://www.cloudo.com/images/logo.png",
+  "author": {
+    "name": "Cloudo"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Benefits"
+  ],
+  "description": "Because Cloudo is a hosted service there is no hardware or software to setup and maintain, and the DDE is fully accessible from any internet connected device. Other advantages of utilizing hosted software include centralizing data backup, updates, and security at the data center as well as benefits of lower cost which can be associated with the administration of a single global instance of software versus many local instances."
+}

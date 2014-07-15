@@ -1,0 +1,15 @@
+{
+  "id": "akismet",
+  "title": "Akismet",
+  "link": "http://akismet.com/development/api/",
+  "image": "http://akismet.com/img/ak-logo-2x.png",
+  "author": {
+    "name": "Akismet"
+  },
+  "tags": [
+    "Information",
+    "Provide",
+    "Independent"
+  ],
+  "description": "Akismet works by examining all the available information combined. It is not enough to provide just the content of a message; you need to provide as many independent pieces of information as you can in each call."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "keychain",
+  "title": "Keychain",
+  "link": "https://developer.oneid.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTjYvGm54WveuDWVdWOFMFs9BqlTbnwn-QWTggbmcIkwfLsTSDq",
+  "author": {
+    "name": "OneID"
+  },
+  "tags": [
+    "Transaction",
+    "Private",
+    "Unique"
+  ],
+  "description": "OneID verifies any given secure transaction using three signatures. Each signature is made up of a unique nonce value (current timestamp + some random characters), signed by a private key that is unique to a OneID user on your site."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tiket.com",
+  "title": "Tiket.com",
+  "link": "http://docs.tiket.com/",
+  "image": "http://docs.tiket.com/",
+  "author": {
+    "name": "Tiket.com"
+  },
+  "tags": [
+    "Experience",
+    "Flights",
+    "Hotels",
+    "Available"
+  ],
+  "description": "Tiket.com offers an all you can book experience. You can book flights, hotels, train, concerts and movies all in one place. And the good part is, they are all available through API!"
+}

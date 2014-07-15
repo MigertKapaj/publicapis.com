@@ -1,0 +1,16 @@
+{
+  "id": "web-processing-service",
+  "title": "web processing service",
+  "link": "http://ehabitat-wps.jrc.ec.europa.eu/",
+  "image": "http://ehabitat-wps.jrc.ec.europa.eu/ehabitat/resources/images/ehabitat_title_screen2_thumb_demo.png",
+  "author": {
+    "name": "eHabitat"
+  },
+  "tags": [
+    "Component",
+    "Map",
+    "Architecture",
+    "Hetrogenous"
+  ],
+  "description": "The ability of eHabitat, as an open source Web Processing Service (WPS), to be a component of any processing chain, combined with the possibility to use any thematic map to define a model of the habitat, requires the architecture to be interoperable with an advanced modeling capability to be able to cope with multi-scale heterogeneous data sources. The use of open standards for spatial data and of open source tools for the development of the core functionalities of the system are further expected to encourage the participation of the scientific community beyond the current partnerships.\n                "
+}

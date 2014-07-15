@@ -1,0 +1,15 @@
+{
+  "id": "spree",
+  "title": "Spree",
+  "link": "http://guides.spreecommerce.com/api/",
+  "image": "http://guides.spreecommerce.com/images/logo.png",
+  "author": {
+    "name": "Spree"
+  },
+  "tags": [
+    "Designed",
+    "Data",
+    "Access"
+  ],
+  "description": "The REST API is designed to give developers a convenient way to access data contained within Spree. With a standard read/write interface to store data, it is now very simple to write third party applications (eg. iPhone) that can talk to your Spree store."
+}

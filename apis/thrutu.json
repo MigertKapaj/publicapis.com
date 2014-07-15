@@ -1,0 +1,15 @@
+{
+  "id": "thrutu",
+  "title": "Thrutu",
+  "link": "https://developer.thrutu.com/docs/web/reference/",
+  "image": "https://developer.thrutu.com/static/img/thrutulogo_developer.png",
+  "author": {
+    "name": "Thrutu Developer"
+  },
+  "tags": [
+    "Plugins",
+    "Interact",
+    "Shared"
+  ],
+  "description": "Thrutu buttons are plugins for the Thrutu client that users can launch during a call to share information or interact with each other. For example sending a file to the other phone, or launching a shared application (such as a map or game) that both users can interact with. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "squirro",
+  "title": "Squirro",
+  "link": "http://dev.squirro.com/docs/api/index.html",
+  "image": "http://dev.squirro.com/docs/_static/img/header/logo_big.png",
+  "author": {
+    "name": "Squirro"
+  },
+  "tags": [
+    "Structured",
+    "Tools",
+    "Tutorials",
+    "Squirro"
+  ],
+  "description": "This documentation is structured in three sections:Tutorials, Reference and Tools & SDKs.Tutorials show how to achieve certain tasks withSquirro. Whether you want to integrate with QlikView, any CRM or use the APIs directly.The Reference shows the details for the full Squirro API,explaining all the parameters of every API resource."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "statuspage",
+  "title": "StatusPage",
+  "link": "http://doers.statuspage.io/",
+  "image": "http://doers.statuspage.io/img/logo.png",
+  "author": {
+    "name": "StatusPage"
+  },
+  "tags": [
+    "Status",
+    "Navigation",
+    "Support",
+    ""
+  ],
+  "description": " Welcome to the docs site, your concierge for helping you set up your shiny new (or existing) status page. Use the navigation on the left to get to where you need to go. As always, you can get live support in our public HipChat room, or just get in touch through the other methods listed below."
+}

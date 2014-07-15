@@ -1,0 +1,16 @@
+{
+  "id": "uptime-robot",
+  "title": "Uptime Robot",
+  "link": "http://uptimerobot.com/api",
+  "image": "http://uptimerobot.com/assets/img/logo3.png",
+  "author": {
+    "name": "Uptime Robot"
+  },
+  "tags": [
+    "Pulling",
+    "Client",
+    "Monitor",
+    "Data"
+  ],
+  "description": "monitor-specific apiKeys are good for pulling data for a single monitor without revealing your main apiKey (account-specific apiKey). For ex: you can use monitor-specific apiKeys in client websites (so you'll still be able to pull data and the client will only be able to see the monitor-specific apiKey)."
+}

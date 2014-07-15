@@ -1,0 +1,16 @@
+{
+  "id": "ticketfly-affiliate",
+  "title": "Ticketfly Affiliate",
+  "link": "http://start.ticketfly.com/api/",
+  "image": "https://cdn.ticketfly.com/wp-content/themes/ticketfly-b2b/img/logo-tkf-b2b.png",
+  "author": {
+    "name": "Ticketfly Affiliate"
+  },
+  "tags": [
+    "Information",
+    "Details",
+    "Links",
+    "Browser"
+  ],
+  "description": "Ticketfly event listings, ticketing information, artist and venue details, social media links, images, and purchase links to your siteAvailable to approved sites for commercial or non-commerical useRequests to Ticketfly Affiliate API Services are all RESTful, so you can easily construct request URLs that will work in your browser, command lines, and codeResponses to Ticketfly Affiliate API requests are rendered in JSON or XML; to guarantee that results are returned in the expected format, specify the format (“.json” or “.xml”) in the request URL"
+}

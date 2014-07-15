@@ -1,0 +1,16 @@
+{
+  "id": "strathcom",
+  "title": "Strathcom",
+  "link": "http://www.strathcom.ca/api-solutions",
+  "image": "http://www.strathcom.ca/images/logo-strathcom.png",
+  "author": {
+    "name": "Strathcom"
+  },
+  "tags": [
+    "Development",
+    "Complete",
+    "Presentation",
+    "Data"
+  ],
+  "description": "The Strathcom API empowers the dealer's in-house development team by giving them complete control over the website presentation and data integration."
+}

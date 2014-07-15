@@ -1,0 +1,13 @@
+{
+  "id": "trustlinker.de",
+  "title": "Trustlinker.de",
+  "link": "https://www.mashape.com/trustlinker-de/trustlinker-de",
+  "image": "",
+  "author": {
+    "name": "trustlinker-de"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Decorate texts automatically and and trustlinks to them. Moreover find some nice Domain information like Pagerank, IPv4, IPv6, Domainage, CountryCode (Hosting) and WOT."
+}

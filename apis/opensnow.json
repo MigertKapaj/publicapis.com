@@ -1,0 +1,15 @@
+{
+  "id": "opensnow",
+  "title": "Opensnow",
+  "link": "http://opensnow.com/about/api",
+  "image": "http://opensnow.com/img/webtitle.png",
+  "author": {
+    "name": "Opensnow"
+  },
+  "tags": [
+    "Send",
+    "Email",
+    "Data"
+  ],
+  "description": "To get an API key send and e-mail to hello@opensnow.com with your contact name, e-mail, and site where you are going to use the data."
+}

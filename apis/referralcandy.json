@@ -1,0 +1,15 @@
+{
+  "id": "referralcandy",
+  "title": "ReferralCandy",
+  "link": "http://www.referralcandy.com/api",
+  "image": "http://cdn.referralcandy.com/webimages/logos/referralcandy_logo.png",
+  "author": {
+    "name": "ReferralCandy"
+  },
+  "tags": [
+    "Interface",
+    "Responses",
+    "Platform"
+  ],
+  "description": "The ReferralCandy API provides a simple interface with JSON-formatted responses to integrate your store with the ReferralCandy referral platform. "
+}

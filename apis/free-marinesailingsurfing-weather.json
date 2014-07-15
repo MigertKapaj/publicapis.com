@@ -1,0 +1,16 @@
+{
+  "id": "free-marinesailingsurfing-weather",
+  "title": "Free Marine/Sailing/Surfing Weather",
+  "link": "http://www.worldweatheronline.com/free-marine-weather-feed.aspx",
+  "image": "http://cdn.worldweatheronline.net/staticv3/images/logo.jpg",
+  "author": {
+    "name": "Worldweatheronline"
+  },
+  "tags": [
+    "Developers",
+    "Access",
+    "Description",
+    "Purpose"
+  ],
+  "description": "The Free Marine Weather REST API methods allows developers and programmers to access today's live marine/sailing weather forecast. The Weather API returns today's marine weather forecast containing weather elements like temperature, precipitation (rainfall), weather description, weather icon, wind speed, significant wave height, swell height, swell direction and swell period. It could be used for non-commercial as well as for commercial purpose. "
+}

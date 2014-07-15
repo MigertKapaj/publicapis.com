@@ -1,0 +1,13 @@
+{
+  "id": "olcc",
+  "title": "OLCC",
+  "link": "http://www.oregonliquorprices.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBWnqdKm5K--RGKUNoJq0qpsV6qq3IXAN4fKbVkxNr5Qws_hdEZg",
+  "author": {
+    "name": "Oregon Liquor Prices"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Oregon Liquor Prices evolved from a small PHP project over the course of several years. It was started simply because the OLCC had no API, but published their monthly price changes freely online, sometimes weeks in advance. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "friendpaste",
+  "title": "Friendpaste",
+  "link": "https://friendpaste.com/services/json",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtnsKebg-t5uoeEu1xYk17kFbX01lYEuEaHEhHvI6zavazwumd",
+  "author": {
+    "name": "Friendpaste"
+  },
+  "tags": [
+    "Interface",
+    "Public",
+    "Developers"
+  ],
+  "description": "Friendpaste has an open Application Programming Interface (API for short). This means that anyone can write their own program to post public paste in new and different ways. The Friendpaste API is available for outside developers without any limits."
+}

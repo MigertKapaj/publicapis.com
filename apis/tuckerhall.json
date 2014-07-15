@@ -1,0 +1,16 @@
+{
+  "id": "tuckerhall",
+  "title": "Tucker/Hall",
+  "link": "http://twinfluence.com/about_api.php",
+  "image": "http://www.tuckerhall.com/wp-content/themes/plainscape/images/secondarybanner.gif",
+  "author": {
+    "name": "Tucker/Hall"
+  },
+  "tags": [
+    "Fortune",
+    "Solutions",
+    "Envoirnmental",
+    "Strategies."
+  ],
+  "description": "Tucker/Hall has been instrumental in working with many Fortune 500 companies and other organizations to introduce consumer products in Latin America, support complex litigation matters, provide public policy solutions to sensitive environmental issues and develop competitive strategies for fast-growth companies."
+}

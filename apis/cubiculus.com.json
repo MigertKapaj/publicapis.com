@@ -1,0 +1,16 @@
+{
+  "id": "cubiculus.com",
+  "title": "Cubiculus.com",
+  "link": "http://www.cubiculus.com/api/usage",
+  "image": "http://www.cubiculus.com/assets/1.0/ctx/img/header-main2.png",
+  "author": {
+    "name": "Cubiculus.com"
+  },
+  "tags": [
+    "Repository",
+    "Public",
+    "Connect",
+    "Data"
+  ],
+  "description": "We provide simple way how to connect your application to our LEGO® building instruction repository. cubiculus.com provide public REST interface. You can connect you application to this REST interface and load any data that you need for you application as it's shown at next picture. "
+}

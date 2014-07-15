@@ -1,0 +1,15 @@
+{
+  "id": "insightly-web",
+  "title": "Insightly Web",
+  "link": "https://api.insight.ly/v2/Help",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQqpuYHU5tf1ymMOU_FPkhU9yXmRAgxo5-IwjRYTaGENWHL0Uzd",
+  "author": {
+    "name": "Insightly Developers"
+  },
+  "tags": [
+    "Update",
+    "Records",
+    "Resources"
+  ],
+  "description": "Users on all plans can use the REST-based Application Programming Interface (API) to query and update their Insightly data. Four HTTP verbs are supported: GET requests to retrieve information, POST to add new records, PUT to update records, and DELETE requests to remove records. The Resources sections below include detailed samples of Request bodies and Responses."
+}

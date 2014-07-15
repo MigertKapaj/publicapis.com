@@ -1,0 +1,16 @@
+{
+  "id": "magplus",
+  "title": "Magplus",
+  "link": "http://www.magplus.com/how-it-works/features/",
+  "image": "http://www.magplus.com/wp-content/themes/magplus_2/images/magplus-logo2.png",
+  "author": {
+    "name": "Magplus"
+  },
+  "tags": [
+    "Purchase",
+    "System",
+    "Window",
+    "Content"
+  ],
+  "description": "Sell content via in-app purchase, including subscriptions, give it away for free, or use our simple API and permissioning systems to present a login window for authenticating users and controlling who sees what content. "
+}

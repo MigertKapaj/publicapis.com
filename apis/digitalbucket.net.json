@@ -1,0 +1,16 @@
+{
+  "id": "digitalbucket.net",
+  "title": " Digitalbucket.net",
+  "link": "http://developer.digitalbucket.net/",
+  "image": "http://developer.digitalbucket.net/css/nav_logo.png",
+  "author": {
+    "name": " Digitalbucket.net"
+  },
+  "tags": [
+    "Simple",
+    "State",
+    "Asscessing",
+    "Manipulation"
+  ],
+  "description": "API is designed to be simple, easy to use and will provide access to most of the features of digitalbucket.net. Accessing the API would be through REST (Representational State Transfer) methods. Some of the features of the API are:Easily download and upload files from and to your accountUse all of the file and folder manipulation features using simple API calls"
+}

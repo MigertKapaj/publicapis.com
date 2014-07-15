@@ -1,0 +1,15 @@
+{
+  "id": "idreambooks",
+  "title": "iDreamBooks",
+  "link": "http://idreambooks.com/api",
+  "image": "http://idreambooks.com/images/embed/new-logo.png",
+  "author": {
+    "name": "iDreamBooks"
+  },
+  "tags": [
+    "Access",
+    "Information",
+    "Professional"
+  ],
+  "description": "iDreamBooks' API is intended for developers to access information about a certain title including its aggregated critic rating, critic review count and critic review snippets. iDreamBooks aggregates editorial reviews from professional critics like NYTimes and WashingtonPost to generate a highly authentic book rating."
+}

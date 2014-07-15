@@ -1,0 +1,16 @@
+{
+  "id": "textports",
+  "title": "TextPorts",
+  "link": "http://www.textport.com/webservices/",
+  "image": "http://www.textport.com/img/tp_logo_240x54.png",
+  "author": {
+    "name": "TextPort"
+  },
+  "tags": [
+    "Service",
+    "Developers",
+    "Application",
+    "Required"
+  ],
+  "description": "TextPort's SMS web service allows developers to integrate Text Messaging into their own applications without the overhead of having to maintain vast phone number prefix and carrier databases that are required to successfully implement SMS. "
+}

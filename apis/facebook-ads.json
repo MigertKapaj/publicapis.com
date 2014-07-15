@@ -1,0 +1,15 @@
+{
+  "id": "facebook-ads",
+  "title": "Facebook Ads",
+  "link": "https://developers.facebook.com/docs/ads-api/",
+  "image": "",
+  "author": {
+    "name": "F Developers"
+  },
+  "tags": [
+    "Create",
+    "Access",
+    "Customers"
+  ],
+  "description": "Facebook's Ads API allows you to create and access your ads programmatically. You can use the API to build tools that add value to customers on top of Facebook's Ads Manager and Power Editor. Learn more about the API here."
+}

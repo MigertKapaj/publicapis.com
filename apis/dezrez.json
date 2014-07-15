@@ -1,0 +1,16 @@
+{
+  "id": "dezrez",
+  "title": "Dezrez",
+  "link": "http://www.dezrez.com/webguide/xmlguide.asp",
+  "image": "http://www.dezrez.com/imgs/header/logo.jpg",
+  "author": {
+    "name": "dezrez"
+  },
+  "tags": [
+    "Technical",
+    "Developer",
+    "Data",
+    "Provides"
+  ],
+  "description": "This document provides technical information to web developers wishing to integrate a customer’s website with a property search using the live XML data feed and provides a specification of the XML which is returned."
+}

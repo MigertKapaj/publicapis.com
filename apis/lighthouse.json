@@ -1,0 +1,14 @@
+{
+  "id": "lighthouse",
+  "title": "Lighthouse",
+  "link": "http://help.lighthouseapp.com/kb/api/api-basics",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTIhC8geEtLShTdQXPOEW_aRdPvInbetmLpg40RRyaVfQI2oCeN",
+  "author": {
+    "name": "Lighthouse"
+  },
+  "tags": [
+    "Implemented",
+    "Available"
+  ],
+  "description": "The Lighthouse API is implemented as a REST interface, and is available over XML and JSON."
+}

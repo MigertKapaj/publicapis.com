@@ -1,0 +1,15 @@
+{
+  "id": "ezinearticles",
+  "title": "EzineArticles",
+  "link": "http://api.ezinearticles.com/docs/general_information.php",
+  "image": "http://api.ezinearticles.com/images/logo_gears.png",
+  "author": {
+    "name": "EzineArticles"
+  },
+  "tags": [
+    "Developers",
+    "Programmers",
+    "Information"
+  ],
+  "description": "The EzineArticles Application Programming Interface (API) allows developers to connect their applications to the EzineArticles database. The API gives programmers the ability to retrieve article information from any author or category."
+}

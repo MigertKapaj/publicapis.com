@@ -1,0 +1,15 @@
+{
+  "id": "pikapay",
+  "title": "Pikapay",
+  "link": "https://github.com/pikapay/pikapay-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Secure",
+    "Twitter",
+    "Applications"
+  ],
+  "description": "The Pikapay API is a secure, enterprise-grade cloud API that lets you add Bitcoin and Twitter to your applications in minutes."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "telephony",
+  "title": "Telephony",
+  "link": "http://msdn.microsoft.com/en-us/library/aa922068.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Interface",
+    "Abstracts",
+    "Devices"
+  ],
+  "description": "The Telephony API implementation is a subset of the Microsoft Telephony Application Programming Interface (TAPI) version 2.0 and some parts of TAPI version 2.1. TAPI provides an application programming interface (API) that simplifies and abstracts the details of making telephony connections between two or more devices."
+}

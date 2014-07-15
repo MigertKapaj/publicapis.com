@@ -1,0 +1,15 @@
+{
+  "id": "tibbr",
+  "title": "tibbr",
+  "link": "http://www.tibbr.com/platform/",
+  "image": "http://www.tibbr.com/imgs/tibbr-logo.png",
+  "author": {
+    "name": "tibbr"
+  },
+  "tags": [
+    "Salesforce",
+    "Growing",
+    "Grade"
+  ],
+  "description": "Work seamlessly with SharePoint, Oracle, SAP, Salesforce, and a growing list of other top-shelf enterprise-grade applications."
+}

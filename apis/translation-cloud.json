@@ -1,0 +1,16 @@
+{
+  "id": "translation-cloud",
+  "title": "Translation Cloud",
+  "link": "http://translationcloud.net/api",
+  "image": "http://www.programmableweb.com/images/apis/at5839.png",
+  "author": {
+    "name": "Translation Cloud"
+  },
+  "tags": [
+    "QUickly",
+    "Easily",
+    "Creating",
+    "Retrieving"
+  ],
+  "description": "Translation Cloud's API allows users to quickly and easily access a large number of functions including getting a price, creating, and retrieving a translation for a project."
+}

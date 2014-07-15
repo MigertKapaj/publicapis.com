@@ -1,0 +1,16 @@
+{
+  "id": "utata",
+  "title": "Utata",
+  "link": "http://www.utata.org/services/api/",
+  "image": "",
+  "author": {
+    "name": "Utata"
+  },
+  "tags": [
+    "Service",
+    "Backwards",
+    "Promised",
+    "Discretion"
+  ],
+  "description": "Before we begin: The Utata API is an experimental service currently in development. It is subject to change and backwards compatibility is not guaranteed. No service levels are promised or implied, and the service may be suspended indefinitely at any time at Utata's discretion. Use of the API is requires our permission. If you want to use it, please ask."
+}

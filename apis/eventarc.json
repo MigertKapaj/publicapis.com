@@ -1,0 +1,15 @@
+{
+  "id": "eventarc",
+  "title": "Eventarc",
+  "link": "http://api.eventarc.com/docs/quickstart.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSO1GZULYKUk6gYVAUnWnP0nLgHXCtgICaY_dUCInUX5ueqzk4N",
+  "author": {
+    "name": "Eventarc"
+  },
+  "tags": [
+    "Pieces",
+    "Moment",
+    "Particular"
+  ],
+  "description": "We are just getting all of the bits and pieces of this API together. So its all a bit beta at the moment. Let us know if something doesn't work or if you need a particular API call we have not yet released."
+}

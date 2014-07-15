@@ -1,0 +1,15 @@
+{
+  "id": "reveldigital",
+  "title": "RevelDigital",
+  "link": "http://wiki.reveldigital.com/",
+  "image": "http://wiki.reveldigital.com/_/rsrc/1333142309383/config/customLogo.gif?revision=5",
+  "author": {
+    "name": "RevelDigital"
+  },
+  "tags": [
+    "Developers",
+    "Commercial",
+    "Possible."
+  ],
+  "description": "The RevelDigital REST API is available for non-commercial use by outside developers.Commercial use is possible by prior arrangement."
+}

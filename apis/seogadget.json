@@ -1,0 +1,15 @@
+{
+  "id": "seogadget",
+  "title": "SEOgadget",
+  "link": "http://seogadget.com/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwONDy-JojmnhWVKi1E5Fi7NZIjPjQEXekdX2wevY5SQRAssIRqQ",
+  "author": {
+    "name": "SEOgadget"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Powerful"
+  ],
+  "description": "Fetch valuable link and keyword search volume data from 5 of our industry’s most powerful API services. Prototype apps, speed up your analysis time and gain powerful new insight into your SEO strategy, fast."
+}

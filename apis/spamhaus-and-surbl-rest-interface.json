@@ -1,0 +1,13 @@
+{
+  "id": "spamhaus-and-surbl-rest-interface",
+  "title": "Spamhaus and Surbl REST interface",
+  "link": "https://www.mashape.com/flagz/spamhaus-and-surbl-rest-interface",
+  "image": "",
+  "author": {
+    "name": "flagz"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Rest api to verify if an url has been marked as spam using the well known spamhaus and surbl services.\r\n\r\nSupports: SpamHaus zen (SBL e-mail spam, XBL infected PCs, PBL unsolicited smtp traffic) Surbl multi (Spamcop, sa-blacklist, Outblaze, Abusebutler, Phishtank, Zeus tracker, jwSpamSpy, Prolocation)"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "closure-compiler",
+  "title": "Closure Compiler",
+  "link": "https://developers.google.com/closure/compiler/docs/api-ref",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Service",
+    "Programmatic",
+    "Compiler",
+    "Copying"
+  ],
+  "description": "The Closure Compiler service API provides programmatic access to Closure Compiler JavaScript compilation through a Web-based API. While the Closure Compiler UI gives you an easy way to use the compiler service through a simple form on a web page, copying output from this web page is not the most efficient way to work. With the Closure Compiler service API, you gain the versatility to build your own tools and create your own work flow. "
+}

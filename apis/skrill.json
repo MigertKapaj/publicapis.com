@@ -1,0 +1,16 @@
+{
+  "id": "skrill",
+  "title": "Skrill",
+  "link": "https://www.skrill.com/en/business/services/",
+  "image": "https://www.skrill.com/fileadmin/templates/main/res/css/img/logo/skrill-logo.png",
+  "author": {
+    "name": "Skrill"
+  },
+  "tags": [
+    "Payments",
+    "Solution",
+    "Integration",
+    "Flexible"
+  ],
+  "description": "We're with you every step of the way when you choose Skrill for your payments. Simply pick your perfect solution from Skrill. Our Integration Support team make sure going live is easy. From integrating a simple element to our flexible, fully customisable integration options. Whether you choose XML API, Post, Skrill's Web Payment Front-end, or CSS and Javascript."
+}

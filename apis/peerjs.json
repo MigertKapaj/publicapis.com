@@ -1,0 +1,17 @@
+{
+  "id": "peerjs",
+  "title": "PeerJS",
+  "link": "https://github.com/peers/peerjs",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Provide",
+    "Complete",
+    "Configurable",
+    "Data",
+    "Media"
+  ],
+  "description": "PeerJS provides a complete, configurable, and easy-to-use peer-to-peer API built on top of WebRTC, supporting both data channels and media streams."
+}

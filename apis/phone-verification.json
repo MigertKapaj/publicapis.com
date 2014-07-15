@@ -1,0 +1,15 @@
+{
+  "id": "phone-verification",
+  "title": "Phone Verification",
+  "link": "http://www.cdyne.com/developers/",
+  "image": "http://www.cdyne.com/images/master/logo_cdyneb.gif",
+  "author": {
+    "name": "CDYNE"
+  },
+  "tags": [
+    "Landline",
+    "Service",
+    "Provider"
+  ],
+  "description": "Determine whether a phone number is wireless or a landline - in real time. Even if the phone number has been ported between service providers, Phone Verification will return the latest information."
+}

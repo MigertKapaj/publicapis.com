@@ -1,0 +1,15 @@
+{
+  "id": "bittorrent",
+  "title": "BitTorrent",
+  "link": "http://www.bittorrent.com/sync/developers",
+  "image": "http://www.bittorrent.com/images/site/bt-logo.png",
+  "author": {
+    "name": "BitTorrent"
+  },
+  "tags": [
+    "Developer",
+    "Improve",
+    "Share"
+  ],
+  "description": "The BitTorrent Sync API offers developers a wide range of of possibilities. You can integrate Sync into your own apps, build, improve, and change the way Sync works on your devices, or use the API to automate workflows. We’re excited to share Sync, and we’re happy to have you on board. Welcome to Sync!"
+}

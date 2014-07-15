@@ -1,0 +1,15 @@
+{
+  "id": "biofab",
+  "title": "BIOFAB",
+  "link": "http://biofab.synberc.org/data/docs/daws?q=data/docs/daws",
+  "image": "http://biofab.synberc.org/sites/all/themes/nitobe/logo.png",
+  "author": {
+    "name": "biofab"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Information"
+  ],
+  "description": "The Data Access Web Service is the application interface (API) of the BIOFAB's electronic datasheets. It is a RESTful web service that provides the design and performance of BIOFAB parts and constructs.  The data and information are provided in machine-readable formats."
+}

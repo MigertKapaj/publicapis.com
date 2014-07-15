@@ -1,0 +1,15 @@
+{
+  "id": "creativecommons",
+  "title": "creativecommons",
+  "link": "http://api.creativecommons.org/docs/readme_10.html",
+  "image": "",
+  "author": {
+    "name": "creativecommons"
+  },
+  "tags": [
+    "Provides",
+    "Service",
+    "Engine"
+  ],
+  "description": "Creative Commons provides web service APIs which can be used to integrate the Creative Commons licensing engine into third party applications."
+}

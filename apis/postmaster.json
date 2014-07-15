@@ -1,0 +1,16 @@
+{
+  "id": "postmaster",
+  "title": "Postmaster",
+  "link": "https://www.postmaster.io/docs",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTMtsl6L1FvVjelN9pS_7w2t9ogVKr76Z79sXgNq9mtCh9XcF6qA",
+  "author": {
+    "name": "Postmaster"
+  },
+  "tags": [
+    "Resource",
+    "Authentication",
+    "Communicate",
+    "Programming"
+  ],
+  "description": "The Postmaster API follows REST principles. Our API is resource-oriented and returns HTTP response codes to indicate errors. HTTP verbs and authentication are supported, which allows most common HTTP clients to communicate with our API easily. We support CORS which makes client-side application programming straightforward. JSON is used for all responses and can also be used for POST requests"
+}

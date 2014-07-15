@@ -1,0 +1,15 @@
+{
+  "id": "mojo-helpdesk",
+  "title": "Mojo Helpdesk",
+  "link": "http://mojowiki.metadot.net/faqs/api/",
+  "image": "http://mojowiki.metadot.net/__metadot__/login/logo/62",
+  "author": {
+    "name": "Mojo Helpdesk"
+  },
+  "tags": [
+    "Import",
+    "Data",
+    "Scripts"
+  ],
+  "description": "Mojo Helpdesk API provides to export, import or update helpdesk data. Since you create the scripts, you can make them output a CSV format (for Excel) or any other format you need."
+}

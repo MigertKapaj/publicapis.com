@@ -1,0 +1,15 @@
+{
+  "id": "citysdk-tourism",
+  "title": "CitySDK Tourism",
+  "link": "http://citysdk.ist.utl.pt/api.html",
+  "image": "http://citysdk.ist.utl.pt/imgs/bg-citysdk-logo.png",
+  "author": {
+    "name": "CitySDK Tourism"
+  },
+  "tags": [
+    "Approach",
+    "Performing",
+    "System"
+  ],
+  "description": "The CitySDK Tourism API is a RESTful API, since it follows a hypermedia-driven approach. So, performing a GET to the main URL will get you going through the system. "
+}

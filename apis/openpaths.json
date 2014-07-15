@@ -1,0 +1,15 @@
+{
+  "id": "openpaths",
+  "title": "Openpaths",
+  "link": "https://openpaths.cc/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuXh8zmR36N5r2pPRu3Ub0oOuITJOkQQRgQkFbj2o4z1CpxAF",
+  "author": {
+    "name": "Openpaths"
+  },
+  "tags": [
+    "Standard",
+    "Data",
+    "Access"
+  ],
+  "description": "we provide links to let individuals download their OpenPaths data in a variety of formats, some people (including us) are interested in programmatic access. The API is based on OAuth, which is emerging as a standard for secure data access. Initially, OpenPaths is only allowing you to access your own data (in the future, you may be able to grant access to others, ie researchers). For this reason, we are using \"2-legged\" OAuth. There's a nice description of why this is appropriate."
+}

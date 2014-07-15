@@ -1,0 +1,16 @@
+{
+  "id": "mybloglog",
+  "title": " MyBlogLog",
+  "link": "http://developer.yahoo.com/mybloglog/",
+  "image": "https://developer.yahoo.com/mybloglog/mbl_logo_new.gif",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Site",
+    "Widget",
+    "Readers",
+    "Network"
+  ],
+  "description": "Discover who visits your favorite sites, including your own! MyBlogLog powers the Recent Reader widget seen on many blog sidebars which feature photos of a sites' most recent readers. Use the API to query the MyBlogLog social network and pull meta-data associated with our user and site profiles. The MyBlogLog API enables social networking services on \ndemand."
+}

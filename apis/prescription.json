@@ -1,0 +1,15 @@
+{
+  "id": "prescription",
+  "title": "Prescription",
+  "link": "https://developer.walgreens.com/api/Pharmacy%2520Prescription%2520API/Pharmacy%2520Prescription%2520API-86",
+  "image": "https://developer.walgreens.com/sites/all/themes/aloha/images/theme-developer_connect/logo.gif",
+  "author": {
+    "name": "Walgreens"
+  },
+  "tags": [
+    "Mobile",
+    "Refills",
+    "Prescription"
+  ],
+  "description": "The Walgreens Pharmacy Prescription API allows users of third-party mobile & tablet applications to quickly order refills of prescriptions originally filled at one of the 8,000+ Walgreens pharmacies. Mobile & tablet app users can order refills in seconds, as well as select the option to opt-in to receive a text alert when their prescription order is ready for pick up. "
+}

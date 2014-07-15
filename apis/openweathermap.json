@@ -1,0 +1,14 @@
+{
+  "id": "openweathermap",
+  "title": "OpenWeatherMap",
+  "link": "http://bugs.openweathermap.org/projects/api/wiki/",
+  "image": "",
+  "author": {
+    "name": "OpenWeatherMap"
+  },
+  "tags": [
+    "Information",
+    "Personal"
+  ],
+  "description": "We recommend you to use API key in any cases. You can get API key in a very easy way - just register on OpenWeatherMap.org and leave information about your application, then get key in your personal page."
+}

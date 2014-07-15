@@ -1,0 +1,16 @@
+{
+  "id": "forex.com",
+  "title": "FOREX.com",
+  "link": "http://www.forex.com/forex-api.html",
+  "image": "http://www.forex.com/resources/images/common/forex_logo.png",
+  "author": {
+    "name": "FOREX.com"
+  },
+  "tags": [
+    "Actively",
+    "Spending",
+    "Traders",
+    "Preference"
+  ],
+  "description": "Many traders use auto-execution tools as a way to actively trade the markets without spending all their time at the computer. Other traders prefer to write their own trading scripts. FOREX.com makes it easy, no matter what your preference. "
+}

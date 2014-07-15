@@ -1,0 +1,15 @@
+{
+  "id": "gymflow",
+  "title": "GymFlow",
+  "link": "https://www.mygymflow.com/api.html",
+  "image": "https://www.mygymflow.com/img/logoblack.png",
+  "author": {
+    "name": "GymFlow"
+  },
+  "tags": [
+    "Responses",
+    "Data",
+    "Directly"
+  ],
+  "description": "The API returns responses in JSON format, which can be used directly in JavaScript and many other languages. You can use this format in PHP: just call json_decode() to convert the data into an array."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "arxiv",
+  "title": "arXiv",
+  "link": "http://arxiv.org/help/api/index#news",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0F07tBMfmANdnLPxU8ubMQdIrufr9ORB0QPb3-I1HIpZvjBbnPg",
+  "author": {
+    "name": "Cornell University Library"
+  },
+  "tags": [
+    "Developers",
+    "Provides",
+    "Maintainers"
+  ],
+  "description": "This is the home site of the arXiv API. The goal of the API is to allow application developers access to all of the arXiv data, search and linking facilities with an easy-to-use programmatic interface. This page provides links to developer documentation, and gives instructions for how to join the mailing list and contact other developers and maintainers."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "royal-mail-price",
+  "title": "Royal Mail Price",
+  "link": "http://royalmail-api.hook.im/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbi47ON0cXQg1S96EwNKBOWqE-7M9gldSbOPMQiZ8mO0cYHmILjA",
+  "author": {
+    "name": "Royal Mail Price"
+  },
+  "tags": [
+    "Postage",
+    "Requests",
+    "Commercial"
+  ],
+  "description": "This unofficial API lets you get the current Royal Mail postage prices. It is a RESTful API based on HTTP requests and JSON responses. The API is free for both commercial and non-commercial usage. "
+}

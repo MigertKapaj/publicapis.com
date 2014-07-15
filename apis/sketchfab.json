@@ -1,0 +1,15 @@
+{
+  "id": "sketchfab",
+  "title": "Sketchfab",
+  "link": "http://sketchfab.com/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrl1h73FEyf8DIDUIz94lbGUUl3oS2a3YYab17IBIv1Xo2I03M",
+  "author": {
+    "name": "Sketchfab"
+  },
+  "tags": [
+    "Control",
+    "Library",
+    "Webpage"
+  ],
+  "description": "The Viewer API lets you control the Sketchfab viewer programmaticaly. To use this API, you need to include the Sketchfab iframe library in your webpage. "
+}

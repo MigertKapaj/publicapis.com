@@ -1,0 +1,15 @@
+{
+  "id": "luzme",
+  "title": "Luzme",
+  "link": "http://luzme.readthedocs.org/en/latest/tutorial.html#get-an-api-key",
+  "image": "http://media.readthedocs.org/images/badge-rtd-sm.png",
+  "author": {
+    "name": "Luzme"
+  },
+  "tags": [
+    "Currently",
+    "Mode",
+    "Account"
+  ],
+  "description": "This API is currently in beta test mode; if you would like to try it, please sign up for a free account."
+}

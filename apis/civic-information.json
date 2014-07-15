@@ -1,0 +1,16 @@
+{
+  "id": "civic-information",
+  "title": "Civic Information",
+  "link": "https://developers.google.com/civic-information/docs/us_v1/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Describes",
+    "Information",
+    "Election",
+    "Representatives"
+  ],
+  "description": "This document describes what you need to know to use the Google Civic Information API. See two examples below, first for looking up voter information during an election, and second for looking up elected representatives."
+}

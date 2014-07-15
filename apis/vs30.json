@@ -1,0 +1,16 @@
+{
+  "id": "vs30",
+  "title": "Vs30 ",
+  "link": "http://earthquake.usgs.gov/hazards/apps/vs30/documentation.php",
+  "image": "http://earthquake.usgs.gov/template/images/usgs.jpg",
+  "author": {
+    "name": "Vs30 "
+  },
+  "tags": [
+    "Incorporate",
+    "Software",
+    "Mapping",
+    "Generated"
+  ],
+  "description": "The Vs30 application provides a simple web API to allow developers to incorporate its calculations into their own software. Developers can provide a set of parameters - the same set as on the custom vs30 mapping page - and the API will  return a JSON object with links to the generated files. \n"
+}

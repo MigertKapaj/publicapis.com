@@ -1,0 +1,15 @@
+{
+  "id": "divshare",
+  "title": "DivShare",
+  "link": "http://www.divshare.com/integrate/api",
+  "image": "http://www.divshare.com/images/logo_small.png",
+  "author": {
+    "name": "divShare"
+  },
+  "tags": [
+    "Developer",
+    "Data",
+    "Integration"
+  ],
+  "description": "The DivShare API, or application programming interface, allows web developers to interact with DivShare's database to receive info and upload files for use in their own applications. If you're a web programmer, this page is for you — if not, check out some of our other integration options."
+}

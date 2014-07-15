@@ -1,0 +1,15 @@
+{
+  "id": "influence-explorer",
+  "title": "Influence Explorer",
+  "link": "http://sunlightlabs.github.io/datacommons/",
+  "image": "http://assets.sunlightfoundation.com.s3.amazonaws.com/brisket/2.0/static/dryrub/images/logo.png",
+  "author": {
+    "name": "Influence Explorer"
+  },
+  "tags": [
+    "Incorporate",
+    "Provides",
+    "Data"
+  ],
+  "description": "TransparencyData's functionality has been incorporated into Influence Explorer. InfluenceExplorer.com provides overviews of political influence data for politicians, companies and prominent individuals. All of the functionality of TransparencyData is now available here at data.InfluenceExplorer.com."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "i-payout",
+  "title": "I-Payout",
+  "link": "https://www.i-payout.com/API/Default.aspx",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkgiiLQXEEMrXYuq5TQs2zigR4sbKDqq4Wc5BVxw28ISIauzP",
+  "author": {
+    "name": "I-Payout"
+  },
+  "tags": [
+    "Service",
+    "Clients",
+    "Details"
+  ],
+  "description": "Here you can find API documentation for different services that i-payout offers to its clients. Please contact i-payout for more details or custom solutions."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "issuetracker",
+  "title": "IssueTracker",
+  "link": "http://code.google.com/p/support/wiki/IssueTrackerAPI",
+  "image": "http://code.google.com/p/support/logo?cct=1397573711",
+  "author": {
+    "name": "P Support"
+  },
+  "tags": [
+    "Data",
+    "Comments",
+    "Issue"
+  ],
+  "description": "The Issue Tracker Data API allows client applications to view and update issues on Project Hosting on Google Code in the form of Google Data API feeds. Your client application can use the Issue Tracker Data API to create new issues & issue comments, request a list of issues, request issue comments for an issue, edit existing issues, and query for issues that match a particular criteria. "
+}

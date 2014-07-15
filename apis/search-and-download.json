@@ -1,0 +1,15 @@
+{
+  "id": "search-and-download",
+  "title": "Search & Download",
+  "link": "http://www.thrustcurve.org/searchapi.shtml",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQkhU7tEs5Mr03TUTYbyqY0ss5kUy9fOfNxMM0t9cF8QsJnzTTnFA",
+  "author": {
+    "name": "Thrustcurve.org"
+  },
+  "tags": [
+    "Searching",
+    "Data",
+    "Provided"
+  ],
+  "description": "This site provides a UI for searching for motors and downloading data right within any web browser. However, for those intrepid souls who would like to integerate the data provided by this site into programs (such as flight simulators), an XML API is provided. This page assumes a familiarity with XML and network programming; normal users of the site can just ignore this page."
+}

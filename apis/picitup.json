@@ -1,0 +1,17 @@
+{
+  "id": "picitup",
+  "title": "Picitup",
+  "link": "http://www2.picitup.com/picliq",
+  "image": "http://www2.picitup.com/templates/picitup_inner_template/images/logo.gif",
+  "author": {
+    "name": "Picitup"
+  },
+  "tags": [
+    "Challenging",
+    "Ecommerce",
+    "Possible",
+    "Accurate",
+    "Relevant"
+  ],
+  "description": "Finding and choosing the right color has become one of the most challenging tasks for the ecommerce world. With multicolor images, its just not possible to text tag colors. Picolor is the first automated and accurate color extraction solution designed to extract all relevant colors from a regular image."
+}

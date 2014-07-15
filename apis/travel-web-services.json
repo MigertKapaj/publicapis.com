@@ -1,0 +1,16 @@
+{
+  "id": "travel-web-services",
+  "title": "Travel Web Services",
+  "link": "http://developer.yahoo.com/travel/",
+  "image": "http://weather.yahooapis.com",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Accessing",
+    "Trip",
+    "Planner",
+    "Interface"
+  ],
+  "description": "Yahoo! offers two APIs for accessing trip plans created by Yahoo! Travel Trip Planner. Both of these API use a REST-like interface forrequests and can return either XML or JSON output."
+}

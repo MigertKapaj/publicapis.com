@@ -1,0 +1,16 @@
+{
+  "id": "cartrawler",
+  "title": "CarTrawler",
+  "link": "http://www.cartrawler.com/ct/",
+  "image": "http://www.cartrawler.com/ct/assets/templates/default/img/logo.png",
+  "author": {
+    "name": "CarTrawler"
+  },
+  "tags": [
+    "Rentals",
+    "Worldwide",
+    "Agents",
+    "Locations"
+  ],
+  "description": "CarTrawler powers car rental partnerships worldwide. We connect airlines, hotel groups and online travel brands in real time to over 1,000 car rental agents at 30,000 locations in 174 different countries. "
+}

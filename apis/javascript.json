@@ -1,0 +1,15 @@
+{
+  "id": "javascript",
+  "title": "JavaScript",
+  "link": "http://developer.here.com/javascript-apis/documentation/enterprise-maps",
+  "image": "http://developer.here.com/lima-where-theme/images/content/shared/header/logo_developer_here_large_invert.png",
+  "author": {
+    "name": "here"
+  },
+  "tags": [
+    "Programming",
+    "Developers",
+    "Interactive"
+  ],
+  "description": "The HERE Maps API for JavaScript is a set of programming interfaces that enable developers to build Web applications with feature rich, interactive HERE Maps at their center. "
+}

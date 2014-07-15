@@ -1,0 +1,14 @@
+{
+  "id": "flowdock",
+  "title": "Flowdock",
+  "link": "https://www.flowdock.com/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0m7Y_PB3mv3kEkAPyjjuFhW1WtKUzxB_85BQyRLOXDDLoiWUr",
+  "author": {
+    "name": "Flowdock"
+  },
+  "tags": [
+    "Official",
+    "Source"
+  ],
+  "description": "This is the official documentation for the Flowdock API. To keep up with API changes, see Changes (Atom). The API documentation source is available on GitHub."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "anypresence",
+  "title": "AnyPresence",
+  "link": "http://www.anypresence.com/build-apps.php",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSC5JtQcrlWhg877VmDCNdL_Pr0YHpqy8Uob4-YVdmzW4eZUuArrA",
+  "author": {
+    "name": "AnyPresence"
+  },
+  "tags": [
+    "Device",
+    "Developer",
+    "Premise"
+  ],
+  "description": "The AnyPresence Platform is focused on simplifying the process of building mobile apps that run on many devices, without sacrificing developer flexibility. Users without much mobile experience or time can get started quickly, to assemble and deploy an app through a web-based designer. Advanced developers have access to the source code for all underlying components, to make customizations outside the platform or deploy server components on-premise."
+}

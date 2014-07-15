@@ -1,0 +1,16 @@
+{
+  "id": "link-to-mapquest",
+  "title": "Link to MapQuest",
+  "link": "http://www.mapquestapi.com/link-to-mapquest/",
+  "image": "http://www.mapquestapi.com/cdn/common/images/MQ_header_logo_DevNet.png",
+  "author": {
+    "name": "MapQuest"
+  },
+  "tags": [
+    "Free",
+    "Link",
+    "Interactive",
+    "Maps"
+  ],
+  "description": "Link to MapQuest is a free service from MapQuest that allows you to link directly to MapQuest.com and display interactive maps, driving directions, search results and business locations.\n\n"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "twtube",
+  "title": "TwTube",
+  "link": "http://twtu.be/dev",
+  "image": "http://twtu.be/img/twtube_logo_large.png",
+  "author": {
+    "name": "TwTube"
+  },
+  "tags": [
+    "Rest",
+    "Shorten",
+    "Parameter"
+  ],
+  "description": "TwTube has a very simple rest api.To shorten a YouTube video URL, just call http://twtu.be/?url=http://www.youtube.com/watch?v=ddO9idmax0o The response will be something like http://twtu.be/ddO9idmax0o .That is all. You can alos use it with javascript, just add a callback parameter."
+}

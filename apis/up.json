@@ -1,0 +1,16 @@
+{
+  "id": "up",
+  "title": "UP",
+  "link": "https://jawbone.com/up/developer",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV7MXJ36j2j2AwH_zM9KH3SF7dPK5TKIiQYQS6DBP5oPY1vANYrQ",
+  "author": {
+    "name": "Jawbone"
+  },
+  "tags": [
+    "Exchange",
+    "Data",
+    "Complementary",
+    "Developers"
+  ],
+  "description": "The objective of the UP by Jawbone API is to enable the exchange of select data in order to extend and augment the UP user experience and support complementary services in a collaborative health ecosystem. Applications and developers accessing and using the UP by Jawbone API are required to comply with these Policies and the UP by Jawbone Terms of Service and Privacy Policy."
+}

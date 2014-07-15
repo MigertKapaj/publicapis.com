@@ -1,0 +1,15 @@
+{
+  "id": "opentable",
+  "title": "OpenTable",
+  "link": "http://opentable.herokuapp.com/",
+  "image": "",
+  "author": {
+    "name": "OpenTable"
+  },
+  "tags": [
+    "Interface",
+    "Provide",
+    "Data"
+  ],
+  "description": "This project provides an unofficial json API interface to search OpenTable restaurant data. It eliminates the need to download, parse and import data from XLS file."
+}

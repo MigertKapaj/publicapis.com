@@ -1,0 +1,14 @@
+{
+  "id": "apptentive",
+  "title": "Apptentive",
+  "link": "http://www.apptentive.com/docs/api/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT0EZIzQdfjVoM3gRUy7uvLQ8DR5_3lz3WC-9LFbClFUdc--kEZ",
+  "author": {
+    "name": "Apptentive"
+  },
+  "tags": [
+    "Resources",
+    "Basic Process"
+  ],
+  "description": "Here you can find a collection of resources on how to best implement and use Apptentive. At its most basic, an Apptentive integration should be a very quick process."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "senddr",
+  "title": "Senddr",
+  "link": "http://www.senddr.com/partners/default.htm",
+  "image": "http://www.senddr.com/images/logo.png",
+  "author": {
+    "name": "Senddr"
+  },
+  "tags": [
+    "Software",
+    "Integrates",
+    "Embeded",
+    "Online"
+  ],
+  "description": "Senddr has partnered with leading accounting software vendors to deliver our service to as broad a range of businesses as possible.\nOur technology integrates with these accounting software systems in a variety of ways from an embedded server-to-server approach through to external facing APIs.                                                                                                                                                                                                                                                                       Senddr has the capability to integrate with both online and offline accounting software systems and we welcome new providers to join our network."
+}

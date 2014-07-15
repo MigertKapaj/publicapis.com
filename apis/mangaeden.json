@@ -1,0 +1,15 @@
+{
+  "id": "mangaeden",
+  "title": " mangaeden",
+  "link": "http://www.mangaeden.com/api/",
+  "image": "http://cdn.mangaeden.com/images/logo2.png",
+  "author": {
+    "name": " mangaeden"
+  },
+  "tags": [
+    "Information",
+    "HTTP",
+    "HTTPS"
+  ],
+  "description": "You can get all manga informations, chapters and mymanga with mangaeden's API. All the informations are sent in JSON format.You can either use HTTP or HTTPS (advised if you need to use the mymanga's API).\n\n\n\n\n\n\n"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "trovit",
+  "title": "Trovit",
+  "link": "http://about.trovit.com/trovit-api/",
+  "image": "http://about.trovit.com/wp-content/themes/trovit/images/logo.gif",
+  "author": {
+    "name": "Trovit"
+  },
+  "tags": [
+    "Display",
+    "Search",
+    "Application"
+  ],
+  "description": "The Trovit API allows you to display Trovit’s search results on your site or in an application."
+}

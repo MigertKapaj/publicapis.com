@@ -1,0 +1,15 @@
+{
+  "id": "datasift",
+  "title": "DataSift",
+  "link": "http://dev.datasift.com/docs",
+  "image": "http://dev.datasift.com/sites/all/themes/datasift_support/logo.png",
+  "author": {
+    "name": "DataSift"
+  },
+  "tags": [
+    "Discover",
+    "Documentation",
+    "Language"
+  ],
+  "description": "Getting Started with the DataSift Platform is easy. Discover all the things every developer needs to know. Jump right into the REST API or Streaming API documentation. Explore DataSift's programming language and look at all the data you can include in your DataSift streams"
+}

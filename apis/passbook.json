@@ -1,0 +1,16 @@
+{
+  "id": "passbook",
+  "title": "Passbook",
+  "link": "https://developer.apple.com/passbook/",
+  "image": "https://devimages.apple.com.edgekey.net/assets/elements/header/developer.png",
+  "author": {
+    "name": "Apple"
+  },
+  "tags": [
+    "Organize",
+    "Loyalty",
+    "Certain",
+    "Push"
+  ],
+  "description": "Passbook gives users a whole new way to organize boarding passes, tickets, gift cards, and loyalty cards. You can bring up passes in your app with Pass Kit APIs, send them via email, or post them on the web. You can also set items to appear at certain times or locations and update items with push notifications."
+}

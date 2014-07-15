@@ -1,0 +1,16 @@
+{
+  "id": "gigatribe",
+  "title": "Gigatribe",
+  "link": "http://www.gigatribe.com/developer/doc-intro",
+  "image": "http://www.gigatribe.com/images/en/logo-gigatribe.png",
+  "author": {
+    "name": "Gigatribe"
+  },
+  "tags": [
+    "Service",
+    "Applications",
+    "Reading",
+    "Web"
+  ],
+  "description": "Gigatribe API is a collection of HTTP GET/POST services exposing Gigatribe functions to developers. The purpose is to help developers build their Gigatribe applications with less effort. The applications will be able to performe inviting users, joining tribes, reading contacts information, etc, outside the desktop version of Gigatribe software, for example, in a web forum. "
+}

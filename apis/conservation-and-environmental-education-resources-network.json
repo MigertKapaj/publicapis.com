@@ -1,0 +1,15 @@
+{
+  "id": "conservation-and-environmental-education-resources-network",
+  "title": "Conservation and environmental education resources network",
+  "link": "http://api.resourcecommons.org/",
+  "image": "http://api.resourcecommons.org/themes/garland/minnelli/logo.png",
+  "author": {
+    "name": "Conservation and environmental education resources network"
+  },
+  "tags": [
+    "Funding",
+    "Effort",
+    "Alliance"
+  ],
+  "description": "ResourceCommons.org has been discontinued due to lack of funding. But the effort lives on as the Colorado Alliance for Environmental Education EE Directory at www.coloradoee.org."
+}

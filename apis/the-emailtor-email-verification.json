@@ -1,0 +1,15 @@
+{
+  "id": "the-emailtor-email-verification",
+  "title": "The Emailtor Email Verification",
+  "link": "http://emailtor.com/email-verification-api/",
+  "image": "http://emailtor.com/wp-content/uploads/verify-email-verifier.png",
+  "author": {
+    "name": "Emailtor"
+  },
+  "tags": [
+    "Service",
+    "Website",
+    "Integrate"
+  ],
+  "description": "Do you have a product, service, or website that you need to integrate real-time email verification with? If so then Emailtor’s API is the partner to do it with."
+}

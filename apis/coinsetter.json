@@ -1,0 +1,16 @@
+{
+  "id": "coinsetter",
+  "title": "Coinsetter",
+  "link": "https://www.coinsetter.com/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9yvQI8xbuHL1uv1P8ZHGlW2Ui2V67JvO6aCHZF6kX7uzTTtJO",
+  "author": {
+    "name": "Coinsetter"
+  },
+  "tags": [
+    "Trade",
+    "Secure",
+    "Platform",
+    "Development"
+  ],
+  "description": "With Coinsetter, you can trade bitcoin on a fast and secure platform built by a development team with deep Wall Street experience. Using our RESTful API, you can execute automated trading strategies and perform other account functions."
+}

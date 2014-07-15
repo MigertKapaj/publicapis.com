@@ -1,0 +1,13 @@
+{
+  "id": "advogato",
+  "title": "Advogato",
+  "link": "http://www.advogato.org/xmlrpc.html",
+  "image": "http://www.advogato.org/images/advogato-rodent.png",
+  "author": {
+    "name": "Advogato"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

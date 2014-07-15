@@ -1,0 +1,15 @@
+{
+  "id": "maconda",
+  "title": "MaConDa",
+  "link": "http://www.maconda.bham.ac.uk/api.php",
+  "image": "http://www.programmableweb.com/images/apis/at9433.png",
+  "author": {
+    "name": "MaConDa"
+  },
+  "tags": [
+    "HTTP",
+    "Programming",
+    "Database"
+  ],
+  "description": "MaConDa API (application programming interface) consists of the SOAP (Simple Object Access Protocol) / WSDL (Web Services Description Language) interface. The users can access MaConDa by the SOAP technology over   the HTTP protocol.  This makes it easy to build a   client library for a specific programming language.  This enables the users to write their own scripts to access the database. "
+}

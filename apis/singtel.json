@@ -1,0 +1,15 @@
+{
+  "id": "singtel",
+  "title": "SingTel",
+  "link": "http://six.sg/singtel-web-services",
+  "image": "http://six.sg/sites/all/themes/six/images/six_logo.png",
+  "author": {
+    "name": "SingTel"
+  },
+  "tags": [
+    "Service",
+    "Web",
+    "Server"
+  ],
+  "description": "SingTel exposes a set of web services that offer a mixture of telecom and marketplacecapabilities, typically for communication between your application serversto our infrastructure servers."
+}

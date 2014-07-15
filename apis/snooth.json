@@ -1,0 +1,14 @@
+{
+  "id": "snooth",
+  "title": "Snooth",
+  "link": "http://api.snooth.com/",
+  "image": "http://em1.isnooth.com/img/site/v2/global/snooth_logo_w_tag.gif",
+  "author": {
+    "name": "Snooth"
+  },
+  "tags": [
+    "Comprehensive",
+    "Database"
+  ],
+  "description": "The Snooth API is a free, RESTful API that allows users to leverage the comprehensive Snooth wine database to create their own wine applications."
+}

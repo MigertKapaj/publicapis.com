@@ -1,0 +1,15 @@
+{
+  "id": "forvo",
+  "title": "Forvo",
+  "link": "http://api.forvo.com/documentation/branding/",
+  "image": "http://api.forvo.com/_presentation/img/forvo_developers.gif",
+  "author": {
+    "name": "Forvo"
+  },
+  "tags": [
+    "Create",
+    "Requests",
+    "Users"
+  ],
+  "description": "Your application will only use one API key. You can't create different ones for getting more requests or even encourage end users to get their own API keys. This is forbidden."
+}

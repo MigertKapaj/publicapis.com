@@ -1,0 +1,16 @@
+{
+  "id": "emaildirects",
+  "title": "EmailDirect's",
+  "link": "http://www.emaildirect.com/Features/API",
+  "image": "http://www.emaildirect.com/images/layout/logo.png",
+  "author": {
+    "name": "EmailDirect.com"
+  },
+  "tags": [
+    "Developer",
+    "Cheaper",
+    "Tracking",
+    "Behaviors"
+  ],
+  "description": "Developers! Developers! Developers! EmailDirect's well-documented RESTful API makes integration projects faster and cheaper. We've made it easy to integrate with us any way you want. Add/update email subscribers, relay email for delivery and tracking, trigger email based on user behaviors, pull tracking reports and more! "
+}

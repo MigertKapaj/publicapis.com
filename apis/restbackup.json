@@ -1,0 +1,13 @@
+{
+  "id": "restbackup",
+  "title": "RestBackup",
+  "link": "http://www.restbackup.com/api",
+  "image": "http://www.restbackup.com/static/logo40.png",
+  "author": {
+    "name": "RestBackup"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

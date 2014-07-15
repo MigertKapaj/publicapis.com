@@ -1,0 +1,16 @@
+{
+  "id": "twitter",
+  "title": "Twitter",
+  "link": "http://twitcher.steer.me/",
+  "image": "",
+  "author": {
+    "name": "Twitter"
+  },
+  "tags": [
+    "Course",
+    "HTML",
+    "Javascript",
+    "Authenticated"
+  ],
+  "description": "At Steer, we teach an awesome front-end development course where we teach things like HTML, CSS and Javascript. One thing our students ask about a lot is using Twitter on their sites but recently Twitter changed their API to only accepting authenticated requests. For beginners, it's really hard to implement so we've made a simple way.\n    "
+}

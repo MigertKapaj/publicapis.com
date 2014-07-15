@@ -1,0 +1,15 @@
+{
+  "id": "irail",
+  "title": "iRail",
+  "link": "http://project.irail.be/",
+  "image": "https://static.0x04.com/2011/04/projectiRail.png",
+  "author": {
+    "name": "iRail"
+  },
+  "tags": [
+    "Developer",
+    "Wrapper",
+    "Request"
+  ],
+  "description": "This site is the habitat of all iRail developers. Whether you are an app developer, a wrapper developer, an API developer or a user with a bug report or feature request, you are at the right place. "
+}

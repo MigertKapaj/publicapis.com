@@ -1,0 +1,15 @@
+{
+  "id": "figshare",
+  "title": "Figshare",
+  "link": "http://api.figshare.com/docs/intro.html#authentication",
+  "image": "http://api.figshare.com/docs/_static/figshare_logo.png",
+  "author": {
+    "name": "Figshare"
+  },
+  "tags": [
+    "Require",
+    "Access",
+    "Process"
+  ],
+  "description": "If your application is intended for other users and will require access to the users accounts, then you will have to go through the 3-legged oauth process described bellow."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "montastic",
+  "title": "Montastic",
+  "link": "http://montastic-wiki.metadot.net/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSDGBgi3aJ4lNRgzDhZw5AKbyAkRN5Srmd61rL1c-PWCUxMxJrd",
+  "author": {
+    "name": "Montastic Wiki"
+  },
+  "tags": [
+    "Developer",
+    "Directly",
+    "Responses"
+  ],
+  "description": "Montastic API allows 3rd party developers to build web and desktop applications which can communicate directly with Montastic. The communication is done by using RESTful HTTPS requests and XML responses."
+}

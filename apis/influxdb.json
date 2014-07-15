@@ -1,0 +1,16 @@
+{
+  "id": "influxdb",
+  "title": "InfluxDB",
+  "link": "http://influxdb.org/docs/api/http.html",
+  "image": "http://influxdb.org/images/influxdb-light-24px.png",
+  "author": {
+    "name": "InfluxDB"
+  },
+  "tags": [
+    "Querying",
+    "Data",
+    "Exception",
+    "Perpetually"
+  ],
+  "description": "InfluxDB features a SQL like query language, only used for querying \ndata. The HTTP API has endpoints for writing data and performing other database administration tasks. The only exception to this is continuous queries, which perpetually write their results into one or more time series."
+}

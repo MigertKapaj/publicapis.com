@@ -1,0 +1,15 @@
+{
+  "id": "favicon",
+  "title": "favicon",
+  "link": "http://fvicon.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR47LNTeHQtUZNb5n09pUouQbntb-BfDMzJxKZoKSjMhE_V42hHkQ",
+  "author": {
+    "name": "favicon"
+  },
+  "tags": [
+    "Retrieve",
+    "Specified",
+    "Websites"
+  ],
+  "description": "Fvicon.com offers an API that allows users to retrieve favicons from website URLs. Some API methods include retrieving favicons from specified websites, editing the format of the favicons,"
+}

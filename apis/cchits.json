@@ -1,0 +1,15 @@
+{
+  "id": "cchits",
+  "title": "CChits",
+  "link": "http://code.cchits.net/index.php?title=API",
+  "image": "http://code.cchits.net/skins/common/images/xcchits_coverart.png.pagespeed.ic._Pq-685Tsi.jpg",
+  "author": {
+    "name": "CChits"
+  },
+  "tags": [
+    "Generates",
+    "Replies",
+    "Scripts"
+  ],
+  "description": "The API is split into three parts, one part generates JSON responses to use in your own web pages, another replies with simple HTTP status codes, while the last is used by the various shell scripts to set variables for generating the daily, weekly and monthly tracks. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cdas",
+  "title": "CDAS",
+  "link": "http://cdaweb.gsfc.nasa.gov/WebServices/",
+  "image": "http://spdf.gsfc.nasa.gov/images/spdfheader3.gif",
+  "author": {
+    "name": "CDAS"
+  },
+  "tags": [
+    "Service",
+    "Developer",
+    "Interface"
+  ],
+  "description": "The Coordinated Data Analysis System (CDAS) Web services allow a software developer to use CDAS services in their own application.  If you are not a software developer and simply want to use the existing web (HTML) interface to CDAS, then return to the main CDAWeb page. "
+}

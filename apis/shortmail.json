@@ -1,0 +1,15 @@
+{
+  "id": "shortmail",
+  "title": "Shortmail",
+  "link": "http://api.shortmail.com/api/index.html",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQrjUmgwJMW2wjrWowEadxPuzvqw6qDYzgJ7eMwdItjq0rRUG4QRQ",
+  "author": {
+    "name": "Shortmail"
+  },
+  "tags": [
+    "Approach",
+    "Service",
+    "Require"
+  ],
+  "description": "We recommend using the API KEY approach, since a client app can be built to handle any number of users simply by storing each's api_key. This allows for an app to service multiple users at a time, and never require the user to re-authenticate (no more password prompts!)."
+}

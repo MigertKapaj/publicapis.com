@@ -1,0 +1,15 @@
+{
+  "id": "openemi",
+  "title": "OpenEMI",
+  "link": "http://www.emimusic.com/openemi/api/",
+  "image": "http://www.emimusic.com/wp-content/themes/emimusic/emi/img/logo.gif",
+  "author": {
+    "name": "EMI"
+  },
+  "tags": [
+    "Developers",
+    "Opportunity",
+    "Biggest"
+  ],
+  "description": "We have partnered with The Echo Nest to bring developers a unique opportunity to work with content from some of the biggest artists in the world."
+}

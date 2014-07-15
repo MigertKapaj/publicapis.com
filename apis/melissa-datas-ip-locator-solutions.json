@@ -1,0 +1,15 @@
+{
+  "id": "melissa-datas-ip-locator-solutions",
+  "title": "Melissa Data’s IP Locator solutions",
+  "link": "http://www.melissadata.com/iplocation/",
+  "image": "http://r1.cygnuspub.com/files/cygnus/image/CGN/2011/SEP/640x360/melissadata_10368918.jpg",
+  "author": {
+    "name": "Melissa Data"
+  },
+  "tags": [
+    "Geographical location",
+    "Zip code",
+    "IP address"
+  ],
+  "description": "Melissa Data’s IP Locator solutions will help you identify a visitor's geographical location, i.e. country, region, city, latitude, longitude, ZIP code, using an IP address lookup technology that incorporates some 20 different techniques to determine the physical location of an IP address. The data information is constantly monitored and updated and the level of geolocation makes it ideal for e-commerce, website tracking, delivering relevant content to end users segmentation and more useful business applications. The solution is available as a programming API or hosted solution."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "plagspotter",
+  "title": "PlagSpotter",
+  "link": "http://www.plagspotter.com/api/",
+  "image": "http://www.plagspotter.com/images/new/logo.png",
+  "author": {
+    "name": "PlagSpotter"
+  },
+  "tags": [
+    "Programming",
+    "Text",
+    "Duplicate",
+    "Scripts"
+  ],
+  "description": "The PlagSpotter API (Application Programming Interface) allows web developers to check URLs or offline text for originality or duplicate content that is posted on the web.\nProgrammers can write their server-side scripts that query the PlagSpotter service and receive output results in XML or HTML formats."
+}

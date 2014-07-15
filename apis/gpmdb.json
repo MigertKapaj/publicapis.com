@@ -1,0 +1,16 @@
+{
+  "id": "gpmdb",
+  "title": "GPMDB",
+  "link": "http://wiki.thegpm.org/wiki/GPMDB_REST",
+  "image": "",
+  "author": {
+    "name": "GPMDB REST"
+  },
+  "tags": [
+    "Straightforward",
+    "Services",
+    "Extract",
+    "Internet."
+  ],
+  "description": "The purpose of the RFC is to define a set of straightforward REST (REpresentational State Transfer) services to commonly required information based on the data in GPMDB. These services will provide simple, non-SQL methods to extract this information and make it available over the Internet to anyone wishing to use it as part of a network-aware application. "
+}

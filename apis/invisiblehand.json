@@ -1,0 +1,15 @@
+{
+  "id": "invisiblehand",
+  "title": "InvisibleHand",
+  "link": "https://developer.getinvisiblehand.com/documentation",
+  "image": "https://developer.getinvisiblehand.com/images/IH_dev_logo.png",
+  "author": {
+    "name": "InvisibleHand"
+  },
+  "tags": [
+    "Access",
+    "Querying",
+    "Contains"
+  ],
+  "description": "The InvisibleHand API is very simple to access from any programming language, just use your favourite HTTP client library and start querying away. This page contains some code samples from various languages and shows you how to use our Rubygem."
+}

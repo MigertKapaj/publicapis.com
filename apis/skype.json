@@ -1,0 +1,16 @@
+{
+  "id": "skype",
+  "title": "Skype",
+  "link": "https://developer.skype.com/",
+  "image": "http://developer.skype.com/assets/developer/images/skype-developer-logo.png",
+  "author": {
+    "name": "Skype"
+  },
+  "tags": [
+    "Options",
+    "Syntax",
+    "Developers",
+    "Devices"
+  ],
+  "description": "This API reference details the functionality, options, and syntax of each supported Skype URI, and is intended for those developers interested in creating applications for Windows, Android, and iOS platforms and mobile devices, as well as those developers interested in creating Skype URI-enabled emails or signature blocks. "
+}

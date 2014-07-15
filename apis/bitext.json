@@ -1,0 +1,15 @@
+{
+  "id": "bitext",
+  "title": "Bitext",
+  "link": "http://www.bitext.com/bitext-api-2.html",
+  "image": "http://www.bitext.com/wp-content/themes/btxt3/img/bitext_logo.png",
+  "author": {
+    "name": "Bitext"
+  },
+  "tags": [
+    "Service",
+    "Designed",
+    "Experience"
+  ],
+  "description": "The Bitext API is a suite of multilingual semantic services designed specifically for the needs of clients who offer solutions processing user-generated content such as customer experience management tools or voice of the customer analytics."
+}

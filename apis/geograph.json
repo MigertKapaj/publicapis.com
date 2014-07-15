@@ -1,0 +1,16 @@
+{
+  "id": "geograph",
+  "title": "Geograph",
+  "link": "http://www.geograph.org.uk/help/api",
+  "image": "http://s1.geograph.org.uk/templates/basic/img/logo.gif",
+  "author": {
+    "name": "Geograph"
+  },
+  "tags": [
+    "Developer",
+    "Create",
+    "Data",
+    "Polite"
+  ],
+  "description": "Geograph's Application Programming Interface (API) allows third party developers to create applications using data sourced from Geograph, in a friendly and polite way."
+}

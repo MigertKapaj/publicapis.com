@@ -1,0 +1,16 @@
+{
+  "id": "video-grabber",
+  "title": "Video Grabber",
+  "link": "http://www.videograbber.net/api-service",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUIiY6fH1PyhIRhCHKS45W5FryNmyYaVGAHHZSqd_4HOcZ8AMS",
+  "author": {
+    "name": "Video Grabber"
+  },
+  "tags": [
+    "Designed",
+    "Website",
+    "Service",
+    "Ensure"
+  ],
+  "description": "Video Grabber’s API is designed to enable your users to download videos simply and easily on your own website or app without install any program. We will continue to complete this API Web Service so as to ensure you better services."
+}

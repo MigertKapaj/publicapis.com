@@ -1,0 +1,15 @@
+{
+  "id": "google-buzz",
+  "title": "Google Buzz",
+  "link": "http://code.google.com/apis/buzz/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEkFsBrxIud8Nr6BMyhz6CybHy3ifM63LicHfe8B4DUWSF-j11lA",
+  "author": {
+    "name": "Google"
+  },
+  "tags": [
+    "Treated",
+    "Access",
+    "Deleting"
+  ],
+  "description": "The files containing your Buzz content are treated the same as any other Drive file. They are yours to do with as you please. This includes downloading them, updating who can access them, or deleting them. The files do not count against your storage limits."
+}

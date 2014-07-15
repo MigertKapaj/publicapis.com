@@ -1,0 +1,16 @@
+{
+  "id": "myfitnesspal",
+  "title": "MyFitnessPal ",
+  "link": "http://www.myfitnesspal.com/api",
+  "image": "http://d34yn14tavczy0.cloudfront.net/assets/logo.gif",
+  "author": {
+    "name": "MyFitnessPal "
+  },
+  "tags": [
+    "Health",
+    "Devices",
+    "Services",
+    ""
+  ],
+  "description": "MyFitnessPal has created an API to enable talented developers like you to create great health and fitness apps, devices, and services exchanging data with MyFitnessPal to help our mutual users reach their goals. The MyFitnessPal API is currently a private API available to approved developers only. If you are interested in integrating with the MyFitnessPal API, please submit information about your company."
+}

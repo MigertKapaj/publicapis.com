@@ -1,0 +1,15 @@
+{
+  "id": "sendmachine",
+  "title": "Sendmachine",
+  "link": "http://developers.sendmachine.com/",
+  "image": "http://developers.sendmachine.com/_static/logo.png",
+  "author": {
+    "name": "Sendmachine"
+  },
+  "tags": [
+    "Resources",
+    "Authentication",
+    "SMTP penel"
+  ],
+  "description": "The base URL of the API is https://api.sendmachine.com. All resources support stateless authentication via Basic HTTP Auth. The user and password can be found in the SMTP panel of your account."
+}

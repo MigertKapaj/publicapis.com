@@ -1,0 +1,15 @@
+{
+  "id": "cloudant",
+  "title": "Cloudant",
+  "link": "https://cloudant.com/for-developers/",
+  "image": "https://cloudant.com/wp-content/themes/cloudant/images/cloudant_logo_2012_retina.png",
+  "author": {
+    "name": "Cloudant"
+  },
+  "tags": [
+    "Modify",
+    "Permissions",
+    ""
+  ],
+  "description": "Cloudant’s API allows you to read and modify the permissions of each user. Users are either identified by their Cloudant username or by their API key. You can also set permissions for unauthenticated users."
+}

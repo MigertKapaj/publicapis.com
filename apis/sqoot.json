@@ -1,0 +1,13 @@
+{
+  "id": "sqoot",
+  "title": "Sqoot",
+  "link": "https://www.mashape.com/sqoot/sqoot",
+  "image": "",
+  "author": {
+    "name": "sqoot"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Our API exposes tens of thousands of monetizable, local daily deals. Deals are categorized and searchable by location, distance, price and more."
+}

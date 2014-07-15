@@ -1,0 +1,17 @@
+{
+  "id": "twitlonger",
+  "title": "Twitlonger",
+  "link": "http://www.twitlonger.com/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQN0bfadiUpPlhyKUpN7SJ776HjsWKFcKWwjv1t9DIqiz_dT-uh",
+  "author": {
+    "name": "Twitlonger"
+  },
+  "tags": [
+    "Service",
+    "Posting",
+    "Data",
+    "Interested",
+    "Directly"
+  ],
+  "description": "If you are the creator of a service you would like to integrate with Twitlonger, such as a desktop or mobile client or even a web interface, a very basic Twitlonger API is available. Posting via the API is limited to authorised applications and allows you to post data to the Twitlonger service before sending the post to Twitter. If you are interested in using the API send us an email. Do not email us asking that we add TwitLonger to a specific service. We have no control over that, you should ask the creator of the service or client directly and we will be happy to welcome them on board."
+}

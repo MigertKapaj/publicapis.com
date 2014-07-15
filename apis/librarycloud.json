@@ -1,0 +1,15 @@
+{
+  "id": "librarycloud",
+  "title": "LibraryCloud",
+  "link": "http://librarycloud.org/api",
+  "image": "http://librarycloud.org/images/librarycloud-logo.png",
+  "author": {
+    "name": "LibraryCloud"
+  },
+  "tags": [
+    "Power",
+    "Explore",
+    "Data"
+  ],
+  "description": "Accessing LibraryCloud through the RESTful API is a great way to plug into the power of LibraryCloud and explore the data."
+}

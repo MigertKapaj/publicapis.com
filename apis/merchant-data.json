@@ -1,0 +1,15 @@
+{
+  "id": "merchant-data",
+  "title": " Merchant Data",
+  "link": "http://developer.ebay.com/DevZone/merchant-data/CallRef/index.html",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "eBay "
+  },
+  "tags": [
+    "Reference",
+    "Elements",
+    "Attributes"
+  ],
+  "description": "This API Reference describes the elements and attributes for each call in the Merchant Data API."
+}

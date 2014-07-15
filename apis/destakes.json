@@ -1,0 +1,13 @@
+{
+  "id": "destakes",
+  "title": "Destakes",
+  "link": "http://api.destakes.com/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSffHiEzboIfUiMXEog1baOTENiuGgI2ds_vdjhrrFcZkUYiKeo",
+  "author": {
+    "name": "Destakes"
+  },
+  "tags": [
+    "Service"
+  ],
+  "description": "Este web service quando invocado, permite a pesquisa de notícias por um dado termo. A pesquisa(q) é efectuada sobre o título e descrição das notícias."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "geocoder",
+  "title": "geocoder",
+  "link": "http://geocodeservice.edisonave.net/",
+  "image": "",
+  "author": {
+    "name": "geocoder"
+  },
+  "tags": [
+    "Service",
+    "Reverse",
+    "Address"
+  ],
+  "description": "Geocoding Service is a reverse and forward geocoding service. This service can be use to turn a latitude and longitude coordinate into a meaninful address or place name."
+}

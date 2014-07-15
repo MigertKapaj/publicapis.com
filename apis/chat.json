@@ -1,0 +1,16 @@
+{
+  "id": "chat",
+  "title": "Chat",
+  "link": "http://developers.facebook.com/docs/chat/",
+  "image": "https://m-static.ak.fbcdn.net/rsrc.php/v2/y4/r/nS_LaeG3pEH.png",
+  "author": {
+    "name": "Facebook"
+  },
+  "tags": [
+    "Web based",
+    "Desktop",
+    "Mobile",
+    "Messaging"
+  ],
+  "description": "You can integrate Facebook Chat into your Web-based, desktop, or mobile instant messaging products. Your instant messaging client connects to Facebook Chat via the Jabber/XMPP service. This document describes the features and limitations of Facebook Chat's XMPP protocol for the developer who intends to implement a Facebook Chat client."
+}

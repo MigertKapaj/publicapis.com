@@ -1,0 +1,16 @@
+{
+  "id": "mobile-flash-maps",
+  "title": "Mobile Flash Maps",
+  "link": "http://developer.mapquest.com/web/products/featured/as3-flex-flash-mobile",
+  "image": "http://developer.mapquest.com/DevNet-Rebrand2-theme/html/themes/mq_theme/images/mq_images/mqlogo.png",
+  "author": {
+    "name": "MapQuest"
+  },
+  "tags": [
+    "Mobile",
+    "Component",
+    "Flex",
+    "Controls"
+  ],
+  "description": "This is your source for information and resources available for the MapQuest Mobile Flash Maps API. Download the component, visit our forum and explore samples written in AS3 and Flex using the Mobile Flash Maps API. The Mobile Flash Maps API has touch-friendly maps and controls, plus it has been streamlined for high performance on mobile devices. If you're looking to build a web/desktop application, please visit the Web/Desktop Flash Map API page."
+}

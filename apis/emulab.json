@@ -1,0 +1,16 @@
+{
+  "id": "emulab",
+  "title": "Emulab",
+  "link": "http://www.emulab.net/xmlrpcapi.php3",
+  "image": "http://www.emulab.net/fancy-header-emulab.net.png",
+  "author": {
+    "name": "Emulab"
+  },
+  "tags": [
+    "Creation",
+    "Several",
+    "Rebooting",
+    "Improve"
+  ],
+  "description": "This page describes the XMLRPC interface to Emulab. Currently, the interface mainly supports experiment creation, modification, swapping, and termination. We also provide interfaces to several other common operations on nodes end experiments such as rebooting, reloading, link delay configuration, etc. This interface is a work in progress; it will improve and grow over time. If there is something missing you need, please send us email. "
+}

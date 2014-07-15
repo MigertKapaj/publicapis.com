@@ -1,0 +1,15 @@
+{
+  "id": "topcons",
+  "title": "TOPCONS",
+  "link": "http://www.topcons.net/index.php?about=help",
+  "image": "",
+  "author": {
+    "name": "TOPCONS"
+  },
+  "tags": [
+    "Prediction",
+    "Parameters",
+    "Topologies"
+  ],
+  "description": "The current best membrane-protein topology-prediction methods are typically based on sequence statistics and contain hundreds of parameters that are optimized on known topologies of membrane proteins."
+}

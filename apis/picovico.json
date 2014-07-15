@@ -1,0 +1,16 @@
+{
+  "id": "picovico",
+  "title": "Picovico",
+  "link": "http://developer.picovico.com/",
+  "image": "http://developer.picovico.com/_static/header.png",
+  "author": {
+    "name": "Picovico"
+  },
+  "tags": [
+    "Create",
+    "Videos",
+    "Music",
+    "Application"
+  ],
+  "description": "Picovico API allows you to create videos from set of photos, text and music. It communicates over REST API and uses HTTP methods, making it easy to write application on top of it. API provide you with the list of available styles and allows you to make video requests."
+}

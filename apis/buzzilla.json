@@ -1,0 +1,15 @@
+{
+  "id": "buzzilla",
+  "title": "BUZZILLA",
+  "link": "http://api.buzzilla.com/",
+  "image": "http://api.buzzilla.com/public/images/omgili-api/logo.png",
+  "author": {
+    "name": "BUZZILLA"
+  },
+  "tags": [
+    "Software",
+    "Develop",
+    "Data"
+  ],
+  "description": "Buzzilla API is fully compatible with all software systems, so you can develop, define and structure the data yourself, just the way you need it."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "domain",
+  "title": "Domain",
+  "link": "http://api.builtwith.com/",
+  "image": "http://s.builtwith.com/img/logo/navLogo.png",
+  "author": {
+    "name": "BuiltWith"
+  },
+  "tags": [
+    "Provides",
+    "Access",
+    "Data",
+    "Technical"
+  ],
+  "description": "The BuiltWith Domain API provides XML and JSON access to the technology information of a website which includes all technical information as found on detailed lookups at BuiltWith.com and additional meta data where available."
+}

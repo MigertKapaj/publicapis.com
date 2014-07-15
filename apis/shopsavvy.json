@@ -1,0 +1,16 @@
+{
+  "id": "shopsavvy",
+  "title": "ShopSavvy",
+  "link": "http://shopsavvy.com/developers/",
+  "image": "http://shopsavvy.com/assets/nav-logo-gray-f9f71011f0ced922f7b3b5f680170e22.png",
+  "author": {
+    "name": "ShopSavvy"
+  },
+  "tags": [
+    "Brands",
+    "Data",
+    "Online",
+    "Retailer"
+  ],
+  "description": "Retailers and brands including ConsumerResearch, CNET and Tecca leverage the power of ProductCloud by licensing our Product Data API to power their mobile applications. The API includes product details, photos as well as online and local pricing and inventory data for more than 20,000,000 products from more than 40,000 retailers."
+}

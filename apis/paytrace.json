@@ -1,0 +1,17 @@
+{
+  "id": "paytrace",
+  "title": "PayTrace",
+  "link": "https://paytrace.com/api.html?s=d&m=d",
+  "image": "https://paytrace.com/Includes/images/logo.png",
+  "author": {
+    "name": "PayTrace"
+  },
+  "tags": [
+    "Interface",
+    "Integrate",
+    "Process",
+    "Transaction",
+    "Data"
+  ],
+  "description": "PayTrace's Application Programmer's Interface (API) is an option with PayTrace Professional that allows you to integrate the power of PayTrace's Payment Gateway into proprietary or 3rd party software. Once integrated, your software application will be able to interact with PayTrace's system to process real-time transactions, securely store customer payment data, and much more. "
+}

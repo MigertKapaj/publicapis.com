@@ -1,0 +1,15 @@
+{
+  "id": "the-storenvy",
+  "title": "The Storenvy",
+  "link": "http://developers.storenvy.com/docs",
+  "image": "http://dewashczp74ht.cloudfront.net/assets/developers/logo-storenvy-a89a921f22b6a52776360b3f7b1385e0.png",
+  "author": {
+    "name": "Storenvy"
+  },
+  "tags": [
+    "Interface",
+    "Manipulating",
+    "Contents"
+  ],
+  "description": "The Storenvy API provides a REST-like interface for remotely creating and manipulating stores, their contents, and orders."
+}

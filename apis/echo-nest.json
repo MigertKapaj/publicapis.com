@@ -1,0 +1,16 @@
+{
+  "id": "echo-nest",
+  "title": " Echo Nest",
+  "link": "http://developer.echonest.com/",
+  "image": "http://developer.echonest.com/new/img/logo.png",
+  "author": {
+    "name": " Echo Nest"
+  },
+  "tags": [
+    "Incredible",
+    "Service",
+    "Capabilities",
+    "Libaries"
+  ],
+  "description": "The Echo Nest offers an incredible array of music data and services for developers to build amazing apps and experiences. Here is where you learn all about the features and capabilities of our platform, review tutorials and sample code, and see what tools and libraries are available. Feel free to browse around, or just dive right in by requesting an API key.\n                                    "
+}

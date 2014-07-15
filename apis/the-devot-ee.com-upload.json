@@ -1,0 +1,16 @@
+{
+  "id": "the-devot-ee.com-upload",
+  "title": "The devot-ee.com Upload",
+  "link": "http://devot-ee.com/sell/upload-api",
+  "image": "http://assets.devot-ee.com/assets/images/site/logo_hover.png",
+  "author": {
+    "name": "Devot-ee"
+  },
+  "tags": [
+    "Upload",
+    "Files",
+    "Dates",
+    "Commerical"
+  ],
+  "description": "he devot-ee.com Upload API allows developers to upload new files, version numbers, release dates, and release notes for their commercial or free add-ons, without having to log in to devot:ee to do so."
+}

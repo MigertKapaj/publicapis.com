@@ -1,0 +1,15 @@
+{
+  "id": "getapp",
+  "title": "Getapp",
+  "link": "https://www.getapp.com/users/register/network",
+  "image": "https://www.getapp.com/i/logo_vtp.png",
+  "author": {
+    "name": "Getapp"
+  },
+  "tags": [
+    "Network",
+    "Publishers",
+    "Revenue"
+  ],
+  "description": "GetApp Network is the only dedicated advertising network for SaaS advertisers and Web/SaaS business publishers. We connect premium advertisers and publishers through a robust and transparent platform for clicks, leads and revenue sharing."
+}

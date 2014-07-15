@@ -1,0 +1,13 @@
+{
+  "id": "captcha",
+  "title": "CAPTCHA",
+  "link": "http://captcha-api.seznam.cz/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS51e_kZOIeBJrouSN9kr5L58jIyREqoth-0hIFZOinmecxdRMhYg",
+  "author": {
+    "name": "CAPTCHA"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Po Mapy API uvolnil nyní Seznam k veřejnému použití i CAPTCHA API. Co je to CAPTCHA a k čemu slouží si prosím nastudujte v encyklopedii."
+}

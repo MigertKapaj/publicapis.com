@@ -1,0 +1,16 @@
+{
+  "id": "chapoo",
+  "title": "Chapoo",
+  "link": "http://www.chapoo.com/en_INTL/about/",
+  "image": "http://www.chapoo.com/image/logo.png",
+  "author": {
+    "name": "Chapoo"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Designers",
+    "Suppliers"
+  ],
+  "description": "Chapoo provides a cloud-based platform for project information management and collaboration with full-featured REST API and integrated data repository for live queries and reports. The Software-as-a-Service platform is applicable across industries and application domains with proven success in managing complex AEC (Architecture, Engineering, Construction) industry projects. The service allows project managers, designers, engineers and related contributors, whether employees, contractors, suppliers or clients, to manage costs, eliminate waste and improve productivity through better collaboration, communication and coordination."
+}

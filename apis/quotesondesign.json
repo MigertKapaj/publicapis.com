@@ -1,0 +1,15 @@
+{
+  "id": "quotesondesign",
+  "title": "quotesondesign",
+  "link": "http://quotesondesign.com/the-api/",
+  "image": "",
+  "author": {
+    "name": "quotesondesign"
+  },
+  "tags": [
+    "parametes",
+    "Script",
+    "String."
+  ],
+  "description": "The API supports additional parameters being passed to the script through the query string"
+}

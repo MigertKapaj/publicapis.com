@@ -1,0 +1,15 @@
+{
+  "id": "zulutrade",
+  "title": "ZuluTrade",
+  "link": "https://www.zulutrade.com/restapi-reference",
+  "image": "http://d29b8zub2nxnya.cloudfront.net/static/images/logo/logo-clean-200.png",
+  "author": {
+    "name": "ZuluTrade"
+  },
+  "tags": [
+    "Trading",
+    "Platform",
+    "Web"
+  ],
+  "description": "ZuluTrade has created a trading API that offers Traders a new way to perform trading besides MT4 platform and Zulutrade's web interface."
+}

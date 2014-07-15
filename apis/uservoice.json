@@ -1,0 +1,15 @@
+{
+  "id": "uservoice",
+  "title": "UserVoice",
+  "link": "https://developer.uservoice.com/docs/widgets/overview/",
+  "image": "https://developer.uservoice.com/images/logo-uv.png",
+  "author": {
+    "name": "UserVoice"
+  },
+  "tags": [
+    "Platform",
+    "Provides",
+    "Engaging"
+  ],
+  "description": "UserVoice’s Javascript SDK is a new in-app platform that provides you with enhanced insight into your userbase, while engaging your users and giving them the tools to give you feedback when and where it’s most important."
+}

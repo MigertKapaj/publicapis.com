@@ -1,0 +1,16 @@
+{
+  "id": "free-local-weather",
+  "title": "Free Local Weather",
+  "link": "http://www.worldweatheronline.com/free-weather-feed.aspx",
+  "image": "http://cdn.worldweatheronline.net/staticv3/images/logo.jpg",
+  "author": {
+    "name": "Worldweatheronline"
+  },
+  "tags": [
+    "Developers",
+    "Access",
+    "Accurate",
+    "Implement"
+  ],
+  "description": "Our Free Local Weather REST API method allows developers and programmers to access current weather conditions and next 5 days of accurate and reliable weather forecast. Implement our weather forecast in your website, iPhone / smartphones or CMS by programming in a language of your choice like C#, VB, C++, JAVA or PHP. "
+}

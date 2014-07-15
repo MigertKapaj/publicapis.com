@@ -1,0 +1,15 @@
+{
+  "id": "opencorporate",
+  "title": "opencorporate",
+  "link": "http://blog.opencorporates.com/",
+  "image": "http://opencorporates.files.wordpress.com/2014/02/blog-logo3.png",
+  "author": {
+    "name": "opencorporate"
+  },
+  "tags": [
+    "Data",
+    "Publishing",
+    "Companies"
+  ],
+  "description": "This tallies with the 137,845 annual company accounts that are available as XBRL data through OpenCorporates for January 2014. For well over half the companies in the UK to be publishing accounts as open data is a great step forward for company transparency, particularly as it is not yet mandatory, and most of the companies are SMEs."
+}

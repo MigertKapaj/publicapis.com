@@ -1,0 +1,16 @@
+{
+  "id": "splogspot",
+  "title": "SplogSpot",
+  "link": "http://splogspot.com/pages/api_help",
+  "image": "",
+  "author": {
+    "name": "SplogSpot"
+  },
+  "tags": [
+    "Integrate",
+    "Database",
+    "Interface",
+    "Query "
+  ],
+  "description": "The SplogSpot API enables you to integrate the power of SplogSpot database into your custom application. It provides a simple interface that you can query, results being returned in the XML format.\n"
+}

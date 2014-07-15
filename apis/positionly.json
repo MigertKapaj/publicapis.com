@@ -1,0 +1,14 @@
+{
+  "id": "positionly",
+  "title": "Positionly",
+  "link": "https://positionly.com/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhoudVppLESOwffJhJ5zzSb26c_S80k9R-L89q-NlmT0-bg3C5Ng",
+  "author": {
+    "name": "Positionly"
+  },
+  "tags": [
+    "Access",
+    "Data"
+  ],
+  "description": "Positionly API allows you to access your account data programmatically"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tradervue",
+  "title": "Tradervue",
+  "link": "http://www.tradervue.com/",
+  "image": "http://www.tradervue.com/assets/tvlogo1-d1096fc54d74c7be7ef42d8c6b2c662d.png",
+  "author": {
+    "name": "Tradervue"
+  },
+  "tags": [
+    "Futures",
+    "Traders",
+    "Performance"
+  ],
+  "description": "Tradervue was started in 2011 by Greg Reinacker (formerly founder and CTO of NewsGator). The site is intended to offer active stock, futures, forex, and option traders a tool to help them keep a trading journal, and eliminate the busy work associated with keeping that journal. It also offers analytics to help quantify trading performance, potentially leading to the identification of patterns that may have been hidden."
+}

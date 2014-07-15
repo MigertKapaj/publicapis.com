@@ -1,0 +1,16 @@
+{
+  "id": "flex",
+  "title": "Flex",
+  "link": "https://developer.flightstats.com/products",
+  "image": "https://developer.flightstats.com/fs-dev-logo.png",
+  "author": {
+    "name": "FlightStats"
+  },
+  "tags": [
+    "Service",
+    "Flight",
+    "Airport",
+    "Connections"
+  ],
+  "description": "The FlightStats® Flex API Web Services provide a set of status and positional APIs by flight, airport, fleet, route or area. They also include schedules, connections, airport reference, ratings, delay index, and weather information. All Flex APIs are available to users with an active evaluation plan. If you don't have an account, complete an Evaluation Account Request. If you already have an account, simply log in to access tools and documentation."
+}

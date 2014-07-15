@@ -1,0 +1,16 @@
+{
+  "id": "ice",
+  "title": "Ice",
+  "link": "https://www.theice.com/api.jhtml",
+  "image": "https://www.theice.com/images/site/logo.jpg",
+  "author": {
+    "name": "Ice"
+  },
+  "tags": [
+    "Application",
+    "Services",
+    "Trading",
+    "Managment"
+  ],
+  "description": "ICE selectively offers market participants and ISVs Application \nProgramming Interfaces (APIs) to create custom applications and services\n around the ICE platform to suit specific needs, including customized \nalgorithmic trading, risk management, data services and straight through\n processing ICE conducts conformance testing and member dress rehearsals \nduring API development to safeguard the integrity of its marketplace"
+}

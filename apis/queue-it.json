@@ -1,0 +1,13 @@
+{
+  "id": "queue-it",
+  "title": "Queue-it",
+  "link": "https://api.queue-it.net/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcREsSqgFu29GhUS1xRmeaM4jGmG_GR_WGKjMpBOmLuyBV6x0I_t",
+  "author": {
+    "name": "Queue-it"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "In order to authenticate and authorize the 'Api-Key' HTTP header must be supplied in the REST request."
+}

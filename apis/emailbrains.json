@@ -1,0 +1,16 @@
+{
+  "id": "emailbrains",
+  "title": "Emailbrain’s",
+  "link": "http://www.emailbrain.com/api/documentation/",
+  "image": "http://www.emailbrain.com/new/images2/emailbrain/eb_logo_gm.gif",
+  "author": {
+    "name": "Emailbrain"
+  },
+  "tags": [
+    "Existing",
+    "Automate",
+    "Subscription",
+    "Online"
+  ],
+  "description": "The Application Programming Interface (API) allows you to integrate Emailbrain into your existing IT infrastructure so you can build, manage, automate and streamline your email newsletter sending and subscription processes remotely. The API integrates existing systems such as CRMs and online stores with Emailbrain’s email marketing application. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mindbodyonline",
+  "title": "MindbodyOnline",
+  "link": "https://api.mindbodyonline.com/Doc",
+  "image": "https://www.mindbodyonline.com/sites/all/themes/mbo/img/mindbody-logo.png",
+  "author": {
+    "name": "MINDBODY"
+  },
+  "tags": [
+    "Online",
+    "Web",
+    "Access",
+    "Data"
+  ],
+  "description": "The MINDBODY Online Web Service API is a system for allowing third parties to programmatically access MINDBODY Online business logic and data. We have access control measures in place for security, and an auditing system tracks accountability."
+}

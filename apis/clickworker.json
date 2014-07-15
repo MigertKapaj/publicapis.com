@@ -1,0 +1,15 @@
+{
+  "id": "clickworker",
+  "title": "clickworker",
+  "link": "http://www.clickworker.com/en/api/",
+  "image": "http://www.clickworker.com/wp-content/themes/clickworkerV5/img/logo_neu.png",
+  "author": {
+    "name": "clickworker"
+  },
+  "tags": [
+    "Service",
+    "System",
+    "Internet"
+  ],
+  "description": "The clickworker REST based Web-services allow you to access our crowdsourcing services through an API and integrate them seamlessly into your applications. This can be used for your content management system (CMS), blog or any other Internet application. "
+}

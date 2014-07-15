@@ -1,0 +1,15 @@
+{
+  "id": "seismi",
+  "title": "Seismi",
+  "link": "http://www.seismi.org/api/",
+  "image": "http://www.seismi.org/api/docs/images/seismi-logo.png",
+  "author": {
+    "name": "Seismi"
+  },
+  "tags": [
+    "Earthquake",
+    "Frequency",
+    "Pointless"
+  ],
+  "description": "We provide REST API with JSON output for earthquake data that is present in Seismi.                                                                                                                                                At the moment we don't have frequency limitations or api keys. Please use sparingly. We only refresh our caches every hour so it is pointless to call api more frequently."
+}

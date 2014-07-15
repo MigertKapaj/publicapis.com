@@ -1,0 +1,15 @@
+{
+  "id": "onepoint",
+  "title": "OnePoint",
+  "link": "http://www.myfarebox.com/aboutfarebox.aspx",
+  "image": "http://www.myfarebox.com/NewImages/sprite-1.png",
+  "author": {
+    "name": "My fare box"
+  },
+  "tags": [
+    "Propriety",
+    "Booking",
+    "Customize"
+  ],
+  "description": "OnePoint XML/API allows customers who have a proprietary or third-party booking platform to integrate Anywhere-to-Anywhere content and thus build a highly customized booking interface.\n                                    "
+}

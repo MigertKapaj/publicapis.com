@@ -1,0 +1,16 @@
+{
+  "id": "fierce-payroll",
+  "title": "Fierce Payroll",
+  "link": "http://fiercepayroll.com/developers.html",
+  "image": "http://fiercepayroll.com/images/home_logo.jpg",
+  "author": {
+    "name": "Fierce Payroll"
+  },
+  "tags": [
+    "Securely",
+    "Data",
+    "Systems",
+    "Processing"
+  ],
+  "description": "The Fierce Payroll API allows you to securely import data directly into our systems for processing. To use the API, you need to first sign up for an API key."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "phonedog-web-services",
+  "title": "PhoneDog Web Services",
+  "link": "http://webservices.phonedog.com/",
+  "image": "http://r.phonedog.com/template/images/logo.gif",
+  "author": {
+    "name": "PhoneDog"
+  },
+  "tags": [
+    "Cellular",
+    "database"
+  ],
+  "description": "PWS offers the most complete catalog of continually updated cellular data available anywhere.  The information can be utilized in a variety of applications to create a new, or round-out an existing cellular database. \n"
+}

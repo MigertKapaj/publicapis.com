@@ -1,0 +1,16 @@
+{
+  "id": "chownow",
+  "title": "Chownow",
+  "link": "http://www.chownow.com/#!/api",
+  "image": "http://www.chownow.com/wp-content/themes/chownow/images/logo_chownow.png",
+  "author": {
+    "name": "Chownow"
+  },
+  "tags": [
+    "Tablet",
+    "Ring",
+    "Restaurant",
+    "Email"
+  ],
+  "description": "A customer places an order through a ChowNow-powered menu: mobile app, Facebook page or website. The ChowNow Tablet at your restaurant will ring and the order will be accepted. An email will be self-generated, notifying the customer of their wait time. "
+}

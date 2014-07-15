@@ -1,0 +1,16 @@
+{
+  "id": "timeanddate.com",
+  "title": "Timeanddate.com",
+  "link": "http://www.timeanddate.com/services/api/",
+  "image": "http://c.tadst.com/gfx/n/tad-logo-com.png",
+  "author": {
+    "name": "Timeanddate.com"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Online",
+    "Imported"
+  ],
+  "description": "Use our API Services to tap into timeanddate.com's database and integrate our data into your applications. All data can be used directly with online or internal applications, or imported to calendars. The API & XML services can also be combined with IP look-up (geolocation) services."
+}

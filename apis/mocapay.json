@@ -1,0 +1,15 @@
+{
+  "id": "mocapay",
+  "title": "Mocapay",
+  "link": "https://www.mocapay.com/mpay/technology-api",
+  "image": "https://www.mocapay.com/mpay/sites/default/files/logo_1.png",
+  "author": {
+    "name": "Mocapay"
+  },
+  "tags": [
+    "Service",
+    "Payment",
+    "Platform"
+  ],
+  "description": "Mocapay’s token solution mobilization platform mobilizes any third party service or payment solution, closing the loop for customer transactions within merchants’ POS platform."
+}

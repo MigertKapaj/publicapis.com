@@ -1,0 +1,14 @@
+{
+  "id": "boxbilling",
+  "title": "BoxBilling",
+  "link": "http://www.boxbilling.com/docs/api.html",
+  "image": "http://www.boxbilling.com/docs/_static/documentation.png",
+  "author": {
+    "name": "BoxBilling"
+  },
+  "tags": [
+    "Management",
+    "Designed"
+  ],
+  "description": "This is the documentation for Boxbilling. BoxBilling is a billing, client and order management software which is designed to be easy to use for clients and sellers."
+}

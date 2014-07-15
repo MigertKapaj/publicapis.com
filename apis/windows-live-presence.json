@@ -1,0 +1,15 @@
+{
+  "id": "windows-live-presence",
+  "title": "Windows Live Presence",
+  "link": "http://msdn.microsoft.com/en-us/library/bb936691.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Presence",
+    "Return",
+    "Image"
+  ],
+  "description": "The Windows Live Presence API is an HTTP-based API that returns a Windows Live Messenger user presence by using JavaScript Object Notation (JSON) or an image."
+}

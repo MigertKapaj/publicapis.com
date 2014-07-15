@@ -1,0 +1,16 @@
+{
+  "id": "fieldscope",
+  "title": "FieldScope",
+  "link": "http://fieldscope.org/api/",
+  "image": "",
+  "author": {
+    "name": "FieldScope"
+  },
+  "tags": [
+    "Employed",
+    "Emitter",
+    "Changed",
+    "Optional"
+  ],
+  "description": "A uniform URL structure is employed across the API. The default emitter format is JSON, but can be changed to XML by modifying the URL. An optional project parameter can be employed for context-sensitive queries for a particular FieldScope project."
+}

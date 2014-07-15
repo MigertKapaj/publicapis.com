@@ -1,0 +1,16 @@
+{
+  "id": "here",
+  "title": "HERE",
+  "link": "http://developer.here.com/rest_api",
+  "image": "http://developer.here.com/lima-where-theme/images/content/shared/header/logo_developer_here_large_invert.png",
+  "author": {
+    "name": "HERE"
+  },
+  "tags": [
+    "Flexible",
+    "Functionalities",
+    "Advanced",
+    "Incident"
+  ],
+  "description": "HERE REST APIs provide a flexible and fast access to variety of map data and functionalities. Developers can use HERE Rest APIs to perform tasks ranging from batch geocode requests, advanced traffic incident reports to creating an isoline route."
+}

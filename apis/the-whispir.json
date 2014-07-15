@@ -1,0 +1,16 @@
+{
+  "id": "the-whispir",
+  "title": "The Whispir",
+  "link": "http://developer.whispir.com/docs",
+  "image": "http://developer.whispir.com/files/whispir.png",
+  "author": {
+    "name": "Whispir"
+  },
+  "tags": [
+    "Possible",
+    "Multichennel",
+    "Idea",
+    "Sketch"
+  ],
+  "description": "The Whispir API makes it possible for developers to take their multichannel application idea from sketch to launch in less time, with less complexity."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "speech-to-text",
+  "title": "Speech to Text",
+  "link": "http://www.mycaption.com/resources/api",
+  "image": "http://www.mycaption.com/images/TM.png",
+  "author": {
+    "name": "My caption"
+  },
+  "tags": [
+    "Recognition",
+    "Speech",
+    "Text",
+    "CRM"
+  ],
+  "description": "If you could delight your customers by adding speech recognition capability to your product quickly, would you? If you could increase the pricing power of your products, would you? Speech to Text -- it's an idea whose time has come. Whether you are selling a mobile app, a Unified Communications system, or a CRM app, your customers are asking for an alternative to using small keyboards. Speech is the natural alternative.\n                   "
+}

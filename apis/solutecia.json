@@ -1,0 +1,13 @@
+{
+  "id": "solutecia",
+  "title": "Solutecia",
+  "link": "http://web.solutecia.com/solutecia/desarrolladores/91-api-solutecia-voces-tts#.U0jkCVdIi1s",
+  "image": "http://web.solutecia.com/images/logo_solutecia_trans250.png",
+  "author": {
+    "name": "Solutecia"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "La funcionalidad del API de SOLUTECIA para voces consiste en la \ngeneración de voces en varios idiomas directamente en nuestro servidor, y\n como retorno, se obtiene un XML indicando el archivo en mp3 que puede \nser descargado para su uso.\n \n "
+}

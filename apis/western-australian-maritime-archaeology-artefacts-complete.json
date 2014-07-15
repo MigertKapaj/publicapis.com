@@ -1,0 +1,15 @@
+{
+  "id": "western-australian-maritime-archaeology-artefacts-complete",
+  "title": "Western Australian Maritime Archaeology Artefacts - Complete",
+  "link": "http://www.museum.wa.gov.au/sandbox/",
+  "image": "http://www.museum.wa.gov.au/sandbox/sites/all/themes/wamsandbox2/images/gov_logo.png",
+  "author": {
+    "name": "WA Museum Sandbox"
+  },
+  "tags": [
+    "Publish",
+    "Source",
+    "Products"
+  ],
+  "description": "The WA Museum Sandbox is where we publish our collection APIs for use by the public and researchers. We will also be posting our Open Source  software products for free download in the near future."
+}

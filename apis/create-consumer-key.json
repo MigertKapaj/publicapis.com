@@ -1,0 +1,16 @@
+{
+  "id": "create-consumer-key",
+  "title": "Create Consumer Key",
+  "link": "http://developer.yahoo.com/oauth/guide/create-consumer-key-guide.html",
+  "image": "",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Information",
+    "Software",
+    "Web",
+    "Oauth"
+  ],
+  "description": "This guide provides information about using the Create Consumer Key API. It is intended for software developers who are familiar with Yahoo Web Services and OAuth.\n               "
+}

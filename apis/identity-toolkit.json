@@ -1,0 +1,17 @@
+{
+  "id": "identity-toolkit",
+  "title": "Identity Toolkit",
+  "link": "https://developers.google.com/identity-toolkit/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Operators",
+    "Password",
+    "Identity",
+    "Provider",
+    "Ping"
+  ],
+  "description": "Google Identity Toolkit (GITkit) is a free toolkit for website operators who currently allow users to login with their email address and password, and would like to replace that password with federated login. It currently supports Google mail, Hotmail, Yahoo! mail, AOL mail, and Google Apps mail but more identity providers will be added in the future. Other companies that are members of the OpenID Foundation offer similar functionality including Janrain, Microsoft, Gigya, and Ping Identity."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "survey",
+  "title": "Survey",
+  "link": "https://developer.surveymonkey.com/",
+  "image": "https://developer.surveymonkey.com/files/developer_logo.png",
+  "author": {
+    "name": "Developer"
+  },
+  "tags": [
+    "Introduce",
+    "Access",
+    "Repository"
+  ],
+  "description": "In this guide we will introduce you to OAuth 2.0 and how to carry out the 3 step process needed to get a access token for use with our APIs. To get started we recommend that you clone our examples repository on github and follow along in your own editor. "
+}

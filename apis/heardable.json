@@ -1,0 +1,15 @@
+{
+  "id": "heardable",
+  "title": "Heardable",
+  "link": "http://heardable.com/api.php",
+  "image": "http://heardable.com/images/heardable_logo_26.png",
+  "author": {
+    "name": "Heardable"
+  },
+  "tags": [
+    "Upgrades",
+    "Request",
+    "Authenticated"
+  ],
+  "description": "The current API version is v3.1.  Version upgrades are automatic - you do not need to send the version with your request.  All Heardable MagicFirehose™ The Heardable MagicFirehose™ API uses REST: all requests must be authenticated.  An API key is required."
+}

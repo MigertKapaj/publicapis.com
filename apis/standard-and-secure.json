@@ -1,0 +1,14 @@
+{
+  "id": "standard-and-secure",
+  "title": "Standard and secure",
+  "link": "http://www.fotonotes.com/features/",
+  "image": "http://www.fotonotes.com/wp-content/uploads/2014/01/mobile-work2.png",
+  "author": {
+    "name": "FotoNotes"
+  },
+  "tags": [
+    "Pull",
+    "Push"
+  ],
+  "description": "Standard and secure REST API – pull or push data to FotoNotes mobile application"
+}

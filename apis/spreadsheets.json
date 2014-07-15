@@ -1,0 +1,13 @@
+{
+  "id": "spreadsheets",
+  "title": "Spreadsheets",
+  "link": "https://developers.google.com/google-apps/spreadsheets/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Discusses"
+  ],
+  "description": "This guide discusses how to use the Google Spreadsheets API version 3.0."
+}

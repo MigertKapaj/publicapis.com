@@ -1,0 +1,16 @@
+{
+  "id": "tosdr",
+  "title": "Tosdr",
+  "link": "http://tosdr.org/api.html",
+  "image": "http://tosdr.org/img/tosdr-icon-16.png",
+  "author": {
+    "name": "Tosdr"
+  },
+  "tags": [
+    "Develop",
+    "Service",
+    "Application",
+    "Rating"
+  ],
+  "description": "We encourage people to develop applications and other services integrating our ratings into their work. This page should help you use our data for your own app. "
+}

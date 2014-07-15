@@ -1,0 +1,15 @@
+{
+  "id": "icepay",
+  "title": "ICEPAY",
+  "link": "http://www.icepay.com/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-48f26nZhyC-FwPYDwPOONw_1D6Llyrar_nLzciPvGVONAhI5oA",
+  "author": {
+    "name": "ICEPAY"
+  },
+  "tags": [
+    "Projects",
+    "Development",
+    "Experience"
+  ],
+  "description": "ICEPAY offers different API’s to use in your projects. The API 2.x is the latest API ICEPAY provides. Compared to API 1.0, the ICEPAY API 2.x is easier to integrate into your projects and it offers more flexibility in development. The API 2.x offers a wide range of possibilities to manage the payment methods in your webshop, even better than with API 1.0. In the end, this will lead to a better user experience for your customer and a higher conversion rate in your webshop!"
+}

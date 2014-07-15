@@ -1,0 +1,16 @@
+{
+  "id": "teamdesk-soap",
+  "title": "TeamDesk SOAP",
+  "link": "http://teamdesk.crmdesk.com/answer.aspx?id=22",
+  "image": "http://www.teamdesk.net/img/logo.gif",
+  "author": {
+    "name": "TeamDesk SOAP"
+  },
+  "tags": [
+    "SOAP",
+    "Zipped",
+    "Subject",
+    ""
+  ],
+  "description": "Here you may find Getting Started with TeamDesk SOAP API.pdf file and zipped TeamDesk SOAP API documentation in HTML Help format. The documentation is preliminary and subject to change. Please check back periodically."
+}

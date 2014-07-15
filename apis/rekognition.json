@@ -1,0 +1,15 @@
+{
+  "id": "rekognition",
+  "title": "ReKognition",
+  "link": "rekognition.com/developer/start",
+  "image": "http://rekognition.com/static/img/img_logo.png",
+  "author": {
+    "name": "ReKognition"
+  },
+  "tags": [
+    "Service",
+    "Tagging",
+    "Concepts"
+  ],
+  "description": "ReKognition's services are FREE to try. First, you'll need an API ACCOUNT. We offer services for detecting, recognizing, tagging and searching faces and concepts as well as categorizing scenes in any photo, through our RESTFUL API."
+}

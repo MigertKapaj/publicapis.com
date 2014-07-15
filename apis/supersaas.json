@@ -1,0 +1,15 @@
+{
+  "id": "supersaas",
+  "title": "SuperSaaS",
+  "link": "http://www.supersaas.com/tutorials/api_users",
+  "image": "http://d304pchb3b61hb.cloudfront.net/img/ssslogo_sm.gif",
+  "author": {
+    "name": "SuperSaaS"
+  },
+  "tags": [
+    "System",
+    "Information",
+    "Provide"
+  ],
+  "description": "If your site has its own login system and database with user information you can use this API to sync it with the SuperSaaS user database. This allows you to provide your users with a way to register and log in only once. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "wallabee",
+  "title": "WallaBee",
+  "link": "http://wallab.ee/developers/",
+  "image": "http://wallab.ee/silver/img/logo@2x.png",
+  "author": {
+    "name": "WallaBee"
+  },
+  "tags": [
+    "Experience",
+    "Developer",
+    "Official "
+  ],
+  "description": "When we created WallaBee, we were determined to not only create a great player experience but also a great developer experience. We wanted to show other app developers how a developer community is created. That's why we launched our REST-ful API at the same time as we launched our official app."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mycase",
+  "title": "MyCase",
+  "link": "https://www.mycase.com/developer",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS4mhSHMg1rvrXyFZma51L_KtBxRmvqdmAHYeT-NvFbUokROBCT",
+  "author": {
+    "name": "MyCase"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

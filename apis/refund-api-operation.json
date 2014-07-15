@@ -1,0 +1,16 @@
+{
+  "id": "refund-api-operation",
+  "title": "Refund API Operation",
+  "link": "https://www.x.com/developers/paypal/documentation-tools/api/refund-api-operation",
+  "image": "https://www.paypalobjects.com/webstatic/developer/logo_paypal_developer.png",
+  "author": {
+    "name": "Paypal"
+  },
+  "tags": [
+    "Refund payment",
+    "Identify Accounts",
+    "Payment Key",
+    ""
+  ],
+  "description": "Refund API operation is used to refund all or part of a payment. \nYou can specify the amount of the refund, and identify the accounts \nto receive the refund, by the payment key or tracking ID, and \noptionally, by transaction ID or the receivers of the original payment."
+}

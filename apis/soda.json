@@ -1,0 +1,15 @@
+{
+  "id": "soda",
+  "title": "SODA",
+  "link": "https://data.edmonton.ca/",
+  "image": "http://dev.socrata.com/images/soda-logo.png",
+  "author": {
+    "name": "Socrata"
+  },
+  "tags": [
+    "Console",
+    "Syntax",
+    "parametes"
+  ],
+  "description": "The Socrata Open Data API console allows you to experiment with API calls without writing a single line of code. Using our simple syntax, you can experiment with different calls and parameters before building a larger application."
+}

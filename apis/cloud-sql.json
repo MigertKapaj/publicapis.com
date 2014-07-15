@@ -1,0 +1,15 @@
+{
+  "id": "cloud-sql",
+  "title": "Cloud SQL",
+  "link": "https://developers.google.com/cloud-sql/docs/admin-api/index",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Capabilities",
+    "Unsupported",
+    "Maintenance"
+  ],
+  "description": "Google Cloud SQL is a MySQL database that lives in Google's cloud. It has all the capabilities and functionality of MySQL, with a few additional features and a few unsupported features as listed below. Google Cloud SQL is easy to use, doesn't require any software installation or maintenance and is ideal for small to medium-sized applications."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "voxe",
+  "title": "Voxe",
+  "link": "http://voxe.org/platform",
+  "image": "https://voxe.s3.amazonaws.com/assets/icons/128-dbcfa89b539a5179b1b2a24cc4881cc2.png",
+  "author": {
+    "name": "Voxe"
+  },
+  "tags": [
+    "Users",
+    "Parameters",
+    "Admin"
+  ],
+  "description": "Our Restful API are only returning JSON results, and are read-only for public users. All parameters and keys are in CamelCase. POST requests are only accessible to admin users."
+}

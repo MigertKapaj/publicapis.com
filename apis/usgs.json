@@ -1,0 +1,16 @@
+{
+  "id": "usgs",
+  "title": "USGS",
+  "link": "http://qwwebservices.usgs.gov/",
+  "image": "http://qwwebservices.usgs.gov/index_files/usgs_logo.jpg",
+  "author": {
+    "name": "USGS"
+  },
+  "tags": [
+    "Scintists",
+    "Discover",
+    "Database",
+    "Monitoring."
+  ],
+  "description": "USGS and USEPA are working together to provide scientists and policy-makers an easier way to discover and acquire water-quality data from their large water-quality databases. A common suite of web services allow for the automated sharing of water monitoring data via a common format and terminology."
+}

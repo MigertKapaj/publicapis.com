@@ -1,0 +1,15 @@
+{
+  "id": "datarank",
+  "title": "Datarank",
+  "link": "http://finance.ttagg.com/about/stock_api",
+  "image": "https://www.datarank.com/public/img/datarank_logo_blue3.png",
+  "author": {
+    "name": "Datarank"
+  },
+  "tags": [
+    "Provides",
+    "Online",
+    "Business"
+  ],
+  "description": "DataRankTM provides an easy to use integrated analytics dashboard for analyzing all of the online conversations relevant to your business."
+}

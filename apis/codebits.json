@@ -1,0 +1,15 @@
+{
+  "id": "codebits",
+  "title": "Codebits",
+  "link": "https://codebits.eu/s/api",
+  "image": "https://codebits.eu/imgs/codebits.png",
+  "author": {
+    "name": "Codebits"
+  },
+  "tags": [
+    "Demand",
+    "Extract",
+    "Website"
+  ],
+  "description": "We don't feel that you need this (most of you are already scraping the website anyway) but there's been some demand so here's a list of structured calls that you can use to extract information from this website."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "semrush",
+  "title": "SEMrush",
+  "link": "http://www.semrush.com/api.html",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyq682bzjKZeYEQrvSZRgaNt-CO675FurWY6_2LLYsEKR6SW8J",
+  "author": {
+    "name": "SEMrush"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "API allows SEMrush users to pull automated data from our servers, making it far simpler to analyze. Basically, API permits our users to integrate data within their software without having to go through the SEMrush interface."
+}

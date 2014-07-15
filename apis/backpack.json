@@ -1,0 +1,15 @@
+{
+  "id": "backpack",
+  "title": "Backpack",
+  "link": "https://github.com/37signals/backpack-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Integration",
+    "Authorize",
+    "Sensitive"
+  ],
+  "description": "If you're making a public integration with Backpack for others to enjoy, you can also use OAuth 2. This allows users to authorize your application to use Basecamp Classic on their behalf without having to copy/paste API tokens or touch sensitive login info."
+}

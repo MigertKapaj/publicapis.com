@@ -1,0 +1,13 @@
+{
+  "id": "html2text",
+  "title": "HTML2Text",
+  "link": "https://www.mashape.com/pbkwee/html2text",
+  "image": "",
+  "author": {
+    "name": "pbkwee"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The HTML to text tool tries to extract text content out of an HTML document.\r\n\r\nIt ignores 'non-text' HTML content (like script, object and applet tags).\r\n\r\nFeedback on this tool is welcomed on our blog at http://blog.2partsmagic.com/2012/09/text-2-html-converter-online-tool-api/"
+}

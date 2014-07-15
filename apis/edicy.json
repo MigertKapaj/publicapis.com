@@ -1,0 +1,15 @@
+{
+  "id": "edicy",
+  "title": "Edicy",
+  "link": "http://www.edicy.com/developer/site-api",
+  "image": "http://www.edicy.com/images/logo2x.png?1",
+  "author": {
+    "name": "Edicy"
+  },
+  "tags": [
+    "Dynamic",
+    "Demand",
+    "Catalogs"
+  ],
+  "description": "This API is mostly read-only and can be used to make your sites more dynamic. Creating scroll-on-demand blog pages or searchable product catalogs is now simpler than ever."
+}

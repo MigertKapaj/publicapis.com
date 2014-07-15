@@ -1,0 +1,15 @@
+{
+  "id": "getdeepsearch-results",
+  "title": "GetDeepSearch-Results",
+  "link": "http://www.zillow.com/howto/api/GetDeepSearchResults.htm",
+  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
+  "author": {
+    "name": "Zillow"
+  },
+  "tags": [
+    "Property",
+    "Data",
+    "Built"
+  ],
+  "description": "The GetDeepSearchResults API finds a property for a specified address. The result set returned contains the full address(s), zpid and Zestimate data that is provided by the GetSearchResults API. Moreover, this API call also gives rich property data like lot size, year built, bath/beds, last sale details etc. "
+}

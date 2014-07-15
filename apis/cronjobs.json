@@ -1,0 +1,16 @@
+{
+  "id": "cronjobs",
+  "title": "cronjobs",
+  "link": "https://www.setcronjob.com/documentation/api",
+  "image": "",
+  "author": {
+    "name": "Setcronjobs"
+  },
+  "tags": [
+    "Web",
+    "Unix",
+    "Windows",
+    "Scripts"
+  ],
+  "description": "SetCronJob is a web-based cronjobs service, an alternative for Unix CronTab and Windows Tasks Scheduler. It'll execute your scripts by requesting their URLs. SetCronJob supports all server-side programming languages including PHP, ASP.NET, Python, Ruby, etc."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "windows-live-contacts",
+  "title": "Windows Live Contacts",
+  "link": "http://msdn.microsoft.com/en-us/library/bb447722.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Contains",
+    "Numbers",
+    "Contacts"
+  ],
+  "description": "Windows Live Contacts maintains an address book for users that contains names, addresses, telephone numbers, and e-mail addresses for their contacts."
+}

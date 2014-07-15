@@ -1,0 +1,16 @@
+{
+  "id": "jedcart",
+  "title": "Jedcart",
+  "link": "https://jedcart.com/developer/index",
+  "image": "https://jedcart.com/images/logo.png",
+  "author": {
+    "name": "Jedcart"
+  },
+  "tags": [
+    "Designed",
+    "Obvious",
+    "Request",
+    "Control"
+  ],
+  "description": "The Jedcart API is designed to offer clarity of use through simple verbs that make it obvious what you are requesting. Resource requests have been designed to be fine grained so that you have more control. "
+}

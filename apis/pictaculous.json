@@ -1,0 +1,16 @@
+{
+  "id": "pictaculous",
+  "title": "Pictaculous",
+  "link": "http://www.pictaculous.com/api/",
+  "image": "http://www.pictaculous.com/img/logo.png",
+  "author": {
+    "name": "Pictaculous"
+  },
+  "tags": [
+    "Simple",
+    "Webservice",
+    "Plaettes",
+    "Serialized"
+  ],
+  "description": "The Pictaculous API is quite a simple one that simply allows you to make a HTTP POST request to our webservice and have the generated color palettes returned as a serialized JSON encoded object."
+}

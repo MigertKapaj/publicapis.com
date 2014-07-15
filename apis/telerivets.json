@@ -1,0 +1,15 @@
+{
+  "id": "telerivets",
+  "title": "Telerivet's",
+  "link": "http://telerivet.com/help/api",
+  "image": "http://telerivet.com/_media/images/logo/TR-logo2.png",
+  "author": {
+    "name": "Telerivet's"
+  },
+  "tags": [
+    "Integrate",
+    "Telerivt",
+    "RestWebhook"
+  ],
+  "description": "Telerivet's application programming interface (API) makes it easy for software developers to integrate Telerivet with applications running on other servers.There are two main parts to Telerivet's API: the REST API, which lets your application send SMS messages and import/export data the Webhook API, which lets your application receive incoming SMS messages and send replie"
+}

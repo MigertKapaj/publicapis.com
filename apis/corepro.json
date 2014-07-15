@@ -1,0 +1,16 @@
+{
+  "id": "corepro",
+  "title": "CorePro",
+  "link": "http://docs.corepro.apiary.io/",
+  "image": "https://apiary.a.ssl.fastly.net/assets/images/apiary-app-logo-1x-136bf1f4d06a3c9e.png",
+  "author": {
+    "name": "CorePro"
+  },
+  "tags": [
+    "Admin",
+    "Data",
+    "Structured",
+    "Properties"
+  ],
+  "description": "Versioning is determined by the API Key (routes will NOT include the version). The CorePro Admin site will display the API Key for each version currently available.Developers should expect that new elements may be added to the JSON data structure for a current version at any time.  Elements will not be removed, renamed (amount -> tranAmount), or change case (amount - AMOUNT) in a given version of the API.   The properties in the JSON data structure will typically be in alphabetical order; however, this is not guaranteed."
+}

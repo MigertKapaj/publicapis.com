@@ -1,0 +1,16 @@
+{
+  "id": "ferret",
+  "title": "Ferret",
+  "link": "http://api.ferret-go.com/docs/general.html",
+  "image": "http://api.ferret-go.com/docs/_static/images/header.png",
+  "author": {
+    "name": "Ferret"
+  },
+  "tags": [
+    "Context",
+    "Technical",
+    "Processing",
+    "Purposes"
+  ],
+  "description": "ferret go is a specialist for topic and context analysis in large sets of linked web contents or text collections. With technical focus on German Natural Language Processing we also provide a number of API endpoints for different purposes of text analysis."
+}

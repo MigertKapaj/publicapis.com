@@ -1,0 +1,15 @@
+{
+  "id": "remember-the-milk",
+  "title": "Remember The Milk",
+  "link": "http://www.rememberthemilk.com/services/api/request.rest.rtm",
+  "image": "http://s4.rtmcdn.net/img/logo2.png",
+  "author": {
+    "name": "RememberTheMilk"
+  },
+  "tags": [
+    "Interact",
+    "Developers",
+    "Design"
+  ],
+  "description": "The Remember The Milk API allows anyone to write applications that interact with Remember The Milk. At this time, the API is available for non-commercial use by outside developers (commercial use requires prior arrangement). The design of the Remember The Milk API was inspired by the Flickr API."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dashbook",
+  "title": "DASHBOOK",
+  "link": "http://dashbookapp.com/",
+  "image": "http://dashbookapp.com/img/dashbook-logo.png",
+  "author": {
+    "name": "DASHBOOK"
+  },
+  "tags": [
+    "Provides",
+    "Internet",
+    "Personalized"
+  ],
+  "description": "DASHBOOK provides you with your own personal view of the Internet. One that has been automatically curated and personalized just for you."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "icbit",
+  "title": "ICBIT",
+  "link": "https://icbit.se/api",
+  "image": "https://icbit.se/WebTrade/Styles/images/logo.png",
+  "author": {
+    "name": "ICBIT"
+  },
+  "tags": [
+    "Information",
+    "Providing",
+    "Programming"
+  ],
+  "description": "ICBIT trading platform gives a way to get real time market information and issue/cancel your orders by providing a special fast streaming API. The ICBIT API is implemented using socket.io which supports a number of different secure transports. An updated list of client libraries in different programming languages is being maintained at socket.io wiki page. ICBIT does not currently provide HTTP requests based API."
+}

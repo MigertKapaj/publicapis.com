@@ -1,0 +1,16 @@
+{
+  "id": "jobcranks",
+  "title": "JobCrank's",
+  "link": "http://www.jobcrank.com/company/api.aspx",
+  "image": "http://www.jobcrank.com/content/images/master/jobcrank_logo.gif",
+  "author": {
+    "name": "JobCrank"
+  },
+  "tags": [
+    "Members",
+    "Service",
+    "Integrate",
+    "Data"
+  ],
+  "description": "For our members who want to get more out of our service, we make available a development API which will allow you to automate or integrate our data with your internal applications."
+}

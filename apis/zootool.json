@@ -1,0 +1,15 @@
+{
+  "id": "zootool",
+  "title": "Zootool",
+  "link": "http://zootool.com/api/docs",
+  "image": "http://zootool.com/rhino.png",
+  "author": {
+    "name": "Zootool"
+  },
+  "tags": [
+    "Collect",
+    "Source",
+    "Alternative"
+  ],
+  "description": "We started a newsletter list to collect supporters for a self-hosted, open-source alternative for Zootool. "
+}

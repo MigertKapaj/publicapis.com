@@ -1,0 +1,15 @@
+{
+  "id": "isbndb",
+  "title": "ISBNdb",
+  "link": "http://isbndb.com/api/v2/docs",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCPehn9WFEyDm9ciw_MFmWLsRuJkvR68WLlfwZ0jT6RcqCyRjq",
+  "author": {
+    "name": "ISBNdb"
+  },
+  "tags": [
+    "Simple",
+    "Querying",
+    "Database"
+  ],
+  "description": "ISBNdb's v2 API is a RESTful API that offers a simple mechanism for querying much of the information stored in our database. "
+}

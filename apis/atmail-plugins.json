@@ -1,0 +1,14 @@
+{
+  "id": "atmail-plugins",
+  "title": "Atmail plugins",
+  "link": "http://atmail.com/plugins/",
+  "image": "http://atmail.com/images/logo-white.png",
+  "author": {
+    "name": "Atmail"
+  },
+  "tags": [
+    "Experience",
+    "Developing"
+  ],
+  "description": "Atmail plugins are an easy way to customize your users' Atmail experience without editing any core Atmail code (making upgrades easy). Read more on developing your own plugins."
+}

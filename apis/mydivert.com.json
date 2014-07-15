@@ -1,0 +1,16 @@
+{
+  "id": "mydivert.com",
+  "title": "mydivert.com",
+  "link": "http://www.mydivert.com/api/index.php",
+  "image": "http://www.mydivert.com/images/mydivert_03.gif",
+  "author": {
+    "name": "mydivert.com"
+  },
+  "tags": [
+    "Web",
+    "Application",
+    "SOAP",
+    "Coverage"
+  ],
+  "description": "The API allows users and web developers to integrate our services into custom web applications. The functions are accessible through a SOAP based Web Service allowing you to integrate coverage, configuration, and maintenance of DID numbers on your own site.\n                                        "
+}

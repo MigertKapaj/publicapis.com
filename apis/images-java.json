@@ -1,0 +1,16 @@
+{
+  "id": "images-java",
+  "title": "Images Java",
+  "link": "https://developers.google.com/appengine/docs/java/images/overview",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Image",
+    "Multiple",
+    "Predefined",
+    "Information"
+  ],
+  "description": "App Engine provides the ability to manipulate image data using a dedicated Images service. The Images service can resize, rotate, flip, and crop images; it can composite multiple images into a single image; and it can convert image data between several formats. It can also enhance photographs using a predefined algorithm. The API can also provide information about an image, such as its format, width, height, and a histogram of color values."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blitline",
+  "title": "Blitline",
+  "link": "http://www.blitline.com/docs/api",
+  "image": "http://www.blitline.com/images/logo/new_logo_inverse_300x75.png",
+  "author": {
+    "name": "Blitline"
+  },
+  "tags": [
+    "Security",
+    "Personal",
+    "Access"
+  ],
+  "description": "We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information."
+}

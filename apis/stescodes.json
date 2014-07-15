@@ -1,0 +1,16 @@
+{
+  "id": "stescodes",
+  "title": "stescodes",
+  "link": "http://stescodes.com/eventsmanager.aspx",
+  "image": "http://stescodes.com/images/pageheader.jpg",
+  "author": {
+    "name": "stescodes"
+  },
+  "tags": [
+    "Payment",
+    "Signature",
+    "Website",
+    "Paypal"
+  ],
+  "description": "When you click the Buy Now button below, you will be redirected to PayPal website to make payment. Once you are done with the payment, returned back to StesCodes.com to \nget the Signature by clicking the \"Return to StesCodes.com\" in Paypal website.\n"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "the-event-listings",
+  "title": "The Event Listings",
+  "link": "http://developer.nytimes.com/docs/events_api",
+  "image": "http://developer.nytimes.com/files/NYTDevLogo.png",
+  "author": {
+    "name": " Event Listings"
+  },
+  "tags": [
+    "Search",
+    "Events",
+    "Beyond"
+  ],
+  "description": "The Event Listings API, you can search the New York Times listing of noteworthy cultural events in New York City and beyond."
+}

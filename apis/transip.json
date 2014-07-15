@@ -1,0 +1,16 @@
+{
+  "id": "transip",
+  "title": "TransIP",
+  "link": "https://www.transip.eu/domains-hosting/api/",
+  "image": "https://www.transip.eu/img/_allyours/transip-logo.svg",
+  "author": {
+    "name": "TransIP"
+  },
+  "tags": [
+    "Freedom",
+    "Scaling",
+    "Integrated",
+    "Process"
+  ],
+  "description": "Freedom to do what you want: that is what the TransIP API offers. From a Ruby library to the automatic scaling of your BladeVPS – you decide how to use our services. The download link above includes the changelog, documentation, examples and a PHP library. TransIP collaborates with platforms like WeFact and WHMCS,\n the TransIP API is fully integrated into both platforms. This means you\n can easily set up your own order process and support system."
+}

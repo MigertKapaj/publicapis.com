@@ -1,0 +1,16 @@
+{
+  "id": "queekypaint",
+  "title": "QueekyPaint",
+  "link": "http://www.queeky.com/tools/api",
+  "image": "http://www.queeky.com/sites/all/themes/queeky2/images/logoRemakeBlack.png",
+  "author": {
+    "name": "Queeky"
+  },
+  "tags": [
+    "Embed",
+    "Gallery",
+    "Images",
+    "Generating"
+  ],
+  "description": "Use our API to embed QueekyPaint plus gallery into your homepage. The gallery displays all the images that have been created with your personal API-Key. Your personal key will be automatically created by generating the Javascript-Code. "
+}

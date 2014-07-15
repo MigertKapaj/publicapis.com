@@ -1,0 +1,15 @@
+{
+  "id": "golfnow",
+  "title": "GolfNow",
+  "link": "http://www.golfnow.com/APIDocumentation/UsingGolfNowWithPHP",
+  "image": "https://j4t5z6n2.ssl.hwcdn.net/img/sprite/gn-sprite-v1.png",
+  "author": {
+    "name": "GolfNow"
+  },
+  "tags": [
+    "Service",
+    "Reservation",
+    "Websites"
+  ],
+  "description": "GolfNow API is an easy to use reservation and booking service that makes it easy to find courses, tee times, and make reservations. It provides the resources to GolfNow partners and affiliate golf courses to integrate their websites and mobile apps with this reservation and booking service for searching and booking tee times at all GolfNow affiliated golf courses. "
+}

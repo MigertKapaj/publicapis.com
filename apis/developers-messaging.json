@@ -1,0 +1,15 @@
+{
+  "id": "developers-messaging",
+  "title": "\nDevelopers Messaging",
+  "link": "http://www.messagingpeople.com",
+  "image": "http://cdn2.messagingme.com/mp/images/banner/logo.png",
+  "author": {
+    "name": "Messseging people"
+  },
+  "tags": [
+    "Integration",
+    "Operating",
+    "Servers"
+  ],
+  "description": "Various developers messaging API technology solutions have been provided to ensure that integration can be used cross-platform, supported by different Operating Systems, different compilers / IDEs and supported byvarious Web Servers.\n"
+}

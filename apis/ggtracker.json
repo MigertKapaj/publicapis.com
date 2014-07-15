@@ -1,0 +1,14 @@
+{
+  "id": "ggtracker",
+  "title": "GGTracker",
+  "link": "http://ggtracker.com/api",
+  "image": "http://a1.ggtracker.com/assets/logo20-59579f8bdab11f6a6270cf2ee273f275.png",
+  "author": {
+    "name": "GGTracker"
+  },
+  "tags": [
+    "Shut",
+    "Prioritize"
+  ],
+  "description": "This API is experimental. We might shut it down at any time.Please contact us before using the API. If people are using this API, we can prioritize supporting it."
+}

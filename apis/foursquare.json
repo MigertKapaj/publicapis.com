@@ -1,0 +1,16 @@
+{
+  "id": "foursquare",
+  "title": "foursquare",
+  "link": "https://developer.foursquare.com/docs/",
+  "image": "https://ss0.4sqi.net/img/chrome/logo-de7fc2f067289aee69031144ced1736e.png",
+  "author": {
+    "name": "Foursquare"
+  },
+  "tags": [
+    "Information",
+    "Mappings",
+    "Database",
+    "Making"
+  ],
+  "description": "The Foursquare Venues Platform makes it easy to build location information into applications without requiring deeper Foursquare integration or authentication. Select partner mappings are retained in Foursquare's database and made available to other developers, making it easy for third parties to link to them."
+}

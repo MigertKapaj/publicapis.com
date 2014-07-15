@@ -1,0 +1,13 @@
+{
+  "id": "weibo",
+  "title": "Weibo",
+  "link": "https://www.mashape.com/shadow/weibo",
+  "image": "",
+  "author": {
+    "name": "shadow"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Sina Weibo API"
+}

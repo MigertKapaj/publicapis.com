@@ -1,0 +1,16 @@
+{
+  "id": "yummly",
+  "title": "Yummly",
+  "link": "https://developer.yummly.com/documentation",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ4aKffE_5lXZ-jfuZ4ssEjBC-vGh92nK0AsTTW6h5_ibWd92BX",
+  "author": {
+    "name": "Yummly"
+  },
+  "tags": [
+    "Integrate",
+    "Recipes",
+    "Faceted",
+    "Mobile"
+  ],
+  "description": "The Yummly Recipe API lets you integrate recipes and faceted recipe search into your websites or mobile applications."
+}

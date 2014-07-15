@@ -1,0 +1,16 @@
+{
+  "id": "sierratradingpost",
+  "title": "Sierratradingpost",
+  "link": "https://dev.sierratradingpost.com/documentation",
+  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/sierra-trading-post/2445579878891/profiles/logos/large/logo.png",
+  "author": {
+    "name": "Sierratradingpost"
+  },
+  "tags": [
+    "Brands",
+    "Departments",
+    "Search",
+    "Consume"
+  ],
+  "description": "Our Version 1.0 API contains six categories: Brands, Departments, Products, Reviews, Search and Filtering. All requests are returned in JSON's format making it easy for your programs to consume. Below are a summary list of the request URLs you can perform. For more detail information on each categories, click on its hyperlinks in the Docs Navigation section."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "yahoo-geoplanet",
+  "title": "Yahoo GeoPlanet",
+  "link": "http://developer.yahoo.com/geo/geoplanet/",
+  "image": "",
+  "author": {
+    "name": "Yahoo GeoPlanet"
+  },
+  "tags": [
+    "Real",
+    "Virtual worlds",
+    "Unequivocl",
+    "Permanent"
+  ],
+  "description": "Yahoo! GeoPlanet helps bridge the gap between the real and virtual worlds by providing an open, permanent, and intelligent infrastructure for geo-referencing data on the Internet.In practical terms, Yahoo! GeoPlanet is a resource for managing all geo-permanent named places on Earth. It provides the geographic developer community with the vocabulary and grammar to describe the world's geography in an unequivocal, permanent, and language-neutral manner."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sheerid",
+  "title": "SheerID",
+  "link": "http://developer.sheerid.com/",
+  "image": "http://developer.sheerid.com/common/img/sheerid-logo-small.png",
+  "author": {
+    "name": "SheerID"
+  },
+  "tags": [
+    "Developer",
+    "Learn",
+    "Explore"
+  ],
+  "description": "Welcome to the SheerID Developer Center, where you can learn and explore the SheerID API."
+}

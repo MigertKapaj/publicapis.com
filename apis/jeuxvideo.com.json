@@ -1,0 +1,13 @@
+{
+  "id": "jeuxvideo.com",
+  "title": "JeuxVideo.com",
+  "link": "http://wiki.gromez.fr/dev/api/jeuxvideo.com",
+  "image": "http://wiki.gromez.fr/lib/tpl/growiki/images/header.png",
+  "author": {
+    "name": "Growiki"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "e me demandais depuis un moment si une telle API existait, alors j'ai cherché mais j'ai rien trouvé. C'est alors que j'ai pris mon courage à deux mains et que j'ai étudié un peu le fonctionnement de l'applications Android."
+}

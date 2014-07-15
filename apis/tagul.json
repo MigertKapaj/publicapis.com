@@ -1,0 +1,16 @@
+{
+  "id": "tagul",
+  "title": "Tagul",
+  "link": "http://tagul.com/api",
+  "image": "http://tagul.com/wp-content/uploads/2013/10/Tagul-site-header51.png",
+  "author": {
+    "name": "Tagul"
+  },
+  "tags": [
+    "Zlib",
+    "Fonts",
+    "Angles",
+    "Clouds"
+  ],
+  "description": "In a nutshell Tagul API is XML-RPC service. There is a method called ‘generateCloud’ that takes cloud XML as a parameter and returns SVG cloud file compressed using zlib method. All cloud customizations (shapes, fonts, colors, angles, etc.) are made in the cloud XML file. The generated cloud file is rendered by Tagul flash component. Both generated cloud and the flash component can be hosted on your web site so you won’t depend on Tagul while serving clouds to your site’s visitors."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zerista",
+  "title": "Zerista ",
+  "link": "http://dev.zerista.com/",
+  "image": "",
+  "author": {
+    "name": "Zerista "
+  },
+  "tags": [
+    "Functionality",
+    "Attendee",
+    "Conference",
+    "Profiles"
+  ],
+  "description": "The Zerista API provides programmatic access to Zerista’s functionality. Zerista’s functionality currently falls into the following broad categories:Networking – Attendee profiles, attendee-to-attendee messaging, contacts lists, conference forums"
+}

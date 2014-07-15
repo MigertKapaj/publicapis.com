@@ -1,0 +1,14 @@
+{
+  "id": "oai-pmh",
+  "title": "OAI-PMH",
+  "link": "http://www.openimages.eu/api/",
+  "image": "http://www.openimages.eu/style/images/oip-logo_en.png",
+  "author": {
+    "name": "OAI-PMH"
+  },
+  "tags": [
+    "Schema",
+    "Elements"
+  ],
+  "description": "OAI-PMH is XML based. All requests to this API can be validated with corresponding XSDs. An XML Schema Document XSD describes what an XML file looks like, which elements are and are not allowed, what type they are and how often they occur."
+}

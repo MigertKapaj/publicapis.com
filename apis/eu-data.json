@@ -1,0 +1,16 @@
+{
+  "id": "eu-data",
+  "title": "EU data",
+  "link": "http://www.itsyourparliament.eu/api/",
+  "image": "http://www.itsyourparliament.eu/img/mlogo01.png",
+  "author": {
+    "name": "It's Your Parliament.eu"
+  },
+  "tags": [
+    "Compare",
+    "Important",
+    "Social",
+    "Commenting"
+  ],
+  "description": "It's Your Parliament is a website covering the European Parliament making it easy to find and compare voting records of individual MEPs and political groups. It enables you to find out where your lawmakers really stand on important issues like the Lisbon treaty, environment and social affairs. In addition we give you the opportunity to have your voice heard by commenting on the votes and on MEPs - after all it's your parliament."
+}

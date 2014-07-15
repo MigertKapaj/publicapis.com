@@ -1,0 +1,16 @@
+{
+  "id": "edina",
+  "title": "Edina",
+  "link": "http://edina.ac.uk/unlock/places/api.html",
+  "image": "http://edina.ac.uk/unlock/static/img/edina-logo.jpg",
+  "author": {
+    "name": "Edina"
+  },
+  "tags": [
+    "Features",
+    "Tables",
+    "Parameters",
+    "Search"
+  ],
+  "description": "There is one link or URI, http://unlock.edina.ac.uk/ws/search, which features in every request for a place search. The tables below outline the various parameters that can be appended to this URI to filter the search results. "
+}

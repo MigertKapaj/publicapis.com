@@ -1,0 +1,16 @@
+{
+  "id": "wallet-for-digital-goods",
+  "title": "Wallet for Digital Goods",
+  "link": "https://developers.google.com/wallet/digital/docs/jsreference",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Digital",
+    "Plaform",
+    "Simplicity",
+    "Interact"
+  ],
+  "description": "You can use the Google Wallet for Digital Goods API to sell digital and virtual goods in a web application. The Google Wallet for Digital Goods platform has been built with simplicity in mind. It has a simple API for you to integrate with, a simple interface for buyers to interact with, and a simple pricing model."
+}

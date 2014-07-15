@@ -1,0 +1,15 @@
+{
+  "id": "politwitter",
+  "title": "Politwitter",
+  "link": "http://politwitter.ca/page/api",
+  "image": "http://politwitter.ca/images/layout/politwitter-logo.png",
+  "author": {
+    "name": "Politwitter"
+  },
+  "tags": [
+    "Developer",
+    "Web",
+    "Application"
+  ],
+  "description": "The Politwitter API currntly has 2 main functions, firstly to retrive detailed info on MPs and secondly let web developers incorporate various tweetstreams into their applications."
+}

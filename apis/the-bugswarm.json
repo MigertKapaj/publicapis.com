@@ -1,0 +1,15 @@
+{
+  "id": "the-bugswarm",
+  "title": "The BUGswarm",
+  "link": "http://developer.bugswarm.net/index.html",
+  "image": "http://developer.bugswarm.net/images/bs_logo.png",
+  "author": {
+    "name": " BUGswarm"
+  },
+  "tags": [
+    "Includes",
+    "Updating",
+    "Consuming"
+  ],
+  "description": "The BUGswarm API can be broken down into two primary actions, configuration and participation. Configuration includes the creation, updating, and destruction of swarms and their resources in addition to inviting other users' resources into your swarms and accepting or rejecting pending invitations. Participation includes producing and consuming data within one or many swarms."
+}

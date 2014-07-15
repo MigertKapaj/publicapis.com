@@ -1,0 +1,16 @@
+{
+  "id": "btop",
+  "title": "BTOP",
+  "link": "http://www2.ntia.doc.gov/BTOPmap/api",
+  "image": "http://www2.ntia.doc.gov/BTOPmap/public_content/img/broadbandusa_logo.png",
+  "author": {
+    "name": "BTOP"
+  },
+  "tags": [
+    "Interface",
+    "Data",
+    "Information",
+    "Specific"
+  ],
+  "description": "The BTOP API is a convenient interface for all access to PCC award data openly available through the Department of Commerce. All information accessible is available in both JSON and XML formats. The responsive version of the BTOP website utilizes the API for delivering geolocation specific results. "
+}

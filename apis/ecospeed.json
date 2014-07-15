@@ -1,0 +1,16 @@
+{
+  "id": "ecospeed",
+  "title": "Eco:Speed",
+  "link": "http://www.goecospeed.com/developers.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR47MC2yE-hoZMWvlRGXkaTENZUPxNz41HPV7rJRnF0_zo82C4C",
+  "author": {
+    "name": "Eco:Speed"
+  },
+  "tags": [
+    "Web",
+    "Data",
+    "Energy",
+    "Ideal"
+  ],
+  "description": "The Eco:Speed Web API returns Eco:Speed™ data for any route - anywhere on the planet where there's a road. You supply details of the route and how much energy you want to save and we'll return the ideal Eco:Speed™. "
+}

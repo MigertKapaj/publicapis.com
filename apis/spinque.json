@@ -1,0 +1,15 @@
+{
+  "id": "spinque",
+  "title": "Spinque",
+  "link": "http://www.spinque.com/v3/comment/reply/69",
+  "image": "http://www.spinque.com/v3/sites/default/files/logo_0.png",
+  "author": {
+    "name": "Spinque"
+  },
+  "tags": [
+    "Design",
+    "Process",
+    "Published"
+  ],
+  "description": "With Spinque, there is no pre-defined search engine. You can design your own search engine, following the logical process that seems more reasonable to you. The result of this design (which happens via a graphical interface) is what we call a strategy. Strategies can be saved, changed, shared, optimised and ultimately published as stand-alone search engines."
+}

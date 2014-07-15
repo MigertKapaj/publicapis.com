@@ -1,0 +1,16 @@
+{
+  "id": "jambase-v3",
+  "title": "JamBase V3",
+  "link": "http://developer.jambase.com/",
+  "image": "http://developer.jambase.com/public/Mashery/images/masherymade.png",
+  "author": {
+    "name": "JamBase"
+  },
+  "tags": [
+    "Database",
+    "Music",
+    "Live",
+    "Concert"
+  ],
+  "description": "JamBase is the most comprehensive database of live music events. We've created our API in order to arm all of you creative developers with our concert info which you can then feed into your apps and websites. Whether you're looking to display dates for a single artist or location, sets of bands or venues, or anything in between, this is the perfect place for you!"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "watchsend",
+  "title": "Watchsend",
+  "link": "http://www.watchsend.com/install",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRYlEiU5WQ-QRfhK1-YqRhJSZIV9NJruGZcIYotgOtwjujN8qU1",
+  "author": {
+    "name": "Watchsend"
+  },
+  "tags": [
+    "Recordings",
+    "Devices",
+    "Appear"
+  ],
+  "description": "To help you segment users, organize recordings, and run experiments, Watchsend lets you tag devices and individual recordings. Tags appear in the Watchsend dashboard."
+}

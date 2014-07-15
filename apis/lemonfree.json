@@ -1,0 +1,15 @@
+{
+  "id": "lemonfree",
+  "title": "LemonFree",
+  "link": "http://www.lemonfree.com/api/documentation/details",
+  "image": "http://www.lemonfree.com/images/sprites/header.png",
+  "author": {
+    "name": "LemonFree.Com"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "System"
+  ],
+  "description": "The Lemonfree API provides you with easy access to our vehicle listings and related data. This data is available through a simple and easy to use REST-based system, and returns fully valid XML or JSON results."
+}

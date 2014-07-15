@@ -1,0 +1,14 @@
+{
+  "id": "scheduling",
+  "title": "Scheduling",
+  "link": "https://apis.scottylabs.org/documentation/scheduling",
+  "image": "https://apis.scottylabs.org/assets/logo.png",
+  "author": {
+    "name": "Scheduling"
+  },
+  "tags": [
+    "Access",
+    "Information"
+  ],
+  "description": "The Scheduling API allows developers to access scheduling information for the current semester and all semesters from Spring 2013 onwards. "
+}

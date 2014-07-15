@@ -1,0 +1,15 @@
+{
+  "id": "onemusic",
+  "title": "OneMusic",
+  "link": "http://www.onemusicapi.com/",
+  "image": "http://www.onemusicapi.com",
+  "author": {
+    "name": "One Music"
+  },
+  "tags": [
+    "Metadata",
+    "Music",
+    "Maintained"
+  ],
+  "description": "OneMusicAPI is able to provide metadata about an astonishing range of music because it aggregates existing, well maintained, online databases. "
+}

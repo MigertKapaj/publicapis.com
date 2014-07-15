@@ -1,0 +1,13 @@
+{
+  "id": "stamplin",
+  "title": "Stamplin",
+  "link": "http://www.stamplin.com/api/docs/extracttextpdf/",
+  "image": "http://www.stamplin.com/images/logo-api.jpg",
+  "author": {
+    "name": "Stamplin"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

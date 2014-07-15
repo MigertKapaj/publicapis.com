@@ -1,0 +1,15 @@
+{
+  "id": "cb-insights",
+  "title": "CB Insights",
+  "link": "http://www.cbinsights.com/developers/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSJlvw7ybApQK-Vm5esa_A__xzNwu0aqnS3Q-3tYr0SxBBsvF0b6g",
+  "author": {
+    "name": "CB Insights"
+  },
+  "tags": [
+    "Responses",
+    "Authentication",
+    "Consistent"
+  ],
+  "description": "The CB Insights API is based off of the REST web API design model. All responses, including errors, are returned as a JSON by default. Currently JSON is the only option, XML support will follow. The API strives to utilize HTTP features such as HTTP status codes and a custom HTTP authentication scheme, as well as maintaining a URL structure that is simple and consistent. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "path",
+  "title": "Path",
+  "link": "https://path.com/developers#intro",
+  "image": "https://partner.path.com/img/docs/logo.png",
+  "author": {
+    "name": "Path"
+  },
+  "tags": [
+    "Securely",
+    "Access",
+    "Profile"
+  ],
+  "description": "The Path API allows a Path user to securely grant your application access to their account and act on their behalf. This includes access to the user's profile, friend list, and the ability to post moments to their Path."
+}

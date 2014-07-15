@@ -1,0 +1,15 @@
+{
+  "id": "wolframoralpha",
+  "title": "Wolfram|Alpha",
+  "link": "http://products.wolframalpha.com/api/documentation.html",
+  "image": "http://products.wolframalpha.com/images/header-logo.png",
+  "author": {
+    "name": "Wolfram|Alpha"
+  },
+  "tags": [
+    "Individual",
+    "Service",
+    "Platform"
+  ],
+  "description": "Access the Wolfram|Alpha platform at multiple levels—from individual results to complete Wolfram|Alpha output pages. The API operates as a high-performance REST-style webservice, with convenient bindings for popular languages and platforms. "
+}

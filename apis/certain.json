@@ -1,0 +1,16 @@
+{
+  "id": "certain",
+  "title": "Certain",
+  "link": "http://api.certain.com/docs/",
+  "image": "http://api.certain.com/docs/img/logo_api.png",
+  "author": {
+    "name": "Certain"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Service",
+    "Interface"
+  ],
+  "description": "Certain provides access to your data on Certain through web services from our secure application programming interface (API). To use this feature, you should be familiar with software development, web services, and the Certain user interface."
+}

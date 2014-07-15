@@ -1,0 +1,16 @@
+{
+  "id": "mailjet-web",
+  "title": "Mailjet Web",
+  "link": "http://www.mailjet.com/docs/api",
+  "image": "http://www.mailjet.com/images/theme/v1/logos/head_logo_tiny.png",
+  "author": {
+    "name": "Mailjet"
+  },
+  "tags": [
+    "Post",
+    "Programming",
+    "Language",
+    "Libraries"
+  ],
+  "description": "Communication to and from our API is done through HTTP(S) GET and POST queries. We support different formats to choose from depending on your affinities : JSON, XML, serialized PHP, and CSV for some export functions. You can access our API from almost any programming language, and in just a few minutes with our plug and play libraries."
+}

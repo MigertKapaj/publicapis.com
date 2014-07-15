@@ -1,0 +1,13 @@
+{
+  "id": "raven-tools",
+  "title": "Raven Tools",
+  "link": "https://api.raventools.com/docs/",
+  "image": "https://api.raventools.com/assets/img/raven-logo.svg",
+  "author": {
+    "name": "Raven Tools"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The Raven Tools REST API allows access to our Keyword Manager and Link Manager for developers. Additionally, endpoints are provided to create and manage campaigns (websites) within the platform. The response can be returned in XML or JSON format."
+}

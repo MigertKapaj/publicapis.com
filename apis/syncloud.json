@@ -1,0 +1,16 @@
+{
+  "id": "syncloud",
+  "title": "SynCloud",
+  "link": "http://syncloudapi.com/",
+  "image": "http://syncloudapi.com/assets/iparty-6cb83940e44c6577cababe62048bd2d5.png",
+  "author": {
+    "name": "SynCloud"
+  },
+  "tags": [
+    "Core data",
+    "Application data",
+    "Devices",
+    "Multi users "
+  ],
+  "description": "SynCloud is an easy way for developers to add multi-user syncing into their iOS CoreData applications. Provide a mechanism for your users to easily collaborate to manage their application data, all while generating revenue for your app. Its awin-win for everyone! Apple's iCloud is a great way for you to provide a way for users to transfer their data to all of their own devices, but since iCloud syncing only supports a single user, it falls short for those of us who want to provide Mulit-User syncing."
+}

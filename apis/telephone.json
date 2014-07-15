@@ -1,0 +1,16 @@
+{
+  "id": "telephone",
+  "title": "Telephone",
+  "link": "http://developers.babytel.net/",
+  "image": "",
+  "author": {
+    "name": "Telephone"
+  },
+  "tags": [
+    "Integrate",
+    "Control",
+    "Protocols",
+    "Methods"
+  ],
+  "description": "Telephone's API is easy to integrate, gives you full control and uses open protocols and authentication methods, for the best development experience."
+}

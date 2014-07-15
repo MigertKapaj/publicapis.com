@@ -1,0 +1,16 @@
+{
+  "id": "pathfinder-xml",
+  "title": "Pathfinder-XML",
+  "link": "http://www.pathfinder-xml.com/",
+  "image": "http://www.pathfinder-xml.com/images/home_hdr_logotype.gif",
+  "author": {
+    "name": "Pathfinder-XML"
+  },
+  "tags": [
+    "Web",
+    "Information",
+    "Air Cargo",
+    "Shipping"
+  ],
+  "description": "Pathfinder-XML is a Web Services API that provides critical information for making and monitoring air cargo routing decisions. Going far beyond the limited scheduling solutions to which you’re accustomed, Pathfinder-XML delivers the dynamic information you need to make the most of your extensive shipping expertise, while enabling you to leverage the investment you’ve made in your existing information systems. "
+}

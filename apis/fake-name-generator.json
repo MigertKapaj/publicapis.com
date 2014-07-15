@@ -1,0 +1,13 @@
+{
+  "id": "fake-name-generator",
+  "title": "Fake Name Generator",
+  "link": "http://www.fakenamegenerator.com/api.php",
+  "image": "http://fng.hotcw.com/images/logo.png",
+  "author": {
+    "name": "Fake Name Generator"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

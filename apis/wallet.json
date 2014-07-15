@@ -1,0 +1,17 @@
+{
+  "id": "wallet",
+  "title": "Wallet ",
+  "link": "https://developers.google.com/checkout/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Work",
+    "Demo",
+    "Process",
+    "Diagrams",
+    "App"
+  ],
+  "description": "If you'd like to get a general sense of how Instant Buy and the APIs work, review the demo, the end user flows and the process diagrams. If you'd like to try a very simple sample app before you start coding, you can run the quick start samples."
+}

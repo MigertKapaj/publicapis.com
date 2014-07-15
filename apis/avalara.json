@@ -1,0 +1,16 @@
+{
+  "id": "avalara",
+  "title": "Avalara",
+  "link": "http://developer.avalara.com/",
+  "image": "http://developer.avalara.com/wp-content/themes/twentytwelve-adn/images/avalara_dev_logo_new.png",
+  "author": {
+    "name": "Avalara"
+  },
+  "tags": [
+    "Automated",
+    " Validation",
+    "Jurisdiction",
+    "Taxability"
+  ],
+  "description": "Avalara provides automated sales tax solutions to streamline cumbersome,error-prone tax compliance processes and reduce the risk of loss or penalty in case of an audit. Our automated solutions perform address validation, jurisdiction research and rate calculation and allow you to manage even the most complicated tax issues, such as situs, nexus, tax tiers, tax holidays, exemptions, certificate management and product taxability rules."
+}

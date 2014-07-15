@@ -1,0 +1,16 @@
+{
+  "id": "markedup",
+  "title": "Markedup",
+  "link": "https://markedup.com/docs/sdk-reference",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4Z489XQ18f_Y__cnlhPSIMU_IyyEvhV30JBrfWe1PG9PuQCttXg",
+  "author": {
+    "name": "Markedup"
+  },
+  "tags": [
+    "Performing",
+    "Provide",
+    "Count",
+    "Exception"
+  ],
+  "description": "The MarkedUp analytic dashboard acts as the window into how your app is performing out in the Windows Store. At a glance it provides information on unique user count, session totals, exceptions and crashes in your app."
+}

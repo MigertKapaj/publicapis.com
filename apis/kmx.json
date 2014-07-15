@@ -1,0 +1,16 @@
+{
+  "id": "kmx",
+  "title": "KMX",
+  "link": "http://treparel.com/built-on-kmx/",
+  "image": "http://new.treparel.com/wp-content/uploads/2013/09/treparel-big-data-analytics.png",
+  "author": {
+    "name": " Treparel"
+  },
+  "tags": [
+    "Clustering",
+    "Modular",
+    "Management analysis",
+    "Classification"
+  ],
+  "description": "KMX – through it’s Restful API – is an outstandingly open, scalable and modular platform providing Unsupervised Analytics by fast data clustering and User Supervised Analytics through Machine Learning powered Categorization / Classification. Applications that can be boosted by embedding KMX include: Information access, management and analysis platformsAnalytical ApplicationsContent-based DashboardsUnified Information Platforms (integrate with Business Intelligence)Knowledge Discovery ApplicationsSearch-Based ApplicationsEntity Extraction (for auto creation of Taxonomies, Ontologies or Thesauri)Advanced VisualizationsText DisambiguationData EnrichmentSWOT AnalysisSentiment Analysis\n"
+}

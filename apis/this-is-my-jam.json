@@ -1,0 +1,16 @@
+{
+  "id": "this-is-my-jam",
+  "title": "This Is My JAM",
+  "link": "https://www.thisismyjam.com/developers",
+  "image": "https://www.thisismyjam.com/includes/image/logo_beta.png?v=2.0",
+  "author": {
+    "name": "This Is My JAM"
+  },
+  "tags": [
+    "Music",
+    "Sharing",
+    "Song",
+    "Developer"
+  ],
+  "description": "This Is My Jam is a community of music lovers, sharing their taste one song at a time. Our API opens up these musical connections to developers."
+}

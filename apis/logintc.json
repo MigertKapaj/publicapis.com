@@ -1,0 +1,16 @@
+{
+  "id": "logintc",
+  "title": "Logintc",
+  "link": "https://www.logintc.com/docs/rest-api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROT3szyDEdCE954FCp2jzKW5buxttI5lB43yJNYfSkCEQF0zwZWw",
+  "author": {
+    "name": "Logintc"
+  },
+  "tags": [
+    "Programmatically",
+    "Organization",
+    "Administration",
+    "Membership"
+  ],
+  "description": "The LoginTC REST API allows you to programmatically manage your organization and supports common administration tasks such as: adding users, issuing and revoking tokens, and managing user domain memberships."
+}

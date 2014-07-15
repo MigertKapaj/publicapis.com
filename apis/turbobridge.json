@@ -1,0 +1,16 @@
+{
+  "id": "turbobridge",
+  "title": "TurboBridge",
+  "link": "http://www.turbobridge.com/api/2.0/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcROu5B5TdgIssCCmHdbbEn5ooNzFYd_ZoUqXyuv6ciafkfZc21SFQ",
+  "author": {
+    "name": "TurboBridge"
+  },
+  "tags": [
+    "Manage",
+    "Objects",
+    "Conferences",
+    "Records"
+  ],
+  "description": "TurboBridge API is used to manage TurboBridge objects, Live Conferences, and retrieve Call Detail Records."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "reporting",
+  "title": "Reporting",
+  "link": "https://developers.google.com/doubleclick-advertisers/reporting/authorizing",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Access",
+    "Information",
+    "Manage",
+    "Create"
+  ],
+  "description": "The DFA Reporting API provides programmatic access to reporting information from your Doubleclick for Advertisers account. It's used to manage and create reports, just as you would through the Report Builder web service."
+}

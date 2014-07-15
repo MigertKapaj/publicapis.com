@@ -1,0 +1,15 @@
+{
+  "id": "pirate-metrics",
+  "title": "Pirate Metrics",
+  "link": "http://piratemetrics.com",
+  "image": "http://piratemetrics.com/assets/logo-with-bg-c9466f57bb6d9c0d91b7f80ea3ac90f8.png",
+  "author": {
+    "name": "Pirate Metrics"
+  },
+  "tags": [
+    "Better",
+    "Implement",
+    "Platform"
+  ],
+  "description": "You can start understanding your users better with just a few minutes of setup. Our API is easy to implement and can be used on any platform."
+}

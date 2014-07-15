@@ -1,0 +1,15 @@
+{
+  "id": "thegivinglab",
+  "title": "TheGivingLab",
+  "link": "http://www.thegivinglab.org/platform/",
+  "image": "http://plugins.thegivinglab.org/img/logo.gif",
+  "author": {
+    "name": "TheGivingLab"
+  },
+  "tags": [
+    "Across",
+    "Support",
+    "Improve"
+  ],
+  "description": "They have over 1200 volunteers across the country and a small head office team, so they wanted to work out how to support volunteers better and scale and improve the digital platform which underpins HQ and the community cafes."
+}

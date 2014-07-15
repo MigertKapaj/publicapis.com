@@ -1,0 +1,15 @@
+{
+  "id": "bandpage",
+  "title": "BandPage",
+  "link": "https://developers.bandpage.com/docs",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGoz0dmVaT1qi_QoxgOl2PJRqv-_u1Qs7TjG9akSyVemwhHljB",
+  "author": {
+    "name": "BandPage"
+  },
+  "tags": [
+    "Expressed",
+    "Identifier",
+    "Access"
+  ],
+  "description": "The BandPage Connect API is expressed through a RESTful Graph-oriented structure. Objects contain a globally unique identifier called the BandPageID (herein referred to as bid). All requests made to the API require an authorization header containing an OAuth2 access token."
+}

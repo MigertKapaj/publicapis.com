@@ -1,0 +1,15 @@
+{
+  "id": "subsift",
+  "title": "SubSift",
+  "link": "http://subsift.ilrt.bris.ac.uk/api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEPxjXHYvRaeUo581eSph0pHV0fP09wEu3E-K-MBNM06YMYiKE",
+  "author": {
+    "name": "SubSift"
+  },
+  "tags": [
+    "Rest",
+    "Functional",
+    "Described"
+  ],
+  "description": "The SubSift REST API is organised into six functional areas described in the following sections. Each section begins with a description which is then followed by a list of API methods."
+}

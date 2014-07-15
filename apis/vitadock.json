@@ -1,0 +1,15 @@
+{
+  "id": "vitadock",
+  "title": "VitaDock",
+  "link": "https://github.com/Medisana/vitadock-api/wiki",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Online",
+    "Developer",
+    "Implementation"
+  ],
+  "description": "Welcome to the description of the VitaDock® Online API. This API allows software developers to connect their desktop or mobile application to VitaDock® Online. Here are the major steps you need to take for your implementation."
+}

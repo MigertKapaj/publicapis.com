@@ -1,0 +1,14 @@
+{
+  "id": "examinare",
+  "title": "Examinare",
+  "link": "http://apidocs.examinare.com/",
+  "image": "https://manual.examinare.com/wp-content/uploads/2014/01/examinare-logo-main-300x66.png",
+  "author": {
+    "name": "Examinare"
+  },
+  "tags": [
+    "Document",
+    "Detailed"
+  ],
+  "description": "n the beginning of this document there is a summary of the available functions. This is followed by a more detailed part."
+}

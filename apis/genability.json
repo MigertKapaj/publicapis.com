@@ -1,0 +1,16 @@
+{
+  "id": "genability",
+  "title": "Genability",
+  "link": "https://developer.genability.com/",
+  "image": "https://developer.genability.com/theme/4f973e21dabe9d649e00206f/stylesheets/images/devlogo.png",
+  "author": {
+    "name": "Developer Genability"
+  },
+  "tags": [
+    "Designed",
+    "Method",
+    "Passing",
+    "Requests"
+  ],
+  "description": "Echo is a simple call that allows you to validate how you are calling the Genability APIs. This is designed for the user who is just beginning to use our APIs as well as for debugging help. For example, you can call the /validatedate method to verify the date format you are passing in with your requests is valid. As with all calls, you will need to use a valid app ID and key to make these calls."
+}

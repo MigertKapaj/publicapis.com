@@ -1,0 +1,15 @@
+{
+  "id": "keypay",
+  "title": "KeyPay",
+  "link": "http://keypay.com.au/api",
+  "image": "http://keypay.com.au/wp-content/themes/toolbox2/img/logo.png",
+  "author": {
+    "name": "KeyPay"
+  },
+  "tags": [
+    "Payroll",
+    "Program",
+    "Value"
+  ],
+  "description": " If you're an accountant, bookkeeper or payroll provider that manages the payroll of more than one business then joining the KeyPay partner program is a great way to add value to your payroll offering."
+}

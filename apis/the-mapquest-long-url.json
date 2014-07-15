@@ -1,0 +1,15 @@
+{
+  "id": "the-mapquest-long-url",
+  "title": " The MapQuest Long URL",
+  "link": "http://developer.mapquest.com/web/products/dev-services/long-url-ws",
+  "image": "http://developer.mapquest.com/DevNet-Rebrand2-theme/html/themes/mq_theme/images/mq_images/mqlogo.png",
+  "author": {
+    "name": "MapQuest"
+  },
+  "tags": [
+    "Chunks",
+    "Character",
+    "Requests"
+  ],
+  "description": "The MapQuest Long URL API allows GET requests to be broken up into chunks to avoid the character limitations that are present in some browsers.  The Long URL API was originally developed to allow Internet Explorer to handle requests above 2083 characters (2048 as part of the path). A single response is returned once the full request is received."
+}

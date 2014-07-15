@@ -1,0 +1,14 @@
+{
+  "id": "checkmarkable",
+  "title": "Checkmarkable",
+  "link": "https://checkmarkable.com/api",
+  "image": "",
+  "author": {
+    "name": "Checkmarkable"
+  },
+  "tags": [
+    "Use",
+    "Play"
+  ],
+  "description": "The Checkmarkable API is available in a beta form, anchored at /api/v1. It is RESTful and easy to use and play with."
+}

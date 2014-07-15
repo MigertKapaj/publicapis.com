@@ -1,0 +1,15 @@
+{
+  "id": "web-africa",
+  "title": "Web Africa",
+  "link": "https://api.webafrica.co.za/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSExUDg5aLxZoCgGqacl1VrM3s0dZogyDbxcurF3o0N51kH6gRh5g",
+  "author": {
+    "name": " Web Africa"
+  },
+  "tags": [
+    "Add",
+    "Security",
+    "Abused"
+  ],
+  "description": "he Web Africa API is currently in a beta state, keep checking back as we add more methods and functionality and please report any bugs and/or security issues to us. Be aware that all accesses to the API are logged and should it be abused your client code will be blocked. "
+}

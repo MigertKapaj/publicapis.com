@@ -1,0 +1,16 @@
+{
+  "id": "userclues",
+  "title": "Userclues",
+  "link": "http://www.userclues.com/api",
+  "image": "http://www.userclues.com/assets/uc_logo_header-63390d1002d7d2a703a3f7c381536fe5.png",
+  "author": {
+    "name": "Userclues"
+  },
+  "tags": [
+    "Ready",
+    "Waiting",
+    "Data",
+    "Reporting"
+  ],
+  "description": "Our API is ready and waiting to give you the data you need. You don't need to rely solely on our reporting dashboard."
+}

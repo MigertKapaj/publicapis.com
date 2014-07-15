@@ -1,0 +1,16 @@
+{
+  "id": "digitalnz",
+  "title": "DigitalNZ",
+  "link": "http://www.digitalnz.org/developers/getting-started",
+  "image": "http://www.digitalnz.org/assets/logo-dnz-6c05bb4abffc1207169123c400e4126e.png",
+  "author": {
+    "name": "DigitalNZ"
+  },
+  "tags": [
+    "Magazines",
+    "Documents",
+    "Web",
+    "Partners"
+  ],
+  "description": "Via the API you can submit a query to our search index and it will return information about the various NZ images, audio, video, magazines, documents, and web pages that we're aggregating from our content partners."
+}

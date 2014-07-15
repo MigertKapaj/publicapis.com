@@ -1,0 +1,16 @@
+{
+  "id": "climdb",
+  "title": "ClimDB",
+  "link": "http://climhy.lternet.edu/climhy_ws_api.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcJODwBbaNr7rZsvrnJpkkXWk9WZbJJ7aPDL7sODW5fWyrUdqyWw",
+  "author": {
+    "name": "ClimDB"
+  },
+  "tags": [
+    "Service",
+    "Access",
+    "Data",
+    "Attempts"
+  ],
+  "description": "The ClimDB and HydroDB database offers several web services in an effort to allow programmatic access to the LTER data contained therein. This document attempts to describe the API's to two of these web services."
+}

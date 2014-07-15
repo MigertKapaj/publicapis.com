@@ -1,0 +1,16 @@
+{
+  "id": "payfirma",
+  "title": "Payfirma",
+  "link": "http://www.payfirma.com/ecommerce/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfrUMPQmli-Q34nEjBCbqsxTLrnSwRFYv5KIoQt8TLKq_Wbzw8Cw",
+  "author": {
+    "name": "Payfirma"
+  },
+  "tags": [
+    "Payments",
+    "Seamless",
+    "Platform",
+    "Secure"
+  ],
+  "description": "Use our API to easily take payments, create a seamless user-experience on your own platform, and ensure all data is secure for peace of mind. "
+}

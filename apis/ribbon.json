@@ -1,0 +1,16 @@
+{
+  "id": "ribbon",
+  "title": "Ribbon",
+  "link": "https://www.ribbon.co/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSvTmTyhiaZv6EzS_F01O33JPdrIYUi-1if6AWHBtkxe-Zq0JNw",
+  "author": {
+    "name": "Ribbon"
+  },
+  "tags": [
+    "Payments",
+    "Merchants",
+    "Money",
+    "Online"
+  ],
+  "description": "We started off by creating a platform for merchants to implement payments on their sites within minutes instead of hours. For everyone else, we’ve created the most frictionless and intuitive way to send and receive money online, on any device."
+}

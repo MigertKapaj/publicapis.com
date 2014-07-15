@@ -1,0 +1,15 @@
+{
+  "id": "long-rus",
+  "title": "long ru's",
+  "link": "http://www.longr.us/api",
+  "image": "http://www.longr.us/images/logo.png",
+  "author": {
+    "name": "long ru's"
+  },
+  "tags": [
+    "HTTP",
+    "X- requested",
+    "Web Interface"
+  ],
+  "description": "The API comes in three flavours: JSON(P) and HTML. The format will be determined by the HTTP Accept header and the X-Requested-With header: If you ask for application/json (or any other MIME type with json in it) or if the HTTP header X-Requested-With is set to XMLHttpRequest you will get a JSON response.If you trigger a JSONP call (see each call for more details) you will get a JSONP response.Otherwise you will get the same HTML page that you would get when using the web interface."
+}

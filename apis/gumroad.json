@@ -1,0 +1,15 @@
+{
+  "id": "gumroad",
+  "title": "Gumroad",
+  "link": "https://gumroad.com/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQslD21NNJ0wwatu6taWhAYu7q31rqYiykyb50vmnqJey-E0FrA",
+  "author": {
+    "name": "Gumroad"
+  },
+  "tags": [
+    "Return",
+    "Response",
+    "Indicate"
+  ],
+  "description": "The Gumroad OAuth API is based around REST. We return JSON for every request, including errors. We also use HTTP response codes to indicate errors."
+}

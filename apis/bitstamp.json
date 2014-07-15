@@ -1,0 +1,14 @@
+{
+  "id": "bitstamp",
+  "title": "Bitstamp",
+  "link": "https://www.bitstamp.net/api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBZym_EL2uMQeyatNKdcFxE7uFME3xk5Y_1EBLyDK-SmoLRwhltA",
+  "author": {
+    "name": "Bitstamp"
+  },
+  "tags": [
+    "Access",
+    "Control"
+  ],
+  "description": "Bitstamp application programming interface (API) allows our clients to access and control their accounts, using custom written software."
+}

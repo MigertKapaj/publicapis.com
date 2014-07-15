@@ -1,0 +1,15 @@
+{
+  "id": "the-municipality-in-figures",
+  "title": "The municipality in figures",
+  "link": "http://www.idescat.cat/dev/api/emex/?lang=en",
+  "image": "http://www.idescat.cat/images/logo_Idescat_nostre_petit.gif",
+  "author": {
+    "name": "Idescat"
+  },
+  "tags": [
+    "Statistical",
+    "Information",
+    "Counties"
+  ],
+  "description": "This API provides basic comparative statistical information on municipalities, counties and Catalonia. Idescat offers this same information in the section The municipality in figures."
+}

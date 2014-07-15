@@ -1,0 +1,15 @@
+{
+  "id": "fhir",
+  "title": "FHIR",
+  "link": "http://hl7.org/implement/standards/fhir/formats.html",
+  "image": "http://hl7.org/implement/standards/fhir/assets/images/fhir-logo-www.png",
+  "author": {
+    "name": "FHIR"
+  },
+  "tags": [
+    "Resources",
+    "Collections",
+    "Servers"
+  ],
+  "description": "The API describes the FHIR resources as a set of operations (known as \"interactions\") on resources where individual resource instances are managed in collections by their type. Servers can choose which of these interactions are made available and which resource types they support. "
+}

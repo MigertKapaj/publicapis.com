@@ -1,0 +1,16 @@
+{
+  "id": "iati",
+  "title": "IATI",
+  "link": "http://iatiregistry.org/registry-api",
+  "image": "http://iatiregistry.org/fanstatic/ckanext-iati/:version:2013-12-04T12:09:01/images/logo.png",
+  "author": {
+    "name": "IATI"
+  },
+  "tags": [
+    "Data",
+    "Published",
+    "Web",
+    "Process"
+  ],
+  "description": "The IATI Registry holds meta-data on files published in the IATI XML format. The files themselves are stored in different places across the web, and you will need to fetch and process the original files yourself."
+}

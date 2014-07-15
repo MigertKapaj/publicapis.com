@@ -1,0 +1,16 @@
+{
+  "id": "nikefuel",
+  "title": "NikeFuel ",
+  "link": "http://developer.nike.com/",
+  "image": "https://developer.nike.com/content/dam/nike-developer-cq/global/icons/API-logo.png",
+  "author": {
+    "name": "NikeFuel "
+  },
+  "tags": [
+    "Detailed",
+    "Information",
+    "Average",
+    "Lifetime"
+  ],
+  "description": "Activity Services return detailed information aggregated from a user’s activity with Nike+. For example, a user’s run details, like average pace, time, distance, NikeFuel earned from his/her Nike+ FuelBand, lifetime achievements and more.\n\n"
+}

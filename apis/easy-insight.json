@@ -1,0 +1,15 @@
+{
+  "id": "easy-insight",
+  "title": "Easy Insight",
+  "link": "http://www.easy-insight.com/api/restapi.html",
+  "image": "http://www.easy-insight.com/images/logo.jpg",
+  "author": {
+    "name": "Easy Insight"
+  },
+  "tags": [
+    "Provides",
+    "Capability",
+    "Data"
+  ],
+  "description": "The Easy Insight API provides developers with the capability of publishing any custom data sets into the system."
+}

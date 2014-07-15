@@ -1,0 +1,16 @@
+{
+  "id": "target",
+  "title": "target",
+  "link": "http://www.targetapi.com/",
+  "image": "http://www.targetapi.com/templates/targetapi/images/logo.png",
+  "author": {
+    "name": "target"
+  },
+  "tags": [
+    "Organizations",
+    "Web",
+    "Service",
+    "Access"
+  ],
+  "description": "The targetAPI is a way for other organizations to use our personalization and recommendation technology. It is offered as a hosted Web service: we operate servers that provide these functions, and customers' servers talk to our servers to access these functions."
+}

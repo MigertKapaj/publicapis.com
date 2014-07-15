@@ -1,0 +1,15 @@
+{
+  "id": "ipgeo",
+  "title": "IPGEO",
+  "link": "http://www.ipgeo.com/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSSx1Za5sRXvBnTiuOUQtsIDVF5bjYoHE_5fp9Eavp-IoKOLpyVaQ",
+  "author": {
+    "name": "IPGEO"
+  },
+  "tags": [
+    "Interface",
+    "Standard",
+    "Require"
+  ],
+  "description": "IPGEO offers full Application Programming Interface (API) for our free IP GEO tools using standard HTTP protocol. In order to use our IP GEO API you require a valid GEOIP API key."
+}

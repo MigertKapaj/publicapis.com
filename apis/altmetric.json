@@ -1,0 +1,16 @@
+{
+  "id": "altmetric",
+  "title": "Altmetric",
+  "link": "http://api.altmetric.com/",
+  "image": "http://api.altmetric.com/images/api_header_logo.PNG",
+  "author": {
+    "name": "Altmetric"
+  },
+  "tags": [
+    "Media",
+    "Services",
+    "Extracting",
+    "Focus"
+  ],
+  "description": "Altmetric tracks mentions of scholarly works on social media sites, scholarly bookmarking services and in science news outlets. It handles all of the heavy lifting involved in extracting, disambiguating and collating this information so that you can focus on your core product."
+}

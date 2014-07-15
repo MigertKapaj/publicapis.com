@@ -1,0 +1,16 @@
+{
+  "id": "advanced",
+  "title": "Advanced",
+  "link": "http://developer.vimeo.com/apis/advanced",
+  "image": "http://f.vimeocdn.com/logo.svg?color=fff",
+  "author": {
+    "name": "Vimeo"
+  },
+  "tags": [
+    "Private",
+    "Data",
+    "Aplication",
+    "Redirected"
+  ],
+  "description": "In order to access private data, or edit data on Vimeo, you’ll need to authenticate a user. Vimeo uses the OAuth specification. Your application will direct the user to a page on Vimeo where they will decide whether to authorize your application. If they authorize, they’ll be redirected back to your application."
+}

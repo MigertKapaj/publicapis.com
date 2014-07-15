@@ -1,0 +1,15 @@
+{
+  "id": "yourmapper",
+  "title": "YourMapper",
+  "link": "http://www.yourmapper.com",
+  "image": "http://static.yourmapper.com/images/YourMapperBlue.png",
+  "author": {
+    "name": "YourMapper"
+  },
+  "tags": [
+    "Data",
+    "Product",
+    "Improving"
+  ],
+  "description": "Looking to add in-depth location data to your application or website? Browse our extensive data sets and easily build beautiful, interactive maps. YourMapper provides detailed API documentation to get started adding maps to your product today. Once logged in, you can view your dynamic dashboard API call and map usage. Sign up for YouMapper right now and get started improving your products today! "
+}

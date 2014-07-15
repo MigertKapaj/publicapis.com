@@ -1,0 +1,15 @@
+{
+  "id": "travelfusion",
+  "title": "travelfusion",
+  "link": "http://fastdocs.travelfusion.com/prepackaged-api-specification",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHT9jnNtFoXWXiShje_N2YIQu6YAuJlud29e1nG_SXwWDOF8RQ",
+  "author": {
+    "name": "travelfusion"
+  },
+  "tags": [
+    "Data",
+    "Response",
+    "Returned"
+  ],
+  "description": "This request is used to specify filters on the entire prepackaged database in order to reduce the data to the subset that is relevant to the user. The response includes a list of all the filters that should be displayed to the end user. Any number of filters of any kind can be submitted and if none are submitted, all the offers in the database will be returned (in pages)."
+}

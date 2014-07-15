@@ -1,0 +1,16 @@
+{
+  "id": "traveller-map",
+  "title": "Traveller Map",
+  "link": "http://www.travellermap.com/doc/api.html",
+  "image": "",
+  "author": {
+    "name": "Traveller Map"
+  },
+  "tags": [
+    "Applications",
+    "Several",
+    "Exposed",
+    "External"
+  ],
+  "description": "All of these APIs may be called by other applications. In addition, several other APIs have been exposed specifically for external applications or users to take advantage of. "
+}

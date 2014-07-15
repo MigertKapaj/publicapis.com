@@ -1,0 +1,15 @@
+{
+  "id": "sentirate",
+  "title": "SentiRate",
+  "link": "http://sentirate.com",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtvO1KOG6TyHfkgVIS4t71Jchuj1MolHd0ZgbKCwi0eYU-azNU",
+  "author": {
+    "name": "SentiRate"
+  },
+  "tags": [
+    "Structured",
+    "Angry",
+    "Foccus"
+  ],
+  "description": "The power of this API is transforming unstructured text (such as feedback forms etc) into a structured format that you can use. An example of this is analysing customer comments to see who is the most angry and therefor most likely to leave. You can then foccus on these customers."
+}

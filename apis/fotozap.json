@@ -1,0 +1,15 @@
+{
+  "id": "fotozap",
+  "title": "FotoZap",
+  "link": "http://api.fotozap.com/",
+  "image": "http://api.fotozap.com/images/fotozap-api.png",
+  "author": {
+    "name": "FotoZap"
+  },
+  "tags": [
+    "Internet",
+    "Network",
+    "Website"
+  ],
+  "description": "If you can reach this with your Internet browser, you have a valid Internet connection and your local network is not blocking your browser from reaching this website."
+}

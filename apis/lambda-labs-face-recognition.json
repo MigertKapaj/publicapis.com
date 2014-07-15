@@ -1,0 +1,15 @@
+{
+  "id": "lambda-labs-face-recognition",
+  "title": "Lambda Labs Face Recognition",
+  "link": "http://api.lambdal.com/docs/start",
+  "image": "http://lambdal.com/images/lambda-labs-logo.png",
+  "author": {
+    "name": "Lambda Labs Face Recognition"
+  },
+  "tags": [
+    "Boring",
+    "Examples",
+    "Recognition"
+  ],
+  "description": "We hate long and boring documentation too. Let's skip right to the code examples (the full documentation starts below the horizontal line). So here's facial recognition in just Four Easy Steps."
+}

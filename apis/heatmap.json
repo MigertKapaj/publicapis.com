@@ -1,0 +1,16 @@
+{
+  "id": "heatmap",
+  "title": "HeatMap",
+  "link": "http://www.heatmapapi.com/",
+  "image": "http://www.heatmapapi.com/images/Heat-Map-API-Logo.png",
+  "author": {
+    "name": "HeatMapAPI"
+  },
+  "tags": [
+    "Surface",
+    "Density",
+    "Creates",
+    "Website"
+  ],
+  "description": "A heat map is a graphical representation of two dimensional data (X, Y and Value) on a two dimensional surface using colors. A map a heat map is a representation of density of latitude and longitude points on a map. HeatmapAPI lets you creates heat map images you can overlay on your maps in your software or website. "
+}

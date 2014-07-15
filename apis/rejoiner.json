@@ -1,0 +1,15 @@
+{
+  "id": "rejoiner",
+  "title": "Rejoiner",
+  "link": "http://rejoiner.com/docs/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTAWdDqNLXOzC2DLhpkgkiKuPPqUuniBEGI750xU9SKVYnd789gPg",
+  "author": {
+    "name": "Rejoiner"
+  },
+  "tags": [
+    "Tracking",
+    "Conversion",
+    "Data"
+  ],
+  "description": "The Rejoiner API is an optional add-on to your Rejoiner tracking and conversion code that allows retailers to pass transactional data from the cart."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "uberblic",
+  "title": "uberblic",
+  "link": "http://uberblic.com/documentation/",
+  "image": "https://uberblic.com/wp-content/uploads/2011/08/Uberblic2.png",
+  "author": {
+    "name": "uberblic"
+  },
+  "tags": [
+    "Doppelganger",
+    "Addition",
+    "Application",
+    "Subsequent"
+  ],
+  "description": "The Doppelganger service translates between IDs of entities in third party APIs. When you query Doppelganger with an entity ID, you’ll get back IDs of that same entity in other APIs. In addition, a persistent Uberblic ID serves as an anchor for your application that you can use for subsequent queries."
+}

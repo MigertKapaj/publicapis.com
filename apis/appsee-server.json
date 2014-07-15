@@ -1,0 +1,15 @@
+{
+  "id": "appsee-server",
+  "title": "Appsee Server",
+  "link": "http://www.appsee.com/docs/serverapi",
+  "image": "http://images.appsee.com/images/logo_small.png",
+  "author": {
+    "name": "Appsee"
+  },
+  "tags": [
+    "App",
+    "Improve",
+    "Delivered"
+  ],
+  "description": "Appsee enables mobile app publishers to track, understand and improve the user experience in their apps, and act on insights delivered by our SaaS plarform. "
+}

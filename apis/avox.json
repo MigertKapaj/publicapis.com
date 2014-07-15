@@ -1,0 +1,16 @@
+{
+  "id": "avox",
+  "title": "Avox",
+  "link": "http://www.wiki-data.com/pages/api.html",
+  "image": "https://www.avoxdata.com/portal/static/images/AVOX_rev_rgb.png",
+  "author": {
+    "name": "Avox"
+  },
+  "tags": [
+    "Services",
+    "Accurate",
+    "Data",
+    "Reporting"
+  ],
+  "description": "Avox helps clients in the global financial services industry manage and maintain true and accurate legal entity data. A trusted source of data is needed for efficient client on-boarding, regulatory reporting and robust business decision-making."
+}

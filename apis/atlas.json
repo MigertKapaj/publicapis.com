@@ -1,0 +1,15 @@
+{
+  "id": "atlas",
+  "title": "Atlas",
+  "link": "http://atlas.metabroadcast.com/#home",
+  "image": "http://atlas.metabroadcast.com/images/logo.png",
+  "author": {
+    "name": "Atlas"
+  },
+  "tags": [
+    "Data",
+    "Organisations",
+    "Music"
+  ],
+  "description": "Our media data router, Atlas, makes it easy to work with video and audio metadata. Our 70 million record database is used by organisations large and small, helping millions of people find TV, radio and music quicker."
+}

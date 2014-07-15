@@ -1,0 +1,16 @@
+{
+  "id": "e-additives",
+  "title": " E-additives",
+  "link": "http://e-additiv.es/#!/goodies/developers",
+  "image": "http://e-additiv.es/img/icon.svg",
+  "author": {
+    "name": " E-additives"
+  },
+  "tags": [
+    "Build",
+    "Food",
+    "Information",
+    "Link"
+  ],
+  "description": "Because, using the E-additives API, you can (hopefully)  build applications that deliver food additives information or you can integrate that information in your existing app. \n                 If you create an app that uses our API, make sure you send us a link."
+}

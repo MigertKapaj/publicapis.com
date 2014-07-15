@@ -1,0 +1,16 @@
+{
+  "id": "ebay-finding",
+  "title": "eBay Finding ",
+  "link": "http://developer.ebay.com/Devzone/payout-details/Concepts/MakingACall.html",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "eBay "
+  },
+  "tags": [
+    "Application",
+    "Search",
+    "Next",
+    "Generation"
+  ],
+  "description": "eBay Finding API enables applications to search for eBay items using eBay's next generation Finding Platform."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "moneybird",
+  "title": "MoneyBird",
+  "link": "http://www.moneybird.nl/api",
+  "image": "",
+  "author": {
+    "name": "MoneyBird"
+  },
+  "tags": [
+    "Data",
+    "Question",
+    "Timeframe"
+  ],
+  "description": "The API of MoneyBird enables you to access the information inside a MoneyBird account. The API is RESTfull and uses XML for the data representation. On this page you can find all information about the API. Don't hesitate to contact us with your questions on support@moneybird.nl. We strongly prefer to answer specific api questions via e-mail and kindly ask you not to call us.. We answer most questions within a short timeframe during office hours. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "chronicling-america",
+  "title": "Chronicling America",
+  "link": "http://chroniclingamerica.loc.gov/about/api/",
+  "image": "http://chroniclingamerica.loc.gov/media/images/img-head/logo-loc.751b55e718c2.png",
+  "author": {
+    "name": "Chronicling America"
+  },
+  "tags": [
+    "Provides",
+    "Access",
+    "Designed",
+    "Data"
+  ],
+  "description": "Chronicling America provides access to information about historic newspapers and select digitized newspaper pages. To encourage a wide range of potential uses, we designed several different views of the data we provide, all of which are publicly visible."
+}

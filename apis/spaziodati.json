@@ -1,0 +1,15 @@
+{
+  "id": "spaziodati",
+  "title": "Spaziodati",
+  "link": "https://spaziodati.3scale.net/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvhVEiBCC7FC0y1mVC-oXFKZjO_nQyGlj_IQI-P396avEsDH64",
+  "author": {
+    "name": "Spaziodati"
+  },
+  "tags": [
+    "Performs",
+    "Service",
+    "Data"
+  ],
+  "description": "dataTXT is a named entity extraction & linking API that performs very well even on short texts, on which many other similar services do not. dataTXT currently works on Italian and English texts."
+}

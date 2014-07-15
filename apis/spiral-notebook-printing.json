@@ -1,0 +1,13 @@
+{
+  "id": "spiral-notebook-printing",
+  "title": "Spiral Notebook Printing",
+  "link": "https://www.mashape.com/mimeoconnect/spiral-notebook-printing",
+  "image": "",
+  "author": {
+    "name": "mimeoconnect"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API provides spiral notebook printing services for developers. It enables you to price and order commercially printed notebooks in different sizes, covers, paper, color, with or without hole punches and binding from within your web and mobile applications."
+}

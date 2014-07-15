@@ -1,0 +1,16 @@
+{
+  "id": "artbeat",
+  "title": "ArtBeat",
+  "link": "http://www.nyartbeat.com/resources/doc/api",
+  "image": "",
+  "author": {
+    "name": "New York Art Beat"
+  },
+  "tags": [
+    "Web",
+    "Information",
+    "Applications",
+    "Traffic"
+  ],
+  "description": "Mash up New York Art Beat and base your Web application on the best Art and Design information for your city of choice.\nThe ArtBeat API is available free of charge for non-commercial applications which do not cause unreasonable traffic."
+}

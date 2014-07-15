@@ -1,0 +1,15 @@
+{
+  "id": "mybuilding",
+  "title": "MyBuilding",
+  "link": "https://developer.mybuilding.org/",
+  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/mybuilding-org/1918726944/profiles/logos/large/site-logo.jpg",
+  "author": {
+    "name": "MyBuilding"
+  },
+  "tags": [
+    "Developers",
+    "Building",
+    "Application"
+  ],
+  "description": "We’ve made many tools available to developers. Follow the steps below to start building your first application using the MyBuilding.org API."
+}

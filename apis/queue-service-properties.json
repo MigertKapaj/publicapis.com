@@ -1,0 +1,14 @@
+{
+  "id": "queue-service-properties",
+  "title": "Queue Service Properties",
+  "link": "http://msdn.microsoft.com/en-us/library/hh452243.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Service",
+    "Properties"
+  ],
+  "description": "The Get Queue Service Properties operation gets the properties of a storage account’s Queue service, including properties for Storage Analytics and CORS (Cross-Origin Resource Sharing) rules."
+}

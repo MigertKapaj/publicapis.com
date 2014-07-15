@@ -1,0 +1,16 @@
+{
+  "id": "logmytime",
+  "title": "LogMyTime",
+  "link": "http://www.logmytime.de/Api/Index",
+  "image": "http://www.logmytime.de/Content/images/global/logo-logmytime.png",
+  "author": {
+    "name": "LogMyTime"
+  },
+  "tags": [
+    "Moglich",
+    "Online",
+    "desktop",
+    "werden"
+  ],
+  "description": " Die LogMyTime API ist eine offene Schnittstelle, über die beliebige anwendungen auf LogMyTime zugreifen können. Es is sowohl Lese- als auch Schreibzugriff  möglich. Damit können Sie LogMyTime nahtlos in beliebige andere Online- und Desktop- Anwendungen integrieren. Die API kann über HTTP und XML / JSON und über zahlreiche Client-Biblioteke angesprochen werden."
+}

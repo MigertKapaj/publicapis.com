@@ -1,0 +1,13 @@
+{
+  "id": "open-beer-database",
+  "title": "Open Beer Database",
+  "link": "http://openbeerdatabase.com/",
+  "image": "",
+  "author": {
+    "name": "Open Beer Database"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "A free, public database and API for beer information"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mymemory",
+  "title": "MyMemory",
+  "link": "http://mymemory.translated.net/doc/spec.php",
+  "image": "http://mymemory.translated.net/img/mymemory_mini.gif",
+  "author": {
+    "name": "MyMemory"
+  },
+  "tags": [
+    "Possible",
+    "Search",
+    "Contribute"
+  ],
+  "description": "Our REST API has been designed to be as easy as possible to implement. It is similar to the Google Translate API, extended with MyMemory specific parameters and lets you search and contribute to MyMemory archives."
+}

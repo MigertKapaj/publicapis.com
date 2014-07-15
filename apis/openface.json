@@ -1,0 +1,15 @@
+{
+  "id": "openface",
+  "title": "OpenFace",
+  "link": "http://openfaceapi.com/",
+  "image": "http://openfaceapi.com/wp-content/uploads/2012/02/OpenFaceAPI-logo.png",
+  "author": {
+    "name": "OpenFace"
+  },
+  "tags": [
+    "Commercial",
+    "Detected",
+    "Overlay"
+  ],
+  "description": "Currently OpenFace api is in early beta.  Its first commercial application is a racial diversity immersion kiosk – OpenFaceAPI is used to detect the facial features of users taking their snapshots in the kiosk.  The detected features are used to overlay and morph the user into various races."
+}

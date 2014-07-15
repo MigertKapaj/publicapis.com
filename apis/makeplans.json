@@ -1,0 +1,14 @@
+{
+  "id": "makeplans",
+  "title": "MakePlans",
+  "link": "https://github.com/makeplans/makeplans-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Account",
+    "Redirected"
+  ],
+  "description": "MakePlans uses HTTP Basic Auth. The client has to enable the API first and you will find the API-Key in the account settings. The API-Key is the username and there is no password. MakePlans uses SSL and all requests over http will be redirected to https."
+}

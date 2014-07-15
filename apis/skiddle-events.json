@@ -1,0 +1,15 @@
+{
+  "id": "skiddle-events",
+  "title": "Skiddle Events",
+  "link": "http://www.skiddle.com/api/",
+  "image": "http://static.skiddlecdn.co.uk/images/scss-images/small-white-nos.png",
+  "author": {
+    "name": "Skiddle.com"
+  },
+  "tags": [
+    "Developed",
+    "Possible",
+    "Policies"
+  ],
+  "description": "The Skiddle Events API has been developed to follow RESTful principles where possible (and not overly complicated). The aim has been to create an API which is simple and intuative to use rather than following strict policies to the letter."
+}

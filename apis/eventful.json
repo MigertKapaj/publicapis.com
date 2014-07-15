@@ -1,0 +1,16 @@
+{
+  "id": "eventful",
+  "title": "Eventful",
+  "link": "http://api.eventful.com/docs/events/new",
+  "image": "http://api.eventful.com/images/logo.gif",
+  "author": {
+    "name": "Eventful"
+  },
+  "tags": [
+    "Open",
+    "Partners",
+    "Data",
+    "Features"
+  ],
+  "description": "Eventful.com is built upon a unique, open platform that enables partners and web applications to leverage Eventful's data, features and functionality via the Eventful API."
+}

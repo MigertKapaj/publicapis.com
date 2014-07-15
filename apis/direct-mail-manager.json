@@ -1,0 +1,16 @@
+{
+  "id": "direct-mail-manager",
+  "title": "Direct Mail Manager",
+  "link": "http://directmailmanager.com/apidocs.asp",
+  "image": "http://directmailmanager.com/HTML/images/logoRE.png",
+  "author": {
+    "name": "Direct Mail Manager"
+  },
+  "tags": [
+    "Retrieve",
+    "Order",
+    "Data",
+    "Mail"
+  ],
+  "description": "Our API gives you all the tools needed to import mailing lists to us and retrieve customer order information back to your system if needed. Our API returns XML when when given an action and data via an HTTP POST.  These standard methods allow for language/environment flexibility and faster development times for you. API connections can be set up for  Direct Mail Manager On-Demand Direct Mail, Private Label (M3) Web-To-Print-Mail Stores, Postcard Services and for 2ndShot Automated Mail."
+}

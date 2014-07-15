@@ -1,0 +1,16 @@
+{
+  "id": "scanlife",
+  "title": "ScanLife",
+  "link": "http://www.scanlife.com/developer-tools",
+  "image": "http://www.scanlife.com/assets/images/imgScanLifeLogo.png",
+  "author": {
+    "name": "ScanLife"
+  },
+  "tags": [
+    "Access",
+    "Management",
+    "Integrate",
+    "Marketing"
+  ],
+  "description": "We provide tools to access the Mobile Engagement Platform using SDKs and APIs. Developers can utilize these tools to build a virtual QR code management platform or easily integrate ScanLife features into an existing mobile application or marketing campaign."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rapidshare",
+  "title": "RapidShare",
+  "link": "http://images.rapidshare.com/apidoc.txt",
+  "image": "",
+  "author": {
+    "name": "RapidShare"
+  },
+  "tags": [
+    "Values",
+    "Pairs",
+    "Future",
+    "Handle"
+  ],
+  "description": "Routines giving back many values are subject of many changes. For example the routine getaccountdetails returns many key-value pairs. Those pairs\nmight be sorted differently in the future. Some values might disappear, new values may appear. Make sure your program can handle this changes without\na need for an update."
+}

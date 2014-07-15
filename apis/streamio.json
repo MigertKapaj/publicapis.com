@@ -1,0 +1,15 @@
+{
+  "id": "streamio",
+  "title": "Streamio",
+  "link": "http://streamio.com/api/docs",
+  "image": "",
+  "author": {
+    "name": "Streamio"
+  },
+  "tags": [
+    "Developer",
+    "Restful",
+    "Performed"
+  ],
+  "description": "Streamio was built from the ground up with developers in mind so we hope you enjoy using our API. We like to keep things simple so in short you'll be using a RESTful API using Basic Auth for authentication.The documentation is split into different pages for each action that can be performed on each of the availible resources so finding what you need should be a breeze.Protocols"
+}

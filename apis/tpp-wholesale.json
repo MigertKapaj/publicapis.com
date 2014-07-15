@@ -1,0 +1,16 @@
+{
+  "id": "tpp-wholesale",
+  "title": "TPP Wholesale",
+  "link": "http://www.tppwholesale.com.au/api.php",
+  "image": "http://www.tppwholesale.com.au/images/tppwholesale.png",
+  "author": {
+    "name": "Tpp Wholesale"
+  },
+  "tags": [
+    "Developed",
+    "Partners",
+    "Hosting",
+    "Reliable"
+  ],
+  "description": "The TPP Wholesale API has been developed specifically for wholesale partners as a means of automating domain name registrations and Cloud hosting. It is easy to implement and reliable."
+}

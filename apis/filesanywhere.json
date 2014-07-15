@@ -1,0 +1,15 @@
+{
+  "id": "filesanywhere",
+  "title": "FilesAnywhere",
+  "link": "https://www.filesanywhere.com/API/apiMap.htm",
+  "image": "https://www.filesanywhere.com/Resources/Images/logo_topNav.png",
+  "author": {
+    "name": "FilesAnywhere"
+  },
+  "tags": [
+    "Service",
+    "Programming",
+    "Integrated"
+  ],
+  "description": "The FilesAnywhere SOAP API (FAWAPI) provides a simple web services interface to your FilesAnywhere account. The API (Application Programming Interface) enables your FilesAnywhere account to be integrated with applications and web sites using the standard web services protocol. "
+}

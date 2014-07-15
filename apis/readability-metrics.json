@@ -1,0 +1,13 @@
+{
+  "id": "readability-metrics",
+  "title": "Readability Metrics",
+  "link": "https://www.mashape.com/ipeirotis/readability-metrics",
+  "image": "",
+  "author": {
+    "name": "ipeirotis"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API can be used to compute a set of readability metrics for a given text. We currently support the following metrics: Automated Readability Index, Coleman-Liau Index, Flesch–Kincaid Grade Level, Flesch Reading Ease, Gunning-Fog Index, SMOG score, and SMOG Index.\r\n\r\nThe service is deployed at Google App Engine and available at http://ipeirotis.appspot.com/readability/\r\n\r\nThe code and documentation are available on Github at https://github.com/ipeirotis/ReadabilityMetrics"
+}

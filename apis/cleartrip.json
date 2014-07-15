@@ -1,0 +1,15 @@
+{
+  "id": "cleartrip",
+  "title": "Cleartrip",
+  "link": "http://www.cleartrip.com/api/",
+  "image": "http://www.cleartrip.com/images/global/cleartrip_logo_medium.gif",
+  "author": {
+    "name": "Cleartrip"
+  },
+  "tags": [
+    "Developer",
+    "Websites",
+    "Search"
+  ],
+  "description": "Welcome to the developer documentation of the Cleartrip APIs. The Cleartrip APIs let you build full featured websites and applications with all the power of Cleartrip's fast flight and hotel search and book functionalities, without having to sweat it out yourself to implement the complex stuff we've already done. "
+}

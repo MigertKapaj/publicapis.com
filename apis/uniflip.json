@@ -1,0 +1,16 @@
+{
+  "id": "uniflip",
+  "title": "UniFlip",
+  "link": "http://www.uniflip.com/support/rest_api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyWkH4P71gw9jTuxxWN-cEyJ3RC9Yomw49bHOt0K1K9aZOHD1a",
+  "author": {
+    "name": "UniFlip"
+  },
+  "tags": [
+    "Developers",
+    "Access",
+    "Publication",
+    "Activate"
+  ],
+  "description": "The REST API enables developers to access some of the core primitives of UniFlip including uploading files, publication lists, and publication informations. If you're building application that leverages core UniFlip publications, then this is the API for you. Imagine building a publication: name, list of publications, their layouts - all with a few RESTful API calls. In addition to offering programmatic access to the publications objects, this API also enables developers a multitude of integration opportunities to Through the REST API, the user can create and post publicaitons back to UniFlip, edit the publications, activate the licenses, and more. "
+}

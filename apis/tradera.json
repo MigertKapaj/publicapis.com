@@ -1,0 +1,15 @@
+{
+  "id": "tradera",
+  "title": "Tradera",
+  "link": "http://api.tradera.com/",
+  "image": "http://static.tradera.com/internal/site/items/itemLogotype.gif",
+  "author": {
+    "name": "Tradera"
+  },
+  "tags": [
+    "Developer",
+    "Expand",
+    "Revenue"
+  ],
+  "description": "The API offers unprecedented opportunities for you as a developer, affiliate or entrepreneur to build a new Tradera business or expand your current business, reach new customers, and create a potential new stream of revenue. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mailigen",
+  "title": "Mailigen",
+  "link": "http://www.mailigen.com/mailigen-api",
+  "image": "http://static.mailigen.com/assets/templates/mailigen2/images/logo.png",
+  "author": {
+    "name": "Mailigen"
+  },
+  "tags": [
+    "Web",
+    "Ecommerce",
+    "CMS System",
+    "Professionl"
+  ],
+  "description": "Mailigen API provides an option to synchronize any CRM with Mailigen system, or connect it with any web application, ecommerce platform or CMS system, thus enabling Mailigen integration in any project looking for professional email marketing solutions."
+}

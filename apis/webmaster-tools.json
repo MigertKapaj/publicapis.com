@@ -1,0 +1,16 @@
+{
+  "id": "webmaster-tools",
+  "title": "Webmaster Tools",
+  "link": "https://developers.google.com/webmaster-tools/docs/2.0/reference",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Service",
+    "Problem",
+    "Improve",
+    "Search"
+  ],
+  "description": "Google Webmaster Tools is Google's free service for webmasters. See your site as Google sees it, find out any problems we had crawling your site, and share info with us that will help improve your site's visibility in Google's search results. "
+}

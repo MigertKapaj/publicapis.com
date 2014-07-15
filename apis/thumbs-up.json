@@ -1,0 +1,16 @@
+{
+  "id": "thumbs-up",
+  "title": "Thumbs Up",
+  "link": "http://www.thumbsupapi.com/",
+  "image": "http://www.thumbsupapi.com/img/tu_icon_green.png",
+  "author": {
+    "name": "Thumbs Up"
+  },
+  "tags": [
+    "Media",
+    "Message",
+    "Public",
+    "Video"
+  ],
+  "description": "Thumbs Up instantly connects people to moments of media and other people who have watched or are watching the same media. Any registered user can send a Message, that is public by default and can include other content like photos, videos and quotes from media."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "travel-time",
+  "title": "Travel Time",
+  "link": "https://igeolise.3scale.net/",
+  "image": "http://www.igeolise.com/api-portal/toplogo.png",
+  "author": {
+    "name": "Travel Time"
+  },
+  "tags": [
+    "Relevant",
+    "Distance",
+    "Journey"
+  ],
+  "description": "When visitors to your site search for geographic information they obviously want relevant results. Searching by Travel Time can DOUBLE the number of relevant results compared to a distance based search. 79% of consumers told us they wanted to search by journey time, not distance."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "opa",
+  "title": "OPA",
+  "link": "http://api.phillyaddress.com/",
+  "image": "",
+  "author": {
+    "name": "OPA"
+  },
+  "tags": [
+    "Provides",
+    "Providing",
+    "Revenue"
+  ],
+  "description": "This provides an API for opa.phila.gov by fetching their data on request, scraping it and providing it in a software-friendly format such as JSON, XML, PHP or Text. In addition, it scrapes the tax balances for the property from the Department of Revenue web site."
+}

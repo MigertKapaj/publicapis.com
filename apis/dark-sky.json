@@ -1,0 +1,15 @@
+{
+  "id": "dark-sky",
+  "title": "Dark Sky",
+  "link": "https://developer.forecast.io/docs",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDq1jQHuKJEq03jZJygAlkVsWHSEYsjgINd-Xt_DGM1HnACfwb4w",
+  "author": {
+    "name": "Forecast"
+  },
+  "tags": [
+    "Data",
+    "Inside",
+    "Returns"
+  ],
+  "description": "The Dark Sky API lets you query for short-term precipitation forecast data at geographical points inside the United States. Each called method returns a JSON object."
+}

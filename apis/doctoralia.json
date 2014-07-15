@@ -1,0 +1,16 @@
+{
+  "id": "doctoralia",
+  "title": "Doctoralia",
+  "link": "https://developer.doctoralia.com/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTbX-omF3fgNFWV6BPchknVWL_-lva2IAHtLa_bLH7wSAtoqpyz",
+  "author": {
+    "name": "Doctoralia"
+  },
+  "tags": [
+    "Designed",
+    "Driven",
+    "Data",
+    "Commercially"
+  ],
+  "description": "Doctoralia API is to be used only in apps designed for real-time consumer-driven use. Data cannot be stored, analyzed or otherwise commercially exploited. Wherever you display information from the API, you'll also need to display proper attribution and branding."
+}

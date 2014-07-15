@@ -1,0 +1,16 @@
+{
+  "id": "purlem",
+  "title": "Purlem",
+  "link": "https://github.com/purlem/Purlem-API",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Organized",
+    "Authentication",
+    "Campaigns",
+    "Results"
+  ],
+  "description": "The Purlem API is organized around REST, uses JSON for serialization and HTTP basic authentication. The API allows for basic CRUD operations on campaigns, contacts and results."
+}

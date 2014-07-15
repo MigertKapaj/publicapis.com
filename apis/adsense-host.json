@@ -1,0 +1,15 @@
+{
+  "id": "adsense-host",
+  "title": "Adsense Host ",
+  "link": "https://developers.google.com/adsense/host/index",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Developer",
+    "Blogging",
+    "Publishing"
+  ],
+  "description": "The Google AdSense Host API is ideal for developers whose users create their own content through blogging, web publishing, forum/wiki/community creation, or any other application where substantial web content is generated."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pymantis",
+  "title": "pyMantis",
+  "link": "http://rumo.biologie.hu-berlin.de/pyMantis/plugin_restapidoc/index#",
+  "image": "http://rumo.biologie.hu-berlin.de/pyMantis/static/img/pyMantis_logo_small.png",
+  "author": {
+    "name": "pyMantis"
+  },
+  "tags": [
+    "Data",
+    "Software",
+    "Information"
+  ],
+  "description": "pyMantis is a collaborative life-sience data mangement software. It is geared to fit the need for exchanging data and information between the collaborating experimentalists and theoreticians."
+}

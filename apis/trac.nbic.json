@@ -1,0 +1,16 @@
+{
+  "id": "trac.nbic",
+  "title": "Trac.nbic",
+  "link": "https://trac.nbic.nl/data-mining/about",
+  "image": "https://trac.nbic.nl/style/nbic-logo.gif",
+  "author": {
+    "name": "Nbic"
+  },
+  "tags": [
+    "Management",
+    "Provides",
+    "Interface",
+    "Project"
+  ],
+  "description": "Trac is a web-based software project management and bug/issue tracking system emphasizing ease of use and low ceremony. It provides an integrated Wiki, an interface to version control systems, and a number of convenient ways to stay on top of events and changes within a project. "
+}

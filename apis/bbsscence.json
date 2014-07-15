@@ -1,0 +1,15 @@
+{
+  "id": "bbsscence",
+  "title": "bbsscence",
+  "link": "http://bbs-scene.org/api_docs/",
+  "image": "http://bbs-scene.org/images/bbs-scene.png",
+  "author": {
+    "name": "bbsscence"
+  },
+  "tags": [
+    "Provided",
+    "Purposes",
+    "Interface"
+  ],
+  "description": "For those of you who wish to use the information provided by bbs-scene.org for other purposes like a bbs door or on your own web page we provide a simple yet powerful application programming interface or api."
+}

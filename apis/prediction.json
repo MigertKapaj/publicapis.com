@@ -1,0 +1,16 @@
+{
+  "id": "prediction",
+  "title": "Prediction",
+  "link": "https://developers.google.com/prediction/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Required",
+    "Service",
+    "App",
+    "Credentials"
+  ],
+  "description": "Google offers a featured sample application that includes all of the code required to exercise the Google Prediction API in a scalable web service hosted on Google App Engine. The featured application is called \"Try-Prediction\" and is available in Java and Python. Included in the featured app is a complete implementation of server-side shared OAuth 2.0 authentication/authorization credentials."
+}

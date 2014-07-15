@@ -1,0 +1,15 @@
+{
+  "id": "strideapp",
+  "title": "Strideapp",
+  "link": "http://strideapp.github.io/stride-api/",
+  "image": "http://strideapp.github.io/stride-api/images/logo.png",
+  "author": {
+    "name": "Strideapp"
+  },
+  "tags": [
+    "Integrate",
+    "Webapps",
+    "Electricity"
+  ],
+  "description": "Stride provides an API so you can integrate your Stride account with internal tools and systems, other webapps, and just about anything that runs on electricity. "
+}

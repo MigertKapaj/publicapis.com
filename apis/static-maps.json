@@ -1,0 +1,15 @@
+{
+  "id": "static-maps",
+  "title": "Static Maps",
+  "link": "https://developers.google.com/maps/documentation/staticmaps/#Overview",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Requiring",
+    "Service",
+    "Returns"
+  ],
+  "description": "The Google Static Maps API lets you embed a Google Maps image on your web page without requiring JavaScript or any dynamic page loading. The Google Static Map service creates your map based on URL parameters sent through a standard HTTP request and returns the map as an image you can display on your web page."
+}

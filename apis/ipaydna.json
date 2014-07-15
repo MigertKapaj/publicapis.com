@@ -1,0 +1,15 @@
+{
+  "id": "ipaydna",
+  "title": "iPayDNA",
+  "link": "http://www.ipaydna.biz/integration-api.htm",
+  "image": "http://www.ipaydna.biz/images/logo.png",
+  "author": {
+    "name": "iPayDNA"
+  },
+  "tags": [
+    "Provides",
+    "Payments",
+    "Download"
+  ],
+  "description": "iPayDNA.biz provides various ways for merchants to process payments through the payment gateway.  You can now download all the Integration Document (API) below for your reference."
+}

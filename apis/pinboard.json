@@ -1,0 +1,15 @@
+{
+  "id": "pinboard",
+  "title": "Pinboard",
+  "link": "http://pinboard.in/howto/#api",
+  "image": "http://pinboard.in/bluepin.gif",
+  "author": {
+    "name": "Pinboard"
+  },
+  "tags": [
+    "Interact",
+    "Bookmark",
+    "Data"
+  ],
+  "description": "The Pinboard API is a way to interact programatically with your bookmarks, notes and other Pinboard data."
+}

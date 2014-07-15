@@ -1,0 +1,15 @@
+{
+  "id": "waze",
+  "title": "Waze",
+  "link": "https://www.waze.com/about/dev",
+  "image": "https://www.waze.com/assets/wazelogo-6723461a1379ea55a4755233136ef062.png",
+  "author": {
+    "name": "Waze"
+  },
+  "tags": [
+    "Driving",
+    "Traffic",
+    "Cluing"
+  ],
+  "description": "Waze is all about contributing to the 'common good' out there on the road.By connecting drivers to one another, we help people create local driving communities that work together to improve the quality of everyone's daily driving. That might mean helping them avoid the frustration of sitting in traffic, cluing them in to a police trap or shaving five minutes off of their regular commute by showing them new routes they \nnever even knew about."
+}

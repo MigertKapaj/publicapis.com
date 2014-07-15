@@ -1,0 +1,15 @@
+{
+  "id": "oanda",
+  "title": "OANDA",
+  "link": "http://fxtrade.oanda.com/trade-forex/api/",
+  "image": "http://fxtrade.oanda.com/wandacache/logo-3b63e087b32392711e70d1abc159ef8f777acf4b.png",
+  "author": {
+    "name": "OANDA"
+  },
+  "tags": [
+    "Secure",
+    "Systems",
+    "Perform"
+  ],
+  "description": "Use the OANDA fxTrade API to build secure, automated trading systems in the programming language of your choice.. You can programmatically perform trading actions such as the following."
+}

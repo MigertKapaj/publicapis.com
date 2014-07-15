@@ -1,0 +1,16 @@
+{
+  "id": "google-hangouts",
+  "title": "Google+ Hangouts",
+  "link": "http://sharedspaces.googlelabs.com/p/api",
+  "image": "http://sharedspaces.googlelabs.com/static/logo.png",
+  "author": {
+    "name": " Google Shared Spaces"
+  },
+  "tags": [
+    "Develop",
+    "Hangout",
+    "Web",
+    "Real Time"
+  ],
+  "description": "The Google+ Hangouts API allows you to develop collaborative apps that run inside of Hangouts Desktop Video. Hangout apps behave much like normal web apps, but with the addition of the rich, real-time functionality provided by the Hangouts APIs"
+}

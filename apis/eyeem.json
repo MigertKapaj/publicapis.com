@@ -1,0 +1,16 @@
+{
+  "id": "eyeem",
+  "title": "EyeEm",
+  "link": "http://www.eyeem.com/developers",
+  "image": "http://www.eyeem.com/images/eyeem-logo-new.png",
+  "author": {
+    "name": "EyeEm"
+  },
+  "tags": [
+    "Access",
+    "Present",
+    "Register",
+    "App"
+  ],
+  "description": "Our API gives developers access to all of the albums and photos available on EyeEm. Register your app and start building exciting tools to explore and present the world of EyeEm. The API is in private beta at the moment. Just register your app and we will get back to you immediately."
+}

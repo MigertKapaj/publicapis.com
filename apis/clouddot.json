@@ -1,0 +1,16 @@
+{
+  "id": "clouddot",
+  "title": "CloudDot",
+  "link": "http://labjack.com/support/clouddot/rest-api",
+  "image": "http://labjack.com/sites/all/themes/zen/zen_labjack/logo.png",
+  "author": {
+    "name": "LabJack"
+  },
+  "tags": [
+    "Hardware",
+    "Internet",
+    "Monitor",
+    "Control"
+  ],
+  "description": "LabJack Corporation makes data-acquisition hardware and software to connect the physical world to your computer and the Internet. We help you monitor and control your project or application from your PC or mobile phone. In that way, a LabJack device serves as a bridge between the real world and the virtual one. "
+}

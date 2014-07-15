@@ -1,0 +1,15 @@
+{
+  "id": "randomuser",
+  "title": "RandomUser",
+  "link": "http://randomuser.me/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4pn5TUIgOxVi-FWnaOXwpAlk7I4g2qR2bHoTVkoJO7sZndszoAw",
+  "author": {
+    "name": "RandomUser"
+  },
+  "tags": [
+    "Provides",
+    "Generated",
+    "Creating"
+  ],
+  "description": "RandomUser is an API that provides you with a randomly generated user. These users can be used as placeholders in web mockups, and will save you time from creating your own placeholder information."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "swiftkey",
+  "title": "SwiftKey",
+  "link": "http://www.swiftkey.net/en/sdk/",
+  "image": "http://www.swiftkey.net/en/wp-content/themes/swiftkey/img/swiftkey-logo.png",
+  "author": {
+    "name": "SwiftKey"
+  },
+  "tags": [
+    "Provides",
+    "Powerful",
+    "Deploy",
+    "Innovations"
+  ],
+  "description": "The SwiftKey SDK provides a range of powerful text input APIs that allow partners to deploy our suite of text input innovations to suit their needs."
+}

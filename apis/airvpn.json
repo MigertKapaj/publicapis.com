@@ -1,0 +1,15 @@
+{
+  "id": "airvpn",
+  "title": "AirVPN",
+  "link": "https://airvpn.org/faq/api/",
+  "image": "https://airvpn.org/uploads/profile/photo-65.png?_r=1361931598",
+  "author": {
+    "name": "AirVPN"
+  },
+  "tags": [
+    "Access",
+    "Control",
+    "Accounts"
+  ],
+  "description": "AirVPN application programming interface (API) allows our customers to access and control their accounts, using custom written software."
+}

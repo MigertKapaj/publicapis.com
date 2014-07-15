@@ -1,0 +1,15 @@
+{
+  "id": "nodejitsu",
+  "title": "Nodejitsu",
+  "link": "https://www.nodejitsu.com/documentation/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQct1qxdL-4vORZfUJlRld5mhU3yLg68ivJ-KVhSVv8sRga43w_",
+  "author": {
+    "name": "Nodejitsu"
+  },
+  "tags": [
+    "Developers",
+    "Communicates",
+    "Services"
+  ],
+  "description": "Nodejitsu provides a web API for developers who want to interact with the Nodejitsu platform programatically. This API is built to be RESTful and communicates via JSON. The API is the most low-level way of interacting with the Nodejitsu platform. For most deployment scenarios you should use our command line tool, jitsu, the online administrative interface, or use our WebHook API when integrating with third party services."
+}

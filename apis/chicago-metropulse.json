@@ -1,0 +1,14 @@
+{
+  "id": "chicago-metropulse",
+  "title": "Chicago Metropulse",
+  "link": "http://data.cmap.illinois.gov/APIHome.html",
+  "image": "http://data.cmap.illinois.gov/img/layout_set_logo.png",
+  "author": {
+    "name": "Chicago Metropulse"
+  },
+  "tags": [
+    "Assistance",
+    "Apologize"
+  ],
+  "description": "The Chicago Metropulse API is no longer available. If you need assistance, please contact CMAP. We apologize for any inconvenience."
+}

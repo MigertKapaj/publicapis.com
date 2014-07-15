@@ -1,0 +1,15 @@
+{
+  "id": "serp-p",
+  "title": "SERP-P",
+  "link": "http://serp-p.pids.gov.ph/serp-p/api.php",
+  "image": "",
+  "author": {
+    "name": "SERP-P"
+  },
+  "tags": [
+    "Service",
+    "Web",
+    "Accessed"
+  ],
+  "description": "The SERP-P API is a REST based Web service that can be accessed and executed by a standard HTTP request."
+}

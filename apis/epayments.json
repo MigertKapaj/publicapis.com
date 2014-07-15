@@ -1,0 +1,16 @@
+{
+  "id": "epayments",
+  "title": "ePayments",
+  "link": "http://www.payground.se/epayments/index.php",
+  "image": "http://www.payground.se/img/logo_white.png",
+  "author": {
+    "name": "Payground"
+  },
+  "tags": [
+    "Solid",
+    "Safe",
+    "Smooth",
+    "Mutual"
+  ],
+  "description": "The ePayments services provide solid, safe solutions for eMerchants. With smooth and easy transitions, the gain is mutual for consumer and business alike."
+}

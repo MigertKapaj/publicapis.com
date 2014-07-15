@@ -1,0 +1,14 @@
+{
+  "id": "minecraft",
+  "title": "Minecraft",
+  "link": "http://minecraft-api.com/getting-started",
+  "image": "",
+  "author": {
+    "name": "Minecraft"
+  },
+  "tags": [
+    "Servers",
+    "Request"
+  ],
+  "description": "Minecraft-API serves millions of request every day to thousands and thousands of people, just like yourself."
+}

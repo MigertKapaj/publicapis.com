@@ -1,0 +1,14 @@
+{
+  "id": "ffindr",
+  "title": "FFindr",
+  "link": "http://mobile.ffindr.com/en/developers",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQogfvb4ss4HPDX05kZ0x8TuGHaUB7I1sWfPYp8mnUF1nbocZBJg",
+  "author": {
+    "name": "FFindr"
+  },
+  "tags": [
+    "Access",
+    "Personal"
+  ],
+  "description": "Authentication is required to access the FFindr API. Just generate your personal API key to get started."
+}

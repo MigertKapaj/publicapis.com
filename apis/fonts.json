@@ -1,0 +1,16 @@
+{
+  "id": "fonts",
+  "title": "Fonts",
+  "link": "https://developers.google.com/fonts/docs/developer_api",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Creation",
+    "Accurate",
+    "Data",
+    "Popularity"
+  ],
+  "description": "The Developer API gives access to the metadata available for all families served by Google Fonts. It allows the creation of dynamic apps by being able to query Google Fonts and get an accurate list of the families currently available. The REST API gives access to the data in the JSON format and includes for each family a list of the styles available as well as a list of scripts (called subsets in Google Fonts) supported. The API gives an option to sort the list of families alphabetically, by date added, by number of styles, by trend or by popularity. More data might be added over time. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "auto-complete",
+  "title": "Auto Complete",
+  "link": "http://developer.zappos.com/docs/api-auto-complete",
+  "image": "http://developer.zappos.com/sites/default/files/logo.png",
+  "author": {
+    "name": "Zappos"
+  },
+  "tags": [
+    "Implemented",
+    "Auto",
+    "Search",
+    "Functionality"
+  ],
+  "description": "If you want to implement the always popular \"auto-complete\" for search terms on your website, this is the API for you!  We use this same auto-complete functionality on Zappos.com itself."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "gravata",
+  "title": "Gravata",
+  "link": "http://en.gravatar.com/site/implement/",
+  "image": "http://www.gravatar.com/avatar/00000000000000000000000000000000",
+  "author": {
+    "name": "Gravata"
+  },
+  "tags": [
+    "Authentication",
+    "HTTP",
+    "Requests",
+    "Constructing"
+  ],
+  "description": "Gravatar 'APIs' require no authentication, and are all based around simple HTTP GET requests. Use the links below to find out more about constructing request URLs, different implementation options and more."
+}

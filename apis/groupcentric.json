@@ -1,0 +1,15 @@
+{
+  "id": "groupcentric",
+  "title": "GROUPcentric",
+  "link": "http://groupcentric.com",
+  "image": "http://groupcentric.com/img/gclogo2.png",
+  "author": {
+    "name": "GROUPcentric"
+  },
+  "tags": [
+    "Messages",
+    "Websites",
+    "Events"
+  ],
+  "description": "Opening a group, you will see the group chat. A group chat is just a list of messages, and each message contains who said what and when they said it, but GroupCentric's group chat allows for rich content like pictures, websites, gps coordinates, events, and any custom content that you might want to include from your own app."
+}

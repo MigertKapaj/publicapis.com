@@ -1,0 +1,15 @@
+{
+  "id": "tripit",
+  "title": "Tripit",
+  "link": "https://www.tripit.com/developer",
+  "image": "https://www.tripit.com/images/logos/90x40_tripit_concur_logo.png",
+  "author": {
+    "name": "Tripit"
+  },
+  "tags": [
+    "Creat",
+    "Delete",
+    "Retrieve Objects"
+  ],
+  "description": "The TripIt API allows a developer to programatically create, delete, and retrieve objects from the TripIt platform. The v1 API supports all of the object types that the TripIt platform is currently capable of managing. \nIn addition to being capable of directly creating, deleting, and retrieving these objects the API can retrieve lists of objects such as all of a user's upcoming trips or all travel objects contained within a specific trip. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "theinterviewr",
+  "title": "TheInterviewr",
+  "link": "http://theinterviewr.com/developers/",
+  "image": "",
+  "author": {
+    "name": " The Interviewr"
+  },
+  "tags": [
+    "Integration",
+    "Service",
+    "Available"
+  ],
+  "description": "TheInterviewr has a REST API available for integration of our service into your apps."
+}

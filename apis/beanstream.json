@@ -1,0 +1,14 @@
+{
+  "id": "beanstream",
+  "title": "Beanstream",
+  "link": "http://www.beanstream.com/developers/",
+  "image": "http://beanstreamdev.cloudapp.net/wp-content/uploads/2014/01/beanstream_logo-1.png",
+  "author": {
+    "name": "beanstream"
+  },
+  "tags": [
+    "Experience",
+    "Facilitated"
+  ],
+  "description": "Beanstream has more than a decade of experience working with developers in the payment industry and we have facilitated over 8000 successful integrations through our PCI-Level 1 certified gateway."
+}

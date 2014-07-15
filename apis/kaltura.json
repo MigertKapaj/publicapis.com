@@ -1,0 +1,15 @@
+{
+  "id": "kaltura",
+  "title": "Kaltura",
+  "link": "http://corp.kaltura.com/Products/Kaltura-API",
+  "image": "http://corp.kaltura.com/sites/default/files/logo_1.png",
+  "author": {
+    "name": "Kaltura"
+  },
+  "tags": [
+    "Access",
+    "Service",
+    "Platform"
+  ],
+  "description": "Kaltura’s open source platform includes hundreds of REST-based application programming interfaces (APIs) providing programmable access to every core service of the platform. With full access to our API*, you can independently extend every feature and functionality of the Kaltura Platform."
+}

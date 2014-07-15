@@ -1,0 +1,15 @@
+{
+  "id": "spraci",
+  "title": "SPRACI",
+  "link": "http://www.spraci.com/api/",
+  "image": "http://www.spraci.com/images/spracilogo121.gif",
+  "author": {
+    "name": "Spraci"
+  },
+  "tags": [
+    "Looking",
+    "Application",
+    "Automate"
+  ],
+  "description": "This is the section to read if you are looking for the CALENDAR API or you are looking for ways to display SPRACI listings in your application or on your website or you are trying to find ways to automate event submissions. "
+}

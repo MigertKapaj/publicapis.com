@@ -1,0 +1,15 @@
+{
+  "id": "boxcar",
+  "title": "Boxcar",
+  "link": "http://boxcar.io/help/api/providers",
+  "image": "http://boxcar.io/images/home_link_logo_interior.png",
+  "author": {
+    "name": "Boxcar"
+  },
+  "tags": [
+    "Source",
+    "Community",
+    "Service"
+  ],
+  "description": "Be sure to check out all of the great tools that the open source community has created for building Boxcar into your app or service."
+}

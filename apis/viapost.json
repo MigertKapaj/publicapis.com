@@ -1,0 +1,15 @@
+{
+  "id": "viapost",
+  "title": "ViaPost",
+  "link": "http://www.viapost.com/api/",
+  "image": "http://www.viapost.com/images/logomain.png",
+  "author": {
+    "name": "ViaPost"
+  },
+  "tags": [
+    "Service",
+    "Secure",
+    "Confidential"
+  ],
+  "description": "ViaPost is an alternative mail service that allows you to send physical post direct from your PC to any UK address. It is a secure, high-quality and confidential way of printing and posting that saves you both time and money. "
+}

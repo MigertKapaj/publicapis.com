@@ -1,0 +1,15 @@
+{
+  "id": "ingenia",
+  "title": "Ingenia",
+  "link": "https://www.ingeniapi.com/reference",
+  "image": "https://www.ingeniapi.com/images/ingenia-logo-small.png",
+  "author": {
+    "name": "Ingenia"
+  },
+  "tags": [
+    "Default",
+    "Contact",
+    "Increased"
+  ],
+  "description": "Ingenia by default limits a user to 4 calls per second, for every type of API call. Contact us to have this limit increased or removed if needed. "
+}

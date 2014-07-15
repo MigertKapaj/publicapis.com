@@ -1,0 +1,15 @@
+{
+  "id": "geonb-cts",
+  "title": "GeoNB CTS",
+  "link": "http://geonb.snb.ca/CTS/",
+  "image": "http://www.snb.ca/geonb1/images/logo-top.png",
+  "author": {
+    "name": "GeoNB CTS"
+  },
+  "tags": [
+    "Describe",
+    "Creation",
+    "Information"
+  ],
+  "description": "GeoNB is the name adopted by the Province of New Brunswick to describe its corporate approach to the creation, maintenance, and distribution of geographic information."
+}

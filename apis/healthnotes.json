@@ -1,0 +1,16 @@
+{
+  "id": "healthnotes",
+  "title": "Healthnotes",
+  "link": "http://dev.healthnotes.com/",
+  "image": "http://dev.healthnotes.com/themes/hni_dev_portal/static/logo.png",
+  "author": {
+    "name": "Healthnotes"
+  },
+  "tags": [
+    "Welness",
+    "Oriented",
+    "Contextual",
+    "Personalized"
+  ],
+  "description": "Healthnotes is the industry-leading content source for consumer self-care wellness decisions. Through the API you will find access to this consumer-oriented content and the powerful contextual data connections that allow for sophisticated integrations personalized to your users' needs."
+}

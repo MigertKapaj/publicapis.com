@@ -1,0 +1,16 @@
+{
+  "id": "the-symbaloo",
+  "title": "The Symbaloo",
+  "link": "http://developer.symbaloo.com/",
+  "image": "http://static02.symbaloo.com/sites/developer/images/top_bg_beta.jpg",
+  "author": {
+    "name": "Symbaloo"
+  },
+  "tags": [
+    "Connect",
+    "Website",
+    "Social",
+    "Application"
+  ],
+  "description": "The Symbaloo Api enables you to connect your website with us and helps to make your website more personalized and social. This guide will walk you through the basics of creating a web application with most of Symbaloo's features.\n                                  "
+}

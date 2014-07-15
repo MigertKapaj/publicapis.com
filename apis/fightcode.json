@@ -1,0 +1,15 @@
+{
+  "id": "fightcode",
+  "title": "FightCode",
+  "link": "http://beta.fightcodegame.com/docs/",
+  "image": "http://beta.fightcodegame.com/static/img/menu-sc4c723bac9.png",
+  "author": {
+    "name": "FightCode"
+  },
+  "tags": [
+    "Function",
+    "Constructor",
+    "Robots"
+  ],
+  "description": "Your robot is just a plain old Javascript constructor function. fightcode will use your constructor function to create the instance that will fight against other robots."
+}

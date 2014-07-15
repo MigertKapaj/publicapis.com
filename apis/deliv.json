@@ -1,0 +1,15 @@
+{
+  "id": "deliv",
+  "title": "Deliv",
+  "link": "https://deliv.co/pages/retailers_faq",
+  "image": "https://www.deliv.co/assets/clean/logo.png",
+  "author": {
+    "name": "Deliv"
+  },
+  "tags": [
+    "Delivery",
+    "Retailers",
+    "Workforce"
+  ],
+  "description": "Deliv provides same day delivery from top retailers to their customers using a crowd-sourced workforce. The deliv API provides a simple RESTful JSON or XML interface to the deliv service"
+}

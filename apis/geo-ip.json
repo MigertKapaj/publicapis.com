@@ -1,0 +1,15 @@
+{
+  "id": "geo-ip",
+  "title": "Geo-IP",
+  "link": "http://smart-ip.net/geoip-api",
+  "image": "http://smart-ip.net/images/main-sprites.png",
+  "author": {
+    "name": "Smart-IP.net"
+  },
+  "tags": [
+    "Service",
+    "Developers",
+    "Web"
+  ],
+  "description": "Geo-IP service has interfaces to get data in XML or JSON via both HTTP and HTTPS connections, which allows developers to integrate the service with other web sites."
+}

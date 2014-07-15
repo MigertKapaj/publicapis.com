@@ -1,0 +1,14 @@
+{
+  "id": "magic-the-gathering",
+  "title": "Magic: The Gathering",
+  "link": "http://mtgapi.com/docs",
+  "image": "http://mtgapi.com/img/global/logo-sm.png",
+  "author": {
+    "name": "Magic: The Gathering"
+  },
+  "tags": [
+    "Improved",
+    "Retrieve"
+  ],
+  "description": "Welcome the the new and improved APi for Magic: The Gathering. It is now easier than ever to retrieve up-to-date information on any card. Make an account and let up know what you think."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "nod",
+  "title": "nod",
+  "link": "http://data.nantes.fr/api/",
+  "image": "http://data.nantes.fr/fileadmin/tpl_opendata/images/contents/logo1.png",
+  "author": {
+    "name": "nod"
+  },
+  "tags": [
+    "Permet",
+    "Publics"
+  ],
+  "description": "Cette commande permet de récupérer les informations concernant la disponibilité des parkings publics de l'agglomération nantaise."
+}

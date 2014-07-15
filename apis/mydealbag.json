@@ -1,0 +1,14 @@
+{
+  "id": "mydealbag",
+  "title": "mydealbag",
+  "link": "http://mydealbag.com/api/doc",
+  "image": "http://mydealbag.com/img/mdb-logo.png",
+  "author": {
+    "name": "mydealbag"
+  },
+  "tags": [
+    "Audience",
+    "Abilities"
+  ],
+  "description": "Welcome to the mydealbag API documentation. The intended audience are those of you with some programming abilities; don't worry,"
+}

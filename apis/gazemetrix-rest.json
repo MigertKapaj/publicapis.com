@@ -1,0 +1,16 @@
+{
+  "id": "gazemetrix-rest",
+  "title": "gazeMetrix REST",
+  "link": "https://api.gazemetrix.com/",
+  "image": "https://www.gazemetrix.com/static/img/logo.png",
+  "author": {
+    "name": "gazeMetrix"
+  },
+  "tags": [
+    "Photo Campaigns",
+    "Moderated",
+    "Widgets",
+    "Brand"
+  ],
+  "description": "gazeMetrix allows a brand to run exciting photo campaigns. Photos are submitted to the campaign through social media and can be moderated by the brand manager. Widgets are provided to help integrate with the brand's assets."
+}

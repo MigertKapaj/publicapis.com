@@ -1,0 +1,14 @@
+{
+  "id": "domainr",
+  "title": "Domainr",
+  "link": "https://domai.nr/api",
+  "image": "https://d3tbs6h7gl9dkd.cloudfront.net/assets/header-logo-8bcff0d735a40fc187648eea78f568b4.svg",
+  "author": {
+    "name": "Domainr"
+  },
+  "tags": [
+    "Service",
+    "Implementation"
+  ],
+  "description": "Domainr has two external APIs: an HTML forms API for simple integration, and a JSON-based API for web services and client-side implementations written in JavaScript."
+}

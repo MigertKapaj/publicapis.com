@@ -1,0 +1,16 @@
+{
+  "id": "trakqr",
+  "title": "TrakQR",
+  "link": "http://trakqr.com/resources/api/",
+  "image": "http://www.programmableweb.com/images/apis/at8386.png",
+  "author": {
+    "name": "TrakQR"
+  },
+  "tags": [
+    "Features",
+    "Post",
+    "Responds",
+    ""
+  ],
+  "description": "TrakQR API allows you to build QR Code features into your applications. This technical document outlines the usage of our RESTful API. Our API follows the REST(Representational State Transfer) style utilizing the GET, DELETE, and POST verbs. It responds with appropriate HTTP status codes and supports JSON."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "getyourguide-xml-partner",
+  "title": "GetYourGuide XML Partner",
+  "link": "https://api.getyourguide.com/",
+  "image": "https://assets.getyourguide.com/customer/img/rebrand/gyg_logo.png",
+  "author": {
+    "name": "GetYourGuide XML Partner"
+  },
+  "tags": [
+    "Retrieve",
+    "Integrate",
+    "Website"
+  ],
+  "description": "The GetYourGuide XML Partner API enables you to retrieve a structured list of GetYourGuide products in an XML format upon a location-based request. The purpose of this list is to integrate teaser product data into your website which link back to a specified landing page on GetYourGuide.com."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "kayak-search",
+  "title": "Kayak Search",
+  "link": "http://www.kayak.com/labs/api/search/",
+  "image": "http://www.kayak.com/v701174/images/kayak-logo.png",
+  "author": {
+    "name": "Kayak"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

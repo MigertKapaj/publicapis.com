@@ -1,0 +1,15 @@
+{
+  "id": "mykeynote",
+  "title": "MyKeynote",
+  "link": "https://api.keynote.com",
+  "image": "https://api.keynote.com/apiconsole/includes/images/api_logo.png",
+  "author": {
+    "name": "Keynote"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Basic"
+  ],
+  "description": "Access to MyKeynote APIs is restricted to authenticated and authorized users only. Each time a user makes a call, they must be recognized as having valid access to do so. All MyKeynote APIs that access Keynote data require a user access to be authenticated using basic authentication."
+}

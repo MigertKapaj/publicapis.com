@@ -1,0 +1,16 @@
+{
+  "id": "the-esendex-sms",
+  "title": "The Esendex SMS ",
+  "link": "http://developers.esendex.com/APIs",
+  "image": "http://developers.esendex.com/sites/all/themes/EsendexDevelopers/images/esendex-logo.jpg",
+  "author": {
+    "name": "Esendex"
+  },
+  "tags": [
+    "Send",
+    "Receive",
+    "Messages",
+    "Service"
+  ],
+  "description": "The Esendex SMS APIs give developers the ability to send and receive messages directly from their applications. Each API exposes a series of Internet delivered services conforming to REST, SOAP or HTTP Form Post specifications. Developers who are comfortable with these technologies are able to code directly against these APIs."
+}

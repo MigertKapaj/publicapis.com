@@ -1,0 +1,16 @@
+{
+  "id": "getthirukural",
+  "title": "Getthirukural",
+  "link": "https://getthirukural.appspot.com/#api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRokpSSRMzNj7dFTUTmoPG3rGRqGW9BDOcqnxihwu5iKmPrqQ7l",
+  "author": {
+    "name": "Getthirukural"
+  },
+  "tags": [
+    "Assign",
+    "Identify",
+    "String",
+    "Regardless"
+  ],
+  "description": "To begin using the API, you will need to obtain an Application ID. Get your application id here.\nWe will then assign you an Application ID, a unique string used to identify your application.  You must provide this string when querying the API. The API supports both XML and JSON format.By default it will return XML.\n Below are examples of how you make requests against the API, regardless what client you use. Note that words in curly brackets {like this} are meant to be replaced.\n        "
+}

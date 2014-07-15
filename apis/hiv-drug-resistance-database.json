@@ -1,0 +1,16 @@
+{
+  "id": "hiv-drug-resistance-database",
+  "title": " HIV Drug Resistance Database",
+  "link": "http://hivdb.stanford.edu/DR/webservices/",
+  "image": "http://hivdb.stanford.edu/images/header.gif",
+  "author": {
+    "name": "Stanford University HIV Drug Resistance Database"
+  },
+  "tags": [
+    "Service",
+    "Program",
+    "Comments",
+    "Inferred"
+  ],
+  "description": "Sierra, the Stanford Algorithm web service, is a way for machines to interface with the HIVdb program. Sierra enables other computers to obtain the latest Stanford HIV Drug Resistance Algorithm scores, comments, and inferred levels of resistance to 17 FDA-approved protease and RT inhibitors. "
+}

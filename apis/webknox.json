@@ -1,0 +1,15 @@
+{
+  "id": "webknox",
+  "title": "WebKnox",
+  "link": "http://webknox.com/api",
+  "image": "http://webknox.com/application/frontend/images/design/logo.svg",
+  "author": {
+    "name": "WebKnox"
+  },
+  "tags": [
+    "Recognition",
+    "Speech tagging",
+    "Detection.  "
+  ],
+  "description": "The WebKnox REST API offers functionality such as Named Entity Recognition, Part-of-Speech Tagging, Question Answering, and Language Detection. On this page you can see the available resources and the possible actions on these resources."
+}

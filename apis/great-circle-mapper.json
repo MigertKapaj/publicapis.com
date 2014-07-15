@@ -1,0 +1,13 @@
+{
+  "id": "great-circle-mapper",
+  "title": "Great Circle Mapper",
+  "link": "https://www.mashape.com/marcusgoede/great-circle-mapper",
+  "image": "",
+  "author": {
+    "name": "marcusgoede"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Use Great Circle Mapper to calculate the air distance and flight time between all airports worldwide."
+}

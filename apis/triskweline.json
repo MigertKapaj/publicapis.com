@@ -1,0 +1,15 @@
+{
+  "id": "triskweline",
+  "title": "Triskweline",
+  "link": "http://www.netalive.org/help/api",
+  "image": "http://www.netalive.org/images/header2.jpg",
+  "author": {
+    "name": "Net Alive"
+  },
+  "tags": [
+    "Change",
+    "Removal",
+    "Traffic"
+  ],
+  "description": "I implemented the API upon a personal request from a friend of mine. It could always subject to change or removal, especially if people go overboard and cause too much traffic with it. I don't guarantee anything.\n\n"
+}

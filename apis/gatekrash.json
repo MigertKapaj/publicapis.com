@@ -1,0 +1,16 @@
+{
+  "id": "gatekrash",
+  "title": "Gatekrash",
+  "link": "http://gatekrash.com/info/api/v1",
+  "image": "http://gatekrash.com/s/img/logo.png",
+  "author": {
+    "name": "Gatekrash"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Produce",
+    "Accurate"
+  ],
+  "description": "The Gatekrash API provides programmatic access to the data contained on gatekrash.com. You may use it on the understanding that it is in perpetual beta, may become unavailable with no warning (temporarily or permanently), may not produce entirely accurate results, and you provide a link back to Gatekrash (e.g. 'powered by Gatekrash')."
+}

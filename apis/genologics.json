@@ -1,0 +1,17 @@
+{
+  "id": "genologics",
+  "title": "Genologics",
+  "link": "https://genologics.com/developer",
+  "image": "https://genologics.com/sites/all/themes/trapeze/css/images/site-name.jpg",
+  "author": {
+    "name": "Genologics"
+  },
+  "tags": [
+    "Diverse",
+    "Scripting",
+    "Design",
+    "Data",
+    "Research"
+  ],
+  "description": "A language-agnostic API is important to scientists as it allows for broad and diverse integration. Together, REST and EPP provide powerful and simple-to-use scripting.\nHowever, you first need to understand the conceptual structure and design of these interfaces. Within the GenoLogics Rapid Scipting API, REST technology is used to provide data specifically structured for life science research."
+}

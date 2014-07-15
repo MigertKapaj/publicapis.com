@@ -1,0 +1,15 @@
+{
+  "id": "cloud",
+  "title": "Cloud",
+  "link": "http://www.aspose.com/cloud/total-api.aspx",
+  "image": "http://www.aspose.com/app_themes/v2/images/transparent.png",
+  "author": {
+    "name": "Aspose"
+  },
+  "tags": [
+    "Generation",
+    "Service",
+    "Seamlessly"
+  ],
+  "description": "Aspose for Cloud is a cloud-based document generation, conversion and automation platform for developers. Aspose for Cloud’s REST APIs give developers on all platforms total control over documents and file formats. It interoperates seamlessly with other cloud services."
+}

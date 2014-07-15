@@ -1,0 +1,15 @@
+{
+  "id": "checkout",
+  "title": " Checkout",
+  "link": "https://paytechco.com/?pag=api",
+  "image": "https://paytechco.com/images/rcLogo.png",
+  "author": {
+    "name": "EzPay"
+  },
+  "tags": [
+    "Protocol",
+    "Website",
+    "payment"
+  ],
+  "description": "The  Checkout application programming interface (API) is a protocol from Paytech  that allows you to post shopping carts from your web site or your Interactive  Voice Response module to  your payment platform. The API also enables you to charge credit cards,  debit bank accounts (ACH) and refund buyers.\n An  API integration is a good choice for merchants who want to automate their order  processing and online payments."
+}

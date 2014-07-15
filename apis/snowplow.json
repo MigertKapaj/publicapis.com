@@ -1,0 +1,15 @@
+{
+  "id": "snowplow",
+  "title": "snowplow",
+  "link": "https://github.com/juyrjola/aura/wiki/API",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Querying",
+    "Application",
+    "Source"
+  ],
+  "description": "The snowplow API allows querying the locations of the snowplows in the Helsinki area. Check out the demo application and its CoffeeScript source."
+}

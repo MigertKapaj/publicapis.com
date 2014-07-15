@@ -1,0 +1,15 @@
+{
+  "id": "bluefolder",
+  "title": "BlueFolder",
+  "link": "http://app.bluefolder.com/api/1.0/docs/appointments.aspx",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQxb3eIEnhm3kjX0fcQOsjSfQY4ifJWjT8FRe1L_hpHeuWJFirrFw",
+  "author": {
+    "name": "BlueFolder"
+  },
+  "tags": [
+    "Interface",
+    "Account",
+    "Implemented"
+  ],
+  "description": "The BlueFolder API is an interface that you can use to programmatically interact with your BlueFolder account. The API is implemented using XML over HTTPS."
+}

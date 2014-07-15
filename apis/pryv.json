@@ -1,0 +1,15 @@
+{
+  "id": "pryv",
+  "title": "Pryv",
+  "link": "http://api.pryv.com/reference",
+  "image": "http://api.pryv.com/images/LogoPrYvDigital-API.png",
+  "author": {
+    "name": "Pryv"
+  },
+  "tags": [
+    "Location",
+    "Activities",
+    "Garden"
+  ],
+  "description": "Personal metrics, location, pictures, audio, notes, activities, vegetable garden yields, you name it: if it’s got a time, it can be a Pryv event."
+}

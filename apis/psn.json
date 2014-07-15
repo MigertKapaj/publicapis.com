@@ -1,0 +1,15 @@
+{
+  "id": "psn",
+  "title": "PSN",
+  "link": "http://api.geekweb.org/psn/getid/",
+  "image": "",
+  "author": {
+    "name": "PSN"
+  },
+  "tags": [
+    "Allowed",
+    "Forwards",
+    "Public"
+  ],
+  "description": "Sony has an official 'External PSN Sign In' page. You can set your own site as the returnURL by GET just if your url is allowed by Sony. We built our own SignIn Form that allowes every returnURL. The site forwards to your site on a successfull sign in with a sessionId by GET. But there is no official public API to convert the sessionId into a user specific value (like the PSN-ID)."
+}

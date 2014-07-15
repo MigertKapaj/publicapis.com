@@ -1,0 +1,16 @@
+{
+  "id": "otasks",
+  "title": "oTasks",
+  "link": "http://developers.odesk.com/w/page/12364009/oTasks%20API",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "System",
+    "Assign",
+    "Assignment",
+    "Company"
+  ],
+  "description": "oTasks is the oDesk task management system. oTasks enables users to assign specific tasks to a provider during an assignment. These methods require authentication and for the user to be a member of the company or team being called."
+}

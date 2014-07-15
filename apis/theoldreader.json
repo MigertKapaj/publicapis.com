@@ -1,0 +1,14 @@
+{
+  "id": "theoldreader",
+  "title": "theoldreader",
+  "link": "https://github.com/theoldreader/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Improve",
+    "Requests"
+  ],
+  "description": "You are welcome to improve documentation, please feel free to send us pull requests with your adjustments."
+}

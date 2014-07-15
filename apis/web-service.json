@@ -1,0 +1,15 @@
+{
+  "id": "web-service",
+  "title": "Web Service",
+  "link": "http://bionmf.dacya.ucm.es/webservices.html",
+  "image": "http://bionmf.dacya.ucm.es/images/topBioNMF2.0.png",
+  "author": {
+    "name": "bioNMF"
+  },
+  "tags": [
+    "Service",
+    "System",
+    "Differences"
+  ],
+  "description": "The Web Service provides an API to make use of the services provided by the system in a programmatic way. The functionality mirrors that of the web page, but with some minor differences to simplify its use. The API is basically asynchronous."
+}

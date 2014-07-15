@@ -1,0 +1,16 @@
+{
+  "id": "paygol",
+  "title": "PayGol",
+  "link": "http://www.paygol.com/developers",
+  "image": "https://secure.paygol.com/images/paygol_logo.png",
+  "author": {
+    "name": "PayGol"
+  },
+  "tags": [
+    "Technology",
+    "Integration",
+    "Customised",
+    "Micropayments"
+  ],
+  "description": "PayGol can be used without any real know-how about technology involved. However, should your website require a more tight integration with PayGol, we offer an API (Application Programming Interface) integration to all kinds of front-end and legacy systems. This is pretty easy to implement. Adding PayGol to your web site is as simple as putting a ready-made link on your page. You can either link directly to us, or customize and embed PayGol on your own web page so that customers don't even have to leave your site. This way your application can talk with PayGol in the background to provide your application with micropayments."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "callwithus",
+  "title": "CallWithUs",
+  "link": "http://www.callwithus.com/API",
+  "image": "http://www.callwithus.com/callwithus_flat_text.png",
+  "author": {
+    "name": "CallWithUs"
+  },
+  "tags": [
+    "Specified",
+    "Data",
+    "Parameter"
+  ],
+  "description": "We provide a web-based API to check your account balance, get calling rate(s) to a specified phone number, call history, DID minutes information and to initiate a web callback to the specified phone number (Click to call). With this, you can give your web site visitors a free way to contact you. All APIs use HTTP(S) POST or GET method to submit request data. Do not use the API usage examples in the production environment because key parameter will be visible to everybody in html source code. Use PHP/Perl/Ruby, etc. scripts instead to invoke the API. To try the examples, copy/paste the HTML code to a local file, set value for key parameter and open the file in a web browser. The key parameter value is shown on \"Account info\" when you log into your account. "
+}

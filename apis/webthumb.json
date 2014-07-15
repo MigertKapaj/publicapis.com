@@ -1,0 +1,16 @@
+{
+  "id": "webthumb",
+  "title": "Webthumb",
+  "link": "http://webthumb.bluga.net/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvQyTgQyaFYsWq9yU2I3PcXW9xshjtaR3MFg8Kcwr6cnMSs-vYdg",
+  "author": {
+    "name": "Webthumb"
+  },
+  "tags": [
+    "Standard",
+    "Features",
+    "Control",
+    "Cached"
+  ],
+  "description": "There are two Webthumb APIs the Standard API offering complete control and all the features and the Easythumb API offer fewer features and cached thumbnails"
+}

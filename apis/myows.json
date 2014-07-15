@@ -1,0 +1,14 @@
+{
+  "id": "myows",
+  "title": "Myows",
+  "link": "http://myows.com/info/api",
+  "image": "http://myows.com/blog/wp-content/themes/myows/images/logo_blog3.png",
+  "author": {
+    "name": "Myows"
+  },
+  "tags": [
+    "Requests",
+    "Depending"
+  ],
+  "description": "The Myows API is  a REST based API which is able to return output in a variety of formats. Because it Is REST based, the API accepts requests in the form GET PUT DELETE and POST. Each method accepts one of these types of requests, depending on it’s nature."
+}

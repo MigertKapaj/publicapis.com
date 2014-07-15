@@ -1,0 +1,15 @@
+{
+  "id": "deliverywatch",
+  "title": "DeliveryWatch",
+  "link": "http://api.deliverywatch.com/",
+  "image": "http://api.deliverywatch.com/images/part1a.gif",
+  "author": {
+    "name": "DeliveryWatch"
+  },
+  "tags": [
+    "Customers",
+    "Campaign",
+    "Reporting"
+  ],
+  "description": "The Delivery Watch API allows your customers to test and optimize their email campaign. It also enhances the campaign reporting feature in your application with detailed deliverability reports."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "whois-rws",
+  "title": "Whois-RWS",
+  "link": "https://www.arin.net/resources/whoisrws/whois_api.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQIwa0MdeDl9Xliq8e0-MeLWvRnFxyayEjKN5v5TGpis9WF_z-b",
+  "author": {
+    "name": "Arin"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Reference",
+    "Domain"
+  ],
+  "description": "ARIN offers public access to ARIN registration data via a number of services. Traditionally, these services are known in the industry as \"Whois\" in reference to the public data service of the ARPANET, precursor of today's modern Internet. Whois services are offered by all the Regional Internet Registries (RIRs), most Internet Routing Registries (IRRs) and most domain name registries and registrars."
+}

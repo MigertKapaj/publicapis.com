@@ -1,0 +1,15 @@
+{
+  "id": "video-conversion",
+  "title": " Video Conversion",
+  "link": "http://www.opencrypt.com/video-conversion.php",
+  "image": "http://www.opencrypt.com/images/opencrypt_logo.gif",
+  "author": {
+    "name": "OpenCrypt"
+  },
+  "tags": [
+    "Translocate",
+    "Thumbnail",
+    "Metadatainformation"
+  ],
+  "description": "The OpenCrypt Video Conversion API is designed to allow you to transcode/convert video you have uploaded to your server into Flash Video format suitable for displaying on your site with an embedded video player.  After providing the Video Conversion API with your video file the API then provides the converted video and a thumbnail of the video for transfer back to your server for hosting, the Video Conversion API also provides metadatainformation such as video duration, height and width.The Video Conversion API is necessary because most web hosting companies won't allow access to the programs required to convert/transcode videos due to the load they place on system resources, this means without a dedicated server it is very difficult to convert videos online.  The Video Conversion API enables users on any web server to convert videos to be including in web site content which is becoming increasingly popular for product demonstrations, social networks and other content.The Video Conversion API is integrated with OpenCrypt version 1.8 to offer video management tools, and to enable you to upload and include videos with your products and in your picture gallery.  "
+}

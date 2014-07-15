@@ -1,0 +1,15 @@
+{
+  "id": "adgooroo",
+  "title": "AdGooroo",
+  "link": "http://api.adgooroo.com/",
+  "image": "",
+  "author": {
+    "name": "AdGooroo"
+  },
+  "tags": [
+    "Supports",
+    "Data",
+    "Programming"
+  ],
+  "description": "The AdGooroo API is based on the popular REST architecture and supports common data transfer formats such as JSON, XML, and CSV, so you can develop in .NET, Perl, PHP, or any other common programming language."
+}

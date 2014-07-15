@@ -1,0 +1,15 @@
+{
+  "id": "addresstwo",
+  "title": "addresstwo",
+  "link": "http://www.addresstwo.com/support/api.asp",
+  "image": "http://www.addresstwo.com/site_images/logo.jpg",
+  "author": {
+    "name": "addresstwo"
+  },
+  "tags": [
+    "Requests",
+    "Queries",
+    "Responses"
+  ],
+  "description": "Our API is REST-based, relying on simple POST requests to a specified URL. A variety of simple commands and queries can be performed, each designated by a posted value named \"cmd.\" Responses are XML format and follow an extremely simple schema."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dojo-learning",
+  "title": "Dojo Learning",
+  "link": "http://www.dojolearning.com/api-action",
+  "image": "http://www.dojolearning.com/inc/html/learningforgrownups/pix/dojo.png?rand=",
+  "author": {
+    "name": "dojolearning"
+  },
+  "tags": [
+    "Online",
+    "Service",
+    "Data",
+    "Enforce"
+  ],
+  "description": "This is an overview of the REST API for the Dojo Learning online training service, which allows external clients to directly access and interact with the data layer of Dojo. This API is a free service for all users of Dojo, however we do enforce certain restrictions on the use of the API to ensure a high level of quality access for all."
+}

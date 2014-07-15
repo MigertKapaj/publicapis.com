@@ -1,0 +1,15 @@
+{
+  "id": "asot",
+  "title": "ASOT",
+  "link": "https://api.asot.fm",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZrh4Qbdm7gMkk0BQHMCnhhoSK2-D2rhUd_zeWaRKx8yBH17g",
+  "author": {
+    "name": "asot.fm"
+  },
+  "tags": [
+    "Intended",
+    "Empower",
+    "Information"
+  ],
+  "description": "This API is intended to empower developers with information from Armin van Buuren's 'A State of Trance' radio show. "
+}

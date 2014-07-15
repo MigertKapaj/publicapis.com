@@ -1,0 +1,16 @@
+{
+  "id": "infoconnect",
+  "title": "Infoconnect",
+  "link": "http://developer.infoconnect.com/",
+  "image": "http://developer.infoconnect.com/sites/default/files/logo.png",
+  "author": {
+    "name": "Infoconnect"
+  },
+  "tags": [
+    "Data",
+    "Quick",
+    "Business",
+    "Competator"
+  ],
+  "description": "Infoconnect our API platform, ensures you have the data you need when you need it to make quick, intelligent business decisions and stay a step ahead of competitors. Below are all the endpoints available to query the Infogroup business and consumer databases.\n        \n        "
+}

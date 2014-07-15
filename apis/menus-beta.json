@@ -1,0 +1,16 @@
+{
+  "id": "menus-beta",
+  "title": "Menus Beta",
+  "link": "http://nypl.github.io/menus-api/#authentication",
+  "image": "",
+  "author": {
+    "name": "What's On The Menu"
+  },
+  "tags": [
+    "Web",
+    "Service",
+    "Progress",
+    "Concrete"
+  ],
+  "description": "Building restful web services, like other programming skills is part art, part science. As the Internet industry progresses, creating a REST API becomes more concrete, with emerging best practices."
+}

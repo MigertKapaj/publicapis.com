@@ -1,0 +1,16 @@
+{
+  "id": "the-cadmus",
+  "title": "The Cadmus",
+  "link": "http://thecadmus.com/api/docs",
+  "image": "http://thecadmus.com/assets/images/dashboard/cadmus.png?ts=1397371721",
+  "author": {
+    "name": "Cadmus"
+  },
+  "tags": [
+    "Started",
+    "Identify",
+    "Applications",
+    "Misused"
+  ],
+  "description": "The first thing you need to get started with the Cadmus API is your API key. You can get your API key from here. This key is used when making a call to the API and helps us identify who is making the call. You can also give your API key to third party applications and they can make the calls on your behalf. If at any point you feel that your key is being misused, you can simply reset the key here.\n                "
+}

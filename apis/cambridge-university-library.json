@@ -1,0 +1,15 @@
+{
+  "id": "cambridge-university-library",
+  "title": "Cambridge University Library",
+  "link": "http://www.lib.cam.ac.uk/api/",
+  "image": "http://www.lib.cam.ac.uk/global/images/identifier.gif",
+  "author": {
+    "name": "Cambridge University Library"
+  },
+  "tags": [
+    "Services",
+    "Communicate",
+    "Catalogus"
+  ],
+  "description": "Welcome to lib.cam.ac.uk/api. This site provides access to the APIs (or Web Services) provided by Cambridge University Library, including XML/JSON based web service interfaces for the library catalogues and other online library services,(API stands for 'Application Programming Interface',a mechanism that provides structured information allowing pieces of software to communicate with each other)."
+}

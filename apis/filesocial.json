@@ -1,0 +1,15 @@
+{
+  "id": "filesocial",
+  "title": "FileSocial",
+  "link": "http://filesocial.com/api/docs",
+  "image": "http://filesocial.com/images/layout/logo.png",
+  "author": {
+    "name": "FileSocial"
+  },
+  "tags": [
+    "Share",
+    "Receive",
+    "Automatically"
+  ],
+  "description": "With FileSocial, you can upload and share all types of files (images, music, compressed files…) through your Twitter account. The comments you send or receive through FileSocial will automatically appear as @reply in Twitter."
+}

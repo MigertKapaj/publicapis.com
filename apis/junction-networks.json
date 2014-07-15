@@ -1,0 +1,15 @@
+{
+  "id": "junction-networks",
+  "title": "Junction Networks",
+  "link": "http://www.jnctn.com/webservices/api/",
+  "image": "http://www.jnctn.com/image/HeaderLeft.gif",
+  "author": {
+    "name": "Junction Networks"
+  },
+  "tags": [
+    "Require",
+    "Accomplish",
+    "Request"
+  ],
+  "description": "Many methods require the user to be logged in. At present there is only one way to accomplish this.                                                                                                                      Users should request a SessionId token by authenticating using the SessionCreate action."
+}

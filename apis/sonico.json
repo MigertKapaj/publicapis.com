@@ -1,0 +1,17 @@
+{
+  "id": "sonico",
+  "title": "Sonico",
+  "link": "http://www.sonico.com/app_dev_pres.php",
+  "image": "http://st2.sonicocnt.com/1/img/sprite.png",
+  "author": {
+    "name": "Sonico"
+  },
+  "tags": [
+    "Social",
+    "Media",
+    "Interact",
+    "Control",
+    "Online"
+  ],
+  "description": "Founded in July 2007, Sonico is the Latin America social network that organizes people's life online. This social media platform that currently has more than 50 million registered users, allows individuals, organizations and brands to interact in an easy, useful and entertaining way, having control of their privacy."
+}

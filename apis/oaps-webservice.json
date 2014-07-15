@@ -1,0 +1,15 @@
+{
+  "id": "oaps-webservice",
+  "title": "OAPS Webservice",
+  "link": "http://oaps.eu/project/soap/",
+  "image": "http://oaps.eu/include/image/oaps_beta_small.png",
+  "author": {
+    "name": "oaps"
+  },
+  "tags": [
+    "Conference",
+    "System",
+    "Service"
+  ],
+  "description": "To use OAPS within publication and conference management systems, we offer an easy to use API for automatic use of our service."
+}

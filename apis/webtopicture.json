@@ -1,0 +1,15 @@
+{
+  "id": "webtopicture",
+  "title": "WebToPicture",
+  "link": "http://webtopicture.com/web_api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSqdyAvg7B0mgD75Eoa8qGgQuecrU5aQI_ge41xRWG6cLEW5f9Vxw",
+  "author": {
+    "name": "WebToPicture"
+  },
+  "tags": [
+    "Websites",
+    "Content",
+    "Thumbnail"
+  ],
+  "description": "WebToPicture is the easiest way to get websites thumbnail. With his API you can get rich content to be used in your website.\n"
+}

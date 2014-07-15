@@ -1,0 +1,15 @@
+{
+  "id": "interpair",
+  "title": "Interpair",
+  "link": "http://interpair.net/help.aspx",
+  "image": "http://interpair.net/images/logo.gif",
+  "author": {
+    "name": "Interpair"
+  },
+  "tags": [
+    "Device",
+    "Service",
+    "Protocols"
+  ],
+  "description": "Interpair is a simple cloud-based device pairing service. With it, two clients can exchange pairing information using a dynamically generated PIN code. This service provides a simple alternative to complex network discovery protocols."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "neospeech",
+  "title": "Neospeech",
+  "link": "https://ws.neospeech.com/NeoSpeech-TTSWS-API-1.1.pdf",
+  "image": "https://ws.neospeech.com/assets/images/logo.png",
+  "author": {
+    "name": "Neospeech"
+  },
+  "tags": [
+    "Access",
+    "Service",
+    "Protocols"
+  ],
+  "description": "NeoSpeech offers both a SOAP-and REST-based API to access the Text-to-Speech Web Service. From a features, functionality, and performance standpoint, there is no difference between the SOAP-and the REST-based protocols."
+}

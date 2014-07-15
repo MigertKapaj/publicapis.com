@@ -1,0 +1,17 @@
+{
+  "id": "getmonthlypayments",
+  "title": "GetMonthlyPayments",
+  "link": "http://www.zillow.com/howto/api/GetMonthlyPayments.htm",
+  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
+  "author": {
+    "name": "Zillow"
+  },
+  "tags": [
+    "Estimated",
+    "Interest",
+    "Entered",
+    "Taxes",
+    "Insurance"
+  ],
+  "description": "For a specific loan amount, the GetMonthlyPayments API returns the estimated monthly payment that includes principal and interest based on today's mortgage rate. The API returns the estimated monthly payment per loan type (30-year fixed, 15-year fixed, and 5/1 ARM). If a ZIP code is entered, the estimated taxes and insurance are returned in the result set. "
+}

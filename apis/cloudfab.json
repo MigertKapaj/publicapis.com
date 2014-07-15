@@ -1,0 +1,15 @@
+{
+  "id": "cloudfab",
+  "title": "CloudFab",
+  "link": "http://cf-internal.ponoko.com/api/",
+  "image": "http://cf-internal.ponoko.com/media/images/ponoko-header.png",
+  "author": {
+    "name": "CloudFab"
+  },
+  "tags": [
+    "Technologies",
+    "Design",
+    "Services"
+  ],
+  "description": "We use 3D printing technologies to make what you want when you want it. You send us a 3D design and we ship the finished part to you or your user. CloudFab's web API allows you to add digital making to your current web services."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "craigslist-programming",
+  "title": "Craigslist programming",
+  "link": "http://rentrentorg.blogspot.com/",
+  "image": "https://img1.blogblog.com/img/navbar/icons_orange.png",
+  "author": {
+    "name": "RentRent.org "
+  },
+  "tags": [
+    "Service",
+    "Free",
+    "Overload"
+  ],
+  "description": "Craigslist provide such a great service for free and I didn't want to overload their servers with too many requests and cause them problems."
+}

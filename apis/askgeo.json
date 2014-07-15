@@ -1,0 +1,15 @@
+{
+  "id": "askgeo",
+  "title": "askgeo",
+  "link": "http://askgeo.com/new_version#web-api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zpChYnzoGfMo4IqgYj0fxy_Zx32mWeQkJEZ__79I3WGIYr2P",
+  "author": {
+    "name": "askgeo"
+  },
+  "tags": [
+    "Additional",
+    "Servers",
+    "Transition"
+  ],
+  "description": "We've made a significant overhaul of askgeo.com and have introduced a host of additional information you can get based on a position. \nFor a limited time, the old servers will be available for already registered users to allow them time to transition to the new servers."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tienda-nube",
+  "title": "Tienda Nube",
+  "link": "https://github.com/TiendaNube/api-docs",
+  "image": "http://d26lpennugtm8s.cloudfront.net/assets/insti/img/landing/logo.png",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Serialization",
+    "Authentication"
+  ],
+  "description": "This is a REST-style API that uses JSON for serialization and OAuth 2 for authentication."
+}

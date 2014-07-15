@@ -1,0 +1,16 @@
+{
+  "id": "alerts",
+  "title": "Alerts",
+  "link": "http://www.alertsdesktop.com/alerts_api.php",
+  "image": "http://www.alertsdesktop.com/images/logo.png",
+  "author": {
+    "name": "BusinessAlerts"
+  },
+  "tags": [
+    "Manage",
+    "System",
+    "Data",
+    "Developers"
+  ],
+  "description": "Alerts API provides a powerful and flexible way to manage your Alert Group Members and Messages. Developers can use the API to use Instant Notification system from outside the members area. You can add New Alert Group Members as well as Expire / Delete / Renew them. You can also send all types of Alert Messages using this API. You can get Campaigns and Template data by using simple methods of the API."
+}

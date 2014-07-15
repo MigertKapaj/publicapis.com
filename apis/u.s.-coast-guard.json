@@ -1,0 +1,15 @@
+{
+  "id": "u.s.-coast-guard",
+  "title": "U.S. Coast Guard",
+  "link": "http://cgmix.uscg.mil/MARPOL/",
+  "image": "http://cgmix.uscg.mil/MARPOL/Images/MARPOLBanner.png",
+  "author": {
+    "name": "U.S. Coast Guard"
+  },
+  "tags": [
+    "Damage",
+    "Contained",
+    "Accuracy"
+  ],
+  "description": "The U.S. Coast Guard and the United States is not liable for any loss, damage, or harm resulting from the use of information contained in this database, or for any reliance on its accuracy, completeness, or timeliness."
+}

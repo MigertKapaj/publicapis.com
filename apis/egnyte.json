@@ -1,0 +1,16 @@
+{
+  "id": "egnyte",
+  "title": "Egnyte",
+  "link": "https://developers.egnyte.com/docs#Getting",
+  "image": "https://developers.egnyte.com/files/logo_egnyte.png",
+  "author": {
+    "name": "Egnyte"
+  },
+  "tags": [
+    "Secured",
+    "Depending",
+    "Internal",
+    "Authenticate"
+  ],
+  "description": "Before you begin making API calls, you must first authenticate. Our APIs are secured using OAuth 2.0. Depending on whether you are developing a publicly available application or are an Egnyte customer developing for internal use only, you will use one of two different OAuth flows. Note that all URLs described below must be URL encoded. Also note that while SAML-based single sign-on is supported in the Egnyte UI, it is not currently supported as a means to authenticate in the OAuth flow."
+}

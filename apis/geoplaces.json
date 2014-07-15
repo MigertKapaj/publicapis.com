@@ -1,0 +1,15 @@
+{
+  "id": "geoplaces",
+  "title": "GeoPlaces",
+  "link": "http://www.geosvc.com/docs/Connect",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTrxliEgXGojN3p1N0MAScDS14QEtwE5x8Cl7i_qGD1pQq32rb8",
+  "author": {
+    "name": "GeoPlaces"
+  },
+  "tags": [
+    "Service",
+    "Support",
+    "Determined"
+  ],
+  "description": "GeoPlaces Service is the evolution of ZipCode Lookup service. It enhances ZipCode Lookup by adding support for city names. Now you can find near by zip codes and cities, find distance between zip codes and cities, get coordinates of zip codes and cities. Place's coordinates are determined using an approximate center point of the shape."
+}

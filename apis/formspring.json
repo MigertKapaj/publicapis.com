@@ -1,0 +1,15 @@
+{
+  "id": "formspring",
+  "title": "Formspring",
+  "link": "http://new.spring.me/#!/user/api/timeline/responses",
+  "image": "http://cdn.spring.me/img/sprites/icon-logo-wide.png",
+  "author": {
+    "name": "spring.me"
+  },
+  "tags": [
+    "Communicate",
+    "Directly",
+    "Decide"
+  ],
+  "description": "We've been considering a number of different ways to allow users to communicate via Formspring without coming directly to the website. Our users will be the first to know if we decide to implement any of them."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "judo",
+  "title": "Judo",
+  "link": "https://www.judopay.com/Docs/",
+  "image": "https://www.judopay.com/Areas/Docs/content/images/logo/logo-judo.png",
+  "author": {
+    "name": "Judo"
+  },
+  "tags": [
+    "Identify",
+    "Scheme",
+    "Breaking",
+    "Increments"
+  ],
+  "description": "The judoPay API using a http request header to identify the version of the API being requested. You will need to include this \"API-Version\" header on every request. The API version follows the MAJOR.MINOR.PATCH.BUILD versioning scheme, breaking changes to existing functionality are released as MAJOR version increments, new features are released in MINOR version increments, PATCH versions are used for hotfixes and BUILD is only used internally. "
+}

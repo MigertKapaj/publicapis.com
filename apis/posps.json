@@ -1,0 +1,15 @@
+{
+  "id": "posps",
+  "title": "posps",
+  "link": "http://posps.berlios.de/posps-spec/",
+  "image": "http://posps.berlios.de/images/posps-logo.png",
+  "author": {
+    "name": "posps"
+  },
+  "tags": [
+    "Positive",
+    "Development",
+    "Project"
+  ],
+  "description": "The posps specification is initially developed by Rowa. After positive feedback from pharmacy IT system vendors regarding the specification, we have now opted to continue the development of the posps specification and related tools as an open source project. This should make the development process more transparent and ease the communication between the project participants."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "taurusbit",
+  "title": "TaurusBit",
+  "link": "https://www.taurusbit.com/docs/api",
+  "image": "https://www.taurusbit.com/images/header.jpg",
+  "author": {
+    "name": "TaurusBit"
+  },
+  "tags": [
+    "Developer",
+    "Interact",
+    "Fetching",
+    "Transaction."
+  ],
+  "description": "This document is intended to assist software developers who want to develop applications using TaurusBit API. It fully documents our application programming interface (API) that allows developers to interact with our system.\nOur Application Program Interface will allow you to automate the process of making trades, receiving information about your account, fetching history of trades and transactions within your own software."
+}

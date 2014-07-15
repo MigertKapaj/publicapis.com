@@ -1,0 +1,15 @@
+{
+  "id": "google-hosted-libraries",
+  "title": "Google Hosted Libraries",
+  "link": "https://developers.google.com/speed/libraries/devguide",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Provides",
+    "Reliable",
+    "Access"
+  ],
+  "description": "The Google Hosted Libraries provides your applications with stable, reliable, high-speed, globally available access to all of the most popular, open-source JavaScript libraries. "
+}

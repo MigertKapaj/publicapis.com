@@ -1,0 +1,16 @@
+{
+  "id": "tidespy-raw-data",
+  "title": "TideSpy Raw Data",
+  "link": "http://tidespy.com/client/RawApi.php",
+  "image": "http://tidespy.com/images/TidespyCap.png",
+  "author": {
+    "name": "TideSpy"
+  },
+  "tags": [
+    "Service",
+    "Place",
+    "Search",
+    "Locations"
+  ],
+  "description": "The TideSpy Raw Data API calls accept web (HTTP) requests and return JSON-formatted responses.  All requests must contain a valid key which is assigned when signing up for this service. The following request types are supported: The places (locations) for which the other data is availablePlace name searchTide height data for a range of datesWind and Swell forecasts, both in numeric terms and human-friendly text, for the next 6 daysSun and Moon rise and set times and the phase of the moon, for a given range of dates"
+}

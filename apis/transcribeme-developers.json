@@ -1,0 +1,15 @@
+{
+  "id": "transcribeme-developers",
+  "title": "TranscribeMe Developer's",
+  "link": "http://transcribeme.com/api-integration",
+  "image": "http://transcribeme.com/wp-content/uploads/2012/10/api.png",
+  "author": {
+    "name": "TranscribeMe"
+  },
+  "tags": [
+    "Web Service",
+    "Uploadmedia",
+    "Straightforward"
+  ],
+  "description": "The TranscribeMe API gives your service direct access toTranscribeMe's web service that will allow you to link your account with TranscribeMe, upload media, order transcriptions, and receive your transcripts via e-mail. Download our simple and straightforward API document to learn mor"
+}

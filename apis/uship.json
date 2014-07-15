@@ -1,0 +1,16 @@
+{
+  "id": "uship",
+  "title": "uShip",
+  "link": "http://www.uship.com/about/api.aspx",
+  "image": "http://s.ushipcdn.com/public/images/elements/logo/nav_main.png?Lo0P=6f06bcf06ed4aaef8b3a9fa1cfe1f8ab6992",
+  "author": {
+    "name": "uShip"
+  },
+  "tags": [
+    "Partners",
+    "Developers",
+    "Interface",
+    "Flexibility"
+  ],
+  "description": "uShip’s open Application Programming Interface (API) allows partners, affiliates, and 3rd party application developers to interact with the uShip marketplace. Using our API, you can create applications that interface with the uShip platform and build on uShip's existing functionality. Because the API does not depend on the uShip user interface, it gives you the flexibility to create applications that meet your specific business needs."
+}

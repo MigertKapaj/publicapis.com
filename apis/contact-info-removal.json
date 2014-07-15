@@ -1,0 +1,13 @@
+{
+  "id": "contact-info-removal",
+  "title": "Contact Info Removal",
+  "link": "https://www.mashape.com/esseguin/contact-info-removal",
+  "image": "",
+  "author": {
+    "name": "esseguin"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "A collection of functions that will remove contact information (phone numbers, email, and/or addresses) from a string"
+}

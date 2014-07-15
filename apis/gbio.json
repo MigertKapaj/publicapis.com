@@ -1,0 +1,16 @@
+{
+  "id": "gbio",
+  "title": "GBIO",
+  "link": "http://gbio-pbil.ibcp.fr/ws/",
+  "image": "http://gbio-pbil.ibcp.fr/media/images/gbio-m.png",
+  "author": {
+    "name": "GBIO"
+  },
+  "tags": [
+    "Several",
+    "Service",
+    "Developers",
+    "Access"
+  ],
+  "description": "The IBCP have integrated several tools for protein sequence analysis with the Web services technology. These Bioinformatics Web services provide scientists and developers with programmatic access to these tools."
+}

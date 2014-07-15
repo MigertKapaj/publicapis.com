@@ -1,0 +1,15 @@
+{
+  "id": "plancast",
+  "title": "Plancast",
+  "link": "http://plancast.com/api",
+  "image": "http://plancast.com/images/logo_plancast.png",
+  "author": {
+    "name": "Plancast"
+  },
+  "tags": [
+    "Developer",
+    "Interface",
+    "Data"
+  ],
+  "description": "Software developers can use our application programming interface (API) to build applications that exchange data with Plancast programmatically."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "directed-edge",
+  "title": "Directed Edge",
+  "link": "http://developer.directededge.com/",
+  "image": "http://www.directededge.com/images/logo-3.png",
+  "author": {
+    "name": "Directed Edge"
+  },
+  "tags": [
+    "Engine",
+    "Database",
+    "Interface",
+    "Translating"
+  ],
+  "description": "Directed Edge's recommendation engine is built on top of our in-house database.  The database works somewhat differently than traditional databases and its interface is our REST API,\nso it's useful before getting started to have a feel for how to go about translating things from the way that your site models data to the way that our database works."
+}

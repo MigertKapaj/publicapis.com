@@ -1,0 +1,15 @@
+{
+  "id": "netload.in",
+  "title": "Netload.in",
+  "link": "http://api.netload.in/",
+  "image": "",
+  "author": {
+    "name": "Netload.in"
+  },
+  "tags": [
+    "Access",
+    "Working",
+    "Premium"
+  ],
+  "description": "In order to access the Fileinfo interface, you must have a working AUTH-Code. You can apply for an AUTH-Code here. To apply for this you must have a premium or free netload account."
+}

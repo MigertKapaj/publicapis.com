@@ -1,0 +1,15 @@
+{
+  "id": "graph",
+  "title": "Graph",
+  "link": "http://www.dailymotion.com/doc/api/graph-api.html",
+  "image": "http://static1.dmcdn.net/images/header/logo.png.ve5ebb8f8167218981",
+  "author": {
+    "name": "Dailymotion"
+  },
+  "tags": [
+    "Publish",
+    "Data",
+    "Connections"
+  ],
+  "description": "The Graph API is a simple way to access, publish and modify data on Dailymotion. The Graph API presents a simple, consistent view of the Dailymotion objects (e.g., users, videos, playlists, etc.) and connections between them (e.g., friend relationship, user’s posted videos, videos in groups/playlits, etc.)."
+}

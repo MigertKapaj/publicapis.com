@@ -1,0 +1,16 @@
+{
+  "id": "securo",
+  "title": "Securo",
+  "link": "https://api.securo.it/api/doc/",
+  "image": "",
+  "author": {
+    "name": "Securo"
+  },
+  "tags": [
+    "Integrate",
+    "Timestapming",
+    "Access",
+    "Certified "
+  ],
+  "description": "The Securo API allows to easily integrate the process of certification through trusted timestamping into any application through a RESTful HTTP interface. With the Securo API you will have access to the same certified timestamping authority as we use in our products: Securo Mobile and Easytimestamping."
+}

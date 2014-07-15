@@ -1,0 +1,15 @@
+{
+  "id": "getchart",
+  "title": "GetChart",
+  "link": "http://www.zillow.com/howto/api/GetChart.htm",
+  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
+  "author": {
+    "name": "Zillow"
+  },
+  "tags": [
+    "Property",
+    "Optionally",
+    "Data"
+  ],
+  "description": "The GetChart API generates a URL for an image file that displays historical Zestimates for a specific property. The API accepts as input the Zillow Property ID as well as a chart type: either percentage or dollar value change. Optionally, the API accepts width and height parameters that constrain the size of the image. The historical data can be for the past 1 year, 5 years or 10 years. "
+}

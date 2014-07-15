@@ -1,0 +1,16 @@
+{
+  "id": "instamojo",
+  "title": "Instamojo",
+  "link": "https://www.instamojo.com/developers/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNqFrCjSgDfMagT0-w3VkTrvhcjc5ZHMOJkLz1REAYJBj623EC",
+  "author": {
+    "name": "Instamojo"
+  },
+  "tags": [
+    "Programmatically",
+    "Existing",
+    "Application",
+    "Convention"
+  ],
+  "description": "You can now access Instamojo programmatically via the API. With version 1.0β you can query a user's offers, create new and edit existing offers. Since the API is based on REST principles, you can easily write and test applications using standard conventions."
+}

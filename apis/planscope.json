@@ -1,0 +1,15 @@
+{
+  "id": "planscope",
+  "title": "Planscope",
+  "link": "https://planscope.io/help/api",
+  "image": "https://planscope.io/assets/conquer/logo-noshadow-d1d5a93a1d64deb432167470d41e1613.png",
+  "author": {
+    "name": "Planscope"
+  },
+  "tags": [
+    "Progress",
+    "Email",
+    "Specifics"
+  ],
+  "description": "The API docs are a work in progress. Drop an email if you have questions about any specifics."
+}

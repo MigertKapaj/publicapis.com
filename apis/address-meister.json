@@ -1,0 +1,15 @@
+{
+  "id": "address-meister",
+  "title": "Address Meister",
+  "link": "http://www.addressmeister.com/",
+  "image": "http://www.addressmeister.com/images/am_up01.gif",
+  "author": {
+    "name": "Address Meister"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Verification"
+  ],
+  "description": "Address Meister is a web-service for postal address verification and correction. It provides current, high-quality address data and verification logic without the cost and complexity of maintaining the nation's address database in-house."
+}

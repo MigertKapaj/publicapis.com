@@ -1,0 +1,15 @@
+{
+  "id": "mapstraction",
+  "title": "Mapstraction",
+  "link": "http://mapstraction.com/",
+  "image": "http://mapstraction.com/images/mapstraction-logo.png",
+  "author": {
+    "name": "Mapstraction"
+  },
+  "tags": [
+    "Provides",
+    "Designed",
+    "Smoothly"
+  ],
+  "description": "Mapstraction is a Javascript library that provides a single, common interface for a wide variety of Javascript map APIs. It’s designed to enable a developer to switch from one maps API to another as smoothly and as quickly as possible."
+}

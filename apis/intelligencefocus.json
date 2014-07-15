@@ -1,0 +1,16 @@
+{
+  "id": "intelligencefocus",
+  "title": "IntelligenceFocus",
+  "link": "http://www.intelligencefocus.com/en/api.html",
+  "image": "http://www.intelligencefocus.com/en/images/if_logo.gif",
+  "author": {
+    "name": "IntelligenceFocus"
+  },
+  "tags": [
+    "Environment",
+    "Data",
+    "System",
+    "Process"
+  ],
+  "description": "Your on-demand applications may have to fit into an existing environment that includes a variety of data sources and applications. IntelligenceFocus' APIs provide the resources for integrating those applications into your current environment to access data in other systems, to create mash-ups that combine data from multiple sources, or to include external systems into your processes."
+}

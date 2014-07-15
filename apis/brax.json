@@ -1,0 +1,15 @@
+{
+  "id": "brax",
+  "title": "BRAX",
+  "link": "http://www.bordom.net/developer/",
+  "image": "http://www.bordom.net/images/promo/brax.jpg",
+  "author": {
+    "name": "BRAX"
+  },
+  "tags": [
+    "Provide",
+    "Database",
+    "Publishing"
+  ],
+  "description": "The API aims to provide a complete layer between your application and the database on bordom.net. There are many commands available which facilitate the publishing of content on bordom.net."
+}

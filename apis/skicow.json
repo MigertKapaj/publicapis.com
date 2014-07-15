@@ -1,0 +1,15 @@
+{
+  "id": "skicow",
+  "title": "Skicow",
+  "link": "http://www.skicow.com/content/view/18/42/",
+  "image": "http://www.skicow.com/templates/skicowjoomlatemplate1/images/SkicowLogoBW160x160.gif",
+  "author": {
+    "name": "Skicow"
+  },
+  "tags": [
+    "Searches",
+    "Designed",
+    "Integrates"
+  ],
+  "description": "The Skicow API lets you embed ski searches in your own web pages. The API is designed to be very simple to use and customizable so that it integrates with your web site seamlessly. "
+}

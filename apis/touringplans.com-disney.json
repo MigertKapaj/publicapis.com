@@ -1,0 +1,15 @@
+{
+  "id": "touringplans.com-disney",
+  "title": "TouringPlans.com Disney",
+  "link": "http://touringplans.com/api",
+  "image": "http://assets0.touringplans.com/images/logo_type.png?1397052768",
+  "author": {
+    "name": "TouringPlans.com"
+  },
+  "tags": [
+    "Disney",
+    "Data",
+    "Project"
+  ],
+  "description": "TouringPlans.com has an API for Disney data!  If you're a programmer/developer, you can use our data to help you build or add to your own projects, free of charge.  We only ask for link attribution!"
+}

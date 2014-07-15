@@ -1,0 +1,15 @@
+{
+  "id": "invoicing",
+  "title": "Invoicing",
+  "link": "https://www.x.com/developers/paypal/products/invoicing",
+  "image": "https://www.paypalobjects.com/webstatic/developer/logo_paypal_developer.png",
+  "author": {
+    "name": "Paypal"
+  },
+  "tags": [
+    "Invoicing",
+    "Business Solutions",
+    "Reconciliation Of Invoices"
+  ],
+  "description": "Merchants, developers, and business solution providers use Invoicing APIs to automate the creation, delivery, tracking, and reconciliation of invoices with an integrated payments solution."
+}

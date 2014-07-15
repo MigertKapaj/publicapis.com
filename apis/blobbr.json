@@ -1,0 +1,15 @@
+{
+  "id": "blobbr",
+  "title": "Blobbr",
+  "link": "http://blobbr.com/docs/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZksBgZ1kTi27D-mRu1p39nlxY8-VWm1IRHY-tXbpLTb_3D2uv",
+  "author": {
+    "name": "Blobbr"
+  },
+  "tags": [
+    "Requires",
+    "General",
+    "Data"
+  ],
+  "description": "The Blobbr API is a RESTful API. Each call requires a specific request type (GET, POST, PUT or DELETE). The documentation states which request type is required but the general rule is GET to request data, POST to add or edit a record, PUT to flag a record, and DELETE to delete a record."
+}

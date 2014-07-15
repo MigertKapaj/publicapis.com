@@ -1,0 +1,16 @@
+{
+  "id": "events",
+  "title": "Events",
+  "link": "https://siftscience.com/docs",
+  "image": "https://siftscience.com/images/site/logo.png",
+  "author": {
+    "name": "Siftscience"
+  },
+  "tags": [
+    "Frand",
+    "Requires",
+    "Interact",
+    "Sequences"
+  ],
+  "description": "Credit cards don’t commit fraud, people do. Detecting fraud requires analyzing how users interact with your business. At Sift, we call these interactions events. Sift’s machine learning finds your business’s fraud signals from the event sequences and details you send. "
+}

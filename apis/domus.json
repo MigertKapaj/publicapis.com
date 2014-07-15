@@ -1,0 +1,16 @@
+{
+  "id": "domus",
+  "title": "Domus",
+  "link": "http://www.domus.net/api",
+  "image": "http://www.domus.net/sales/images/domusLogo.png",
+  "author": {
+    "name": "domus"
+  },
+  "tags": [
+    "Existing",
+    "Websites",
+    "Developers",
+    "Designers"
+  ],
+  "description": "The Domus API allows Domus Estate Agent and Letting Agency Software to work with your existing website. You can now seamlessly integrate Domus property information by making some minor changes. Domus websites have always been built in this way and we have now made this facility available to external developers and web designers."
+}

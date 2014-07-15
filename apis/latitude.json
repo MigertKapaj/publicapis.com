@@ -1,0 +1,15 @@
+{
+  "id": "latitude",
+  "title": "Latitude",
+  "link": "https://developers.google.com/latitude/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Retrieve",
+    "Data",
+    "Takeout"
+  ],
+  "description": "The Latitude API has been retired as of August 9th, 2013 and is no longer available. Users can retrieve their Location History data through Google Takeout."
+}

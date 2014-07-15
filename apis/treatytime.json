@@ -1,0 +1,15 @@
+{
+  "id": "treatytime",
+  "title": "Treatytime",
+  "link": "https://treatytime.com/developers",
+  "image": "https://treatytime.com/img/treatyFeatherWhite.png",
+  "author": {
+    "name": "Treaty"
+  },
+  "tags": [
+    "Connection",
+    "Editors",
+    "Typically"
+  ],
+  "description": "This defines and handles the connection to the Treaty server and contains (among other things) the list of the people and a list of the editors used during the session. Sessions will typically have multiple users and may have multiple editors."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "virgin-money-giving",
+  "title": "Virgin Money Giving",
+  "link": "http://api.jo.je/virginmoneygiving/",
+  "image": "",
+  "author": {
+    "name": "Virgin Money Giving"
+  },
+  "tags": [
+    "Data",
+    "Variables",
+    "Details"
+  ],
+  "description": "Data provided via the API include variables such as, Donation amount, Gift Aid amount, Charity, Donations (including messages, names, dates & amounts from users)... more details in the API section."
+}

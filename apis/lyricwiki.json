@@ -1,0 +1,15 @@
+{
+  "id": "lyricwiki",
+  "title": "LyricWiki",
+  "link": "http://api.wikia.com/wiki/LyricWiki_API",
+  "image": "http://img1.wikia.nocookie.net/__cb22/api2509/images/8/89/Wiki-wordmark.png",
+  "author": {
+    "name": "Wikia"
+  },
+  "tags": [
+    "Provides",
+    "Apps",
+    "Display"
+  ],
+  "description": "The LyricWiki API provides a convenient way for plugins and apps to easily find and display lyrics from LyricWiki."
+}

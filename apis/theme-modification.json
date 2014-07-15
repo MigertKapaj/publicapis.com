@@ -1,0 +1,15 @@
+{
+  "id": "theme-modification",
+  "title": "Theme Modification",
+  "link": "http://codex.wordpress.org/Theme_Modification_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Functions",
+    "Related",
+    "Authors"
+  ],
+  "description": "Introduced in WordPress 2.1.0, Theme Modification API consists of all functions and hooks that are part of the WordPress API related to the use of Theme modification values. These functions can be used by theme authors to save (and retrieve) modifications to their themes as WordPress options. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "whalewisdom",
+  "title": "Whalewisdom",
+  "link": "http://whalewisdom.com/shell/api_help",
+  "image": "http://s1.2mdn.net/viewad/4310576/IBFX_88x31.jpg",
+  "author": {
+    "name": "Whalewisdom"
+  },
+  "tags": [
+    "Database",
+    "Retrival",
+    "Authenticate"
+  ],
+  "description": " The Whalewisdom API lets you interact with our 13F database in a variety of ways.  Although most of the functionality provided through the API is already available by utilizing the website, the API is provided to help streamline and automate data retrieval. In order to use the API you must have an account registered with Whalewisdom.com. Once registered you will need to login and go to your user profile to create new API access keys.  These will be used to authenticate your API calls.\n"
+}

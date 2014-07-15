@@ -1,0 +1,16 @@
+{
+  "id": "raveal",
+  "title": "Raveal",
+  "link": "http://raveal.com/api.html",
+  "image": "http://raveal.com/images/logo.png",
+  "author": {
+    "name": "Raveal"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Retrieving",
+    "Supported"
+  ],
+  "description": "The REST API requires user authentication to access or publish data. For instance, functionality on Raveal.com available to logged in users, such as checking profile visitor activity or retrieving profile data, are protected through the API. Currently, only HTTP Basic Authentication over HTTPS is supported."
+}

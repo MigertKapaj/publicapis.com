@@ -1,0 +1,16 @@
+{
+  "id": "the-enthusem",
+  "title": "The Enthusem",
+  "link": "http://enthusem.com/developer",
+  "image": "http://enthusem.com/assets/images/custom/enthusem-com-logo.png",
+  "author": {
+    "name": "Enthusem"
+  },
+  "tags": [
+    "Allows",
+    "Interface",
+    "CRM",
+    "Branded"
+  ],
+  "description": "The Enthusem API (application programming interface) allows you to use the backend functions of Enthusem from your own user interface.For example, if you have yor own CRM system and would like your users to send cards from it, you can use our API so your CRM system can talk back and forth with Enthusem. If you wanted to create a branded card store for your users, you could create your own user interface with your own branding, then tie into Enthusem's backend to  handle the fulfillment.\n  "
+}

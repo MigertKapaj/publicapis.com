@@ -1,0 +1,16 @@
+{
+  "id": "oneview",
+  "title": "OneView",
+  "link": "http://www.loopfuse.com/product/api.php",
+  "image": "http://www.loopfuse.com/images/masthead/masthead-logo.png",
+  "author": {
+    "name": "Loopfuse"
+  },
+  "tags": [
+    "Internal",
+    "Interpretation",
+    "Encrypted",
+    "Secytity"
+  ],
+  "description": "Interact with your OneView account via WebService.Create mashups for your own internal use.Fully documented API calls and response codes.JSON-format responses for easy interpretation.Encrypted connections for added security."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "metricly",
+  "title": "Metricly",
+  "link": "http://developer.metricly.com/wiki/CustomData",
+  "image": "http://developer.metricly.com/chrome/site/your_project_logo.png",
+  "author": {
+    "name": "Metricly"
+  },
+  "tags": [
+    "Metricly",
+    "Database",
+    "Generate",
+    "Dashboard"
+  ],
+  "description": "Our custom data API allows you to push any type of data up to Metricly for viewing as a metric (including metrics with subtotals and filters). The most common reason to do this, is if you have data in your own internal database, and you'd like to generate a Metricly dashboard that summarize that data.  \n"
+}

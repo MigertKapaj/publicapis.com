@@ -1,0 +1,15 @@
+{
+  "id": "minicloud",
+  "title": "MiniCloud",
+  "link": "https://www.minicloud.com/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTMlX2VaSB84uBe8l23sMfEC17-ivifyGOU8qoC594Dudbk_YVGgw",
+  "author": {
+    "name": "MiniCloud"
+  },
+  "tags": [
+    "Service",
+    "Connection",
+    "Personal"
+  ],
+  "description": "Our REST API allows you to create, modify, and terminate any of our services programmatically over a secure connection. It has been simplified and made easy to integrate with your existing business or personal applications."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "quomage",
+  "title": "Quomage",
+  "link": "http://www.quomage.com/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQY6f3P69ktV8oQMCzKu-9d2H-qmqXsh3TGVpO8Pm9PccSuHSYWeQ",
+  "author": {
+    "name": "Quomage"
+  },
+  "tags": [
+    "Creat",
+    "Edit",
+    "Images"
+  ],
+  "description": "Quomage API allows you to create, edit and search images of quotes. For examples, see the feed. Before you start, you need to request an API key by clicking \"Request key\" above."
+}

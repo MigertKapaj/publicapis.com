@@ -1,0 +1,16 @@
+{
+  "id": "hexonet",
+  "title": "Hexonet",
+  "link": "https://www.hexonet.net/software/reseller-api",
+  "image": "https://www.hexonet.net/sites/all/themes/hexonet/img/logo-hexonet.gif",
+  "author": {
+    "name": "HEXONET"
+  },
+  "tags": [
+    "Resellers",
+    "Intefaces",
+    "Developers",
+    "Expertise"
+  ],
+  "description": "For larger resellers and partner companies of HEXONET, a complete set of APIs are provided.  These APIs can be accessed using six (6) different, intefaces which allows developers to choose the method that best matches their company's expertise."
+}

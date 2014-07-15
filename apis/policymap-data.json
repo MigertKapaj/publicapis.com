@@ -1,0 +1,16 @@
+{
+  "id": "policymap-data",
+  "title": "PolicyMap Data",
+  "link": "http://www.policymap.com/linking-to-us.html",
+  "image": "http://www.policymap.com/images/PolicyMap/policymap_corner_logo.png",
+  "author": {
+    "name": "PolicyMap"
+  },
+  "tags": [
+    "License",
+    "Web",
+    "Maps",
+    "Geographic"
+  ],
+  "description": "License our data for your web application using our Data API. Our Data API is now in use by a number of sites using both Google and Bing \nmaps – continuously feeding those applications with updated geographic data."
+}

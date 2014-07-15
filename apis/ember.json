@@ -1,0 +1,15 @@
+{
+  "id": "ember",
+  "title": "Ember",
+  "link": "http://emberjs.com/api/",
+  "image": "http://emberjs.com/images/ember_logo.png",
+  "author": {
+    "name": "Ember"
+  },
+  "tags": [
+    "Functions",
+    "Namespace",
+    "Future"
+  ],
+  "description": "All Ember methods and functions are defined inside of this namespace. You generally should not add new properties to this namespace as it may be overwritten by future versions of Ember."
+}

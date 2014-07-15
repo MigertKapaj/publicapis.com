@@ -1,0 +1,15 @@
+{
+  "id": "feedblitz",
+  "title": "FeedBlitz",
+  "link": "http://www.feedblitz.com/api/",
+  "image": "https://s3.amazonaws.com/assets.feedblitz.com/wp-content/themes/news/images/sprite.png",
+  "author": {
+    "name": "FeedBlitz"
+  },
+  "tags": [
+    "Innvative",
+    "Data",
+    "Comprehensive"
+  ],
+  "description": "The FeedBlitz API enables users to access FeedBlitz features programmatically, allowing innovative new applications based on and including FeedBlitz data and functionality. The API enables comprehensive integration at the data and application layers using a consistent and easy to understand interface."
+}

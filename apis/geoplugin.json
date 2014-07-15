@@ -1,0 +1,15 @@
+{
+  "id": "geoplugin",
+  "title": "geoPlugin",
+  "link": "http://www.geoplugin.com/webservices/json",
+  "image": "http://cdn.geoplugin.com/images/geo-logo.jpg",
+  "author": {
+    "name": "geoPlugin"
+  },
+  "tags": [
+    "Directly",
+    "Variables",
+    "Provided"
+  ],
+  "description": "The JSON web service 1) allows you to directly program your back-end JSON scripts to deliver dynamic geo-localized pages using the JSON variables provided by geoPlugin. "
+}

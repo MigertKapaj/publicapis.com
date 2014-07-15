@@ -1,0 +1,16 @@
+{
+  "id": "elastic-load-balancing",
+  "title": "Elastic Load Balancing ",
+  "link": "http://aws.amazon.com/elasticloadbalancing/",
+  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Distributes",
+    "Instances",
+    "Required",
+    "Capacity"
+  ],
+  "description": "Elastic Load Balancing automatically distributes incoming application traffic across multiple Amazon EC2 instances. It enables you to achieve greater levels of fault tolerance in your applications, seamlessly providing the required amount of load balancing capacity needed to distribute application traffic."
+}

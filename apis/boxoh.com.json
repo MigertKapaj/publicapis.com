@@ -1,0 +1,16 @@
+{
+  "id": "boxoh.com",
+  "title": "Boxoh.com",
+  "link": "http://www.boxoh.com/api/docs/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn5rE-2yrMAWUebQRrMLCPY8IHFlttI5Q82b4z6GUYuVOoi96zRA",
+  "author": {
+    "name": "Boxoh.com"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Several",
+    "Requests"
+  ],
+  "description": "Boxoh.com is a simplified gateway to multiple package tracking services.  Our API enables automated access to shipping data in several convenient formats. If you have any questions, comments, bug reports, or feature requests, please email them to support@boxoh.com."
+}

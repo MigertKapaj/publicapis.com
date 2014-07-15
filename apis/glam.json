@@ -1,0 +1,16 @@
+{
+  "id": "glam",
+  "title": "Glam",
+  "link": "http://developer.glam.com/",
+  "image": "http://developer.glam.com/chrome/site/glam_banner.png",
+  "author": {
+    "name": "Glam"
+  },
+  "tags": [
+    "Platform",
+    "Tools",
+    "Widgets",
+    "Engagement"
+  ],
+  "description": "Glam Apps is a new kind of application platform focused on premium applications, tools, and widgets for media publishers and bloggers. Glam Apps is one-stop shopping for publisher-centric apps to to increase traffic and engagement, author content, and create new revenue streams through ad-supported apps.\n"
+}

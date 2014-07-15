@@ -1,0 +1,15 @@
+{
+  "id": "time-zone",
+  "title": "Time Zone",
+  "link": "http://www.worldweatheronline.com/time-zone-api.aspx",
+  "image": "http://cdn.worldweatheronline.net/staticv3/images/logo.jpg",
+  "author": {
+    "name": "Worldweatheronline"
+  },
+  "tags": [
+    "Request",
+    "Parameters",
+    "Separated"
+  ],
+  "description": "Our Time Zone API feed request follows simple HTTP GET syntax: start with a base URL and then add parameters and values after a question mark (?). Multiple parameters are separated by an ampersand (&). "
+}

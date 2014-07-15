@@ -1,0 +1,15 @@
+{
+  "id": "gosquared",
+  "title": "Gosquared",
+  "link": "https://www.gosquared.com/developer/api/",
+  "image": "https://static.gosquared.com/images/nav/logo.png",
+  "author": {
+    "name": "GoSquared"
+  },
+  "tags": [
+    "Historical",
+    "Information",
+    "Manage"
+  ],
+  "description": "The GoSquared API is a fast, powerful way to retrieve current and historical analytics information that updates in real-time. It also allows you to programmatically manage GoSquared accounts."
+}

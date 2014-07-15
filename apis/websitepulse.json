@@ -1,0 +1,16 @@
+{
+  "id": "websitepulse",
+  "title": "WebSitePulse",
+  "link": "http://www.websitepulse.com/utilities/api.php",
+  "image": "http://www.websitepulse.com/img/newlogo2.gif",
+  "author": {
+    "name": "WebSitePulse"
+  },
+  "tags": [
+    "Provider",
+    "Performance",
+    "Network",
+    "System"
+  ],
+  "description": "WebSitePulse is a leading provider of global, independent and objective monitoring of the availability and performance of web sites, servers and network components, web applications and e-business transactions, web-based and e-mail systems."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "taxifarefinder",
+  "title": "TaxiFareFinder",
+  "link": "http://www.taxifarefinder.com/api.php",
+  "image": "http://www.taxifarefinder.com/images/logo1-165.png",
+  "author": {
+    "name": "TaxiFareFinder"
+  },
+  "tags": [
+    "Provides",
+    "Considered",
+    "Interested"
+  ],
+  "description": "TaxiFareFinder provides an API for use in finding taxi fares. This API is currently in beta. As such, the following documentation should be considered provisional and subject to change. If you are interested in participating in the beta release, please contact us. "
+}

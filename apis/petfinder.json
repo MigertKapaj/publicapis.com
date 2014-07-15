@@ -1,0 +1,16 @@
+{
+  "id": "petfinder",
+  "title": "Petfinder",
+  "link": "http://www.petfinder.com/developers/api-docs",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStQLFCNBFkxEVMLHJwFA15aRcOyINxogOB1ycBUyhcUp_1gx3aZg",
+  "author": {
+    "name": "Petfinder"
+  },
+  "tags": [
+    "Access",
+    "Database",
+    "Adoptable",
+    "Pets"
+  ],
+  "description": "The Petfinder API gives developers access to access Petfinder's database of over 300,000 adoptable pets and 11,000 animal welfare organizations (AWO). In addition to searching for adoptable pets on the Petfinder.com web site, you can use the API to create your own dynamic pet web sites or applications, using the same data we use on Petfinder.com. "
+}

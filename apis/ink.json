@@ -1,0 +1,15 @@
+{
+  "id": "ink",
+  "title": "Ink",
+  "link": "https://developers.inkfilepicker.com/docs/",
+  "image": "https://d3urzlae3olibs.cloudfront.net/ddfab59/img/ink/logo.png",
+  "author": {
+    "name": "Ink"
+  },
+  "tags": [
+    "Suddenly",
+    "Dropbox",
+    "Server"
+  ],
+  "description": "With Ink and the Ink file picker, your website suddenly got a whole lot more powerful - import content from Dropbox, save a photo back to Facebook, all without having to deal with OAuth or server-side APIs."
+}

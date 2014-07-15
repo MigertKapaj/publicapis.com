@@ -1,0 +1,15 @@
+{
+  "id": "kounta",
+  "title": "Kounta",
+  "link": "http://developer.kounta.com/documentation/",
+  "image": "https://api.kounta.com",
+  "author": {
+    "name": "Kounta"
+  },
+  "tags": [
+    "Integration",
+    "Application",
+    "Content"
+  ],
+  "description": "Kounta uses an OAuth 2.0 compliant RESTful API for easy integration with third-party applications. When sending data via POST or PUT, specify the format of the data you’re sending in the Content‑Type header of your request. Acceptable values are text/xml, application/xml and application/json. Any other value will result in a 400 Bad Request response status."
+}

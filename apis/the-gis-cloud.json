@@ -1,0 +1,16 @@
+{
+  "id": "the-gis-cloud",
+  "title": "The GIS Cloud",
+  "link": "http://dev.giscloud.com/",
+  "image": "http://developers.giscloud.com/assets/about_apps.png",
+  "author": {
+    "name": "GIS Cloud"
+  },
+  "tags": [
+    "Contains",
+    "Documentation",
+    "Leverage",
+    "Advantage"
+  ],
+  "description": " The GIS Cloud developers’ site. This site contains introductory texts, HOWTO’s, API documentation, and various other things useful to developers. It will help you leverage the GIS Cloud platform, whether you’re taking advantage of the API’s integration with our applications or building your own."
+}

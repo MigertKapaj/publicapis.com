@@ -1,0 +1,15 @@
+{
+  "id": "moviepilot",
+  "title": "moviepilot",
+  "link": "http://code.google.com/p/moviepilot-api/wiki/IncludeResources",
+  "image": "http://www.gstatic.com/codesite/ph/images/defaultlogo.png",
+  "author": {
+    "name": "moviepilot"
+  },
+  "tags": [
+    "Datatypes",
+    "Relation",
+    "Object"
+  ],
+  "description": "The \"include\" parameter can be added to include datatypes. There must be a relation between the object you ask for and the object you want to include."
+}

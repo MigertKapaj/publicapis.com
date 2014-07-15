@@ -1,0 +1,15 @@
+{
+  "id": "sculpteo",
+  "title": "Sculpteo",
+  "link": "http://www.sculpteo.com/en/developer/webapi/",
+  "image": "http://www.sculpteo.com/media/picture/original/logo_main_size_410.jpg",
+  "author": {
+    "name": "Sculpteo"
+  },
+  "tags": [
+    "Connect",
+    "Software",
+    "Documentation"
+  ],
+  "description": "Sculpteo is an open infrastructure. We build easy-to-use APIs to assure you that you will be able to rapidly connect your own software / infrastructure to Sculpteo. This the documentation of what APIs currently available. This list will grow in the future, keep in sync !"
+}

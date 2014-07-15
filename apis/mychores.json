@@ -1,0 +1,16 @@
+{
+  "id": "mychores",
+  "title": "MyChores",
+  "link": "http://www.mychores.co.uk/api",
+  "image": "http://www.programmableweb.com/images/apis/at3360.png",
+  "author": {
+    "name": "MyChores"
+  },
+  "tags": [
+    "Database",
+    "Resources",
+    "HTTP",
+    "Request"
+  ],
+  "description": "The MyChores Application Programming Interface (API) allows external programmers to interact with the MyChores database. At the moment it is still work-in-progress. An application sends its request via a URI, and MyChores responds with the result. The result may be in XML or JavaScript Object Notation  (JSON) depending on the format requested. For most resources the application will need to autheticate using HTTP Basic Authentication so that the MyChores API knows who is making the request. The only current exception is Site Statistics."
+}

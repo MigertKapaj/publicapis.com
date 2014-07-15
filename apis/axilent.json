@@ -1,0 +1,15 @@
+{
+  "id": "axilent",
+  "title": "Axilent",
+  "link": "https://www.axilent.net/api/dir/",
+  "image": "",
+  "author": {
+    "name": "Axilent"
+  },
+  "tags": [
+    "Behavior",
+    "Reporting",
+    "Purposes"
+  ],
+  "description": "Registers a trigger. Triggers are indications about user behavior and intent, sent back to Axilent to be used for reporting and personalization purposes."
+}

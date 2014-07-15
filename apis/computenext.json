@@ -1,0 +1,16 @@
+{
+  "id": "computenext",
+  "title": "Computenext",
+  "link": "https://www.computenext.com/computenext-api/",
+  "image": "https://www.computenext.com/wp-content/uploads/2013/03/logo_website1-300x70.png",
+  "author": {
+    "name": "ComputeNext"
+  },
+  "tags": [
+    "Search",
+    "Discover",
+    "Service",
+    "Hosting"
+  ],
+  "description": "In this overview we show you how to dip your toes in, to search and discover IaaS from over 25 cloud service providers around the world. With ComputeNext you can launch cloud servers in under 5 minutes. Using the ComputeNext marketplace you can pick and choose a cloud hosting provider that best suits you."
+}

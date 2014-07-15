@@ -1,0 +1,15 @@
+{
+  "id": "message-bus",
+  "title": "Message Bus",
+  "link": "https://www.messagebus.com/documentation/",
+  "image": "https://www.messagebus.com/img/logo.png",
+  "author": {
+    "name": "Message Bus"
+  },
+  "tags": [
+    "Provides",
+    "Provides",
+    "Access"
+  ],
+  "description": "Message Bus provides a REST API and several language-specific wrappers (SDKs) that provides full access to all platform functionality."
+}

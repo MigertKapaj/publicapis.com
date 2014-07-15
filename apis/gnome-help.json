@@ -1,0 +1,15 @@
+{
+  "id": "gnome-help",
+  "title": "GNOME HELP",
+  "link": "https://developer.gnome.org/",
+  "image": "https://developer.gnome.org/skin/gnome-logo-devcenter.png",
+  "author": {
+    "name": "GNOME HELP"
+  },
+  "tags": [
+    "System",
+    "Requires",
+    "Provided"
+  ],
+  "description": "Even though it's extremely user-friendly, GNOME is a large and complex system, and thus, requires some learning to use to the fullest. To make that easier, we've provided some very useful documentation."
+}

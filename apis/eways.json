@@ -1,0 +1,16 @@
+{
+  "id": "eways",
+  "title": "eWAY's",
+  "link": "http://www.eway.com.au/developers/api/rapid-3-1",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR5zkDooXnC7-joAO9C56hw9H9BlKl5gPl8NICe3dXW7PGr4CBC",
+  "author": {
+    "name": "eWAY"
+  },
+  "tags": [
+    "Payments",
+    "Responsive",
+    "Compiance",
+    "Data"
+  ],
+  "description": "eWAY's Rapid 3.1 API includes Responsive Hosted Payments, redirecting customers to a hosted payment page displaying a custom theme and responsive design to cater for the particular device used by each customer. Merchants have complete control over the look and feel of the payment pages while reducing the scope for PCI DSS compliance with all credit card data capture on the eWAY-hosted page."
+}

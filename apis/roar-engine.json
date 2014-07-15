@@ -1,0 +1,15 @@
+{
+  "id": "roar-engine",
+  "title": "Roar Engine",
+  "link": "https://github.com/roarengine/roar-docs",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Scriptable",
+    "Exposes",
+    "Consume"
+  ],
+  "description": "Welcome to Roar, an asynchronous, scriptable, server-side game mechanics engine that exposes an HTTP Web API for you to consume from your application."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "freshdesk",
+  "title": "Freshdesk",
+  "link": "http://freshdesk.com/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQtPH4UJdC_WaEYfJ9l8BETykTAT__BEekXACaDeohNZDpEyRx7",
+  "author": {
+    "name": "Freshdesk"
+  },
+  "tags": [
+    "Transfer",
+    "Perform",
+    "Data"
+  ],
+  "description": "Freshdesk's APIs belong to the REpresentational State Transfer (REST) category. This allows you to perform \"RESTful\" operations like read, modify, add or delete data from your helpdesk. "
+}

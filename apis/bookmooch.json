@@ -1,0 +1,15 @@
+{
+  "id": "bookmooch",
+  "title": "BookMooch",
+  "link": "http://bookmooch.com/api/",
+  "image": "http://i.bookmooch.com/images/bookmooch_logo.gif",
+  "author": {
+    "name": "BookMooch"
+  },
+  "tags": [
+    "Support",
+    "Returned",
+    "Production"
+  ],
+  "description": "A number of the XML APIs support an &inc= parameter, which lets you specify which fields you want returned in your XML reply. This helps you get a very short reply, easier to parts and look at. In most cases, you will want to use inc= on your production code to decrease application latency."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "energy-saver",
+  "title": "Energy Saver",
+  "link": "https://developers.buildingsapi.lbl.gov/hes/documentation/api-definitions",
+  "image": "https://developers.buildingsapi.lbl.gov/logo_eiq.png",
+  "author": {
+    "name": "Berkeley Lab"
+  },
+  "tags": [
+    "Service",
+    "Analysis",
+    "Portal"
+  ],
+  "description": "Welcome to the Home Energy Saver™ APIs portal – home of the world’s most comprehensive web service for home energy analysis."
+}

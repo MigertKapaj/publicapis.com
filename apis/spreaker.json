@@ -1,0 +1,16 @@
+{
+  "id": "spreaker",
+  "title": "Spreaker ",
+  "link": "http://developers.spreaker.com",
+  "image": "http://developers.spreaker.com/_/rsrc/1374742755678/config/customLogo.gif?revision=3",
+  "author": {
+    "name": "Spreaker "
+  },
+  "tags": [
+    "Host",
+    "Listen",
+    "Radio",
+    "Web service"
+  ],
+  "description": "Spreaker platform enables you to host and listen thousands of radio shows. Spreaker provides a REST web service that enables developers to read and write  data to Spreaker.\n"
+}

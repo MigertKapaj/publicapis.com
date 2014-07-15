@@ -1,0 +1,15 @@
+{
+  "id": "partner",
+  "title": "Partner",
+  "link": "http://authoritylabs.com/api/partner-api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSu1IvRtzuBwldYq29p5-ALECThiXlTTci3A7zwN9eVeAw-fGFJ",
+  "author": {
+    "name": "AuthorityLabs"
+  },
+  "tags": [
+    "Possible",
+    "Delayed",
+    "Data"
+  ],
+  "description": "We have two separate types of queues which make it possible for us to manage large volumes of keywords. The majority of your keywords should be queued using the delayed queue, which guarantees data within 24 hours."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "taulias",
+  "title": "Taulia's",
+  "link": "http://www.taulia.com/api",
+  "image": "http://www.taulia.com/templates/taulia/images/iface/logos.png",
+  "author": {
+    "name": "Taulia"
+  },
+  "tags": [
+    "Customers",
+    "Integrate",
+    "Provide",
+    "Service"
+  ],
+  "description": "Taulia's API is designed to allow partners and customers the ability to easily integrate Taulia’s solution into their platform and provide dynamic discounting, e-invoicing and supplier services to a broader user base."
+}

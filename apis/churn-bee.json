@@ -1,0 +1,16 @@
+{
+  "id": "churn-bee",
+  "title": "Churn Bee",
+  "link": "https://churnbee.com/docs",
+  "image": "https://churnbee.com/bundles/prelovacdocs/images/logo.png",
+  "author": {
+    "name": "Churn Bee"
+  },
+  "tags": [
+    "Dashboard",
+    "Visual",
+    "Aquisition",
+    "Retention"
+  ],
+  "description": "Churn Bee is a completely different take on a SaaS metrics dashboard.Once integrated via an API, you will immediately \nstart getting a visual representation of how your startup is making progress from day to day.\nWe'll do all the math and number crunching, so that you can easily understand acquisition, activation, retention, growth and\n other relevant metrics for your startup.\nIn order to provide you with these metrics, we'll need some data. We currently provide ready made libraries for PHP and \nJavaScript. Along with these libraries we also provide REST API so you can integrated in any language. "
+}

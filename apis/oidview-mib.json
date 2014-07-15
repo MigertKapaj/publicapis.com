@@ -1,0 +1,15 @@
+{
+  "id": "oidview-mib",
+  "title": "OiDViEW MIB",
+  "link": "http://www.oidview.com/api/api.html",
+  "image": "",
+  "author": {
+    "name": "OiDViEW MIB"
+  },
+  "tags": [
+    "Database",
+    "Network",
+    "Non commercial"
+  ],
+  "description": "OiDViEW MIB API allows anyone to query our online SNMP MIB database from anywhere in the world. There are thousands of public domain MIBs from hundreds of Network Management vendors in our MIB database. These MIBs are usually updated weekly. To use the API, you will need a key which must be included with all requests. It is freely available for non-commercial use by any developer and may be licensed for commercial use. The free key allows you to make a maximum of 100 requests per day."
+}

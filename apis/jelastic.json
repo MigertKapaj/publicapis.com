@@ -1,0 +1,16 @@
+{
+  "id": "jelastic",
+  "title": "Jelastic",
+  "link": "http://docs.jelastic.com/pba-billing-system",
+  "image": "http://docs.jelastic.com/wp/assets/img/jelastic-brand.png",
+  "author": {
+    "name": "Jelastic"
+  },
+  "tags": [
+    "Instruction",
+    "Account",
+    "Hosting",
+    "Automation"
+  ],
+  "description": "This step-by-step instruction shows you how to convert and refill your account if your hosting provider uses PBA (Parallels Business Automation) system.At the moment PBA system is used by Tsukaeru, Websolute, Lunacloud and Hostnet."
+}

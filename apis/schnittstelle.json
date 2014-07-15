@@ -1,0 +1,13 @@
+{
+  "id": "schnittstelle",
+  "title": "Schnittstelle",
+  "link": "http://www.ticcats.de/schnittstelle-api",
+  "image": "http://www.ticcats.de/images/xticcats_header.png.pagespeed.ic.V4Gbv_A-hv.png",
+  "author": {
+    "name": "Ticcats"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "ticcats bietet Euch den Zugriff auf diese Datenbank (mit durchschnittlich über 500.000 Eventdaten pro Jahr) über eine Schnittstelle (API) um Eure Geschäftsmodelle zu unterstützen, Angebote zu erweitern oder mit Hilfe dieser Daten Anwendungen zu bauen."
+}

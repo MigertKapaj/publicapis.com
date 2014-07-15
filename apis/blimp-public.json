@@ -1,0 +1,15 @@
+{
+  "id": "blimp-public",
+  "title": "Blimp Public",
+  "link": "http://dev.getblimp.com/",
+  "image": "",
+  "author": {
+    "name": "Blimp Public"
+  },
+  "tags": [
+    "Round",
+    "Trippable",
+    "Object"
+  ],
+  "description": "All API access is over HTTPS, and accessed from the app.getblimp.com domain.  All data is sent and received as JSON. The API encourages round-trippable” data, which means the data you can GET should be able to be POST/PUT’d back to recreate the same object. If you’re ever in question about what you should send, do a GET on another object & see what the API thinks it should look like."
+}

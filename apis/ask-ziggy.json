@@ -1,0 +1,15 @@
+{
+  "id": "ask-ziggy",
+  "title": "Ask Ziggy",
+  "link": "http://www.ask-ziggy.com/walkthrough.html",
+  "image": "",
+  "author": {
+    "name": "Ask Ziggy"
+  },
+  "tags": [
+    "Developers",
+    "Configure",
+    "Domain"
+  ],
+  "description": "The Ask Ziggy API enables developers to quickly bring voice & natural language functionality to their applications. The Portal allows developers to configure API Applications and train them for Natural Language Understanding (NLU) in the application domain. "
+}

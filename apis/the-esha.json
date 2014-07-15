@@ -1,0 +1,15 @@
+{
+  "id": "the-esha",
+  "title": " The ESHA",
+  "link": "http://developer.esha.com/docs/read/Home",
+  "image": "http://esharesearch-assets.s3.amazonaws.com/developer/logo.jpg",
+  "author": {
+    "name": " ESHA"
+  },
+  "tags": [
+    "Technical",
+    "Integrate",
+    "Application"
+  ],
+  "description": "This is the place to come for the technical details you will need to integrate your applications with the ESHA Research API."
+}

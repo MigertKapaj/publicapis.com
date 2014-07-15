@@ -1,0 +1,16 @@
+{
+  "id": "climate-data-online",
+  "title": "Climate Data Online",
+  "link": "http://www.ncdc.noaa.gov/cdo-web/webservices/v2",
+  "image": "http://www.ncdc.noaa.gov/cdo-web/images/logos/noaa_logo.png",
+  "author": {
+    "name": "NCDC"
+  },
+  "tags": [
+    "Access",
+    "Scripts",
+    "Programs",
+    "Weather"
+  ],
+  "description": "NCDC's Climate Data Online (CDO) offers web services that provide access to current data. This API is for developers looking to create their own scripts or programs which use the CDO database of weather and climate data. An access token is required to use the API, and each token will be limited to 1,000 requests per day by default. To request a higher limit please contact customer service\n                                        "
+}

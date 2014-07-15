@@ -1,0 +1,16 @@
+{
+  "id": "influence-explorer-text",
+  "title": "Influence Explorer Text",
+  "link": "https://inbox.influenceexplorer.com/api/",
+  "image": "https://s3.amazonaws.com/assets.sunlightfoundation.com/brisket/1.0/images/logo.png",
+  "author": {
+    "name": "Influence Explorer"
+  },
+  "tags": [
+    "Influence",
+    "Relevant",
+    "Data",
+    "Finance"
+  ],
+  "description": "The API that powers the real-time textual analysis behind the Sunlight Foundation's Inbox Influence is called the Influence Explorer Text API, and it is available for general public use in applications that require extraction of politically relevant entities from text on either the client or server side. The data supplied by this API is a subset of the data available in Sunlight's Transparency Data, and provides summary information about campaign finance, lobbying, fundraising, and other influence-related areas of interest."
+}

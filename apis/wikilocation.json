@@ -1,0 +1,15 @@
+{
+  "id": "wikilocation",
+  "title": "wikilocation",
+  "link": "http://wikilocation.org/documentation/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlOU_sA6kLGGRzmkr1nVEqcLsGI-WYQyPF3_zouQNHhWfEdgk3",
+  "author": {
+    "name": "wikilocation"
+  },
+  "tags": [
+    "Cache",
+    "Application",
+    "Identifiable"
+  ],
+  "description": "At present, this API is not in any way throttled meaning you can make multiple requests to the service.  However, it should be noted that you are recommended to cache any responses from the API in order to save me bandwidth! It is suggested that you make API calls no more frequently than once a second - if you are building a large application, please let me know so I can cater for more bandwidth. If I deem that your application is making too many requests, then I reserve the right to throttle your requests.  If you set your user-agent to something identifiable (preferably with an email address \nor URL in it) then I will contact you before throttling."
+}

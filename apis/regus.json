@@ -1,0 +1,16 @@
+{
+  "id": "regus",
+  "title": "Regus",
+  "link": "http://developer.regus.com/",
+  "image": "http://developer.regus.com/sites/all/themes/regus2/logo.png",
+  "author": {
+    "name": "Regus"
+  },
+  "tags": [
+    "Designed",
+    "Developers",
+    "Methods",
+    "Deliver"
+  ],
+  "description": "This site is designed to make it easy for all developers whether .NET, Java, PHP or Objective-C to understand the Regus APi methods.  This is a developer site designed to help you understand the Regus API and deliver a solution quickly."
+}

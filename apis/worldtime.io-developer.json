@@ -1,0 +1,13 @@
+{
+  "id": "worldtime.io-developer",
+  "title": "WorldTime.io - Developer",
+  "link": "https://www.mashape.com/worldtimeengine/worldtime-io-developer",
+  "image": "",
+  "author": {
+    "name": "worldtimeengine"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The Developer version of the World Time Engine API. This API is suitable for small to medium scale projects. If you need more queries per month than we provide via this version of our API then you should check out the enterprise version of this API, also available at the link above."
+}

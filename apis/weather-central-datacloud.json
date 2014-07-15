@@ -1,0 +1,15 @@
+{
+  "id": "weather-central-datacloud",
+  "title": "Weather Central DataCloud",
+  "link": "http://dataapi.wxc.com/",
+  "image": "http://dataapi.wxc.com/assets/wxc_developers_logo.png",
+  "author": {
+    "name": "Weather Central DataCloud"
+  },
+  "tags": [
+    "Access",
+    "Directly",
+    "Data"
+  ],
+  "description": "The Weather Central DataCloud API lets you programmatically access Weather Central’s real-time updating weather datasets. This allows you to give your users mission critical weather information directly in your own web pages and applications via a REST API. The API returns value added data in both image-tile, and xml format."
+}

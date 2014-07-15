@@ -1,0 +1,13 @@
+{
+  "id": "wheelmap",
+  "title": "Wheelmap",
+  "link": "http://wheelmap.org/api/docs",
+  "image": "http://asset2.wheelmap.org/assets/wm_logo_de-b25c4912f000d117156f4d3acdd90e10.png",
+  "author": {
+    "name": "Wheelmap"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Developers can use our RESTful API to interact with wheelchair accessible place."
+}

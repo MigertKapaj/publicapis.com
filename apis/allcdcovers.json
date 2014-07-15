@@ -1,0 +1,15 @@
+{
+  "id": "allcdcovers",
+  "title": "AllCDCovers",
+  "link": "http://www.allcdcovers.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSuPhcQbGrcnwiVVugaMcZtj-YoXqWVIS2mqD5NgA9iBNg-l4AR",
+  "author": {
+    "name": "AllCDCovers.com"
+  },
+  "tags": [
+    "Partners",
+    "Integrating",
+    "Design"
+  ],
+  "description": "The AllCDCovers API has been created to allow our partners to easily add content to their site, by integrating our content into their design."
+}

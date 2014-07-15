@@ -1,0 +1,15 @@
+{
+  "id": "amazon-dynamodb",
+  "title": "Amazon DynamoDB",
+  "link": "http://aws.amazon.com/dynamodb/",
+  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Managed",
+    "Service",
+    "Data"
+  ],
+  "description": "DynamoDB is a fast, fully managed NoSQL database service that makes it simple and cost-effective to store and retrieve any amount of data, and serve any level of request traffic."
+}

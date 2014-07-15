@@ -1,0 +1,16 @@
+{
+  "id": "engage",
+  "title": "ENGAGE",
+  "link": "http://www.engagedata.eu/wiki/engage_api/#api-reference",
+  "image": "http://www.engagedata.eu/s/imgs/engage_logo.jpg",
+  "author": {
+    "name": "engage"
+  },
+  "tags": [
+    "Developers",
+    "Process",
+    "Data",
+    "Standard"
+  ],
+  "description": "The Search API can be accessed by any user and addresses the needs of software developers and mash-up creators who require easy programmatic access to open government data, in order to automatically process or visualize datasets, as well as combine information with other data sources. The Search API provides full read access to the dataset catalogue and implements the same discovery mechanisms as the website. Furthermore, the Search API provides a SPARQL endpoint in order to allow users to query data in a way compliant to the Linked Data principles and standard practices."
+}

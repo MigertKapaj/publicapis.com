@@ -1,0 +1,15 @@
+{
+  "id": "screenr-business",
+  "title": "Screenr Business",
+  "link": "http://business.screenr.com/api/",
+  "image": "http://business.screenr.com/images/logo.png",
+  "author": {
+    "name": "Screenr Business"
+  },
+  "tags": [
+    "System",
+    "Recorder",
+    "Internal"
+  ],
+  "description": "Screenr Business is a groundbreaking web-based screen recording system. It features a customizable screen recorder that embeds easily on your site, captures screencasts and posts them to your internal systems."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "scrive",
+  "title": "Scrive",
+  "link": "http://scrive.com/en/api",
+  "image": "http://scrive.com/img/logo.png",
+  "author": {
+    "name": "Scrive"
+  },
+  "tags": [
+    "Clients",
+    "Demands",
+    "Design"
+  ],
+  "description": "The Scrive API is in use by many clients and can be extended as necessary to meet the demands of customers. However, Scrive is dedicated to following best practices, standards, and sound design principles."
+}

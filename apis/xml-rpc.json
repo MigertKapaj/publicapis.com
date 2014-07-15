@@ -1,0 +1,16 @@
+{
+  "id": "xml-rpc",
+  "title": "XML-RPC",
+  "link": "http://www.upcdatabase.com/xmlrpc.asp",
+  "image": "http://www.upcdatabase.com/images/upcs-small.jpg",
+  "author": {
+    "name": "UpcDatabase"
+  },
+  "tags": [
+    "Deprecated",
+    "Example",
+    "Completely",
+    "Service"
+  ],
+  "description": "This is the new API -- the old API is now deprecated. Certain documentation and example code will continue to be here (further down the page) until it's completely taken out of service (which won't be long). "
+}

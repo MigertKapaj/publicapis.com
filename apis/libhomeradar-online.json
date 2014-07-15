@@ -1,0 +1,16 @@
+{
+  "id": "libhomeradar-online",
+  "title": "libhomeradar online",
+  "link": "http://www.libhomeradar.org/api/",
+  "image": "",
+  "author": {
+    "name": "\n      \n            \n            \n      \n\n      libhomeradar"
+  },
+  "tags": [
+    "Database",
+    "Aircraft",
+    "Airlines",
+    "HTTP"
+  ],
+  "description": "With our public available XML API everyone have access to our databases. If you need some informations about aircrafts, airports, airlines or flights, our API (can) help you. All what you need is a simple HTTP GET or POST request to our public API and you'll get a short XML answer."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "payments",
+  "title": "Payments",
+  "link": "http://www.conferma.com/Products/API/",
+  "image": "http://www.conferma.com/img/logo.png",
+  "author": {
+    "name": "Conferma"
+  },
+  "tags": [
+    "Processes",
+    "Rather",
+    "Data"
+  ],
+  "description": "Our Payment API (PAPI) is a turnkey solution allowing you to integrate Conferma Virtual Card Numbers (VCNs) into third party payment processes. Its flexibility ensures that we can tailor the PAPI to fit around the requirements dictated by your payment processes, rather than you having to fit in around ours. Consequently, it delivers all the benefits associated with Conferma such as better data, better control and better process efficiency, without any disruption to your standard working processes. "
+}

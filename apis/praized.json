@@ -1,0 +1,16 @@
+{
+  "id": "praized",
+  "title": "Praized",
+  "link": "http://praizedmedia.com/en/api/ deadpool",
+  "image": "http://www.programmableweb.com/images/logo2.png",
+  "author": {
+    "name": "ProgrammableWeb"
+  },
+  "tags": [
+    "Easier",
+    "Data",
+    "Merchants",
+    "Plateform."
+  ],
+  "description": "The goal of the Praized API is to make it easier for developers to build services using data about merchants and places. Use the Praized API to \nbuild local search into your app quickly. Praized is set up to allow users to have an easy way to recommend local places to each other. It is\na local search platform built especially for blogs, social networks, and other places where a vibrant community exists. \n\n"
+}

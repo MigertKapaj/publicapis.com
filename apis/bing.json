@@ -1,0 +1,14 @@
+{
+  "id": "bing",
+  "title": "Bing",
+  "link": "http://msdn.microsoft.com/en-us/library/jj572362.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Reference",
+    "Properties"
+  ],
+  "description": "Here is where you can find reference material for the classes, properties, and methods that are available in the Bing Webmaster Tools API. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "simplycast",
+  "title": "SimplyCast",
+  "link": "http://www.simplycast.com/api",
+  "image": "http://sc-public.simplycastintera.netdna-cdn.com/wp-content/themes/simplycast/images/sclogo.png",
+  "author": {
+    "name": "SimplyCast"
+  },
+  "tags": [
+    "Implements",
+    "System",
+    "Constraints"
+  ],
+  "description": "The SimplyCast API is based on HTTP and implements many of the recommendations set out in the REST (Representational State Transfer) system architecture. The API follows the following REST constraints."
+}

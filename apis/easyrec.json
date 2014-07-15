@@ -1,0 +1,15 @@
+{
+  "id": "easyrec",
+  "title": "Easyrec",
+  "link": "http://easyrec.org",
+  "image": "http://easyrec.org/img/plugin.gif",
+  "author": {
+    "name": "Easyrec"
+  },
+  "tags": [
+    "Access",
+    "Recommmendations",
+    "Snippet"
+  ],
+  "description": "We provide full access to easyrec's functionality through a REST API Recommendations are returned in XML or JSON notation. You can also include a small snippet of\njavascript code in your website to get recommendations.\n\n\n\n\n"
+}

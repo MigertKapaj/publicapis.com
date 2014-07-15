@@ -1,0 +1,15 @@
+{
+  "id": "flexpaper",
+  "title": "FlexPaper",
+  "link": "http://flexpaper.devaldi.com/docs_api.jsp",
+  "image": "http://flexpaper.devaldi.com/resources/flexpaper_logo.png",
+  "author": {
+    "name": "FlexPaper"
+  },
+  "tags": [
+    "Functions",
+    "Interact",
+    "Tested"
+  ],
+  "description": "The following set of functions and events can be used to interact with FlexPaper (as of FlexPaper 1.4.0 and onwards).\nAll methods and events can be seen and tested using this test page"
+}

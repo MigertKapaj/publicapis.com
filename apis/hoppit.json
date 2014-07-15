@@ -1,0 +1,16 @@
+{
+  "id": "hoppit",
+  "title": "Hoppit",
+  "link": "http://www.hoppit.com/developers",
+  "image": "http://www.hoppit.com/images/home/logo-lg.png",
+  "author": {
+    "name": "Hoppit"
+  },
+  "tags": [
+    "Data",
+    "Repository",
+    "Developers",
+    "Interact"
+  ],
+  "description": "The Hoppit API gives you access to the local data used by our award-winning applications, including the nation's largest repository of high-resolution restaurant photography and \"Vibe data.\" Perfect for developers who wish to surface the amazing place content that Hoppit users interact with every second. "
+}

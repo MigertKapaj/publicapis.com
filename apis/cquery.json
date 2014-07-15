@@ -1,0 +1,15 @@
+{
+  "id": "cquery",
+  "title": "cQuery",
+  "link": "http://cquery.com/api/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmndK1PuDeGyzNA6KrNuBRzPtqiCaSDCETQU_a8nnQJhowaNYn",
+  "author": {
+    "name": "cQuery"
+  },
+  "tags": [
+    "Requires",
+    "Web",
+    "Detailed"
+  ],
+  "description": "The cQuery API just requires a simple http request. There are three basic ways to retrieve live web page content from the cQuery API, as detailed below."
+}

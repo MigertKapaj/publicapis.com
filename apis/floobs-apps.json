@@ -1,0 +1,15 @@
+{
+  "id": "floobs-apps",
+  "title": "Floobs-apps",
+  "link": "http://code.google.com/p/floobs-apps/wiki/APIdoc",
+  "image": "http://www.gstatic.com/codesite/ph/images/defaultlogo.png",
+  "author": {
+    "name": "Floobs-apps"
+  },
+  "tags": [
+    "Place",
+    "Source",
+    "Browse"
+  ],
+  "description": "This is the place where you can find Floobs API documentation and Open Source Floobs applications. Download latest versions from \"Source\" where you can browse SVN. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mugr",
+  "title": "Mugr",
+  "link": "http://code.google.com/p/rmugr/",
+  "image": "http://www.gstatic.com/codesite/ph/images/defaultlogo.png",
+  "author": {
+    "name": "Mugr"
+  },
+  "tags": [
+    "Recognition",
+    "Services",
+    "Interface"
+  ],
+  "description": "Mugr provides face identification and recognition services over a RESTful interface. rmugr is an API, for those services, written in Ruby. "
+}

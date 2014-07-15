@@ -1,0 +1,16 @@
+{
+  "id": "createsurvey",
+  "title": "CreateSurvey",
+  "link": "http://www.createsurvey.com",
+  "image": "http://www.createsurvey.com/images/top-2.gif",
+  "author": {
+    "name": "CreateSurvey"
+  },
+  "tags": [
+    "Surveys",
+    "Smart",
+    "Logic",
+    "Layouts"
+  ],
+  "description": "Create smart and professional surveys incorporating different question types, branches, skip logic, and attractive layouts. Start with survey templates to save time."
+}

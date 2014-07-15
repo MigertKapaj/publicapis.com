@@ -1,0 +1,16 @@
+{
+  "id": "receipt-bank",
+  "title": "Receipt Bank",
+  "link": "https://www.receipt-bank.com/api/",
+  "image": "https://www.receipt-bank.com//content/themes/receipt-bank/imgs/header-logo.png",
+  "author": {
+    "name": "Receipt Bank"
+  },
+  "tags": [
+    "Accountants",
+    "Bank",
+    "Software",
+    "Invoices"
+  ],
+  "description": "Working with bookkeepers, accountants and with small businesses directly, Receipt Bank has developed its software and service to make the gathering, storage and processing of receipts and invoices as easy and as cost effective as possible."
+}

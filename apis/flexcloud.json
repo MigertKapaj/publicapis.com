@@ -1,0 +1,16 @@
+{
+  "id": "flexcloud",
+  "title": "FlexCloud",
+  "link": "http://docs.hostway.com/index.php/FlexCloud_Server",
+  "image": "http://www.hostway.com/images/global/logo.gif",
+  "author": {
+    "name": "Hostway"
+  },
+  "tags": [
+    "Reseller",
+    "Private",
+    "System",
+    "Access"
+  ],
+  "description": "Hostway’s FlexCloud application programming interface (API) is the industry's first API for integrated customer and reseller management of Hyper-V private, public and hybrid clouds. It provides an easy-to-use, system-to-system interface for remote access and control of our FlexCloud Servers. "
+}

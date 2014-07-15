@@ -1,0 +1,16 @@
+{
+  "id": "intervals",
+  "title": "Intervals",
+  "link": "http://www.myintervals.com/api/",
+  "image": "http://www.myintervals.com/i/blog/1792/login.gif",
+  "author": {
+    "name": "Intervals"
+  },
+  "tags": [
+    "Intervals",
+    "Desktop",
+    "Mobile",
+    "Metrics"
+  ],
+  "description": "The Intervals API allows you to incorporate Intervals user data into your own applications, be they desktop, web-based, or mobile. You can use this data to generate your own reports and metrics, make changes to Intervals data from within your application, or create new ways of accessing and presenting the Intervals experience.\n                        "
+}

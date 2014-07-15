@@ -1,0 +1,15 @@
+{
+  "id": "parchment",
+  "title": "Parchment",
+  "link": "http://api.mychances.net",
+  "image": "http://www.parchment.com/wp-content/themes/parchment/images/parchment-logo-icon.png",
+  "author": {
+    "name": "Parchment"
+  },
+  "tags": [
+    "Educators",
+    "Employers",
+    "Online"
+  ],
+  "description": "Parchment’s mission is to turn credentials into opportunities.  We help learners, educators, associations and employers securely send and receive education credentials online, in simple and insightful ways."
+}

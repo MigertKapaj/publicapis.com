@@ -1,25 +1,31 @@
 module.exports = function (grunt) {
   'use strict';
 
-  var swig = require('swig');
-  var path = require('path');
+  var _     = require('underscore');
+  var swig  = require('swig');
+  var path  = require('path');
 
   grunt.registerMultiTask('render', 'Render HTML.', function () {
     grunt.log.writeln('Writing HTML');
 
-    var locals = {
-      data: grunt.file.readJSON(this.data.json)
-    };
+    this.data.locals.apis = grunt.file.readJSON(this.data.json);
 
     grunt.file.expand(this.data.pages).forEach(function (page) {
       var name = path.basename(page);
-      var html = swig.renderFile(page, locals);
-      grunt.file.write(this.data.dest + name, html);
+
+      this.data.locals.path = this.data.dest + '/' + name;
+
+      var html = swig.renderFile(page, this.data.locals);
+      grunt.file.write(this.data.locals.path, html);
     }.bind(this));
 
-    locals.data.forEach(function (api) {
+    this.data.locals.apis.forEach(function (api) {
+      var locals = _.extend(this.data.locals, api);
+
+      locals.path = this.data.dest + '/api/' + api.id.charAt(0).toLowerCase() + '/' + api.id + '.html';
+
       var html = swig.renderFile(this.data.template, locals);
-      grunt.file.write(this.data.dest + '/api/' + api.id + '.html', html);
+      grunt.file.write(locals.path, html);
     }.bind(this));
   });
 
@@ -31,7 +37,7 @@ module.exports = function (grunt) {
     path: {
       site: 'site',
       dest: '.site',
-      json: 'data/apis/*.json',
+      json: 'apis/**/*.json',
       less: 'site/assets/less/*.less',
       images: 'site/assets/images',
       scripts: 'site/assets/scripts/*.js',
@@ -93,7 +99,7 @@ module.exports = function (grunt) {
     uglify: {
       dist: {
         files: {
-          '<%= path.dest %>/scripts/main.js': '<%= path.scripts %>'
+          '<%= path.dest %>/assets/scripts/main.js': '<%= path.scripts %>'
         }
       }
     },
@@ -148,6 +154,17 @@ module.exports = function (grunt) {
       dist: ['<%= path.dest %>/*']
     },
 
+    copy: {
+      dist: {
+        files: [{
+          expand: true,
+          cwd: '<%= path.site %>/assets',
+          src: ['CNAME', 'robots.txt'],
+          dest: '<%= path.dest %>'
+        }]
+      }
+    },
+
     less: {
       dist: {
         files: {
@@ -180,10 +197,23 @@ module.exports = function (grunt) {
 
     render: {
       dist: {
-        dest: '<%= path.dest %>/',
+        dest: '<%= path.dest %>',
         json: '<%= path.dest %>/apis.json',
         template: '<%= path.site %>/api.html',
-        pages: ['<%= path.site %>/index.html']
+        pages: ['<%= path.site %>/index.html'],
+        locals: {
+          description: 'API Directory',
+          author: {
+            name: 'Mashape'
+          },
+
+          site: {
+            fbadmin: 'xxx',
+            twitter: 'mashape',
+            url: 'http://www.publicapis.com',
+            domain: 'publicapis.com'
+          }
+        }
       }
     },
 
@@ -232,12 +262,7 @@ module.exports = function (grunt) {
 
       html: {
         files: ['**/*.html'],
-        tasks: ['render', 'htmlmin']
-      },
-
-      json: {
-        files: ['data/apis/*.json'],
-        tasks: ['jsonlint', 'minjson', 'render', 'htmlmin']
+        tasks: ['render']
       },
 
       livereload: {
@@ -246,7 +271,8 @@ module.exports = function (grunt) {
         },
 
         files: [
-          '<%= path.dest %>/**/*.html',
+          '<%= path.dest %>/*.html',
+          '<%= path.dest %>/api/1/*.html',
           '<%= path.dest %>/css/**/*.css',
           '<%= path.dest %>/scripts/**/*.js',
           '<%= path.dest %>/images/**/<%= pattern.images %>'
@@ -266,6 +292,7 @@ module.exports = function (grunt) {
 
   grunt.registerTask('build', [
     'clean',
+    'copy',
     'less',
     'autoprefixer',
     'csscomb',

@@ -1,0 +1,15 @@
+{
+  "id": "free-stock-quotes",
+  "title": "Free Stock Quotes",
+  "link": "http://magicspatula.com/stock/",
+  "image": "",
+  "author": {
+    "name": "Magicspatula"
+  },
+  "tags": [
+    "Fees",
+    "Pyramid",
+    "Simple"
+  ],
+  "description": "Are you tired of paying exhorbitant fees for quotes from reprehensible pyramid schemes like Bloomberg or Reuters? Magicspatula.com now offers stock quotes through a simple javascript API, all completely free."
+}

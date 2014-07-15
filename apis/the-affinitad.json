@@ -1,0 +1,16 @@
+{
+  "id": "the-affinitad",
+  "title": "The affinitAD",
+  "link": "http://developer.affinitad.com",
+  "image": "http://developer.affinitad.com/files/2012/11/logo-report-service-bleu.png",
+  "author": {
+    "name": " AffinitAD"
+  },
+  "tags": [
+    "Possibilty",
+    "References",
+    "Aggreate",
+    "Application"
+  ],
+  "description": "The affinitAD Product API gives you the possibility of querying our system with the use of keywords or product references to aggregate and embed all Twenga’s shopping catalogue in your website or application."
+}

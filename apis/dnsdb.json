@@ -1,0 +1,16 @@
+{
+  "id": "dnsdb",
+  "title": "DNSDB",
+  "link": "https://api.dnsdb.info/",
+  "image": "",
+  "author": {
+    "name": "DNSDB"
+  },
+  "tags": [
+    "Passive",
+    "Data",
+    "Metadata",
+    "Timestamps"
+  ],
+  "description": "DNSDB is a database that stores and indexes both the passive DNS data available via Farsight Security's Security Information Exchange as well as the authoritative DNS data that various zone operators make available. DNSDB makes it easy to search for individual DNS RRsets and provides additional metadata for search results such as first seen and last seen timestamps as well as the DNS bailiwick associated with an RRset. DNSDB also has the ability to perform inverse or rdata searches."
+}

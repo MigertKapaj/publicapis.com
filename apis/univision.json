@@ -1,0 +1,16 @@
+{
+  "id": "univision",
+  "title": "Univision",
+  "link": "http://developer.univision.com",
+  "image": "http://developer.univision.com/public/Mashery/images/clients/univision/univision.png",
+  "author": {
+    "name": "Univision"
+  },
+  "tags": [
+    "Mobile",
+    "Services",
+    "Network",
+    "Application"
+  ],
+  "description": "Univision is the premier online and mobile destination for Spanish-language content and services.  Through the Univision Developer Network, you will have access to APIs that allow you to leverage Univision content and services in applications you build."
+}

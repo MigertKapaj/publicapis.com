@@ -1,0 +1,15 @@
+{
+  "id": "needish",
+  "title": "Needish",
+  "link": "http://api.needish.com/",
+  "image": "http://api.needish.com/img/dev-needish.png",
+  "author": {
+    "name": "Needish"
+  },
+  "tags": [
+    "Functionality",
+    "Reference",
+    "Developers"
+  ],
+  "description": "Needish exposes some of its functionality via an API (Application programming interface). This document serves as reference for developers wanting to write fun applications that interact with Needish. "
+}

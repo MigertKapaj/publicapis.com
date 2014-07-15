@@ -1,0 +1,15 @@
+{
+  "id": "muselia",
+  "title": "Muselia",
+  "link": "http://www.muselia.com/api",
+  "image": "http://www.muselia.com/img/nicetobook.jpg",
+  "author": {
+    "name": "Museums"
+  },
+  "tags": [
+    "Geographic",
+    "Information",
+    "Touristic"
+  ],
+  "description": "Using Muselia API you can display what museums are in a geographic area on your own web site. The information about museums we share is great to enrich your application (art related sites, hotels and vacation sites, touristic sites...)."
+}

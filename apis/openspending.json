@@ -1,0 +1,14 @@
+{
+  "id": "openspending",
+  "title": "OpenSpending",
+  "link": "http://openspending.org/help/api.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsyR6-te6BrffRmsUi3BtBq8HkUY7vnJfegyViMQ_eomJ8mZIaBA",
+  "author": {
+    "name": "OpenSpending"
+  },
+  "tags": [
+    "Platform",
+    "Report"
+  ],
+  "description": "OpenSpending aims to be a simple-to-use platform for developers by offering a variety of APIs that can be used to create visualizations, reports, and other applications."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "insured-rating-guides",
+  "title": "Insured Rating Guides",
+  "link": "http://www.insuredapp.com/guides/",
+  "image": "http://www.insuredapp.com/images/logo-guides.png",
+  "author": {
+    "name": "Insured Rating Guides"
+  },
+  "tags": [
+    "Service",
+    "Responsive",
+    "Reference",
+    "Tutorials"
+  ],
+  "description": "Insured Rating includes comprehensive help resources backed by responsive cusstomer service. We make it easy and safe for new business level users to learn Insured Rating. This section explains how – using our API, user reference guide, tutorials and Live Help chat."
+}

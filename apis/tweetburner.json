@@ -1,0 +1,15 @@
+{
+  "id": "tweetburner",
+  "title": "Tweetburner",
+  "link": "http://tweetburner.com/api",
+  "image": "http://tweetburner.com/images/logo-header.png?1377689352",
+  "author": {
+    "name": "Tweetburner"
+  },
+  "tags": [
+    "Provides",
+    "Statistics",
+    "Infamous"
+  ],
+  "description": "Tweetburner provides an API for communicating with the service. In the near future you can request statistics, Twurls and the infamous top 10 lists through our API."
+}

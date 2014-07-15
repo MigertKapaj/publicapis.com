@@ -1,0 +1,15 @@
+{
+  "id": "btcdata.net",
+  "title": "btcdata.net",
+  "link": "http://btcdata.net/docs",
+  "image": "http://btcdata.net/static/img/btcdata-icon-dark.svg",
+  "author": {
+    "name": "btcdata.net"
+  },
+  "tags": [
+    "Prefixed",
+    "Arguments",
+    "Commands"
+  ],
+  "description": "All requests for this type of call are prefixed with /q/. There is a single word for the command which follows, and then zero, one or two arguments. Many commands need no argument or have useful defaults."
+}

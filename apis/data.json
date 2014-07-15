@@ -1,0 +1,15 @@
+{
+  "id": "data",
+  "title": "Data",
+  "link": "http://www.ime.ntnu.no/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQgY4yvfXqWisBEmuXcFaCjQLDPbrRzkim3XosGpxRlNYVr1zZ72Q",
+  "author": {
+    "name": "IME"
+  },
+  "tags": [
+    "Services",
+    "Appended",
+    "Recommended"
+  ],
+  "description": "Data is fetched from official databases/services, and ends up here as JSON. Cache information (freshness) is appended to the dataset by the API. For easier debugging, JSONView for Firefox and Chrome is recommended."
+}

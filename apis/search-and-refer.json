@@ -1,0 +1,15 @@
+{
+  "id": "search-and-refer",
+  "title": "Search and Refer",
+  "link": "http://xmldocs.travelfusion.com/home/getting-started-guide",
+  "image": "http://xmldocs.travelfusion.com/_/rsrc/1279034830975/config/customLogo.gif?revision=1",
+  "author": {
+    "name": "Travelfusion"
+  },
+  "tags": [
+    "Customers",
+    "Integration",
+    "Support"
+  ],
+  "description": "We ask our customers to free up some time to read all of our documentation before starting your integration. This is to get a good idea of the wide spectrum of features we support."
+}

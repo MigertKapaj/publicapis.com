@@ -1,0 +1,15 @@
+{
+  "id": "accuratetax",
+  "title": "AccurateTax",
+  "link": "http://www.accuratetax.com/carts/",
+  "image": "http://www.accuratetax.com/images/logo.png",
+  "author": {
+    "name": "accuratetax"
+  },
+  "tags": [
+    "Service",
+    "Handing",
+    "Server"
+  ],
+  "description": "The heart of AccurateTax.com's TaxTools products is a centralized web service that does all of the work of scrubbing addresses, returning sales tax rates, and handing tax reporting. In order to use the TaxTools server, your application needs to be able to \"talk\" to our server via an Application Programming Interface, or API."
+}

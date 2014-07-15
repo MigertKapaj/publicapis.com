@@ -1,0 +1,15 @@
+{
+  "id": "the-campaign-finance",
+  "title": "The Campaign Finance",
+  "link": "http://developer.nytimes.com/docs/campaign_finance_api",
+  "image": "http://developer.nytimes.com/files/NYTDevLogo.png",
+  "author": {
+    "name": " Campaign Finance"
+  },
+  "tags": [
+    "Retrieve",
+    "Data",
+    "Commission"
+  ],
+  "description": "With the Campaign Finance API, you can retrieve data from United States Federal Election Commission filings"
+}

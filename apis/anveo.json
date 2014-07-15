@@ -1,0 +1,15 @@
+{
+  "id": "anveo",
+  "title": "Anveo",
+  "link": "http://www.anveo.com/api.asp?code=apihelp_sms_send_http&api_type=",
+  "image": "http://www.anveo.com/images/layout/logotext.png",
+  "author": {
+    "name": "Anveo"
+  },
+  "tags": [
+    "System",
+    "Provision",
+    "Manage"
+  ],
+  "description": "Anveo API provides a way for external applications and systems to make phone calls, initiate outbound IVR, provision ContactME/Click to Call buttons as well as order, provision and manage DIDs (phone numbers) and Anveo Call Flows."
+}

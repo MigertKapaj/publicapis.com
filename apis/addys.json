@@ -1,0 +1,16 @@
+{
+  "id": "addys",
+  "title": "Addys",
+  "link": "https://addy.co/business",
+  "image": "https://d1zsbqck40nj0n.cloudfront.net/fc0fe4b5/images/common/nav-logo-green.png",
+  "author": {
+    "name": "Addy"
+  },
+  "tags": [
+    "Robust",
+    "Provides",
+    "Relevant",
+    "Data"
+  ],
+  "description": "Access Addy’s extensive location datasets through our robust, easy-to-use API. Reverse Geocoder provides a natural language description, including street addresses, relevant nearby landmarks and other useful details. The demo below provides access to a subset of our rich data."
+}

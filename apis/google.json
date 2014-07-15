@@ -1,0 +1,15 @@
+{
+  "id": "google",
+  "title": "Google+",
+  "link": "https://developers.google.com/+/api/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Programming",
+    "App",
+    "Engagement"
+  ],
+  "description": "The Google+ API is the programming interface to Google+. You can use the API to integrate your app or website with Google+. This enables users to connect with each other for maximum engagement using Google+ features from within your application. "
+}

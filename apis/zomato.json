@@ -1,0 +1,17 @@
+{
+  "id": "zomato",
+  "title": "Zomato",
+  "link": "http://www.zomato.com/api/documentation",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfSO0XB-gAbAOSk-MrGmXRQsp6Siyily6J6CVHv2tJPxaXFvij",
+  "author": {
+    "name": "Zomato"
+  },
+  "tags": [
+    "Integrate",
+    "Experience",
+    "Photos",
+    "Menus",
+    "Pretty"
+  ],
+  "description": "The Zomato APIs provide the most accurate and updated restaurant data for integration with your application. This allows third party applications and products to integrate with Zomato and provide an engaging experience to their users. You can get information such as restaurant listings, location coordinates, reviews, discounts, photos, menus and pretty much everything else that we have for our own customers."
+}

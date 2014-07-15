@@ -1,0 +1,15 @@
+{
+  "id": "reegle",
+  "title": "reegle",
+  "link": "http://api.reegle.info/documentation/;jsessionid=58E05633A4049EB28CA4BE00F947C9CA",
+  "image": "http://api.reegle.info/static/img/reegle_api_logo.png",
+  "author": {
+    "name": "reegle"
+  },
+  "tags": [
+    "Tagging",
+    "Online",
+    "Energy"
+  ],
+  "description": "The reegle tagging API is a cost-free tagging tool for those publishing online resources in the clean energy and climate area. "
+}

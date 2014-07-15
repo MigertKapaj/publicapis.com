@@ -1,0 +1,16 @@
+{
+  "id": "biologicalnetworks",
+  "title": "BiologicalNetworks",
+  "link": "http://biologicalnetworks.net/doc/api.php",
+  "image": "http://biologicalnetworks.net/images/new/bn2.png",
+  "author": {
+    "name": "BiologicalNetworks"
+  },
+  "tags": [
+    "Data",
+    "Organisms",
+    "Health",
+    "Resources"
+  ],
+  "description": "BiologicalNetworks backend database (IntegromeDB) integrates >1000 curated data sources (from the NAR list) for thousands of eukaryotic, prokaryotic and viral organisms and millions of public biomedical, biochemical, drug, disease and health related web resources ."
+}

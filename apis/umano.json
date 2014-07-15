@@ -1,0 +1,16 @@
+{
+  "id": "umano",
+  "title": "Umano",
+  "link": "http://www.umanoapp.com/developer",
+  "image": "http://www.umanoapp.com/img/www/umano-logo-dark.png",
+  "author": {
+    "name": "Umano"
+  },
+  "tags": [
+    "Snippet",
+    "Site",
+    "Embedded",
+    "Articles"
+  ],
+  "description": "Embed a tiny snippet of Javascript & HTML code on your site and an embedded Umano player will show for articles that have been Umanofied."
+}

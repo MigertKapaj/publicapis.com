@@ -1,0 +1,15 @@
+{
+  "id": "oembed",
+  "title": "oEmbed",
+  "link": "http://developer.vimeo.com/apis/oembed",
+  "image": "http://f.vimeocdn.com/logo.svg?color=fff",
+  "author": {
+    "name": "Vimeo"
+  },
+  "tags": [
+    "Standard",
+    "Videos",
+    "imagses"
+  ],
+  "description": "oEmbed is an open standard for embedding videos and/or images into a website. To find out more about oEmbed, view the spec."
+}

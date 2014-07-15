@@ -1,0 +1,15 @@
+{
+  "id": "arcs",
+  "title": "ARCS",
+  "link": "http://www.arcs.us/support.html",
+  "image": "http://www.arcs.us/images/logo.gif",
+  "author": {
+    "name": "ARCS"
+  },
+  "tags": [
+    "Service",
+    "Resources",
+    "Process"
+  ],
+  "description": "ARCS is an acronym for Application Resource Control Service. It is a standard service that is specifically designed for controlling the use of application resources. ARCS fulfills the needs of resource locking, concurrency control, user counting, etc. A resource is anything that two or more entities, such as users, compete for. Examples of a resource include: a user-license, a suite of SQL tables/records, an installation process, a reservation, etc."
+}

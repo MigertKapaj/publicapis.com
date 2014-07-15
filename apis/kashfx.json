@@ -1,0 +1,15 @@
+{
+  "id": "kashfx",
+  "title": "kashfx",
+  "link": "http://kashfx.com/index.php/api_resources",
+  "image": "http://kashfx.com/public/images/kashfx-logo.gif",
+  "author": {
+    "name": "kashfx"
+  },
+  "tags": [
+    "Service",
+    "Ensure",
+    "Members"
+  ],
+  "description": "The kashfx SOAP API service is protected to ensure that only authorized kashfx members can use it."
+}

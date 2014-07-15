@@ -1,0 +1,16 @@
+{
+  "id": "paychannel",
+  "title": "PayChannel",
+  "link": "http://www.paychannel.net/webservice.asp",
+  "image": "http://www.paychannel.net/files/IMG_238.jpg",
+  "author": {
+    "name": "PayChannel"
+  },
+  "tags": [
+    "Web Service",
+    "Secure",
+    "Easy",
+    "Integration"
+  ],
+  "description": "PayChannel provides a full range of Web Services to allow secure and easy payment processing integration into your software environment."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "game-hub",
+  "title": "Game Hub",
+  "link": "https://www.mygamehud.com/api_support",
+  "image": "https://www.mygamehud.com/assets/gamehud_logo_small-13f83504a0bf8d48358d1b76580db56f.png",
+  "author": {
+    "name": "Game Hub"
+  },
+  "tags": [
+    "Designed",
+    "Access",
+    "Statistics"
+  ],
+  "description": "We have designed a simple and flexible REST API that you can access using HTTP or HTTPS. With this API, you can track all your statistics to successfully monitor your game. "
+}

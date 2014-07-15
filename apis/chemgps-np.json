@@ -1,0 +1,15 @@
+{
+  "id": "chemgps-np",
+  "title": "ChemGPS-NP",
+  "link": "http://chemgps.bmc.uu.se/batchelor/about.php",
+  "image": "http://chemgps.bmc.uu.se/batchelor/icons/nuvola/info.png",
+  "author": {
+    "name": "ChemGPS-NP"
+  },
+  "tags": [
+    "Regions",
+    "Compounds",
+    "Positions"
+  ],
+  "description": "ChemGPS-NP is tuned for exploration of the regions of chemical space most likely to enclose compounds with biologically relevant functions and activities. Large libraries can for instance be compared without positions changing as new structures are included."
+}

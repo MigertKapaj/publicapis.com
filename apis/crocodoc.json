@@ -1,0 +1,15 @@
+{
+  "id": "crocodoc",
+  "title": "Crocodoc",
+  "link": "https://crocodoc.com/docs/",
+  "image": "https://static-v2.crocodoc.com/images/logo.png",
+  "author": {
+    "name": "Crocodoc"
+  },
+  "tags": [
+    "Documents",
+    "Secure",
+    "Customized"
+  ],
+  "description": "The Crocodoc API lets you upload documents and then generate secure and customized viewing sessions for them. Our API is based on REST principles and generally returns JSON encoded responses unless otherwise noted. All API access requires HTTPS."
+}

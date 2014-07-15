@@ -1,0 +1,13 @@
+{
+  "id": "imdb",
+  "title": "IMDb",
+  "link": "https://www.mashape.com/apathetic/imdb",
+  "image": "",
+  "author": {
+    "name": "apathetic"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "An Unofficial API for IMDb.com. Use it to collect data from IMDb."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "blinksale",
+  "title": "Blinksale",
+  "link": "http://www.blinksale.com/api/",
+  "image": "http://www.blinksale.com/wp-content/themes/Blinksale_3.2/assets/images/public/nav-logo.png?1379317158",
+  "author": {
+    "name": "Blinksale"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Service",
+    "Software"
+  ],
+  "description": "The Blinksale Application Programming Interface is simply another way to access your Blinksale data—one that makes it easy for third-party and custom tools to programatically access and interact with the service. The API follows the REST style, and this guide should provide everything you need to implement software that works with Blinksale."
+}

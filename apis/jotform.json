@@ -1,0 +1,16 @@
+{
+  "id": "jotform",
+  "title": "JotForm",
+  "link": "http://api.jotform.com/docs/",
+  "image": "http://cdn.jotfor.ms/anywhere/img/jotformDevLogo.png",
+  "author": {
+    "name": "JotForm"
+  },
+  "tags": [
+    "Developers",
+    "Connect",
+    "Data",
+    "Service"
+  ],
+  "description": "The JotForm API is written for JotForm users and 3rd party developers who would like to serve JotForm users. For example, Zapier uses the JotForm API to connect form submission data with other services."
+}

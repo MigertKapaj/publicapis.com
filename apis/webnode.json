@@ -1,0 +1,16 @@
+{
+  "id": "webnode",
+  "title": "Webnode",
+  "link": "http://developer.webnode.com",
+  "image": "http://static-wcdn2.webnode.com/img/layout/webnodeLogo.1.1.png",
+  "author": {
+    "name": "Webnode"
+  },
+  "tags": [
+    "Tool",
+    "Website",
+    "Internet",
+    "Software"
+  ],
+  "description": "Webnode is an award winning free tool that helps people to create their own websites. Just by using the internet users can build advanced and interactive websites. Webnode website editing requires no technical skill, nor software installation – it’s very similar to text editing in MS Word or any other text editor."
+}

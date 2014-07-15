@@ -1,0 +1,15 @@
+{
+  "id": "bounce",
+  "title": "Bounce",
+  "link": "http://www.bouncewebservices.com/",
+  "image": "http://www.bouncewebservices.com/img/bouncewebservices.png",
+  "author": {
+    "name": "Bounce"
+  },
+  "tags": [
+    "Combines",
+    "Search",
+    "Groups"
+  ],
+  "description": "Bounce MixedResults is a search service which combines and sorts the results from multiple search engines, just like the \"Find Stuff\" search on the BounceBase sidebar. There are a number of search groups, each of which has an underlying set of search sources. For example, a MixedResults search using the jobs group provides job listings from Monster, SimplyHired, Craigslist, and more."
+}

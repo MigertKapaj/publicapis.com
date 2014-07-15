@@ -1,0 +1,13 @@
+{
+  "id": "worldtime.io-free",
+  "title": "WorldTime.io - Free",
+  "link": "https://www.mashape.com/worldtimeengine/worldtime-io-free",
+  "image": "",
+  "author": {
+    "name": "worldtimeengine"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The free version of the World Time Engine API for small project needs. For the full developer and enterprise versions of this API check out the link provided above."
+}

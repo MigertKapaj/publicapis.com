@@ -1,0 +1,16 @@
+{
+  "id": "humanoid",
+  "title": "Humanoid",
+  "link": "https://gethumanoid.com/v3/docs",
+  "image": "https://gethumanoid.com/images/humanoid-logo-large.png?1374489967",
+  "author": {
+    "name": "Humanoid"
+  },
+  "tags": [
+    "Internet",
+    "Expected",
+    "Discrete",
+    "Limits"
+  ],
+  "description": "The Humanoid API allows application developers to tap into high-quality internet labor. Our workers should be expected to perform at the level of American high school graduates with basic computer skills. Humanoid is perfect for discrete tasks that require basic skills. Humanoid has limits, however, and will struggle with special vocabulary and complex work that requires advanced skills. "
+}

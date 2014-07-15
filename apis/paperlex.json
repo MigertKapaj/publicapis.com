@@ -1,0 +1,16 @@
+{
+  "id": "paperlex",
+  "title": "Paperlex",
+  "link": "https://api.paperlex.com/",
+  "image": "https://api.paperlex.com/logo.png",
+  "author": {
+    "name": "Paperlex"
+  },
+  "tags": [
+    "Rental",
+    "License",
+    "Process",
+    "Data"
+  ],
+  "description": "Simple Signatures allows you to rapidly collect signatures for routine contracts with a single signer. Popular examples incldue rental agreements, software license agreements, and NDAs. Instead of fully integrating with the Paperlex API, you simply POST to a special URL; we handle the signature process and POST back to your application, passing data about the signed contract."
+}

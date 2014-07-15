@@ -1,0 +1,16 @@
+{
+  "id": "recurly",
+  "title": "Recurly ",
+  "link": "http://docs.recurly.com/",
+  "image": "http://docs.recurly.com/images/logo.png",
+  "author": {
+    "name": "Recurly "
+  },
+  "tags": [
+    "Recurring",
+    "Subscription",
+    "Embedded",
+    "Integrated"
+  ],
+  "description": "Recurly provides a complete recurring billing system designed to remove all the headaches from subscription billing. Whether you’ve integrated with our Hosted Payment Pages, Recurly.js embedded forms, or API, these documents will help manage your day-to-day billing.\n\n"
+}

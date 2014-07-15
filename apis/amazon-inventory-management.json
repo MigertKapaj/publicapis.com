@@ -1,0 +1,15 @@
+{
+  "id": "amazon-inventory-management",
+  "title": "Amazon Inventory Management",
+  "link": "http://g-ec2.images-amazon.com/images/G/01/07102007_AIM/Amazon_AIMS.pdf",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTlFvpMkk_9y4cBf_Jvu7sCyHJLxDWYep5ZxT9rKK9S5vCsqhWD",
+  "author": {
+    "name": "Amazon Inventory Management"
+  },
+  "tags": [
+    "Provides",
+    "Manage",
+    "Description"
+  ],
+  "description": "The Amazon Inventory Management (AIM) API provides a secure and automated method to upload inventory and manage orders on Amazon.com Marketplace, zShops and Seller Central. This guide provides a detailed description of this API."
+}

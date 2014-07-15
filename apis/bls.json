@@ -1,0 +1,16 @@
+{
+  "id": "bls",
+  "title": "BLS",
+  "link": "http://www.bls.gov/developers/api_signature.htm",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRS9w9ax3R-_FoW-pp6su2lWziYqV4-qQ6WJxu9wZk14eQfCa8GcQ",
+  "author": {
+    "name": "BLS"
+  },
+  "tags": [
+    "Data",
+    "Accepted",
+    "Developer",
+    "Programmers"
+  ],
+  "description": "The BLS Public Data API does not require registration and is open for public use. However, we encourage users to maintain conformance to W3C standards and accepted practices. We have also provided sample code in the most popular languages currently available to developers and programmers."
+}

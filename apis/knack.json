@@ -1,0 +1,15 @@
+{
+  "id": "knack",
+  "title": "Knack",
+  "link": "http://support.knackhq.com/knowledge_base/topics/working-with-the-api",
+  "image": "https://d2z9u6n32o8z20.cloudfront.net/images/knack-logo.png",
+  "author": {
+    "name": "Knack"
+  },
+  "tags": [
+    "Stored",
+    "Removing",
+    "Searching"
+  ],
+  "description": "The Knack API is used to access the records stored with your application.  Methods are provided for creating, removing, updating, and deleting your records.  Additional options for filtering and searching are also available."
+}

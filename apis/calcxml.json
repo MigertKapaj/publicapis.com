@@ -1,0 +1,16 @@
+{
+  "id": "calcxml",
+  "title": "CalcXML",
+  "link": "http://www.calcxml.com/developer.htm",
+  "image": "http://www.calcxml.com/images/CalcXML-logo-new.png",
+  "author": {
+    "name": "CalcXML"
+  },
+  "tags": [
+    "Integrating",
+    "Web",
+    "Quickly",
+    "Accurately"
+  ],
+  "description": "As a software or web site developer tasked with integrating CalcXML's calculator engines with your desktop or web applications, you need to have at your fingertips all the right documentation to get your job done quickly and accurately. Well, you've come to the right place! "
+}

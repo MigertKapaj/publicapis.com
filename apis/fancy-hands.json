@@ -1,0 +1,15 @@
+{
+  "id": "fancy-hands",
+  "title": "Fancy Hands",
+  "link": "https://www.fancyhands.com/api/explorer#/explorer/fancyhands.echo.Echo",
+  "image": "https://www.fancyhands.com/images/Fancy-Hands-Logo.png",
+  "author": {
+    "name": "Fancy Hands"
+  },
+  "tags": [
+    "Designed",
+    "Intelligent",
+    "Assistant"
+  ],
+  "description": "Our API was designed from the ground up to be the simplest, most powerful API in the world. Build apps on the most intelligent computing platform in the world, the network of Fancy Hands assistants. "
+}

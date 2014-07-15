@@ -1,0 +1,15 @@
+{
+  "id": "marketruler",
+  "title": "MarketRuler",
+  "link": "https://api.marketruler.com/",
+  "image": "https://static.marketruler.com/images/marketruler-logo.gif",
+  "author": {
+    "name": "MarketRuler"
+  },
+  "tags": [
+    "Web",
+    "Integrate",
+    "Services"
+  ],
+  "description": "MarketRuler APIs provide a means for web developers to integrate with MarketRuler services automatically. "
+}

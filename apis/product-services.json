@@ -1,0 +1,14 @@
+{
+  "id": "product-services",
+  "title": "Product Services",
+  "link": "https://www.x.com/developers/ebay/products/product-services",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "eBay"
+  },
+  "tags": [
+    "Product Service",
+    "Retrieve Information About products"
+  ],
+  "description": "eBay Product Services APIs retrieve information about products on eBay to help sellers list items with Parts Compatibility."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ca-cloud-monitor",
+  "title": "CA Cloud Monitor",
+  "link": "http://apidoc.watchmouse.com/",
+  "image": "http://apidoc.watchmouse.com/_/rsrc/1334861705429/config/customLogo.gif?revision=6",
+  "author": {
+    "name": "CA Cloud Monitor"
+  },
+  "tags": [
+    "Possible",
+    "Access",
+    "Data",
+    "Service"
+  ],
+  "description": "The CA Cloud Monitor API makes it possible for developers to access the data and functions of the CA Cloud Monitor services."
+}

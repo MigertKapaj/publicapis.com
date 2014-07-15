@@ -1,0 +1,15 @@
+{
+  "id": "archiver",
+  "title": "Archiver",
+  "link": "http://archiver.co/api.html",
+  "image": "http://archiver.co/favicon.ico",
+  "author": {
+    "name": "Archiver"
+  },
+  "tags": [
+    "Developers",
+    "Processor",
+    "Sources"
+  ],
+  "description": "The goal of The Social Archive API is to help developers query information from multiple services in one place. Instead of taking precious load-time or processor cycles to call multiple sources, our API allows you to use the full power of the diversity of the archive. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sipmly",
+  "title": "SIPmly",
+  "link": "http://www.sipmly.com/api/#apihttps",
+  "image": "",
+  "author": {
+    "name": "SIPmly"
+  },
+  "tags": [
+    "Produced",
+    "Access",
+    "Service",
+    "Advanced"
+  ],
+  "description": "SIPmly has produced a RESTful API to seamlessly and efficiently remotely access our sip origination and sip termination services. This web service was implemented using the principles of REST and JSON and can be easily incorporated into websites, mobile applications, and advanced telephony equipment."
+}

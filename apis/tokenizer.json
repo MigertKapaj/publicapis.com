@@ -1,0 +1,15 @@
+{
+  "id": "tokenizer",
+  "title": "Tokenizer",
+  "link": "https://docs.tokenizer.com/api.html",
+  "image": "https://docs.tokenizer.com/_static/logo_public.png",
+  "author": {
+    "name": "Tokenizer"
+  },
+  "tags": [
+    "Development",
+    "Provided",
+    "Compatibility"
+  ],
+  "description": "Tokenizer is a very dynamic and rapid growing project which remains under active development in order to be at the cutting edge of multi-factor authentication software. Therefore versioned Web API is provided to expose new stable features as soon as possible without breaking backward compatibility."
+}

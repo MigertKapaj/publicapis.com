@@ -1,0 +1,15 @@
+{
+  "id": "url-fetch-python",
+  "title": "URL Fetch Python",
+  "link": "https://developers.google.com/appengine/docs/python/urlfetch/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Resources",
+    "Web",
+    "Network"
+  ],
+  "description": "App Engine applications can communicate with other applications or access other resources on the web by fetching URLs. An app can use the URL Fetch service to issue HTTP and HTTPS requests and receive responses. The URL Fetch service uses Google's network infrastructure for efficiency and scaling purposes."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "redis-to-go",
+  "title": "Redis To Go",
+  "link": "http://www.redistogo.com/documentation/introduction_to_redis?language=en",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkufxePiG3vjpXGZR5iXM0HVQoIZcFd_I9sPN9CuW2Zfu_GWqtYw",
+  "author": {
+    "name": "Redis To Go"
+  },
+  "tags": [
+    "Several",
+    "Data",
+    "Basics"
+  ],
+  "description": "Redis is much more than a key-value store; it offers several data structures that can be used. This introduction will cover the basics of how to use Redis."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "acrostic.me-trending",
+  "title": "Acrostic.Me Trending",
+  "link": "https://www.mashape.com/acrosticme/acrostic-me-trending",
+  "image": "",
+  "author": {
+    "name": "acrosticme"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "A real-time feed of the pages currently growing in popularity on the Acrostic.me website."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "eyedea",
+  "title": "Eyedea",
+  "link": "http://face.eyedea.cz/docs",
+  "image": "http://www.eyedea.cz/img/logo.png",
+  "author": {
+    "name": "Eyedea"
+  },
+  "tags": [
+    "Calls",
+    "HTTP",
+    "Communicate",
+    "Uploads",
+    "Image data"
+  ],
+  "description": "API uses REST-like interface. This means that all calls to the API are made over the Internet, using HTTP GET and POST requests to the API server (http://face.eyedea.cz/api). Any programming language that can be used to communicate over HTTP can be used for client-side implementations. Photo can be uploaded directly in the API request. A requests that \nuploads a photo must be formed as a MIME multi-part message sent using POST data. Each argument, including the raw image data, should be specified as a separate chunk of form data. \n"
+}

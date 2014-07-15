@@ -1,0 +1,15 @@
+{
+  "id": "lijit-search",
+  "title": "Lijit Search ",
+  "link": "http://www.lijit.com/help/search_apidoc",
+  "image": "http://www.lijit.com/___crabtree_rc112/res/images/logos/sovrnLogo2014.png",
+  "author": {
+    "name": " sovrn"
+  },
+  "tags": [
+    "Search",
+    "Results",
+    "Web"
+  ],
+  "description": "Welcome to the documentation for the Lijit Search API .This API allows you to embed Lijit Search Results in your web pages.Once you read this documentation, you should be able to programmatically create a search query and parse the results.\n"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "prescribable-rxnorm",
+  "title": "Prescribable RxNorm",
+  "link": "http://rxnav.nlm.nih.gov/PrescribeAPI.html",
+  "image": "http://rxnav.nlm.nih.gov/css/images/rxnav_logo.gif",
+  "author": {
+    "name": "RxNAV"
+  },
+  "tags": [
+    "Service",
+    "Accessing",
+    "Current"
+  ],
+  "description": "The Prescribable RxNorm API is a web service for accessing the current RxNorm Current Prescribable Content. "
+}

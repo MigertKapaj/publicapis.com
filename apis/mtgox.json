@@ -1,0 +1,13 @@
+{
+  "id": "mtgox",
+  "title": "MtGox",
+  "link": "https://en.bitcoin.it/wiki/MtGox/API",
+  "image": "https://en.bitcoin.it/img/bc_logo_135.png",
+  "author": {
+    "name": "Bitcoin"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

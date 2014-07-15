@@ -1,0 +1,15 @@
+{
+  "id": "integrate",
+  "title": "Integrate",
+  "link": "http://instabug.com/sdk_integration",
+  "image": "http://instabug.com/assets/front/images/logowebsite-beta.png",
+  "author": {
+    "name": "Instabug"
+  },
+  "tags": [
+    "Developing",
+    "App",
+    "Process"
+  ],
+  "description": "After you're done developing your app, download our SDK and integrate into your app, which is a very easy process. It takes less than 60 seconds, with a single line of code."
+}

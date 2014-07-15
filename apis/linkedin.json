@@ -1,0 +1,15 @@
+{
+  "id": "linkedin",
+  "title": "LinkedIn",
+  "link": "https://developer.linkedin.com/",
+  "image": "https://www.linkedin.com/scds/common/u/img/sprite/sprite_global_v5.png",
+  "author": {
+    "name": "LinkedIn"
+  },
+  "tags": [
+    "Developers",
+    "Implement",
+    "Protocol"
+  ],
+  "description": "We expect most new developers will prefer using OAuth 2.0 to implement authorization with LinkedIn APIs. Compared to its predecessor, OAuth 1.0a, the protocol is simpler and much easier to implement."
+}

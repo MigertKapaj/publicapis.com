@@ -1,0 +1,14 @@
+{
+  "id": "text-rewriter",
+  "title": "Text Rewriter",
+  "link": "http://publisheer.com/api/",
+  "image": "http://publisheer.com/templates/generatext/logo.png",
+  "author": {
+    "name": "Text Rewriter"
+  },
+  "tags": [
+    "Request",
+    "Depending"
+  ],
+  "description": "Text rewriting API work with POST method. For POST request URL is same as for this page. API has certain limits: it's available only for registered users with limited amount of requests per day depending on membership plan. "
+}

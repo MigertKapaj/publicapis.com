@@ -1,0 +1,16 @@
+{
+  "id": "lymbix",
+  "title": "Lymbix",
+  "link": "http://www.lymbix.com/supportcenter/docs",
+  "image": "http://www.lymbix.com/images/sprites.png",
+  "author": {
+    "name": "Lymbix"
+  },
+  "tags": [
+    "Interation",
+    "Third Party",
+    "Connect",
+    "Interpret"
+  ],
+  "description": "Lymbix is pleased to offer it's sentiment technology as a service for integration with third party applications. This  document covers the basic technical information on how to connect and interpret the application-programming interface (API) offered as a service.\n                "
+}

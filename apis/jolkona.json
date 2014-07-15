@@ -1,0 +1,16 @@
+{
+  "id": "jolkona",
+  "title": "Jolkona",
+  "link": "http://dev.jolkona.org/apis",
+  "image": "http://dev.jolkona.org/_/rsrc/1285864393851/config/customLogo.gif?revision=2",
+  "author": {
+    "name": "Jolkona"
+  },
+  "tags": [
+    "Site",
+    "Building",
+    "Tools",
+    "Protocol"
+  ],
+  "description": "Jolkona’s APIs give you maximum flexibility in integrating the Jolkona Platform with your site or building the next generation of giving tools and apps. These APIs are REST-based and can be accessed by any application that can process requests using the HTTP protocol.  Methods are invoked by simply calling the URL for the desired method and, if necessary, passing parameters to the method using either HTTP POST or GET.  When a method is called, the method will return a response in XML.  If an error is encountered, an XML error response will be returned."
+}

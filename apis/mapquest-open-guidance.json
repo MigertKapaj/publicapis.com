@@ -1,0 +1,16 @@
+{
+  "id": "mapquest-open-guidance",
+  "title": "MapQuest Open Guidance",
+  "link": "http://developer.mapquest.com/web/products/open/guidance-service",
+  "image": "http://developer.mapquest.com/DevNet-Rebrand2-theme/html/themes/mq_theme/images/mq_images/mqlogo.png",
+  "author": {
+    "name": "MapQuest"
+  },
+  "tags": [
+    "Web",
+    "Service",
+    "Navigation",
+    "Routing"
+  ],
+  "description": "The MapQuest Platform: Open Guidance API Web Service allows you to create real-time navigation applications by returning detailed routing, connectivity information and route shapes."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fusion-tables",
+  "title": "Fusion Tables",
+  "link": "https://developers.google.com/fusiontables/docs/v1/getting_started",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Data",
+    "Templates",
+    "Conditions"
+  ],
+  "description": "Google Fusion Tables is an experimental application that lets you store, share, query, and visualize data tables. It offers a REST API to manage tables, info window templates, and styles. The query endpoint allows you to manage data rows (insert/update/delete), and query the table for all rows that match spatial or data conditions. The results of queries can be CSV or JSON, or used in the Google Maps API or Google Chart Tools."
+}

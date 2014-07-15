@@ -1,0 +1,15 @@
+{
+  "id": "ideatree",
+  "title": "IDEATREE",
+  "link": "https://www.myideatree.com/ideatree/api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgF_oOtrZuL-fQmRLiwkHeWH3juW6gE3q8yHSDM6byPQJCiTaPGA",
+  "author": {
+    "name": "My IDEATREE"
+  },
+  "tags": [
+    "Commands",
+    "Nodes",
+    "Complexities"
+  ],
+  "description": "The IdeaTree API wraps everything needed into a set of plain-english commands that speak in terms of visual objects like graphs and nodes, hiding the underlying complexities. "
+}

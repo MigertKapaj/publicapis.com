@@ -1,0 +1,15 @@
+{
+  "id": "milo",
+  "title": "Milo",
+  "link": "http://milo.com/developers",
+  "image": "http://milo.com/static/images/header/milo_logo.png",
+  "author": {
+    "name": "Milo"
+  },
+  "tags": [
+    "Developer",
+    "Access",
+    "Data"
+  ],
+  "description": "The Milo API allows developers to access local availability information for millions of products from 150,000+ stores all across the country. We’ve done the work of aggregating and structuring this data."
+}

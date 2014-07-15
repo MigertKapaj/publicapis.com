@@ -1,0 +1,16 @@
+{
+  "id": "tapcommerce",
+  "title": "TapCommerce",
+  "link": "http://tapcommerce.com/features.html",
+  "image": "http://tapcommerce.com/imgs/tc_trans.png",
+  "author": {
+    "name": "TapCommerce"
+  },
+  "tags": [
+    "Property",
+    "Secure",
+    "Plateform",
+    "Installation"
+  ],
+  "description": "Installing TapCommerce in your mobile property is very easy and secure. We offer a variety of solutions for integrating based on your preferred platform. For mobile applications, you can use our API,  activate TapCommerce in your existing mobile analytics provider, or use our SDK for a robust installation. "
+}

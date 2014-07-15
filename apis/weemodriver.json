@@ -1,0 +1,17 @@
+{
+  "id": "weemodriver",
+  "title": "WeemoDriver",
+  "link": "http://www.weemo.com/",
+  "image": "http://www.weemo.com/wp-content/uploads/2013/06/weemo-logo-white.png",
+  "author": {
+    "name": "Weemo"
+  },
+  "tags": [
+    "Interacts",
+    "Initiate",
+    "Chat",
+    "Share",
+    "Transfer"
+  ],
+  "description": "This Javascript interacts with your application – the Host App – and allows you to initiate peer to peer or group Video Chat from any browser and then be able to share your screen or transfer files."
+}

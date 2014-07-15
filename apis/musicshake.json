@@ -1,0 +1,16 @@
+{
+  "id": "musicshake",
+  "title": "Musicshake",
+  "link": "http://developers.musicshake.com/",
+  "image": "http://developers.musicshake.com/img/musicshake.png",
+  "author": {
+    "name": "Musicshake"
+  },
+  "tags": [
+    "Web",
+    "MP3 files",
+    "Streams",
+    "Services"
+  ],
+  "description": "The Musicshake API for developers is a RESTful web service that responds in JSON and provides MP3 files as download and streams. It was made for sites and services in need of royalty free  music. We offer access to a library of over 10,000 songs and let users find the perfect track for any occasion.\n"
+}

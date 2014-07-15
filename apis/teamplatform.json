@@ -1,0 +1,15 @@
+{
+  "id": "teamplatform",
+  "title": "TeamPlatform",
+  "link": "https://github.com/vispower/teamplatform-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Using",
+    "Authorize",
+    "Login"
+  ],
+  "description": "TeamPlatform authenticates end users using OAuth 2 only (No basic auth available). This allows users to authorize your application to use TeamPlatform on their behalf without having to copy/paste API tokens or touch sensitive login info."
+}

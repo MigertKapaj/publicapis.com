@@ -1,0 +1,16 @@
+{
+  "id": "the-bango-user-information-web-service",
+  "title": "The Bango User Information web service",
+  "link": "http://support.bango.com/entries/23398763",
+  "image": "http://bango.com/_/img/logo-bango.png",
+  "author": {
+    "name": "Bango"
+  },
+  "tags": [
+    "Identify",
+    "Website biling",
+    "Delivery",
+    "Setup"
+  ],
+  "description": "Get information about your users in real time with the Bango User Information web service API. The User Information API is ideal if you need to identify your users for in-app or PC website billing, or you need information about your users for support, marketing or delivery purposes.To request access to Direct Billing log into your package and select the Setup and Config tab, then select Web Service APIs from the menu on the left (you will need administrator permissions on your package)."
+}

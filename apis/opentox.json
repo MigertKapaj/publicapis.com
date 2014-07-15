@@ -1,0 +1,16 @@
+{
+  "id": "opentox",
+  "title": "OpenTox",
+  "link": "http://www.opentox.org/dev/apis",
+  "image": "http://www.opentox.org/logo.png",
+  "author": {
+    "name": "OpenTox"
+  },
+  "tags": [
+    "Compatible",
+    "Web",
+    "Testing",
+    ""
+  ],
+  "description": "Current specifications of OpenTox interfaces are provided in this section and should be used when creating OpenTox and OpenTox compatible web services.The initial specifications (Version 1.0) for the OpenTox Application Programming Interfaces (APIs) were completed for July 2009 and were used in the first development and testing iteration taking place between 14 July and 31 August 2009.The second Version 1.1 of the OpenTox APIs were completed and published in November 2009.The third Version 1.2 of the OpenTox APIs were completed and published in May 2011.Experiences, proposals for interface changes and discussions should be added to the Interfaces Discussion section."
+}

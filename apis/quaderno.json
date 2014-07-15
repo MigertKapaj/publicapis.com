@@ -1,0 +1,15 @@
+{
+  "id": "quaderno",
+  "title": "Quaderno",
+  "link": "https://github.com/recrea/quaderno-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Resources",
+    "Features",
+    "Including"
+  ],
+  "description": "The Quaderno API is based on REST: it is comprised of resources with predictable urls and utilises standard HTTP features (like HTTP Basic Authentication, Response Codes and Methods). All requests, including errors, return JSON. The API expects JSON for all POST and PUT requests."
+}

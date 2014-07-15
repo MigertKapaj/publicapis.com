@@ -1,0 +1,13 @@
+{
+  "id": "name",
+  "title": "name",
+  "link": "docs",
+  "image": "image",
+  "author": {
+    "name": "provider"
+  },
+  "tags": [
+    "tags"
+  ],
+  "description": "description"
+}

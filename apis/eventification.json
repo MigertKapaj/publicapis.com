@@ -1,0 +1,16 @@
+{
+  "id": "eventification",
+  "title": "Eventification",
+  "link": "http://eventification.com/api",
+  "image": "",
+  "author": {
+    "name": "Eventification"
+  },
+  "tags": [
+    "Obligations",
+    "Encourages",
+    "Developing",
+    "Brain"
+  ],
+  "description": "Event data on Eventification is free and open for anyone to consume -- currently without any restrictions or obligations. As a community resource, we hope others will utilize these capabilities and encourage others to promote their events using Eventification.There will be changes to this API, so if you plan on developing around it, please get in touch with Brian (brianshaler at gmail dot com), to stay up to date with any changes that might affect your usage of the API."
+}

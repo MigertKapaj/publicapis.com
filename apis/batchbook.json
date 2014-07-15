@@ -1,0 +1,15 @@
+{
+  "id": "batchbook",
+  "title": "Batchbook",
+  "link": "http://developer.batchblue.com/",
+  "image": "http://batchbook.com/ogbb/images/bb-logo.png",
+  "author": {
+    "name": "Batchbook"
+  },
+  "tags": [
+    "Develop",
+    "Integration",
+    "Documentation"
+  ],
+  "description": "We have launched a new version of Batchbook and it has its own API which can be found here. Please do not develop new integrations agains this API! We are leaving it this documentation in place soley as a reference for developers supporting existing integrations with “Batchbook Classic.”"
+}

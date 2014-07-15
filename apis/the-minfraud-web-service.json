@@ -1,0 +1,15 @@
+{
+  "id": "the-minfraud-web-service",
+  "title": "The minFraud web service",
+  "link": "http://dev.maxmind.com/minfraud/",
+  "image": "http://maxminddev.wpengine.com/wp-content/uploads/2013/06/maxmind-logo.gif",
+  "author": {
+    "name": " MaxMind "
+  },
+  "tags": [
+    "Web",
+    "Service",
+    ""
+  ],
+  "description": "The minFraud web service is available using a simple URI-based API or via SOAP. To use this service, you must have a valid MaxMind license key."
+}

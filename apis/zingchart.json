@@ -1,0 +1,15 @@
+{
+  "id": "zingchart",
+  "title": "ZingChart",
+  "link": "http://api.zingchart.com/docs/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAn1j5ZIoSXt1N1TDuzyxervI-YvpjdGTrvt4LjwuvNL3XMy6Y0w",
+  "author": {
+    "name": "ZingChart"
+  },
+  "tags": [
+    "Provides",
+    "Services",
+    "Hosting"
+  ],
+  "description": "ZingChart provides a number of APIs for easier and customized charting. This document covers our Web services API useful for hosting and generating charts remotely."
+}

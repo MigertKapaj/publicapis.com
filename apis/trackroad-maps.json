@@ -1,0 +1,16 @@
+{
+  "id": "trackroad-maps",
+  "title": "TrackRoad Maps",
+  "link": "http://doc.trackroad.com/APIFeatures.aspx",
+  "image": "http://doc.trackroad.com/images/master/logo.png",
+  "author": {
+    "name": "TrackRoad Maps"
+  },
+  "tags": [
+    "Software",
+    "Billable",
+    "Commericial",
+    "Direction"
+  ],
+  "description": "Are you suffering from severe restrictions imposed by other mapping softwares? Are you tired of having to sift through unrealistic agreements such as billable vs non-billable,\nbasic key vs commercial key, public facing vs commercial, etc. non-sense? We have a simple business model. We offer multiple APIs for route optimization, tracking tiles, and turn-by-turn directions using one simple key. "
+}

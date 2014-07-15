@@ -1,0 +1,15 @@
+{
+  "id": "adsense",
+  "title": "\n        \n        \n  \n          \n  \n  AdSense",
+  "link": "https://developers.google.com/adsense/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Flexible",
+    "Websites",
+    "Search"
+  ],
+  "description": "Google AdSense provides a free, flexible way to earn money from your websites, mobile sites, and site search results with relevant and engaging ads.\nThere are two AdSense APIs: The AdSense Management API and the AdSense Host API, which is only available to Host partners."
+}

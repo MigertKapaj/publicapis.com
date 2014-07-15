@@ -1,0 +1,16 @@
+{
+  "id": "wiziq-virtual-classroom",
+  "title": "WizIQ Virtual Classroom",
+  "link": "http://developer.wiziq.com/",
+  "image": "http://developer.wiziq.com/images/WizIQ_developer.gif",
+  "author": {
+    "name": "WizIQ "
+  },
+  "tags": [
+    "Virtual",
+    "Classroom",
+    "Website",
+    "Learning"
+  ],
+  "description": "Integrate the WizIQ Virtual Classroom with your own Website, Course Management System or Learning Management System through the WizIQ Virtual Classroom API\n                "
+}

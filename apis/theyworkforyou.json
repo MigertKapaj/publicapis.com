@@ -1,0 +1,16 @@
+{
+  "id": "theyworkforyou",
+  "title": "TheyWorkForYou",
+  "link": "http://www.theyworkforyou.com/api/",
+  "image": "http://www.theyworkforyou.com/images/logo.png",
+  "author": {
+    "name": "TheyWorkForYou.com"
+  },
+  "tags": [
+    "Section",
+    "Query",
+    "Database",
+    "Information"
+  ],
+  "description": "Welcome to TheyWorkForYou's API section, where you can learn how to query our database for information."
+}

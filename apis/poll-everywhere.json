@@ -1,0 +1,15 @@
+{
+  "id": "poll-everywhere",
+  "title": "Poll Everywhere",
+  "link": "http://api.polleverywhere.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzxqNsCaJnNDOZS-aFQXAw9SQ4AEt5nyylyGXFPFC77GWWbQ8r",
+  "author": {
+    "name": "Poll Everywhere"
+  },
+  "tags": [
+    "Integrate",
+    "Developers",
+    "Reliable"
+  ],
+  "description": "We're really stoked that you want to integrate Poll Everywhere into your application. We built this API with goal of providing developers with a simple, reliable, and enjoyable way to integrate Poll Everywhere into applications."
+}

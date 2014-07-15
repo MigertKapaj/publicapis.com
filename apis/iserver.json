@@ -1,0 +1,16 @@
+{
+  "id": "iserver",
+  "title": "iServer",
+  "link": "http://www.ezxinc.com/iserver.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThSxVdRp8KqKaWb9iQy4CFTew2BnYokCkuQX-PoJVzeVknpTlCxQ",
+  "author": {
+    "name": "EZX"
+  },
+  "tags": [
+    "Clients",
+    "Delivered",
+    "Service",
+    "Support"
+  ],
+  "description": "iServer is EZX’s flagship product that provides clients with a robust, broker neutral Trading Platform delivered as a fully managed Service. iServer offers a platform independent API, an integrated Trade Blotter (EZoms), pre-certified FIX connectivity, and world class service and support."
+}

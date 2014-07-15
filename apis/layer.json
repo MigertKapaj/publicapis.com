@@ -1,0 +1,14 @@
+{
+  "id": "layer",
+  "title": "Layer",
+  "link": "https://layer.com/docs",
+  "image": "https://layer.com/images/svg/logo.svg",
+  "author": {
+    "name": "Layer"
+  },
+  "tags": [
+    "Security",
+    "Certificate"
+  ],
+  "description": "At Layer, we strive to provide the best security options available today. To achieve this, all requests made to the Layer backend API are encrypted with a client certificate."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "suse-studio",
+  "title": "SUSE Studio",
+  "link": "http://susestudio.com/help/api/index.html",
+  "image": "http://susestudio.com/help/public/logo-studio-help.png",
+  "author": {
+    "name": "SUSE Studio"
+  },
+  "tags": [
+    "Features",
+    "Appliances",
+    "Monitor builds"
+  ],
+  "description": "SUSE Studio features a RESTful API over HTTPS, which can be used to clone appliances, upload files, trigger and monitor builds, and more. See the SUSE Studio API documentation for more details."
+}

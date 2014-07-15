@@ -1,0 +1,15 @@
+{
+  "id": "rocket-dispatch",
+  "title": "Rocket Dispatch",
+  "link": "http://www.rocketdispatch.com/api.php",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQkZet64iqk8B0sA8kJJxlnSOeflx1_RJgJgZTXHm8-af-UuNa1Pw",
+  "author": {
+    "name": "Rocket Dispatch"
+  },
+  "tags": [
+    "Organization",
+    "System",
+    "Support"
+  ],
+  "description": "Your application is the life-blood of your organization, nobody wants to have to go to yet \"another\" system. Rocket Dispatch solves that gap with our Application Programming Interface (API) that can easily fit into your existing system. Our support staff is here to help get you started, but the truth is, it's so easy, you won't need us."
+}

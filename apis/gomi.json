@@ -1,0 +1,16 @@
+{
+  "id": "gomi",
+  "title": "Gomi",
+  "link": "http://www.gomi.com/api",
+  "image": "http://www.gomi.com/public/images/logo-white.png",
+  "author": {
+    "name": "Gomi"
+  },
+  "tags": [
+    "Providing",
+    "Manage",
+    "Account",
+    "Encrypted"
+  ],
+  "description": "Users must authenticate by providing a valid API Key. You can manage your api keys from your account details page.\nYou're encouraged to connect over SSL (https) so your communications are encrypted."
+}

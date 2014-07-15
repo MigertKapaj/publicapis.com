@@ -1,0 +1,16 @@
+{
+  "id": "bongo-international",
+  "title": "Bongo International",
+  "link": "https://api.bongous.com/en/",
+  "image": "https://bongous.com/img/Bongo-Logo.png",
+  "author": {
+    "name": "Bongo International"
+  },
+  "tags": [
+    "Directly",
+    "International",
+    "Process",
+    "Seamless"
+  ],
+  "description": "Our API driven model keeps the Bongo process behind-the-scenes. Your international visitors will choose their ship-to country and pay you directly for the international shipping to complete the checkout process. Increase your international conversion rates by making the checkout more seamless and showing full landed costs to your customers"
+}

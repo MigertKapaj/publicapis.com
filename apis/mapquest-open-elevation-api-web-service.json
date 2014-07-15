@@ -1,0 +1,16 @@
+{
+  "id": "mapquest-open-elevation-api-web-service",
+  "title": "MapQuest Open Elevation API Web Service",
+  "link": "http://developer.mapquest.com/web/products/open/elevation-service",
+  "image": "http://developer.mapquest.com/DevNet-Rebrand2-theme/html/themes/mq_theme/images/mq_images/mqlogo.png",
+  "author": {
+    "name": "MapQuest"
+  },
+  "tags": [
+    "Web",
+    "Service",
+    "Elevation",
+    "Distance"
+  ],
+  "description": "The MapQuest Platform: Open Elevation API Web Service provides elevation profile information such as elevation and distance given a lat/lng pair in JSON or XML formats."
+}

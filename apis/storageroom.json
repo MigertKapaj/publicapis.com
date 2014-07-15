@@ -1,0 +1,15 @@
+{
+  "id": "storageroom",
+  "title": "StorageRoom",
+  "link": "http://storageroomapp.com",
+  "image": "http://assets3.storageroomapp.com/assets/storageroom-bbecf995058bef966d764b55d1ff65ce.png",
+  "author": {
+    "name": "StorageRoom"
+  },
+  "tags": [
+    "Content",
+    "Interface",
+    "Applications"
+  ],
+  "description": "Manage content in our web-based interface and use our JSON-API to display it in your applications.StorageRoom is only available for existing customers. "
+}

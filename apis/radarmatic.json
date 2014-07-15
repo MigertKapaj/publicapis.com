@@ -1,0 +1,16 @@
+{
+  "id": "radarmatic",
+  "title": "Radarmatic",
+  "link": "http://radarmatic.com/api.html",
+  "image": "http://radarmatic.com/hurricane.png",
+  "author": {
+    "name": "Radarmatic"
+  },
+  "tags": [
+    "Mac",
+    "Colocated",
+    "Ruby",
+    "Binary."
+  ],
+  "description": "Radarmatic runs on a Mac mini with 4GB of RAM colocated in Las Vegas. It's written in Ruby using Sinatra and served by nginx/passenger. It also makes use of rack::cache, memcached, and a custom utility called radarparse to convert binary weather radar files to JSON. "
+}

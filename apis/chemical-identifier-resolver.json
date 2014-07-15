@@ -1,0 +1,15 @@
+{
+  "id": "chemical-identifier-resolver",
+  "title": "Chemical Identifier Resolver",
+  "link": "http://cactus.nci.nih.gov/chemical/structure",
+  "image": "",
+  "author": {
+    "name": "Chemical Identifier Resolver"
+  },
+  "tags": [
+    "Convert",
+    "Identify",
+    "Service"
+  ],
+  "description": "This service works as a resolver for different chemical structure identifiers and allows one to convert a given structure identifier into another representation or structure identifier. It can help you identify and find the chemical structure if you have an identifier such as an InChIKey."
+}

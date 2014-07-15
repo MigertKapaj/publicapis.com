@@ -1,0 +1,16 @@
+{
+  "id": "verypdf-cloud",
+  "title": "VeryPDF Cloud",
+  "link": "http://www.verypdf.com/online/cloud-api/user-guide.html",
+  "image": "http://www.verypdf.com/common/image/logo.gif",
+  "author": {
+    "name": "VeryPDF"
+  },
+  "tags": [
+    "Service",
+    "Generation",
+    "Platform",
+    "Seamlessly"
+  ],
+  "description": "VeryPDF Cloud API is a cloud service API provided for developers. VeryPDF Cloud is a cloud-based document generation, conversion and automation platform. It gives developers on all platforms total control over documents and file formats. It interoperates seamlessly with other cloud services."
+}

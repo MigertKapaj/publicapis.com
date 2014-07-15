@@ -1,0 +1,15 @@
+{
+  "id": "json",
+  "title": "JSON",
+  "link": "http://www.paagoinvoice.com/developers.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQn5ubc-YOJxQLowBOyu1MGm4jvvkvkrelwte0xvSVCK5V5bBmasw",
+  "author": {
+    "name": "PAAGO"
+  },
+  "tags": [
+    "Payments",
+    "Application",
+    "Synchronize"
+  ],
+  "description": "JSON API is a standardized universal way to use Revo Payments’ online system with your application. It has been designed to allow you to synchronize your system with our online payment system. It is designed to be used with any developers language and it is always available online."
+}

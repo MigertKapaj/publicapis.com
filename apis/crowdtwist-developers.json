@@ -1,0 +1,15 @@
+{
+  "id": "crowdtwist-developers",
+  "title": "CrowdTwist Developers",
+  "link": "https://developers.crowdtwist.com/",
+  "image": "http://developers.crowdtwist.com/wp-content/themes/crowdtwist-devs/img/logo-devs.png",
+  "author": {
+    "name": "CrowdTwist Developers"
+  },
+  "tags": [
+    "Integrate",
+    "Existing",
+    "Functionality"
+  ],
+  "description": "Integrate the CrowdTwist platform into your existing infrastructure by leveraging our extensive API functionality."
+}

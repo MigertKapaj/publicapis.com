@@ -1,0 +1,13 @@
+{
+  "id": "govdata",
+  "title": "GovData",
+  "link": "http://govdata.se/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSXFQDTojRhTgZPm74FWXii9yfz-bE9GDKaa4fsW4J-qVzn0py9Hw",
+  "author": {
+    "name": "GovData"
+  },
+  "tags": [
+    "Information"
+  ],
+  "description": "All den information som presenteras på GovData går även att hämta via det API som tillhandahålls. Vi har valt att använda JSON för kommunikation för att det är kompakt och stödjs av majoriteten av alla programmeringsspråk. "
+}

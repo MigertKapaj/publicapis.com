@@ -1,0 +1,16 @@
+{
+  "id": "maxcdn-restful",
+  "title": "MaxCDN RESTFUL ",
+  "link": "http://www.netdna.com/technology/restful-api/",
+  "image": "http://www.maxcdn.com/wp-content/themes/maxcdnv4/img/png/nav_sprite.png",
+  "author": {
+    "name": "MaxCDN"
+  },
+  "tags": [
+    "Manage",
+    "Resources",
+    "design",
+    ""
+  ],
+  "description": "The MaxCDN RESTFUL API lets any 3rd-party interact with our CDN from other applications. API consumers can manage several resources, including users, zones and accounts.The API adheres to RESTful design principles, and can send responses as either XML and JSON."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "userfox",
+  "title": "Userfox",
+  "link": "https://www.userfox.com/plans/",
+  "image": "https://www.userfox.com/assets/userfox-logo-bafe75f20ae0980d04a326dc80f94d5e.png",
+  "author": {
+    "name": "Userfox"
+  },
+  "tags": [
+    "Data",
+    "Pricing",
+    "Format"
+  ],
+  "description": "You can additionally push userfox custom data about your users. This data can be any data you know about the user: pricing plan, date of trial expiry, number of friends, first name, and so on. userfox understands that a date is in date format, and will allow you to build rules around any custom data you send."
+}

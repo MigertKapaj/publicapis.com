@@ -1,0 +1,15 @@
+{
+  "id": "mixscan",
+  "title": "MixSCAN",
+  "link": "http://mixscan.com/documentation.html",
+  "image": "http://mixscan.com/mixscan.gif",
+  "author": {
+    "name": "MixSCAN"
+  },
+  "tags": [
+    "Contain",
+    "Returned",
+    "Actually"
+  ],
+  "description": "MixSCAN is a RESTful job-based API that allows you to fingerprint individual files that may contain more than one song or artist over time. What do we mean by job based? Each time you make a request to MixSCAN you will be returned with a small amount of metadata for the mix before the scan has actually taken place."
+}

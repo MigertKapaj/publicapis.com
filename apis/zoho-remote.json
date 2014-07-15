@@ -1,0 +1,16 @@
+{
+  "id": "zoho-remote",
+  "title": "Zoho Remote",
+  "link": "https://apihelp.wiki.zoho.com/Remote-API-Overview.html",
+  "image": "https://apihelp.wiki.zoho.com/attach/1.0/logo.gif",
+  "author": {
+    "name": "Zoho"
+  },
+  "tags": [
+    "Documents",
+    "Web",
+    "Servers",
+    "Control"
+  ],
+  "description": "The main purpose of Zoho Remote APIs is to allow users to open, edit and save standard desktop documents such as Microsoft Office/Open Office using the respective Zoho web-based editors. The Remote API integration approach brings in the best of both the worlds for partners, enterprises & medium sized businesses - collaborative editing capabilities of an online application while at the same time having the choice of storing data in their own servers. Once the users are done with their edits & press save, the documents are automatically stored in partners document repository. Zoho doesn't keep a copy of them and the partners/enterprises always keep control of their document. "
+}

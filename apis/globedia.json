@@ -1,0 +1,15 @@
+{
+  "id": "globedia",
+  "title": "Globedia",
+  "link": "http://api.globedia.com/es/documentacion/country/#getList",
+  "image": "http://api.globedia.com/img/logo_globedia.png",
+  "author": {
+    "name": "Globedia"
+  },
+  "tags": [
+    "Acceder",
+    "Web",
+    "Actualidad"
+  ],
+  "description": "El API de Globedia te permitirá acceder a las noticias generadas por nuestros usuarios, con las que podrás incluir toda la actualidad sobre cualquier tema de tu interés en tus proyectos web."
+}

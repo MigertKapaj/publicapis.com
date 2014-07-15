@@ -1,0 +1,15 @@
+{
+  "id": "daft.ie",
+  "title": "Daft.ie",
+  "link": "http://api.daft.ie/gettingstarted/",
+  "image": "http://api.daft.ie/includes/logo_daft_API.gif",
+  "author": {
+    "name": "Daft.ie"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Properly"
+  ],
+  "description": "The Daft API is a service that allows developers like you to build tools and websites powered by Daft.ie. You can use our data to create an estate agent website, statistics about the Irish property market, a new property search tool, or anything else you can dream up."
+}

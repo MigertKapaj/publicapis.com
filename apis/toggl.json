@@ -1,0 +1,15 @@
+{
+  "id": "toggl",
+  "title": "Toggl",
+  "link": "https://github.com/toggl/toggl_api_docs",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Actively",
+    "Request",
+    "Improvement"
+  ],
+  "description": "The Toggl API has moved to Github so you could actively participate in helping us making the API better. If you have any requests or you found a bug, you can use Github issues to let us know. You can also fork the docs and send a pull request with improvements"
+}

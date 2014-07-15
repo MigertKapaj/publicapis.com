@@ -1,0 +1,15 @@
+{
+  "id": "ikon",
+  "title": "IKON",
+  "link": "http://ikonfinance.com/trade/technology/apis/",
+  "image": "http://ikonfinance.com/images/logo.png",
+  "author": {
+    "name": "IKON"
+  },
+  "tags": [
+    "Systems",
+    "Providers",
+    "Designed"
+  ],
+  "description": "IKON's API systems are in use to connect to several liquidity providers. The tool has been designed for diverse implementation needs."
+}

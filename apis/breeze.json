@@ -1,0 +1,15 @@
+{
+  "id": "breeze",
+  "title": "Breeze",
+  "link": "http://breeze.pm/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSGtukKIuTr8lkMvoy8Xvt-OlqNnCDx51XQzRuH7XOx9dHXab6m",
+  "author": {
+    "name": "Breeze"
+  },
+  "tags": [
+    "Enables",
+    "Access",
+    "Designed"
+  ],
+  "description": "The Breeze API is a REST style API that enables your application or script to access Breeze resources. It is designed to have predictable resource URLs and to use HTTP response codes for errors."
+}

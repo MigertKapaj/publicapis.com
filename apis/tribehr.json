@@ -1,0 +1,15 @@
+{
+  "id": "tribehr",
+  "title": "TribeHR",
+  "link": "http://developers.tribehr.com/api/",
+  "image": "http://developers.tribehr.com/wp-content/themes/tribehr_devblog/images/tribeHRLogo.png",
+  "author": {
+    "name": "TribeHR"
+  },
+  "tags": [
+    "Specific",
+    "Developer",
+    "Connect"
+  ],
+  "description": "When you connect to the TribeHR APIs, you do so as a TribeHR user attached to a specific TribeHR site. This means you don't need to register for a separate developer account - you can connect using your existing TribeHR credientials."
+}

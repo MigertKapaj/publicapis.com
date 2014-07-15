@@ -1,0 +1,15 @@
+{
+  "id": "tfl-cycle-hire",
+  "title": "TfL Cycle Hire",
+  "link": "http://bike-stats.co.uk/",
+  "image": "http://bike-stats.appspot.com/images/style1/logo.png",
+  "author": {
+    "name": "Bikestats"
+  },
+  "tags": [
+    "Data",
+    "Regarding",
+    "Develop"
+  ],
+  "description": "The API was created to display real-time data from the TFL Cycle Hire website. The project was made to gather the data regarding the TFL Cycle Hire programme and to develop a easy way of grabbing it. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "istabai",
+  "title": "Istabai",
+  "link": "http://istabai.com/api/?lang=en",
+  "image": "http://istabai.com/assets/v138/img/logo.png",
+  "author": {
+    "name": "Istabai"
+  },
+  "tags": [
+    "Enables",
+    "Heating",
+    "Requests"
+  ],
+  "description": "The Istabai REST API enables you to interact with your devices and heating settings programmatically via HTTP requests. "
+}

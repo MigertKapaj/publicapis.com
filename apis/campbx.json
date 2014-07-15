@@ -1,0 +1,15 @@
+{
+  "id": "campbx",
+  "title": "CampBX",
+  "link": "https://campbx.com/api.php",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRd-yXSzBXzQCIHOQi6HhsIxWJkrj9BW-Lslcx4nT2UcBJZ1AJDGw",
+  "author": {
+    "name": "CampBX"
+  },
+  "tags": [
+    "Activated",
+    "Ticket",
+    "Security"
+  ],
+  "description": "API access can be activated for an account by submitting a ticket to the Helpdesk here. Your ticket must include your email, username, and latest transaction date for security reasons. "
+}

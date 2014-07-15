@@ -1,0 +1,15 @@
+{
+  "id": "pushbots",
+  "title": "Pushbots",
+  "link": "https://pushbots.com/developer/rest",
+  "image": "https://pushbots.com/Resources/images/logo.png",
+  "author": {
+    "name": "Pushbots"
+  },
+  "tags": [
+    "Device",
+    "Data",
+    "Updated"
+  ],
+  "description": "Register device token of the app in the database first time , and update it with every launch of the app , device data will be updated if registered already."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "inventory",
+  "title": "Inventory",
+  "link": "http://inventoryapi.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQkNLjnEIzZCioy8zVSeOVTgUkjVkpadcPBgdH9U1NMiZ79U-ig",
+  "author": {
+    "name": "Inventory"
+  },
+  "tags": [
+    "Making",
+    "Querying",
+    "Repository"
+  ],
+  "description": "The API enables querying customer registry, making a sale, registering a payment, browsing inventory, querying and applying price lists, creating events in the calendar, using the document repository and much, much more. "
+}

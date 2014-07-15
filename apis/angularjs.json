@@ -1,0 +1,16 @@
+{
+  "id": "angularjs",
+  "title": "AngularJS",
+  "link": "http://docs.angularjs.org/api/",
+  "image": "http://docs.angularjs.org/img/angularjs-for-header-only.svg",
+  "author": {
+    "name": "AngularJS"
+  },
+  "tags": [
+    "Reference",
+    "Glitterfication",
+    "Modules",
+    "Directive"
+  ],
+  "description": "Welcome to the AngularJS API docs page. These pages contain the AngularJS reference materials for version 1.3.0-beta.5  chimeric-glitterfication.The documentation is organized into modules which contain various components of an AngularJS application.These components are directives, services, filters, providers, types, global APIs and testing mocks."
+}

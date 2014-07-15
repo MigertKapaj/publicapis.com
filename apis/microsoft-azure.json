@@ -1,0 +1,15 @@
+{
+  "id": "microsoft-azure",
+  "title": "Microsoft Azure",
+  "link": "http://msdn.microsoft.com/en-us/library/windowsazure/ee460807.aspx",
+  "image": "http://i3.msdn.microsoft.com/Areas/Epx/Themes/WindowsAzure/Content/SpriteImages/ImageSprite.Azure.png",
+  "author": {
+    "name": "Microsoft Azure"
+  },
+  "tags": [
+    "Subsctiption",
+    "Service",
+    "Identified"
+  ],
+  "description": "A Microsoft Azure subscription is a unique user account in Azure. All resources available via the Service Management API are organized beneath the subscription. When you create an Azure subscription, it is uniquely identified by a subscription ID."
+}

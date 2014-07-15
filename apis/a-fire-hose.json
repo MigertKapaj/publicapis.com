@@ -1,0 +1,16 @@
+{
+  "id": "a-fire-hose",
+  "title": "A fire hose",
+  "link": "http://www.moreover.com/get-metabase-info",
+  "image": "http://www.moreover.com/sites/default/images/moreover_masthead_logo2.gif",
+  "author": {
+    "name": "Moreover"
+  },
+  "tags": [
+    "News",
+    "Data",
+    "Indexing",
+    "Control"
+  ],
+  "description": "A fire hose API that delivers near real-time news and social media data in XML over HTTP. Each article and post is categorized and enriched with 50+ pieces of descriptive metadata for detailed indexing and media analytics. Deploy into any database or application environment for complete client-side control of the data."
+}

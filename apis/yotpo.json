@@ -1,0 +1,15 @@
+{
+  "id": "yotpo",
+  "title": "Yotpo",
+  "link": "http://docs.yotpoapi.apiary.io/",
+  "image": "https://apiary.a.ssl.fastly.net/assets/images/apiary-app-logo-1x-136bf1f4d06a3c9e.png",
+  "author": {
+    "name": "Yotpo"
+  },
+  "tags": [
+    "Described",
+    "Authenticated",
+    "Require"
+  ],
+  "description": "In Yotpo we have Users and Accounts. Each user, usually, has one account but can have more. Each such account, is described using an app_key. You will need this app_key, for most actions in the API. Most of the Yotpo API calls are restriced to authenticated users only, and require a utoken (user token). "
+}

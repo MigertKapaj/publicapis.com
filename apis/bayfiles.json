@@ -1,0 +1,15 @@
+{
+  "id": "bayfiles",
+  "title": "BAYFILES",
+  "link": "http://bayfiles.com/api",
+  "image": "http://bayfiles.net/img/logo.png",
+  "author": {
+    "name": "BAYFILES"
+  },
+  "tags": [
+    "Until",
+    "Enough",
+    "Freeze"
+  ],
+  "description": "The API is currently in BETA mode. It can still change until we gathered enough feedback to freeze it."
+}

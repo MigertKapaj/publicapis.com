@@ -1,0 +1,15 @@
+{
+  "id": "leaguevine",
+  "title": "Leaguevine",
+  "link": "https://www.leaguevine.com/docs/api/examples/",
+  "image": "https://d2vrmkp7lb6jlo.cloudfront.net/v2/img/leaguevine_logo_beta_146x30.png",
+  "author": {
+    "name": "Leaguevine"
+  },
+  "tags": [
+    "Data",
+    "Access",
+    "Interesting"
+  ],
+  "description": "The Leaguevine REST API offers read/write access to almost all of Leaguevine's data. The goal is to give you the opportunity to quickly and easily build rich, interesting applications that tie into and contribute to a central pool of data."
+}

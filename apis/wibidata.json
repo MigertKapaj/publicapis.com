@@ -1,0 +1,16 @@
+{
+  "id": "wibidata",
+  "title": "WibiData",
+  "link": "http://www.wibidata.com/",
+  "image": "http://www.wibidata.com/assets/images/resources-sdcf56e36c4.png",
+  "author": {
+    "name": "WibiData"
+  },
+  "tags": [
+    "Data",
+    "Derivative",
+    "Operate",
+    "Information"
+  ],
+  "description": "Entity-centric (people, places, things) data analysis requires both large volumes of detailed event data and more concise derivative data. Keeping data logically and physically close allows for high-performance analysis. Applications need to operate on the most relevant information, integrating batch and real-time calculations."
+}

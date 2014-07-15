@@ -1,0 +1,16 @@
+{
+  "id": "icndb.com",
+  "title": "ICNDb.com",
+  "link": "http://www.icndb.com/api/",
+  "image": "http://icndb.com/wp-content/uploads/2011/01/icndb_logo2.png",
+  "author": {
+    "name": "ICNDb.com"
+  },
+  "tags": [
+    "Retrieve",
+    "Data",
+    "Function",
+    "Script"
+  ],
+  "description": "The jokes are available at http://api.icndb.com. Use HTTP GET to retrieve what you want (read on below for more details). Results can returned as raw JSON data (the default case) or using a JavaScript callback function for script communication."
+}

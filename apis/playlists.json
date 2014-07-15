@@ -1,0 +1,16 @@
+{
+  "id": "playlists",
+  "title": "Playlists",
+  "link": "http://www.last.fm/api/playlists",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT9EOjoBupeGvpGykVJN-nzTZnUYqcyvfg9YofX2tmwyq9CMIub7Q",
+  "author": {
+    "name": "Last.fm"
+  },
+  "tags": [
+    "Method",
+    "Fetch",
+    "Web",
+    "Sharable"
+  ],
+  "description": "Use the playlist.fetch method call to fetch XSPF playlists. XSPF is a web standard for sharable playlists, and XSPF libraries are available in several languages. playlist.fetch takes a 'lastfm' protocol URL as an argument; this identifies the playlist you're requesting."
+}

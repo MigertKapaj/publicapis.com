@@ -1,0 +1,16 @@
+{
+  "id": "image",
+  "title": " Image",
+  "link": "http://developer.zappos.com/docs/api-image",
+  "image": "http://developer.zappos.com/sites/default/files/logo.png",
+  "author": {
+    "name": "Zappos"
+  },
+  "tags": [
+    "Images",
+    "Products",
+    "Mojo",
+    "Trffic"
+  ],
+  "description": "You can use these images to provide multiple views and image sizes of our products. Please note, that if you use our images, they should not be used in a manner that solely drives traffic to other sites. (e.g. don't use our high res images and make them click over to another website where you might be getting affiliate commissions through). This is bad karma, mojo and we'll likely revoke your API privileges and make you sit in a corner."
+}

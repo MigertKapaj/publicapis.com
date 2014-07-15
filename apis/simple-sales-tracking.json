@@ -1,0 +1,16 @@
+{
+  "id": "simple-sales-tracking",
+  "title": "Simple Sales Tracking",
+  "link": "http://www.simplesalestracking.com/api.aspx",
+  "image": "http://www.simplesalestracking.com/images/header-bottom.jpg",
+  "author": {
+    "name": "Simple Sales Tracking"
+  },
+  "tags": [
+    "Provide",
+    "Ability",
+    "Tracking",
+    "Website"
+  ],
+  "description": "The Simple Sales Tracking API provides you with the ability to connect and sync Simple Sales Tracking with your website and applications. "
+}

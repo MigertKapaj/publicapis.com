@@ -1,0 +1,15 @@
+{
+  "id": "deze",
+  "title": "Deze",
+  "link": "http://appsforghent.be/api-tdt/",
+  "image": "http://appsforghent.be/wp-content/themes/vibrant/images/logo.png",
+  "author": {
+    "name": "Ghent"
+  },
+  "tags": [
+    "Worden",
+    "Data",
+    "App"
+  ],
+  "description": "Op deze site is een The DataTank geïnstalleerd, een API die door iedereen kan aangesproken worden. Deze API kan je gebruiken om je app te voorzien van data tijdens de hackaton."
+}

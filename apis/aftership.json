@@ -1,0 +1,16 @@
+{
+  "id": "aftership",
+  "title": "Aftership",
+  "link": "https://www.aftership.com/docs/api/3.0",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQd5bzbSpd6fHBcOzI-ECEofpQ6P4b7pObUg6BmvtVOio0HT1qN",
+  "author": {
+    "name": "Aftership"
+  },
+  "tags": [
+    "Online",
+    "Delivery",
+    "Service",
+    "Generate"
+  ],
+  "description": "AfterShip helps online businesses to track packages and notify customers delivery updates. Improve customer service, generate more businesses and reduce customer enquiries after shipping."
+}

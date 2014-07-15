@@ -1,0 +1,16 @@
+{
+  "id": "linkagogo",
+  "title": "linkaGoGO",
+  "link": "http://www.linkagogo.com/rest_api.html",
+  "image": "",
+  "author": {
+    "name": "linkaGoGo"
+  },
+  "tags": [
+    "Application",
+    "Bookmarks",
+    "perations",
+    "Functionality"
+  ],
+  "description": "This document describes the REST API for linkaGoGo. With this API, third-party applications can query and modify linkaGoGo bookmarks and folders.The API is based on the principles of REST. The API uses a small set of HTTP operations for its functionality. The operations are GET (retrieve), POST(create), PUT(update) and DELETE(delete). These operations can be applied on Folders and Bookmarks."
+}

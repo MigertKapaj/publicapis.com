@@ -1,0 +1,16 @@
+{
+  "id": "idiomag",
+  "title": "idiomag",
+  "link": "http://www.idiomag.com/api/documentation",
+  "image": "http://assets.idiomag.com/img/logo.gif",
+  "author": {
+    "name": "idiomag"
+  },
+  "tags": [
+    "Publishing",
+    "Music",
+    "Provides",
+    "Technical"
+  ],
+  "description": "idiomag is a personalised publishing platform that aggregates quality content about music, and delivers a unique blend to every reader based on their music taste. This page provides the full details of all the API functionality. Please email api@idiomag.com for any technical questions you may have."
+}

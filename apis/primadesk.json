@@ -1,0 +1,17 @@
+{
+  "id": "primadesk",
+  "title": "Primadesk",
+  "link": "https://www.primadesk.com/developers.html",
+  "image": "http://www.primadesk.com/images/new/pd_logo.png",
+  "author": {
+    "name": "Primadesk"
+  },
+  "tags": [
+    "Services",
+    "Interesting",
+    "Platform",
+    "Providers",
+    "Developing"
+  ],
+  "description": "Building applications to access the many cloud services can be a challenge. We have an alpha version of our API that you can use to build interesting applications for users on top of our Primadesk product platform. We have eliminated the hard work of interfacing with all the cloud service providers so that you can focus on developing great product functionality. "
+}

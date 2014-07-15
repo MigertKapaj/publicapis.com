@@ -1,0 +1,15 @@
+{
+  "id": "enginio",
+  "title": "Enginio",
+  "link": "https://engin.io/documentation/rest/endpoints/objects/view",
+  "image": "https://developer.qtcloudservices.com/assets/QtC_logo_small@2x-2c2060a0670771d0c1b097fda9903fe2.png",
+  "author": {
+    "name": "Qt Cloud Services"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Access"
+  ],
+  "description": "Enginio is a Backend as a Service (BaaS) solution that enables any connected and data-driven applications to access the backend cloud storage."
+}

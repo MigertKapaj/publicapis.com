@@ -1,0 +1,15 @@
+{
+  "id": "listingware-idx",
+  "title": "ListingWare IDX",
+  "link": "http://listingware.com/support/api/",
+  "image": "http://listingware.com/wp-content/uploads/2011/02/listingware.gif",
+  "author": {
+    "name": "ListingWare"
+  },
+  "tags": [
+    "Created",
+    "Searches",
+    "Directly"
+  ],
+  "description": "We have created the ListingWare Application Programming Interface (API).Â With it, you can create your own custom searches, listing displays, or links directly with ListingWare."
+}

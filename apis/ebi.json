@@ -1,0 +1,16 @@
+{
+  "id": "ebi",
+  "title": "Ebi",
+  "link": "https://www.ebi.ac.uk/chembldb/index.php/ws",
+  "image": "https://www.ebi.ac.uk/web_guidelines/images/logos/EMBL-EBI/EMBL_EBI_Logo_white.png",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "Collaborative",
+    "Research",
+    "Service",
+    "Data"
+  ],
+  "description": "EBI is devoted to collaborative, investigator-led research using computational approaches to unravel the secrets of life. Our research is carried out both in groups devoted solely to research and in some of the larger service teams that have associated research activities. All researchers have computational approaches as their major focus, but most also collaborate closely with experimentalists and even generate experimental data themselves."
+}

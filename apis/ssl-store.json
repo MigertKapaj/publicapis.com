@@ -1,0 +1,15 @@
+{
+  "id": "ssl-store",
+  "title": "SSL Store",
+  "link": "https://www.thesslstore.com/api/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTJ43ca2jmlGbmvSLN3JojFpMN2uKtRoFLC5DFvcr_ykBz-VB2XAg",
+  "author": {
+    "name": "SSL Store"
+  },
+  "tags": [
+    "Manage",
+    "Provision",
+    "Integrating"
+  ],
+  "description": "We have fully developed and created a fully functional REST API that is immediatelyavailable to all of our resellers. This API will allow you to completely manage and provision your SSL certificate offerings. You should have no problem seamlessly integrating, as our API works with any API client (Ruby, Java, PHP, etc. ) "
+}

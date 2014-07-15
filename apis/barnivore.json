@@ -1,0 +1,15 @@
+{
+  "id": "barnivore",
+  "title": "Barnivore",
+  "link": "http://www.barnivore.com/api#",
+  "image": "http://www.barnivore.com/images/logo-300x90.png",
+  "author": {
+    "name": "Barnivore"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Desires"
+  ],
+  "description": "If you're looking to create an app for a mobile phone (or some kind of web service, or whatever else your heart desires) that uses Barnivore data, you're in luck! We have an API available."
+}

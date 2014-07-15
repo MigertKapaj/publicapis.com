@@ -1,0 +1,16 @@
+{
+  "id": "the-javascript",
+  "title": "The JavaScript",
+  "link": "http://developer.vimeo.com/player/as-api",
+  "image": "http://f.vimeocdn.com/logo.svg?color=fff",
+  "author": {
+    "name": "Vimeo"
+  },
+  "tags": [
+    "Player",
+    "Section",
+    "Details",
+    "Differently"
+  ],
+  "description": "The JavaScript API works in different ways depending on how the player is embedded. Check out each section below for the details of the differences between embedding codes. For more information on how to embed our player, see the embedding page."
+}

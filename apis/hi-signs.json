@@ -1,0 +1,16 @@
+{
+  "id": "hi-signs",
+  "title": "Hi-Sign's",
+  "link": "http://www.hisigntech.com/api.php",
+  "image": "http://www.hisigntech.com/images/logosms.jpg",
+  "author": {
+    "name": "Hi-Sign"
+  },
+  "tags": [
+    "Platform",
+    "Website",
+    "Delivered",
+    "Data"
+  ],
+  "description": "An Application Programming Interface (SMS APIs) is one way to connect to Hi-Sign's Core Messaging Platform. SMS API provides an easy, efficient and flexible option to integrate with your website / application, facilitating auto-generated SMS Text messages to be delivered to the intended recipients mobile phones. This method does not require Hi-Sign's Software Platform at your Enterprise/Data Center site. "
+}

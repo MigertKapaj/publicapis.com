@@ -1,0 +1,14 @@
+{
+  "id": "personality-forge",
+  "title": "Personality Forge",
+  "link": "http://www.personalityforge.com/bookofapi.php",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNueQm84JBFHaXVQdiPniJjj3L-km_Ynwj8lDIMfGyyD0acDxV",
+  "author": {
+    "name": "Personality Forge"
+  },
+  "tags": [
+    "Simple",
+    "Call"
+  ],
+  "description": "The Personality Forge's API is a simple RESTful Web Service API using JSON. There is only one call. Once you sign up for a Chat Bot API subscription, you'll received an apiKey and apiSecret that will let you make calls to the Chat Bot API."
+}

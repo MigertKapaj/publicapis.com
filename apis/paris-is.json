@@ -1,0 +1,13 @@
+{
+  "id": "paris-is",
+  "title": "Paris is",
+  "link": "https://api.paris.fr/",
+  "image": "https://api.paris.fr/assets/pics/logo-paris.gif",
+  "author": {
+    "name": "Paris is"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "L'API Paris Connect permet d'accéder en lecture aux données mises à disposition par Paris Numérique.\nL'accès à ces données nécessite"
+}

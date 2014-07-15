@@ -1,0 +1,15 @@
+{
+  "id": "bodymedia-fit",
+  "title": "BodyMedia FIT",
+  "link": "https://developer.bodymedia.com/docs",
+  "image": "https://developer.bodymedia.com/public/Mashery/images/clients/bodymedia/logo.gif",
+  "author": {
+    "name": "BodyMedia"
+  },
+  "tags": [
+    "Developers",
+    "Access",
+    "Data"
+  ],
+  "description": "The BodyMedia FIT API is no longer open to new developers. Instead, please use the Jawbone UP Developer Platform moving forward to access data from the Jawbone/BodyMedia family of products."
+}

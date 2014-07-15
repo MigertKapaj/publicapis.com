@@ -1,0 +1,16 @@
+{
+  "id": "amazon-glacier",
+  "title": "Amazon Glacier",
+  "link": "http://docs.aws.amazon.com/general/latest/gr/glos-chap.html",
+  "image": "http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Accessed",
+    "Several"
+  ],
+  "description": "Amazon Glacier is an extremely low-cost storage service that provides secure and durable storage for data archiving and backup. In order to keep costs low, Amazon Glacier is optimized for data that is infrequently accessed and for which retrieval times of several hours are suitable."
+}

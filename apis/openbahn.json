@@ -1,0 +1,14 @@
+{
+  "id": "openbahn",
+  "title": "openbahn",
+  "link": "http://code.google.com/p/openbahn-api/",
+  "image": "http://www.gstatic.com/codesite/ph/images/defaultlogo.png",
+  "author": {
+    "name": "openbahn"
+  },
+  "tags": [
+    "Webservice",
+    "Functions"
+  ],
+  "description": "Wrapper of REST-style webservices for bahn.de. Following functions are implemented."
+}

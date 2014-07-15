@@ -1,0 +1,15 @@
+{
+  "id": "the-reaktor",
+  "title": "The Reaktor",
+  "link": "http://us.txtr.com/reaktor/",
+  "image": "http://us.txtr.com/reaktor/gfx/txtr_reaktor_logo.png",
+  "author": {
+    "name": "Reaktor"
+  },
+  "tags": [
+    "Infrastructure",
+    "Reading",
+    "Internet"
+  ],
+  "description": "The Reaktor is the server infrastructure for txtr's digital reading services. You can access all functionality of the Reaktor via public API from anywhere on the internet.\n\n"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nominatim-search-service",
+  "title": "Nominatim Search Service",
+  "link": "http://open.mapquestapi.com/nominatim/",
+  "image": "http://open.mapquest.co.uk/cdn/dotcom3/images/logos/logo_beta.png",
+  "author": {
+    "name": "MapQuest Open"
+  },
+  "tags": [
+    "Interface",
+    "Powerful",
+    "Data",
+    "map."
+  ],
+  "description": "The Nominatim Search Service is similar to our MapQuest Search Service with its simple interface and powerful capabilities, but instead relies solely on data contributed to OpenStreetMap. To view it in action, visit any of our Open Beta domains (http://open.mapquest.*) "
+}

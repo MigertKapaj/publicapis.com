@@ -1,0 +1,15 @@
+{
+  "id": "slideshare",
+  "title": "SlideShare",
+  "link": "http://www.slideshare.net/developers/documentation",
+  "image": "http://public.slidesharecdn.com/b/images/logo.png",
+  "author": {
+    "name": "SlideShare"
+  },
+  "tags": [
+    "Outside",
+    "Developers",
+    "Perform"
+  ],
+  "description": "The SlideShare API is available free for non-commercial use by outside developers. The current API is based upon the REST model and allows you to perform the following actions."
+}

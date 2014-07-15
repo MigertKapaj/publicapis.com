@@ -1,0 +1,15 @@
+{
+  "id": "avvo",
+  "title": "Avvo",
+  "link": "http://api.avvo.com/",
+  "image": "http://api.avvo.com/assets/api-logo-small-af2ea3bc4c6e4a1cd7e84262877b4dd9.png",
+  "author": {
+    "name": "Avvo"
+  },
+  "tags": [
+    "Authentication",
+    "Request",
+    "Support"
+  ],
+  "description": "The API uses HTTP Basic authentication over SSL. You must supply your Avvo username and password with each request. The linked Wikipedia page shows some examples on how to do this, but most programming languages and system tools should include built-in support for this."
+}

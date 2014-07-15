@@ -1,0 +1,15 @@
+{
+  "id": "clipped",
+  "title": "Clipped",
+  "link": "http://www.clipped.me/api.html",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFkRXaunHpeuHTXDtzT2qVVp6nmh4saDmKU9dqtGZRWy7y8xdS",
+  "author": {
+    "name": "Clipped"
+  },
+  "tags": [
+    "Technology",
+    "reding",
+    "Return"
+  ],
+  "description": "Integrate our summarization technology into your own applications. Build Applications that deliver summaries to users, and make reading content simpler and faster. The Clipped API is super simple to use, and returns JSON for every request. "
+}

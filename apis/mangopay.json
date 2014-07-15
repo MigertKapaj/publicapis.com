@@ -1,0 +1,14 @@
+{
+  "id": "mangopay",
+  "title": "MangoPay",
+  "link": "http://www.mangopay.com/start-with-the-api/",
+  "image": "http://www.mangopay.com/wp-content/blogs.dir/10/files/2013/01/www-mangopay.png",
+  "author": {
+    "name": "MangoPay"
+  },
+  "tags": [
+    "Sandbox",
+    "Eniviroment"
+  ],
+  "description": "In order to use the API, you will need a client account. Please, generate and send us your RSA Key to access the sandbox environment (Warning: PKCS8 only. PuttyGen does not generate a PKCS8 format)."
+}

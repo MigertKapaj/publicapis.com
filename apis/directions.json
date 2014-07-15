@@ -1,0 +1,17 @@
+{
+  "id": "directions",
+  "title": "Directions",
+  "link": "https://developers.google.com/maps/documentation/directions/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Request",
+    "Several",
+    "Driving",
+    "Walking",
+    "Waypoint"
+  ],
+  "description": "The Google Directions API is a service that calculates directions between locations using an HTTP request. You can search for directions for several modes of transportation, include transit, driving, walking or cycling. Directions may specify origins, destinations and waypoints either as text strings (e.g. \"Chicago, IL\" or \"Darwin, NT, Australia\") or as latitude/longitude coordinates. The Directions API can return multi-part directions using a series of waypoints."
+}

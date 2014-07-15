@@ -1,0 +1,15 @@
+{
+  "id": "xhanch",
+  "title": "Xhanch",
+  "link": "http://xhanch.com/xhanch-api-ip-get-detail/",
+  "image": "http://xhanch.com/logo.png",
+  "author": {
+    "name": "Xhanch"
+  },
+  "tags": [
+    "Public",
+    "Country Code",
+    "Coordinates"
+  ],
+  "description": "Xhanch API – IP Get Detail is a public API to retrieve information/details from an IP. The details cover: country code, country name, region, city, postal/zip code, coordinates (longitude and latitude) and GMT timezone."
+}

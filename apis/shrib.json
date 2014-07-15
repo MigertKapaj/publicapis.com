@@ -1,0 +1,14 @@
+{
+  "id": "shrib",
+  "title": "shrib",
+  "link": "http://api.shrib.com",
+  "image": "",
+  "author": {
+    "name": "shrib"
+  },
+  "tags": [
+    "Service",
+    "Write"
+  ],
+  "description": "Welcome to the shrib.com API service. You can now use the API to read and write notes to shrib.com."
+}

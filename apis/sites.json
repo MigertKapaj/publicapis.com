@@ -1,0 +1,15 @@
+{
+  "id": "sites",
+  "title": "Sites",
+  "link": "https://developers.google.com/google-apps/sites/docs/1.0/developers_guide_protocol",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Access",
+    "Publish",
+    "Modify"
+  ],
+  "description": "The Google Sites API allows client applications to access, publish, and modify content within a Google Site. The API is available to both Google Account and Google Apps users. Here are some of the things you can do with the API:"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "firstach",
+  "title": "Firstach",
+  "link": "https://www.firstach.com/front/API.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtk1yX-jB13Usz8ka4nWpknF4wSHARNHDgRhNCmX2A4A070q2J",
+  "author": {
+    "name": "Firstach"
+  },
+  "tags": [
+    "Company",
+    "Directly",
+    "Process"
+  ],
+  "description": "Our Application Programming Interface (API) allows you to create a seamless interface between your company and ours -- connect your company’s proprietary interface directly to our payment gateway and process payments using your existing sales process. "
+}

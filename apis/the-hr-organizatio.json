@@ -1,0 +1,15 @@
+{
+  "id": "the-hr-organizatio",
+  "title": "The HR Organizatio",
+  "link": "http://developers.odesk.com/w/page/23375369/Organization%20APIs",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Expose",
+    "Structure",
+    "Companies"
+  ],
+  "description": "The HR Organization APIs expose the structure of a companies and teams."
+}

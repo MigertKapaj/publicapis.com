@@ -1,0 +1,15 @@
+{
+  "id": "the-springer",
+  "title": "the Springer",
+  "link": "http://dev.springer.com/",
+  "image": "http://dev.springer.com/public/Mashery/images/clients/springer/logo.png",
+  "author": {
+    "name": "Springer"
+  },
+  "tags": [
+    "Innovative",
+    "Academice",
+    "Worldwide"
+  ],
+  "description": "Springer is a leading global scientific publisher of books and journals,delivering quality content through innovative information products and services. It publishes close to 500 academic and professional society journals. Springer is part of the publishing group Springer Science+Business Media. In the science, technology and medicine (STM) sector, the group publishes around 2,000 journals and more than 6,500 new books a year, as well as the largest STM eBook Collection worldwide. Springer has operations in about 20 countries in Europe, the USA, and Asia, and more than 5,000 employees."
+}

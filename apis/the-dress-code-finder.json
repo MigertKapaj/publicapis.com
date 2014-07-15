@@ -1,0 +1,15 @@
+{
+  "id": "the-dress-code-finder",
+  "title": "The Dress Code Finder",
+  "link": "http://dresscodefinder.com/api",
+  "image": "http://dresscodefinder.com/api/top.png",
+  "author": {
+    "name": " Dress Code Finder"
+  },
+  "tags": [
+    "Restaurants",
+    "Database",
+    "Information"
+  ],
+  "description": "The Dress Code Finder API allows searching of our database of dress code information for over 70,000 restaurants, bars and nightclubs in the USA. The API is currently unauthenticated (and subject to usage limits). It returns results in JSON format. "
+}

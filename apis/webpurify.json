@@ -1,0 +1,15 @@
+{
+  "id": "webpurify",
+  "title": "WebPurify",
+  "link": "http://www.webpurify.com/image-moderation/documentation/request/",
+  "image": "http://www.webpurify.com/images/logo-img.png",
+  "author": {
+    "name": "WebPurify"
+  },
+  "tags": [
+    "Implement",
+    "Experience",
+    "Services"
+  ],
+  "description": "The WebPurify Image Moderator is very simple to implement for anyone that has experience using HTTP web services (Twitter, Flickr, etc)."
+}

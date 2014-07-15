@@ -1,0 +1,15 @@
+{
+  "id": "businessradar",
+  "title": "BusinessRadar",
+  "link": "http://www.businessradar.it/wsdl_guide.php",
+  "image": "http://www.businessradar.it/img/logo_mondo.jpg",
+  "author": {
+    "name": "Centrale Export"
+  },
+  "tags": [
+    "Developers",
+    "Webservice",
+    "Dependant"
+  ],
+  "description": "BusinessRadar offers to developpers a set of webservices for searching companies and trade leads. These services can be easily implemented and are not dependent from the platform used: (PC, website, handheld, mobile......). Our webservices use XML/SOAP/WSDL standards and are easy to interface with your software applications : ERP, CRM, SCM, decision support systems,etc."
+}

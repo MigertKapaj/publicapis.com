@@ -1,0 +1,15 @@
+{
+  "id": "name-parsing",
+  "title": "Name Parsing",
+  "link": "http://www.melissadata.com/name-parsing/",
+  "image": "http://r1.cygnuspub.com/files/cygnus/image/CGN/2011/SEP/640x360/melissadata_10368918.jpg",
+  "author": {
+    "name": "\nMelissa Data"
+  },
+  "tags": [
+    "Database",
+    "Recognize",
+    "Batch processing"
+  ],
+  "description": " Create personalized messages and identify the gender makeup of your database with Name Parsing solutions that will parse full names and multiple names into five components: Prefix; First; Middle or Initial; Last; and Suffix. These Name Parsing solutions recognize more than 190,000 first and last names so you can correct a misspelled name like “Jonh” to “John” or apply a gender code to each record in your database. The solution is available as a programming API, hosted solution or via batch processing."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "v2-interstate",
+  "title": "v2 Interstate",
+  "link": "http://developers.interstateapp.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRCB0WlP9sbdCcSx3hIWjKW2MxAU_i_hPQZT3wVh_Ph7VM4X2suCA",
+  "author": {
+    "name": "Interstate"
+  },
+  "tags": [
+    "First",
+    "Methods",
+    "Codebase",
+    "Interstate"
+  ],
+  "description": "Welcome to the documentation for the v2 Interstate API. Since we launched the first version of the Interstate API last year, we have seen some great apps be built using the API. Whilst the v1 API was great, we felt it had a few too many issues. For us here at Interstate, the most notable issues were the amount of methods the API had and the fact our API codebase was too separated from the main Interstate code which meant it was harder than we would have liked to develop the API rapidly."
+}

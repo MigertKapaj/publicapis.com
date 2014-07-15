@@ -1,0 +1,15 @@
+{
+  "id": "clientbill",
+  "title": "Clientbill",
+  "link": "http://www.clientbill.com/developers/overview",
+  "image": "http://www.clientbill.com/images/logo.gif",
+  "author": {
+    "name": "Clientbill"
+  },
+  "tags": [
+    "Managing",
+    "Data",
+    "Provide"
+  ],
+  "description": "The Clientbill API is an interface for easily viewing and managing your Clientbill data using SOAP. This API guide will provide step by step helping using the Clientbill API to perform any task. All examples in this guide use the NuSOAP SOAP Toolkit"
+}

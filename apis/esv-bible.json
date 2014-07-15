@@ -1,0 +1,15 @@
+{
+  "id": "esv-bible",
+  "title": "ESV Bible",
+  "link": "http://www.esvapi.org/api/",
+  "image": "http://www.esvapi.org/assets/logo.png",
+  "author": {
+    "name": "ESV Bible"
+  },
+  "tags": [
+    "Access",
+    "Server",
+    "Website"
+  ],
+  "description": "Crossway allows you to access the ESV Bible text from our server and include it on your website, free of charge for non-commercial use."
+}

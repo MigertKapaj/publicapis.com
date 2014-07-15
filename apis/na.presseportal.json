@@ -1,0 +1,13 @@
+{
+  "id": "na.presseportal",
+  "title": "na.presseportal",
+  "link": "http://api.presseportal.de/",
+  "image": "http://api.presseportal.de/images/logos/logo_napresseportal.gif",
+  "author": {
+    "name": "na.presseportal"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Zunächst benötigen Sie einen API-Schlüssel. Zu jedem Schlüssel gehört eine Anwendungsseite, die standardmäßig privat ist. Wenn Sie bereit sind, Ihre Anwendung zu veröffentlichen, füllen Sie die Anwendungsseite aus, um andere wissen zu lassen, für welches Projekt Sie die API des Presseportals einsetzen."
+}

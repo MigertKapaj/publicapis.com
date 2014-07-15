@@ -1,0 +1,16 @@
+{
+  "id": "challonge",
+  "title": "Challonge",
+  "link": "http://challonge.com/api",
+  "image": "http://challonge.com/assets/challonge-logo-110x100-b7b4cf0468d25a15f1e2ca9c1ccb143c.png",
+  "author": {
+    "name": "Challonge"
+  },
+  "tags": [
+    "Control",
+    "Define",
+    "Provide",
+    "Experience"
+  ],
+  "description": "The Challonge API expands tournament creation and control to the programmatic level. You can create tournaments on the fly and report scores directly from your application. This allows you to define score reporting permissions that fit your user model, and provide a more seamless tournament experience for your users. "
+}

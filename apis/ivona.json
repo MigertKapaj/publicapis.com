@@ -1,0 +1,15 @@
+{
+  "id": "ivona",
+  "title": "IVONA",
+  "link": "http://www.ivona.com/us/saas/api/",
+  "image": "http://static.ivona.com/www/static/images/logos/ivona_tts_amzn.png",
+  "author": {
+    "name": "IVONA"
+  },
+  "tags": [
+    "Architecture",
+    "Possible",
+    "Speech"
+  ],
+  "description": "By using the REST architecture (Representational State Transfer) and SOAP protocol (Simple Object Access Protocol) it is possible to create speech in IVONA Speech Cloud (SaaS) using any major programming language. "
+}

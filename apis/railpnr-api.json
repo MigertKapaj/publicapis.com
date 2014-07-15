@@ -1,0 +1,14 @@
+{
+  "id": "railpnr-api",
+  "title": "RailPNR API",
+  "link": "http://www.railpnrapi.com",
+  "image": "http://www.railpnrapi.com/assets/images/logo.png",
+  "author": {
+    "name": "RailPNR API"
+  },
+  "tags": [
+    "Indian Railway",
+    "Status"
+  ],
+  "description": "RailPNR API is used for checking Indian railways PNR status using 10 digit PNR number. "
+}

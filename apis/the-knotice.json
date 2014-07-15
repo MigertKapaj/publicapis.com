@@ -1,0 +1,16 @@
+{
+  "id": "the-knotice",
+  "title": "The Knotice",
+  "link": "http://developer.knotice.com/Home",
+  "image": "http://developer.knotice.com/App_Themes/default/images/knotice-logo-blue.png",
+  "author": {
+    "name": " Knotice "
+  },
+  "tags": [
+    "Messages",
+    "Web",
+    "Service",
+    "Token"
+  ],
+  "description": "The Knotice API is a web service API.  It is a way for users to interact with the Knotice platform using request/response messages through the web.  The user gains access to the Knotice services by using Hypertext Transfer Protocol (HTTP) messages that communicate between the user and the Knotice API.  Before the user can access the API they will need to register their IP address with Knotice and will need to be provided an access token (see Authentication).  The Knotice API supports two formats."
+}

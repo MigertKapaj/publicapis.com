@@ -1,0 +1,16 @@
+{
+  "id": "teamhaven",
+  "title": "TeamHaven",
+  "link": "https://github.com/teamhaven/WebAPI/wiki/API",
+  "image": "http://www.teamhaven.com/Content/images/TeamHaven-160.png",
+  "author": {
+    "name": "TeamHaven"
+  },
+  "tags": [
+    "Accessed",
+    "Web",
+    "Development",
+    "Publically"
+  ],
+  "description": "Our REST web API can be easily accessed by any modern web client. Currently the documentation for this API is under development and is not publically available. "
+}

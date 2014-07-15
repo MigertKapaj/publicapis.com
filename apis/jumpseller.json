@@ -1,0 +1,15 @@
+{
+  "id": "jumpseller",
+  "title": "Jumpseller",
+  "link": "http://jumpseller.com/support/api",
+  "image": "http://jumpseller.com/images/landing/js-logo.png?1385077219",
+  "author": {
+    "name": "Jumpseller"
+  },
+  "tags": [
+    "Authentication",
+    "Products",
+    "Orders"
+  ],
+  "description": "Jumpseller API is a REST-style API that uses JSON for serialization and OAuth2 for authentication.\nRight now only Products and Orders are available."
+}

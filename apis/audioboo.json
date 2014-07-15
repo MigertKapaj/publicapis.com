@@ -1,0 +1,15 @@
+{
+  "id": "audioboo",
+  "title": "Audioboo",
+  "link": "http://code.google.com/p/audioboo-api/wiki/ReferenceIndex",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ9fwk1aw3_fQTcDLY7oaRfDm-qtfUIex4HtZGke0STkN9UKd3L",
+  "author": {
+    "name": "Audioboo"
+  },
+  "tags": [
+    "Developer",
+    "Plugin",
+    "App"
+  ],
+  "description": "If you're an iPhone developer, you can simply drop the Audioboo plugin into your own app and be done in half an hour."
+}

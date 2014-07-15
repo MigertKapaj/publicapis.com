@@ -1,0 +1,16 @@
+{
+  "id": "vehiclepath",
+  "title": "VehiclePath",
+  "link": "http://www.vehiclepath.com/api.php",
+  "image": "http://www.vehiclepath.com/sites/default/files/vp-header-logo.png",
+  "author": {
+    "name": "VehiclePath"
+  },
+  "tags": [
+    "Provides",
+    "Designed",
+    "Operation",
+    "Investment"
+  ],
+  "description": "VehiclePath delivers business intelligence in an easy-to-use mobile interface and provides real time visibility and more control over operations. The VehiclePath GPS vehicle tracking system was designed to empower local fleet owners to reduce costs and maximize operation efficiencies without a high upfront investment. "
+}

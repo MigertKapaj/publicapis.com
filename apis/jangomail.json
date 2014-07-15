@@ -1,0 +1,15 @@
+{
+  "id": "jangomail",
+  "title": "JangoMail",
+  "link": "http://www.jangosmtp.com/How-It-Works.asp",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUCz6_z-86hDLvId36jQo7CmZ4wd1zn_boLOVa_Ex5goIfacP1Rw",
+  "author": {
+    "name": "JangoMail"
+  },
+  "tags": [
+    "Transactional",
+    "Specification",
+    "Tracking"
+  ],
+  "description": "Connect to the JangoMail API and use SendTransactionalEmail to send transactional email. There is a test form for the SendTransactionalEmail method that can be used to send test transactional emails, and a technical specification for this method. Benefit from DomainKeys/DKIM signatures and open and click tracking when you send through the JangoMail API. "
+}

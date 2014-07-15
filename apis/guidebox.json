@@ -1,0 +1,15 @@
+{
+  "id": "guidebox",
+  "title": "Guidebox",
+  "link": "http://api.guidebox.com",
+  "image": "http://d1wpny5kdj5pob.cloudfront.net/misc/new_guidebox_logo_scaled_up8.png",
+  "author": {
+    "name": "Guidebox"
+  },
+  "tags": [
+    "Resource",
+    "Information",
+    "Originals"
+  ],
+  "description": "Guidebox is a comprehensive television and movie resource. With our API, you can get information on where users can stream or purchase full episodes, full movies, web originals or short form content via the web, iOS or Android."
+}

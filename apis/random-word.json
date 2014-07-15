@@ -1,0 +1,13 @@
+{
+  "id": "random-word",
+  "title": "Random Word",
+  "link": "http://randomword.setgetgo.com/",
+  "image": "",
+  "author": {
+    "name": "Random Word"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The easiest way to get a random word (built on top of setgetgo.com) "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "orkut",
+  "title": "Orkut",
+  "link": "https://developers.google.com/orkut/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Error",
+    "Handling",
+    "Exception"
+  ],
+  "description": "We will also omit a lot of error handling in this article, but please be aware that many of the functions in the Orkut Client Library and in the Orkut API Adapter for Android may throw exceptions, and your code should be ready to deal with them."
+}

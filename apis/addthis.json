@@ -1,0 +1,15 @@
+{
+  "id": "addthis",
+  "title": "AddThis",
+  "link": "http://www.clearspring.com/docs/tech/apis",
+  "image": "http://cache.addthiscdn.com/www/140401127233/style/images/addthis-logo-transparent.png",
+  "author": {
+    "name": "AddThis"
+  },
+  "tags": [
+    "Purpose",
+    "Control",
+    "Platform"
+  ],
+  "description": "AddThis offers a number of different APIs and SDKs, each with a specific purpose. Some of these APIs are client-side, and control how the AddThis sharing tools behave on your page. Others are server-side APIs that you can use for different types of integration between your site and the AddThis backend platform."
+}

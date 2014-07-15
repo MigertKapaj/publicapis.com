@@ -1,0 +1,16 @@
+{
+  "id": "the-sensis",
+  "title": "The Sensis",
+  "link": "http://developers.sensis.com.au/",
+  "image": "http://developers.sensis.com.au/files/home_banner_opt2.jpg",
+  "author": {
+    "name": "Sensis"
+  },
+  "tags": [
+    "Search",
+    "Digital",
+    "Websites",
+    "Mobile"
+  ],
+  "description": "The Sensis API (SAPI) is a business search API which makes it easy for third party digital developers, entrepreneurs and publishers to enrich their user experience on their websites, mobile-sites and applications."
+}

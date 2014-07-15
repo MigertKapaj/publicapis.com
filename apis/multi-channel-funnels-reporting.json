@@ -1,0 +1,16 @@
+{
+  "id": "multi-channel-funnels-reporting",
+  "title": "Multi-Channel Funnels Reporting",
+  "link": "https://developers.google.com/analytics/devguides/reporting/mcf/v3/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Funnels",
+    "Data",
+    "channels",
+    "Infuence"
+  ],
+  "description": "The Multi-Channel Funnels Reporting API enables you to request Multi-Channel Funnels data for an authenticated user. Data is derived from conversion path data, which shows user interactions with various traffic sources over multiple visits prior to converting. This allows you to analyze how multiple marketing channels influence conversions over time."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mymobile",
+  "title": "\n\n        \n        \n        MyMobile",
+  "link": "http://www.mymobileapi.com/",
+  "image": "http://www.mymobileapi.com/img/my_mobile_api_logo.gif",
+  "author": {
+    "name": "My Mobile"
+  },
+  "tags": [
+    "Pushing",
+    "HTTP",
+    "Interface",
+    "Credit balance"
+  ],
+  "description": "MyMobileAPI also supports pushing data to your server via HTTP Post. You provide MyMobileAPI with a URL and we, on receipt of a reply, post to the specified URL.The HTTP Get/Post functions allow most languages to interface relatively simply and although this API does not allow the flexibility of the web service API, it still allows you t Check your current credit balance.Send a SMS/Vcard/WapPush/Port specific message to a single or multiple number(s) as well as to a group from your online databas Retrieve all sent messages and replies received.List your current online groups."
+}

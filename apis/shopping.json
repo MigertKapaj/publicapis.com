@@ -1,0 +1,16 @@
+{
+  "id": "shopping",
+  "title": "Shopping",
+  "link": "https://developers.google.com/shopping-search/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Developers",
+    "Data",
+    "Surfaces",
+    "Book Search"
+  ],
+  "description": "The Search API for Shopping is intended for developers who want to programmatically query data that has been uploaded to Google via the Google Merchant Center. On Google, this data also surfaces on applications like Product Search, Web Search, Book Search, as well as Product Ads."
+}

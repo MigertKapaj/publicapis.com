@@ -1,0 +1,16 @@
+{
+  "id": "fellowship",
+  "title": "Fellowship",
+  "link": "http://developer.fellowshipone.com",
+  "image": "http://developer.fellowshipone.com/_assets/img/ft-logo.png",
+  "author": {
+    "name": "Fellowship"
+  },
+  "tags": [
+    "Standards",
+    "Protocols",
+    "Efficiencies",
+    "Tecnologies"
+  ],
+  "description": "Fellowship One RESTful API is a REST based web application that uses several open protocols and patterns to provide consumers access to secure resources. STANDARDS, PROTOCOLS, and PATTERNS - nothing else. As developers we see where there is major value in sticking with something that is \"tried and true.\" If we could use web based patterns and \nprotocols for a web based API we could not only get instant adoption but gain the efficiencies and effectiveness of technologies that "
+}

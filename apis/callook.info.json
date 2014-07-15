@@ -1,0 +1,15 @@
+{
+  "id": "callook.info",
+  "title": "callook.info",
+  "link": "http://callook.info/api_reference.php",
+  "image": "",
+  "author": {
+    "name": "callook.info"
+  },
+  "tags": [
+    "Accessed",
+    "Serves",
+    "Header"
+  ],
+  "description": "The callook.info API is accessed solely through simple HTTP GET requests. The API serves results with the appropriate HTTP header for the requested format. "
+}

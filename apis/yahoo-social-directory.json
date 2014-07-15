@@ -1,0 +1,16 @@
+{
+  "id": "yahoo-social-directory",
+  "title": "Yahoo Social Directory",
+  "link": "http://developer.yahoo.com/social/socialdir/",
+  "image": "https://s.yimg.com/zz/combo?a/i/ydn/sst/44/social_directory.gif",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Identity",
+    "Profile",
+    "Messenger",
+    "Distribution"
+  ],
+  "description": "Social Directory describes a user's identity on Yahoo, including their Yahoo profile information and their relationships across places like Yahoo Mail and Yahoo Messenger. The APIs allow you to tap into that information to make your websites and your apps more social, increasing user engagement and creating distribution opportunities."
+}

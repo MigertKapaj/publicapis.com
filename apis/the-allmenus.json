@@ -1,0 +1,16 @@
+{
+  "id": "the-allmenus",
+  "title": "The Allmenus ",
+  "link": "http://developer.allmenus.com/docs",
+  "image": "http://developer.allmenus.com/public/Mashery/images/clients/dotmenu/logo.png",
+  "author": {
+    "name": "Allmenus "
+  },
+  "tags": [
+    "Convenient",
+    "Information",
+    "Database",
+    "Zipcode"
+  ],
+  "description": "The Allmenus API service provides quick and convenient access to Allmenus' full catalog of restaurants and menus. The API provides basic information on the restaurants in our database\n including Restaurant Name, Phone Number, Address, City, State, Zip Code, and Allmenus URL "
+}

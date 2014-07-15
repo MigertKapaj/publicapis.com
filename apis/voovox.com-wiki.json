@@ -1,0 +1,15 @@
+{
+  "id": "voovox.com-wiki",
+  "title": "Voovox.com Wiki",
+  "link": "http://wiki.voovox.com/podwiki?page=SmsApi",
+  "image": "",
+  "author": {
+    "name": "Voovox.com Wiki"
+  },
+  "tags": [
+    "Easy",
+    "SMS",
+    "Documentation."
+  ],
+  "description": "We provide an API which makes it easy to offer SMS service to your customers. Documentation is available with examples in Perl and PHP.\n\n\n \n\n\n\n\n"
+}

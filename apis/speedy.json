@@ -1,0 +1,15 @@
+{
+  "id": "speedy",
+  "title": "Speedy",
+  "link": "https://www.speedy.bg/eps/docs/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwT9rQcJ5QMlncucG7HofeSmF0g76MGLgYCw0WGfK_8vS7BNxL",
+  "author": {
+    "name": "Speedy"
+  },
+  "tags": [
+    "Service",
+    "Provides",
+    "Courier"
+  ],
+  "description": "This document provides a description of Speedy's SOAP web service (called EPS) which is intended for use by its clients. The web service provides methods for creating Bills of Lading, requesting pick up by courier and many more. "
+}

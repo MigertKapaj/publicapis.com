@@ -1,0 +1,15 @@
+{
+  "id": "opencalais-web-service",
+  "title": "OpenCalais Web Service",
+  "link": "http://www.opencalais.com/calaisAPI",
+  "image": "http://www.opencalais.com/files/calais_logo.png",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "Information",
+    "Call",
+    "Metadata"
+  ],
+  "description": "Documentation on the OpenCalais Web Service API. Includes information on how to call the API, the results format and the range of metadata types returned."
+}

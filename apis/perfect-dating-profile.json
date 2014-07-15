@@ -1,0 +1,16 @@
+{
+  "id": "perfect-dating-profile",
+  "title": "Perfect Dating Profile",
+  "link": "http://www.perfectdatingprofile.com/api/",
+  "image": "http://www.perfectdatingprofile.com/img/logo2009_2.jpg",
+  "author": {
+    "name": "Perfect Dating Profile"
+  },
+  "tags": [
+    "Dating",
+    "Integrated",
+    "Photographers",
+    "Photo Shoot"
+  ],
+  "description": "The API enables Perfect Dating Profile’s photo shoot and profile writing services to be integrated directly into any dating site. Once integrated, existing customers of the dating site can search for photographers by postcode, place an order for a photo shoot or profile writing and make payment entirely on the host site. Completed order data is posted to Perfect Dating Profile for fulfillment and commission is settled at the end of the month."
+}

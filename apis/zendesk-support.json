@@ -1,0 +1,13 @@
+{
+  "id": "zendesk-support",
+  "title": "Zendesk Support",
+  "link": "http://www.zendesk.com/support/api/javascript-resource-api",
+  "image": "https://support.zendesk.com/system/logos/2058/1247/header-logo.png",
+  "author": {
+    "name": "Zendesk Support"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

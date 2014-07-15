@@ -1,0 +1,16 @@
+{
+  "id": "cryptotrader.org",
+  "title": "Cryptotrader.org",
+  "link": "https://cryptotrader.org/api",
+  "image": "",
+  "author": {
+    "name": "Cryptotrader.org"
+  },
+  "tags": [
+    "Developers",
+    "Algorithms",
+    "Backtest",
+    "Coded"
+  ],
+  "description": "Welcome to Cryptotrader.org API. We aim to provide an API that allows developer to write fully featured trading algorithms. Our automated trading platform can backtest and execute trading scripts coded in CoffeeScript language on historical data."
+}

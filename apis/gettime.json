@@ -1,0 +1,16 @@
+{
+  "id": "gettime",
+  "title": "getTime",
+  "link": "http://developer.yahoo.com/util/timeservice/V1/getTime.html",
+  "image": "http://weather.yahooapis.com",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Service",
+    "Web",
+    "Current",
+    "Time"
+  ],
+  "description": "The getTime service lets you request the current time on the Yahoo! servers. It is a very basic web service that is really handy for building AJAX applications or learning how to work with XML and web services."
+}

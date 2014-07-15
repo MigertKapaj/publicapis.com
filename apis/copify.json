@@ -1,0 +1,16 @@
+{
+  "id": "copify",
+  "title": "copify",
+  "link": "http://uk.copify.com/api",
+  "image": "http://uk.copify.com/7842667/img/logo_dashboard.png",
+  "author": {
+    "name": "copify"
+  },
+  "tags": [
+    "Information",
+    "Application",
+    "Control",
+    "Copywriting"
+  ],
+  "description": "The following is technical information concerning the integration of our API with other websites and applications.Our API follows the principles of REST, and aims to allow simple control over the copywriting resources we offer."
+}

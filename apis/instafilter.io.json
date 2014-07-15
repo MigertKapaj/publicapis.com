@@ -1,0 +1,13 @@
+{
+  "id": "instafilter.io",
+  "title": "Instafilter.io",
+  "link": "https://www.mashape.com/thefosk/instafilter-io",
+  "image": "",
+  "author": {
+    "name": "thefosk"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "An easy RESTful API for manipulating images and applying customizable filters in real-time. You can use the built-in filters or create your own ones on top of our filters. And not only filters: includes resize, rotate and crop functions among the others. No monthly price. Easy as $0.01 per filter. Maximum file size is 4MB."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "alianza",
+  "title": "Alianza",
+  "link": "http://www.alianza.com/platform/",
+  "image": "http://www.alianza.com/wp-content/uploads/2013/05/Alianza_rgb-e1372285918536.jpg",
+  "author": {
+    "name": "Alianza"
+  },
+  "tags": [
+    "Service",
+    "Approach",
+    "Deliver"
+  ],
+  "description": "Alianza’s Cloud Voice Platform is a single-source solution for service providers seeking to quickly and profitably deploy next generation voice services. The integrated and turnkey approach allows service providers to significantly reduce the time, capital and human resources required to deliver Voice over IP (VoIP) services."
+}

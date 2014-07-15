@@ -1,0 +1,15 @@
+{
+  "id": "getsimple",
+  "title": "GetSimple",
+  "link": "http://get-simple.info/api/",
+  "image": "http://get-simple.info/theme/GS20_theme/images/logo.png",
+  "author": {
+    "name": "GetSimple"
+  },
+  "tags": [
+    "Disposal",
+    "Cached",
+    "Requests"
+  ],
+  "description": "GetSimple has numerous APIs at a developer's disposal.\nMost API requests are cached, so please do not pound our server with multiple requests; write better code than that."
+}

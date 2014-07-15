@@ -1,0 +1,15 @@
+{
+  "id": "cheetahmail",
+  "title": "CheetahMail",
+  "link": "https://api.cheetahmail.fr/api_v1.html",
+  "image": "https://api.cheetahmail.fr/img/logo.png",
+  "author": {
+    "name": "CheetahMail"
+  },
+  "tags": [
+    "Manage",
+    "Remotely",
+    "Database"
+  ],
+  "description": "Our wide range of APIs will allow you to manage efficiently and remotely your database (imports, targets, etc), users, envelops, campaigns, tracking, dynamic contents, reports, ... and even more ! "
+}

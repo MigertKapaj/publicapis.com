@@ -1,0 +1,16 @@
+{
+  "id": "uwa-universal-web-app",
+  "title": "UWA (Universal Web App",
+  "link": "http://dev.netvibes.com/",
+  "image": "http://uwa.netvibes.com/docs/Uwa/html/styles/img/logo.png",
+  "author": {
+    "name": "Netvibes"
+  },
+  "tags": [
+    "Structure",
+    "Web",
+    "Computer",
+    "Smartphone"
+  ],
+  "description": "UWA (Universal Web App) is a simple and elegant web apps framework that uses XHTML for structure, CSS for styling and JavaScript/Ajax for behavioral/DOM control. UWA lets developers \"build once and run everywhere\". Apps built with Netvibes UWA can run virtually on all major Web, computer and smartphone platforms.\n        "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "flightcaster",
+  "title": "FlightCaster",
+  "link": "http://flightcaster.com/developer",
+  "image": "http://flightcaster.com/images/flightcaster-dev.png",
+  "author": {
+    "name": "FlightCaster"
+  },
+  "tags": [
+    "Predicts",
+    "Advanced",
+    "Predictions"
+  ],
+  "description": "FlightCaster predicts flight delays before any other source. We enhance any flight application with advanced, real-time arrival predictions."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "blip-a-deal",
+  "title": "Blip A Deal",
+  "link": "http://www.blipadeal.com/development.php?id=geo-text",
+  "image": "http://www.blipadeal.com/images/blipadeal2.png",
+  "author": {
+    "name": "Blip A Deal"
+  },
+  "tags": [
+    "Developer",
+    "Access",
+    "Data"
+  ],
+  "description": "The BlipADeal API allows developers from around the world to gain access to deal information in a multitude of ways. BlipADeal's daily deal API allows developers to access deals information via location, keywords and free text giving multiple easy to use interfaces to access data in a structured way through simple JSON format. "
+}

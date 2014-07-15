@@ -1,0 +1,15 @@
+{
+  "id": "cequens",
+  "title": "Cequens",
+  "link": "http://www.cequens.com/?q=Cequens-APIs",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRDZQtWcdgC4mB4BLyVO51sfu2xo2CxVdset52Tt9dsNAUA46Qp",
+  "author": {
+    "name": "Cequens"
+  },
+  "tags": [
+    "Develop",
+    "Facilities",
+    "Sending"
+  ],
+  "description": "This document is intended for those clients who want to develop business applications to\nintegrate with Cequens SMSC and make use of its facilities in handling different types of\nsending SMS."
+}

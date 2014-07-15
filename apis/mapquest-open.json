@@ -1,0 +1,14 @@
+{
+  "id": "mapquest-open",
+  "title": "MapQuest Open",
+  "link": "http://news.cnet.com/MapQuest-offers-open-source-API/2100-1032_3-6046698.html",
+  "image": "http://cnet3.cbsistatic.com/117-fly/bundles/cnetcss/images/core/logo-masthead.png",
+  "author": {
+    "name": "c/net"
+  },
+  "tags": [
+    "Developer",
+    "Capabilities"
+  ],
+  "description": "The OpenAPI beta aims to give developers the ability to include its routing capabilities in the programs they create."
+}

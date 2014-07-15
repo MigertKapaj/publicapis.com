@@ -1,0 +1,15 @@
+{
+  "id": "librarything",
+  "title": "LibraryThing",
+  "link": "http://www.librarything.com/api.php",
+  "image": "http://pics.librarything.com/pics/lt-wordmark-2013.gif",
+  "author": {
+    "name": "LibraryThing"
+  },
+  "tags": [
+    "Work",
+    "Editing",
+    "Browser"
+  ],
+  "description": "ThingISBN takes an ISBN and returns a list of ISBNs from the same \"work\" (ie., other editions and translations). Uses the same format as OCLC's  xISBN.  To use thingISBN, point your browser at a URL like this, replacing the ISBN as appropriate"
+}

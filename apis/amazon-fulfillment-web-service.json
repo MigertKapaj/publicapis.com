@@ -1,0 +1,15 @@
+{
+  "id": "amazon-fulfillment-web-service",
+  "title": "Amazon Fulfillment Web Service",
+  "link": "http://aws.amazon.com/documentation/fws/",
+  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Service",
+    "Process",
+    "Inventory"
+  ],
+  "description": "Amazon Fulfillment Web Service (Amazon FWS) is a set of operations designed to help you automate the process of shipping your inventory to an Amazon fulfillment center and—if you sell on a site other than Amazon—to ship your items from the fulfillment center to the seller."
+}

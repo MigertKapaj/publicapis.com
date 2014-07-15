@@ -1,0 +1,15 @@
+{
+  "id": "bmn",
+  "title": "BMN",
+  "link": "http://www.bmedianet.com/api.html",
+  "image": "http://www.bmedianet.com/images/bmn.png",
+  "author": {
+    "name": "BMN"
+  },
+  "tags": [
+    "Online",
+    "Agencies",
+    "Lifestyles"
+  ],
+  "description": "BMN’s Cognitive Insights API delivers psychological intelligence about users, enabling you to create relevant and engaging applications and online experiences. Drawing on research at MIT Media Lab and other top institutions including U.S. intelligence agencies, the CI suite infers users’ personalities, values, attitudes, interests and lifestyles from user-generated text such as social posts, SMS, emails, blogs, cover letters and more. "
+}

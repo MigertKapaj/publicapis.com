@@ -1,0 +1,15 @@
+{
+  "id": "ceeq",
+  "title": "CeeQ",
+  "link": "http://ceeqapi.com/",
+  "image": "",
+  "author": {
+    "name": "CeeQ"
+  },
+  "tags": [
+    "Provides",
+    "Detection",
+    "Social"
+  ],
+  "description": "The CeeQ API provides a REST API for state-of-the-art face detection and recognition along with easy tie-ins to social media. "
+}

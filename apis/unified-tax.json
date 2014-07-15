@@ -1,0 +1,15 @@
+{
+  "id": "unified-tax",
+  "title": "Unified Tax",
+  "link": "http://unifiedtax.org/rest-api",
+  "image": "",
+  "author": {
+    "name": "Unified Tax"
+  },
+  "tags": [
+    "Address",
+    "Tax",
+    "Rate"
+  ],
+  "description": "Our REST API is quite simple.  One API to normalise an address, one API to determine the tax method and rate. The Responses are sent in JSON.\n"
+}

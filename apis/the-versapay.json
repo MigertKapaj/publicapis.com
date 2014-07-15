@@ -1,0 +1,15 @@
+{
+  "id": "the-versapay",
+  "title": "The VersaPay",
+  "link": "http://developers.versapay.com/index.html",
+  "image": "http://developers.versapay.com/images/header_logo.png",
+  "author": {
+    "name": "VersaPay"
+  },
+  "tags": [
+    "Organization",
+    "Manage",
+    "Debit"
+  ],
+  "description": "The VersaPay API can be used by your organization to manage transactions and pre-authorized debit agreements."
+}

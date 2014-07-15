@@ -1,0 +1,16 @@
+{
+  "id": "user-agent-string.info",
+  "title": "user-agent-string.info",
+  "link": "http://user-agent-string.info/api",
+  "image": "http://user-agent-string.info/pub/img/logo.png",
+  "author": {
+    "name": "user-agent-string.info"
+  },
+  "tags": [
+    "Database",
+    "User",
+    "Automatic",
+    "Response"
+  ],
+  "description": "User-agent-string.info API is designed for hands off access to database with informations about user agent. Using is simple, send UA string to our server and get \nautomatic response by using metod.\n\n\n\n"
+}

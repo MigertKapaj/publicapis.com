@@ -1,0 +1,15 @@
+{
+  "id": "socialyzer",
+  "title": " socialyzer",
+  "link": "https://gist.github.com/polomasta/2907448",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTcDDBajhVaZXL2MdXALPxA_81jWLPHjNzT-XvEq27k5w0hzx-G",
+  "author": {
+    "name": "Github Gist"
+  },
+  "tags": [
+    "Parameter",
+    "Required",
+    "Necessary"
+  ],
+  "description": "All API requests should be directed to http://api.socialyzerhq.com and include at least a key parameter, the value of which should be your Socialyzer API key. Some API endpoints have other required parameters, but key is always necessary."
+}

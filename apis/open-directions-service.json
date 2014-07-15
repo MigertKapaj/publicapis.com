@@ -1,0 +1,16 @@
+{
+  "id": "open-directions-service",
+  "title": "Open Directions Service",
+  "link": "http://open.mapquestapi.com/directions/",
+  "image": "http://open.mapquest.co.uk/cdn/dotcom3/images/logos/logo_beta.png",
+  "author": {
+    "name": "MapQuest Open"
+  },
+  "tags": [
+    "Simple Interface",
+    "Routing",
+    "Narrative",
+    "Forums.\n"
+  ],
+  "description": "The Route Service provides a simple interface to get routing, narrative, and shapes. Release notes are available here. Comments, feedback, and support questions can be posted in our Open Forums."
+}

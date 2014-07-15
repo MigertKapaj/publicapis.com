@@ -1,0 +1,16 @@
+{
+  "id": "trendy-skills",
+  "title": "Trendy Skills",
+  "link": "http://trendyskills.com/index.php/api",
+  "image": "http://trendyskills.com/assets/images/logo2.png",
+  "author": {
+    "name": "Trendy Skills"
+  },
+  "tags": [
+    "Unique",
+    "Domain",
+    "Request",
+    "Domain"
+  ],
+  "description": "Before integrating the Trendy Skills API to your application you have to obtain a unique API key for the domain that it is going to be used with. Each domain can have only one API key. In case you miss it you can request it back every time you wish."
+}

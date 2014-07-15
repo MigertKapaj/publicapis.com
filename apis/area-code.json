@@ -1,0 +1,15 @@
+{
+  "id": "area-code",
+  "title": "Area Code",
+  "link": "http://www.allareacodes.com/api/",
+  "image": "http://www.allareacodes.com/images/logo_transparent.png",
+  "author": {
+    "name": "Area Code"
+  },
+  "tags": [
+    "Programming",
+    "Require",
+    "Data"
+  ],
+  "description": "The area code API is designed for developers with experience programming. If you are looking for a copy and paste solution, try our area code widgets. The API provides output in either JSON or XML format. An API key is not required, but we require that you provide certain parameters that will allow us to track API usage. API rate limits are currently unpublished. The following data is provided by the API."
+}

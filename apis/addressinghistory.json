@@ -1,0 +1,15 @@
+{
+  "id": "addressinghistory",
+  "title": "AddressingHistory",
+  "link": "http://addressinghistory.edina.ac.uk/api",
+  "image": "http://addressinghistory.edina.ac.uk/img/top-logo-1.jpg",
+  "author": {
+    "name": "AddressingHistory"
+  },
+  "tags": [
+    "Search",
+    "Download",
+    "Application"
+  ],
+  "description": "You can use the AddressingHistory API to search AddressingHistory's database of Post Office Directories (for information please refer to the Terms and Conditions). This allow you to download and use the results in another website or application such as Google Earth."
+}

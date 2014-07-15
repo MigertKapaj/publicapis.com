@@ -1,0 +1,16 @@
+{
+  "id": "licensing",
+  "title": "Licensing",
+  "link": "https://developers.google.com/google-apps/marketplace/licensing",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "License",
+    "Notification",
+    "Activated",
+    "Unlicensed"
+  ],
+  "description": "This document explains how to use the Licensing API to get updates on a domain's license for a Marketplace application. This includes querying for notifications when the domain's license to the Marketplace application has been activated, unlicensed, or is still pending."
+}

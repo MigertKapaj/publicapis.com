@@ -1,0 +1,16 @@
+{
+  "id": "webgl-earth",
+  "title": "WebGL Earth",
+  "link": "http://www.webglearth.org/api",
+  "image": "http://www.webglearth.org/_/rsrc/1295535274293/config/customLogo.gif?revision=5",
+  "author": {
+    "name": "WebGL Earth"
+  },
+  "tags": [
+    "Usable",
+    "Library",
+    "Complex",
+    "Shareable"
+  ],
+  "description": "WebGL Earth is (thanks to the integration with Google Closure compiler) fully usable in a form of library, which you can compile together with your own complex JavaScript application. The shareable codebase of the WebGL Earth is available in the \"we\" directory."
+}

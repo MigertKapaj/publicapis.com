@@ -1,0 +1,15 @@
+{
+  "id": "mxsave",
+  "title": "MXSAVE",
+  "link": "http://www.mxsave.com/developers.html",
+  "image": "http://www.mxsave.com/img/mxsave-logo.jpg",
+  "author": {
+    "name": "MXSAVE"
+  },
+  "tags": [
+    "Web",
+    "Recovery",
+    "Service"
+  ],
+  "description": "Welcome to the MXSave web service development guide.  This guide describes the web development required for service providers to connect their web based systems to our application in order to utilize our e-mail disaster recovery services.  "
+}

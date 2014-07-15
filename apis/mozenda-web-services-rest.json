@@ -1,0 +1,16 @@
+{
+  "id": "mozenda-web-services-rest",
+  "title": "Mozenda Web Services Rest ",
+  "link": "http://www.mozenda.com/api",
+  "image": "http://www.mozenda.com/Company2/Images/Logo.png",
+  "author": {
+    "name": "Mozenda"
+  },
+  "tags": [
+    "Automation",
+    "Results",
+    "Standard",
+    "HTTP"
+  ],
+  "description": "Using the Mozenda Web Services Rest API, customers can programmatically connect to their Mozenda account. This provides complete automation capabilities for setting search parameters, gathering results, updating collections, etc. This connection is made by sending a standard Http request that includes variables and other settings for interacting with the system.\n                        "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "magnatune",
+  "title": "Magnatune",
+  "link": "http://magnatune.com/info/api",
+  "image": "http://he3.magnatune.com/images/m3/inside_magnatune_logo.gif",
+  "author": {
+    "name": "Magnatune"
+  },
+  "tags": [
+    "Creative",
+    "Music",
+    "Application"
+  ],
+  "description": "If you want to integrate Magnatune's Creative Commons' by-nc-sa v1.0 licensed music into your web site or application, these links will help you. "
+}

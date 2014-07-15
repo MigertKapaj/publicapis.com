@@ -1,0 +1,15 @@
+{
+  "id": "cloudbees",
+  "title": "CloudBees",
+  "link": "http://wiki.cloudbees.com/bin/view/RUN/API",
+  "image": "",
+  "author": {
+    "name": "CloudBees"
+  },
+  "tags": [
+    "HTTP",
+    "Operation",
+    "Resources"
+  ],
+  "description": "The Query API is a HTTP-based programming interface that provides operations for managing the CloudBees services and resources."
+}

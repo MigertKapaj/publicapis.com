@@ -1,0 +1,15 @@
+{
+  "id": "versioneye",
+  "title": "Versioneye",
+  "link": "https://www.versioneye.com/api",
+  "image": "https://www.versioneye.com/assets/logos/versioneye-transparent-2494db513158178b56313616264e74ab.png",
+  "author": {
+    "name": "Versioneye"
+  },
+  "tags": [
+    "Mobile",
+    "Gadgets",
+    "Widgets"
+  ],
+  "description": "Use our API (Application Programming Interface) to write Add-ons, mobile applications, desktop applications, gadgets or widgets. "
+}

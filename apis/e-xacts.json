@@ -1,0 +1,16 @@
+{
+  "id": "e-xacts",
+  "title": "E-xact's",
+  "link": "http://www.e-xact.com/api/",
+  "image": "https://hostedcheckout.zendesk.com/system/logos/0009/8895/e-xact_logotop.gif",
+  "author": {
+    "name": "E-xact"
+  },
+  "tags": [
+    "Service",
+    "Processing",
+    "Provides",
+    "Integration"
+  ],
+  "description": "The Transaction Processing API is a web service that allows third-party applications to process transactions through E-xact's system.  The range of processing scenarios (Purchase, Refund, Pre-Authorization, etc.) enable flexible and powerful ways to implement custom business logic.  E-xact also provides free client libraries that ease integration with the API. "
+}

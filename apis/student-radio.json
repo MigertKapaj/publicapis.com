@@ -1,0 +1,16 @@
+{
+  "id": "student-radio",
+  "title": "Student Radio",
+  "link": "http://www.studentradiochart.com/api",
+  "image": "http://www.studentradiochart.com/layout/logo_chart.png",
+  "author": {
+    "name": "Student Radio Chart Show"
+  },
+  "tags": [
+    "Party",
+    "Data",
+    "Sources",
+    "Webservice"
+  ],
+  "description": "In order to allow Student Stations and other third party programmers to make use of our data, and the data we gather from other sources - we're opening up our data through our webservices API."
+}

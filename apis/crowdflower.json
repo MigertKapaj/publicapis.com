@@ -1,0 +1,15 @@
+{
+  "id": "crowdflower",
+  "title": "CrowdFlower",
+  "link": "http://crowdflower.com/docs-api",
+  "image": "https://cdn2.hubspot.net/hub/346378/file-515612844-png/main_site_imgs/logo.png?t=1392289394000",
+  "author": {
+    "name": "CrowdFlower"
+  },
+  "tags": [
+    "Service",
+    "Contributors",
+    "Assembly"
+  ],
+  "description": "CrowdFlower is the world's leading crowdsourcing service, with over one billion tasks completed by five million contributors. We specialize in microtasking: distributing small, discrete tasks to many online contributors in assembly line fashion."
+}

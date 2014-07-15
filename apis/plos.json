@@ -1,0 +1,15 @@
+{
+  "id": "plos",
+  "title": "PLOS",
+  "link": "http://api.plos.org/alm/faq/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8lvVp4ZTasuwlUlHGMLZTw52aEdut1M7EZNjhPoWfE7QKKgfy",
+  "author": {
+    "name": "PLOS"
+  },
+  "tags": [
+    "Retrieve",
+    "Mentions",
+    "Published"
+  ],
+  "description": "PLOS uses the Article-Level Metrics API to retrieve the usage statistics, citation counts, number of bookmarks and number of blog mentions for every article published in the PLOS journals and for every article added to PLOS Hubs: Biodiversity. "
+}

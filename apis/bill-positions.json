@@ -1,0 +1,15 @@
+{
+  "id": "bill-positions",
+  "title": "Bill Positions",
+  "link": "http://maplight.org/apis/bill-positions/documentation",
+  "image": "http://maplight.org/sites/all/themes/maptheme/logo_20111031.png",
+  "author": {
+    "name": "MapLight"
+  },
+  "tags": [
+    "Organization",
+    "Position",
+    "Determine"
+  ],
+  "description": "For a given organization, the API returns which bills the organization took a position upon, the position they took (i.e., support or oppose), and citations of publications MapLight used to determine their position."
+}

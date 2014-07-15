@@ -1,0 +1,16 @@
+{
+  "id": "bulk-data-exchange",
+  "title": "Bulk Data Exchange",
+  "link": "http://developer.ebay.com/DevZone/bulk-data-exchange/CallRef/index.html",
+  "image": "http://developer.ebay.com/Devzone/business-policies/assets/eBayDevLogo_sm.gif",
+  "author": {
+    "name": "eBay "
+  },
+  "tags": [
+    "Reference",
+    "Elements",
+    "Bulk",
+    "Data"
+  ],
+  "description": "This API Reference describes the elements and attributes for each call in the Bulk Data Exchange API.\n"
+}

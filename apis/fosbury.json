@@ -1,0 +1,16 @@
+{
+  "id": "fosbury",
+  "title": "Fosbury",
+  "link": "http://docs.fosbury.apiary.io/",
+  "image": "http://www.fosbury.co/assets/fosbury-1d041c392a5936fa1658a1307355b85f.png",
+  "author": {
+    "name": "Fosbury"
+  },
+  "tags": [
+    "Develoment",
+    "Connect",
+    "System",
+    "Automatically"
+  ],
+  "description": "The enterprise-class Fosbury API was built to reduce development time for companies and to be the best foundation to help brands connect their business to all of their digital wallet systems. Integrate once and automatically tie in to iOS Passbook & Samsung Wallet."
+}

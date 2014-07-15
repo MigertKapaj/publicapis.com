@@ -1,0 +1,16 @@
+{
+  "id": "dalpay",
+  "title": "Dalpay",
+  "link": "https://www.dalpay.com/en/dalpayapi/",
+  "image": "https://www.dalpay.com/style/merchant-accounts.gif",
+  "author": {
+    "name": "DalPay"
+  },
+  "tags": [
+    "Requires",
+    "Account",
+    "Customization",
+    "Control"
+  ],
+  "description": "DalPay Direct requires merchants to collect payment card or bank account information on their own SSL-secured webpage, and offers the highest degree of customization and control over the checkout experience"
+}

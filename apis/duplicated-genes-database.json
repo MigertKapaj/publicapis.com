@@ -1,0 +1,17 @@
+{
+  "id": "duplicated-genes-database",
+  "title": "Duplicated Genes Database",
+  "link": "http://dgd.genouest.org/tutorial#tuto_3",
+  "image": "http://dgd.genouest.org/images/dgd/logo_dgd.png",
+  "author": {
+    "name": "Duplicated Genes Database"
+  },
+  "tags": [
+    "Standard",
+    "Test",
+    "Service",
+    "Retrieving",
+    "Complementary"
+  ],
+  "description": "DGD is available as a webservice using the standard SOAP protocol. The WSDL file is available at this address. A minimalistic web interface is available to test the service invocation. This webservice can only carry out the Ensembl gene IDs as input data and cannot allow retrieving directly xrefs in output file. However, these features are available using another complementary webservice dedicated to cross-references: Xref (web interface)."
+}

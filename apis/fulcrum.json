@@ -1,0 +1,15 @@
+{
+  "id": "fulcrum",
+  "title": "Fulcrum",
+  "link": "http://fulcrumapp.com/developers/api/accounts/#postclick",
+  "image": "http://fulcrumapp.com/assets/img/logo-fulcrum.png",
+  "author": {
+    "name": "Fulcrum"
+  },
+  "tags": [
+    "Provides",
+    "Data",
+    "Mapping"
+  ],
+  "description": "Fulcrum provides an application platform for building dynamic data collection forms to deploy your own apps for field surveys, specifically built with mapping applications in mind."
+}

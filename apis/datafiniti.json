@@ -1,0 +1,15 @@
+{
+  "id": "datafiniti",
+  "title": "Datafiniti",
+  "link": "https://datafiniti.net/index.php/developers",
+  "image": "https://datafiniti.net/assets/logo-af27686aa7a4b7de6a4e6e2da76ea9c0.png",
+  "author": {
+    "name": "Datafiniti"
+  },
+  "tags": [
+    "Decisions",
+    "Data",
+    "Internet"
+  ],
+  "description": "Data is changing the world in which we live. Businesses are making better decisions based on an increasing amount of data. However, the largest source of data, the Internet itself, has remained a vast sea of inaccessible content – until now. "
+}

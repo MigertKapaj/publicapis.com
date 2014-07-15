@@ -1,0 +1,16 @@
+{
+  "id": "simply-hireds",
+  "title": "Simply Hired's",
+  "link": "http://www.simplyhired.com/a/publishers/overview",
+  "image": "http://www.simplyhired.com/c/sh/images/82de4877f2de81b120fa95e2da7cb2ce8d66dd00/simplyhired-logo-orange.png",
+  "author": {
+    "name": "SimplyHired"
+  },
+  "tags": [
+    "Publishers",
+    "Develop",
+    "Internet",
+    "Widgets"
+  ],
+  "description": "Simply Hired's jobs XML API lets web publishers use our database of 5M jobs to develop custom job search sites, job widgets, mashups, and career-related internet applications."
+}

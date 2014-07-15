@@ -1,0 +1,16 @@
+{
+  "id": "actionscript",
+  "title": "ActionScript",
+  "link": "https://developers.google.com/youtube/flash_api_reference",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Public",
+    "Play",
+    "Pause",
+    "Activated"
+  ],
+  "description": "The AS3 API allows users to control the YouTube video players by loading the player into a Flash application and making calls via ActionScript to the player's public API. Your application can use a chromeless player, for which you will build custom controls in Flash, or an embedded player that has built-in controls. Calls can be made to play, pause, seek to a certain time in a video, set the volume, mute the player, and other useful functions. The ActionScript API is automatically activated when the player is loaded into another SWF."
+}

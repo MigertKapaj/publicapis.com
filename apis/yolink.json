@@ -1,0 +1,16 @@
+{
+  "id": "yolink",
+  "title": "yolink",
+  "link": "https://developer.yolink.com/",
+  "image": "https://developer.yolink.com/yolink_logo.png",
+  "author": {
+    "name": "yolink"
+  },
+  "tags": [
+    "Access",
+    "Powerful",
+    "Application",
+    "Search"
+  ],
+  "description": "The API provides access to the cloud version of yolink to add powerful, real-time search capabilities to any application, and a set of configurable widgets which can easily be dropped into a page to provide dynamic search over top of existing content."
+}

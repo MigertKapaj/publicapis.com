@@ -1,0 +1,13 @@
+{
+  "id": "static-map",
+  "title": "Static map",
+  "link": "https://www.mashape.com/orfeomorello/static-map",
+  "image": "",
+  "author": {
+    "name": "orfeomorello"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Get a valid static geo image map url from different map providers."
+}

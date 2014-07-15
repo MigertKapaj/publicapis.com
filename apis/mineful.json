@@ -1,0 +1,15 @@
+{
+  "id": "mineful",
+  "title": "Mineful",
+  "link": "http://mineful.com/api/getting-started.html",
+  "image": "http://mineful.com/img/logo.jpg",
+  "author": {
+    "name": "mineful"
+  },
+  "tags": [
+    "Integrate",
+    "Retention",
+    "Predictive"
+  ],
+  "description": "Mineful's REST API allows you to integrate your applications into our customer retention engine and leverage the full power of our predictive models and alert automation."
+}

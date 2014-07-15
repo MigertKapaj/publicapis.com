@@ -1,0 +1,14 @@
+{
+  "id": "shortcode",
+  "title": "Shortcode",
+  "link": "http://codex.wordpress.org/Shortcode_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Functions",
+    "Creating"
+  ],
+  "description": "Introduced in WordPress 2.5 is the Shortcode API, a simple set of functions for creating macro codes for use in post content."
+}

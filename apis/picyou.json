@@ -1,0 +1,16 @@
+{
+  "id": "picyou",
+  "title": "PicYou",
+  "link": "http://developer.picyou.com/getting_started",
+  "image": "http://developer.picyou.com/images/logo-white.png",
+  "author": {
+    "name": "PicYou"
+  },
+  "tags": [
+    "Informaion",
+    "Implementation",
+    "Application",
+    "Redirected"
+  ],
+  "description": "When you'll get all OAuth information, you should implement OAuth 1.0a authentication in your application. If your app is web-based then user will be redirected to PicYou site where he will be asked to grant permissions to your application"
+}

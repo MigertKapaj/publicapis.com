@@ -1,0 +1,17 @@
+{
+  "id": "zipmark",
+  "title": "Zipmark",
+  "link": "https://dev.zipmark.com/",
+  "image": "",
+  "author": {
+    "name": "Zipmark"
+  },
+  "tags": [
+    "Online",
+    "Secure",
+    "Balance",
+    "Processing",
+    "Devices"
+  ],
+  "description": "Zipmark is an online and mobile digital checkbook that enables billers to accept secure, fast electronic check payments with the guarantees and balance sheet benefits of cash. Via our API, Zipmark offers highly secure, fast digital check payment processing on the web and on mobile devices. By making integration straightforward, the Zipmark API allows you to focus on your own applications."
+}

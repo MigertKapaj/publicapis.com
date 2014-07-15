@@ -1,0 +1,15 @@
+{
+  "id": "brighter-planet-cm1",
+  "title": "Brighter Planet CM1",
+  "link": "http://impact.brighterplanet.com/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSiKphwCMNl123aJB_TL-_b1SadKoMcW_eAVtN4a9kC1hrdlnIV",
+  "author": {
+    "name": "Brighter Planet CM1"
+  },
+  "tags": [
+    "Recognized",
+    "Inspect",
+    "Response"
+  ],
+  "description": "Unrecognized input and invalid values for recognized characteristics will be ignored during calculation. When in doubt, submit what you can and inspect the response for interpretation."
+}

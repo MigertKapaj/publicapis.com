@@ -1,0 +1,15 @@
+{
+  "id": "opengov-nsw",
+  "title": "OpenGov NSW",
+  "link": "https://www.opengov.nsw.gov.au/api",
+  "image": "https://www.opengov.nsw.gov.au/images/logo.png",
+  "author": {
+    "name": "OpenGov NSW"
+  },
+  "tags": [
+    "Published",
+    "Information",
+    "Data"
+  ],
+  "description": "OpenGov NSW. Here is where you will find information published by NSW Government agencies, including Annual Reports and open access information released under the Government Information (Public Access) Act 2009 (GIPA Act). Please note, this site is not a comprehensive collection of all NSW government published information. Other useful sources include data.nsw, the NSW Government Gazette, the State Library of NSW, NSW Legislation, the Parliament of NSW and the State archives collection."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "shiponline",
+  "title": "ShipOnline",
+  "link": "http://shiponline.biz/e-commerce/",
+  "image": "http://shiponline.biz/images/logo_header.png",
+  "author": {
+    "name": "ShipOnline"
+  },
+  "tags": [
+    "Process",
+    "Service",
+    "Web"
+  ],
+  "description": "Take your order processing to the next level. We can integrate with your e-commerce or ERP system to automate your shipping process and eliminate bottlenecks. Our multi-carrier API gives you the flexibility to handle multiple shipping carriers with one single web service. There's no need to read carrier-specific integration manuals. Use our integration services and we'll handle the translation for you. "
+}

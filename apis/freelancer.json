@@ -1,0 +1,14 @@
+{
+  "id": "freelancer",
+  "title": "Freelancer",
+  "link": "http://www.freelancer.com/info/api.php",
+  "image": "http://developer.freelancer.com/misc/logo.jpg",
+  "author": {
+    "name": "Freelancer"
+  },
+  "tags": [
+    "Engage",
+    "Community"
+  ],
+  "description": "There are countless possibilities for the API and Freelancer.com is actively looking to engage with its community of Employers and Freelancers to embrace those possibilities."
+}

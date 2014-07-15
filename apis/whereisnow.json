@@ -1,0 +1,15 @@
+{
+  "id": "whereisnow",
+  "title": "WhereIsNow",
+  "link": "http://www.whereisnow.com/Developer.now",
+  "image": "http://www.whereisnow.com/sites/all/themes/winlanding/logo.png",
+  "author": {
+    "name": "WhereIsNow"
+  },
+  "tags": [
+    "Integrable",
+    "System",
+    "Company"
+  ],
+  "description": "Thanks to its API, WhereIsNow is fully integrable with CRM and DMS systems already used by your company. Ask here for a free demo."
+}

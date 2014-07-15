@@ -1,0 +1,15 @@
+{
+  "id": "openminds",
+  "title": "OpenMinds",
+  "link": "http://openminds.io/developers/docs/api_reference",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSWlH0nu4EEFRsZ8Uc-09VXsyaAdc1qpBLPBvgaxEfe-th5QDxx",
+  "author": {
+    "name": "OpenMinds"
+  },
+  "tags": [
+    "Websites",
+    "Games",
+    "Interesting"
+  ],
+  "description": "The content in OpenMinds is formatted in a standardized way that makes it easy for websites, apps, and games to understand and use the content in interesting & educational ways."
+}

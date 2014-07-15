@@ -1,0 +1,16 @@
+{
+  "id": "twilio",
+  "title": "Twilio",
+  "link": "http://www.twilio.com/docs/api/rest",
+  "image": "http://static1.twilio.com/packages/foundation/img/twilio-logo-50x50.png",
+  "author": {
+    "name": "Twilio"
+  },
+  "tags": [
+    "Data",
+    "Calls",
+    "Messages",
+    "Fancy"
+  ],
+  "description": "The Twilio REST API allows you to query meta-data about your account, phone numbers, calls, text messages, and recordings. You can also do some fancy things like initiate outbound calls and send text messages."
+}

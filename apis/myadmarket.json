@@ -1,0 +1,16 @@
+{
+  "id": "myadmarket",
+  "title": "MyAdMarket",
+  "link": "http://www.myadmarket.com/why-us/api/",
+  "image": "http://www.myadmarket.com/wp-content/themes/myadmarket/images/logo.png",
+  "author": {
+    "name": "MyAdMarket"
+  },
+  "tags": [
+    "Pull",
+    "Push",
+    "Data",
+    "Billing"
+  ],
+  "description": "The APIs can help you push or pull data,  and integrate with your CRM system, billing system or other 3rd party systems. Perhaps you want to keep using your customized front-end system for trafficking and forecasting or maybe you've got a great new product idea that you want to build on top of MyAdMarket® ad system. Having an open, accessible exchange should be a core goal. We want you to bring your innovation - your differentiation - to the community. In order to make this as easy as possible for you to work with us, we've\n released some APIs that will help us work together."
+}

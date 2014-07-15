@@ -1,0 +1,15 @@
+{
+  "id": "userapp",
+  "title": "UserApp",
+  "link": "https://app.userapp.io/#/docs/",
+  "image": "https://app.userapp.io/img/icons/logo-57x57.png",
+  "author": {
+    "name": "UserApp"
+  },
+  "tags": [
+    "Cloud",
+    "Developers",
+    "Feature"
+  ],
+  "description": "UserApp is a cloud-based user management API for web apps with the purpose to relieve developers from having to program logic for user authentication, sign-up, invoicing, feature/property/permission management, and more."
+}

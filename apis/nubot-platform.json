@@ -1,0 +1,15 @@
+{
+  "id": "nubot-platform",
+  "title": "NuBot Platform",
+  "link": "http://nubot.nuecho.com/doc/api/overview.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtbCH5V8V3kU64YHKp-zt_LLrG1CQVok7G_8KD-Q0qzx73XxaD",
+  "author": {
+    "name": "NuBot Platform"
+  },
+  "tags": [
+    "Features",
+    "Ability",
+    "Interact"
+  ],
+  "description": "The NuBot Platform features a full fledged RESTful API giving our users the ability to programmatically interact with the platform."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "postcodepal",
+  "title": "PostcodePal",
+  "link": "http://postcodepal.com/?page=webapi",
+  "image": "",
+  "author": {
+    "name": "PostcodePal"
+  },
+  "tags": [
+    "Developer",
+    "Web",
+    "Database"
+  ],
+  "description": "Our web api is for developers who wish to incorporate distance calculations and address lookups into their desktop or web applications; without having to worry about hosting and maintaining their own databases."
+}

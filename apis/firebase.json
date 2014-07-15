@@ -1,0 +1,16 @@
+{
+  "id": "firebase",
+  "title": "Firebase",
+  "link": "https://www.firebase.com/docs/rest-api.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRf_nop7tHMUE-ZCLi9JdA37QQfmeSBTeYizW_O4bKhE9yvA8Mw",
+  "author": {
+    "name": "Firebase"
+  },
+  "tags": [
+    "Request",
+    "Required",
+    "Traffic",
+    "Data"
+  ],
+  "description": "You can use any Firebase URL as a REST endpoint. All you need to do is append \".json\" to the end of the URL and send a request from your favorite HTTPS client. Note that HTTPS is required. Firebase only responds to encrypted traffic so that your data remains safe."
+}

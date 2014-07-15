@@ -1,0 +1,15 @@
+{
+  "id": "stationstop",
+  "title": "Station/Stop",
+  "link": "http://myttc.ca/developers",
+  "image": "http://myttc.ca/images/logo.png",
+  "author": {
+    "name": "myttc"
+  },
+  "tags": [
+    "Interesting",
+    "Data",
+    "Created"
+  ],
+  "description": "We love seeing all the cool and interesting ways people mash up our data. So to help people shorten their development cycles we've created an API. "
+}

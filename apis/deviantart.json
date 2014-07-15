@@ -1,0 +1,14 @@
+{
+  "id": "deviantart",
+  "title": "deviantART",
+  "link": "https://www.deviantart.com/developers/rss",
+  "image": "https://st.deviantart.net/minish/main/logo.png",
+  "author": {
+    "name": "deviantART"
+  },
+  "tags": [
+    "Developers",
+    "Possible"
+  ],
+  "description": "We've designed our APIs to use open standards so developers can leverage off-the-shelf libraries. We aim to provide APIs that are as simple as possible yet still open the door to great possibilities."
+}

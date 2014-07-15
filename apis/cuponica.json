@@ -1,0 +1,14 @@
+{
+  "id": "cuponica",
+  "title": "Cuponica",
+  "link": "https://www.cuponica.com.ar/api/doc",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQlfewGpO_vePO4RrcSfQZp2or8_8IshWZ-C2ttYW651qg4TX2asQ",
+  "author": {
+    "name": "Cuponica"
+  },
+  "tags": [
+    "Acceder",
+    "Publicadas"
+  ],
+  "description": "Por medio de esta API se puede acceder a la información de todas las ofertas publicadas en Cupónica obteniendo más información y capacidad de filtrado que los que provee el "
+}

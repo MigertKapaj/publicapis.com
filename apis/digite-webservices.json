@@ -1,0 +1,16 @@
+{
+  "id": "digite-webservices",
+  "title": "Digite Webservices",
+  "link": "http://digite.com/web-services.html",
+  "image": "http://digite.com/templates/shaper_simplicity_ii/images/logo.png",
+  "author": {
+    "name": "Digite"
+  },
+  "tags": [
+    "Definations",
+    "Programmtic",
+    "Continuosly",
+    "Features"
+  ],
+  "description": "This document describes the Digite Web services interface definitions, which will help enterprises to integrate with Digite application in a more programmatic manner. The Web services collection provided by Digite is continuously growing based on the Customer requirements and new features introduction in application"
+}

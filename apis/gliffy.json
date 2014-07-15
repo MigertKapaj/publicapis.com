@@ -1,0 +1,15 @@
+{
+  "id": "gliffy",
+  "title": "Gliffy",
+  "link": "http://www.gliffy.com/products/online/api/",
+  "image": "http://www.gliffy.com/_ui/images/logo_header_white.png",
+  "author": {
+    "name": "Gliffy"
+  },
+  "tags": [
+    "Possible",
+    "Existing",
+    "Developer"
+  ],
+  "description": "The Gliffy Developer Program has been created with a simple vision in mind: We wanted to make it possible for developers to add Gliffy diagramming features to their existing web based applications.We've accomplised this goal by creating a simple to use developer framework which in turn makes it easy to create mash-ups with Gliffy."
+}

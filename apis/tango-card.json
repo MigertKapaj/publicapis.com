@@ -1,0 +1,16 @@
+{
+  "id": "tango-card",
+  "title": "Tango Card",
+  "link": "https://www.tangocard.com/extend",
+  "image": "https://www.tangocard.com/images/tango-card-logo.png",
+  "author": {
+    "name": "Tango Card"
+  },
+  "tags": [
+    "Languages",
+    "Multiple",
+    "Developer",
+    "Fedex"
+  ],
+  "description": "Tango Card Service API is accessible either directly via HTTP POST or through our Tango Card SDKs currently available in multiple programming languages. Our Tango Card SDKs quickly and easily allows developers to incorporate the Tango Card – the \"exactly what you want\" gift card. Used today by customers like FedEx, Hively, Beintoo and Plink, whether you're launching a new mobile app or adding real rewards to an existing online loyalty program, Extend can be your secure, efficient source and fulfillment platform. Our Tango Card Service API allows you to do two basic but powerful tasks."
+}

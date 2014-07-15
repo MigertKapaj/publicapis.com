@@ -1,0 +1,15 @@
+{
+  "id": "appurl",
+  "title": "AppURL",
+  "link": "http://appurl.org/docs/api",
+  "image": "http://appurl.org/static/images/appurl-logo.png",
+  "author": {
+    "name": "AppURL"
+  },
+  "tags": [
+    "Program",
+    "App",
+    "Device"
+  ],
+  "description": "An AppURL client is a program that thinks \"opening a URL\" means looking up the right app and launching the right screen – unless a user doesn't have the right app on their device, in which case open the URL on the web."
+}

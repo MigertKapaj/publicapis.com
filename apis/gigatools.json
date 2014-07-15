@@ -1,0 +1,15 @@
+{
+  "id": "gigatools",
+  "title": "GigaTools",
+  "link": "http://api.gigatools.com/",
+  "image": "http://api.gigatools.com/assets/logo_bigger.png",
+  "author": {
+    "name": "GigaTools"
+  },
+  "tags": [
+    "Apply",
+    "Query",
+    "Public"
+  ],
+  "description": "You can apply for an API Key and then using that, query the entire database of public Gig listings."
+}

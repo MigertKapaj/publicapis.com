@@ -1,0 +1,15 @@
+{
+  "id": "blipfoto",
+  "title": "Blipfoto",
+  "link": "http://api.blipfoto.com/docs/requests",
+  "image": "http://www.blipfoto.com/_images/blipfoto.png",
+  "author": {
+    "name": "Blipfoto"
+  },
+  "tags": [
+    "Building",
+    "Obtian",
+    "Service"
+  ],
+  "description": "To start building with the API, you must have a Blipfoto account. From there you obtain an API Key which allows you to make calls to the API service."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "idlight",
+  "title": "IDlight",
+  "link": "http://www.idlight.net/#api",
+  "image": "http://www.idlight.net/img/idlight-logo-72.png",
+  "author": {
+    "name": "IDlight"
+  },
+  "tags": [
+    "Emerging",
+    "Retrieve",
+    "Sources"
+  ],
+  "description": "IDlight uses established and emerging standards like Webfinger, XRD and hCard to retrieve public profiles. Other well-known profile sources are explored too."
+}

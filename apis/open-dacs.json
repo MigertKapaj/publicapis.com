@@ -1,0 +1,16 @@
+{
+  "id": "open-dacs",
+  "title": "Open DACS",
+  "link": "https://customers.reuters.com/developer/Kits/OpenDACS/opendacs.aspx",
+  "image": "https://customers.reuters.com/images/cz-site-name.gif",
+  "author": {
+    "name": "Customer Zone"
+  },
+  "tags": [
+    "Solution",
+    "Functions",
+    "Business",
+    "Controlled"
+  ],
+  "description": "The Open DACS API provides an enterprise wide solution to the same problem. It enables applications that are remote from RMDS to take advantage of all of the DACS permissioning functionality. Once Open DACS has been integrated, DACS itself will carry out all the functions required to ensure the application’s data consumption is fully controlled and reported. The developer is free to focus on creating the business functionality, confident that the data management and administration tasks are being handled by DACS. The Market Data manager is assured that the new application is fully controlled using existing staff and processes."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "eea",
+  "title": "EEA",
+  "link": "http://www.eea.europa.eu/code/gis",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSdqX8BfZFWLnZw3o1NMW5B2kfmM4AEvGrD1sqP6a0hwVaTpP8-dg",
+  "author": {
+    "name": "EEA"
+  },
+  "tags": [
+    "Climate",
+    "Land",
+    "Accessible",
+    "Service"
+  ],
+  "description": "The EEA covers thematic areas such as air, water, climate change, biodiversity, land and noise. Our services are made accessible in as many ways as possible. All these map services contain metadata and have a simple interface."
+}

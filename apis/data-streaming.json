@@ -1,0 +1,16 @@
+{
+  "id": "data-streaming",
+  "title": "Data streaming",
+  "link": "https://lris.scinfo.org.nz/p/api-support-wfs/",
+  "image": "https://lris.scinfo.org.nz/media/settings/branding/LRIS-logo.png",
+  "author": {
+    "name": "LRIS Portal"
+  },
+  "tags": [
+    "Service",
+    "Web",
+    "Data",
+    "Access"
+  ],
+  "description": "Web services allow software and web applications to directly access data residing in the LRIS Portal."
+}

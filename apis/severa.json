@@ -1,0 +1,15 @@
+{
+  "id": "severa",
+  "title": "Severa",
+  "link": "https://support.severa.com/entries/20354798-severa-api",
+  "image": "http://severa.visma.com/wp-content/themes/severacom/images/visma_logo.png",
+  "author": {
+    "name": "Visma"
+  },
+  "tags": [
+    "Specific",
+    "Partners",
+    "Solutions"
+  ],
+  "description": "Open API can also be used in company specific, customized solutions. This means that customers or partners can build their own solutions and link them to Visma Severa."
+}

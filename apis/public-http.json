@@ -1,0 +1,14 @@
+{
+  "id": "public-http",
+  "title": "Public HTTP",
+  "link": "http://www.languagetool.org/http-api/",
+  "image": "",
+  "author": {
+    "name": "LanguageTool"
+  },
+  "tags": [
+    "Service",
+    "Check"
+  ],
+  "description": "We offer an HTTPS REST service that anybody can use to check texts with LanguageTool."
+}

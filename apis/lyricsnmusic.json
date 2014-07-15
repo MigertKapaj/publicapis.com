@@ -1,0 +1,16 @@
+{
+  "id": "lyricsnmusic",
+  "title": " LYRICSnMUSIC",
+  "link": "http://www.lyricsnmusic.com/api",
+  "image": "",
+  "author": {
+    "name": " LYRICSnMUSIC"
+  },
+  "tags": [
+    "Songs",
+    "Lyrics",
+    "Copyright",
+    "Displaying"
+  ],
+  "description": "The LYRICSnMUSIC API allows your site to legally display up to 150 characters of a songs lyrics with a link back to our copyright compliant lyric page or you can simply link back to the lyrics without displaying them on your App/Site."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "edamams-free-nutrition",
+  "title": "Edamam's Free Nutrition",
+  "link": "https://developer.edamam.com/docs",
+  "image": "https://www.edamam.com/images/logo-site-header.png",
+  "author": {
+    "name": "Edamam"
+  },
+  "tags": [
+    "Access",
+    "Difference",
+    "Data"
+  ],
+  "description": "This is documentation for the full nutritional API. It includes everything you will need to access both the free version of the API and the full version of the API.\nReally, the only difference between the free version and the full one is the level of detail you get in the nutritional data."
+}

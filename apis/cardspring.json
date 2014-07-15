@@ -1,0 +1,16 @@
+{
+  "id": "cardspring",
+  "title": "Cardspring",
+  "link": "https://cardspring.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdjKhWLh6s5K2rjwAKszir5QBRUyx26WtSm0Npv4DGa-ti5wa_",
+  "author": {
+    "name": "Card Spring"
+  },
+  "tags": [
+    "Create",
+    "Application",
+    "Payment",
+    "Webhooks"
+  ],
+  "description": "Our simple, secure REST API lets you create card-linked applications that receive real-time payment events through WebHooks.\nOur web service securely manages your payment data and takes care of all PCI requirements for you."
+}

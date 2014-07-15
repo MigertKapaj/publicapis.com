@@ -1,0 +1,16 @@
+{
+  "id": "playwire",
+  "title": "Playwire",
+  "link": "http://www.playwire.com/developers",
+  "image": "http://cdn.intergi.com/playwire/playwire-logo-subhed.png",
+  "author": {
+    "name": "Playwire"
+  },
+  "tags": [
+    "Results",
+    "Languages",
+    "Libraries",
+    "Learn"
+  ],
+  "description": "The Playwire™ API is an XML API, meaning all results from API calls are returned in XML. All URLs (before parameters) end in .xml when calling the API. Most programming languages should have libraries for dealing with XML. Please refer to developer documentation for your programming language of choice to learn how to work with XML in that language."
+}

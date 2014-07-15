@@ -1,0 +1,15 @@
+{
+  "id": "chompon",
+  "title": "ChompOn",
+  "link": "http://www.chompon.com/apidoc?ftyp=getting_started",
+  "image": "http://www.chompon.com/images/chompon_logo.png",
+  "author": {
+    "name": "ChompOn"
+  },
+  "tags": [
+    "Integrate",
+    "Basic",
+    "Examples"
+  ],
+  "description": "Our API is useful to you if you want to integrate with our platform in ways beyond the basics. Here are a few examples of when you would want to do this."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cats",
+  "title": "CATS",
+  "link": "http://api.catsone.com/api/help",
+  "image": "http://api.catsone.com/images/v3/logo.png",
+  "author": {
+    "name": "CATS"
+  },
+  "tags": [
+    "Retrieval",
+    "Data",
+    "Accessed",
+    "Platform"
+  ],
+  "description": "The CATS API (Application Programming Interface) allows for programmatic retrieval and manipulation of CATS data. API requests are sent over HTTP 1.1 and can be accessed by just about any programming language or platform—or even without a programming language simply by typing a URL string into your browser."
+}

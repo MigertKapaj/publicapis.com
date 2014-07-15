@@ -1,0 +1,17 @@
+{
+  "id": "berkeley",
+  "title": "Berkeley",
+  "link": "https://developer.berkeley.edu/",
+  "image": "https://developer.berkeley.edu/assets/img/berkeley.png",
+  "author": {
+    "name": "Berkeley"
+  },
+  "tags": [
+    "Obtain",
+    "Data",
+    "Search",
+    "Access",
+    "Campus"
+  ],
+  "description": "The UC Berkeley API Management Portal is your starting place to obtain portable campus data securely. Search and find APIs, learn how to use them, and get the right level of access. Publish your APIs to campus and external audiences, manage security and access levels, and track analytics."
+}

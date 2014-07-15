@@ -1,0 +1,16 @@
+{
+  "id": "marketing-automation",
+  "title": " Marketing Automation",
+  "link": "http://www.mydigitalclients.com/json-api.php",
+  "image": "http://www.mydigitalclients.com/img/mdc-logo-375x55.png",
+  "author": {
+    "name": "My digital clints"
+  },
+  "tags": [
+    "Operations",
+    "Atomation",
+    "Programmatic",
+    "Email"
+  ],
+  "description": "Our JSON based APIs provide everything a professional programmer should expect from an application programming interface. It supports common operations that can be performed on MDC objects.Marketing Automation API Features: Contact/Lead Creation & UpdateWebsite Visit History for Leads & ContactsComprehensive Marketing List ManagementCustom Field ManagementProgrammatic HTML/Text Email Creation (great for auto-generated, dynamic content emails from RSS feeds and other sources)Campaign Creation & LaunchSuperior Documentation"
+}

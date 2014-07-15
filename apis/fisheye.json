@@ -1,0 +1,15 @@
+{
+  "id": "fisheye",
+  "title": "fisheye",
+  "link": "http://www.fisheyeanalytics.com/api.html",
+  "image": "http://www.fisheyeanalytics.com/img/logo.png",
+  "author": {
+    "name": "fisheye"
+  },
+  "tags": [
+    "Social",
+    "Data",
+    "Business"
+  ],
+  "description": "If you are an agency or a corporation with needs to integrate social media (and news) data into your offerings, our API allows easy access to the wealth of data and analytics which powers our business today. Virtually everything we offer can be made available through the API."
+}

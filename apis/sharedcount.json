@@ -1,0 +1,15 @@
+{
+  "id": "sharedcount",
+  "title": "SharedCount",
+  "link": "http://www.sharedcount.com/documentation.php",
+  "image": "http://www.sharedcount.com/logo.png",
+  "author": {
+    "name": "SharedCount"
+  },
+  "tags": [
+    "Detailed",
+    "Information",
+    "Plans"
+  ],
+  "description": "Please see pricing page for detailed quota information and information on paid plans with extra API quota. "
+}

@@ -1,0 +1,13 @@
+{
+  "id": "blipadeal-worldwide-deals",
+  "title": "BlipADeal Worldwide Deals",
+  "link": "https://www.mashape.com/blipadeal/blipadeal-worldwide-deals",
+  "image": "",
+  "author": {
+    "name": "blipadeal"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The Blip-A-Deal API allows you to utilise our database of over 6 million daily deals and coupons annually from over 14 countries around the globe. We currently have a presence in Australia, Canada, Hong Kong, India, Indonesia, Malaysia, New Zealand, Philippines, Singapore, Russia, Taiwan, Thailand, United Kingdom and United States. \r\n\r\nYou can find deals based on free text, keyword, categorisation and location. The Blip-A-Deal API will make it easy to find deals that are geographically close to where you are, deals in a selected location and can even find deals that match certain free text criteria. For countries that dont have english as their primary language, translations are also provide for native and english languages. \r\n\r\nThere are different ways to invoke the API so to find out more information about the API and to gain access please visit http://www.blipadeal.com/dev-api-home. If there are any bugs, problems or any general feedback please feel free to let us know"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bitcoinmonitor.net",
+  "title": "bitcoinmonitor.net",
+  "link": "http://www.bitcoinmonitor.net/apidoc/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRZgMY5q-319GZKSvaIRM2yAJAbGD5Uqd8-OX319LmP5xDrz0mOZg",
+  "author": {
+    "name": "bitcoinmonitor.net"
+  },
+  "tags": [
+    "Network",
+    "Transactions",
+    "Perform"
+  ],
+  "description": "Your notification agents are observing the bitcoin network and watching for transactions to or from your addresses. Whenever a transaction is spotted, the agent will perform certain actions."
+}

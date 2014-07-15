@@ -1,0 +1,13 @@
+{
+  "id": "tracker",
+  "title": "Tracker",
+  "link": "http://www.pivotaltracker.com/help/api",
+  "image": "http://d3jgo56a5b0my0.cloudfront.net/images/v7/logos/pivotal_tracker_logo_ghost_ring.png",
+  "author": {
+    "name": "Pivotal Tracker"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Tracker provides an API that can be used to create, retrieve, update, and delete virtually all of the resources stored and manipulated by the system. This interface incorporates several elements of the REST tradition, making access to these actions consistent and intuitive. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "democracymap",
+  "title": "DemocracyMap",
+  "link": "http://api.democracymap.org/",
+  "image": "",
+  "author": {
+    "name": "DemocracyMap"
+  },
+  "tags": [
+    "Data",
+    "Primary",
+    "Represents",
+    "Services"
+  ],
+  "description": "The DemocracyMap API aims to provide normalized structured data for all of the contact details and other primary information for every government body and government official that represents you. Currently this API is more of a meta-API that aggregates, normalizes, and caches other data sources including geospatial boundary queries, but ultimately it aims to help provide standardized geospatial queries and merge with similar efforts like those based on the Boundary Services API (like OpenNorth Represent)."
+}

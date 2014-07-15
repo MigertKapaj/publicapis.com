@@ -1,0 +1,16 @@
+{
+  "id": "bitcasa-secure-storage",
+  "title": "Bitcasa Secure Storage",
+  "link": "https://developer.bitcasa.com/docs",
+  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/bitcasa/2445580332402/profiles/logos/large/bitcasa-logo.png",
+  "author": {
+    "name": "Bitcasa"
+  },
+  "tags": [
+    "Access",
+    "Designed",
+    "Platforms",
+    "Exploring"
+  ],
+  "description": "The REST APIs are the most direct way to access the Bitcasa API. This reference is designed for those interested in developing for platforms not supported by the SDKs or for those interested in exploring API features in detail."
+}

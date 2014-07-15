@@ -1,0 +1,15 @@
+{
+  "id": "the-green-web-foundation",
+  "title": "The Green Web Foundation",
+  "link": "http://api.thegreenwebfoundation.org/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5yXYYf59JGMu3sd8O5jqgbcy1ehyYbhE_DNHZn1uWdvdcSyUu",
+  "author": {
+    "name": "The Green Web Foundation"
+  },
+  "tags": [
+    "Web",
+    "Service",
+    "Possible"
+  ],
+  "description": "Greencheck api service: With the Green Web Foundation greencheck api service it is possible to check if a website is green against our Green Web database. "
+}

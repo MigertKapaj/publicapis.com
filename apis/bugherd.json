@@ -1,0 +1,15 @@
+{
+  "id": "bugherd",
+  "title": "BugHerd",
+  "link": "http://www.bugherd.com/api_v2",
+  "image": "https://34a7a1f9164c48c1b61f-84378afe43d6d6b04d77869b7b49ff0e.ssl.cf2.rackcdn.com/assets/site/v2/logo-bugherd-head-d884c210ffcc96db1a2f44528c15e4a1.png",
+  "author": {
+    "name": "BugHerd"
+  },
+  "tags": [
+    "Easiest",
+    "Feedback",
+    "Projects"
+  ],
+  "description": "BugHerd is the easiest way to capture client feedback, resolve issues and manage your projects."
+}

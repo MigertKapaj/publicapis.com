@@ -1,0 +1,15 @@
+{
+  "id": "wiris",
+  "title": "WIRIS",
+  "link": "http://www.wiris.com/quizzes/docs/generic",
+  "image": "http://www.wiris.com/themes/wiris_com/icons/logo.png",
+  "author": {
+    "name": "WIRIS"
+  },
+  "tags": [
+    "Developer",
+    "Application",
+    "Provided"
+  ],
+  "description": "WIRIS quizzes generic are the technological components of WIRIS quizzes that targets a developer or integrator of a learning application that wants to use the enhanced features provided by WIRIS quizzes."
+}

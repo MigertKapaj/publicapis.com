@@ -1,0 +1,13 @@
+{
+  "id": "vessel",
+  "title": "Vessel",
+  "link": "https://www.zubhium.com/docs/upload/",
+  "image": "https://www.vessel.io/static/vback/img/vessel-logo-2x.png",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Vessel offers deep level real-time monitoring so that you're able to learn everything there is to know about user trends and \nhow to increase retention. Each test you deploy will end up with a winning variation."
+}

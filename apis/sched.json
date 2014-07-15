@@ -1,0 +1,15 @@
+{
+  "id": "sched",
+  "title": "SCHED",
+  "link": "http://sched.org/api",
+  "image": "http://cdn.schd.ws/sched-apps.png",
+  "author": {
+    "name": "SCHED"
+  },
+  "tags": [
+    "Data",
+    "Specified",
+    "Requests"
+  ],
+  "description": "The API uses a simple REST method and we recommend using POST instead of GET. HTML data is only allowed for specified fields. You must also send requests with a User-Agent in the headers, as Sched filters out requests with no User-Agent."
+}

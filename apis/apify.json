@@ -1,0 +1,15 @@
+{
+  "id": "apify",
+  "title": "Apify",
+  "link": "http://apify.heroku.com/resources/53234d66e86ee40002000027",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ29n_CFdwAEoyBHPpy6MJ_Qphsv-PatNWeqCQc1Zx7jLION5XY3w",
+  "author": {
+    "name": "Apify"
+  },
+  "tags": [
+    "Web",
+    "Data",
+    "Locked"
+  ],
+  "description": "What if the whole web is an API waiting to be consumed? APIfy brings to life all the data that is locked up in HTML tables and Wiki pages in the form of JSON APIs."
+}

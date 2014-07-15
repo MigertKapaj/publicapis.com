@@ -1,0 +1,15 @@
+{
+  "id": "locality",
+  "title": "Locality",
+  "link": "http://locality.co.za/api/domains-list",
+  "image": "http://static.cdn.locality.co.za/images/brand/logotype.png",
+  "author": {
+    "name": "Locality"
+  },
+  "tags": [
+    "Request",
+    "Necessary",
+    "Data"
+  ],
+  "description": "Please be considerate with your requests, in other words don't make more requests than necessary. Determine whether a single or bulk request is better suited for the data you require."
+}

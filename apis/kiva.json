@@ -1,0 +1,15 @@
+{
+  "id": "kiva",
+  "title": "Kiva",
+  "link": "http://build.kiva.org/docs/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyITVTaXxvdJdvx7M4eVIpu0i98clcQiJFNaz3KLphCXXa-XNg",
+  "author": {
+    "name": "Kiva"
+  },
+  "tags": [
+    "Software",
+    "Expand",
+    "Creating"
+  ],
+  "description": "We created the Kiva API so that anyone with a good idea and some software savvy can help us expand the reach of Kiva, taking it into new environments and to new audiences, and creating new features for the Kiva community to experience our content in new ways."
+}

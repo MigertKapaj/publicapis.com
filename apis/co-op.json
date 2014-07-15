@@ -1,0 +1,15 @@
+{
+  "id": "co-op",
+  "title": "Co-op",
+  "link": "http://coopapp.com/api/",
+  "image": "http://coopapp.com/images/subpage-header.gif?1397162528",
+  "author": {
+    "name": "Co-op"
+  },
+  "tags": [
+    "Statuses",
+    "Agenda",
+    "Provided"
+  ],
+  "description": "Co-op provides an API for interacting with the statuses of a Co-op workstream. This includes looking back in history day-by-day and user-by-user. Group, user, and agenda interactions are also provided to allow interacting with almost every area of Co-op. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "shopgate-merchant",
+  "title": "Shopgate Merchant",
+  "link": "http://wiki.shopgate.com/Specifications",
+  "image": "http://wiki.shopgate.com/logo_shopgate.png",
+  "author": {
+    "name": "Shopgate"
+  },
+  "tags": [
+    "Order",
+    "managed",
+    "Automatically",
+    "Encrypted."
+  ],
+  "description": "Shopgate Merchant API is an interface that enables orders and items to be managed automatically. All information is encrypted for transmission. The merchant needs to be authenticated by the Shopgate system in order to use the Shopgate Merchant API."
+}

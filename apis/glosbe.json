@@ -1,0 +1,15 @@
+{
+  "id": "glosbe",
+  "title": "Glosbe",
+  "link": "http://glosbe.com/a-api",
+  "image": "http://glosbe.com/resources/img/glosbe2_logo.png",
+  "author": {
+    "name": "Glosbe"
+  },
+  "tags": [
+    "Access",
+    "Meta",
+    "Translation"
+  ],
+  "description": "Glosbe offers programmatic access to dictionary translations (with phrase meanings and phrase meta informations) and to translation memories as well. "
+}

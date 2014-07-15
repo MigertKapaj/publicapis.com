@@ -1,0 +1,16 @@
+{
+  "id": "dawanda",
+  "title": "DaWanda",
+  "link": "http://de.dawanda.com/apps",
+  "image": "http://assets.dawanda.com/assets/images/header/logo_claim.png",
+  "author": {
+    "name": "DaWanda"
+  },
+  "tags": [
+    "Products",
+    "Sharing",
+    "Develop",
+    "Possible"
+  ],
+  "description": "DaWanda is the place for unique and individual products and people. Besides buying handmade and hard to find goods, sharing your discoveries with your friends and creating your own collections, it is now also possible to develop rock solid DaWanda applications! Sounds interesting? Then these pages will help you to get started."
+}

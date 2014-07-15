@@ -1,0 +1,15 @@
+{
+  "id": "lorem-ipsum.me",
+  "title": "Lorem Ipsum.Me!",
+  "link": "http://lorem-ipsum.me/api/help",
+  "image": "",
+  "author": {
+    "name": "Lorem Ipsum.Me!"
+  },
+  "tags": [
+    "Crude",
+    "Honestly",
+    "Enjoy"
+  ],
+  "description": "I created a very simple and crude API. It's under fair usage. In other words, if you hit it too much then I may have to throttle the IPs but I honestly hope it doesn't come to that. I built this for everyone to enjoy."
+}

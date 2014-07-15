@@ -1,0 +1,16 @@
+{
+  "id": "mapalerter.com",
+  "title": "MapAlerter.com",
+  "link": "https://api.mapalerter.com/",
+  "image": "",
+  "author": {
+    "name": "MapAlerter"
+  },
+  "tags": [
+    "Alert Data",
+    "Widgets",
+    "Retrieved",
+    "Format"
+  ],
+  "description": "The aim of our API is to allow developers to access our alert data through their own applications such as Mobille Apps, widgets and many more. We provide our data as XML, JSON and JSONP to reflect our belief in Open Data. Data is retrieved by sending a HTTP(S) GET request to a URL with a required API key, the response format, a task parameter, and query parameter(s)."
+}

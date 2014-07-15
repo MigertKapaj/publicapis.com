@@ -1,0 +1,16 @@
+{
+  "id": "youpage.com",
+  "title": "YouPage.com",
+  "link": "http://www.youpage.net/developers/",
+  "image": "http://www.youpage.net/images/youpage_logo.gif",
+  "author": {
+    "name": "YouPage.com"
+  },
+  "tags": [
+    "Resources",
+    "Developed",
+    "Connecting",
+    "Internet"
+  ],
+  "description": "Welcome to the YouPage Developer zone. Here you'll find links to articles, samples, tools, and resources related to YouPage, the internet's local directory. Our aim at YouPage is to make local search more useful to consumers by laying the foundations for new and yet to be developed ways of connecting local businesses and services on the internet by providing an open platform."
+}

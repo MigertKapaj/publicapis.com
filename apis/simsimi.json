@@ -1,0 +1,15 @@
+{
+  "id": "simsimi",
+  "title": "SimSimi",
+  "link": "http://developer.simsimi.com/",
+  "image": "http://developer.simsimi.com/static/img/ui_guideimage.png",
+  "author": {
+    "name": "SimSimi"
+  },
+  "tags": [
+    "Simple",
+    "Request",
+    "Sentence"
+  ],
+  "description": "SimSimi database consists of simple \"Request - Response\" set. When you request \"Hi\", SimSimi API send \"Response\" by similarity with request sentence."
+}

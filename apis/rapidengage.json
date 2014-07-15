@@ -1,0 +1,16 @@
+{
+  "id": "rapidengage",
+  "title": "Rapidengage",
+  "link": "https://rapidengage.com/developer/docs",
+  "image": "https://rapidengage.com/img/logo.png",
+  "author": {
+    "name": "Rapidengage"
+  },
+  "tags": [
+    "Data",
+    "Questions",
+    "Manage",
+    "Infrastructure"
+  ],
+  "description": "The RapidEngage REST API allows you to query data about your account, Engagement Layers, questions, results, and more. It also allows you to create and manage your Engagement Layers. You can leverage our entire engagement infrastructure without the need to scale, support, or manage it."
+}

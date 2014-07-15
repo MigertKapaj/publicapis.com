@@ -1,0 +1,15 @@
+{
+  "id": "gink",
+  "title": "gink",
+  "link": "http://mygink.com/rest/v2docs/",
+  "image": "",
+  "author": {
+    "name": "gink"
+  },
+  "tags": [
+    "Service",
+    "Devices",
+    "Custom"
+  ],
+  "description": "The gink GPS Data Web Service takes the work out of building custom communications servers for GPS tracking devices. This makes it possible to build a tracking application without worrying about implementing your own custom server."
+}

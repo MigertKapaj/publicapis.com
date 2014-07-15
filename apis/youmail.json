@@ -1,0 +1,16 @@
+{
+  "id": "youmail",
+  "title": "YouMail ",
+  "link": "http://wiki.youmail.com/display/API/Authenticating",
+  "image": "http://wiki.youmail.com/download/userResources/logo",
+  "author": {
+    "name": "YouMail "
+  },
+  "tags": [
+    "Mechanism",
+    "Application",
+    "Authenticate",
+    "Requests."
+  ],
+  "description": "YouMail currently provides a single mechanism for authenticating. This mechanism requires that the user provide their credentials to the client application, which in turn uses that information to authenticate against a YouMail service. The YouMail service will return an authentication key to be used by the client application in future requests."
+}

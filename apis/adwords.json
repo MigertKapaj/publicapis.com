@@ -1,0 +1,15 @@
+{
+  "id": "adwords",
+  "title": "AdWords",
+  "link": "https://developers.google.com/adwords/api/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Applications",
+    "Interact",
+    "Manage"
+  ],
+  "description": "The AdWords API allows applications to interact directly with the AdWords platform. You can build applications to more efficiently manage large or complex AdWords accounts and campaigns."
+}

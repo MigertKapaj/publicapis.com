@@ -1,0 +1,16 @@
+{
+  "id": "plagscan",
+  "title": "Plagscan",
+  "link": "https://www.plagscan.com/api/guide",
+  "image": "https://www.plagscan.com/PSsmall.png",
+  "author": {
+    "name": "Plagscan"
+  },
+  "tags": [
+    "Plagiarism",
+    "managment",
+    "Puzzle",
+    "Administrative"
+  ],
+  "description": "Do you want to build an application that uses PlagScan as a service? Want to integrate plagiarism checking into your third party content management system like Sharepoint, Blackboard, Moodle? This might well be the missing puzzle piece. The API provided by PlagScan provides easy access to administrative as well as user tasks."
+}

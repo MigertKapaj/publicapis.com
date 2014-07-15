@@ -1,0 +1,13 @@
+{
+  "id": "seqrpay",
+  "title": "Seqrpay",
+  "link": "http://api.seqrpay.com/service/doc/",
+  "image": "http://api.seqrpay.com/images/options2.png",
+  "author": {
+    "name": "Seqrpay"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

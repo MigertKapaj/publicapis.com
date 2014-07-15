@@ -1,0 +1,14 @@
+{
+  "id": "guitar-chord",
+  "title": "Guitar Chord",
+  "link": "http://pargitaru.id.lv/api/",
+  "image": "",
+  "author": {
+    "name": "Pargitaru.co.cc"
+  },
+  "tags": [
+    "Providing",
+    "Information"
+  ],
+  "description": "Here you can retrieve guitar chords information by providing chord names like C, C#, etc, chord modifications like major, minor, sus, etc or any frets on strings used in chord like string E fret 1 and string A fret 3"
+}

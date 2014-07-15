@@ -1,0 +1,16 @@
+{
+  "id": "gaggleamp",
+  "title": "GaggleAMP",
+  "link": "https://gaggleamp.com/developer/",
+  "image": "https://gaggleamp.com/blog/wp-content/uploads/2012/01/gaggleamp_tm_logo.png",
+  "author": {
+    "name": "GaggleAMP"
+  },
+  "tags": [
+    "Media",
+    "Access",
+    "Developer",
+    "Related"
+  ],
+  "description": "GaggleAMP provides the developer community with access to GaggleAMP’s unique Social Media Amplification API Suite. With access to these powerful APIs, developers can amplify their own application’s social media effectiveness and related analytics."
+}

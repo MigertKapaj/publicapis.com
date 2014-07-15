@@ -1,0 +1,15 @@
+{
+  "id": "flash-maps",
+  "title": "Flash Maps",
+  "link": "http://developer.mapquest.com/web/products/featured/as3-flex-flash",
+  "image": "http://developer.mapquest.com/DevNet-Rebrand2-theme/html/themes/mq_theme/images/mq_images/mqlogo.png",
+  "author": {
+    "name": "MapQuest"
+  },
+  "tags": [
+    "Components",
+    "Samples",
+    "Language"
+  ],
+  "description": "This is your source for information and resources available for the MapQuest Flash Maps API. Download the component, visit our forum, and explore samples written in AS3 and Flex using the Flash Maps API. If you're looking for another language, please visit the Licensed Data APIs page."
+}

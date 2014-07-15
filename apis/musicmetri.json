@@ -1,0 +1,16 @@
+{
+  "id": "musicmetri",
+  "title": "musicmetri",
+  "link": "http://developer.musicmetric.com/",
+  "image": "http://developer.musicmetric.com/_static/musicmetric.png",
+  "author": {
+    "name": "musicmetri"
+  },
+  "tags": [
+    "Provide",
+    "Associated",
+    "Release",
+    "Available"
+  ],
+  "description": "These endpoints provide lists of events which are associated with a given artist. Three types of events are available: tv, release, and alert"
+}

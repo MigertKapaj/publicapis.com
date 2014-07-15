@@ -1,0 +1,15 @@
+{
+  "id": "cpusage",
+  "title": "cpusage",
+  "link": "http://www.cpusage.com/",
+  "image": "http://www.cpusage.com/images/hero-logo.png",
+  "author": {
+    "name": "cpusage"
+  },
+  "tags": [
+    "Configure",
+    "Deploy",
+    "Provide"
+  ],
+  "description": "We provide you a custom environment to install and configure your application the same way you would on your own computer. We then package and deploy your environment to the cloud and provide you an API to execute your application."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "open-places",
+  "title": "Open Places",
+  "link": "http://openplac.es/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxMmj0QWbstFJRxA_Wjbqa-_tGVt-x9b3o9Cop1gvlNn6QkhG7cg",
+  "author": {
+    "name": "Open Places"
+  },
+  "tags": [
+    "Data",
+    "Contributed",
+    "Search"
+  ],
+  "description": "The Open Places API exposes all of our place data including photos and articles contributed by our users. The API is read-only. Once you have your API key you can make calls to the Place search API endpoint"
+}

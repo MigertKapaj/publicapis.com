@@ -1,0 +1,15 @@
+{
+  "id": "octopart",
+  "title": "Octopart",
+  "link": "http://octopart.com/api/docs/v3/overview#search",
+  "image": "http://n1.octostatic.com/o3web/shared-new/logo_302_69_tr.6f40827352caa9a33ad320a4d8a39e84.png",
+  "author": {
+    "name": "Octopart"
+  },
+  "tags": [
+    "Command",
+    "Programming",
+    "Request"
+  ],
+  "description": "The Octopart API is easy to query from the command line or from any programming language with an easy-to-use HTTP library. Copy this request into your terminal to try out the Octopart API right now."
+}

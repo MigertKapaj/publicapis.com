@@ -1,0 +1,15 @@
+{
+  "id": "brand",
+  "title": "Brand",
+  "link": "http://developer.zappos.com/docs/api-brand",
+  "image": "http://developer.zappos.com/sites/default/files/logo.png",
+  "author": {
+    "name": "Zappos"
+  },
+  "tags": [
+    "Require",
+    "Parameter",
+    "Brands"
+  ],
+  "description": "All API calls require the key parameter. That is not shown in the below examples. Returns details about some of the fabulous brands we have at Zappos"
+}

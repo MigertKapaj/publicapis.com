@@ -1,0 +1,15 @@
+{
+  "id": "papirus",
+  "title": "Papirus",
+  "link": "https://papirus.net/api#auth",
+  "image": "https://papirus.net/WebResource.axd?d=RIhGGDsx10dddY_yHzTYCTOjp-vQRmOqi4YjKUroHdeGuLaGxOeQJC69lRXZAER3atWTbcq_s3AZn6wQ0G3QYU2FM4uHCienbBqUJ8stKCUensVZcRfRK_rjhYT7G8TLC3K2kBQ2n5E16e01g-V5PQ2&t=635306805236412031",
+  "author": {
+    "name": "Papirus"
+  },
+  "tags": [
+    "Access",
+    "Projects",
+    "Developers"
+  ],
+  "description": "Papirus API offers applications the ability to access the tasks and projects of a particular user. The objective of this documentation is to provide developers a guide toward the implementation of the Papirus API with third-party services in a secure manner."
+}

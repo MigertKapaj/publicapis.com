@@ -1,0 +1,15 @@
+{
+  "id": "superfish",
+  "title": "Superfish",
+  "link": "http://wwws.superfish.com/",
+  "image": "",
+  "author": {
+    "name": "Superfish"
+  },
+  "tags": [
+    "Search",
+    "Platform",
+    "Handle"
+  ],
+  "description": "This platform of real time, kickass visual search can be applied to clients and apps. To date, the Superfish platform has performed billions of visual searches, and can handle over 2k queries per second."
+}

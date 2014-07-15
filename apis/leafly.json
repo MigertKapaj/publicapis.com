@@ -1,0 +1,16 @@
+{
+  "id": "leafly",
+  "title": "Leafly",
+  "link": "http://www.leafly.com/api/documentation",
+  "image": "http://d3odcnigi1nnzz.cloudfront.net/public/images/leafly-logo-transparent.png",
+  "author": {
+    "name": "Leafly"
+  },
+  "tags": [
+    "Attribution",
+    "Non-Commercial",
+    "Pages",
+    "Data"
+  ],
+  "description": "Leafly is a user-contributed resource of cannabis strain reviews and information.  We provide Leafly's content under the Creative Commons Attribution License [CC-BY] to non-commercial users.  We ask that API users link back to Leafly from any pages that use Leafly data.This Licensing Policy may be updated from time to time as our services change and grow."
+}

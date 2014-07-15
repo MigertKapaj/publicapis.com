@@ -1,0 +1,15 @@
+{
+  "id": "sourcemap",
+  "title": "Sourcemap",
+  "link": "http://free.sourcemap.com/info/api-docs",
+  "image": "http://free.sourcemap.com/assets/images/logo.png",
+  "author": {
+    "name": "Sourcemap"
+  },
+  "tags": [
+    "Information",
+    "Publicly",
+    "Receive"
+  ],
+  "description": "The Sourcemap API makes it easy to share supply chain information across platforms. Anyone can use the API to read publicly available information from Sourcemap.com. In order to create maps on Sourcemap.com using the API, please contact us to receive your api key and api secret."
+}

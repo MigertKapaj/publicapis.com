@@ -1,0 +1,16 @@
+{
+  "id": "subuno",
+  "title": "Subuno",
+  "link": "http://www.subuno.com/developers.html",
+  "image": "http://www.subuno.com/subuno1.png",
+  "author": {
+    "name": "Subuno"
+  },
+  "tags": [
+    "Stores",
+    "Require",
+    "Commerce",
+    "Details"
+  ],
+  "description": "For merchants using Yahoo Stores, Shopify, or BigCommerce, installation takes a few minutes and does not require the Subuno API. Subuno mods/extenstions for CubeCart, Magento, osCommerce, PrestaShop, and Zen Cart are also available. Please email us for more details."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "intrade",
+  "title": "Intrade",
+  "link": "http://www.intrade.com/v4/misc/help/api/",
+  "image": "http://d1m4lpsf3lzgpi.cloudfront.net/v4/assets/img/intrade-logo.png",
+  "author": {
+    "name": "Intrade"
+  },
+  "tags": [
+    "Unique",
+    "Checjing",
+    "Market",
+    "Requested"
+  ],
+  "description": "Data Retrieval API – This is used for determining the unique IDs of the listed markets and for checking the current and historical market data for those markets. This API is a simple set of URLs with various parameters that is requested over HTTP. "
+}

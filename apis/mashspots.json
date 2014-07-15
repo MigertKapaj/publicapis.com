@@ -1,0 +1,13 @@
+{
+  "id": "mashspots",
+  "title": "mashspots",
+  "link": "http://www.mashspots.com/api.html",
+  "image": "http://www.mashspots.com/MashSpots8.png",
+  "author": {
+    "name": "mashspots"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "You can integrate mashspots application into your website or application by using our HTML-API access. This API supports the HTTP \"GET\" method, which will return a HTML object that can be loaded on your website using the <iframe> tag."
+}

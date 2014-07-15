@@ -1,0 +1,16 @@
+{
+  "id": "textlocal",
+  "title": "Textlocal",
+  "link": "http://www.programmableweb.com/api/textlocal",
+  "image": "http://www.programmableweb.com/images/logo2.png",
+  "author": {
+    "name": "ProgrammableWeb"
+  },
+  "tags": [
+    "Textlocal",
+    "Exposes",
+    "Campaign",
+    "Credits"
+  ],
+  "description": "The Textlocal API can be used to connect email, applications, or internal systems to Textlocal services. The API exposes methods for sending and receiving SMS and MMS messages, checking credit balances, and adding numbers to campaign lists. The API requires purchased creditsfor sending and receiving messages, and the rates are determined by thenumber of credits purchased. This API operates over HTTP and uses the JSON data format. \n\n"
+}

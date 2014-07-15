@@ -1,0 +1,15 @@
+{
+  "id": "schmap",
+  "title": "Schmap",
+  "link": "http://www.schmap.it/api-partners",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTThK5vvSEWoua_lC7DuBe2HJi464JHV0QlTedhWTb1h5IiuMjbjw",
+  "author": {
+    "name": "Schmap"
+  },
+  "tags": [
+    "Dashboard",
+    "Profiling",
+    "White Label"
+  ],
+  "description": "Add insightful demographics to your client dashboard - perfect for Twitter analytics, and as a brand monitoring or social sentiment enrichment. We work with partners on a white label basis, returning profiling real-time in response to their API requests."
+}

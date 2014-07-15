@@ -1,0 +1,15 @@
+{
+  "id": "maponics-spatial",
+  "title": "Maponics Spatial",
+  "link": "http://api.maponics.com/docs/",
+  "image": "http://api.maponics.com/images/api-banner.png",
+  "author": {
+    "name": "Maponics Spatial"
+  },
+  "tags": [
+    "Data",
+    "Search",
+    "Access"
+  ],
+  "description": "Companies depend on Maponics for the geographic data that forms the foundation of their local search, interactive mapping and analysis. Through the Maponics Spatial API, your business can access this data too, on a real time transactional basis. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "passsource",
+  "title": "Passsource",
+  "link": "http://www.passsource.com/apiInfo.php",
+  "image": "",
+  "author": {
+    "name": "Passsource"
+  },
+  "tags": [
+    "Tracking",
+    "Template",
+    "Transaction"
+  ],
+  "description": "Note: this document is still a work in progress.  We will do our best to maintain the contracts, but we reserve the right to change things up.  Feel free to email us to discuss your particular needs. 9/12/2013: Because passInfo can become quite large, starting with v2 of the Pass Scanner app, passInfo will be sent along as a POST variable instead of a GET variable.  Please update your code as necessary. 6/6/2013: Previous versions of the API had the pass info URL as /passinfo.php, however, for consistency, we've moved the page to apiPassInfo.php. We have left the old passinfo.php file in place with an internal re-direct to apiPassInfo.php, but please note that we will remove this file in the future, so please migrate your code if you use this feature.Previous versions of the API had type_id and template_id with underscores. Given that all the other variables are camelcase, we have standardized these both to use camelcase (typeId and templateId). We have added code that should handle either for now, but please note that we may strip out the deprecated version in the future, so please migrate your code if you use that parameter. We've also improved the API by standardizing our error messages a little more. Finally, we've expanded the tracking feature of our API to give you a bit more detail on the state changes of passes.  We're including the URL call for each transaction update so \nthat you can see what changes were made to the pass during updates. If you have any questions or feedback (we're still looking for feedback on cookie-less authentication options and analytics reports), please let us know!  Now on to the API…New features Note: new feature keys can be added manually to the JSON.  For example, expirationDate and voided and userInfo can be added and will appear in the output JSON."
+}

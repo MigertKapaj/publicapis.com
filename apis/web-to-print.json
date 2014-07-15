@@ -1,0 +1,16 @@
+{
+  "id": "web-to-print",
+  "title": "Web to print",
+  "link": "http://www.zetaprints.com/help/about-web-to-print-api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRsQiUCdugYPnDO2KZXHgh4ctoLQ-p0VMSNDXWKvXd4RFHfQkJvlQ",
+  "author": {
+    "name": "ZetaPrints"
+  },
+  "tags": [
+    "Connection",
+    "Features",
+    "Interface",
+    "Requires"
+  ],
+  "description": "ZetaPrints provides direct connection to its back-end via web-to-print Aplication Programming Interface or API. It allows customers to add new specific features, replace screens or bypass ZetaPrints user interface altogether. Doing so requires considerable IT skills."
+}

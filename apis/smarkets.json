@@ -1,0 +1,15 @@
+{
+  "id": "smarkets",
+  "title": "Smarkets",
+  "link": "https://smarkets.com/api/",
+  "image": "https://smarkets.a.ssl.fastly.net/static/img/global/logo_2x_transparent.png",
+  "author": {
+    "name": "Smarkets"
+  },
+  "tags": [
+    "Buffers",
+    "Financial",
+    "Data"
+  ],
+  "description": "We offer a streaming API based on a framed Protocol Buffers transport over TCP, which is inspired by the FIX protocol for communicating with financial markets. This provides low-latency market data and order placement."
+}

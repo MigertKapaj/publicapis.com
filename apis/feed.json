@@ -1,0 +1,15 @@
+{
+  "id": "feed",
+  "title": "Feed",
+  "link": "https://developers.google.com/feed/v1/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Developing",
+    "Dealing",
+    "Quickly"
+  ],
+  "description": "The Google Feed API takes the pain out of developing mashups in JavaScript because you can now mash up feeds using only a few lines of JavaScript, rather than dealing with complex server-side proxies. This makes it easy to quickly integrate feeds on your website."
+}

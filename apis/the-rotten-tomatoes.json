@@ -1,0 +1,16 @@
+{
+  "id": "the-rotten-tomatoes",
+  "title": "The Rotten Tomatoes",
+  "link": "http://developer.rottentomatoes.com/",
+  "image": "http://developer.rottentomatoes.com/public/Mashery/images/clients/flixster/rt.png",
+  "author": {
+    "name": " Rotten Tomatoes"
+  },
+  "tags": [
+    "Explore",
+    "Developer",
+    "Accomplished",
+    ""
+  ],
+  "description": "The Rotten Tomatoes API is RESTful web service that was designed to be easy to explore and use.  The base URI to access all resources is http://api.rottentomatoes.com/api/public/v1.0 It is our hope that through the base URI, a developer getting started with our API will be able to reach and manipulate our APIs without reading through multiple pages of documentation.  This is accomplished by linking related resources and providing instructions on how to use each representation (link templates) in the response itself."
+}

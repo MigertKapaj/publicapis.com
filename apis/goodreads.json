@@ -1,0 +1,16 @@
+{
+  "id": "goodreads",
+  "title": "Goodreads",
+  "link": "http://www.goodreads.com/api/documentation",
+  "image": "http://s.gr-assets.com/assets/layout/goodreads_logo_140-5b3e47356388131c1699f0baca28a234.png",
+  "author": {
+    "name": "Goodreads"
+  },
+  "tags": [
+    "Data",
+    "Members",
+    "Shelves",
+    "Support"
+  ],
+  "description": "We've made accessing data from Goodreads easy – you can search books and authors on the site, access a member's book shelves, add book reviews, and more! You can view all the API methods or contact us if there's something you'd like to build that we don't currently support."
+}

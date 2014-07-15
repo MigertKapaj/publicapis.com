@@ -1,0 +1,13 @@
+{
+  "id": "ha-greve.get",
+  "title": "Há greve.get",
+  "link": "http://hagreve.com/api/",
+  "image": "",
+  "author": {
+    "name": "Há greve.get"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "hagreve.com providencia uma API simples para obter a lista das próximas greves."
+}

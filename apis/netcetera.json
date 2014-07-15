@@ -1,0 +1,15 @@
+{
+  "id": "netcetera",
+  "title": "netcetera",
+  "link": "https://github.com/netcetera/api/wiki/Welcome",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Managed",
+    "Header",
+    "Request"
+  ],
+  "description": "Authentication is managed using HTTP authentication. Every request must include the Authorization HTTP header. A basic request to the API looks like this:"
+}

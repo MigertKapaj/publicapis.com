@@ -1,0 +1,16 @@
+{
+  "id": "ratebeer",
+  "title": "RateBeer",
+  "link": "http://www.ratebeer.com/json/ratebeer-api.asp",
+  "image": "http://www.ratebeer.com/images/logos/rblogo042013.png",
+  "author": {
+    "name": "RateBeer"
+  },
+  "tags": [
+    "Stores",
+    "Database",
+    "Search",
+    "Read"
+  ],
+  "description": "The RateBeer JSON API is currently unavailable.Some fun things to do with the API\n Find interesting bars and beer stores around your geo points, Get beer scores on any beer in our database, Find a sample of beers available at a bar or beer shop, Search for beers by UPC code, Search for brewers Rate beers remotely (logged users only), Read your beer mails (logged users only)."
+}

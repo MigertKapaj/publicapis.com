@@ -1,0 +1,15 @@
+{
+  "id": "chgis-xml",
+  "title": "CHGIS XML",
+  "link": "http://chgis.hmdc.harvard.edu/xml/",
+  "image": "http://chgis.hmdc.harvard.edu/xml/misc/B5chop.png",
+  "author": {
+    "name": "CHGIS XML"
+  },
+  "tags": [
+    "Interface",
+    "Traditional",
+    "Accessed"
+  ],
+  "description": "CHGIS XML API - is a simple read-only interface that searches the contents of the China Historical GIS placename database. A traditional form-based user interface that queries the same database can be accessed on the Search Tools page of the CHGIS website. "
+}

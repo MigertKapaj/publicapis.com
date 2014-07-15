@@ -1,0 +1,15 @@
+{
+  "id": "flashfoto",
+  "title": "FlashFoto",
+  "link": "http://flashfotoapi.com/docs/overview",
+  "image": "http://flashfotoapi.com/img/logo.png",
+  "author": {
+    "name": "FlashFoto"
+  },
+  "tags": [
+    "Processing",
+    "Returns",
+    "Data"
+  ],
+  "description": "This is version 2 of the FlashFoto Image Processing API. The API currently takes most input as either json values or path parameters, and returns output in either json images or raw image data."
+}

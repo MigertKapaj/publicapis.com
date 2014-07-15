@@ -1,0 +1,15 @@
+{
+  "id": "virwox",
+  "title": "VirWox",
+  "link": "https://www.virwox.com/developers.php?drgn=3",
+  "image": "https://www.virwox.com/images/virwox_logo_200x59.png",
+  "author": {
+    "name": "VirWoX"
+  },
+  "tags": [
+    "Currency",
+    "Exchange",
+    "Scalability"
+  ],
+  "description": "The VirWoX server has been built using a modern service-oriented architecture, in order to achieve a high degree of scalability and reliablilty. In fact, it has been running 24/7 since 2008 and processing millions of transactions without a glitch.As an additional benefit of this modular architecture, we can now open our internal interfaces to third-party developers who wish to access the VirWoX server from their own applications or products, or to build new exciting applications that require programmatic access to a virtual currency exchange. VirWoX is the first and only exchange for virtual currencies with an open programming interface."
+}

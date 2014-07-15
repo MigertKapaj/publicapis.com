@@ -1,0 +1,15 @@
+{
+  "id": "crop-ontology-curation-tool",
+  "title": "Crop Ontology Curation Tool",
+  "link": "http://www.cropontology.org/api",
+  "image": "http://www.cropontology.org/images/gcp-logo.png?0.8.10",
+  "author": {
+    "name": "Crop Ontology Curation Tool"
+  },
+  "tags": [
+    "Retrieve",
+    "Interact",
+    "Data"
+  ],
+  "description": "This is the official API for the Ontology Curation Tool. It allows you to programmatically retrieve and interact with Ontology data. "
+}

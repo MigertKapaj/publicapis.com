@@ -1,0 +1,15 @@
+{
+  "id": "go-runtime-environment",
+  "title": "Go Runtime Environment",
+  "link": "https://developers.google.com/appengine/docs/go/overview",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Goroutines",
+    "Operating System",
+    "Datastore"
+  ],
+  "description": "The Go runtime environment for App Engine provides full support for goroutines, but not for parallel execution: goroutines are scheduled onto a single operating system thread. This single-thread restriction may be lifted in future versions. Multiple requests may be handled concurrently by a given instance; that means that if one request is, say, waiting for a datastore API call, another request may be processed by the same instance."
+}

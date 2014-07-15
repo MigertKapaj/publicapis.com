@@ -1,0 +1,15 @@
+{
+  "id": "toopher",
+  "title": "Toopher",
+  "link": "https://www.toopher.com/developer/",
+  "image": "https://www.toopher.com/wp-content/themes/toopher/img/toopher-blue.png",
+  "author": {
+    "name": "Toopher"
+  },
+  "tags": [
+    "Records",
+    "Cloud Service",
+    "Salesforce"
+  ],
+  "description": "We store finances, employee records, lead information, and much more on cloud services like Evernote, Pivotal Tracker, and Drive. Build trust in your product and set yourself apart. You can install Toopher on SalesForce and Google Apps today"
+}

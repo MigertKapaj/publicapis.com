@@ -1,0 +1,16 @@
+{
+  "id": "data-collection",
+  "title": "Data Collection",
+  "link": "http://developer.webtrends.com/community/dc/",
+  "image": "http://developer.webtrends.com/resources/images/palette-1001/headerLogo-1370273904040-wt-cnlogo.png",
+  "author": {
+    "name": "Webtrends"
+  },
+  "tags": [
+    "Running",
+    "Emulator",
+    "Internet",
+    "Connection"
+  ],
+  "description": "When you have Wireshark running and your emulator or device proxied through your internet connection.Note that some devices require you to have the development environment at  least partially installed to allow you to proxy through the computer.  This doesn't mean you need the source code though."
+}

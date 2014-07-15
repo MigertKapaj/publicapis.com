@@ -1,0 +1,15 @@
+{
+  "id": "faxout",
+  "title": "FaxOut",
+  "link": "http://service.ringcentral.com/faxoutapi/",
+  "image": "http://service.ringcentral.com/picture/ringcentral/rc-logo-white-background.gif",
+  "author": {
+    "name": "RingCentral"
+  },
+  "tags": [
+    "Store",
+    "Send",
+    "Session"
+  ],
+  "description": "Clients are required to store HTTP cookies returned by the API server and send them in all subsequent requests during the session."
+}

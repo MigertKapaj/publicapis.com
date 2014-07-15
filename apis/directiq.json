@@ -1,0 +1,15 @@
+{
+  "id": "directiq",
+  "title": "DirectIQ",
+  "link": "http://api.directiq.com/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPyS_R1WsOguFMazNrtNYvxKgQaNk1i1TMJQ2OOO85HAltyMp97w",
+  "author": {
+    "name": "DirectIQ"
+  },
+  "tags": [
+    "Integrate",
+    "Access",
+    "Functions"
+  ],
+  "description": "DirectIQ API allows you to integrate your applications with DirectIQ. We provide a range of API methods, which can be used to access many of the key DirectIQ functions, such as creating contact lists, adding contacts, and viewing a lot of information about your account."
+}

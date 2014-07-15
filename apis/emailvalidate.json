@@ -1,0 +1,16 @@
+{
+  "id": "emailvalidate",
+  "title": "EmailValidate",
+  "link": "http://emailvalidate.net/Developers.aspx",
+  "image": "http://emailvalidate.net/Img/logo2.jpg",
+  "author": {
+    "name": "EmailValidate"
+  },
+  "tags": [
+    "Integration",
+    "Language",
+    "Web service",
+    "Account Key"
+  ],
+  "description": "The code samples below illustrate basic integration to the API using a SOAP toolkit. Implementation will vary according to the programming language used. Web service requests against EmailValidate require credentials. To request an AccountID and AccountKey,"
+}

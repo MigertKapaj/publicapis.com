@@ -1,0 +1,15 @@
+{
+  "id": "web-scrape-master",
+  "title": "Web scrape master ",
+  "link": "http://webscrapemaster.com/",
+  "image": "http://www.programmableweb.com/images/apis/at8346.png",
+  "author": {
+    "name": "Web scrape master "
+  },
+  "tags": [
+    "Simple",
+    "Serape",
+    "Data"
+  ],
+  "description": "Web scrape master provides a very simple API for retrieving scrape data. "
+}

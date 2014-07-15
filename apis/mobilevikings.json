@@ -1,0 +1,14 @@
+{
+  "id": "mobilevikings",
+  "title": "Mobilevikings",
+  "link": "https://mobilevikings.com/api/2.0/doc/",
+  "image": "https://mobilevikings.com/static-2014.03.19.b13a107/img/mobile-vikings.png",
+  "author": {
+    "name": "Mobilevikings"
+  },
+  "tags": [
+    "Information",
+    "Credit"
+  ],
+  "description": "We offer an API which you can use to get information about your SIM card or Mobile Vikings account. For example, you can get your current credit balance, a list of your top-ups, or Viking Points you have earned. "
+}

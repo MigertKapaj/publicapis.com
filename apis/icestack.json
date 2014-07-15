@@ -1,0 +1,16 @@
+{
+  "id": "icestack",
+  "title": "Icestack",
+  "link": "http://www.icestack.com/developer-api",
+  "image": "http://www.icestack.com/themes/icestack2/images/icestack_logo.png",
+  "author": {
+    "name": "Icestack"
+  },
+  "tags": [
+    "Developers",
+    "Integrators",
+    "Consumers",
+    "Owners"
+  ],
+  "description": "The Icestack Developer API is intended to be used by software developers and system integrators for the purposes of connecting a third party system to consumers and business owners through Icestack."
+}

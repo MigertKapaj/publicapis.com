@@ -1,0 +1,15 @@
+{
+  "id": "parser",
+  "title": "Parser",
+  "link": "http://www.readability.com/developers/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbEFoz6YnhUICIs4YSG1y5oKAzSKInWySnlaKRa90sj2c9SXLl",
+  "author": {
+    "name": "Readability"
+  },
+  "tags": [
+    "Depending",
+    "Reveal",
+    "Proxied"
+  ],
+  "description": "Requests to the Parser API are not signed like an OAuth request. The Parser token is simply passed as a POST or GET parameter depending on the request type. Be careful not to reveal this token, requests directly to the Parser API should not be made on the client device but rather proxied to keep the API token secure. "
+}

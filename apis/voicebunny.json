@@ -1,0 +1,15 @@
+{
+  "id": "voicebunny",
+  "title": "VoiceBunny",
+  "link": "http://voicebunny.com/developers/index",
+  "image": "http://voicebunny.s3.amazonaws.com/assets/img/logo/voicebunny-logo-new.png?1397154108",
+  "author": {
+    "name": "VoiceBunny"
+  },
+  "tags": [
+    "Voice",
+    "Studios",
+    "Satisfaction"
+  ],
+  "description": "Use our RESTful API to get human, professional voices for any type of project by tapping a crowd of thousands of voice actors recording from home studios. Great prices and quality. 100% satisfaction guarantee.        "
+}

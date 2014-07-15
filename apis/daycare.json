@@ -1,0 +1,16 @@
+{
+  "id": "daycare",
+  "title": "daycare",
+  "link": "http://www.daycaresocial.com/api",
+  "image": "http://www.daycaresocial.com/wp-content/themes/DaycareSocial/images/logo.png",
+  "author": {
+    "name": "DaycareSocial"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Platform",
+    "Incorporate"
+  ],
+  "description": "You may use our free data service to display our daycare listing on your own website. As a matter of fact, we developed our own page using this API! The data is being exposed via web service call to assure cross platform / language compatibility, it also makes it so much easier to incorporate our data onto your site."
+}

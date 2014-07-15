@@ -1,0 +1,15 @@
+{
+  "id": "cellmaps",
+  "title": "CellMaps",
+  "link": "http://api.cellmaps.com/",
+  "image": "",
+  "author": {
+    "name": "CellMaps"
+  },
+  "tags": [
+    "Consumer",
+    "Network",
+    "Already"
+  ],
+  "description": "As the need for enterprise and consumer mashups emerge, our APIs arm your applications with key insights about telecommunications network availability. Enterprise customers have already begun adoption and deployment of the commercial grade API."
+}

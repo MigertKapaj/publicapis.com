@@ -1,0 +1,16 @@
+{
+  "id": "the-appfigures",
+  "title": "The appFigures",
+  "link": "http://docs.appfigures.com/",
+  "image": "http://cdn.appfigures.com/blog/api-icon.1.png",
+  "author": {
+    "name": "AppFigures"
+  },
+  "tags": [
+    "Ads",
+    "Books",
+    "Basic",
+    "Accounts"
+  ],
+  "description": "Using the API you can access sales and ads data for your apps, IAPs, and books. You can grab ranks, reviews, and featured data for your apps. \nYou can even get public data for other apps with the Partner API addon.You can also perform some basic account management tasks like creating \nexternal accounts, viewing files from the archive, and managing events."
+}

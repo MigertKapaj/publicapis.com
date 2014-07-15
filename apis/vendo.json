@@ -1,0 +1,14 @@
+{
+  "id": "vendo",
+  "title": "Vendo",
+  "link": "http://www.vendo.co.nz/api/",
+  "image": "http://www.vendo.co.nz/template/vendo-home.gif",
+  "author": {
+    "name": "Vendo"
+  },
+  "tags": [
+    "Access",
+    "Provides"
+  ],
+  "description": "The Vendo API provides read/write access to your products database. "
+}

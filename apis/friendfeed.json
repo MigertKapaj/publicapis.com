@@ -1,0 +1,15 @@
+{
+  "id": "friendfeed",
+  "title": "FriendFeed",
+  "link": "http://friendfeed.com/api/documentation",
+  "image": "http://friendfeed.com/static/images/nano-logo.png?v=5ff0",
+  "author": {
+    "name": "FriendFeed"
+  },
+  "tags": [
+    "Developers",
+    "Designed",
+    "Integrate"
+  ],
+  "description": "The FriendFeed API enables developers to interact with the FriendFeed web site programmatically. It's designed to make it possible for anyone to improve FriendFeed or integrate FriendFeed into other applications."
+}

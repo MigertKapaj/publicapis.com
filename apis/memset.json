@@ -1,0 +1,15 @@
+{
+  "id": "memset",
+  "title": "Memset",
+  "link": "http://www.memset.com/apidocs/",
+  "image": "http://www.memset.com/apidocs/_static/logo.gif",
+  "author": {
+    "name": "Memset"
+  },
+  "tags": [
+    "Specification",
+    "Interfaces",
+    "Mapping"
+  ],
+  "description": "There is a single API specification that is implemented in several interfaces. This section describes a set of types and their mapping to the different interfaces."
+}

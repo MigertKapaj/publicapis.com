@@ -1,0 +1,16 @@
+{
+  "id": "pollbob",
+  "title": "PollBob",
+  "link": "http://www.pollbob.com/developer.php",
+  "image": "http://www.pollbob.com/assets/images/logo.png",
+  "author": {
+    "name": "PollBob"
+  },
+  "tags": [
+    "Data",
+    "Developers",
+    "Applications",
+    "Partners"
+  ],
+  "description": "PollBob generates a massive amount of data each day which can be used in many ways. We have setup a private API that allows approved developers build applications that use the data we collect and turn it into other creative applications. We are constantly on the look-out for new ideas and new partners. Be sure to email us at contact(at)PollBob.com with any inquiries."
+}

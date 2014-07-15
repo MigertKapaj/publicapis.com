@@ -1,0 +1,15 @@
+{
+  "id": "tendril",
+  "title": "Tendril",
+  "link": "http://www.tendrilinc.com/developers/",
+  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/tendril/2445580253862/profiles/logos/large/Tendril-developer.png",
+  "author": {
+    "name": "Tendril"
+  },
+  "tags": [
+    "Platform",
+    "Retrieve",
+    "Data"
+  ],
+  "description": "The Tendril platform's REST API allows you to build applications that use Representational State Transfer HTTP calls to retrieve and modify Tendril platform data."
+}

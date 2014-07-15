@@ -1,0 +1,13 @@
+{
+  "id": "yandeks",
+  "title": "Яндекс",
+  "link": "http://api.yandex.ru/blogs/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSd_LmfxlVyLrUACkv5rICb4YoTBNSStSrPUTQLlyU9GYF86ckgug",
+  "author": {
+    "name": "Яндекс"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "API Поиска по блогам - это инструмент, позволяющий использовать Поиск Яндекса по блогам на вашей площадке, будь то личный блог, форум или блогохостинг."
+}

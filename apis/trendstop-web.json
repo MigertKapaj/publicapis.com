@@ -1,0 +1,15 @@
+{
+  "id": "trendstop-web",
+  "title": "Trendstop Web",
+  "link": "https://webapi.trendstop.be/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0i0vjuCvf2044cCiKkJj179Y6WEZUa48heQ7Us0UCwunam8RP",
+  "author": {
+    "name": "Trendstop Web"
+  },
+  "tags": [
+    "Developers",
+    "Data",
+    "Service"
+  ],
+  "description": "The Trendstop Web API allows developers to integrate Trendstop data into existing applications such as CRM or ERP-systems. The API is a RESTful service that works directly over HTTPS and can return both XML and JSON. "
+}

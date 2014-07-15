@@ -1,0 +1,15 @@
+{
+  "id": "university-of-oxford.",
+  "title": "University of Oxford.",
+  "link": "http://status.ox.ac.uk/about",
+  "image": "http://status.ox.ac.uk/static/img/ox_brand4_rev_rect.40171c06f31b.gif",
+  "author": {
+    "name": "University of Oxford."
+  },
+  "tags": [
+    "Categories",
+    "Services",
+    "Monitored"
+  ],
+  "description": "The status.ox.ac.uk system monitors the availability of a number of IT services provided by the University of Oxford. These are grouped into expandable categories with colour coding for an easy overview If no problems have been detected all services will be marked as 'Up' and the top banner will say “Systems running smoothly”.If one of the services monitored is unable to be reached it is marked as 'Down' and the category marked as 'Partial'. In this case the top banner will say “Some problems reported”. If every service in a category is 'Down' then the entire category is marked as 'Down'."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cloudflare",
+  "title": "CloudFlare",
+  "link": "http://www.cloudflare.com/docs/host-api.html",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXwuyXEXjfl1asneF6Yyh_Rg_fOAU9h5_gcBe-KEAgR_jB1lyM",
+  "author": {
+    "name": "CloudFlare"
+  },
+  "tags": [
+    "Function",
+    "Service",
+    "Providers"
+  ],
+  "description": "This document explains in detail the semantics of the function calls you can make using the Hosting Provider API service. This service is limited to access by web hosting providers who have agreed to the required license terms."
+}

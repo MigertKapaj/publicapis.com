@@ -1,0 +1,15 @@
+{
+  "id": "moves",
+  "title": "Moves",
+  "link": "https://dev.moves-app.com/docs/api",
+  "image": "https://dev.moves-app.com/assets/images/Connected-Apps-cloud.png",
+  "author": {
+    "name": "Moves For Developers"
+  },
+  "tags": [
+    "Apps",
+    "Services",
+    "Data"
+  ],
+  "description": "Moves API is designed for apps and services that have a server component. Individual users need to give permission to access data. Moves uses OAuth 2.0 for authentication and authorization and the actual authorization happens in the Moves app. There are flows designed for mobile apps and desktop apps."
+}

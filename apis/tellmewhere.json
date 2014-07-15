@@ -1,0 +1,14 @@
+{
+  "id": "tellmewhere",
+  "title": "Tellmewhere",
+  "link": "http://api.tellmewhere.com/v1/doc/",
+  "image": "http://dismoiou.fr/img/common/logo2-eng.png",
+  "author": {
+    "name": "Tellmewhere"
+  },
+  "tags": [
+    "Search",
+    "Several"
+  ],
+  "description": "The Tellmewhere API allows to search for all kinds of local information in several categories (restaurant, bar, tourism, etc.)."
+}

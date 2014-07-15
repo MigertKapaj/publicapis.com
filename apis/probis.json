@@ -1,0 +1,15 @@
+{
+  "id": "probis",
+  "title": "ProBiS",
+  "link": "http://probis.cmm.ki.si/?what=webservices",
+  "image": "http://probis.cmm.ki.si/slike/logo-L90.png",
+  "author": {
+    "name": "ProBiS"
+  },
+  "tags": [
+    "Service",
+    "Alignments",
+    "Assessible"
+  ],
+  "description": "The ProBiS-Web Server features RESTful (REpresentational State Transfer) Web Services to make the binding site similarities and local pairwise alignments for any PDB protein structure easily accessible from your scripts."
+}

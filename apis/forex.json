@@ -1,0 +1,13 @@
+{
+  "id": "forex",
+  "title": "Forex",
+  "link": "http://www.fxspyder.com/forex-api.aspx",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRpW3--bmrDOjMBdpcq2HmUY8wE9GDj_Tand2r3UI2_Dbldy72a",
+  "author": {
+    "name": "FxSpyder"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "By using a Forex API (Application Program Interface) you have the ability to develop custom, automated forex trading systems. These systems may be used for complete forex trade automation with personal retail accounts, corporate commercial accounts or multi-user managed accounts. "
+}

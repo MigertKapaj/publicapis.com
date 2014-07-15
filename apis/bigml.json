@@ -1,0 +1,16 @@
+{
+  "id": "bigml",
+  "title": "BigML",
+  "link": "https://bigml.com/",
+  "image": "https://static.bigml.com/static/img/logo_menu.png",
+  "author": {
+    "name": "BigML"
+  },
+  "tags": [
+    "Resources",
+    "Retrieve",
+    "Datasets",
+    "Predictions"
+  ],
+  "description": "BigML.io is a REST-style API for creating and managing BigML resources programmatically. Using BigML.io you can create, retrieve, update and delete Sources, Datasets, Models, Ensembles, Predictions, and Evaluations using standard HTTP methods. "
+}

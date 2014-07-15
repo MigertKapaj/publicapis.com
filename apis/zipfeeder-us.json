@@ -1,0 +1,16 @@
+{
+  "id": "zipfeeder-us",
+  "title": "ZipFeeder us",
+  "link": "http://zipfeeder.us/documentation",
+  "image": "http://zipfeeder.us/static/img/zip-feeder.png",
+  "author": {
+    "name": "ZipFeeder us"
+  },
+  "tags": [
+    "Service",
+    "Web",
+    "Equation",
+    "Parsing"
+  ],
+  "description": "Also, any developer familiar with web services will tell you, simply making requests are only a part of the equation, you must also be familiar with parsing the responses in a particular language."
+}

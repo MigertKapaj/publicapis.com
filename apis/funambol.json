@@ -1,0 +1,13 @@
+{
+  "id": "funambol",
+  "title": "Funambol",
+  "link": "https://www.mashape.com/fabricapo/funambol",
+  "image": "",
+  "author": {
+    "name": "fabricapo"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Funambol Cloud API to myFUNAMBOL, a cloud synchronization service to sync contacts, calendar, pictures, videos and files on multiple devices (PC, Mac, iPhone/iPad, Android, BlackBerry, Windows Mobile, Symbian and more)"
+}

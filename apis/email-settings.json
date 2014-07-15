@@ -1,0 +1,15 @@
+{
+  "id": "email-settings",
+  "title": "Email Settings",
+  "link": "https://developers.google.com/admin-sdk/email-settings/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Administrators",
+    "Versions",
+    "Application"
+  ],
+  "description": "Google Apps allows website administrators to offer their users co-branded versions of a variety of personalized Google applications, such as Google mail."
+}

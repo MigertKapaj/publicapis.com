@@ -1,0 +1,14 @@
+{
+  "id": "nomaine",
+  "title": "Nomaine",
+  "link": "http://nomaine.com/api",
+  "image": "http://nomaine.com/images/sprites.png",
+  "author": {
+    "name": "Nomaine"
+  },
+  "tags": [
+    "Generate",
+    "Website"
+  ],
+  "description": "Nomaine's API can be used free of charge to generate domain names in the same way you would do on the website."
+}

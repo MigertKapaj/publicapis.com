@@ -1,0 +1,15 @@
+{
+  "id": "siteuptime",
+  "title": "SiteUptime",
+  "link": "http://www.siteuptime.com/api.php",
+  "image": "http://www.siteuptime.com/images/logo.png",
+  "author": {
+    "name": "SiteUptime"
+  },
+  "tags": [
+    "Offers",
+    "Premium",
+    "Contains"
+  ],
+  "description": "SiteUptime now offers an API (based on REST) for users with an Advanced or Premium account. Our API Documentation contains all the information you need to use the API. "
+}

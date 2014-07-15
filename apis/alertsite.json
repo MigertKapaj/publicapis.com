@@ -1,0 +1,15 @@
+{
+  "id": "alertsite",
+  "title": "AlertSite",
+  "link": "http://help.alertsite.com/RestAPI",
+  "image": "https://www.alertsite.com/showlogo/2/2/logo.gif",
+  "author": {
+    "name": "AlertSite"
+  },
+  "tags": [
+    "Device",
+    "Accessing",
+    "Technical"
+  ],
+  "description": "These APIs enable the user to generate reports and retrieve device information without accessing AlertSite's web interface. A fair amount of programming knowledge is required to use either API, however, the device monitoring API (based on the REST protocol) detailed in this guide requires more technical expertise to use than the Report API described in the Report API help page. "
+}

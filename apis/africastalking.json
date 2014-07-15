@@ -1,0 +1,15 @@
+{
+  "id": "africastalking",
+  "title": "Africastalking",
+  "link": "http://www.africastalking.com/docs",
+  "image": "https://www.africastalking.com/img/logo.png",
+  "author": {
+    "name": "Africastalking"
+  },
+  "tags": [
+    "Service",
+    "Connections",
+    "Providers"
+  ],
+  "description": "Africastalking puts great effort in providing content, application and service developers with an easy-to-use RESTful API. This abstraction takes away the pain of configuring connections to Mobile Service Providers across Africa so that you can focus on your business logic. "
+}

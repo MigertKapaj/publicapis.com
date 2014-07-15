@@ -1,0 +1,15 @@
+{
+  "id": "metrica",
+  "title": "Metrica",
+  "link": "http://api.yandex.com/metrika/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3DngKXlxGhX8MbX-007X-A0taahawi488QRQ9P9O1oCgmiEb4",
+  "author": {
+    "name": "Yandex"
+  },
+  "tags": [
+    "Server",
+    "Possible",
+    "Counters"
+  ],
+  "description": "The API serves to call Yandex.Metrica functions programmatically. This makes it possible to automate various features that are available in the Yandex.Metrica web interface, such as creating counters, setting up goals, and getting site visitation statistics."
+}

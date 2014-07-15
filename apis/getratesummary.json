@@ -1,0 +1,16 @@
+{
+  "id": "getratesummary",
+  "title": "GetRateSummary",
+  "link": "http://www.zillow.com/howto/api/GetRateSummary.htm",
+  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
+  "author": {
+    "name": "Zillow"
+  },
+  "tags": [
+    "Returns",
+    "Marketplace",
+    "Lenders",
+    "Data"
+  ],
+  "description": "The GetRateSummary API returns the current rates per loan type — as well as rates from a week ago — from Zillow Mortgage Marketplace. Current supported loan types are 30-year fixed, 15-year fixed, and 5/1 ARM. Rates are computed from real quotes borrowers receive from lenders just seconds before the rate data is returned. The GetRateSummary API returns rates for a specific state if the optional state parameter is used. "
+}

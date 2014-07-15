@@ -1,0 +1,16 @@
+{
+  "id": "fca",
+  "title": "FCA",
+  "link": "http://www.freecontentarticles.com/developer",
+  "image": "http://www.freecontentarticles.com/images/fca.png",
+  "author": {
+    "name": "FCA"
+  },
+  "tags": [
+    "Developers",
+    "Content",
+    "Dig",
+    "Access"
+  ],
+  "description": "FCA would like to welcome you developers to our content system and we would like to present to you our [API] system to dig and access in any of article content."
+}

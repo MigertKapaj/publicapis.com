@@ -1,0 +1,15 @@
+{
+  "id": "baynote",
+  "title": "Baynote",
+  "link": "http://www.baynote.com/",
+  "image": "http://www.baynote.com/wp-content/themes/baynote/img/logo.png",
+  "author": {
+    "name": "Baynote"
+  },
+  "tags": [
+    "Management",
+    "Education",
+    "Bachelor"
+  ],
+  "description": "Baynote's leadership team is a testimony to the company's success. With our management team, you will find a broad range of experience and education, ranging from board members to book writers and bachelor’s degrees to PhD’s."
+}

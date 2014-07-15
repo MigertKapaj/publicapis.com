@@ -1,0 +1,16 @@
+{
+  "id": "recessmobile",
+  "title": "RecessMobile",
+  "link": "https://github.com/RecessMobile/API",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Associated",
+    "Administrative",
+    "Identifies",
+    "Service"
+  ],
+  "description": "Every client Application (app) has an API key associated with it. This\nkey is generated during the creation of the app and can be re-generated from the show/edit screens in the administrative console.\nThis key uniquely identifies an app during the calls the app does to the Service Layer (SL)."
+}

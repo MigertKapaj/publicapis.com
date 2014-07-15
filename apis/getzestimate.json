@@ -1,0 +1,16 @@
+{
+  "id": "getzestimate",
+  "title": "GetZestimate",
+  "link": "http://www.zillow.com/howto/api/GetZestimate.htm",
+  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
+  "author": {
+    "name": "Zillow"
+  },
+  "tags": [
+    "Surface",
+    "Returned",
+    "Data",
+    "Provided"
+  ],
+  "description": "The GetZestimate API will only surface properties for which a Zestimate exists. If a request is made for a property that has no Zestimate, an error code is returned. Zillow doesn't have Zestimates for all the homes in its database. For such properties, we do have tax assessment data, but that is not provided through the API. For more information, see our Zestimate coverage. "
+}

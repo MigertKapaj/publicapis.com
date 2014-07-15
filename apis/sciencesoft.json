@@ -1,0 +1,15 @@
+{
+  "id": "sciencesoft",
+  "title": "ScienceSoft",
+  "link": "http://sciencesoft.at/latex/index?lang=en",
+  "image": "http://sciencesoft.at/images/header_en.png",
+  "author": {
+    "name": "ScienceSoft"
+  },
+  "tags": [
+    "Develop",
+    "Service",
+    "Require"
+  ],
+  "description": "ScienceSoft develops software for scientific purposes. However, our range of services is not restricted to scientific applications; we also provide services for unique software development problems, which may require an unconventional approach. "
+}

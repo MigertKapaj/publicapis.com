@@ -1,0 +1,15 @@
+{
+  "id": "the-mavenlink",
+  "title": "The Mavenlink",
+  "link": "http://developer.mavenlink.com",
+  "image": "http://developer.mavenlink.com/images/header-logo-a503604a.png",
+  "author": {
+    "name": "Mavenlink"
+  },
+  "tags": [
+    "Majority",
+    "Authenticates",
+    "Primarily"
+  ],
+  "description": "Mavenlink's API provides access to the majority of Mavenlink's data model. The API authenticates requests using OAuth2 tokens and exists primarily to allow scripts and 3rd-party applications to access and manage Mavenlink data on behalf of Mavenlink users."
+}

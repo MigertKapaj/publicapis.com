@@ -1,0 +1,16 @@
+{
+  "id": "exfm",
+  "title": "Exfm",
+  "link": "http://ex.fm/api",
+  "image": "http://ex.fm/static/images/logo_large.png",
+  "author": {
+    "name": "Exfm"
+  },
+  "tags": [
+    "Amazing",
+    "Music",
+    "Data",
+    "Service"
+  ],
+  "description": "We're thrilled to share the Exfm API with our amazing community of music lovers! Our API is intended for 3rd party sites and apps to build upon the Exfm social music platform. We’ve got great data and services and took great care to make it simple and easy to use. We hope you’ll be inspired to build something awesome with it. We can't wait to see what you make!\n                    "
+}

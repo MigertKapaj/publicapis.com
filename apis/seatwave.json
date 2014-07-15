@@ -1,0 +1,16 @@
+{
+  "id": "seatwave",
+  "title": "Seatwave",
+  "link": "http://developer.seatwave.com/",
+  "image": "http://developer.seatwave.com/content/images/seatwave-developers-logo.png",
+  "author": {
+    "name": "Seatwave"
+  },
+  "tags": [
+    "Application",
+    "Web",
+    "Mobile",
+    "Servicing"
+  ],
+  "description": "This portal is for you, developers! With the Seatwave APIs, you can build innovative applications for web and mobile around event discovery and ticket purchase. At Seatwave, we are extremely passionate about improving the service we provide to our customers. We strongly believe that the developer community plays a key role in this process by providing  new and \ninnovative ways for customers to discover live events and purchase tickets away from our site.  "
+}

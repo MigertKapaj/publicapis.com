@@ -1,0 +1,16 @@
+{
+  "id": "commerce-search",
+  "title": "Commerce Search",
+  "link": "https://developers.google.com/commerce-search/docs/gettingstarted",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Online",
+    "Flexible",
+    "Features",
+    "Spelling"
+  ],
+  "description": "Google Commerce Search (GCS) is a hosted search solution for online retail sites. Powered by Google, Commerce Search is a fast, flexible, and familiar option for online retailers. GCS allows administrators to customize their search engines in various ways, with features including synonyms, advanced spelling, and targeted promotions within search."
+}

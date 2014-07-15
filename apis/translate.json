@@ -1,0 +1,15 @@
+{
+  "id": "translate",
+  "title": "Translate",
+  "link": "https://developers.google.com/translate/v2/using_rest",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Intended",
+    "Developers",
+    "Apps"
+  ],
+  "description": "This document is intended for developers who want to write applications that can interact with the Google Translate API. With Google Translate, you can programmatically translate text in your webpages or apps."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "the-crate",
+  "title": "The Crate",
+  "link": "https://letscrate.com/api",
+  "image": "https://letscrate.com/media/img/lets_crate_logo_transparent.png?1323389020",
+  "author": {
+    "name": "Let's Crate"
+  },
+  "tags": [
+    "Website",
+    "Develop",
+    ""
+  ],
+  "description": "The Crate API uses basic authentication. We aim to make the API as comprehensible as using the website is. The API is for developers, but first and foremost for our users. Please develop with that in mind. Keep in mind that all responses are in JSON and your username must be lowercase."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "wishpot",
+  "title": "Wishpot",
+  "link": "http://www.wishpot.com/help/developers.aspx",
+  "image": "http://wishpot.s3.amazonaws.com/web/img/logo_139x65.png",
+  "author": {
+    "name": "Wishpot"
+  },
+  "tags": [
+    "Developer",
+    "Services",
+    "Provide",
+    "Increase"
+  ],
+  "description": "Wishpot newly launched Developer APIs allows you to add many of the Wishpot services to your website or application. You can easily provide your users with more useful functionalities and increase your revenue opportunities. "
+}

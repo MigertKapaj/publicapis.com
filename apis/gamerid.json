@@ -1,0 +1,16 @@
+{
+  "id": "gamerid",
+  "title": "gamerID",
+  "link": "http://gamerid.com/contact/developers/",
+  "image": "http://gidn.net/images/logos/gid_logo_250.png",
+  "author": {
+    "name": "gamerID"
+  },
+  "tags": [
+    "Website",
+    "Account",
+    "Data",
+    "Multiple"
+  ],
+  "description": "The gamerID OAuth API allows any website or web-enabled application to allow remote authentication based on gamerID account credentials. There are many benefits to licensing the free gamerID API, including universal login for multiple websites, non-private account data (subject to account holder preferences), and more."
+}

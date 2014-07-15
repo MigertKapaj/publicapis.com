@@ -1,0 +1,14 @@
+{
+  "id": "hfradar-maps",
+  "title": "HFRADAR Maps",
+  "link": "http://cordc.ucsd.edu/projects/mapping/api/",
+  "image": "",
+  "author": {
+    "name": "CORDC"
+  },
+  "tags": [
+    "Vectors",
+    "Access"
+  ],
+  "description": "Do you want HFRADAR vectors on your map app.? We thought you might, so we built an API that allows you to access and query our tile base on your own."
+}

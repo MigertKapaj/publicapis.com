@@ -1,0 +1,15 @@
+{
+  "id": "bidvoy",
+  "title": "bidvoy",
+  "link": "http://bidvoy.net/developer/article/analyse",
+  "image": "http://bidvoy.net/assets/2859605e/img/sprite.png",
+  "author": {
+    "name": "bidvoy"
+  },
+  "tags": [
+    "Resources",
+    "Awesome",
+    "Anytime"
+  ],
+  "description": "On the following pages you can find documentation and resources of the bidvoy API. Every application out there helps us to make bidvoy more awesome. So, if you are programming based on our API feel free to contact us anytime."
+}

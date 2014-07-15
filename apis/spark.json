@@ -1,0 +1,16 @@
+{
+  "id": "spark",
+  "title": "Spark",
+  "link": "http://sparkplatform.com/docs/overview/api",
+  "image": "http://sparkplatform.com/assets/spark_logo-9b90ddf2452e0d21d570d9a23abc6af2.png",
+  "author": {
+    "name": "Spark"
+  },
+  "tags": [
+    "Authorized",
+    "Data",
+    "License",
+    "Developer"
+  ],
+  "description": "The Spark API allows authorized MLS members to request data through developer applications according to the permissions and license requirements of the MLS."
+}

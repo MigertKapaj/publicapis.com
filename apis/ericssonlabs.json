@@ -1,0 +1,15 @@
+{
+  "id": "ericssonlabs",
+  "title": "Ericssonlabs",
+  "link": "https://labs.ericsson.com/apis/mobile-maps/",
+  "image": "https://labs.ericsson.com/sites/all/themes/labsnexus/logo.png",
+  "author": {
+    "name": "Ericssonlabs"
+  },
+  "tags": [
+    "Organization",
+    "Technologies",
+    "Research"
+  ],
+  "description": "Ericsson Labs, managed by the Ericsson Research organization, is the new home of innovative technologies and concepts. Moving away from developing beta technologies, we are stepping aside to pull back the curtain to give you a behind-the-scenes peek at the latest and greatest in ongoing research and innovation at Ericsson Research. These could be both proofs of concepts as well as some not-yet-proven ideas along with other preliminary research results that are not fully polished."
+}

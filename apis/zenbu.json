@@ -1,0 +1,16 @@
+{
+  "id": "zenbu",
+  "title": "Zenbu",
+  "link": "http://www.zenbu.co.nz/about/xml",
+  "image": "http://www.zenbu.co.nz/images/zenbu_logo4.gif?1386326256",
+  "author": {
+    "name": "Zenbu"
+  },
+  "tags": [
+    "Access",
+    "Commercial",
+    "Commons",
+    "License"
+  ],
+  "description": "The Zenbu XML API allow third parties to access the content and features of the Zenbu website. There are no commercial boundaries on the API for up to 10,000 requests per day - above that and you have to work out a deal with us. Please respect our Creative Commons Attribution License. "
+}

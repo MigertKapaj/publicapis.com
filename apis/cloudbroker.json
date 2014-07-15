@@ -1,0 +1,15 @@
+{
+  "id": "cloudbroker",
+  "title": "CloudBroker",
+  "link": "https://platform.cloudbroker.com/documents/CloudBrokerPlatform_RESTAPIUsageManual-1.2.1.pdf",
+  "image": "http://cloudbroker.com/wordpress/wp-content/uploads/CloudBroker_Logo_web.png",
+  "author": {
+    "name": "CloudBroker"
+  },
+  "tags": [
+    "Access",
+    "Several",
+    "Connect"
+  ],
+  "description": "If you would like to access the CloudBroker Platform from an external client or application programming interface (API), we provide several possibilities for you to connect to the platform."
+}

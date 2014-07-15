@@ -1,0 +1,14 @@
+{
+  "id": "sendy",
+  "title": "Sendy",
+  "link": "http://sendy.co/api",
+  "image": "http://sendy.co/images/sendy-logo.jpg",
+  "author": {
+    "name": "Sendy"
+  },
+  "tags": [
+    "Integrate",
+    "Website"
+  ],
+  "description": "Sendy's API is based on simple HTTP POST. Use the API to integrate Sendy programmatically with your website or application. We're working to include more APIs."
+}

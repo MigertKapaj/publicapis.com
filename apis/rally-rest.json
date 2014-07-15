@@ -1,0 +1,13 @@
+{
+  "id": "rally-rest",
+  "title": "Rally REST",
+  "link": "https://help.rallydev.com/for-developers",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQS6pwWKIFj7BfvMfO6S0wzX6CmrnMpYaCDAayydK7BLD4pSk0bdA",
+  "author": {
+    "name": "Rallydev"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Rally’s powerful Agile ALM platform enables developer teams to align work with organizational priorities, to continuously report on progress across projects, and to coordinate work across multiple teams and distributed sites in the spirit of enterprise agility. "
+}

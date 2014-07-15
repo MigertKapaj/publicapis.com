@@ -1,0 +1,15 @@
+{
+  "id": "webcam",
+  "title": "Webcam",
+  "link": "http://web-app.usc.edu/ws/webcams/api/help",
+  "image": "http://www.usc.edu/usc/img/01/usc-name-white-cardinal.gif",
+  "author": {
+    "name": "University of Southern California"
+  },
+  "tags": [
+    "Stillimages",
+    "Movies",
+    "Webcam name"
+  ],
+  "description": "This API provides support for JSON and JSONP listings of our webcam archives (stills and movies).  You need to know the webcam name (e.g. tommycam for TommyCam, see list below). Once you know the name you can build a RESTful request for the list of available movies or recent stillimages. \n\n\n"
+}

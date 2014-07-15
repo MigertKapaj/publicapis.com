@@ -1,0 +1,16 @@
+{
+  "id": "the-provider-profile",
+  "title": "The Provider Profile",
+  "link": "http://developers.odesk.com/w/page/12364010/Provider%20Profile",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Key",
+    "Detailed",
+    "Profile",
+    "Associated"
+  ],
+  "description": "The Provider Profile API takes a provider key and returns detailed profile information about a provider or list of providers. This method returns an exhaustive list of attributes associated with the provider. "
+}

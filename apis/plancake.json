@@ -1,0 +1,14 @@
+{
+  "id": "plancake",
+  "title": "Plancake",
+  "link": "http://www.plancake.com/api-documentation",
+  "image": "http://www.plancake.com/images/homepage_sprite2.png",
+  "author": {
+    "name": "Plancake"
+  },
+  "tags": [
+    "Easy",
+    "Intresting"
+  ],
+  "description": "The Plancake API makes it easy for developers to interact with their tasks and make new and interesting applications. - See more at: http://www.plancake.com/api-documentation#sthash.vVIKBwoM.dpuf"
+}

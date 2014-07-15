@@ -1,0 +1,16 @@
+{
+  "id": "bpa",
+  "title": "BPA",
+  "link": "https://biobricks.org/bpa/developers/",
+  "image": "https://biobricks.org/wp-content/themes/bbf2012/images/logo-bbf-2012.png",
+  "author": {
+    "name": "BioBricks Foundation"
+  },
+  "tags": [
+    "Mission",
+    "Biology",
+    "Ethical",
+    "Database"
+  ],
+  "description": "In service of the BioBricks Foundation’s mission to ensure that the engineering of biology is conducted in an open and ethical manner to benefit all people and the planet, we’ve opened access to the BioBrick™ Public Agreement database through our API (Application Programming Interface)."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "adaptive-accounts",
+  "title": "Adaptive Accounts",
+  "link": "https://www.x.com/developers/paypal/products/adaptive-accounts",
+  "image": "https://www.paypalobjects.com/webstatic/developer/logo_paypal_developer.png",
+  "author": {
+    "name": "Paypal"
+  },
+  "tags": [
+    "Create Pay pal Accounts",
+    "Manage pay pal Accounts",
+    "Verify account status",
+    "Add payment Method"
+  ],
+  "description": "Adaptive Accounts API is used to build applications that create and manage \nPayPal accounts. Merchants and developers can use the API to create \nPayPal accounts, add payment methods to accounts, and verify a PayPal \naccount status. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "isizulu.net",
+  "title": "isiZulu.net",
+  "link": "http://api.isizulu.net/doc/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTkb0IcMcNM68dVZGw70b0Nq103CuXePWBNVGzcLpDCt-MeqX8tTA",
+  "author": {
+    "name": "isiZulu.net"
+  },
+  "tags": [
+    "Online",
+    "Contribute",
+    "Checking",
+    "Basics"
+  ],
+  "description": "isiZulu.net is an attempt to build a modern Zulu-English online dictionary that anyone can contribute to. Besides the usual bidirectional lookups it offers automatic morphological decomposition, conjugation and phonetic spelling of Zulu words, translation of simple Zulu and English phrases, spell checking, and grammar and pronunciation basics."
+}

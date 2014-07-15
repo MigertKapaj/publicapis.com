@@ -1,0 +1,16 @@
+{
+  "id": "thinkery",
+  "title": "Thinkery",
+  "link": "https://thinkery.me/api/docs/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTLFycQn-NXU4YvlJ3i-T6SQOF2tgCrEmg8ixlKZe6mbmgK3yOSVQ",
+  "author": {
+    "name": "Thinkery"
+  },
+  "tags": [
+    "Lightweight",
+    "Organized",
+    "Android",
+    "App"
+  ],
+  "description": "Thinkery is a fast and lightweight tool for storing notes, bookmarks, todos, organized through #hashtags. Bookmarks are stored in full-text. Android and iOS app available."
+}

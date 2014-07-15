@@ -1,0 +1,16 @@
+{
+  "id": "drawloop",
+  "title": "Drawloop",
+  "link": "http://support.drawloop.com/api/",
+  "image": "http://d1p3lde24158r7.cloudfront.net/wp-content/uploads/2014/01/logo-new.png",
+  "author": {
+    "name": "Drawloop"
+  },
+  "tags": [
+    "Merge",
+    "Convert",
+    "Combine",
+    "Data"
+  ],
+  "description": "Our API allows you to merge, convert and combine files on the web. We can convert and fill (merge) a number of file types. Supported file types (bold file types can be merged with data)"
+}

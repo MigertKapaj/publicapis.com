@@ -1,0 +1,15 @@
+{
+  "id": "tapatalk",
+  "title": "TAPATALK",
+  "link": "http://www.tapatalk.com/api/api.php",
+  "image": "http://tapatalk.com/images/logo_big.png",
+  "author": {
+    "name": "Tapatalk"
+  },
+  "tags": [
+    "Developers",
+    "System",
+    "Access"
+  ],
+  "description": "Tapatalk API allows third-party developers to develop forum systems plugin or mobile app that talks the Tapatalk language. We believe openness and by opening up the API document we hope to foster innovations on inter-forum access beyond web browser. Tapatalk API has been implemented on over 8 different forum systems and has proven to work with ten of thousands of discussion forums worldwide. "
+}

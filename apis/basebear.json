@@ -1,0 +1,16 @@
+{
+  "id": "basebear",
+  "title": "BaseBear",
+  "link": "http://api.basebear.com/",
+  "image": "http://api.basebear.com/images/logo2.gif",
+  "author": {
+    "name": "BaseBear"
+  },
+  "tags": [
+    "Provides",
+    "Interface",
+    "Data",
+    "Connect"
+  ],
+  "description": "BaseBear provides REST APIs that allow external applications to interface with BaseBear database. Users can build web applications in any programming language and connect to your data stored on BaseBear.com."
+}

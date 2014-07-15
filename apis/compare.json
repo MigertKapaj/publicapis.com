@@ -1,0 +1,15 @@
+{
+  "id": "compare",
+  "title": "Compare",
+  "link": "https://developer.mygateglobal.com/",
+  "image": "https://developer.mygateglobal.com/templates/mygate/img/logo.gif",
+  "author": {
+    "name": "MyGate Developer Centre"
+  },
+  "tags": [
+    "Access",
+    "Solutions",
+    "Integration"
+  ],
+  "description": "Within Documents you gain access to resources that aid you with a high level understanding of our solutions enabling trouble free integration."
+}

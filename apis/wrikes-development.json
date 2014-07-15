@@ -1,0 +1,16 @@
+{
+  "id": "wrikes-development",
+  "title": "Wrike’s Development",
+  "link": "http://www.wrike.com/platform.jsp#auth",
+  "image": "http://www.wrike.com/image/menu-logo.png",
+  "author": {
+    "name": "Wrike"
+  },
+  "tags": [
+    "Project",
+    "Consists",
+    "Responses",
+    "Listed"
+  ],
+  "description": "Wrike’s Development Platform enables building custom software applications on top of Wrike’s rich project collaboration features. The platform consists of a set of seven callable API methods and API endpoints. The arguments, responses and error codes for each method are listed in the API Methods section."
+}

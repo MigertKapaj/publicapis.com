@@ -1,0 +1,13 @@
+{
+  "id": "front-end",
+  "title": "front-end",
+  "link": "http://www.getbluefin.com/?page_id=45",
+  "image": "http://www.getbluefin.com/wp-content/themes/yoshi/images/logo.png",
+  "author": {
+    "name": "Bluefin Technology Partners"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Just like with other suppliers, we will use the front-end API to send the ads to the advertising systems. We been involved with more than 20 classified Front-end integration projects, many of them with modern systems like Mactive and CCI and many others with older legacy systems like Atex, CText, SII, etc as well as a few home grown systems."
+}

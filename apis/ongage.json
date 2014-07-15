@@ -1,0 +1,16 @@
+{
+  "id": "ongage",
+  "title": "Ongage",
+  "link": "http://www.ongage.com/resources/library/",
+  "image": "",
+  "author": {
+    "name": "Ongage"
+  },
+  "tags": [
+    "Businesses",
+    "Email",
+    "Messages",
+    "Transactional"
+  ],
+  "description": "Ongage offers a full featured, modern, state-of-the-art API, enabling businesses to harness the power of OngageConnect™ directly from their existing platforms.  Moreover the OngageConnect™ front-end is built entirely on top of our own API, in Silicon Valley speak -- \"we eat our own dog food\". Key features include:API Protocol: REST using JSONList Management: Full API control of your email lists.Content Management: Full API control for creating and updating email messages.Campaign Scheduling: Full API control for scheduling campaigns and sending transactional emails.Reporting: Full API control for retrieving email marketing reports."
+}

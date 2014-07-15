@@ -1,0 +1,13 @@
+{
+  "id": "dns-tools",
+  "title": "DNS Tools",
+  "link": "https://www.mashape.com/jack/dns-tools",
+  "image": "",
+  "author": {
+    "name": "jack"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Resolve DNS addresses into IP addresses and vice versa. New method: check if a port is open on a given host."
+}

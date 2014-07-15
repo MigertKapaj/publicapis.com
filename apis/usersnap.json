@@ -1,0 +1,16 @@
+{
+  "id": "usersnap",
+  "title": "Usersnap",
+  "link": "https://usersnap.com/support/docs/usersnapapi",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ph6VKV79S2KiEFwXf20HsbMZWZTEsRZUMOGdt9vfAauvHq30",
+  "author": {
+    "name": "Usersnap"
+  },
+  "tags": [
+    "Configuration",
+    "Data",
+    "Widget",
+    "Plan"
+  ],
+  "description": "Usersnap provides rich configuration features such as custom data being added to any feedback or specific configurations of the widget. Please note, that the following features can only be used in a paid plan!"
+}

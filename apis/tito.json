@@ -1,0 +1,15 @@
+{
+  "id": "tito",
+  "title": "Tito",
+  "link": "https://tito.io/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeuVOaFvlLm9gGgkHbrttb9zjtbDssRHTaDE6ZRQ9OopAA5PHwcA",
+  "author": {
+    "name": "Tito"
+  },
+  "tags": [
+    "Software",
+    "Start",
+    "Tickets"
+  ],
+  "description": "Tito is built by people who run events, who know that software should not get in the way. In just a few clicks you can start selling tickets."
+}

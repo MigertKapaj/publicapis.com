@@ -1,0 +1,16 @@
+{
+  "id": "joinin",
+  "title": "joinin",
+  "link": "https://joinin.3scale.net/documentation/authentication",
+  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/eventility-api/1918887164/profiles/logos/large/EventilityLogo.png",
+  "author": {
+    "name": "joinin"
+  },
+  "tags": [
+    "Organization",
+    "Groups",
+    "Expanded",
+    "Access"
+  ],
+  "description": "Joinin (previously known as eventility) makes organization and promotion easy. Our database of venues, events, clubs, groups and communities is constantly being updated and expanded. The Joinin API is open and available to anyone who would like to access the public content and use it in new ways. Using this API you can access and update the public information held on Joinin."
+}

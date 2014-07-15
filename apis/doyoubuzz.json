@@ -1,0 +1,15 @@
+{
+  "id": "doyoubuzz",
+  "title": "DoYouBuzz ",
+  "link": "http://doc.doyoubuzz.com/overview/summary",
+  "image": "http://doc.doyoubuzz.com/assets/img/dyb_tinyLogo.png",
+  "author": {
+    "name": "DoYouBuzz "
+  },
+  "tags": [
+    "Data",
+    "Acsess",
+    "Application"
+  ],
+  "description": "With the DoYouBuzz API you can access all the data of the users who have authorized your application. As an independant developers wanting to leverage DoYouBuzz datas, this is the API you want to use."
+}

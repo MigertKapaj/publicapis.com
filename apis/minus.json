@@ -1,0 +1,15 @@
+{
+  "id": "minus",
+  "title": "Minus",
+  "link": "http://miners.github.io/MinusAPIv2/v2/index.html",
+  "image": "",
+  "author": {
+    "name": "Minus"
+  },
+  "tags": [
+    "Exposes",
+    "Designed",
+    "Upload"
+  ],
+  "description": "At the lowest level, Minus exposes its API with a REST, http-accessible, API. We have designed our API to allow you to easily create folders and upload files programmatically."
+}

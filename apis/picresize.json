@@ -1,0 +1,15 @@
+{
+  "id": "picresize",
+  "title": "PicResize",
+  "link": "http://www.picresize.com/webmasters.php",
+  "image": "http://cdn.picresize.com/picresize-assets/gfx/picresize_logo_left.gif",
+  "author": {
+    "name": "PicResize"
+  },
+  "tags": [
+    "Resize",
+    "Link",
+    "Predefined"
+  ],
+  "description": "When linking to PicResize.com, instead of instructing your users to resize to a certain width or height, you can use a special link that has the width and/or height embedded. This will force predefined dimensions."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "fixido",
+  "title": "Fixido",
+  "link": "http://www.fixido.com/apidocs/docs/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqNoOhQ4_H6EFVXEV18of-jlCLQ_H2Mq8Q35Mojd8CJO6Mcdotbg",
+  "author": {
+    "name": "Fixido"
+  },
+  "tags": [
+    "Export",
+    "Access",
+    "Secret"
+  ],
+  "description": "Fixido provides API to import Leads, Order and to export leads as well. Like every other APIs, its a REST based API. Before you begin using the API, you must register an application to get the access key and secret key. To access REST API, you must have one access key and secret key. You can create an application here."
+}

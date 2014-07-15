@@ -1,0 +1,13 @@
+{
+  "id": "open-ean",
+  "title": "Open EAN",
+  "link": "http://openean.kaufkauf.net/api.php",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3LG-IYnR3yMNaRaA7svixm0nlkPssKCDq9ftgJvbA706LNtS5",
+  "author": {
+    "name": "Open EAN"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Es ist ebenfalls möglich, auf die Open EAN Datenbank aus eigenen Applikationen heraus zuzugreifen um eine EAN-Abfrage durchzuführen. Das geschieht mit einem simplen HTTP-GET-Request, der folgendes Format aufweisen sollte"
+}

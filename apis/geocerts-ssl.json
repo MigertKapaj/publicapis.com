@@ -1,0 +1,15 @@
+{
+  "id": "geocerts-ssl",
+  "title": "Geocerts SSL",
+  "link": "https://www.geocerts.com/resellers",
+  "image": "https://www.geocerts.com/assets/logo_sheild-d9258b4e124241213aabbf34a238a78e.gif",
+  "author": {
+    "name": "Geocerts SSL"
+  },
+  "tags": [
+    "Partners",
+    "Manage",
+    "Identity"
+  ],
+  "description": "We offer a REST API for our Partners to directly order and manage their certificate and web site identity offerings."
+}

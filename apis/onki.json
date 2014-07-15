@@ -1,0 +1,16 @@
+{
+  "id": "onki",
+  "title": "ONKI ",
+  "link": "http://onki.fi/api/",
+  "image": "http://onki.fi/resource/index/images/logo-onki.png",
+  "author": {
+    "name": "ONKI "
+  },
+  "tags": [
+    "Data",
+    "Globally",
+    "Compatible",
+    "Web."
+  ],
+  "description": "ONKI helps you to link your data globally, making it compatible with the semantic web."
+}

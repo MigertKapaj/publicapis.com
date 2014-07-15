@@ -1,0 +1,15 @@
+{
+  "id": "prosperent",
+  "title": "prosperent",
+  "link": "http://prosperent.com/documentation/api/requests",
+  "image": "http://prosperent.com/resources/img/logo/white-logo-220x40.png",
+  "author": {
+    "name": "prosperent"
+  },
+  "tags": [
+    "Data",
+    "Products",
+    "Commission"
+  ],
+  "description": "The API allows you to pull back data for the varying endpoints. By constructing a simple URL you are able to pull back products, coupons and commission details."
+}

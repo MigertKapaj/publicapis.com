@@ -1,0 +1,15 @@
+{
+  "id": "name-action",
+  "title": "Name Action",
+  "link": "https://www.nameaction.com/API-EPP.asp",
+  "image": "https://www.nameaction.com/Images/header_nameaction.jpg",
+  "author": {
+    "name": "Name Action"
+  },
+  "tags": [
+    "Posibilidad",
+    "Directamente",
+    "Respuesta"
+  ],
+  "description": "NameAction ofrece a sus clientes la posibilidad de automatizar sus operaciones de dominio a través de una API conectando directamente sus propios sistemas con NameAction evitando así la operatoria manual y mejorando los tiempos de respuesta."
+}

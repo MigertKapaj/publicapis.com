@@ -1,0 +1,16 @@
+{
+  "id": "spy-dialer",
+  "title": "SPY DIALER",
+  "link": "http://spydialer.com/api.aspx",
+  "image": "http://spydialer.com/images/logosmall.png",
+  "author": {
+    "name": "SPY DIALER"
+  },
+  "tags": [
+    "Website",
+    "HTTP",
+    "Credits",
+    "Authority"
+  ],
+  "description": "Spy Dialer can be added to your website or app as a cool new feature! The  API web service uses SOAP messaging with HTTP POST or GET methods for accepting requests and returns results via XML. Sorry, free searches aren't available through the API, but you can buy credits as an authorized API user for just 5 cents each.\n                                        "
+}

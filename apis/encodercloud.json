@@ -1,0 +1,15 @@
+{
+  "id": "encodercloud",
+  "title": "EncoderCloud",
+  "link": "http://www.encodercloud.com/docs/api",
+  "image": "http://www.encodercloud.com/web/images/layout/encodercloud-logo.gif",
+  "author": {
+    "name": "EncoderCloud"
+  },
+  "tags": [
+    "Services",
+    "Required",
+    "Server"
+  ],
+  "description": "EncoderCloud offers a flexible API for seamlessly integrating our cloud based transcoding services directly into your own applications. The following section will address the methods made available through the EncoderCloud API. All methods are made available by using an HTTP(S) POST to the appropriate EncoderCloud URL for the method being accessed. Included with each POST are parameters required or optional for each method. Client must send HTTP(S) POST request with single parameter named \"q\". All client requests and server answers use JSON format. "
+}

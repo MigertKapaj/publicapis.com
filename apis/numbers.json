@@ -1,0 +1,14 @@
+{
+  "id": "numbers",
+  "title": "Numbers",
+  "link": "http://numbersapi.com/#5/math",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTQze6apLrPbmYNB7X3Pzmv3Md34uZQ_y3gXuZbAgwtFHDSGd8U",
+  "author": {
+    "name": "Numbers"
+  },
+  "tags": [
+    "Facts",
+    "Numbers"
+  ],
+  "description": "An API for interesting facts about numbers"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "skyttle",
+  "title": "Skyttle",
+  "link": "http://docs.skyttle.apiary.io/",
+  "image": "https://apiary.a.ssl.fastly.net/assets/images/apiary-app-logo-1x-136bf1f4d06a3c9e.png",
+  "author": {
+    "name": "Skyttle"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Skyttle API performs keyword extraction, named entity extraction and phrase-level sentiment analysis for texts in English, French, German, and Russian. You can find demos, tutorials, and subscription plans on the Skyttle website."
+}

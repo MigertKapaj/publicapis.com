@@ -1,0 +1,16 @@
+{
+  "id": "img-to-css",
+  "title": "Img to CSS",
+  "link": "http://www.imgtocss.com/help/api",
+  "image": "http://www.imgtocss.com/assets/images/headline.png",
+  "author": {
+    "name": "Img to CSS"
+  },
+  "tags": [
+    "Conversion",
+    "Explains",
+    "Requests",
+    "Interpet"
+  ],
+  "description": "The Img to CSS API allows image conversion through simple HTTP requests. This documentation explains how the requests should be sent and how to interpret the response. "
+}

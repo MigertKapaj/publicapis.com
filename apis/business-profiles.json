@@ -1,0 +1,15 @@
+{
+  "id": "business-profiles",
+  "title": "Business Profiles",
+  "link": "http://businessprofiles.com/api",
+  "image": "http://businessprofiles.com/api/top.png",
+  "author": {
+    "name": "BusinessProfiles.com"
+  },
+  "tags": [
+    "Provides",
+    "Access",
+    "Companies"
+  ],
+  "description": "The Business Profiles API provides access to our database of corporate registration information, which currently contains over 40 million records for companies, partnerships, and other forms of business organization throughout the world."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "transloadit",
+  "title": "Transloadit",
+  "link": "https://transloadit.com/docs/api-docs",
+  "image": "https://transloadit.com/img/logo_sm.png",
+  "author": {
+    "name": "Transloadit"
+  },
+  "tags": [
+    "Provides",
+    "Checking",
+    "Deleting"
+  ],
+  "description": "Transloadit provides a simple JSON REST API that can be used for creating new assemblies, checking the status of an assembly, or deleting assemblies."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "payroll",
+  "title": "Payroll",
+  "link": "http://www.paymentevolution.com/developer",
+  "image": "http://www.paymentevolution.com/images/logo.png",
+  "author": {
+    "name": "PaymentEvolution"
+  },
+  "tags": [
+    "Web",
+    "Available",
+    "Custom",
+    "Implement"
+  ],
+  "description": "The commercial PaymentEvolution Payroll web services API is available for integration with your custom application or service. From simple payroll deduction calculations to complex benefits and custom earnings - we work with you to implement the set of services you need."
+}

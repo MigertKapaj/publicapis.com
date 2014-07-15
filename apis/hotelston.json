@@ -1,0 +1,16 @@
+{
+  "id": "hotelston",
+  "title": "Hotelston",
+  "link": "http://www.hotelston.com/about/api.jsf",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7t1HyV6_5Nvtt7I8q7hjwhQlqY-r1-1GG1wPKj6c2AaTWspKw",
+  "author": {
+    "name": "Hotelston"
+  },
+  "tags": [
+    "Online",
+    "Internet",
+    "Reservation",
+    "Branding"
+  ],
+  "description": "Nowadays everything is moving online, including travel industry. For those of you who already have Internet sites, Hotelston offers a great way to improve efficiency of Your accommodation reservation business. It is a SOAP based full-featured API, which you can use as an accommodation search/booking engine on your site while maintaining Your personal branding. "
+}

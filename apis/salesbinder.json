@@ -1,0 +1,13 @@
+{
+  "id": "salesbinder",
+  "title": "SalesBinder",
+  "link": "http://www.salesbinder.com/kb/api/",
+  "image": "http://2b02d2569ed099561d54-440416a95778e8bf0102059167a1a2d1.r81.cf2.rackcdn.com/sales_binder-logo-int.png",
+  "author": {
+    "name": "SalesBinder"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The SalesBinder API is a RESTful interface designed for those interested in developing 3rd party code to communicate securely with our platform. We strongly recommend having programming experience before considering reading any further – just a heads-up"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "viralninjas",
+  "title": "ViralNinjas",
+  "link": "https://www.mashape.com/viralninjas/viralninjas",
+  "image": "",
+  "author": {
+    "name": "viralninjas"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "ViralNinjas REST API is the core of ViralNinjas Platform. On top of the REST API, ViralNinjas offers a set of Server Side SDKs that provide wrappers around the API. The server-side SDKs make it simple to integrate the ViralNinjas platform in server applications of various technological environments. Check out our Server Side SDKs documentation and find out if there is an SDK available for your preferred technology. Otherwise, please continue with this guide and learn how to use our REST API directly."
+}

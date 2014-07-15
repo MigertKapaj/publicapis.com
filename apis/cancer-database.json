@@ -1,0 +1,15 @@
+{
+  "id": "cancer-database",
+  "title": "Cancer Database",
+  "link": "http://cancernet.cicams.ac.cn/",
+  "image": "http://cancernet.cicams.ac.cn/data/images/cancer.jpg",
+  "author": {
+    "name": "Cancer Database"
+  },
+  "tags": [
+    "System",
+    "Data",
+    "Research"
+  ],
+  "description": "A system by which user can get data about incidence, mortality, prognosis,therapy, prevention of cancer, and try to make full use of research data."
+}

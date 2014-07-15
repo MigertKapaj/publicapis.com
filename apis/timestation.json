@@ -1,0 +1,15 @@
+{
+  "id": "timestation",
+  "title": "TimeStation",
+  "link": "https://www.mytimestation.com/API.asp",
+  "image": "https://www.mytimestation.com/Images/Header_Logo.png",
+  "author": {
+    "name": "TimeStation"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Provide"
+  ],
+  "description": "With the TimeStation API you can easily access your TimeStation data from other applications. The current version of the API (v0.1) provides access to all the TimeStation reports in CSV and XLS formats. "
+}

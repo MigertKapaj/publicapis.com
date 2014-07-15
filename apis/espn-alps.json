@@ -1,0 +1,15 @@
+{
+  "id": "espn-alps",
+  "title": "ESPN ALPS",
+  "link": "http://www.espnalps.com/doc",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSgxg9qROn33TrhUs7o1-o-EkIgKsr_0rMAx7MhwXLi9U-b8jU2ag",
+  "author": {
+    "name": "ESPNalps.com"
+  },
+  "tags": [
+    "Data",
+    "Community",
+    "Competitions"
+  ],
+  "description": "ESPN ALPS is an experimental Open API for submitting live scoring data to ESPN. We are inviting the developer community to use this API to build innovative applications . To help get the process rolling we are holding a series of app development competitions. Click the links below to find out more, or to register today! "
+}

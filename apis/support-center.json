@@ -1,0 +1,16 @@
+{
+  "id": "support-center",
+  "title": "Support Center",
+  "link": "http://www.loggly.com/docs/api-overview/",
+  "image": "https://www.loggly.com/wp-content/themes/loggly/assets/images/logo-loggly.svg",
+  "author": {
+    "name": "Loggly"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Post",
+    "Validation"
+  ],
+  "description": "Events can be sent into Loggly via syslog or HTTP/S. If you need to configure your servers to send Loggly data via a syslog based service, please refer to the basics of sending data.\nTo send in events via the API, through either HTTP/S POST or GET, you’ll use the hostname logs-01.loggly.com (instead of the <account>.loggly.com format used by the other API calls).The API supports both HTTP and HTTPS, and contains a unique string for every customer, called the Customer Token, in the URL for validation. The key can be found on the Customer Tokens page under Source Setup in your Loggly account.\n"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "contacts",
+  "title": "Contacts",
+  "link": "https://developers.google.com/google-apps/contacts/v3/index#working_with_contacts",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Applications",
+    "Stored",
+    "Service"
+  ],
+  "description": "The Google Contacts API allows client applications to view and update a user's contacts. Contacts are stored in the user's Google Account; most Google services have access to the contact list."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "diigo",
+  "title": "Diigo",
+  "link": "https://www.diigo.com/tools/api",
+  "image": "https://www.diigo.com/images/v6/logo-small.png",
+  "author": {
+    "name": "Diigo"
+  },
+  "tags": [
+    "Authentication",
+    "Developers",
+    "Purposes"
+  ],
+  "description": "Diigo API uses HTTP Basic authentication - a standard authentication method that includes base64 encoded username and password in the Authorization request header. Developers must NOT use the credentials provided by users for any other purposes. Other authentication options such as OAuth may be supported in future. "
+}

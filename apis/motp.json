@@ -1,0 +1,14 @@
+{
+  "id": "motp",
+  "title": "mOTP",
+  "link": "http://motp.in/Documentation.html",
+  "image": "http://motp.in/images/motp.png",
+  "author": {
+    "name": "mOTP"
+  },
+  "tags": [
+    "Platform",
+    "Across"
+  ],
+  "description": "Our Target is to build a worldwide platform, where a Single API would work for phone verification across the globe."
+}

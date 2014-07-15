@@ -1,0 +1,16 @@
+{
+  "id": "podling",
+  "title": "Podling",
+  "link": "http://docs.podling.com/",
+  "image": "http://www.programmableweb.com/images/apis/at10147.png",
+  "author": {
+    "name": "Podling"
+  },
+  "tags": [
+    "Functionality",
+    "Authentication",
+    "Exchanged",
+    "Token"
+  ],
+  "description": "Most of Podling's functionality can be accessed via its JSON over HTTPS API. The API is known as “the86”. Each user has an authentication token which can be used to make API\nrequests. A valid username and password can be exchanged for this API access token.\n"
+}

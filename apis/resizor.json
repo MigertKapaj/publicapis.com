@@ -1,0 +1,15 @@
+{
+  "id": "resizor",
+  "title": "Resizor",
+  "link": "http://resizor.com/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTWG6IWjH8rJo8Nx30FL9lG1lUI_kpqLDp53bGePFylWPuWG1SWeA",
+  "author": {
+    "name": "Resizor"
+  },
+  "tags": [
+    "Cloud",
+    "Reformated",
+    "Assets"
+  ],
+  "description": "When using Resizor with CloudFront these requests needs to be reformated as CloudFront doesn't handle query string params. This is what Resizor's ”CDN origin host” is for, only your assets is allowed to be accessed through your CDN origin host, this makes it safe to use that host as a custom origin for a CloudFront distribution."
+}

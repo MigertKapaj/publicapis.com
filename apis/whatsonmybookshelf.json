@@ -1,0 +1,15 @@
+{
+  "id": "whatsonmybookshelf",
+  "title": "WhatsOnMyBookshelf",
+  "link": "http://www.whatsonmybookshelf.com/api/",
+  "image": "http://www.whatsonmybookshelf.com/images/leaf.gif",
+  "author": {
+    "name": "WhatsOnMyBookshelf"
+  },
+  "tags": [
+    "Operations",
+    "Books",
+    "Difficulty"
+  ],
+  "description": "Most WhatsOnMyBookshelf operations, such as regisering new users and books can be performed using our WSDL. If you are having difficulty, you may freely use our test page. "
+}

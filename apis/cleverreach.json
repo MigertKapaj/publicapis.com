@@ -1,0 +1,15 @@
+{
+  "id": "cleverreach",
+  "title": "CleverReach",
+  "link": "http://www.cleverreach.com/frontend/api.php",
+  "image": "http://www.cleverreach.com/images/logo.png",
+  "author": {
+    "name": "CleverReach"
+  },
+  "tags": [
+    "System",
+    "Developers",
+    "Connect"
+  ],
+  "description": "This API enables you to synchronize your CMS, CRM or eCommerce system with CleverReach. Developers can build own applications and connect them with your account. "
+}

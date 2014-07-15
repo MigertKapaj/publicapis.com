@@ -1,0 +1,16 @@
+{
+  "id": "intel",
+  "title": "Intel",
+  "link": "http://software.intel.com/en-us/blackbelt",
+  "image": "https://software.intel.com/sites/default/files/styles/banner_carousel_983x400_forced/public/c8/32/banner_blackbelt.jpg?itok=ClYk0sOi",
+  "author": {
+    "name": "Intel"
+  },
+  "tags": [
+    "Developers",
+    "Communities",
+    "Collaborating",
+    "Members"
+  ],
+  "description": "Intel® Black Belt Software Developers are members of our communities known for technical expertise and community leadership; for sharing knowledge and collaborating to make our communities stronger. This is our title designed to recognize and reward these members for contributing their experience and expertise to the communities. This title also recognizes members for their time and effort to help make Intel® Developer Zone a valuable developer resource."
+}

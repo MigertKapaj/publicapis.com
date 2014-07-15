@@ -1,0 +1,15 @@
+{
+  "id": "the-mod-archive",
+  "title": "The Mod Archive",
+  "link": "http://modarchive.org/index.php?xml-api-usage",
+  "image": "http://modarchive.org/style/images/logo.png",
+  "author": {
+    "name": "The Mod Archive"
+  },
+  "tags": [
+    "Website",
+    "Data",
+    "Provides"
+  ],
+  "description": "Instead of scraping the website HTML for data, the API provides a slimline low bandwidth equivalent that places far less overhead on the server. "
+}

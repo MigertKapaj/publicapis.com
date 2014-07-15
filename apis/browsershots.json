@@ -1,0 +1,15 @@
+{
+  "id": "browsershots",
+  "title": "BrowserShots",
+  "link": "http://browsershots.org/documentation",
+  "image": "http://browsershots.org/static/images/logo/header.png",
+  "author": {
+    "name": "BrowserShots"
+  },
+  "tags": [
+    "Realtime",
+    "Script",
+    "Factory"
+  ],
+  "description": "You may use this API to get realtime status of your factories. Based on these status, you are able to make a script to notify you when your factory are down or not working normally."
+}

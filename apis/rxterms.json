@@ -1,0 +1,15 @@
+{
+  "id": "rxterms",
+  "title": "RxTerms",
+  "link": "http://rxnav.nlm.nih.gov/RxTermsRestAPI.html",
+  "image": "http://rxnav.nlm.nih.gov/images/rx_nav_logo.jpg",
+  "author": {
+    "name": "RxNAV"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Distributed"
+  ],
+  "description": "This document details the RxTerms RESTful web API, an alternative web service developed at the National Library of Medicine for the RxTerms data from the SOAP-based RxTerms API web services. Representational state transfer (REST) is a style of software architecture for distributed hypermedia systems such as the World Wide Web."
+}

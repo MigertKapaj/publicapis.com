@@ -1,0 +1,16 @@
+{
+  "id": "freedomregistry",
+  "title": "freedomregistry",
+  "link": "http://developer.freedomregistry.org/",
+  "image": "http://developer.freedomregistry.org/images/logo.png",
+  "author": {
+    "name": "freedomregistry"
+  },
+  "tags": [
+    "Resources",
+    "Registry",
+    "Structure",
+    "Pagination"
+  ],
+  "description": "This describes the resources that make up the official Freedom Registry API v1.Schema JSON Structure Parameters Hypermedia Pagination"
+}

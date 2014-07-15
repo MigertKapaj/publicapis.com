@@ -1,0 +1,15 @@
+{
+  "id": "paypal",
+  "title": "PayPal",
+  "link": "http://www.where.com/create/",
+  "image": "https://advertising.paypal.com/_/media/pp-logo-white.png?1378906154",
+  "author": {
+    "name": "PayPal"
+  },
+  "tags": [
+    "Formerly",
+    "Data",
+    "Advertising"
+  ],
+  "description": "PayPal Media Network was formerly WHERE, a Boston-based startup focused on leveraging location technology and data in mobile to enhance relevancy in advertising."
+}

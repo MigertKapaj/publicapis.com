@@ -1,0 +1,15 @@
+{
+  "id": "police",
+  "title": "Police",
+  "link": "http://data.police.uk/docs/",
+  "image": "http://data.police.uk/static/img/logo_hover.a135281ba7fe.png",
+  "author": {
+    "name": "Data.Police.Uk"
+  },
+  "tags": [
+    "Unique",
+    "Obtained",
+    "Data"
+  ],
+  "description": "A list of all the police forces available via the API. Unique force identifiers obtained here are used in requests for force-specific data via other methods. "
+}

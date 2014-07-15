@@ -1,0 +1,16 @@
+{
+  "id": "doculicious",
+  "title": "Doculicious",
+  "link": "http://docs.doculicious.com/api",
+  "image": "http://docs.doculicious.com/sites/docs.doculicious.com/files/garland_logo.png",
+  "author": {
+    "name": "Doculicious"
+  },
+  "tags": [
+    "Entries",
+    "Submit",
+    "PDF",
+    "Data"
+  ],
+  "description": "The Doculicious API lets you access the entries saves for your forms and submit new entries from your own programs or web forms. Using the API you can easily fill in PDF files from wen forms you host yourself.The Doculicious API provides a way to interact with your Templates and Data from any programming language and application that can access the internet. Using PHP, C#, Ruby or most other languages you can add Doculicious functionality to desktop applications, your website or even an iPhone."
+}

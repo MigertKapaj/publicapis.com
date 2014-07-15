@@ -1,0 +1,16 @@
+{
+  "id": "scandit",
+  "title": "Scandit",
+  "link": "http://www.scandit.com/product-api/",
+  "image": "http://www.scandit.com/wp-content/themes/brainstorm-1.6.1/images/general/logo.png",
+  "author": {
+    "name": "Scandit"
+  },
+  "tags": [
+    "Products",
+    "Database",
+    "Access",
+    "Premium"
+  ],
+  "description": "our Product API provides developers with unprecedented product coverage. Our product database provides free access to UPCs and product names, with optional access to a wealth of premium data. Sign up for our all-new community edition to get started with Product API today."
+}

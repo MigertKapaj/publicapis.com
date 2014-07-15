@@ -1,0 +1,15 @@
+{
+  "id": "coupon",
+  "title": "Coupon",
+  "link": "http://apicoupon.com/index.php/coupon-api/",
+  "image": "http://apicoupon.com/files/3413/7566/7262/CouponAPI-headerv2.png",
+  "author": {
+    "name": "Coupon"
+  },
+  "tags": [
+    "Contains",
+    "Discounts",
+    "Members"
+  ],
+  "description": "The Stage of Life coupon API solution contains 100's of direct partnerships with national, U.S.-based brands offering up coupons and discounts between 5% and 50% off for your members."
+}

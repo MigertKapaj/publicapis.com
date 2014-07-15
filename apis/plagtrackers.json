@@ -1,0 +1,16 @@
+{
+  "id": "plagtrackers",
+  "title": "PlagTracker’s",
+  "link": "http://www.plagtracker.com/api.html",
+  "image": "http://www.plagtracker.com/images/pt_logo.png",
+  "author": {
+    "name": "PlagTracker"
+  },
+  "tags": [
+    "Webmasters",
+    "Analyze",
+    "Scripts",
+    "Duplicate"
+  ],
+  "description": "PlagTracker’s API (Application Programming Interface) enables webmasters and developers to analyze their offline text and URLs for originality and to see if it has been duplicated elsewhere online.Server side scripts can be written so that PlagTracker receives results in either XML or HTML format.Our subscription plans at PlagTracker enable you to see first-hand how our duplicate content monitoring and detection system operates."
+}

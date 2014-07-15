@@ -1,0 +1,16 @@
+{
+  "id": "junaio",
+  "title": "junaio",
+  "link": "http://dev.metaio.com/junaio/documentation/",
+  "image": "http://dev.metaio.com/fileadmin/css/2013/img/dev_logo.png",
+  "author": {
+    "name": "junaio"
+  },
+  "tags": [
+    "Language",
+    "Basic",
+    "Web",
+    "Knowedge"
+  ],
+  "description": "junaio uses AREL (Augmented Reality Experience Language) to define its content. You can find a basic introduction to how AREL works here. In order to access the AREL content, junaio offers a free, web-based API that enables you to use your existing knowledge and skills in web languages to create exciting Augmented Reality experiences. \n"
+}

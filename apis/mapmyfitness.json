@@ -1,0 +1,15 @@
+{
+  "id": "mapmyfitness",
+  "title": "MapMyFitness",
+  "link": "http://www.mapmyfitness.com/developer/",
+  "image": "",
+  "author": {
+    "name": "MapMyFitness"
+  },
+  "tags": [
+    "Fitness",
+    "Android",
+    ""
+  ],
+  "description": "Welcome to the connected fitness cloud. With the MapMyFitness API, you can access 125 fitness elements, including iOS and Android SDKs, plus terabytes of data. Get started today for free in three simple steps."
+}

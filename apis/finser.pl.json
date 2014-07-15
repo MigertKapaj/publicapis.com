@@ -1,0 +1,13 @@
+{
+  "id": "finser.pl",
+  "title": "Finser.pl",
+  "link": "http://api.finser.pl/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLVKX_y38yoeLcnjMVKMKGMp2BkjCBoN5Qpw_9JLXpl9vhrN90Iw",
+  "author": {
+    "name": "Finser.pl"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Niniejszy dokument opisuje sposób komunikacji z publicznym WebAPI aplikacji Finser.pl. WebAPI zapewnia określoną część funkcjonalności aplikacji. Interfejs WebAPI znajduje się pod adresem api.finser.pl, komunikacja z WebAPI odbywa się wyłącznie dzięki bezpiecznemu protokołowi HTTPS."
+}

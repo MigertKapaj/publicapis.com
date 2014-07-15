@@ -1,0 +1,14 @@
+{
+  "id": "stripe",
+  "title": "Stripe",
+  "link": "https://stripe.com/docs/api",
+  "image": "https://stripe.com/img/logo.png",
+  "author": {
+    "name": "Stripe"
+  },
+  "tags": [
+    "Developer",
+    "Service"
+  ],
+  "description": "Stripe applications make it easy for developers to integrate their services with Stripe. If you need help, check out our answers to common questions or chat live with our developers in #stripe on freenode. "
+}

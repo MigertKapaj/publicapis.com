@@ -1,0 +1,15 @@
+{
+  "id": "sphere-connect",
+  "title": "Sphere Connect",
+  "link": "http://www.kintera.com/doc/connect/",
+  "image": "http://www.kintera.com/doc/connect/logo_blue.gif",
+  "author": {
+    "name": "Blackbaud"
+  },
+  "tags": [
+    "Regarding",
+    "Development",
+    "Platform"
+  ],
+  "description": "See Getting Started for details regarding downloading and importing the Sphere Connect API WSDL file into your development platform, and also for creating a basic Sphere Connect Application using sample code in C#, Java, and PHP."
+}

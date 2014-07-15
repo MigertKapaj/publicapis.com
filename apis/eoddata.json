@@ -1,0 +1,16 @@
+{
+  "id": "eoddata",
+  "title": "EODData",
+  "link": "http://eoddata.com/products/WebService.aspx",
+  "image": "http://eoddata.com/images/logo.gif",
+  "author": {
+    "name": "EODData"
+  },
+  "tags": [
+    "Offers",
+    "Trading",
+    "Web",
+    "Systems"
+  ],
+  "description": "EODData now offers a complete end of day Web Service ideal for trading applications, web sites, portfolio management systems, etc.  The web service is available at this url: http://ws.eoddata.com/data.asmx.\n "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "corevalue",
+  "title": "CoreValue",
+  "link": "http://developer.zappos.com/docs/api-corevalue",
+  "image": "http://developer.zappos.com/sites/default/files/logo.png",
+  "author": {
+    "name": "Zappos"
+  },
+  "tags": [
+    "Online",
+    "Retailer",
+    "Strong",
+    "Culture"
+  ],
+  "description": "Many of you know that Zappos is much more than an online retailer.  The team here at Zappos has a strong belief that our Core Values help maintain the great Zappos culture even as we grow bigger and bigger."
+}

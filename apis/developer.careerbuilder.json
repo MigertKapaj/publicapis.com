@@ -1,0 +1,16 @@
+{
+  "id": "developer.careerbuilder",
+  "title": "developer.careerbuilder",
+  "link": "http://developer.careerbuilder.com/endpoints/index#collapse0",
+  "image": "",
+  "author": {
+    "name": "developer.careerbuilder"
+  },
+  "tags": [
+    "Integrate",
+    "Services",
+    "Data",
+    "Provide"
+  ],
+  "description": "The developer.careerbuilder website allow you to integrate our database of over 1.5 million jobs with your software or website. The various APIs provide services for basic job searching, retrieving data for a specific job, and applying to a job. These services are free to use and available to anyone."
+}

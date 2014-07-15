@@ -1,0 +1,16 @@
+{
+  "id": "the-splunk",
+  "title": "The Splunk",
+  "link": "http://dev.splunk.com/",
+  "image": "http://coverall3.splunk.com/web_assets/developers/heros/HERO-HUNK-Dev.jpg",
+  "author": {
+    "name": "Splunk"
+  },
+  "tags": [
+    "Interfaces",
+    "Modifying",
+    "Protocol",
+    ""
+  ],
+  "description": "An API (Application Programming Interface) is a set of defined interfaces to accomplish a task, such as retrieving or modifying data. In Splunk®'s case, we provide an API method for every feature in our product. Programmers can use our API to make applications, phone apps, widgets, and other projects that interact with Splunk. Programs talk to the Splunk API over HTTP , the same protocol that your web browser uses to interact with web pages, and conforms to the principles of Representational State Transfer (REST)."
+}

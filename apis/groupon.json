@@ -1,0 +1,16 @@
+{
+  "id": "groupon",
+  "title": "Groupon",
+  "link": "http://www.groupon.com/pages/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRUocHLO9N97D0k4vdGOKIoxJkGQ0F1_UaT77mIHPttrnEI2yi8qA",
+  "author": {
+    "name": "Groupon"
+  },
+  "tags": [
+    "Develop",
+    "Ideas",
+    "Extensions",
+    "Interface"
+  ],
+  "description": "Register for a Groupon API key (client_id) to develop your own Groupon applications. Now, you can put all those great ideas for Groupon improvements, extensions, and multiple-platform interfaces to work."
+}

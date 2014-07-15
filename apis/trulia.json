@@ -1,0 +1,16 @@
+{
+  "id": "trulia",
+  "title": "Trulia",
+  "link": "http://developer.trulia.com/",
+  "image": "http://developer.trulia.com/public/Mashery/images/clients/trulia/logo.gif",
+  "author": {
+    "name": "Trulia"
+  },
+  "tags": [
+    "Real estate",
+    "Search",
+    "Homes",
+    "Market"
+  ],
+  "description": "Welcome Trulia Developers! Trulia is a real estate search engine that provides buyers with information about homes for sale, real estate trends and local market information."
+}

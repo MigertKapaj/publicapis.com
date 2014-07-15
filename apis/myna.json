@@ -1,0 +1,16 @@
+{
+  "id": "myna",
+  "title": "Myna",
+  "link": "https://mynaweb.com/help/api",
+  "image": "https://ddnxkh4q55q4m.cloudfront.net/app/e928/images/wordmark.png",
+  "author": {
+    "name": "Myna"
+  },
+  "tags": [
+    "Testing",
+    "Technique",
+    "Optimizes",
+    "Conversions"
+  ],
+  "description": "Myna is a revolutionary new way of doing A/B testing. We use multi-armed bandit algorithms - a machine learning technique that optimizes your experiments as they run to give you more conversions and faster tests!"
+}

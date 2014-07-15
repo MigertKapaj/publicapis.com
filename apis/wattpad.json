@@ -1,0 +1,15 @@
+{
+  "id": "wattpad",
+  "title": "Wattpad",
+  "link": "http://www.wattpad.com/api_doc",
+  "image": "http://a.wattpad.com/img/web/logo.png?v=75bbdde",
+  "author": {
+    "name": "Wattpad"
+  },
+  "tags": [
+    "Social",
+    "Connects",
+    "Interests"
+  ],
+  "description": "Wattpad is a place to discover and share stories: a social platform that connects people through words. It is a community that spans borders, interests, languages. With Wattpad, anyone can read or write on any device: phone, tablet, or computer. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "purple",
+  "title": "Purple",
+  "link": "https://i.likepurple.com/features/",
+  "image": "https://i.likepurple.com/media/purple_logo.png",
+  "author": {
+    "name": "Purple"
+  },
+  "tags": [
+    "Expose",
+    "Platform",
+    "Service"
+  ],
+  "description": "If you are a developer, you will love our APIs. We expose all of our stack through simple REST APIs that makes it a breeze for you to create customized solutions on top of our platform. Use our service to quickly build passbook based mobile solutions for your clients."
+}

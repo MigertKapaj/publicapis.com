@@ -1,0 +1,15 @@
+{
+  "id": "observu",
+  "title": "Observu",
+  "link": "https://observu.com/docs/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRQAJKwOMlT3Qjl0_TiuKax55Nu7DZLQ3ssmi7q5dCLUn35v-2dRw",
+  "author": {
+    "name": "Observu"
+  },
+  "tags": [
+    "Data",
+    "Monitors",
+    ""
+  ],
+  "description": "Our API has two specific methods for adding data and monitors, which are listed first. Furthermore all data that has been added to the system is available as a REST API which is described afterwards."
+}

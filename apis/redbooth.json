@@ -1,0 +1,15 @@
+{
+  "id": "redbooth",
+  "title": "Redbooth",
+  "link": "https://teambox.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ7COvOKvM4ILSq3LiaZnRXhbqW98lG8O3zjJqPecDyPXjrql4dhQ",
+  "author": {
+    "name": "Teambox"
+  },
+  "tags": [
+    "Concepts",
+    "Authorization",
+    "Projects"
+  ],
+  "description": "First, you'll need to understand some basic concepts. After, we'll run some basic examples and learn how to handle authorization. Lastly, we'll jump to the documentation for models: Projects, users, tasks, etc. "
+}

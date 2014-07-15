@@ -1,0 +1,16 @@
+{
+  "id": "gimme-bar",
+  "title": "Gimme Bar",
+  "link": "https://gimmebar.com/api/v0",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR3Ag4eee6R_-UikbcXSu7FhrMD24i7GD40vIVxqafisRbc6DUQbg",
+  "author": {
+    "name": "Gimme Bar"
+  },
+  "tags": [
+    "Modified",
+    "Device",
+    "Authenticate",
+    "Data"
+  ],
+  "description": "We use an OAuth v2-style authentication approach for our API, with a modified flow for devices and desktop apps. Applications need to authenticate with our API to obtain an access token. The access token is used in lieu of a username & password to access a user’s data via the Gimme Bar API. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ugal",
+  "title": "UGAL",
+  "link": "http://www.ugal.com/api-doc",
+  "image": "http://www.ugal.com/static/0/ugal/site/logo.png",
+  "author": {
+    "name": "UGAL"
+  },
+  "tags": [
+    "Interface",
+    "Features",
+    "Provided"
+  ],
+  "description": "The UGAL API is an interface to some of the features provided by the UGAL web interface."
+}

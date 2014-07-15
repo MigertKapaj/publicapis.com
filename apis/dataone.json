@@ -1,0 +1,16 @@
+{
+  "id": "dataone",
+  "title": "DataONE",
+  "link": "http://wiki.datadryad.org/DataONE_RESTful_API",
+  "image": "http://wiki.datadryad.org/wg/dryad/images/dryad_logo.png",
+  "author": {
+    "name": "Dryad"
+  },
+  "tags": [
+    "Datanet",
+    "Genome",
+    "Ecosystem",
+    "Ecological"
+  ],
+  "description": "Dryad is a member node in the DataONE network.  DataONE is an NSF-funded DataNet, a distributed organization that aims to provide persistent, robust, and secure access to  well-described and easily discovered data from from the genome to the ecosystem, including Earth observational data from atmospheric, ecological, hydrological, and oceanographic sources.\n"
+}

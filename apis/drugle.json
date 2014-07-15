@@ -1,0 +1,16 @@
+{
+  "id": "drugle",
+  "title": "Drugle",
+  "link": "http://demo.drugle.info/about.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQU8KMPWzFQjt8C-XwK0kiNmDIBpIqvLcqeiUgfXQJt4CWCJ2F-1A",
+  "author": {
+    "name": "Drugle"
+  },
+  "tags": [
+    "Specialized",
+    "Information",
+    "System",
+    "Managed"
+  ],
+  "description": "Drugle is a semantic search engine specialized for pharmacology and medical drug information. Drugle is a project and system initialized and sponsored by Lars L. Gustafsson at Karolinska Institutet and developed and managed by Seibo Software Studios. "
+}

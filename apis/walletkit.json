@@ -1,0 +1,15 @@
+{
+  "id": "walletkit",
+  "title": "Walletkit",
+  "link": "https://walletkit.com/docs#lp",
+  "image": "https://walletkit.com/static/images/wallet_kit_logo.png",
+  "author": {
+    "name": "Walletkit"
+  },
+  "tags": [
+    "Manage",
+    "Store",
+    "Wallets"
+  ],
+  "description": "WalletKit is the central platform for businesses to create,manage and deliver digital boarding passes,tickets,store cards,coupons for mobile wallets like Apple Passbook ,Google Wallet."
+}

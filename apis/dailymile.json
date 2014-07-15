@@ -1,0 +1,15 @@
+{
+  "id": "dailymile",
+  "title": "dailymile",
+  "link": "http://www.dailymile.com/api/documentation",
+  "image": "http://www.dailymile.com/images/logo_new.png?1295456143",
+  "author": {
+    "name": "dailymile"
+  },
+  "tags": [
+    "Developer",
+    "Devices",
+    "Web"
+  ],
+  "description": "Welcome! The dailymile API enables third-party developers to build applications on dailymile's Social Workout Platform. You're free to build for the Web, the desktop, or on mobile devices. Learn how authenticate works and then read the documentation to get started. Please read our API Guidelines before getting started."
+}

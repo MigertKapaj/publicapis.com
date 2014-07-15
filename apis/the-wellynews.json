@@ -1,0 +1,16 @@
+{
+  "id": "the-wellynews",
+  "title": "The Wellynews",
+  "link": "http://wellington.gen.nz/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR0UVDk_zjX5TzbxzE1d29EFOE8bHEp4ol119X9nRGXgPzrp5NO",
+  "author": {
+    "name": "The Wellynews"
+  },
+  "tags": [
+    "News",
+    "Servces",
+    "Mashup",
+    "Newsitem"
+  ],
+  "description": "A number of large news organisations have begun providing APIs to their content. These services allow content to be queried programmatically for use in mash ups and the like. The Wellynews API lets you do something simular with the local newsitems indexed by Search Wellington."
+}

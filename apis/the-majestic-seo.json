@@ -1,0 +1,16 @@
+{
+  "id": "the-majestic-seo",
+  "title": " the Majestic SEO",
+  "link": "http://developer-support.majesticseo.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbdtqiRrpV37r97SA3O30f-mGFmkdKlPH7WdEUBQCZtSFXbYNa",
+  "author": {
+    "name": " Majestic SEO"
+  },
+  "tags": [
+    "Desigend",
+    "Connectors",
+    "Environments",
+    "Commands"
+  ],
+  "description": "This guide to the Majestic SEO API is designed to give an overview of our available data range, execution environments, authentication methods, connectors and our commands. Additional support is available through our support system.\n        "
+}

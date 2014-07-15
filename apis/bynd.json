@@ -1,0 +1,14 @@
+{
+  "id": "bynd",
+  "title": "Bynd",
+  "link": "https://bynd.io/",
+  "image": "http://bynd.io/assets/images/bynd.png",
+  "author": {
+    "name": "Bynd"
+  },
+  "tags": [
+    "Ability",
+    "Connections"
+  ],
+  "description": "The Bynd REST API provides the ability to write, read, update and delete objects. It also allows you to write and read objects which are connected to other objects. We call these connections. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cashboard",
+  "title": "Cashboard",
+  "link": "https://api.cashboardapp.com/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQmbrrVsaF3cARV1Ox0aybQevf8fgAYZvu5CR7NRSVk7iHtJp7X3w",
+  "author": {
+    "name": "Cashboard"
+  },
+  "tags": [
+    "Programmers",
+    "Integrate",
+    "Cashboards",
+    "Data"
+  ],
+  "description": "The Cashboard API allows programmers to integrate Cashboard with other applications and data.\nIt serves XML and JSON over HTTPS (HTTPS-POX / POJ), using RESTful principles.\nWe've adhered to the REST design standards as much as possible - but deviate where necessary.\n"
+}

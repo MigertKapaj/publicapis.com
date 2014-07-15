@@ -1,0 +1,16 @@
+{
+  "id": "wattzon-rebate",
+  "title": "WattzOn Rebate",
+  "link": "http://www.wattzon.com/api/documentation",
+  "image": "http://static1.wattzon.com/uploads/201306/8a0d7897603d6930316b4c8f12eda53571790087.jpg",
+  "author": {
+    "name": "WattzOn EnergyCenter"
+  },
+  "tags": [
+    "Display",
+    "Relevant",
+    "Discounts",
+    "State"
+  ],
+  "description": "The WattzOn Rebate API provides an easy and simple way to display relevant energy efficiency rebates, tax incentives and other discounts. We provide national, state and local coverage with a simple lookup based upon zip code."
+}

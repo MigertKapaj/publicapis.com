@@ -1,0 +1,16 @@
+{
+  "id": "speech-recognition",
+  "title": "Speech Recognition",
+  "link": "http://www.speechapi.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUDpXromEGQEzj3vi5Dj64mb-xrSWCMtMipXuOt0G3lsyDEEkq",
+  "author": {
+    "name": "SpeechAPI"
+  },
+  "tags": [
+    "Speech",
+    "Web",
+    "Solutions",
+    "Online"
+  ],
+  "description": "We are focused on bringing speech to the web. We have several solutions including our speechapi, a language learning solution and a voicexml online development tool. "
+}

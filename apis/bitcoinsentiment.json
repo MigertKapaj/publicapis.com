@@ -1,0 +1,15 @@
+{
+  "id": "bitcoinsentiment",
+  "title": "bitcoinsentiment",
+  "link": "http://bitcoinsentiment.com/",
+  "image": "",
+  "author": {
+    "name": "bitcoinsentiment"
+  },
+  "tags": [
+    "General",
+    "Regularly",
+    "Data"
+  ],
+  "description": "This sites only reflects the general and pervading sentiment if there are plenty of voters that votes regularly. Therefor linking to this site and/or implementing the API is highly encouraged. This is a non-profit endeavour and the collected data is downloadable and free to use."
+}

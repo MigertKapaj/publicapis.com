@@ -1,0 +1,16 @@
+{
+  "id": "measure",
+  "title": "Measure",
+  "link": "http://developer.quantcast.com/",
+  "image": "http://quantcast.qasandbox.mashery.com/files/API_PAGE_CLOUD_-_crop.png",
+  "author": {
+    "name": "Quantcast"
+  },
+  "tags": [
+    "Flexible",
+    "Rich",
+    "Quantcast",
+    "Traffic"
+  ],
+  "description": "The Measure API provides flexible access to your rich Quantcast audience and traffic data."
+}

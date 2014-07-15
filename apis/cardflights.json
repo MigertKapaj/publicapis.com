@@ -1,0 +1,15 @@
+{
+  "id": "cardflights",
+  "title": "CardFlight's",
+  "link": "https://getcardflight.com/",
+  "image": "https://getcardflight.com/assets/cardflight-logo-0394b7c6d6bcd401112901b423ce7d55.png",
+  "author": {
+    "name": "CardFlight"
+  },
+  "tags": [
+    "Possible",
+    "Security",
+    "App"
+  ],
+  "description": "CardFlight's API is based around keeping it as simple as possible while keeping the highest level of security at the forefront of all that we do. Take out the pain of PCI-compliance when building your app. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "msw",
+  "title": "MSW",
+  "link": "http://magicseaweed.com/developer/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTzMPfdlN5AsKsNlL3PpfsxRXM11b9OI3AN8xnThSKXi05tD70V_A",
+  "author": {
+    "name": "MSW"
+  },
+  "tags": [
+    "Developers",
+    "Data",
+    "Access",
+    "Activities"
+  ],
+  "description": "The MSW API aims to support both developers and surfers by opening our data for creative and interesting projects. It gives access to core marine weather data purposed specifically for surfing, but useful for a huge range of activities. Basic access is completely free."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zazzle",
+  "title": "Zazzle",
+  "link": "http://www.zazzle.com/sell/developers/rss",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRrTDOFx-w8kJFsgYPnODJXe6uzo-T7rkPwTYbLeHE6QbZeEocp",
+  "author": {
+    "name": "Zazzle"
+  },
+  "tags": [
+    "Provides",
+    "Generate",
+    "Images",
+    "Text"
+  ],
+  "description": "Zazzle provides a simple URL linkover-based API that allows any third party to automatically generate a customized product with dynamic images and text."
+}

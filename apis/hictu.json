@@ -1,0 +1,15 @@
+{
+  "id": "hictu",
+  "title": "Hictu",
+  "link": "http://www.hictu.com/api.advanced.html.php#DeveloperKey",
+  "image": "http://www.hictu.com/images/Logo_small.gif",
+  "author": {
+    "name": "Hictu"
+  },
+  "tags": [
+    "Developer",
+    "Data",
+    "Provided"
+  ],
+  "description": "Welcome to the Hictu API developer documentation! Below you'll a helpful documentation on all of the different methods you can use to get data from Hictu. API Methods that require a particular HTTP method or parameter will return an error if you do not make your request with the provided specifications. "
+}

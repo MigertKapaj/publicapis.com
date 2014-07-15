@@ -1,0 +1,13 @@
+{
+  "id": "geocaching-public",
+  "title": "Geocaching public",
+  "link": "http://www.geocaching.com/live/apidevelopers/",
+  "image": "http://www.geocaching.com/images/logo_print_bw.png",
+  "author": {
+    "name": "Geocaching"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "At the current time, we are no longer accepting new requests for API access. If you already use our API, don't worry, we will continue to support the API for existing partners and you will still be able to help one another in the API Forum."
+}

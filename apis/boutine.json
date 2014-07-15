@@ -1,0 +1,15 @@
+{
+  "id": "boutine",
+  "title": "Boutine",
+  "link": "http://www.boutine.com/endpoints#",
+  "image": "http://d2d2zcd8gql79d.cloudfront.net/assets/logoBeta-0614197b95ff558249e77aa777292c15.png",
+  "author": {
+    "name": "Boutine"
+  },
+  "tags": [
+    "Products",
+    "Website",
+    "Users"
+  ],
+  "description": "Overview: Users can add products and collections to the website. A user can follow other users, and similarly may be followed by other users of the website. "
+}

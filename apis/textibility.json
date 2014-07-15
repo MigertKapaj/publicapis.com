@@ -1,0 +1,16 @@
+{
+  "id": "textibility",
+  "title": "Textibility",
+  "link": "http://textibility.com/",
+  "image": "http://textibility.com/assets/img/banner.png",
+  "author": {
+    "name": "Textibility"
+  },
+  "tags": [
+    "Images",
+    "Generating",
+    "Unlock",
+    "Photograph"
+  ],
+  "description": "Textibility provides a simple, REST API for extracting information from images and documents in a number of formats and generating images and documents from structured data. With a simple, clean HTTP interface and some clever processing we can quickly and easily unlock information captured in photographs and file uploads.\n          "
+}

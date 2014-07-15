@@ -1,0 +1,15 @@
+{
+  "id": "businessusa",
+  "title": "BusinessUSA",
+  "link": "http://business.usa.gov/apis",
+  "image": "http://business.usa.gov/sites/default/files/emover/sites/all/themes/bizusa/images/logo.png",
+  "author": {
+    "name": "BusinessUSA"
+  },
+  "tags": [
+    "Service",
+    "Access",
+    "Data"
+  ],
+  "description": "BusinessUSA connects businesses to many government services and information. The Resource Access API is a service that provides access to BusinessUSA resource abstracts including programs, services, data, events, and more, with a simple API call in XML and CSV formats. "
+}

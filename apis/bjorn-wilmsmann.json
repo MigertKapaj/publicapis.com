@@ -1,0 +1,15 @@
+{
+  "id": "bjorn-wilmsmann",
+  "title": "Björn Wilmsmann\n                                                                        ",
+  "link": "http://www.topicalizer.com/api/",
+  "image": "",
+  "author": {
+    "name": "Björn Wilmsmann\n                                                                        "
+  },
+  "tags": [
+    "Testing",
+    "Resources",
+    "Collection"
+  ],
+  "description": "Creating, testing and maintaining a large JavaScript code base is not easy — especially since great resources on how to do this are hard to find. This page is a collection of the best articles, videos and presentations we've found on the topic."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ppoc-json-http-api",
+  "title": "PPOC - JSON HTTP API ",
+  "link": "http://www.loc.gov/pictures/api",
+  "image": "http://cdn.loc.gov/images/img-head/logo-loc.png",
+  "author": {
+    "name": "Library of Congress"
+  },
+  "tags": [
+    "Print",
+    "Photographs",
+    "Applications",
+    "Data"
+  ],
+  "description": "The Library of Congress' recently re-released Print & Photographs Online Catalog (http://www.loc.gov/pictures/) provides a json serialization of the request-scoped state used to create every html page.  This immediately enables PPOC to serve as a simple API for developers to make use of while building other applications, integrating Library data in new and innovative ways."
+}

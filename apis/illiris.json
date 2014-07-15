@@ -1,0 +1,16 @@
+{
+  "id": "illiris",
+  "title": "Illiri's",
+  "link": "http://www.illiri.com/api.html",
+  "image": "http://www.illiri.com/img/logo-gray.png",
+  "author": {
+    "name": "Illiri"
+  },
+  "tags": [
+    "Devices",
+    "Websites",
+    "Data",
+    "Manages"
+  ],
+  "description": "Illiri's API (SAPI) allows you to establish a connection between two or more devices, computers, or websites by playing a short modulated sound that transmits a unique session id. The actual data transfer is carried out via a low-latency exchange server which manages sessions and redispatches messages."
+}

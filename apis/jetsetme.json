@@ -1,0 +1,15 @@
+{
+  "id": "jetsetme",
+  "title": "JetSetMe",
+  "link": "https://api.jetsetme.com/docs",
+  "image": "https://api.jetsetme.com/assets/logo-f6fbc3ed84bdc12b26ab301ae29b08ea.png",
+  "author": {
+    "name": "JetSetMe"
+  },
+  "tags": [
+    "Obtain",
+    "Triggers",
+    "Authenticate"
+  ],
+  "description": "By using the JetSetMe API you’ll be able to obtain change of country triggers for O2 customers. As you’d expect you’ll have to get customers to opt-in and authenticate your app."
+}

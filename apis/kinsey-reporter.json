@@ -1,0 +1,16 @@
+{
+  "id": "kinsey-reporter",
+  "title": "Kinsey Reporter",
+  "link": "http://kinseyreporter.org/data",
+  "image": "",
+  "author": {
+    "name": "Kinsey Reporter"
+  },
+  "tags": [
+    "Describes",
+    "Components",
+    "Data",
+    "Mobile"
+  ],
+  "description": "An application programming interface (API) describes how software components can communicate with each other. Use the Kinsey Reporter API to obtain the data collected from the Kinsey Reporter mobile apps."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "repustate",
+  "title": "Repustate",
+  "link": "https://www.repustate.com/docs/",
+  "image": "https://www.repustate.com/media/images/logo.png",
+  "author": {
+    "name": "Repustate"
+  },
+  "tags": [
+    "Sentiments",
+    "Data",
+    "Arguments",
+    "Text"
+  ],
+  "description": "Repustate's sentiment analysis allows you to determine the sentiment (how people \"feel\" about a particular topic) from any data source you have access to. Like most of Repustate's API calls, you have a choice of how to specify your arguments. You can supply one of a block of text, a single URL, or a list of URLs."
+}

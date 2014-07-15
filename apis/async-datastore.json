@@ -1,0 +1,15 @@
+{
+  "id": "async-datastore",
+  "title": "Async Datastore",
+  "link": "https://developers.google.com/appengine/docs/java/datastore/async",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Datastore",
+    "Documentation",
+    "Parallel"
+  ],
+  "description": "The Async Datastore API allows you to make parallel, non-blocking calls to the datastore and to retrieve the results of these calls at a later point in the handling of the request. This documentation describes the following aspects of the Async Datastore API: "
+}

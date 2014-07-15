@@ -1,0 +1,13 @@
+{
+  "id": "products-service-description",
+  "title": "Products Service Description",
+  "link": "https://api.clickbank.com/rest/1.3/products",
+  "image": "",
+  "author": {
+    "name": "Citibank"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

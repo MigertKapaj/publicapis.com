@@ -1,0 +1,15 @@
+{
+  "id": "bmycharity",
+  "title": "bmycharity",
+  "link": "http://bmycharity-api.heroku.com/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnjtfIFuSm6lDuFhKLY_ymL_bZlhU7rfLQ5uM5OC1lBMLjG404Zg",
+  "author": {
+    "name": "bmycharity"
+  },
+  "tags": [
+    "Provided",
+    "Donations",
+    "Details"
+  ],
+  "description": "Data provided via the API include variables such as, Donation amount, Gift Aid amount, Charity logo, Charity info, Donations (including messages, names, dates & amounts from users)... more details in the API section."
+}

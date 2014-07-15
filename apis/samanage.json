@@ -1,0 +1,16 @@
+{
+  "id": "samanage",
+  "title": "Samanage",
+  "link": "http://www.samanage.com/api/index.html",
+  "image": "http://www.samanage.com/sites/samanage.com/files/samanage-logo_0.png",
+  "author": {
+    "name": "Samanage"
+  },
+  "tags": [
+    "Retrieve",
+    "Asset",
+    "Create",
+    "Interface"
+  ],
+  "description": "Samanage provides an API that can be used to retrieve and update asset inventory information from your Samanage account. The Samanage API also allows to create, retrieve, update and delete asset information such as computers, software, printers, risks and other assets, contracts and software licenses, and help desk tickets. The API makes it easy to create applications and interface between your business systems and your Samanage account.  "
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mybizmailer",
+  "title": "MyBizMailer",
+  "link": "http://mybizmailer.com/api.aspx",
+  "image": "http://mybizmailer.com/images/mybizmailermainlogo.png",
+  "author": {
+    "name": "MyBizMailer"
+  },
+  "tags": [
+    "Data",
+    "Requested"
+  ],
+  "description": "MyBizMailer API returns XML and JSON data formats. The format for the data is based on the URL requested.Samples for each data type are given on specific examples."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "easy-forex",
+  "title": "easy-forex",
+  "link": "http://www.easy-forex.com/int/developers/",
+  "image": "http://www.easy-forex.com/int/wp-content/themes/easyforex/images/easy-forex-logo_240x60.png",
+  "author": {
+    "name": "easy-forex"
+  },
+  "tags": [
+    "Integration",
+    "Access",
+    "Data",
+    "Service"
+  ],
+  "description": "easy-forex® qualified clients gain access to API solutions enabling trade integration and application development. Advanced integration options are made available so that clients may access unique easy-forex® data bundles, including streaming rate feeds, execution and market information services."
+}

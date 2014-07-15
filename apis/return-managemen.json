@@ -1,0 +1,16 @@
+{
+  "id": "return-managemen",
+  "title": "Return Managemen",
+  "link": "http://developer.ebay.com/Devzone/return-management/Concepts/MakingACall.html",
+  "image": "http://developer.ebay.com/Devzone/return-management/assets/eBayDevLogo_sm.gif",
+  "author": {
+    "name": "Return Managemen"
+  },
+  "tags": [
+    "Retrieve",
+    "Information",
+    "Parameters",
+    "Convention"
+  ],
+  "description": "Return Management API is a SOA service that provides US and UK sellers a programmatic way to retrieve and manage buyer returns initiated through the eBay Return Center. High-level information for the service are covered below, including serviceendpoints, HTTP headers and URL parameters, naming conventions, and versioning scheme."
+}

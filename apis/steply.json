@@ -1,0 +1,16 @@
+{
+  "id": "steply",
+  "title": "steply",
+  "link": "http://steply.com/docs/api",
+  "image": "http://d24cjttk4964jo.cloudfront.net/REV_f0c1bbc1753cd8f92405278e51cd6abb70d3dd3f/images/v1/steply_logo.png",
+  "author": {
+    "name": "steply"
+  },
+  "tags": [
+    "Photo",
+    "Sharers",
+    "Services",
+    "Tap"
+  ],
+  "description": "Steply connects your app to a community of photo sharers, across a growing array of photo apps and websites. Want to easily share photos? We have all the major services included and it shares to them all with just one tap.  "
+}

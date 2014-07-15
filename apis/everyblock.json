@@ -1,0 +1,14 @@
+{
+  "id": "everyblock",
+  "title": "EveryBlock",
+  "link": "http://www.everyblock.com/apidocs/",
+  "image": "https://static.everyblock.com/images/logo.png",
+  "author": {
+    "name": "EveryBlock"
+  },
+  "tags": [
+    "Access",
+    "Important"
+  ],
+  "description": "This API is designed to provide you with raw access to the latest neighborhood news on EveryBlock, across all of the current EveryBlock metros. But because EveryBlock deals with a diversity of news -- we index everything from blog posts to crime reports, and information varies by city -- you'll need to understand some important things before you dive into the API:"
+}

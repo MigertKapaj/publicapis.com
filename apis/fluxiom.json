@@ -1,0 +1,15 @@
+{
+  "id": "fluxiom",
+  "title": "Fluxiom",
+  "link": "http://www.fluxiom.com/api/",
+  "image": "http://www.fluxiom.com/assets/embed/logos/fluxiom-881e4e336a19a596a2092835ca9c632d.png",
+  "author": {
+    "name": "Fluxiom"
+  },
+  "tags": [
+    "Connect",
+    "Assets",
+    "Workflow"
+  ],
+  "description": "The Fluxiom API allows you to hook into Fluxiom and connect it with other apps. \nIt can be used for retrieving and uploading assets, querying metadata, and more. \nThis enables Fluxiom to easily integrate with your workflow and the tools you already use."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "circleci",
+  "title": "CircleCI",
+  "link": "https://circleci.com/docs",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS8_od8GuGeVGFhKeHDDrIBcQHIf8rD9AkGCCdyPPfyP2W7k_55",
+  "author": {
+    "name": "CircleCI"
+  },
+  "tags": [
+    "Access",
+    "Information",
+    "Billing",
+    "Web"
+  ],
+  "description": "The CircleCI API is a RESTy, fully-featured API that allows you to do almost anything in CircleCI. You can access all information and trigger all actions. The only thing we don't provide access to is billing functions, which must be done from the CircleCI web UI."
+}

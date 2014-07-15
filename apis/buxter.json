@@ -1,0 +1,16 @@
+{
+  "id": "buxter",
+  "title": "Buxter",
+  "link": "http://wiki.buxter.com/w/page/23293980/Home",
+  "image": "",
+  "author": {
+    "name": "Buxter"
+  },
+  "tags": [
+    "Payment",
+    "Transcation",
+    "Orange",
+    ""
+  ],
+  "description": "The Buxter API was designed to provide you with a safe and simple solution for your payment needs. This simplicity is reflected in the APIcalls that make up a transaction. There are only three calls - marked as orange, in the illustration on the left hand side."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mondor-software",
+  "title": "Mondor Software",
+  "link": "http://www.mondor.org/cr.aspx",
+  "image": "",
+  "author": {
+    "name": "Mondor Software"
+  },
+  "tags": [
+    "Automatically",
+    "Balance",
+    "Recharge"
+  ],
+  "description": "Our API allows to recharge keys automatically - your application is requesting. The balance of your key, which is a free request, and checks whether the amount of calls is reaching some defined minimum (say, a common daily use), or if the expiration date is closing. It then recharges the existing key with pre-acquired  recharge key. Recharge key allows you to use the same original key which you have acquired  initially, to avoid changing your code or configuration files just because your  old key is expired. You simply recharge your existing key.\n"
+}

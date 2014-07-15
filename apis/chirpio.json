@@ -1,0 +1,15 @@
+{
+  "id": "chirpio",
+  "title": "Chirpio",
+  "link": "http://api.chirpio.com",
+  "image": "http://www.chirpio.com/static/img/logos/chirpio.png",
+  "author": {
+    "name": "Chirpio"
+  },
+  "tags": [
+    "App",
+    "Retrieve",
+    "Score"
+  ],
+  "description": "Use the Chirpio API to let Twitter users rate each other through your app or web site. You can also retrieve the current ratings and score of any Twitter user that has been rated on Chirpio."
+}

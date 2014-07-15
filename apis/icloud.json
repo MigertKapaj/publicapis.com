@@ -1,0 +1,16 @@
+{
+  "id": "icloud",
+  "title": "iCloud",
+  "link": "https://developer.apple.com/icloud/index.php",
+  "image": "https://devimages.apple.com.edgekey.net/assets/elements/header/developer.png",
+  "author": {
+    "name": "Apple"
+  },
+  "tags": [
+    "Store",
+    "Automatically",
+    "Seamless",
+    "Across"
+  ],
+  "description": "iCloud Storage APIs enable your apps to store content in iCloud, keeping your apps up to date automatically. Use iCloud to give your users a consistent and seamless experience across iCloud-enabled devices."
+}

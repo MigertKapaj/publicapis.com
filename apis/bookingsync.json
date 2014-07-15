@@ -1,0 +1,14 @@
+{
+  "id": "bookingsync",
+  "title": "BookingSync",
+  "link": "http://www.bookingsync.com/documentation/api",
+  "image": "http://asset2.bookingsync.com/assets/public/bookingsync-b892dd0e1185659e4b297947dbf81fb7.png",
+  "author": {
+    "name": "BookingSync"
+  },
+  "tags": [
+    "Existing",
+    "Authenticating"
+  ],
+  "description": "When you're using the API, it's always through an existing user in BookingSync. There's no special API user. So when you use the API as \"seb\", you get to see and work with what \"seb\" is allowed to. Authenticating is done with an authentication token, which you'll find on the \"Profile\" screen in BookingSync."
+}

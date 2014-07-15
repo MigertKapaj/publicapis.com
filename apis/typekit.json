@@ -1,0 +1,15 @@
+{
+  "id": "typekit",
+  "title": "Typekit",
+  "link": "https://typekit.com/docs/api/auth",
+  "image": "https://typekit.com/assets/typekit-logo-white-1420adedb96ea5d28dc8522651f23e6d.png",
+  "author": {
+    "name": "Adobe Typekit"
+  },
+  "tags": [
+    "Access",
+    "Publish",
+    "Metadata"
+  ],
+  "description": "The Typekit API gives you programmatic access to the functionality of Typekit over a RESTful HTTP based API. It allows you to programmatically create, modify and publish kits, and fetch metadata about all the fonts in the Typekit library."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "amazon-fps",
+  "title": "Amazon FPS",
+  "link": "https://amazonpayments.s3.amazonaws.com/FPS_ASP_Guides/ASP_Getting_Started_Guide.pdf",
+  "image": "https://images-na.ssl-images-amazon.com/images/G/01/Iris3_US/en_US/inca/images/AP_HLogo_215x35-3012530377._V360408447_.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Service",
+    "Developers",
+    "Provides"
+  ],
+  "description": "Amazon Flexible Payments Service (Amazon FPS) is the first payments service designed from the ground up for developers. It is built on top of Amazon’s reliable and scalable payments infrastructure and provides developers with a convenient way to charge Amazon’s tens of millions of customers (with their permission, of course!)."
+}

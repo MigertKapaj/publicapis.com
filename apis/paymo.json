@@ -1,0 +1,15 @@
+{
+  "id": "paymo",
+  "title": "Paymo",
+  "link": "http://api.paymo.biz/",
+  "image": "http://api.paymo.biz/images/paymo_logo.jpg",
+  "author": {
+    "name": "Paymo"
+  },
+  "tags": [
+    "Callable",
+    "Request",
+    "Specifying"
+  ],
+  "description": "The Paymo API consists of a set of callable methods. To perform an action using the Paymo API, you need to send a request to the Paymo webservice specifying a method and some arguments, and will receive a formatted response."
+}

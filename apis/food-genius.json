@@ -1,0 +1,15 @@
+{
+  "id": "food-genius",
+  "title": "Food Genius",
+  "link": "http://getfoodgenius.com/food-genius-reports",
+  "image": "http://getfoodgenius.com/img/logo.png",
+  "author": {
+    "name": "Food Genius"
+  },
+  "tags": [
+    "Provides",
+    "Data",
+    "Services"
+  ],
+  "description": "Food Genius provides a suite of foodservice data analysis tools and experienced insights services from our team of industry analysts. "
+}

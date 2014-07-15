@@ -1,0 +1,14 @@
+{
+  "id": "moviemeter",
+  "title": "MovieMeter",
+  "link": "http://wiki.moviemeter.nl/index.php/API",
+  "image": "http://wiki.moviemeter.nl/skins/common/images/mediawiki.png",
+  "author": {
+    "name": "MovieMeter"
+  },
+  "tags": [
+    "Webservice",
+    ""
+  ],
+  "description": "The MovieMeter API is a XML-RPC webservice which you can use to retrieve film information in Dutch. \nThis API is not intented to provide a complete set of MovieMeter functionalities, for instance the API doesn't provide operations to log in, vote or place new messages."
+}

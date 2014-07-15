@@ -1,0 +1,16 @@
+{
+  "id": "dragonpays",
+  "title": "Dragonpay’s",
+  "link": "http://www.dragonpay.ph/developers",
+  "image": "http://www.dragonpay.ph/wp-content/themes/wp365_theme/img/logo_dragonpay.png",
+  "author": {
+    "name": "Dragonpay"
+  },
+  "tags": [
+    "Communicate",
+    "Convention",
+    "Robust",
+    "Developers"
+  ],
+  "description": "Merchant e-commerce sites can communicate directly with Dragonpay by following this link to our API.  Direct communication to Dragonpay’s system can be established using the widely used name-value pair convention for parameter passing, or the more secure and robust, XML-based Web Service model. For PHP developers, you may download this sample PHP script and modify it."
+}

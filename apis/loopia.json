@@ -1,0 +1,15 @@
+{
+  "id": "loopia",
+  "title": "Loopia",
+  "link": "https://www.loopia.com/api/",
+  "image": "https://static.loopia.se/responsive/images/header/logo.png",
+  "author": {
+    "name": "Loopia"
+  },
+  "tags": [
+    "Available",
+    "Automate",
+    "Domain"
+  ],
+  "description": "LoopiaAPI gives you the functionality available in Loopia Customer zone and Loopia Resellerzone via XML-RPC. In this way, you have the opportunity to fully automate things like administration and registration of domain names. "
+}

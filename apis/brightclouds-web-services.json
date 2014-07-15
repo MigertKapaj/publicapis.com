@@ -1,0 +1,16 @@
+{
+  "id": "brightclouds-web-services",
+  "title": "BrightCloud's Web Services",
+  "link": "https://bcws.brightcloud.com/",
+  "image": "http://www.brightcloud.com/images/webrootImages/brightcloud-webroot-logo.png",
+  "author": {
+    "name": "BrightCloud's Security Services"
+  },
+  "tags": [
+    "Database",
+    "Developers",
+    "Websites",
+    "Processes"
+  ],
+  "description": "BrightCloud's Web Services (BCWS) makes the world's best web filtering database available to developers. Using the BCWS, developers can understand websites in unique and interesting ways without having to develop the large, scalable, and expensive databases or processes required to accurately classify millions of websites."
+}

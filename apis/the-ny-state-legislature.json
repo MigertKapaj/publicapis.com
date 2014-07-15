@@ -1,0 +1,16 @@
+{
+  "id": "the-ny-state-legislature",
+  "title": "The NY State Legislature ",
+  "link": "http://developer.nytimes.com/docs/ny_state_leg_api",
+  "image": "http://developer.nytimes.com/files/NYTDevLogo.png",
+  "author": {
+    "name": " NY State Legislature "
+  },
+  "tags": [
+    "Deprecated",
+    "Provides",
+    "Legislature",
+    "Summaries"
+  ],
+  "description": " This API has been deprecated. For an API that provides information on the New York State legislature, we recommend the Open States API. With the NY State Legislature API, you can get lists of New York  State Senate and Assembly members, member details and committee information, and bill summaries and details. Vote data will be added in a later release."
+}

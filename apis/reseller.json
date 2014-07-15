@@ -1,0 +1,16 @@
+{
+  "id": "reseller",
+  "title": "Reseller",
+  "link": "http://www.resellerspanel.com/api/",
+  "image": "http://www.resellerspanel.com/reseller_hosting_files/reseller-hosting-logo.gif",
+  "author": {
+    "name": "Reseller Panel"
+  },
+  "tags": [
+    "Product",
+    "Service",
+    "System",
+    "Management"
+  ],
+  "description": "Your reseller profit will be the difference between our wholesale prices and the retail prices, which you set for each product. Each of our resellers can take advantage of all the benefits the Free Reseller Program has to offer - free turn-key front-store templates, full service branding, a flexible wallet system, easy store setup and management, and much much more. "
+}

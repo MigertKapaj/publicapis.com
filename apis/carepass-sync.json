@@ -1,0 +1,15 @@
+{
+  "id": "carepass-sync",
+  "title": "CarePass Sync",
+  "link": "https://developer.carepass.com/page",
+  "image": "https://developer.carepass.com/files/logo.png",
+  "author": {
+    "name": "CarePass Sync"
+  },
+  "tags": [
+    "Connect",
+    "Ecosystem",
+    "Data"
+  ],
+  "description": "The CarePass Sync API allows your app to connect to the CarePass platform through user-based permissioning (OAuth). Once connected, your app becomes a node within the CarePass ecosystem, allowing your app to contribute to and consume data from a user’s CarePass account."
+}

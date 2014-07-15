@@ -1,0 +1,15 @@
+{
+  "id": "linked-jazz",
+  "title": "Linked Jazz",
+  "link": "http://linkedjazz.org/api/",
+  "image": "http://linkedjazz.org/image/jl_logo_small.png",
+  "author": {
+    "name": "Linked Jazz"
+  },
+  "tags": [
+    "Explains",
+    "Data",
+    "Analysis"
+  ],
+  "description": "This document explains the Linked Jazz API which returns data from the project's transcript analysis and crowdsourcing programs."
+}

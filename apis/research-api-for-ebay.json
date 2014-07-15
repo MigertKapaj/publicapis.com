@@ -1,0 +1,15 @@
+{
+  "id": "research-api-for-ebay",
+  "title": "Research API for eBay",
+  "link": "https://www.x.com/developers/ebay/products/research-api-ebay",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "ebay"
+  },
+  "tags": [
+    "Retrieve Pricing",
+    "Trend Analysis",
+    "Retrieve Statistics"
+  ],
+  "description": "Research APIs is used for eBay to retrieve pricing, statistics and trend analysis on historical eBay data."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "getbeezy",
+  "title": "GetBeezy",
+  "link": "http://findmespecials.com/api_specials",
+  "image": "http://findmespecials.com/assets/bg_api_header.png",
+  "author": {
+    "name": "GetBeezy"
+  },
+  "tags": [
+    "Data",
+    "Publish",
+    "Distribute"
+  ],
+  "description": "GetBeezy collects and validates the data, so you don't have to...and with PromoterBee, business owners can publish and distribute new specials and events instantly!"
+}

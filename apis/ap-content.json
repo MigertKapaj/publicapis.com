@@ -1,0 +1,16 @@
+{
+  "id": "ap-content",
+  "title": "AP Content",
+  "link": "http://developer.ap.org/AP_Metadata_Services",
+  "image": "https://developer.ap.org/sites/all/themes/ap_responsive/logo.png",
+  "author": {
+    "name": "AP Content"
+  },
+  "tags": [
+    "Search",
+    "Download",
+    "Editorial",
+    "Website"
+  ],
+  "description": "AP Content API allows you to search and download AP Images content using your own editorial tools, without having to visit the AP Images website."
+}

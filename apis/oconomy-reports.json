@@ -1,0 +1,16 @@
+{
+  "id": "oconomy-reports",
+  "title": "oConomy Reports",
+  "link": "http://developers.odesk.com/w/page/33540293/oConomy%20Reports%20API",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Google",
+    "Reports",
+    "Data",
+    "Model"
+  ],
+  "description": "The oConomy reports API uses the Google Visualization API's query language to to serve the oConomy reports listed below. In order to use the reports API you need to understand the data model accessible as well as the supported Google query language elements. Please see the oDesk Google Data Source Language page for a detailed description of what's available."
+}

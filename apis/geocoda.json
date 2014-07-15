@@ -1,0 +1,16 @@
+{
+  "id": "geocoda",
+  "title": "Geocoda",
+  "link": "https://geocoda.com/developer/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoPjXnMoWKwttbZ49yGig8WTf2gQ1plbzTwQzmRPk9qDZ-pEzT",
+  "author": {
+    "name": "Geocoda Api"
+  },
+  "tags": [
+    "Organized",
+    "Storage",
+    "Discover",
+    "Data"
+  ],
+  "description": "The Geocoda API is organized into two major feature groups: Location and Storage. The Location API allows callers to discover detailed information about places. The Storage API allows you to store and query geospatial data."
+}

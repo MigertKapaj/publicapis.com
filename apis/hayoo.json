@@ -1,0 +1,15 @@
+{
+  "id": "hayoo",
+  "title": "Hayoo",
+  "link": "http://holumbus.fh-wedel.de/hayoo/api.html",
+  "image": "http://holumbus.fh-wedel.de/hayoo/hayoo.png",
+  "author": {
+    "name": "Hayoo"
+  },
+  "tags": [
+    "Provides",
+    "Webservice",
+    "Search"
+  ],
+  "description": "Hayoo! provides a JSON-based webservice API, which can be used to retrieve search results in a structured format. This allows one to include Hayoo! search functionality in other applications."
+}

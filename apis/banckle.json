@@ -1,0 +1,16 @@
+{
+  "id": "banckle",
+  "title": "Banckle",
+  "link": "http://banckle.com/wiki/display/meeting/get-meeting-feature-settings.html",
+  "image": "http://banckle.com/resources/theme/v3/images/bg/logo.png",
+  "author": {
+    "name": "Banckle"
+  },
+  "tags": [
+    "Partners",
+    "Multiple",
+    "Override",
+    "Apps"
+  ],
+  "description": "Banckle Apps Suite is accompanied with a set of APIs that lets all our partners and third-party developers to create new and exciting applications by interacting with single or multiple Banckle Apps and borrow some of its features. Also if you feel something is not precisely how you want it to be, you may override it. Extend and tweak the capabilities of Banckle Apps by introducing your own code."
+}

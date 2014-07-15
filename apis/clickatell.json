@@ -1,0 +1,15 @@
+{
+  "id": "clickatell",
+  "title": "Clickatell",
+  "link": "http://americas.clickatell.com/apis-scripts/apis/xml/",
+  "image": "http://americas.clickatell.com/wp-content/uploads/2013/12/clickatell-logo-usa1.png",
+  "author": {
+    "name": "Clickatell"
+  },
+  "tags": [
+    "System",
+    "Provides",
+    "Independent"
+  ],
+  "description": "XML makes it simple to integrate legacy systems to our gateway. It provides excellent interoperability amongst heterogeneous systems and is, of course, language independent."
+}

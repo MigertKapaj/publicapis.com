@@ -1,0 +1,16 @@
+{
+  "id": "srm",
+  "title": "SRM",
+  "link": "https://sdm.lbl.gov/srm-wg/",
+  "image": "https://sdm.lbl.gov/images/sdmlogo-s2.jpg",
+  "author": {
+    "name": "SRM"
+  },
+  "tags": [
+    "Concepts",
+    "Expanded",
+    "Storage",
+    "Reservation"
+  ],
+  "description": "This document contains the concepts and interface specification of SRM 2.2. It incorporates the functionality of SRM 2.0 and SRM 2.1, but is much expanded to include additional functionality, especially in the area of dynamic storage space reservation and directory functionality in client-acquired storage spaces."
+}

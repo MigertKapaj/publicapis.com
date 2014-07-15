@@ -1,0 +1,15 @@
+{
+  "id": "random-image",
+  "title": "Random Image",
+  "link": "http://randomimage.setgetgo.com/",
+  "image": "",
+  "author": {
+    "name": "Random Image"
+  },
+  "tags": [
+    "Easiest",
+    "Random",
+    "Web"
+  ],
+  "description": "The easiest easy way to get a random image from the Web (built on top of setgetgo.com) -- now with dandy support for mandelbrot fractals."
+}

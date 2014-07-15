@@ -1,0 +1,16 @@
+{
+  "id": "urdb",
+  "title": "URDB ",
+  "link": "http://wiki.urdb.org/home/api",
+  "image": "http://wiki.urdb.org/_/rsrc/1310000464918/config/customLogo.gif?revision=2",
+  "author": {
+    "name": "Record Setter"
+  },
+  "tags": [
+    "Tailored",
+    "Application",
+    "Simple",
+    "HTTP."
+  ],
+  "description": "This document outlines a proposal for a RESTful web services interface to the URDB web application. While the API is tailored to the specific needs of the iPhone application as collaboratively designed by the URDB and Two Toasters teams, it is generic enough to provide a generally available client API. The API will be implemented via simple HTTP form encoded requests and JSON formatted responses."
+}

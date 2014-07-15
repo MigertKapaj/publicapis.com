@@ -1,0 +1,16 @@
+{
+  "id": "exversion",
+  "title": "Exversion",
+  "link": "https://www.exversion.com/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS0I_GDakTYKOA4Emn8MgPjpaToMA1-0Fe9J4NWrZtT0b-wpm7g1g",
+  "author": {
+    "name": "Exversion"
+  },
+  "tags": [
+    "Requests",
+    "Data",
+    "Programmatically",
+    "Interface"
+  ],
+  "description": "Exversion's API allows you to access any dataset through HTTP Requests. Data the user owns or collaborates on can also be manipulated programmatically, bypassing the web interface completely. In cases where the data is poorly formatted or larger than what the uploader supports, the API may be more convenient"
+}

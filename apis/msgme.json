@@ -1,0 +1,15 @@
+{
+  "id": "msgme",
+  "title": "Msgme",
+  "link": "http://www.msgme.com/c/DevDoc?page=overview",
+  "image": "http://www.msgme.com/images/visitor/logo_msgme.png",
+  "author": {
+    "name": "Msgme"
+  },
+  "tags": [
+    "Token",
+    "Element",
+    "Post"
+  ],
+  "description": "APIs that request information from Msgme use the HTTP GET method. Those that write data to Msgme use the POST method. GET requests require a token, which can be obtained through an API key. POST requests must be wrapped in an apiRequest element. One of the attributes of the request is the token. All the parameters in a POST method are wrapped by an element of the same element name."
+}

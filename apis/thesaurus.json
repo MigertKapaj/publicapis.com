@@ -1,0 +1,16 @@
+{
+  "id": "thesaurus",
+  "title": "Thesaurus",
+  "link": "http://thesaurus.altervista.org/",
+  "image": "http://s0.2mdn.net/3018670/728x90_ds3Aprile_promo.jpg",
+  "author": {
+    "name": "Thesaurus"
+  },
+  "tags": [
+    "Web",
+    "Search",
+    "Synonyms",
+    "Dictionaries"
+  ],
+  "description": "Thesaurus is a web service providing search capability for synonyms in different languages.The synonyms are retrieved from the thesauri dictionaries of OpenOffice according to the relevant licenses.\n\n"
+}

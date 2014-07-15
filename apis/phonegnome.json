@@ -1,0 +1,15 @@
+{
+  "id": "phonegnome",
+  "title": "PhoneGnome",
+  "link": "http://my.phonegnome.com/api/",
+  "image": "http://my.phonegnome.com/api/images/myapi_banner.gif",
+  "author": {
+    "name": "My PhoneGnome"
+  },
+  "tags": [
+    "Owners",
+    "Interacting",
+    "Programs"
+  ],
+  "description": "Welcome to the PhoneGnome API. This site is for PhoneGnome owners who are interested in interacting with PhoneGnome from other programs, interfaces, or environments. "
+}

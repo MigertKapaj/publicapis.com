@@ -1,0 +1,16 @@
+{
+  "id": "onconnect",
+  "title": "OnConnect ",
+  "link": "http://developer.tmsapi.com",
+  "image": "http://developer.tmsapi.com/files/logo.png",
+  "author": {
+    "name": "OnConnect "
+  },
+  "tags": [
+    "Emtertainment",
+    "Movie",
+    "Schedules",
+    "Data"
+  ],
+  "description": "Tribune Media Services provides a wide range of entertainment information, including TV and movie schedules, comprehensive program information, and detailed celebrity details  The Data Delivery APIs now provide simple read-only access to this up-to-date entertainment information.  Additional services, such as Online Video and Social APIs and Media Cloud, can provide integration points for an even richer user entertainment experience."
+}

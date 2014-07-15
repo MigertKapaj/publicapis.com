@@ -1,0 +1,16 @@
+{
+  "id": "timezonedb",
+  "title": "TimezoneDb",
+  "link": "http://timezonedb.com/api",
+  "image": "http://timezonedb.com/images/logo.png",
+  "author": {
+    "name": "TimezoneDb"
+  },
+  "tags": [
+    "Convert",
+    "Latitude",
+    "Longitude",
+    "time zone information"
+  ],
+  "description": "TimezoneDb provides simple RESTful interface API and returns structured XML or JSON responses. Our API converts latitude & longitude to time zone data. You also able to retrieve time zone information for a specific zone. You need to register a free API key to start using our services.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "morale",
+  "title": "Morale",
+  "link": "https://www.teammorale.com/docs/api",
+  "image": "https://www.teammorale.com/images/logo.png?1358195046",
+  "author": {
+    "name": "Morale"
+  },
+  "tags": [
+    "Interact",
+    "Accounts",
+    "Projects",
+    "Tickets"
+  ],
+  "description": "Our API allows you to interact programmatically with Morale from your own applications. The Morale API\nallows you to interact with the following resources: Accounts, Projects & Tickets.\nThe restful API can be accessed over HTTP and/or HTTPS using verbs (GET, POST, PUT, and DELETE). The API currently\nonly supports JSON as the result format.\n"
+}

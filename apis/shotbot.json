@@ -1,0 +1,15 @@
+{
+  "id": "shotbot",
+  "title": "Shotbot",
+  "link": "http://www.shotbot.fr/doc-api-shotbot.php",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTFsfwxWWB2qb82QruqKuXuovMzP7Aujq7z-iULsOHNjSouubqzOg",
+  "author": {
+    "name": "Shotbot"
+  },
+  "tags": [
+    "Optimal",
+    "Service",
+    "Courts"
+  ],
+  "description": "Pour garantir à chaque utilisateur un rendu optimal, une qualité de service irréprochable, et des délais de traitement très courts, Shotbot propose plusieurs niveaux d'accès à son API."
+}

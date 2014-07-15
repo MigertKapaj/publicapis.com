@@ -1,0 +1,16 @@
+{
+  "id": "tfrrs",
+  "title": "TFRRS",
+  "link": "http://www.tfrrs.org/director_faq.html",
+  "image": "http://d3rdyu12qfqk51.cloudfront.net/logo.png",
+  "author": {
+    "name": "TFRRS"
+  },
+  "tags": [
+    "Management",
+    "Developers",
+    "Connection",
+    "Service"
+  ],
+  "description": "Non-Hy-Tek users can upload a CSV file in a standardized TFRRS format. All meet management software developers are encouraged to export in this format or implement a direct connection to TFRRS using the Web Services API. "
+}

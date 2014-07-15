@@ -1,0 +1,15 @@
+{
+  "id": "the-textwise",
+  "title": "The TextWise",
+  "link": "http://textwise.com/api",
+  "image": "http://textwise.com/sites/all/themes/TextWiseKFM/logo.png",
+  "author": {
+    "name": "TextWise"
+  },
+  "tags": [
+    "Developers",
+    "Leverage",
+    "Technology"
+  ],
+  "description": "The TextWise API was designed to let developers leverage the power of both our core technology, Semantic Gist®, and it's predecessor technology, Trainable Semantic Vectors (TSV). This simple API allows anyone to extract detailed Semantic key concepts from a document of any size. The technology is hosted remotely on the TextWise Semantic Cloud. This cloud based service eases the burden on your computing network while providing access to power of our semantic technology."
+}

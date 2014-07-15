@@ -1,0 +1,15 @@
+{
+  "id": "smartwaiver",
+  "title": "Smartwaiver",
+  "link": "https://www.smartwaiver.com/p/api",
+  "image": "https://www.smartwaiver.com/images/home/sw_logo_1.gif",
+  "author": {
+    "name": "Smartwaiver"
+  },
+  "tags": [
+    "Database",
+    "Information",
+    "Customer"
+  ],
+  "description": "Integrate Smartwaiver with your CMS, local database, and more. All participant information that was submitted by your customer is accessible (e.g: Full Name, Date of Birth, Custom Questions etc). All PDF files are accessible as well."
+}

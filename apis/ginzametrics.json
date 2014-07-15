@@ -1,0 +1,16 @@
+{
+  "id": "ginzametrics",
+  "title": "GinzaMetrics",
+  "link": "http://www.ginzametrics.com/api/getting-started/",
+  "image": "http://www.ginzametrics.com/wp-content/themes/ginzametrics/img/sprite.png",
+  "author": {
+    "name": "GinzaMetrics"
+  },
+  "tags": [
+    "Robust",
+    "Dashboards",
+    "Reporting",
+    "Provision"
+  ],
+  "description": "Developers use our robust API every day to build their own custom dashboards, connect to other platforms, automate reporting, provision sites and much more. "
+}

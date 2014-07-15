@@ -1,0 +1,15 @@
+{
+  "id": "bizimply",
+  "title": "Bizimply",
+  "link": "http://www.bizimply.com/help-developer-api.html#overview",
+  "image": "http://www.bizimply.com/img/logo.png",
+  "author": {
+    "name": "Bizimply"
+  },
+  "tags": [
+    "Companies",
+    "System",
+    "Populate"
+  ],
+  "description": "The Bizimply API enables companies to populate shift metrics through an automated system e.g. be able to populate shift sales taken from an EPOS system (Electronic Point of Sales)."
+}

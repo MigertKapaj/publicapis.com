@@ -1,0 +1,15 @@
+{
+  "id": "zoho-invoice",
+  "title": "Zoho Invoice",
+  "link": "http://www.zoho.com/invoice/api/index.html",
+  "image": "http://www.zoho.com/invoice/images/invoice.png",
+  "author": {
+    "name": "Zoho Invoice"
+  },
+  "tags": [
+    "Mobile",
+    "Timesheet",
+    "Programming"
+  ],
+  "description": "Zoho Invoice provides an API (Application Programming Interface) using which you can integrate it with any of your existing applications such as invoice applications for mobiles, timesheet application, ticketing system. The Zoho Invoice API responds to requests in an XML format and is programming language-neutral; allowing you to develop applications in a language you are familiar with. "
+}

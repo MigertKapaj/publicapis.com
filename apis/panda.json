@@ -1,0 +1,15 @@
+{
+  "id": "panda",
+  "title": "Panda",
+  "link": "http://www.pandastream.com/docs/api",
+  "image": "http://www.pandastream.com/images/content/logo.png",
+  "author": {
+    "name": "Panda"
+  },
+  "tags": [
+    "Videos",
+    "Cloud",
+    "Libraries"
+  ],
+  "description": "At the core of Panda is a REST API which supports uploading and managing of videos, encodings and output profiles.Every Panda account has a number of clouds. Each cloud defines a single storage for your uploaded videos, resulting encodings and thumbnails.Typically you will want to create a separate cloud for each website you plan to integrate Panda into. You can also use clouds to separate production and staging environmentsTo access the API there are client libraries available in many languages: See all client libraries. Refer to the API Docs when using the API. All API responses are JSON-formatted."
+}

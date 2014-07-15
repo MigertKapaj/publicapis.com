@@ -1,0 +1,15 @@
+{
+  "id": "inside-idaho",
+  "title": "INSIDE Idaho",
+  "link": "http://insideidaho.org/webservices.html",
+  "image": "http://insideidaho.org/images/header.jpg",
+  "author": {
+    "name": "INSIDE Idaho"
+  },
+  "tags": [
+    "Platform",
+    "Access",
+    "Data"
+  ],
+  "description": "The INSIDE Idaho platform consists of hardware and software optimized to provide high-availability and high-throughput access to large geospatial data sets."
+}

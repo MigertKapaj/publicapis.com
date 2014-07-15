@@ -1,0 +1,15 @@
+{
+  "id": "twitxr",
+  "title": " Twitxr",
+  "link": "http://twitxr.com/public_api.php/",
+  "image": "http://twitxr.com/img/logo.gif",
+  "author": {
+    "name": " Twitxr"
+  },
+  "tags": [
+    "Interact",
+    "Integrated",
+    "Develop"
+  ],
+  "description": "The Twitxr Application Programming Interface (API) has been created to let users and partners develop applications which can interact with Twitxr. The API returns Twitxr data in a form that can be easily integrated into any application or web site. The API is available to everyone free of charge, please don't abuse."
+}

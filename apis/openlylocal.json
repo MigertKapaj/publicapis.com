@@ -1,0 +1,15 @@
+{
+  "id": "openlylocal",
+  "title": "OpenlyLocal",
+  "link": "http://openlylocal.com/info/api",
+  "image": "http://openlylocal.com/images/openlylocal_logo.png",
+  "author": {
+    "name": "OpenlyLocal"
+  },
+  "tags": [
+    "Unique",
+    "Formats",
+    "Depending"
+  ],
+  "description": "Openly Local is a uses a REST-based API. Specifically, each item (or 'Resource') has its own unique URL and the information is returned in different formats depending on the format requested via the URL."
+}

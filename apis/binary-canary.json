@@ -1,0 +1,14 @@
+{
+  "id": "binary-canary",
+  "title": "Binary Canary",
+  "link": "https://binarycanary.com/api-doc/",
+  "image": "",
+  "author": {
+    "name": "Binary Canary"
+  },
+  "tags": [
+    "Functions",
+    "Marked"
+  ],
+  "description": "Welcome to the BinaryCanary.com BETA API.  Please note that some functions have not yet been released, and are marked \"In Progress\" below.\nIn order to use this API, you will need an API key.  To obtain an User API Key, please login and edit your User account to allow an API key and click \"Save\""
+}

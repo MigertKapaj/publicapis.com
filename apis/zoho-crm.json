@@ -1,0 +1,16 @@
+{
+  "id": "zoho-crm",
+  "title": "Zoho CRM",
+  "link": "http://www.zoho.com/crm/help/api/",
+  "image": "http://www.zoho.com/crm/img/zoho-crm.png",
+  "author": {
+    "name": "Zoho CRM"
+  },
+  "tags": [
+    "Managing",
+    "Relations",
+    "Sales",
+    "Inventory"
+  ],
+  "description": "Zoho CRM is an On-demand Customer Relationship Management (CRM) software for managing your customer relations in a better way. Zoho CRM software helps streamline your organization-wide sales, marketing, customer support, and inventory management functions in a single system."
+}

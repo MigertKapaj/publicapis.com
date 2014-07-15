@@ -1,0 +1,16 @@
+{
+  "id": "picwing",
+  "title": "Picwing",
+  "link": "http://www.picwing.com/apidocs",
+  "image": "http://www.picwing.com/images/layout_v5/Logo_interior.gif",
+  "author": {
+    "name": "Picwing"
+  },
+  "tags": [
+    "Integrate",
+    "Album",
+    "Photos",
+    "Information"
+  ],
+  "description": "The Picwing API is a great way to integrate your application with Picwing. You'll be able to get information on a user's album (number of used prints, number of available prints, next printing shipment date, etc). You'll also be able to submit photos to be printed. "
+}

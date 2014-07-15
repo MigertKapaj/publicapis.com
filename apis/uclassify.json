@@ -1,0 +1,16 @@
+{
+  "id": "uclassify",
+  "title": "uClassify",
+  "link": "http://www.uclassify.com/UrlApiDocumentation.aspx",
+  "image": "http://www.uclassify.com/Graphic/logo.png",
+  "author": {
+    "name": "uClassify"
+  },
+  "tags": [
+    "Server",
+    "Request",
+    "Relevant",
+    "Accessing"
+  ],
+  "description": "Our hope is to provide an easy-to-use API using URL requests. Let us know if this is not the case! When a request is done to the server, a response is returned. The response will tell you if the request was successful and return whatever is relevant for your calls. Responses will be in XML or JSON while requests are in URL format as detailed below. As you may be familiar with, accessing classifier via the web can be done by browsing them. The URL API uses the same structure to access classifiers, that is: http://uclassify.com/browse/username/classifiername/operation?arguments"
+}

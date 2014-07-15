@@ -1,0 +1,16 @@
+{
+  "id": "appia",
+  "title": "Appia",
+  "link": "http://appia.com/appias-api/",
+  "image": "http://static.squarespace.com/static/52792fe4e4b0c3311520bece/t/52818ec4e4b00150d039673b/1397754677629/?format=original",
+  "author": {
+    "name": "Appia"
+  },
+  "tags": [
+    "Provides",
+    "Server",
+    "Flexible",
+    "Integrate"
+  ],
+  "description": "Appia provides comprehensive integration methods that allow you to integrate easily with our Ad Server using any server side integration. API Integration is the most flexible method of integration, if you are unable to integrate the Appia SDK for iOS and Android. "
+}

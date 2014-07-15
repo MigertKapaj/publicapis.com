@@ -1,0 +1,15 @@
+{
+  "id": "shutterstock",
+  "title": "Shutterstock",
+  "link": "http://api.shutterstock.com/",
+  "image": "http://www.shutterstock.com/images/api/shutterstock-api-logo.png",
+  "author": {
+    "name": "Shutterstock"
+  },
+  "tags": [
+    "Developers",
+    "Website",
+    "Download"
+  ],
+  "description": "The Shutterstock REST API allows outside developers to create their own tools using the functionality of the Shutterstock website. It allows for search, preview, and download of Shutterstock images and video clips. "
+}

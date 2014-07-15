@@ -1,0 +1,16 @@
+{
+  "id": "traindom",
+  "title": "Traindom",
+  "link": "http://traindom.com/api/",
+  "image": "http://traindom.com/wp-content/themes/traindom-beta/gfx/logo_traindom.png",
+  "author": {
+    "name": "Traindom"
+  },
+  "tags": [
+    "Functions",
+    "Parameters",
+    "Signature",
+    "Calculating"
+  ],
+  "description": "All functions define a set of parameters. Some are optional, most are required. If not specified otherwise, all parameters are required when calculating request signature. All the parameters under specific function are described in the order as they have to be used when calculating request signature."
+}

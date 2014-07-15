@@ -1,0 +1,16 @@
+{
+  "id": "wookmark",
+  "title": "Wookmark",
+  "link": "http://www.wookmark.com/about/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT1E-IFTImJOeRqPzIFAFB9tDGuZU9XsdcY3kHOEzvN7bsZOCAYWw",
+  "author": {
+    "name": "Wookmark"
+  },
+  "tags": [
+    "Simple",
+    "Access",
+    "Data",
+    "Interest"
+  ],
+  "description": "We currently offer simple APIs to access some basic data. We will expand this over time, if we see a lot of interest. If you use our APIs to build something cool, let us know."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "aramex",
+  "title": "Aramex",
+  "link": "http://www.aramex.com/developers/aramex-apis",
+  "image": "http://www.aramex.com/images/aramex_logo_en.png",
+  "author": {
+    "name": "aramex"
+  },
+  "tags": [
+    "Specific",
+    "Provided",
+    "Suggesting"
+  ],
+  "description": "With Aramex Location APIs you can benefit from the below features: Standard list of all countries and cities. Full details about each country; for example if a specific country requires a post code to be provided. Validation of country, city, post code and state. Suggesting cities based on zip code for countries that requires zip codes. List of al..."
+}

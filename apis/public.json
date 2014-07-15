@@ -1,0 +1,15 @@
+{
+  "id": "public",
+  "title": "Public",
+  "link": "http://www.simpletext.ws/avoid_lock_in",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQffmJHN3VEKYYXVIS3FtUByoaqcdiK87EsDVAkt9nyzGX0k32B",
+  "author": {
+    "name": "SimpleText"
+  },
+  "tags": [
+    "Source",
+    "Based",
+    "Incorporate"
+  ],
+  "description": "The server code is open source. The Google Web Toolkit based client code is also open source. Please take a look. If you notice something that I could do better let me know and I'll incorporate your change into the next release."
+}

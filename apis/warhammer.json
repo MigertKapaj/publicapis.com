@@ -1,0 +1,15 @@
+{
+  "id": "warhammer",
+  "title": "warhammer",
+  "link": "http://www.gamerdna.com/helix/warhammer",
+  "image": "http://www.gamerdna.com/public/images/nav2/gdna-topbar-logo-sprite.png",
+  "author": {
+    "name": "gamerDNA"
+  },
+  "tags": [
+    "Information",
+    "Character",
+    "Server"
+  ],
+  "description": "This web service returns you information on a warhammer character by passing in the character name and the server (as well as your GamerDNA API key)"
+}

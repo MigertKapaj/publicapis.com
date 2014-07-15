@@ -1,0 +1,16 @@
+{
+  "id": "radixx",
+  "title": "Radixx ",
+  "link": "http://radixx.com/solutions/api-connectivity/",
+  "image": "http://radixx.com/wp-content/uploads/2012/04/Radixx-Logo-2D-6Apr2012-Web-Site-v11.png",
+  "author": {
+    "name": "Radixx "
+  },
+  "tags": [
+    "Connect",
+    "Design",
+    "Payment",
+    "Service"
+  ],
+  "description": "In the modern airline environment many airlines need to connect a variety of external systems to their core PSS. Radixx Air uses a service-oriented architecture which enables a comprehensive Application Programming Interface that allows third parties such as Web site design companies, tour operator systems, payment gateways, and more to access services from the PSS."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "kirby",
+  "title": "Kirby",
+  "link": "http://getkirby.com/docs",
+  "image": "http://getkirby.com/assets/images/logo.png",
+  "author": {
+    "name": "Kirby"
+  },
+  "tags": [
+    "Converter",
+    "Formats",
+    "Learnable"
+  ],
+  "description": "Kirby has a built-in converter for the fantastic Markdown syntax by John Gruber. Markdown is a way to add formats in plain text with easy learnable and understandable tags."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "tastekid",
+  "title": "TasteKid",
+  "link": "http://www.tastekid.com/page/api",
+  "image": "http://www.tastekid.com/images/logo.png",
+  "author": {
+    "name": "TasteKid"
+  },
+  "tags": [
+    "Provided",
+    "Integrating",
+    "Products"
+  ],
+  "description": "The TasteKid API is provided to interested parties for integrating our recommendations in other products/applications.We support XML and JSON/JSONP formats as output for this API."
+}

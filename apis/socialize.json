@@ -1,0 +1,15 @@
+{
+  "id": "socialize",
+  "title": "Socialize",
+  "link": "http://api.getsocialize.com/docs/v1/",
+  "image": "",
+  "author": {
+    "name": "Socialize"
+  },
+  "tags": [
+    "Public",
+    "Developer",
+    "Apps"
+  ],
+  "description": "Welcome! Here you’ll find the public documentation for Socialize APIs.Developers can use Developer API for integrating Socialize functionality into mobile apps."
+}

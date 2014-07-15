@@ -1,0 +1,16 @@
+{
+  "id": "pay-api-operation",
+  "title": "Pay API Operation",
+  "link": "https://www.x.com/developers/paypal/documentation-tools/api/pay-api-operation",
+  "image": "https://www.paypalobjects.com/webstatic/developer/logo_paypal_developer.png",
+  "author": {
+    "name": "Paypal"
+  },
+  "tags": [
+    "Transfer Funds",
+    "Multi Receivers",
+    "Chained payments",
+    "Parallel Payments"
+  ],
+  "description": "Pay API operation is used to transfer funds from a sender's PayPal account to one or more receivers' PayPal accounts. \nYou can use the Pay API for simple payments, chained payments, and parallel payments. Payments can be explicitly approved, preapproved, or \nimplicitly approved."
+}

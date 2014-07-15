@@ -1,0 +1,16 @@
+{
+  "id": "hello-social",
+  "title": "Hello Social",
+  "link": "http://developers.hellosocial.com/",
+  "image": "http://developers.hellosocial.com/assets/img/hellosocial-illustration.png",
+  "author": {
+    "name": "Hello Social"
+  },
+  "tags": [
+    "Tool",
+    "Organize",
+    "Viral",
+    "Social"
+  ],
+  "description": "Hello Social is a set of powerfull easy-to-use tools allowing anyone to organize their very own viral social promotions. By liberating your social media data using the Hello Social API, Hello Social allows you to effortlessly create different apps, landing pages, and marketing websites which that same contest participant can engage with at a later time anywhere on the Internet, \nwithout any limitations. "
+}

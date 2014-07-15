@@ -1,0 +1,15 @@
+{
+  "id": "jamcast",
+  "title": "Jamcast",
+  "link": "http://getjamcast.com/api/",
+  "image": "http://getjamcast.com/img/logo.png",
+  "author": {
+    "name": "Jamcast"
+  },
+  "tags": [
+    "Platform",
+    "Connected",
+    "Programmers"
+  ],
+  "description": "Jamcast Server is a powerful content delivery platform that interoperates seamlessly with thousands of network-connected devices. Using the new Jamcast API, programmers can bring new content to Jamcast Server by building and deploying plugins."
+}

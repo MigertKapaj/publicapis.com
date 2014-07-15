@@ -1,0 +1,14 @@
+{
+  "id": "nexmo",
+  "title": "Nexmo",
+  "link": "https://www.nexmo.com/documentation/",
+  "image": "https://docs.nexmo.com/assets/images/nexmo_logo.png",
+  "author": {
+    "name": "Nexmo"
+  },
+  "tags": [
+    "Delivery",
+    "Receipt"
+  ],
+  "description": "During account set-up, you will be asked to supply Nexmo a CallBack URL for Delivery Receipt to which we will send a delivery receipt for each of your SMS submissions."
+}

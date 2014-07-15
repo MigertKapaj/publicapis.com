@@ -1,0 +1,15 @@
+{
+  "id": "jotlys",
+  "title": "Jotly's",
+  "link": "http://www.jotly.co/api",
+  "image": "http://www.jotly.co/static/img/api-logo.png",
+  "author": {
+    "name": "Jotly"
+  },
+  "tags": [
+    "Engineer",
+    "Fantastic",
+    "Outlining"
+  ],
+  "description": "This is our API. If you are an engineer with any talent or skill, you will know exactly how to use it and you will be capable of making something fantastic and delightful with it. If you have any questions you are probably an idiot. However, if you must, please email api@jotly.co with a very polite and forthcoming emailing outlining all of your wants and desires. In the meantime, please use this API to make something worthwhile and world-changing, like Cat vs Dog. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "zooz",
+  "title": "Zooz",
+  "link": "http://www.zooz.com/",
+  "image": "http://www.zooz.com/images/common/zooz-logo.svg",
+  "author": {
+    "name": "Zooz"
+  },
+  "tags": [
+    "Deliver",
+    "Designed",
+    "Integrating"
+  ],
+  "description": "We value your time and make it our mission to deliver a simple SDK which wraps up everything you need in one place. The Zooz SDK is designed to facilitate all your payment needs with minimal effort. Integrating our code into your app or site should take only a few minutes; take a look below at our sample code for IOS, Android and HTML5. "
+}

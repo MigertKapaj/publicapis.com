@@ -1,0 +1,15 @@
+{
+  "id": "behance",
+  "title": "Behance",
+  "link": "http://www.behance.net/dev/api/endpoints/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRkc6pXnmgvcoFwN3-6LW9nznWtiahngeq9iEE7dJnEBnCf5qMDdQ",
+  "author": {
+    "name": "Behance"
+  },
+  "tags": [
+    "Register",
+    "Data",
+    "Requests"
+  ],
+  "description": "Getting started with the Behance API is easy. Once you register your client, you can start digging into Behance data by making requests to any of our API endpoints."
+}

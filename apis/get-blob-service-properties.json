@@ -1,0 +1,14 @@
+{
+  "id": "get-blob-service-properties",
+  "title": "Get Blob Service Properties",
+  "link": "http://msdn.microsoft.com/en-us/library/hh452239.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Service",
+    "Properties"
+  ],
+  "description": "The Get Blob Service Properties operation gets the properties of a storage account’s Blob service, including properties for Storage Analytics and CORS (Cross-Origin Resource Sharing) rules."
+}

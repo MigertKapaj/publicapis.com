@@ -1,0 +1,16 @@
+{
+  "id": "yumpu",
+  "title": "Yumpu",
+  "link": "http://developers.yumpu.com/",
+  "image": "http://developers.yumpu.com/wp-content/uploads/2014/04/Yumpu-Logo.png",
+  "author": {
+    "name": "Yumpu"
+  },
+  "tags": [
+    "Hotels",
+    "Convert",
+    "Web",
+    "E-papers"
+  ],
+  "description": "Media companies, hotels or engineering businesses are using Yumpu to convert their documents from huge pdf documents to web optimized e-Papers. Offering one of the most powerful document publishing APIs, Yumpu gives to the tools you need to create documents and market them to  your readers on the internet, mobile or via native tablet apps. "
+}

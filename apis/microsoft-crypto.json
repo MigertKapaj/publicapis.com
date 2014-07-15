@@ -1,0 +1,16 @@
+{
+  "id": "microsoft-crypto",
+  "title": "Microsoft Crypto",
+  "link": "http://en.wikipedia.org/wiki/Microsoft_CryptoAPI",
+  "image": "http://upload.wikimedia.org/wikipedia/en/b/bc/Wiki.png",
+  "author": {
+    "name": "Microsoft Crypto"
+  },
+  "tags": [
+    "Interface",
+    "Windows",
+    "Developers",
+    "Libraries"
+  ],
+  "description": "The Cryptographic Application Programming Interface (also known variously as CryptoAPI, Microsoft Cryptography API, MS-CAPI or simply CAPI) is an application programming interface included with Microsoft Windows operating systems that provides services to enable developers to secure Windows-based applications using cryptography. It is a set of dynamically linked libraries that provides an abstraction layer which isolates programmers from the code used to encrypt the data. The Crypto API was first introduced in Windows NT 4.0 [1] and enhanced in subsequent versions."
+}

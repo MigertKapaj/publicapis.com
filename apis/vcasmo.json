@@ -1,0 +1,15 @@
+{
+  "id": "vcasmo",
+  "title": "VCASMO",
+  "link": "http://labs.vcasmo.com/en/home",
+  "image": "http://labs.vcasmo.com/images/logo_vcasmo.gif",
+  "author": {
+    "name": "VCASMO"
+  },
+  "tags": [
+    "Designed",
+    "Integrate",
+    "System"
+  ],
+  "description": "VCASMO Presentation Engine API (aka VMAPI) is designed for business client (aka Client) to leverage VCASMO simple and easy to use workflow on create presentation, and integrate to the existing system with little manpower’s (aka developer) programming effort needed."
+}

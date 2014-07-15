@@ -1,0 +1,16 @@
+{
+  "id": "sureverify",
+  "title": "SureVerify",
+  "link": "http://sureverify.com/getting_started",
+  "image": "http://sureverify.com/images/surev5_6logo.png",
+  "author": {
+    "name": "SureVerify"
+  },
+  "tags": [
+    "Web",
+    "Email",
+    "Batch",
+    "Implementation"
+  ],
+  "description": "SureVerify Email verification uses a simple HTTP GET or POST to allow the easiest integration into your front-end web forms or your back-end for bulk processing.  Simply provide the type of validation (email), your API key and the email address you want to verify.  Our service will provide with the most accurate response we have available.  Batch and in-form examples are provided below. Of course any language capable of performing an HTTP GET or POST can be used and your specific implementation may vary depending on your environment. \n"
+}

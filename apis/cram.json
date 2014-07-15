@@ -1,0 +1,16 @@
+{
+  "id": "cram",
+  "title": "Cram",
+  "link": "http://www.cram.com/docs/api",
+  "image": "http://fce-studymode.netdna-ssl.com/93133e97794f/fce/images/global_spr.png",
+  "author": {
+    "name": "Cram"
+  },
+  "tags": [
+    "Website",
+    "Provides",
+    "Developers",
+    "Modify"
+  ],
+  "description": "The Cram API provides a simple RESTful interface with lightweight JSON-formatted responses to use many of the Cram website features. This document provides information to developers on how to integrate with the Cram API to search, create and modify flashcard sets and users. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mandrill",
+  "title": "Mandrill",
+  "link": "http://www.mandrill.com",
+  "image": "http://nextdevmedia.com/wp-content/uploads/2014/02/Screen-Shot-2014-02-07-at-10.55.45-AM.png",
+  "author": {
+    "name": "Mandrill"
+  },
+  "tags": [
+    "HTTP",
+    "Post",
+    "Information",
+    ""
+  ],
+  "description": "All API calls should be made with HTTP POST.You can consider any non-200 HTTP response code an error - the returned data will contain more detailed informationAll methods are accessed via: https://mandrillapp.com/api/1.0/SOME-METHOD.OUTPUT_FORMAT"
+}

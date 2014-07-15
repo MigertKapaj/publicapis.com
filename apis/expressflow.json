@@ -1,0 +1,16 @@
+{
+  "id": "expressflow",
+  "title": "expressFlow",
+  "link": "http://www.expressflow.com/site/developer.jsp",
+  "image": "http://www.expressflow.com/img/logo.png",
+  "author": {
+    "name": "expressFlow"
+  },
+  "tags": [
+    "Processing",
+    "Radically",
+    "Complexity",
+    "Process"
+  ],
+  "description": "With the expressFlow API you can easily integrate complex file-processing tasks into your applications - just by sending simple HTTP requests to the expressFlow REST API.\nThe fundamental principle of the expressFlow REST API is: Everything is in the Cloud. This principle radically changes the performance and the integration complexity of the API. You just need to send a link referring to the resource you want to process, and expressFlow does the REST for you ;-) \n                                                      "
+}

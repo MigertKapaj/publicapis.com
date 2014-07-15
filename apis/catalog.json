@@ -1,0 +1,15 @@
+{
+  "id": "catalog",
+  "title": "Catalog",
+  "link": "http://catalogapi.com",
+  "image": "http://catalogapi.com/img/sm_catalogapi.png",
+  "author": {
+    "name": "Catalog"
+  },
+  "tags": [
+    "Companies",
+    "Inventory",
+    "Technology"
+  ],
+  "description": "Catalog API started as a challenge, \"How are we going to compete with the established companies, where are we going to store the inventory, we’re going to need a new building?\" The answer - create tighter relationships with our suppliers through technology."
+}

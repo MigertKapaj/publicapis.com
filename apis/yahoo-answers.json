@@ -1,0 +1,17 @@
+{
+  "id": "yahoo-answers",
+  "title": "Yahoo Answers",
+  "link": "http://developer.yahoo.com/answers/",
+  "image": "https://s.yimg.com/zz/combo?a/i/ydn/sst/44/answers.gif",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Qqestion",
+    "Answer",
+    "Topics",
+    "Users",
+    "Search"
+  ],
+  "description": "Yahoo Answers is a place where people ask and answer questions on any topic. The Answers API lets you tap into the collective knowledge of millions of Yahoo users. Search for expert advice on any topic, watch for new questions in the Answers categories of your choice, and keep track of fresh content from your favorite Answers experts."
+}

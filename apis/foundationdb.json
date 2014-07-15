@@ -1,0 +1,15 @@
+{
+  "id": "foundationdb",
+  "title": "FoundationDB",
+  "link": "https://foundationdb.com/layers/",
+  "image": "https://d3glfbbr3jeumb.cloudfront.net/assets/logo-1f9841bb25b69782d2d358e1a657113b.png",
+  "author": {
+    "name": "FoundationDB"
+  },
+  "tags": [
+    "Data",
+    "Compatibility",
+    "Enabling"
+  ],
+  "description": "A layer can provide a new data model, compatibility with existing systems, or even serve as an entire framework. Multiple layers can be used at the same time, enabling a single FoundationDB database to consolidate multiple data stores."
+}

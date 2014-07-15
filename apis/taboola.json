@@ -1,0 +1,15 @@
+{
+  "id": "taboola",
+  "title": "Taboola",
+  "link": "http://www.taboola.com/mobile/",
+  "image": "http://www.taboola.com/sites/default/files/logo2.png",
+  "author": {
+    "name": "Taboola"
+  },
+  "tags": [
+    "Distribution",
+    "Innovative",
+    "Publisher"
+  ],
+  "description": "Taboola is the world's leading content distribution and discovery platform, serving 3B daily recommendations to over 300M monthly visitors on the web's most innovative publisher sites, including USA Today, TMZ, Time and Fox Sports."
+}

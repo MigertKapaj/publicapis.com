@@ -1,0 +1,15 @@
+{
+  "id": "amazon-mechanical-turk",
+  "title": "Amazon Mechanical Turk",
+  "link": "http://docs.aws.amazon.com/general/latest/gr/glos-chap.html",
+  "image": "http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Requires",
+    "Service",
+    "Access"
+  ],
+  "description": "Amazon Mechanical Turk is a marketplace for work that requires human intelligence. The Mechanical Turk web service enables companies to programmatically access this marketplace and a diverse, on-demand workforce."
+}

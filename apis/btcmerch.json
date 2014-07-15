@@ -1,0 +1,14 @@
+{
+  "id": "btcmerch",
+  "title": "Btcmerch",
+  "link": "https://www.btcmerch.com/help/api",
+  "image": "https://www.btcmerch.com/img/style/logo.png",
+  "author": {
+    "name": "BTCMerch"
+  },
+  "tags": [
+    "Websites",
+    "Merchant ID"
+  ],
+  "description": "You can insert API to the inner pages of your websites, no key for the API is needed, only what is needed is your Merchant ID.\n\n  \n"
+}

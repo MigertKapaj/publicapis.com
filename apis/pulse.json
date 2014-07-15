@@ -1,0 +1,16 @@
+{
+  "id": "pulse",
+  "title": "Pulse",
+  "link": "http://developer.weatherbug.com/",
+  "image": "http://weather.weatherbug.com/locimages/mobile/pulseapibg.png",
+  "author": {
+    "name": "WeatherBug "
+  },
+  "tags": [
+    "Networks",
+    "Lightining",
+    "Forcaste",
+    "Models"
+  ],
+  "description": "WeatherBug - Earth Networks operates the largest networks of real-time weather and lightning sensors in the world. More sensors ensure a more robust data set!  Our Pulse API delivers real-time weather and lightning information,forecasts utilizing forecast models with the lowest margin of error, and other top-notch weather data. WeatherBug - Earth Networks operates the largest networks of real-time weather and lightning sensors in the world. More sences ensure a more robust data set  Our Pulse API delivers real-time weather and lightning information,forecasts utilizing forecast models with the lowest margin of error, and other top-notch weather data.\n                "
+}

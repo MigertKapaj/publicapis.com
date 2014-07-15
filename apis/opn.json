@@ -1,0 +1,16 @@
+{
+  "id": "opn",
+  "title": "Opn",
+  "link": "http://www.ixaris.com/brands/opn",
+  "image": "http://www.ixaris.com/sites/default/files/ixaris-logo_1.png",
+  "author": {
+    "name": "Ixaris"
+  },
+  "tags": [
+    "Hosted",
+    "Application",
+    "Points",
+    "Secure"
+  ],
+  "description": "Using the Opn APIs you create a custom, branded payment application hosted on your own site. The application might be a completely new application such as a customer rewards scheme that allows users to redeem points in the form of a virtual card or the application might be an existing accounting system that you enhance so the company can pay vendors with single-use virtual cards created on-demand for each purchase. During runtime, control passes to a secure Opn server which handles payment logic, identity management, risk and compliance, and interacts with external financial networks to manage the flow of money."
+}

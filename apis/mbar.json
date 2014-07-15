@@ -1,0 +1,15 @@
+{
+  "id": "mbar",
+  "title": "mbar",
+  "link": "http://mbar.fi/apidoc/",
+  "image": "http://mbar.fi/media/i/mbar_rgb.png",
+  "author": {
+    "name": "mbar Programme Info"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Information"
+  ],
+  "description": "mbar offers a free, read only REST API for access to its programme data, including event, artist and club series information."
+}

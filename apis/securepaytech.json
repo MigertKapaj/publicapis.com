@@ -1,0 +1,15 @@
+{
+  "id": "securepaytech",
+  "title": "SecurePayTech",
+  "link": "http://securepaytech.com/developers/",
+  "image": "http://securepaytech.com/images/spl-logo.png",
+  "author": {
+    "name": "SecurePayTech.com"
+  },
+  "tags": [
+    "Interface",
+    "Website",
+    "Payment"
+  ],
+  "description": "SecurePayTech.com has created an intuitive interface that enables website developers to integrate seamlessly into our payment gateway."
+}

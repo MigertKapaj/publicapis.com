@@ -1,0 +1,16 @@
+{
+  "id": "yify-torrents",
+  "title": "YIFY-Torrents",
+  "link": "http://yify-torrents.com/api",
+  "image": "http://static.yts.re/assets/images/yts_logo.png",
+  "author": {
+    "name": "YTS"
+  },
+  "tags": [
+    "Service",
+    "Interface",
+    "Components",
+    "Applications"
+  ],
+  "description": "This is a lightweight web service, (REST interface), which provides an easy way to access the YIFY-Torrents website.\nAn API (Application programming interface) is a protocol intended to be used as an interface by software components to communicate with each other.\nOur API supports many methods, so there should not be a problem coding some nice applications."
+}

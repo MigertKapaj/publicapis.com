@@ -1,0 +1,16 @@
+{
+  "id": "songkick",
+  "title": "Songkick",
+  "link": "https://www.songkick.com/developer",
+  "image": "https://ssl.sk-static.com/assets/nw/components/logo/logo-thumb-4fd24ba.png",
+  "author": {
+    "name": "Songkick"
+  },
+  "tags": [
+    "Vendors",
+    "Venue",
+    "Websites",
+    "Concerts"
+  ],
+  "description": "Songkick works by indexing many different ticket vendors, venue websites, and local newspapers to create the most comprehensive database of upcoming concerts happening around the world. It’s our mission to have every show happening anywhere, from your friend’s show at your local bar, right up to Lady Gaga tour dates in Tokyo. "
+}

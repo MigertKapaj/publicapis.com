@@ -1,0 +1,15 @@
+{
+  "id": "hmmer",
+  "title": "HMMER",
+  "link": "http://hmmer.janelia.org/help/api",
+  "image": "http://hmmer.janelia.org/static/images/hmmer_titlebar_small.gif",
+  "author": {
+    "name": "HMMER"
+  },
+  "tags": [
+    "Provide",
+    "Access",
+    "Services"
+  ],
+  "description": "In addition to the web interface to the HMMER software, we also provide access to it via RESTful web services. REST (or REpresentational State Transfer) refers to a style of building web services which makes it easy to interact programmatically with the site."
+}

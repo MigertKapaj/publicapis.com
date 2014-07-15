@@ -1,0 +1,13 @@
+{
+  "id": "bingo",
+  "title": "Bingo",
+  "link": "https://www.mashape.com/vincy/bingo-1",
+  "image": "",
+  "author": {
+    "name": "vincy"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "With this API you can easily develop a bingo game, just design the graphic.\r\n\r\n- Card's makers\r\n- Extraction number\r\n- Winner cards\r\n- Points"
+}

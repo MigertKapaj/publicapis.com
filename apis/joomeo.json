@@ -1,0 +1,16 @@
+{
+  "id": "joomeo",
+  "title": "Joomeo",
+  "link": "http://www.joomeo.com/us/developer.php",
+  "image": "http://www.joomeo.com/j_images/logo_Joomeo_menu_55x35.png",
+  "author": {
+    "name": "Joomeo"
+  },
+  "tags": [
+    "Request",
+    "Determine",
+    "Approve",
+    "Conditions"
+  ],
+  "description": "To use the Joomeo API, you must have an API key. You may use your own key for each application and for each request between your application and the Joomeo API. This also allows us to determine which settings it applies to so that we can approve its use with regard to our general conditions."
+}

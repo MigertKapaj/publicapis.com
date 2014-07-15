@@ -1,0 +1,16 @@
+{
+  "id": "lobid",
+  "title": "lobid",
+  "link": "http://api.lobid.org/api",
+  "image": "http://lobid.org/images/butterfly.png",
+  "author": {
+    "name": "lobid"
+  },
+  "tags": [
+    "Service",
+    "Provides",
+    "Resources",
+    "Data"
+  ],
+  "description": "lobid is the North Rhine-Westphalian Library Service Center's (hbz) Linked Open Data service. It provides API access to information about bibliographic resources, libraries and related organizations, and authority data."
+}

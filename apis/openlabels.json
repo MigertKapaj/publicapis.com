@@ -1,0 +1,15 @@
+{
+  "id": "openlabels",
+  "title": "OpenLabels",
+  "link": "http://developer.openlabels.net/",
+  "image": "http://www.programmableweb.com/images/apis/at10742.png",
+  "author": {
+    "name": "OpenLabels"
+  },
+  "tags": [
+    "Implemented",
+    "Fundamentals",
+    "Discourse"
+  ],
+  "description": "We're still debating! What you read here is a livingdraft! We're still discussing how all things can be best specified and implemented. Here are some of our fundamentals:mRetrieve a collection of labelsIndividual labels (label by label) (and a collectio of labels can be just ONE single label)Labels that participate to a discourse (context)\n                "
+}

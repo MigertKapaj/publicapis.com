@@ -1,0 +1,15 @@
+{
+  "id": "veeva",
+  "title": "Veeva",
+  "link": "http://www.veeva.com/vault-core-capabilities/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRa35wPY1v79TsTyoQxZRbBQP4SyLPBzg8yNqSdIpGV4Vs0cSbqUg",
+  "author": {
+    "name": "Veeva"
+  },
+  "tags": [
+    "Processes",
+    "Documents",
+    "Dictate"
+  ],
+  "description": "We know that no application lives in isolation and many content-related business processes span multiple systems. Vault comes with a REST-based API that allows for powerful searching through a SQL-like query language for documents, users, workflows and tasks. Developers can also create, update or delete documents as business needs dictate. "
+}

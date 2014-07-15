@@ -1,0 +1,15 @@
+{
+  "id": "project-vote-smart",
+  "title": "Project Vote Smart",
+  "link": "http://api.votesmart.org/docs/terms.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTKQEjDT1BQKL8dJHLSqb3c4nP6Ug5LCWqMneNNgcZmgnGaP_-5",
+  "author": {
+    "name": "Project Vote Smart"
+  },
+  "tags": [
+    "Organization",
+    "Data",
+    "Website"
+  ],
+  "description": "The Project Vote Smart API allows people outside our organization to integrate our data into their applications. An application could be a website, standalone program, or pretty much anything in the computer world."
+}

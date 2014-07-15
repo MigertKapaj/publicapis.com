@@ -1,0 +1,15 @@
+{
+  "id": "nimbb",
+  "title": "Nimbb",
+  "link": "http://nimbb.com/Help/Api.aspx",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ0nahdlAh-wdj2G924tUyY1JOgpEwHWGyKb36Kec8M7eq2GdXb",
+  "author": {
+    "name": "Nimbb"
+  },
+  "tags": [
+    "Webcam",
+    "Host",
+    "Paste"
+  ],
+  "description": "Nimbb offers the most extensive webcam recording service on the Internet that is ready to be used in your project. We host everything so that you don’t have to worry about how things work. All you need is to paste some HTML code in your pages and we take care of the rest. "
+}

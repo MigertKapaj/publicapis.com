@@ -1,0 +1,15 @@
+{
+  "id": "perth-transit",
+  "title": "Perth Transit",
+  "link": "http://doc.perthtransit.com/",
+  "image": "",
+  "author": {
+    "name": "Perth Transit"
+  },
+  "tags": [
+    "Unofficial",
+    "Access",
+    "Code"
+  ],
+  "description": "The Perth Transit API is an unofficial, open source API to provide easy access to Transperth data for developers. You can access the code on GitHub."
+}

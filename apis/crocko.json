@@ -1,0 +1,15 @@
+{
+  "id": "crocko",
+  "title": "Crocko",
+  "link": "http://crocko.com/us/developers.html",
+  "image": "http://crocko.com/css/i/logo-tm.png",
+  "author": {
+    "name": "Crocko Tec"
+  },
+  "tags": [
+    "Servers",
+    "Environment",
+    "Platforms"
+  ],
+  "description": "This script uploads a single file or group of files to Crocko servers. It uses the Crocko API. There are 3 version written in Perl, PHP and Python. They are optimized to work within a UNIX environment, but the Perl version has also been tested on Windows platforms."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "the-github-jobs",
+  "title": "The GitHub Jobs",
+  "link": "https://jobs.github.com/api",
+  "image": "https://jobs.github.com/images/layout/logo.png",
+  "author": {
+    "name": "GitHub Jobs"
+  },
+  "tags": [
+    "Search",
+    "Representation",
+    "Jobs"
+  ],
+  "description": "The GitHub Jobs API allows you to search, view, and create jobs with JSON over HTTP.\nTo get the JSON representation of any search result orjob listing, append .json to the URL you'd use\non the HTML GitHub Jobs site.\n    "
+}

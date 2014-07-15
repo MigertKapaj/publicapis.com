@@ -1,0 +1,16 @@
+{
+  "id": "egopay",
+  "title": "Egopay",
+  "link": "https://www.egopay.com/developers/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLSOS4oiYgUG05IKCCIaa4P0k5LRQwyRoNLa0fiX4n3DSFU6bP",
+  "author": {
+    "name": "Egopay"
+  },
+  "tags": [
+    "Description",
+    "Specifics",
+    "Information",
+    "Provides"
+  ],
+  "description": "This document contains description of all functions and specifics concerning API for EgoPay . EgoPay API is programming interface, which will allow you to automate the process of sending payments, receiving information about incoming and outgoing payments, obtaining history of performed transactions or receiving information about EgoPay accounts. API setup is required in order to use EgoPay as a payment option on your website. Currently EgoPay provides JSON API and SOAP API."
+}

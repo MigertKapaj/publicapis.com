@@ -1,0 +1,16 @@
+{
+  "id": "oxygen-rest",
+  "title": "Oxygen REST",
+  "link": "https://oxygencloud.com/rest.html",
+  "image": "https://oxygencloud.com/images/css/logo-oxygen-cloud-big.png",
+  "author": {
+    "name": "Oxygen Cloud"
+  },
+  "tags": [
+    "Leverage",
+    "Platform",
+    "Interested",
+    "Resource"
+  ],
+  "description": "Explore how our Rest APIs can help you fully leverage the Oxygen platform! Whether you're a developer or simply an interested party, you can get the latest documentation, resources, and best practices here. Continue reading or click on the links to your left to jump right in."
+}

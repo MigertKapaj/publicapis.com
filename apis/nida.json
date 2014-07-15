@@ -1,0 +1,16 @@
+{
+  "id": "nida",
+  "title": "NIDA",
+  "link": "http://www.drugabuse.gov/developers/nmassist",
+  "image": "http://www.drugabuse.gov/sites/all/themes/nida_vic_adaptive/images/nih-nida-logo.gif",
+  "author": {
+    "name": "NIDA"
+  },
+  "tags": [
+    "Access",
+    "Developers",
+    "Requirements",
+    "Properly"
+  ],
+  "description": "An API is a method to open up and allow access to specific content or functionality from within an application. An API allows other developers or organizations the ability to use specific functionality, usually to build or produce new functionality. An API has specific rules and requirements that allow users to properly access the content or functionality."
+}

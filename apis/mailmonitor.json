@@ -1,0 +1,15 @@
+{
+  "id": "mailmonitor",
+  "title": "mailmonitor",
+  "link": "http://mailmonitorapp.com/api/",
+  "image": "http://mailmonitorapp.com/wp-content/uploads/2012/10/logo-mailMonitor-app.png",
+  "author": {
+    "name": "mailmonitor"
+  },
+  "tags": [
+    "Performance",
+    "Reports",
+    "Data"
+  ],
+  "description": "Internal API usage is allowed for Small Business and Performance account levels. The API can be used for internal company reports and intranet but the data cannot be customer facing."
+}

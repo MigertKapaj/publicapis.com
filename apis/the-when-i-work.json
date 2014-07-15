@@ -1,0 +1,16 @@
+{
+  "id": "the-when-i-work",
+  "title": "The When I Work",
+  "link": "http://dev.wheniwork.com/",
+  "image": "http://dev.wheniwork.com/images/logo.svg",
+  "author": {
+    "name": " When I Work"
+  },
+  "tags": [
+    "Flexible",
+    "Resful",
+    "Logically",
+    "Conventions"
+  ],
+  "description": "The When I Work API is thorough, flexible, and restful. It’s methods are logically grouped, and follow standard conventions. Make a selection from the left to jump to the method group you would like to know more about."
+}

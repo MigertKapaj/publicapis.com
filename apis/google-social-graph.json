@@ -1,0 +1,16 @@
+{
+  "id": "google-social-graph",
+  "title": "Google Social Graph",
+  "link": "http://code.google.com/apis/socialgraph/",
+  "image": "https://developers.google.com/_static/b23c2cb352/images/developers-logo.svg",
+  "author": {
+    "name": "Google Developers"
+  },
+  "tags": [
+    "Success",
+    "Products",
+    "Web",
+    "Businesses"
+  ],
+  "description": "The Developer Relations organization at Google is focused on driving the success of Google's developer products and the open web by creating a thriving ecosystem of 3rd party applications and businesses built on them."
+}

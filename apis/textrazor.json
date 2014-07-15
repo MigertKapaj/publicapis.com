@@ -1,0 +1,16 @@
+{
+  "id": "textrazor",
+  "title": "TextRazor",
+  "link": "http://www.textrazor.com/documentation_rest",
+  "image": "http://www.textrazor.com/img/logo.gif",
+  "author": {
+    "name": "TextRazor"
+  },
+  "tags": [
+    "Problem",
+    "Processing",
+    "Message",
+    "Provided"
+  ],
+  "description": "TextRazor returns HTTP errors if there is a problem processing your text. A more detailed message is provided in the response body."
+}

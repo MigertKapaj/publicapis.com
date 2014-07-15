@@ -1,0 +1,16 @@
+{
+  "id": "the-showclix",
+  "title": "The ShowClix",
+  "link": "http://developer.showclix.com",
+  "image": "",
+  "author": {
+    "name": "ShowClix"
+  },
+  "tags": [
+    "Descriprition",
+    "Posting",
+    "Validation",
+    "Public"
+  ],
+  "description": "Attributes: including a description, whether or not the attribute is required when PUTing or POSTing, a validation rule (either a set of values or a regular expression), and access level denoting the HTTP methods (GET, PUT, POST, DELETE, HEAD, and OPTIONS) available for public and private accessRelationships: including the type of the relationship (belongsTo, hasMany, or belongsToAndHasMany), target class of the relationship, and foreign key usedPermissionsExample usage"
+}

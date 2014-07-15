@@ -1,0 +1,15 @@
+{
+  "id": "seedpeer",
+  "title": "SeedPeer",
+  "link": "http://www.programmableweb.com/api/seedpeer",
+  "image": "http://www.programmableweb.com/images/logo2.png",
+  "author": {
+    "name": "ProgrammableWeb"
+  },
+  "tags": [
+    "Integrate",
+    "Search",
+    "Category"
+  ],
+  "description": "Use the Seedpeer API to integrate Seedpeer search results into your search engine, site, blog, or app. You can search torrents, get today's torrents, get torrents by member, get torrents by category, and get torrents by subcategory."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "http-sms",
+  "title": "HTTP SMS",
+  "link": "http://www.smswarehouse.com/api/http-api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS83Z8JNWKBzAgdt15BY2x208Rzim2_yqDaMNZ9GwVjYb6Yj1TwWQ",
+  "author": {
+    "name": "Smswarehouse"
+  },
+  "tags": [
+    "Dynamic",
+    "Numeric",
+    "Seperated"
+  ],
+  "description": "Integrate the SMSwarehouse gateway into your web site by using our SMS HTTP api. The SMS HTTP API can by used by dynamic sender id routes as well as the fixed numeric sender id routes. You can send up to 50 comma seperated bulk SMS numbers by using the SMSwarehouse HTTP api."
+}

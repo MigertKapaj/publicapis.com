@@ -1,0 +1,16 @@
+{
+  "id": "foodspotting",
+  "title": "Foodspotting",
+  "link": "http://www.foodspotting.com/api",
+  "image": "http://www.foodspotting.com/images/redesign/logo@2x.png?1394750553",
+  "author": {
+    "name": "Foodspotting"
+  },
+  "tags": [
+    "Website",
+    "System",
+    "Actually",
+    "Objects"
+  ],
+  "description": "On the Foodspotting website and iPhone app when you add a new entry into the system, it is often referred to as a \"spot\" or \"spotting\". But in the underlying system this concept is actually made up of two objects, sightings and reviews. When you spot a new food at a place, what you create is actually a review, which gets associated with a sighting, so it is important to understand the different roles these objects play. "
+}

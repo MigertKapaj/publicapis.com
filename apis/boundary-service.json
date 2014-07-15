@@ -1,0 +1,15 @@
+{
+  "id": "boundary-service",
+  "title": "Boundary Service",
+  "link": "http://boundaries.tribapps.com/api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL1WGcHdKUixFPvnro4JQEadMb-6bFV3ueVMnk-9inGZof84ak",
+  "author": {
+    "name": "Boundary Service"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Describing"
+  ],
+  "description": "The Boundary Service API provides a restful interface to a wealth of data about official geographic boundaries within Illinois. Data is retrieved from the API as JSON (optionally JSONP) with nested GeoJSON for describing the boundary shapes."
+}

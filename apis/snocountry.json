@@ -1,0 +1,15 @@
+{
+  "id": "snocountry",
+  "title": "SnoCountry",
+  "link": "http://feeds.snocountry.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRj439VlG7rfaDYgd_3XWo5Z7nXwEQiKaORxO3J_8UDJBObn-nc",
+  "author": {
+    "name": "SnoCountry"
+  },
+  "tags": [
+    "Updated",
+    "Ski",
+    "Guidelines"
+  ],
+  "description": "snow conditions are updated throughout the day, as snow reports come in from the ski areas. With that in mind, we recommend developers follow the guidelines when making requests"
+}

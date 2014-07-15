@@ -1,0 +1,15 @@
+{
+  "id": "geovista",
+  "title": "GEOVISTA",
+  "link": "http://www.geospan.com/product-api.asp",
+  "image": "http://www.geospan.com/images/innerpage_header.jpg",
+  "author": {
+    "name": "GEOSPAN"
+  },
+  "tags": [
+    "System",
+    "Perspective",
+    "Geographical"
+  ],
+  "description": "GEOVISTA® 3D Spatial Imaging camera systems are mounted on light aircraft and GeoVans. These systems collect multi-perspective georeferenced 360° imagery for viewing of large geographical areas at the desktop. "
+}

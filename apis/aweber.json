@@ -1,0 +1,17 @@
+{
+  "id": "aweber",
+  "title": "AWeber",
+  "link": "https://labs.aweber.com/",
+  "image": "https://labs.aweber.com/images/logo2.png",
+  "author": {
+    "name": "AWeber Labs"
+  },
+  "tags": [
+    "Developer",
+    "Construct",
+    "Managing",
+    "Data",
+    "Foundation"
+  ],
+  "description": "AWeber's API is a REST-based API that allows developers to construct their own applications for displaying and managing AWeber customer accounts. The API uses OAuth 1.0 for authentication and returns all requested data in JSON format. Additionally, the client libraries provide developers with a working foundation on which they can build their new applications. "
+}

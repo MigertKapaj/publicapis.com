@@ -1,0 +1,15 @@
+{
+  "id": "yikesite",
+  "title": "YikeSite",
+  "link": "http://api.yikesite.com/json",
+  "image": "http://api.yikesite.com/images/yikesite.png",
+  "author": {
+    "name": "YikeSite"
+  },
+  "tags": [
+    "Provides",
+    "Deleting",
+    "Managing"
+  ],
+  "description": "YikeSite provides a JSON API for viewing account information, creating/updating/deleting pages, and managing customers."
+}

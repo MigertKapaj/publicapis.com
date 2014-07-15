@@ -1,0 +1,15 @@
+{
+  "id": "moo",
+  "title": "moo",
+  "link": "http://uk.moo.com/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRajYGSo5HRAHkBDwY9gQaUAUT3Ni5KkbWSaqgj-7qoJcoH0zzI",
+  "author": {
+    "name": "moo"
+  },
+  "tags": [
+    "Features",
+    "Website",
+    "Technology"
+  ],
+  "description": "Our aim was to provide an API that implements all the features supported by our back end and ultimately exceeded those of our own website.Now that it’s up and running, we’re so pleased with our API, we’re using it ourselves as a core part of the MOO technology stack."
+}

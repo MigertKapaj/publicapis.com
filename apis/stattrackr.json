@@ -1,0 +1,15 @@
+{
+  "id": "stattrackr",
+  "title": "Stattrackr",
+  "link": "http://developer.stattrackr.com",
+  "image": "https://pbs.twimg.com/profile_images/344513261571689784/934c1ba5627842cb9ab072a3abdc2bf2_bigger.jpeg",
+  "author": {
+    "name": "Stattrackr"
+  },
+  "tags": [
+    "Statistics",
+    "Database",
+    "Sharing"
+  ],
+  "description": "Tie your user's stats into StatTrackr to allow them to effortlessly share their statistics with the world. Take advantage of the StatTrackr database to create your own unique ways of sharing stats."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "time-tracking",
+  "title": "time-tracking",
+  "link": "http://www.tuaw.com/2009/01/15/timexchange-offers-a-time-tracking-api/",
+  "image": "http://www.blogsmithmedia.com/www.tuaw.com/media/logo-1b.png",
+  "author": {
+    "name": "TUAW"
+  },
+  "tags": [
+    "Online",
+    "Standard",
+    "Developers",
+    "Integrations"
+  ],
+  "description": "TimeXchange is a relatively new addition to the pile of available online time-tracking applications. Its current incarnation on the web is pretty standard, covering bases like multiple time entry, report and invoice creation, and Quickbooks integration. The developers have been fielding a lot of feature requests ... more than they have the capacity to handle. Their solution: an API, announced today, which will allow third-party developers to create applications, mashups and integrations with other tools."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "biteasy",
+  "title": "Biteasy",
+  "link": "https://www.biteasy.com/developers",
+  "image": "https://www.biteasy.com/assets/logos/full_logos.png",
+  "author": {
+    "name": "Biteasy"
+  },
+  "tags": [
+    "Provides",
+    "Data",
+    "Information",
+    "Interest"
+  ],
+  "description": "The Biteasy Websockets API provides you a powerful and simple way to retrieve data from the bitcoin network in a live manner. In this way, you can create powerful applications that will be able to immediately show any information (such as balance updates and much more) that interest it’s user. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "dropproxy",
+  "title": "Dropproxy",
+  "link": "http://dropproxy.com/api-doc",
+  "image": "",
+  "author": {
+    "name": "dropproxy"
+  },
+  "tags": [
+    "End Point",
+    "Special",
+    "HTTP",
+    "Listed"
+  ],
+  "description": "Our RESTful API is 100% open. You don't need a special key or anything, just make HTTP calls to the end-points listed below"
+}

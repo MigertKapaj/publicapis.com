@@ -1,0 +1,16 @@
+{
+  "id": "directions-service",
+  "title": "Directions Service",
+  "link": "http://www.mapquestapi.com/directions/",
+  "image": "http://www.mapquestapi.com/cdn/common/images/MQ_header_logo_DevNet.png",
+  "author": {
+    "name": "MapQuest"
+  },
+  "tags": [
+    "Interface",
+    "Narrative",
+    "Shapes",
+    "Service"
+  ],
+  "description": "The Route Service provides a simple interface to get routing, narrative, and shapes.\nSee our Release Notes for details on the latest additions to this service.\n"
+}

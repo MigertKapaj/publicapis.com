@@ -1,0 +1,16 @@
+{
+  "id": "free-music",
+  "title": "Free Music",
+  "link": "http://www.unsignedbandweb.com/music-api.html",
+  "image": "http://www.unsignedbandweb.com/themes/free_music/random/header3.jpg",
+  "author": {
+    "name": "Unsigned Band Web"
+  },
+  "tags": [
+    "Internet",
+    "Access",
+    "Project",
+    "Music"
+  ],
+  "description": "Welcome developers! The unsigned band web is one of the largest pure unsigned music sites on the internet. We provide several free music API's that allow you to access our database of bands & songs for your project. All of the data we provide is commercial free and we span all genres of music."
+}

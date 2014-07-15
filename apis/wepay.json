@@ -1,0 +1,14 @@
+{
+  "id": "wepay",
+  "title": "Wepay",
+  "link": "https://www.wepay.com/developer",
+  "image": "https://static.wepay.com/img/logos/wepay.png",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "Online payments",
+    "Shielding from frauds"
+  ],
+  "description": "With the WePay API, you can instantly enable your users to accept online payments. The WePay API supports a seamless user-experience while shielding your application from fraud and regulatory complexity."
+}

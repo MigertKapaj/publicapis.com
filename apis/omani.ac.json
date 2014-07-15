@@ -1,0 +1,15 @@
+{
+  "id": "omani.ac",
+  "title": "Omani.ac",
+  "link": "http://omani.ac",
+  "image": "",
+  "author": {
+    "name": "Omani.ac"
+  },
+  "tags": [
+    "Shortener",
+    "browsers",
+    "original."
+  ],
+  "description": "Omani.ac is a URL shortener. Really long urls can be substituted by a shorter one which forwards browers to the original web address."
+}

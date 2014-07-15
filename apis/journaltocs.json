@@ -1,0 +1,15 @@
+{
+  "id": "journaltocs",
+  "title": "JournalTOCs",
+  "link": "http://www.journaltocs.ac.uk/develop.php",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT7h4FaCCSfLXiko99LWKwGWgsLV9mFTX7bWxUUptOK_F3MhFsa5A",
+  "author": {
+    "name": "JournalTOCs"
+  },
+  "tags": [
+    "Developer",
+    "Functionality",
+    "Access"
+  ],
+  "description": "Developers can use the API to embed JournalTOCs' search functionality within their web applications. Anyone with access to RSS Readers can also use the JournalTOCs API."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hive",
+  "title": "Hive",
+  "link": "http://hive.packetizer.com/api/",
+  "image": "http://hive.packetizer.com/images/hive.gif",
+  "author": {
+    "name": "Hive"
+  },
+  "tags": [
+    "System",
+    "Developers",
+    "Retrieve"
+  ],
+  "description": "This document is an application programmming interface (API) to the Hive system. It is intended for software developers who wish to write clients that store, retrieve, delete, or alter files on Hive. "
+}

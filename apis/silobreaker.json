@@ -1,0 +1,15 @@
+{
+  "id": "silobreaker",
+  "title": "Silobreaker",
+  "link": "http://api.silobreaker.com/",
+  "image": "",
+  "author": {
+    "name": "Silobreaker"
+  },
+  "tags": [
+    "Request",
+    "Provided",
+    "Interpreted"
+  ],
+  "description": "A request to the API must be authenticated, either by using a key, or by having a valid session cookie set. If no key is provided, and no cookie is set, it is interpreted as the key being set to the empty string. The key is set by adding the parameter apiKey to the url."
+}

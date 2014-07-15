@@ -1,0 +1,15 @@
+{
+  "id": "acoustid",
+  "title": "AcoustID",
+  "link": "http://acoustid.org/webservice",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRcNnu9IrSbhgfIBA-AvMFUWa3umxL3UABo3Ve806LoaDfB3LVTKg",
+  "author": {
+    "name": "AcoustID"
+  },
+  "tags": [
+    "Service",
+    "Supports",
+    "Submitting"
+  ],
+  "description": "The AcoustID web service currently supports only two operations, searching in the fingerprint database and submitting new fingerprints into the database."
+}

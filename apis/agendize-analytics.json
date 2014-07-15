@@ -1,0 +1,16 @@
+{
+  "id": "agendize-analytics",
+  "title": "Agendize Analytics ",
+  "link": "http://developers.agendize.com/p/analytics",
+  "image": "http://developers.agendize.com/shared/img/agendize.gif",
+  "author": {
+    "name": "Agendize"
+  },
+  "tags": [
+    "Analytics",
+    "Access",
+    "Reporting",
+    "Data"
+  ],
+  "description": "With the Agendize Analytics API, you can access all of your Agendize reporting data."
+}

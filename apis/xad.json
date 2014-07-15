@@ -1,0 +1,16 @@
+{
+  "id": "xad",
+  "title": "xAd",
+  "link": "http://cdn.xad.com/developers/sdk.js/",
+  "image": "http://cdn.xadcentral.com/developers/images/logo.png",
+  "author": {
+    "name": "xAd"
+  },
+  "tags": [
+    "Data",
+    "Basics",
+    "Work",
+    "Reference"
+  ],
+  "description": "The REST API is the primary way that data is retrieved or posted to xAd. This document contains an overview of the basics of the API, shows you how names work, how permissions work, what connections are and puts it all together so the rest of this reference make sense."
+}

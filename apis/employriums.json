@@ -1,0 +1,16 @@
+{
+  "id": "employriums",
+  "title": "Employrium's",
+  "link": "http://www.employrium.com/api/api-home.aspx",
+  "image": "http://estatic.employrium.com/images/new/employrium_logo_nsd.gif",
+  "author": {
+    "name": "Employrium"
+  },
+  "tags": [
+    "Data",
+    "Provides",
+    "Slackers",
+    "Service"
+  ],
+  "description": "Oh and you'll need to obtain an API key. Once you have your API key, your pretty much ready to go. Take a look at the RESTful URLs listed below to get a feel for what data is currently available. What if you don't find a RESTful URL that provides the data you want? No worries, you can drop us a line and let us know what we're missing (the slackers on our end will get three lashes with a wet noodle) and rest assured we will get to work on your request. Otherwise, just check in from time to time as new RESTful URLs are included to better service your needs."
+}

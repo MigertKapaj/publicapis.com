@@ -1,0 +1,15 @@
+{
+  "id": "sendhub",
+  "title": "Sendhub",
+  "link": "https://www.sendhub.com/developer/",
+  "image": "https://www.shtatics.com/assets/file/bb00156fb908ece9ab566f27a6a4c83df2ab1561/media/images/SendHubLogoLarge.png",
+  "author": {
+    "name": "Sendhub"
+  },
+  "tags": [
+    "Message",
+    "App",
+    "User"
+  ],
+  "description": "SendHub is the easy way to send one text message to everyone. With the SendHub API you can make it easy for your app, and your users to do the same"
+}

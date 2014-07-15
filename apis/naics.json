@@ -1,0 +1,16 @@
+{
+  "id": "naics",
+  "title": "NAICS",
+  "link": "https://github.com/codeforamerica/naics-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Classify",
+    "Aggregating",
+    "Data",
+    "Trend"
+  ],
+  "description": "NAICS (North American Industry Classification System) is maintained by the United States Bureau of Labor Statistics to classify business types. It is used for aggregating, presenting, and analyzing data and trends in the US economy."
+}

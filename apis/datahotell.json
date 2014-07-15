@@ -1,0 +1,13 @@
+{
+  "id": "datahotell",
+  "title": "\nDatahotell",
+  "link": "http://hotell.difi.no/api",
+  "image": "http://hotell.difi.no/profiles/datahotel/themes/difi2_datahotel/logo.png",
+  "author": {
+    "name": "difi"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Gjennom API får man 100 poster per side (pagination), og man må spørre flere ganger for å hente mer enn de 100 første postene. Informasjon om nedlasting av komplett datasett finner man lenger nede."
+}

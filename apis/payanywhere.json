@@ -1,0 +1,16 @@
+{
+  "id": "payanywhere",
+  "title": "PayAnywhere",
+  "link": "http://www.payanywhere.com/developers",
+  "image": "http://www.payanywhere.com/bundles/payanywhere/images/logo.png?v1",
+  "author": {
+    "name": "PayAnywhere"
+  },
+  "tags": [
+    "Platform",
+    "Payment",
+    "Easy",
+    "Safe"
+  ],
+  "description": "With PayAnywhere's developer platform, adding payment processing and credit card swiping to your app is easy, safe and supported by a robust community of developers. A snippet of code is all you need to add instant credit card processing to your app. "
+}

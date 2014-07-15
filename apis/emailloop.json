@@ -1,0 +1,15 @@
+{
+  "id": "emailloop",
+  "title": "EmailLoop",
+  "link": "http://www.emailloop.net/api/api.html",
+  "image": "http://www.emailloop.net/images/emaillooplogo.png",
+  "author": {
+    "name": "EmailLoop"
+  },
+  "tags": [
+    "Database",
+    "Shopping",
+    "Powerful"
+  ],
+  "description": "The EmailLoop API is a way for you to \"sync\" your customer database, CRM, CMS, or e-commerce shopping cart with EmailLoop. It's really powerful stuff. "
+}

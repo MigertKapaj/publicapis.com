@@ -1,0 +1,15 @@
+{
+  "id": "neoncrm",
+  "title": "NeonCRM",
+  "link": "http://help.neoncrm.com/api/rest",
+  "image": "http://help.neoncrm.com/sites/default/files/wrench_0.png",
+  "author": {
+    "name": "NeonCRM"
+  },
+  "tags": [
+    "Testing",
+    "Features",
+    "Support"
+  ],
+  "description": "The API is currently in the Beta testing stage. This means that you must use it at your own risk. API features are currently unsupported and offered with no guarantees or warranty. Please do not submit support tickets for API-related requests."
+}

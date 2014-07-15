@@ -1,0 +1,15 @@
+{
+  "id": "stream-sdk",
+  "title": "Stream SDK",
+  "link": "http://streamsdk.com",
+  "image": "http://streamsdk.com/img/index2.jpg",
+  "author": {
+    "name": "Stream SDK"
+  },
+  "tags": [
+    "Data",
+    "Categories",
+    "Development"
+  ],
+  "description": "Stream SDK provides a simple API you need to store basic data types, files, categories and query these data in a few line of code between front-end development proficiency and back-end infrastructure requirements\n\n            "
+}

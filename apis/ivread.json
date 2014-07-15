@@ -1,0 +1,15 @@
+{
+  "id": "ivread",
+  "title": "I'vRead",
+  "link": "http://ivread.com/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_arsEswyHktiyQq2_bLmtp4-TgkFszV-itw3i6aEQfHI1injg",
+  "author": {
+    "name": "I'vRead"
+  },
+  "tags": [
+    "Alternative",
+    "Catch",
+    "Separate"
+  ],
+  "description": "There are alternative ways to tweet to record. We are trying to catch as much as we can, because you may only remember \"ivread\" when using this service (the first notation is always better, because it clearly can separate book-title and review though). "
+}

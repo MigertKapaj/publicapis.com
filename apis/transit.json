@@ -1,0 +1,17 @@
+{
+  "id": "transit",
+  "title": "Transit",
+  "link": "http://thetransitapp.com/developers",
+  "image": "http://thetransitapp.com/img/home/header-logo.png",
+  "author": {
+    "name": "Transit"
+  },
+  "tags": [
+    "Data",
+    "Specification",
+    "Transit",
+    "Agency",
+    ""
+  ],
+  "description": "Transit uses the GTFS open transit data format. Although it is a standardized, well accepted format, we have observed common pitfalls in the respect of the Specification Reference. If you're working at a transit agency and are in some way connected to the publishing of their open data, here are a couple things you can do to help transit app developers like ourselves:"
+}

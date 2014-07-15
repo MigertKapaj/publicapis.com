@@ -1,0 +1,16 @@
+{
+  "id": "corporate-bond",
+  "title": "Corporate Bond",
+  "link": "http://www.xignite.com/product/XigniteBonds/api/GetPriceComposite/",
+  "image": "http://www.xignite.com/img/global/logo-text.png",
+  "author": {
+    "name": "Xignite"
+  },
+  "tags": [
+    "Facilitates",
+    "Secondary",
+    "Securities",
+    "Corporate"
+  ],
+  "description": "This API offers delayed traded prices for U.S. corporate bonds and U.S. agency debt bonds as reported to FINRA TRACE. The Trade Reporting and Compliance Engine (TRACE) is the vehicle that facilitates the mandatory reporting of over the counter secondary market transactions in eligible fixed income securities. All broker/dealers who are FINRA member firms have an obligation to report transactions in corporate bonds to TRACE under an SEC approved set of rules."
+}

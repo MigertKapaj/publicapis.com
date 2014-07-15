@@ -1,0 +1,17 @@
+{
+  "id": "amazon",
+  "title": "Amazon",
+  "link": "https://developer.amazon.com/sdk.html",
+  "image": "https://developer.amazon.com/public/images/logo-amazon.png",
+  "author": {
+    "name": "Amazon"
+  },
+  "tags": [
+    "Android",
+    "Improve",
+    "Create",
+    "Platform",
+    "Solutions"
+  ],
+  "description": "Amazon provides iOS, Android, and Kindle Fire APIs that help you improve your monetization and create better experiences for your users. Whatever your platform, we have solutions for you and your customers. "
+}

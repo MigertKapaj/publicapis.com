@@ -1,0 +1,15 @@
+{
+  "id": "buyvite-transaction",
+  "title": "Buyvite Transaction",
+  "link": "http://buyvite.com/api/default.aspx",
+  "image": "http://buyvite.com/images/logo.png",
+  "author": {
+    "name": "Buyvite"
+  },
+  "tags": [
+    "Intergrate",
+    "Data",
+    "Connection"
+  ],
+  "description": "Buyvite is simple to intergrate into existing code.  A Buyvite transaction is submitted through a direct post method which sends data to Buyvite's server via a standard HTTP request over an SSL connection.  Once you have requested a partnership you will be provided a Partner ID for testing."
+}

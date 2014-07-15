@@ -1,0 +1,15 @@
+{
+  "id": "voxels-hosting",
+  "title": "Voxel's Hosting",
+  "link": "http://api.voxel.net/docs/",
+  "image": "http://api.voxel.net/docs/assets/internap_logo_171_19.jpg",
+  "author": {
+    "name": "INTERNAP"
+  },
+  "tags": [
+    "Exposes",
+    "Interface",
+    "Services"
+  ],
+  "description": "Voxel's Hosting API (hAPI) exposes much of Voxel's hosting infrastructure via a standardized programmatic interface. Using hAPI, you can manage and monitor your Voxel services, using your programming language of choice."
+}

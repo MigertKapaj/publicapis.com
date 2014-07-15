@@ -1,0 +1,13 @@
+{
+  "id": "genopro",
+  "title": "Genopro",
+  "link": "https://api.genopro.com/ws.asmx",
+  "image": "",
+  "author": {
+    "name": "Genopro"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

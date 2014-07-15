@@ -1,0 +1,15 @@
+{
+  "id": "gilda",
+  "title": "GILDA",
+  "link": "http://gilda.iom.cnr.it/api_description.html",
+  "image": "",
+  "author": {
+    "name": "GILDA"
+  },
+  "tags": [
+    "Pressure",
+    "Purpose",
+    "Absorption"
+  ],
+  "description": "Absorber is used to calculate, at a given energy, the absorption of an ion chamber of given length, gas pressure and gas type. At this purpose the parameters from the McMaster tables are used. In the following example we will calculate the absorption of an ion chamber 15 cm long and filled with 500m Bar of Nitrogen gas for X-rays of 10 KeV of energy. "
+}

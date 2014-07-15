@@ -1,0 +1,15 @@
+{
+  "id": "antigate",
+  "title": "Antigate",
+  "link": "http://antigate.com/",
+  "image": "",
+  "author": {
+    "name": "Antigate"
+  },
+  "tags": [
+    "Service",
+    "Online",
+    "Software"
+  ],
+  "description": "Antigate.Com is an online service which provides real-time captcha-to-text decodings. This works easy: your software uploads a captcha to our server and receives text from it within seconds."
+}

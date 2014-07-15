@@ -1,0 +1,17 @@
+{
+  "id": "redhat",
+  "title": "Redhat",
+  "link": "https://www.openshift.com/developers",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUjIc-umv1AOJZmJI3xt7Aj7sztdrn-zbQdRpdrCrmVIdMm4Yo",
+  "author": {
+    "name": "Open Shift"
+  },
+  "tags": [
+    "Search",
+    "Solved",
+    "Problem",
+    "Developer",
+    "Discussion"
+  ],
+  "description": "The OpenShift forum is a central location for discussion around building and deploying applications.  It is recommended that you search before opening an issue - it's possible someone has already solved your particular problem!\nThe #openshift IRC channel on freenode is the easiest way to talk directly to a developer, evangelist, or community expert.\nOpenShift team members watch the 'openshift' tag on StackOverflow - a great Q&A site for everything development related."
+}

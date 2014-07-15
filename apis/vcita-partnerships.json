@@ -1,0 +1,16 @@
+{
+  "id": "vcita-partnerships",
+  "title": "vCita partnerships",
+  "link": "http://www.vcita.com/partners",
+  "image": "http://www.vcita.com/assets/homepage/logo-e8c31f1aae8f7de5f0eb85bd5b683763.png",
+  "author": {
+    "name": "vCita"
+  },
+  "tags": [
+    "Optional",
+    "Present",
+    "Example",
+    "Case"
+  ],
+  "description": "Using this API is optional, and can be used in case you want to present different messages to your end-users in case they didn’t complete their setting yet. For example, instruct to “complete vCita account settings” if the account was not set yet, and “edit account settings” in case it is successfully set."
+}

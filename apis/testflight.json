@@ -1,0 +1,15 @@
+{
+  "id": "testflight",
+  "title": "TestFlight",
+  "link": "http://help.testflightapp.com/customer/portal/articles/821656-what-is-testflight-",
+  "image": "https://d3qktfj96j46kx.cloudfront.net/deathstar159/images/icon-64.png",
+  "author": {
+    "name": "TestFlight"
+  },
+  "tags": [
+    "Platform",
+    "Developers",
+    "Campaigns"
+  ],
+  "description": "TestFlight is a free platform used to distribute beta and internal iOS/Android applications to team members over-the-air. Developers can manage beta testing campaigns and receive feedback from their team with TestFlight's dashboard."
+}

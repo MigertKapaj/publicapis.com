@@ -1,0 +1,15 @@
+{
+  "id": "mailer",
+  "title": "Mailer",
+  "link": "http://docs.mailersoft.com/",
+  "image": "http://docs.mailersoft.com/assets/img/mailer_logo_baltas.png",
+  "author": {
+    "name": "Mailer"
+  },
+  "tags": [
+    "3rd party",
+    "HTTP",
+    "Libraries"
+  ],
+  "description": "API is built on HTTP. Our API is RESTful. There is no need to learn yet another 3rd party library to use the API. You can use your favorite HTTP/REST library available for your programming language to make HTTP calls. You can also use our prepared libraries to use MailerSoft. All code examples will be using our prepared libraries.\n"
+}

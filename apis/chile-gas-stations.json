@@ -1,0 +1,13 @@
+{
+  "id": "chile-gas-stations",
+  "title": "Chile Gas Stations",
+  "link": "https://www.mashape.com/sergiocampama/chile-gas-stations",
+  "image": "",
+  "author": {
+    "name": "sergiocampama"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Provides the gas stations and prices nearest to a location. Works only on Chile."
+}

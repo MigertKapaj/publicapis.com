@@ -1,0 +1,16 @@
+{
+  "id": "segpay",
+  "title": "SegPay",
+  "link": "http://segpay.com/services-products.asp",
+  "image": "http://segpay.com/assets/images/logo-segpay.jpg",
+  "author": {
+    "name": "SegPay"
+  },
+  "tags": [
+    "Provides",
+    "Service",
+    "Online",
+    "Web"
+  ],
+  "description": "SegPay offers Webmasters a state of the art billing platform that provides real time credit card, check, and European direct debit authorization services. The payment engine is supported with an automated password management system, marketing tools, real time sales reporting, and an online web interface to make account changes on the fly."
+}

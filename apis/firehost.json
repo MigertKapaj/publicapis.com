@@ -1,0 +1,16 @@
+{
+  "id": "firehost",
+  "title": "FireHost",
+  "link": "http://developer.firehost.com/",
+  "image": "http://developer.firehost.com/assets/img/layout/logo.png",
+  "author": {
+    "name": "FireHost"
+  },
+  "tags": [
+    "Flexiblity",
+    "Detailed",
+    "Fundamentals",
+    "Interation"
+  ],
+  "description": "Make the most of the added flexibility and control in the updated FireHost API with our detailed documentation and code samples. API operations, objects and fundamentals organized by category to easily reference while developing your custom applications and system integrations."
+}

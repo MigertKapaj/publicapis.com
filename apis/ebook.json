@@ -1,0 +1,15 @@
+{
+  "id": "ebook",
+  "title": "eBook",
+  "link": "http://www.samenrico.com/opdscatalog.php",
+  "image": "http://www.samenrico.com/templates/images/icon.png",
+  "author": {
+    "name": "Samenrico"
+  },
+  "tags": [
+    "Catalogs",
+    "Access",
+    "Applications"
+  ],
+  "description": "We have built several OPDS catalogs to enable you to access our entire library of publications directly through reader applications such as Aldiko, Moon+ Reader, Cool Reader, FBReader, EBookDroid and Mantano Reader which support the OPDS feature. "
+}

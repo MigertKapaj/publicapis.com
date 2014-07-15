@@ -1,0 +1,16 @@
+{
+  "id": "biocyc-web-services",
+  "title": "BioCyc Web Services",
+  "link": "http://ecocyc.org/web-services.shtml",
+  "image": "http://ecocyc.org/BioCyc.gif",
+  "author": {
+    "name": "BioCyc"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Lincense",
+    "Queries"
+  ],
+  "description": "BioCyc data are available in several formats via REST-based web services (BioCyc data can also be downloaded in a variety of XML and non-XML formats).  The web services return data in XML, JSON, and/or column-delimited formats. Use of the BioCyc web services API is subject to the terms of the BioCyc Databases Limited Use License.  Note that to avoid congestion\non the BioCyc web servers, we respectfully request that when writing programs that issue large numbers of web service queries, you limit requests to on average not more than one per second.\n\n"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "copyscape-premium",
+  "title": "Copyscape Premium",
+  "link": "http://www.copyscape.com/api-guide.php",
+  "image": "http://www.copyscape.com/images/cptitlemed.gif",
+  "author": {
+    "name": "Copyscape"
+  },
+  "tags": [
+    "System",
+    "Writers",
+    "Private"
+  ],
+  "description": "The Copyscape Premium API allows your developers to seamlessly integrate Copyscape Premium into your Content Management System, enabling you to automatically check the originality of new content as it arrives from your writers. If you have created a private index, the API also lets you add content to your private index or check new content against it. "
+}

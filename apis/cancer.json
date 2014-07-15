@@ -1,0 +1,15 @@
+{
+  "id": "cancer",
+  "title": "Cancer",
+  "link": "http://cancerapi.org/",
+  "image": "",
+  "author": {
+    "name": "Cancer"
+  },
+  "tags": [
+    "Platform",
+    "Focused",
+    "Private"
+  ],
+  "description": "CancerAPI.org is the home of CANAPI, a platform for building web applications focused on helping users find, follow and share information about emerging innovations in the fight against cancer. The CANAPI API is currently in private alpha."
+}

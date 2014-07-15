@@ -1,0 +1,16 @@
+{
+  "id": "national-broadband-map",
+  "title": "National Broadband Map",
+  "link": "http://www.broadbandmap.govt.nz/rest-api/",
+  "image": "http://www.broadbandmap.govt.nz/themes/sscmap/images/broadband_map_logo.gif",
+  "author": {
+    "name": "the National Broadband Map"
+  },
+  "tags": [
+    "Developers",
+    "Assumes",
+    "Services",
+    "Web"
+  ],
+  "description": "The information on this page is intended for developers and programmers that may wish to extend or improve on the National Broadband Map.   The content on this page assumes knowledge of RESTful APIs and web services."
+}

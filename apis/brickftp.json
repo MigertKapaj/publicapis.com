@@ -1,0 +1,15 @@
+{
+  "id": "brickftp",
+  "title": "BrickFTP",
+  "link": "http://brickftp.com/rest-api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQGm1zWwfh5oiGn5gZy0qjOqEn4uI22dslzyF-YKs48SKKhDP4-",
+  "author": {
+    "name": "BrickFTP"
+  },
+  "tags": [
+    "Require",
+    "Integration",
+    "Database"
+  ],
+  "description": "Our REST API is meant for people who require the highest level of integration between Brick and your own application, website, or database."
+}

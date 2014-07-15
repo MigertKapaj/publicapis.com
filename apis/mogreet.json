@@ -1,0 +1,17 @@
+{
+  "id": "mogreet",
+  "title": "Mogreet",
+  "link": "https://developer.mogreet.com/docs",
+  "image": "https://developer.mogreet.com/assets/logo-v2.png",
+  "author": {
+    "name": "Mogreet"
+  },
+  "tags": [
+    "Send",
+    "Multimedia",
+    "Video",
+    "Audio",
+    "Image"
+  ],
+  "description": "The Mogreet API lets you send and receive text or multimedia messages in minutes. You can also use our platform to transcode, host and send video, audio and images. "
+}

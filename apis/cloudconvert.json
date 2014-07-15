@@ -1,0 +1,14 @@
+{
+  "id": "cloudconvert",
+  "title": "CloudConvert",
+  "link": "https://cloudconvert.org/page/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdQPTz7_WDJpFGXEN-2nXl-QxKB5RS63xvjj3w31qWD5g9PzGf",
+  "author": {
+    "name": "CloudConvert "
+  },
+  "tags": [
+    "Convert",
+    "Personal"
+  ],
+  "description": "he CloudConvert REST API offers you great possibilites to convert files in the same way as you can do on the CloudConvert website. Therefore you need your personal API Key, which can be showed in your profile."
+}

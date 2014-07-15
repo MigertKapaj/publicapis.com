@@ -1,0 +1,16 @@
+{
+  "id": "gb-rail-info",
+  "title": "GB Rail Info",
+  "link": "http://www.gbrail.info/api",
+  "image": "",
+  "author": {
+    "name": "GB Rail Info"
+  },
+  "tags": [
+    "Optimal",
+    "British",
+    "Station",
+    "Date"
+  ],
+  "description": "The GB Rail Info API returns all optimal journeys between any pair of British railway stations for any specified date within the next seven days."
+}

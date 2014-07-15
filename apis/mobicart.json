@@ -1,0 +1,16 @@
+{
+  "id": "mobicart",
+  "title": "MobiCart",
+  "link": "http://www.mobi-cart.com/docs/api/index.html",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNoBerT0OTCg-TkZcAAzii_F5ZV_dYjY0YXJhuf_YLIgylw6bQ",
+  "author": {
+    "name": "MobiCart"
+  },
+  "tags": [
+    "Post",
+    "Commemt",
+    "URL",
+    "Manipulated"
+  ],
+  "description": "The MobiCart API follows the REST principles and has been built as vanilla XML/JSON over HTTP using GET/POST/PUT/DELETE. Every resource such as Post, Comment or Task has its own URL and can be manipulated separately.You can even explore the view part of the API (everything that's fetched with GET) through a regular browser. Using Firefox for this is preferable, as it has a good, simple XML renderer (unlike Safari which just strips the tags and dumps the content). Almost all URLs in MobiCart can be viewed in their XML form by adding the .xml extension. \n"
+}

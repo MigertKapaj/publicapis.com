@@ -1,0 +1,15 @@
+{
+  "id": "xboxliveapi",
+  "title": "XboxLiveAPI",
+  "link": "https://www.xboxleaders.com/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRctQfntqn53I7fFH8PT-3IbRoRtXndvOj5klDmsL7iHn88yIE7bQ",
+  "author": {
+    "name": "XboxLive"
+  },
+  "tags": [
+    "Data",
+    "Access",
+    "Developer"
+  ],
+  "description": "The XboxLeaders API allows developers to access public Xbox LIVE data in order to encourage app development \naround the Xbox LIVE service."
+}

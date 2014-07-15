@@ -1,0 +1,15 @@
+{
+  "id": "boingnet",
+  "title": "Boingnet",
+  "link": "http://www.boingnet.com/resources/api/",
+  "image": "http://www.boingnet.com/wp-content/uploads/2013/10/logo.jpg",
+  "author": {
+    "name": "Boingnet"
+  },
+  "tags": [
+    "Personalize",
+    "Offline",
+    "Response"
+  ],
+  "description": "Personalized URLs or pURLs offer a great way for marketers to easily and inexpensively personalize their offers, track their results and quantify offline marketing spend with one to one details of campaign response and actions."
+}

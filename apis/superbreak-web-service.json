@@ -1,0 +1,15 @@
+{
+  "id": "superbreak-web-service",
+  "title": "Superbreak Web Service",
+  "link": "http://help.webservices.superbreak.com/Api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS22WAh4sB-OoMyjZxhkDrBgoi94n-nL3ZGbmIrh5-g0r7de-Wezg",
+  "author": {
+    "name": "Superbreak Web Service"
+  },
+  "tags": [
+    "Service",
+    "Provide",
+    "Servers"
+  ],
+  "description": "Our web service solution uses SOAP messaging and is based on .NET 4.0. In order to provide maximum availability we run multiple mirrored web service servers that are load balanced."
+}

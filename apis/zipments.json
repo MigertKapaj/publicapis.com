@@ -1,0 +1,15 @@
+{
+  "id": "zipments",
+  "title": "zipments",
+  "link": "https://developers.zipments.com/",
+  "image": "https://developers.zipments.com/assets/logo-full-313f4c81454e99ab7172820cf5d0608c.svg",
+  "author": {
+    "name": "Zipments Developers"
+  },
+  "tags": [
+    "Deliveries",
+    "Aspects",
+    "Process"
+  ],
+  "description": "The zipments Customer API allows zipments clients to post deliveries, retrieve delivery status, and manage various aspects of their accounts. This guide will walk you through the process of signing up for API access and making a variety of API requests."
+}

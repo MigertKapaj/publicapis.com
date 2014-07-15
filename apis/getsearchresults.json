@@ -1,0 +1,15 @@
+{
+  "id": "getsearchresults",
+  "title": "GetSearchResults",
+  "link": "http://www.zillow.com/howto/api/GetSearchResults.htm",
+  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
+  "author": {
+    "name": "Zillow"
+  },
+  "tags": [
+    "Specified",
+    "Contains",
+    "Computed"
+  ],
+  "description": "The GetSearchResults API finds a property for a specified address. The content returned contains the address for the property or properties as well as the Zillow Property ID (ZPID) and current Zestimate®. It also includes the date the Zestimate was computed, a valuation range and the Zestimate ranking for the property within its ZIP code. "
+}

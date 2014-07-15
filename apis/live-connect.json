@@ -1,0 +1,15 @@
+{
+  "id": "live-connect",
+  "title": "Live Connect",
+  "link": "http://msdn.microsoft.com/en-us/library/live/hh826529.aspx",
+  "image": "",
+  "author": {
+    "name": "Live Connect Developer Center"
+  },
+  "tags": [
+    "Provides",
+    "Service",
+    "Compatible"
+  ],
+  "description": "Live Connect provides a set of APIs that enable your apps to work with info in Outlook.com, Skype, Microsoft OneDrive, and other services that are compatible with Live Connect."
+}

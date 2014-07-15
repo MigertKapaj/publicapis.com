@@ -1,0 +1,13 @@
+{
+  "id": "viralheat-sentiment",
+  "title": "Viralheat Sentiment",
+  "link": "https://www.mashape.com/electic/viralheat-sentiment",
+  "image": "",
+  "author": {
+    "name": "electic"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Viralheat sentiment is free API and allows users to submit short chunks of text for sentiment scoring."
+}

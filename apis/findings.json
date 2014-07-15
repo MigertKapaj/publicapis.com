@@ -1,0 +1,15 @@
+{
+  "id": "findings",
+  "title": " findings",
+  "link": "https://github.com/findings/findings-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Classmates",
+    "Strangers",
+    "Amazing"
+  ],
+  "description": "GitHub is the best place to share code with friends, co-workers, classmates, and complete strangers. Over five million people use GitHub to build amazing things together. "
+}

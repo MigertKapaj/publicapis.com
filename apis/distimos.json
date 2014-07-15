@@ -1,0 +1,15 @@
+{
+  "id": "distimos",
+  "title": "Distimo's",
+  "link": "http://www.distimo.com/app-analytics",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUT2q1zQQAb-CZ88BqN84bGUQckmy34OK3XnWbbWfmruEayVWH",
+  "author": {
+    "name": "Distimo"
+  },
+  "tags": [
+    "Data",
+    "Storage",
+    "Facilitates"
+  ],
+  "description": "Many of Distimo's users want to not only view their data within Distimo, but also collect it for their own storage and reports. The API makes this process simple, and eliminates the need to scrape Distimo itself. The API also facilitates the creation of third party applications, which may use your data to do cool new things."
+}

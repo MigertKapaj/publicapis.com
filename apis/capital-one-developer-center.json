@@ -1,0 +1,16 @@
+{
+  "id": "capital-one-developer-center",
+  "title": "Capital One Developer Center",
+  "link": "https://developer.capitalonelabs.com/",
+  "image": "https://developer.capitalonelabs.com/files/c1-labs.png",
+  "author": {
+    "name": "Capital One Developer Center"
+  },
+  "tags": [
+    "Interact",
+    "Ideas",
+    "Create",
+    "Experiences"
+  ],
+  "description": "Our mission in Capital One Labs is to reimagine the way our 60+ million customers interact with their money. We know the most interesting ideas may come from outside our walls, so we're empowering our partners to create new and awesomely creative experiences for our customers."
+}

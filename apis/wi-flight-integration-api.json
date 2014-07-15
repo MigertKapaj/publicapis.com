@@ -1,0 +1,15 @@
+{
+  "id": "wi-flight-integration-api",
+  "title": "Wi-Flight Integration API",
+  "link": "https://www.wi-flight.net/docs/api.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRftoiMWwCLvg6MMXKGc0WwaxrJPNE3UpgyNynWhAQmATFfplCOgA",
+  "author": {
+    "name": "Wi-Flight"
+  },
+  "tags": [
+    "Accessing Bulk Data",
+    "GUI Functions",
+    "Reservation System"
+  ],
+  "description": "An API (Application Programming Interface) is provided on the Wi-Flight\nservers for the following purposes:\nAccessing bulk data from flights, Integrating a dispatch & reservation system to Wi-Flight & Building additional GUI frontend functions"
+}

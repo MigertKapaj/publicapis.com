@@ -1,0 +1,16 @@
+{
+  "id": "payment-spring",
+  "title": "Payment Spring",
+  "link": "https://www.paymentspring.com/docs",
+  "image": "https://www.paymentspring.com/_theme/img/logo-header.png",
+  "author": {
+    "name": "Payment Spring"
+  },
+  "tags": [
+    "gateway",
+    "Transaction",
+    "Mitigate",
+    "Intenet"
+  ],
+  "description": "The PaymentSpring gateway is a powerful platform that can be used in many different ways to process your credit card transactions while helping you mitigate PCI compliance. Our Manage interface makes it easy for you to process your credit card transactions from any computer, tablet, or mobile phone with internet access. We also offer a RESTful API that allows you to integrate nearly any system with our gateway."
+}

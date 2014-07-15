@@ -1,0 +1,14 @@
+{
+  "id": "seattle-clearinghouse",
+  "title": "Seattle Clearinghouse",
+  "link": "https://seattle.poly.edu/wiki/SeattleGeniApi",
+  "image": "https://seattle.poly.edu/chrome/site/seattle.png",
+  "author": {
+    "name": "Seattle"
+  },
+  "tags": [
+    "Cearing House",
+    "Access"
+  ],
+  "description": "An XML-RPC interface to Seattle Clearinghouse is available, for clients wishing to access Seattle Clearinghouse functionality without going through the Seattle Clearinghouse website. The XML-RPC server is located at the following address: https://seattleclearinghouse.poly.edu/xmlrpc/"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "propublica-forensics",
+  "title": "ProPublica Forensics",
+  "link": "http://projects.propublica.org/forensics/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRGyoCGWLWoA3wmx4uOJxVVRUtQwwOOyuNKbd6Eg4Or-w-IRYWZhg",
+  "author": {
+    "name": "ProPublica"
+  },
+  "tags": [
+    "Data",
+    "System"
+  ],
+  "description": "With the ProPublica Forensics API, you can get state and county-level data about coroner and medical examiner systems in the United States. "
+}

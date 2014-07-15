@@ -1,0 +1,16 @@
+{
+  "id": "sms-gateway",
+  "title": "SMS Gateway",
+  "link": "http://www.mvaayoo.com/SMSGateway.html",
+  "image": "http://www.mvaayoo.com/img/mVaayoo_logo.gif",
+  "author": {
+    "name": "mVaayoo"
+  },
+  "tags": [
+    "SMS",
+    "Secured",
+    "Guide",
+    ""
+  ],
+  "description": "mVaayoo SMS Gateway offers to enable any Website, Application or Information System with high speed, technologically advanced & secured 2-Way SMS Services. SMS Gateway Integration can be implemented via a wide range of simple, secured & flexible APIs offering a wide array of connection options viz. HTTP, SMPP, FTP, etc. We provide a comprehensive SMS Gateway API Integration document which guides you smoothly through the complete integration process and also provide additional code scripts for use with all kinds of programming interfaces."
+}

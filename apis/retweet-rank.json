@@ -1,0 +1,14 @@
+{
+  "id": "retweet-rank",
+  "title": "Retweet Rank",
+  "link": "http://www.retweetrank.com/view/api",
+  "image": "http://1-ps.googleusercontent.com/x/s.retweetrank-hrd.appspot.com/www.retweetrank.com/static/150x23xrtr-transparent.png.pagespeed.ic.hEeMtEmZlg.png",
+  "author": {
+    "name": "Retweet Rank"
+  },
+  "tags": [
+    "Private",
+    "Delete"
+  ],
+  "description": "Retweet Rank user pages are just another view for your twitter account. If you mark your twitter account as private, your retweets will not show up on your page at retweetrank. If you delete your twitter account, your retweet rank page will go away. If you just marked your account as private or deleted it, it may take upto 24 hours to reflect on retweetrank.com."
+}

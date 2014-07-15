@@ -1,0 +1,15 @@
+{
+  "id": "regal-technologies",
+  "title": "Regal Technologies",
+  "link": "http://www.regaltek.com/devconnect.html",
+  "image": "http://www.regaltek.com/images/logo.gif",
+  "author": {
+    "name": "Regal Technologies"
+  },
+  "tags": [
+    "Integration",
+    "Identify",
+    "Prevent"
+  ],
+  "description": "Several APIs include full integration of Fraud Detection Suite (FDS) is a set of customizable, rules-based filters and tools that identify manage and prevent suspicious and potentially costly fraudulent transactions."
+}

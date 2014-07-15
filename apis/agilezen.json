@@ -1,0 +1,15 @@
+{
+  "id": "agilezen",
+  "title": "AgileZen",
+  "link": "http://dev.agilezen.com/",
+  "image": "",
+  "author": {
+    "name": "AgileZen"
+  },
+  "tags": [
+    "Designed",
+    "Concept",
+    "Resources"
+  ],
+  "description": "The AgileZen API is designed around a concept called REST. In a RESTful system, information is organized into resources, each of which is uniquely identified via a URI."
+}

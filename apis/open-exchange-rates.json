@@ -1,0 +1,13 @@
+{
+  "id": "open-exchange-rates",
+  "title": "Open Exchange Rates",
+  "link": "https://www.mashape.com/joss/open-exchange-rates",
+  "image": "",
+  "author": {
+    "name": "joss"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Real-time Exchange Rates designed just for Developers –– simple, fast and accurate JSON currency API, with prices for 161 world currencies, historical data back to 1999 –– jump over to https://openexchangerates.org for more info!"
+}

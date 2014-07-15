@@ -1,0 +1,15 @@
+{
+  "id": "cron",
+  "title": "Cron",
+  "link": "http://jude.me/cron/document/",
+  "image": "",
+  "author": {
+    "name": "Jude"
+  },
+  "tags": [
+    "Projects",
+    "Service",
+    "Integrate"
+  ],
+  "description": "Hi, my name is Jude, this is one of my personal projects. It aims to provide a web based API service for scheduled or recurring tasks(cron jobs). You can easily integrate it into your own applications."
+}

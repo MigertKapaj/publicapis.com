@@ -1,0 +1,15 @@
+{
+  "id": "dudamobile",
+  "title": "DudaMobile",
+  "link": "http://www.dudamobile.com/api-docs/technical-overview/how-to-use-api.html",
+  "image": "http://www.dudamobile.com/templates/img/logos/duda.png",
+  "author": {
+    "name": "Duda"
+  },
+  "tags": [
+    "Access",
+    "Payments",
+    "Supported"
+  ],
+  "description": "The DudaAPI is free for anyone to access and use. You should take note of the payments section as we currently do not offer free ad-supported sites created via the API."
+}

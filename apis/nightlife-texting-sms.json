@@ -1,0 +1,15 @@
+{
+  "id": "nightlife-texting-sms",
+  "title": "NightLife Texting SMS",
+  "link": "http://www.nightlifetexting.com/sms-api.php",
+  "image": "http://www.nightlifetexting.com/images/nightlife-bulk-text-messaging.png",
+  "author": {
+    "name": "NightLife Texting"
+  },
+  "tags": [
+    "Send",
+    "Messagees",
+    "Integration"
+  ],
+  "description": "Our SMS API allows you to send text messages to nearly any mobile phone in the United States and Canada. We also offer other text messaging APIs allowing deeper integration of your application and our platform. Got questions? Get in touch with us. Ready to start? Open an account now (it's free!)."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "order",
+  "title": "Order",
+  "link": "https://hackfood.ordr.in/docs/order",
+  "image": "https://hackfood.ordr.in/images/logo.png",
+  "author": {
+    "name": "Hackfood"
+  },
+  "tags": [
+    "Account",
+    "Password",
+    "Requests"
+  ],
+  "description": "Placing an order with an exisiting user account must be authenticated with the user's password. Authenticated requests simply have an additional HTTP header."
+}

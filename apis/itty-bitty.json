@@ -1,0 +1,15 @@
+{
+  "id": "itty-bitty",
+  "title": "itty bitty",
+  "link": "http://www.ittybittyurl.com/api.html",
+  "image": "http://ittybittyurl.com/themes/v3/images/logo/orange.png",
+  "author": {
+    "name": "itty bitty"
+  },
+  "tags": [
+    "Provide",
+    "Websites",
+    "Generated"
+  ],
+  "description": "Our API allows you to provide short url functionality to any of your existing websites. When you register for an account, you're generated a unique API key which should be used in the API calls listed below. "
+}

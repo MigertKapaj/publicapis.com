@@ -1,0 +1,16 @@
+{
+  "id": "browserstack",
+  "title": "BrowserStack",
+  "link": "https://github.com/browserstack/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Denotes",
+    "Provides",
+    "Service",
+    "Testing"
+  ],
+  "description": "The following denotes the HTTP-based API for BrowserStack. It provides browser-as-a-service for automated cross-browser testing. The goal is to provide a simple service which can easily be used by any browser testing framework."
+}

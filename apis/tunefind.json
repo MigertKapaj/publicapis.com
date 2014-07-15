@@ -1,0 +1,17 @@
+{
+  "id": "tunefind",
+  "title": "TuneFind",
+  "link": "http://www.tunefind.com/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSLNUVCP8QK9TVL9-futHQWbwYeES9Gz09143tMzwCeUZxsPDrFCw",
+  "author": {
+    "name": "TuneFind"
+  },
+  "tags": [
+    "Describes",
+    "Reading",
+    "Data",
+    "Secured",
+    "Store"
+  ],
+  "description": "This document describes the TuneFind REST API. The API provides methods for reading most of the data found on TuneFind.com. All API requests are secured, authenticated, and rate-limited as described below. Use of our data is subject to the TuneFind Terms of Use and TuneFind API Terms of Use. Per these terms Standard API users must not cache or store API data in any form for longer than than 24 hours."
+}

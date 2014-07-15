@@ -1,0 +1,15 @@
+{
+  "id": "okkam",
+  "title": "Okkam",
+  "link": "http://api.okkam.org/",
+  "image": "http://api.okkam.org/resources/img/logo/okkam.png",
+  "author": {
+    "name": "Okkam"
+  },
+  "tags": [
+    "System",
+    "Reuse",
+    "Possible"
+  ],
+  "description": "The Entity Name System (ENS), applying the OKKAM razor principle, makes the systematic reuse of globally unique identifiers possible."
+}

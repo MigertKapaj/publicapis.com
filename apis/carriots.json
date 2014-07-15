@@ -1,0 +1,16 @@
+{
+  "id": "carriots",
+  "title": "Carriots",
+  "link": "https://www.carriots.com/documentation/api/project_management#services",
+  "image": "https://www.carriots.com/newFrontend/img-carriots/logo_registered.png",
+  "author": {
+    "name": "Carriots"
+  },
+  "tags": [
+    "Plateform",
+    "Internet",
+    "M2M",
+    "Devices"
+  ],
+  "description": "Carriots is a Platform as a Service (PaaS) designed for Internet of Things (IoT) and Machine to Machine (M2M) projects.\nWe connect devices to Internet and Internet to the devices.\n                        "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "atlas-reporting",
+  "title": "Atlas Reporting",
+  "link": "http://msdn.microsoft.com/en-us/library/dd794286%28v=msads.10%29.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Access",
+    "Reporting",
+    "Customers"
+  ],
+  "description": "Currently, access to the Atlas Reporting API is limited to participants who are invited into the Reporting API program. This limitation helps us to test the system and to quickly perform necessary changes while minimizing the impact of these changes on our customers."
+}

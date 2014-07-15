@@ -1,0 +1,15 @@
+{
+  "id": "trello",
+  "title": "Trello",
+  "link": "https://trello.com/docs/api/index.html",
+  "image": "https://d2isj6rbqore70.cloudfront.net/trellogo-docs.png",
+  "author": {
+    "name": "Trello"
+  },
+  "tags": [
+    "Provides",
+    "Resource",
+    "Interact"
+  ],
+  "description": "Trello provides a simple RESTful web API where each type of resource (e.g. a card, a board, or a member) has a URI that you can interact with."
+}

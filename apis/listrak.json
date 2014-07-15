@@ -1,0 +1,16 @@
+{
+  "id": "listrak",
+  "title": "Listrak ",
+  "link": "http://webservices.listrak.com/Default.aspx",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-kX-UgjXtKev8Ho4t4frugqXoVDPpEhhLQhP2QlIPubGyorljLw",
+  "author": {
+    "name": "Listrak "
+  },
+  "tags": [
+    "Email marketing",
+    "ERP",
+    "CRM",
+    "Data transfer"
+  ],
+  "description": "Many organizations are already using Listrak’s API to build, manage, automate, report, and streamline elaborate email marketing processes remotely.  The API, or Application Programmer Interface, integrates existing systems, such as ERP, CRM, and online stores, with Listrak’s email marketing software.  This enables users to transfer data securely between the systems so email marketers may build strong, preference-based email lists quickly and easily."
+}

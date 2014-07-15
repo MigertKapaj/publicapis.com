@@ -1,0 +1,16 @@
+{
+  "id": "the-spark",
+  "title": "The Spark",
+  "link": "http://docs.sparkdevices.com/",
+  "image": "http://docs.sparkdevices.com/assets/spark-horizontal.png",
+  "author": {
+    "name": " Spark"
+  },
+  "tags": [
+    "Development",
+    "Device",
+    "Post",
+    ""
+  ],
+  "description": "The Spark API is currently in rapid development—things are changing fast Responses are currently dummy data HTTP GET requests retrieve data from a device without changing its state.\nHTTP POST requests send data to a device, usually changing its state in the proce If you already know the other common HTTP verbs,then you know what they do, if not, don't worry,you'll understand in a minute—just keep reading.\n                "
+}

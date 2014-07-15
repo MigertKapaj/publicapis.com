@@ -1,0 +1,15 @@
+{
+  "id": "deskarma",
+  "title": "Deskarma",
+  "link": "http://www.deskarma.com/overview/",
+  "image": "http://www.deskarma.com/images/deskarma_logo.gif",
+  "author": {
+    "name": "Deskarma"
+  },
+  "tags": [
+    "Knowledge",
+    "Motivate",
+    "Software"
+  ],
+  "description": "Deskarma provides a knowledge sharing solution along with guidance on how to motivate knowledge sharing within your company. Deskarma works either as a standalone application or to \"supercharge\" your existing collaboration software."
+}

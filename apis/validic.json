@@ -1,0 +1,16 @@
+{
+  "id": "validic",
+  "title": "Validic",
+  "link": "http://validic.com/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTvTYah1unBFuTjcT202OexxqoKFhY1pgzXDZGgXpKdGQv5RyxA",
+  "author": {
+    "name": "Validic"
+  },
+  "tags": [
+    "Healthcare",
+    "Mobile health",
+    "Devices",
+    ""
+  ],
+  "description": "The Validic API is designed to enable a simple, standardized connection between healthcare companies and mobile health and wellness apps and devices. Validic captures a user's fitness activities and health measurements over time. Each activity and measurement contains a timestamp and a note about which device was used to track the activity. A core aspect of the Validic API is to vastly increase the speed of integration between mHealth app developers and healthcare business. Additionally, Validic provides critical enterprise features needed by healthcare companies that are not usually provided as a core service by app developers."
+}

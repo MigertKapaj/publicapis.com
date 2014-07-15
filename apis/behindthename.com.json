@@ -1,0 +1,15 @@
+{
+  "id": "behindthename.com",
+  "title": "Behindthename.com",
+  "link": "http://www.behindthename.com/api/help.php",
+  "image": "http://www.behindthename.com/images/btn_header.png",
+  "author": {
+    "name": "Behindthename"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Organization"
+  ],
+  "description": "The behindthename.com application programming interface (API) is a free service that can be used by other organizations to leverage the name data on behindthename.com. "
+}

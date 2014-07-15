@@ -1,0 +1,15 @@
+{
+  "id": "cameratag",
+  "title": "CameraTag",
+  "link": "http://cameratag.com/docs/rest_overview",
+  "image": "",
+  "author": {
+    "name": "CameraTag"
+  },
+  "tags": [
+    "Designed",
+    "Lifecycle",
+    "Hosting"
+  ],
+  "description": "CameraTag was designed to handle your all digital video needs making each step of the video lifecycle as simple as one or two lines of code. From video recording and uploading to trasncoding, hosting and ultimately streaming we handle it all for you. "
+}

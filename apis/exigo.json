@@ -1,0 +1,15 @@
+{
+  "id": "exigo",
+  "title": "Exigo",
+  "link": "http://api.exigo.com/3.0/",
+  "image": "http://api.exigo.com/3.0/Content/Images/imgLogoSmall.png",
+  "author": {
+    "name": "Exigo"
+  },
+  "tags": [
+    "Integrated",
+    "Responses",
+    "Network"
+  ],
+  "description": "This reference includes full documentation and code samples that can be integrated into your applications right away. It utilizes the standard SOAP protocol for all request and responses. Clients can be written in .Net, Java, PHP, or any network stack capable of posting HTTP under SSL."
+}

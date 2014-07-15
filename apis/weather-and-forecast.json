@@ -1,0 +1,13 @@
+{
+  "id": "weather-and-forecast",
+  "title": "Weather and Forecast",
+  "link": "https://www.mashape.com/metwit/weather-and-forecast",
+  "image": "",
+  "author": {
+    "name": "metwit"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Howdy Developer,  \r\nif you are looking for a *weather* API then you search is over! \r\nMetwit born as a crowdsourced platform for gathering *real-time* weather reports from real people. \r\nAfter more then ten thousand users started to using our apps and send a massive amount of reports,  \r\nwe decided to release those precious reports through our APIs.   \r\n\r\nAnd that's not all: we're also offering a single gateway for multiple, hard to parse, sources of forecasts \r\nlike NOAA, and we're enhancing  them with social data like photos, tweets, etc., that we leverage from existing \r\nsocial networks.  \r\nIf you want to try it without a credit card, please go to: http://metwit.com/weather-api/"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "the-curd-collective-platform",
+  "title": "The Curd Collective Platform",
+  "link": "http://developer.curdcollective.com",
+  "image": "https://api.curdcollective.com",
+  "author": {
+    "name": "Curd Collective"
+  },
+  "tags": [
+    "Website",
+    "Cheese",
+    "Producers",
+    "Trending"
+  ],
+  "description": "The API lets you do most of the things that you can do on the website. Your users can Cheese-in™, view their feed, search for and learn more about the cheeses, producers or places and access trending items."
+}

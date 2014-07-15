@@ -1,0 +1,15 @@
+{
+  "id": "xfcc",
+  "title": "Xfcc",
+  "link": "http://xfcc.org/",
+  "image": "http://xfcc.org/mb_header.jpg",
+  "author": {
+    "name": "Xfcc"
+  },
+  "tags": [
+    "Defined",
+    "Data",
+    "Software"
+  ],
+  "description": "The first protocol defined is called XfccBasic. XfccBasic is used to exchange game data between correspondence chess servers and client software. The client software can be used to query the server for a list of games of the player, and to submit a move to the server."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "neos",
+  "title": "NEOS",
+  "link": "http://www.neos-server.org/neos/NEOS-API.html",
+  "image": "http://www.neos-server.org/neos/images/neos_server_bannerfinal.jpg",
+  "author": {
+    "name": "NEOS"
+  },
+  "tags": [
+    "Jobs",
+    "Python",
+    "Perl",
+    "Languages"
+  ],
+  "description": "NEOS runs an XML-RPC server to communicate with clients for submitting and retrieving jobs.  The server can communicate with clients written in Python, Perl, PHP, C, C++, Java, Ruby, and probably other languages as well.  More information on XML-RPC and writing clients can be found at http://www.xmlrpc.com or http://tldp.or /HOWTO/XML-RPC-HOWTO/index.html.  Any NEOS job submitted using the XML-RPC API must be formulated in the XML format required by the desired solver.  More information on this format can be found by following the'XML-RPC' link on the solver's page.\n\n\n\n\n\n"
+}

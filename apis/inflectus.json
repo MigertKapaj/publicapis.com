@@ -1,0 +1,15 @@
+{
+  "id": "inflectus",
+  "title": "Inflectus",
+  "link": "http://inflectus.com/docs.html#introduction",
+  "image": "http://inflectus.com/img/less.png",
+  "author": {
+    "name": "Inflectus"
+  },
+  "tags": [
+    "Provides",
+    "Developer",
+    "Experience"
+  ],
+  "description": "Inflectus provides an API to integrate your product with Inflectus. The API is meant to be used by developers so if you do not have any coding experience, you would need assistance from an experienced developer."
+}

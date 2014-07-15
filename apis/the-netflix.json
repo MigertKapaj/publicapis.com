@@ -1,0 +1,16 @@
+{
+  "id": "the-netflix",
+  "title": "The Netflix",
+  "link": "http://developer.netflix.com/docs/read/JavaScript_APIs",
+  "image": "http://developer.netflix.com/public/Mashery/images/clients/netflix/logo.gif",
+  "author": {
+    "name": " Netflix"
+  },
+  "tags": [
+    "Subscribers",
+    "Instantly",
+    "Developer",
+    "Consumer"
+  ],
+  "description": "The Netflix Javascript API allows subscribers to add, save, or instantly watch movies from pages on your web site. You include this API on a page with a single line of JavaScript. To try it out, sign up as a Netflix developer, find your consumer key (sometimes called the \"API key\" or just your \"key\") in My Keys, and place the <script> element shown in the examples below in your page at the place where you want the add, save, or watch buttons to show up."
+}

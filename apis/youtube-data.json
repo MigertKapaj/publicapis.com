@@ -1,0 +1,16 @@
+{
+  "id": "youtube-data",
+  "title": "YouTube Data",
+  "link": "https://developers.google.com/youtube/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Functionality",
+    "Retrieve",
+    "Insert",
+    "Resources"
+  ],
+  "description": "The YouTube Data API (v3) lets you incorporate YouTube functionality into your own application. You can use the API to fetch search results and to retrieve, insert, update, and delete resources like videos or playlists."
+}

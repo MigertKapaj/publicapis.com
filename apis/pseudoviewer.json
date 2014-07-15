@@ -1,0 +1,16 @@
+{
+  "id": "pseudoviewer",
+  "title": "PseudoViewer",
+  "link": "http://pseudoviewer.inha.ac.kr/",
+  "image": "http://pseudoviewer.inha.ac.kr/images/PVTop.gif",
+  "author": {
+    "name": "PseudoViewer"
+  },
+  "tags": [
+    "Bioinformatics",
+    "Data",
+    "Software",
+    "Structures"
+  ],
+  "description": "Visualizing RNA secondary structures and pseudoknot structures is essential to bioinformatics systems that deal with RNA structures. However, many bioinformatics systems use heterogeneous data structures and incompatible software components, so integration of software components into a system can be hindered by incompatibilities between the components of the system. We developed a new XML web service and web application program for visualizing RNA secondary structures with pseudoknots."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "compete",
+  "title": "Compete",
+  "link": "https://developer.compete.com/documentation/#overview",
+  "image": "https://developer.compete.com/wp-content/themes/compete-api/images/compete_api_logo.png",
+  "author": {
+    "name": "Compete"
+  },
+  "tags": [
+    "Interface",
+    "Provides",
+    "Services",
+    "Entirely"
+  ],
+  "description": "Welcome to the Compete API! This API, or application programming interface, provides access to the competitive web analytics that support Compete's industry-leading services. We open our vast stores of consumer data for you to integrate and use in your business. You and your company can use this data to enhance existing applications or create entirely new services."
+}

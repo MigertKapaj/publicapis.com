@@ -1,0 +1,16 @@
+{
+  "id": "the-bizo",
+  "title": "the Bizo",
+  "link": "http://developer.bizo.com/",
+  "image": "http://developer.bizo.com/_/rsrc/1273618511537/config/customLogo.gif?revision=1",
+  "author": {
+    "name": "Bizo"
+  },
+  "tags": [
+    "Supports",
+    "Commonly",
+    "Provides",
+    "Arriving"
+  ],
+  "description": "The Bizo API supports a number of functions or \"methods\".  They Profile API is the most commonly used API method.  It provides real time access to the bizographics on a user who is arriving or has arrived to your web \nsite.  "
+}

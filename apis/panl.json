@@ -1,0 +1,17 @@
+{
+  "id": "panl",
+  "title": "Panl",
+  "link": "https://www.panl.com/documentation/api-guide/",
+  "image": "",
+  "author": {
+    "name": "Pani"
+  },
+  "tags": [
+    "Service",
+    "Interface",
+    "Developers",
+    "Operations",
+    "Responsible"
+  ],
+  "description": "Panl is an IT monitoring service with a programmable interface that lets you write your own custom monitors.Our customers are developers and operations teams responsible for keeping critical systems up and running.\n"
+}

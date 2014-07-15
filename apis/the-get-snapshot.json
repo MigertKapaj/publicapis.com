@@ -1,0 +1,16 @@
+{
+  "id": "the-get-snapshot",
+  "title": "The Get Snapshot ",
+  "link": "http://developers.odesk.com/w/page/12364015/Snapshot",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Reterive",
+    "Error",
+    "Authourized",
+    "Details"
+  ],
+  "description": "The Get Snapshot API retrieves one or more snapshots of activity from a user account in a company's team at specific points in time. This can only be performed within teams. An error will be returned if the currently authorized user does not have access to the teammate details being requested."
+}

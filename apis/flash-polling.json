@@ -1,0 +1,16 @@
+{
+  "id": "flash-polling",
+  "title": "Flash Polling",
+  "link": "http://www.flashpolling.com/api",
+  "image": "http://www.flashpolling.com/images/layout/banner.png?1268175926",
+  "author": {
+    "name": "Flash Polling"
+  },
+  "tags": [
+    "Service",
+    "Recording",
+    "Answers",
+    "Results"
+  ],
+  "description": "Flash Polling provides a web-service API for creating questions, recording answers, and getting results. "
+}

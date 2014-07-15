@@ -1,0 +1,16 @@
+{
+  "id": "tubeupdates",
+  "title": "tubeupdates",
+  "link": "http://tubeupdates.com/documentation/",
+  "image": "http://www.programmableweb.com/images/apis/at3332.png",
+  "author": {
+    "name": "tubeupdates"
+  },
+  "tags": [
+    "Application",
+    "People",
+    "Website",
+    "Updates"
+  ],
+  "description": "As this API is just entering public beta, it is highly advisable that you let me know if you build an application so I can contact you should any of the API details change - it's also great to see what people are building! Alternatively, you can subscribe to the blog on my website or follow me on Twitter for all of the latest updates."
+}

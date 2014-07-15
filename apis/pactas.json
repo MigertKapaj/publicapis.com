@@ -1,0 +1,16 @@
+{
+  "id": "pactas",
+  "title": "Pactas",
+  "link": "http://developer.pactas.com/Docs/Reference",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVSTRkRZzEisfkYN4ATnpRWzxCCIwb7zfG4gNVm8iLH5Z220QP",
+  "author": {
+    "name": "Pactas"
+  },
+  "tags": [
+    "Resources",
+    "Inquiries",
+    "Restful",
+    "Github"
+  ],
+  "description": "This document describes the resources of the pactas API. Please direct any inquiries to support@pactas.comThe API aims to be RESTful and to follow github's excellent API v3 very closely."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "withings",
+  "title": "Withings",
+  "link": "http://www.withings.com/en/api/",
+  "image": "http://www.withings.com/images/front/logo.png",
+  "author": {
+    "name": "Withings"
+  },
+  "tags": [
+    "Service",
+    "Developers",
+    "Access",
+    "Data"
+  ],
+  "description": "The Withings Body metrics Services API (further referred as the WBS API) is a set of webservices that gives developers and third-party applications a limited access to the Withings database and user data."
+}

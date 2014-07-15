@@ -1,0 +1,15 @@
+{
+  "id": "chemspell",
+  "title": "ChemSpell",
+  "link": "http://chemspell.nlm.nih.gov/spell/",
+  "image": "http://chemspell.nlm.nih.gov/spell/img/bannerRounded.jpg",
+  "author": {
+    "name": "ChemSpell"
+  },
+  "tags": [
+    "Service",
+    "Checking",
+    "Inorganic"
+  ],
+  "description": "The ChemSpell Web Service API provides chemical name spell checking and chemical name synonym look-up. ChemSpell contains more than 1.3 million chemical names related to organic, inorganic, pharmaceutical, toxicological, and environmental health topics."
+}

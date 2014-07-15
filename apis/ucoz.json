@@ -1,0 +1,15 @@
+{
+  "id": "ucoz",
+  "title": "uCoz",
+  "link": "http://forum.ucoz.com/forum/37-13083-1",
+  "image": "http://forum.ucoz.com/images/logo.png",
+  "author": {
+    "name": "uCoz Community"
+  },
+  "tags": [
+    "Interface",
+    "Data",
+    "Receive"
+  ],
+  "description": "Basic API is an interface of receiving data from the pages of the user website. It is a GET-only interface, which allows to receive only site modules data (pages). So it works with Guest rights (non-authorized user)."
+}

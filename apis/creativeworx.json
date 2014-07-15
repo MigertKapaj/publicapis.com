@@ -1,0 +1,15 @@
+{
+  "id": "creativeworx",
+  "title": "CreativeWorx",
+  "link": "http://www.creativeworx.com/getting-started/",
+  "image": "http://www.creativeworx.com/wp-content/uploads/2013/10/cw_logo.png",
+  "author": {
+    "name": "CreativeWorx"
+  },
+  "tags": [
+    "Ambitious",
+    "Software",
+    "Consultants"
+  ],
+  "description": "CreativeWorx was founded by an ambitious team of designers, software engineers and process consultants who are passionate about redefining enterprise and individual productivity. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "poli-link",
+  "title": "POLi Link",
+  "link": "http://www.polipaymentdeveloper.com/doku.php?id=polilinkapi",
+  "image": "http://www.polipaymentdeveloper.com/lib/tpl/dokuwiki/images/logo.png",
+  "author": {
+    "name": "Poli payments"
+  },
+  "tags": [
+    "Payment",
+    "Transaction",
+    "Web",
+    "Data"
+  ],
+  "description": "The PaymentAPI GenerateURL web service is used to generate a POLi Link URL for initiating a custom payment transaction. When supplied with a valid Merchant Authentication data and Payment data (reference, amount etc.), PaymentAPI web service generates a short Payment URL."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "yast",
+  "title": "Yast",
+  "link": "http://www.yast.com/wiki/index.php/API",
+  "image": "http://www.yast.com/wiki/images/logo128.png",
+  "author": {
+    "name": "Yast"
+  },
+  "tags": [
+    "Access",
+    "Stored",
+    "Connecting",
+    "Custom"
+  ],
+  "description": "Yast has a powerful API that gives third-party applications access to the records stored in Yast. The API can for instance be used to create custom reports or connecting Yast to a separate billing application. "
+}

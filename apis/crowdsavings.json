@@ -1,0 +1,15 @@
+{
+  "id": "crowdsavings",
+  "title": "CrowdSavings",
+  "link": "http://www.crowdsavings.com/api/docs/v2",
+  "image": "http://www.crowdsavings.com/images/logos/logo-ncrowd.1384158169.png",
+  "author": {
+    "name": "CrowdSavings"
+  },
+  "tags": [
+    "Reference",
+    "Communicate",
+    "External"
+  ],
+  "description": "This page outlines the operability of the CrowdSavings.com API communications. You will find reference material on how to successfully communicate to the API with an external application."
+}

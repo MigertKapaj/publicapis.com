@@ -1,0 +1,13 @@
+{
+  "id": "cloudlibs-text-analytics",
+  "title": "Cloudlibs Text Analytics",
+  "link": "https://www.mashape.com/prashanthellina/cloudlibs-text-analytics",
+  "image": "",
+  "author": {
+    "name": "prashanthellina"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Maps any text content to relevant Wikipedia articles"
+}

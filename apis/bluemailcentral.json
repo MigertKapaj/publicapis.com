@@ -1,0 +1,16 @@
+{
+  "id": "bluemailcentral",
+  "title": "BlueMailCentral",
+  "link": "http://www.bluemailcentral.com/api",
+  "image": "https://www.bluemailcentral.com/sites/all/themes/bluemail/images/logo.png",
+  "author": {
+    "name": "BlueMailCentral.com"
+  },
+  "tags": [
+    "Customers",
+    "Server",
+    "Service",
+    "Software"
+  ],
+  "description": "With the use of this API you can upload your, or your customers, documents directly to our server while maintaining the possibilities to track the documents using our service provided via the client software or the website. "
+}

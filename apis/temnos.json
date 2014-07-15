@@ -1,0 +1,16 @@
+{
+  "id": "temnos",
+  "title": "Temnos ",
+  "link": "http://temnos.com/technology",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKOONiaxFPXzh_V6Q3VaeIyQkHGi78t6u9LrBBnB4gj8Yhk0V2",
+  "author": {
+    "name": "Temnos "
+  },
+  "tags": [
+    "Metadata",
+    "Metacontent",
+    "Armed",
+    "Repackged"
+  ],
+  "description": "Temnos offers scalable content intelligence services on a PaaS (Platform-as-a-Service) model. In essence, you send content (documents or URL’s) to our API and we give you back metadata or metacontent for each item of content that was processed by our platform. Armed with this information, you will gain insight into what your pages are about, which pieces of content are most relevant to each other (and why), and the various ways that pages can be characterized or re-packaged to your benefit."
+}

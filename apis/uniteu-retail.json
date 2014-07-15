@@ -1,0 +1,16 @@
+{
+  "id": "uniteu-retail",
+  "title": "UniteU Retail",
+  "link": "http://www.uniteu.com/retail_api.aspx",
+  "image": "http://www.uniteu.com/Assets/images/uulogo.png",
+  "author": {
+    "name": "UniteU"
+  },
+  "tags": [
+    "Existing",
+    "Solutions",
+    "Custom",
+    "Systems"
+  ],
+  "description": "The Retail API can be used to augment any of the existing retail management and POS integrations that UniteU offers as off-the-shelf solutions, along with providing custom integration paths for systems."
+}

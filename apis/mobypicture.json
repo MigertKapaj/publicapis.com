@@ -1,0 +1,15 @@
+{
+  "id": "mobypicture",
+  "title": "Mobypicture",
+  "link": "http://developers.mobypicture.com/",
+  "image": "http://layout.mobypicture.com/v1/mobypicture-logo-new-200px.png",
+  "author": {
+    "name": "Mobypicture"
+  },
+  "tags": [
+    "Company",
+    "Enable",
+    "Video"
+  ],
+  "description": "Mobypicture is a small company located in the city centre of Amsterdam. Moby was the first company in the world to enable people to share photos and video to Twitter."
+}

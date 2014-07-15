@@ -1,0 +1,15 @@
+{
+  "id": "pingar",
+  "title": "Pingar",
+  "link": "https://pingar.3scale.net/",
+  "image": "https://pingar.3scale.net/themes/default/images/pinger-logo-inner.gif",
+  "author": {
+    "name": "Pingar"
+  },
+  "tags": [
+    "Developer",
+    "Application",
+    "Product"
+  ],
+  "description": "On this site you can sign up for a free Pingar API key for the Developer account that will allow you to build new applications, or a paid higher usage account when ready to use Pingar in your application or product."
+}

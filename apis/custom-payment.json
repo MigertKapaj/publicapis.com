@@ -1,0 +1,15 @@
+{
+  "id": "custom-payment",
+  "title": "Custom Payment",
+  "link": "http://developers.odesk.com/w/page/25400171/Custom%20Payment%20API",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Payment",
+    "Service",
+    "Assignments"
+  ],
+  "description": "The custom payment API enables an external service to submit custom payments (\"bonuses\")  against assignments.\n "
+}

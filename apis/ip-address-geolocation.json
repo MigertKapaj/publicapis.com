@@ -1,0 +1,15 @@
+{
+  "id": "ip-address-geolocation",
+  "title": "IP Address Geolocation",
+  "link": "http://ipinfodb.com/ip_location_api.php",
+  "image": "http://ipinfodb.com/img/sitelogo.gif",
+  "author": {
+    "name": "IPInfoDB"
+  },
+  "tags": [
+    "Returns",
+    "Address",
+    "Format"
+  ],
+  "description": "The API returns the location of an IP address (country, region, city, zipcode, latitude, longitude) and the associated timezone in XML format."
+}

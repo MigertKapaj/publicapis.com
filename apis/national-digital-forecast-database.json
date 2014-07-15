@@ -1,0 +1,15 @@
+{
+  "id": "national-digital-forecast-database",
+  "title": "National Digital Forecast Database",
+  "link": "http://graphical.weather.gov/xml/",
+  "image": "http://graphical.weather.gov/staticimages/noaaleft.jpg",
+  "author": {
+    "name": "National Digital Forecast Database"
+  },
+  "tags": [
+    "Service",
+    "Agencies",
+    "Data"
+  ],
+  "description": "National Digital Forecast Database (NDFD) Extensible Markup Language (XML) is a service providing the public, government agencies, and commercial enterprises with data from the National Weather Service’s (NWS) digital forecast database."
+}

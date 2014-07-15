@@ -1,0 +1,16 @@
+{
+  "id": "instant-answer",
+  "title": " Instant Answer",
+  "link": "https://api.duckduckgo.com/api",
+  "image": "https://api.duckduckgo.com/assets/logo_header.v101.hdpi.png",
+  "author": {
+    "name": "DuckDuckGo"
+  },
+  "tags": [
+    "Free",
+    "Access",
+    "Topic",
+    "Summaries"
+  ],
+  "description": "Our Instant Answer API gives you free access to many of our instant answers like: topic summaries (API example), categories (API example), disambiguation (API example), !bang redirects (API example), and definitions (API example). "
+}

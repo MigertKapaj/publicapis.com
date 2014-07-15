@@ -1,0 +1,16 @@
+{
+  "id": "wuala",
+  "title": "Wuala",
+  "link": "http://www.wuala.com/en/api",
+  "image": "http://www.wuala.com/img/wuala_logo.png",
+  "author": {
+    "name": "Wuala"
+  },
+  "tags": [
+    "Professional",
+    "Access",
+    "Data",
+    "Folders"
+  ],
+  "description": "Wuala is a secure cloud storage, made in Switzerland. As the Swiss knife of cloud storage, it covers all the essential needs for professional and personal use: with Wuala, you can store your files securely online, share them with select others, access them from anywhere, setup automatic backups of your local data, or synchronize whole folders to the cloud."
+}

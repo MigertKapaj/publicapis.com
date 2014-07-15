@@ -1,0 +1,15 @@
+{
+  "id": "background-check",
+  "title": "Background Check",
+  "link": "http://www.imsasllc.com/docs/",
+  "image": "http://www.imsasllc.com/images/IMSAS.png",
+  "author": {
+    "name": "IMSAS"
+  },
+  "tags": [
+    "Automate",
+    "Design",
+    "Management"
+  ],
+  "description": "Would you like to integrate our gateway with your website? If you want to automate, integrate, or handle your payments more efficiently our API is your toolbox. The API is based on a RESTful design so that you can easily integrate our software into yours. The public API is the foundation for all of the tools, widgets, and management portals that we build and make available to merchants."
+}

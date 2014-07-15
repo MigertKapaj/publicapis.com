@@ -1,0 +1,13 @@
+{
+  "id": "sentiment-analysis-for-twitter-and-facebook",
+  "title": "Sentiment Analysis for Twitter and Facebook",
+  "link": "https://www.mashape.com/sentimental/sentiment-analysis-for-twitter-and-facebook",
+  "image": "",
+  "author": {
+    "name": "sentimental"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The multilingual sentiment analysis API (with exceptional accuracy, 83.4% as opposed to industry standard of 65.4%, and available in Mandarin) from classifies social media texts as positive or negative, with a free daily allowance to get you started. The system uses advanced statistical models (machine learning & NLP) trained on social data, meaning the detection can handle slang, common misspellings, emoticons, hashtags, etc. You can use this API for free. If you require more flexibility and larger scale you can move up to a paid-for plan.\r\n\r\nPlease note: The free plan offers 500 statuses classified per day - any use over this will be charged for. If you are using more than 500 statuses per day it is more cost effective to upgrade to one of the low cost, paid-for plans or contact us direct for an Enterprise offering."
+}

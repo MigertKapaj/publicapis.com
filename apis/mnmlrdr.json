@@ -1,0 +1,14 @@
+{
+  "id": "mnmlrdr",
+  "title": "MnmlRdr",
+  "link": "https://mnmlrdr.com/api/docs.html",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCOf0jOJJ22F-rhASEyKxMCOxT7ZqF7GkejAYXjajJnoaC7w06Xw",
+  "author": {
+    "name": "Mnmlrdr"
+  },
+  "tags": [
+    "Feed",
+    "Simple"
+  ],
+  "description": "MnmlRdr is a feed reading service with a simple and easy-to-use REST API. "
+}

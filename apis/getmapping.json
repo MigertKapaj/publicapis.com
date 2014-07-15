@@ -1,0 +1,15 @@
+{
+  "id": "getmapping",
+  "title": "Getmapping",
+  "link": "http://www2.getmapping.com/Default.aspx",
+  "image": "http://www2.getmapping.com/App_Themes/Default/Images/tnav_Getmapping-a.gif",
+  "author": {
+    "name": "Getmapping"
+  },
+  "tags": [
+    "Company",
+    "Mapping",
+    "Products"
+  ],
+  "description": "Getmapping is a public limited company, which is the UK’s leading supplier of aerial photography, mapping products and data hosting solutions."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pdf-remix",
+  "title": "PDF Remix",
+  "link": "https://pdfremix.sfileapp.com/api/",
+  "image": "",
+  "author": {
+    "name": "Pdfremix"
+  },
+  "tags": [
+    "Editor",
+    "Postback",
+    "Storage"
+  ],
+  "description": "The API allows you to programatically load PDF files into the editor. You can also optionally provide a postback URL for saving the remixed file. This allows you to handle the storage details if you so desire."
+}

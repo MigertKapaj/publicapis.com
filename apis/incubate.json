@@ -1,0 +1,15 @@
+{
+  "id": "incubate",
+  "title": "Incubate",
+  "link": "http://incubate.org/2012/api",
+  "image": "http://incubate.org/2012/images/Logo_Black.gif",
+  "author": {
+    "name": "Incubate"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Interface"
+  ],
+  "description": "Incubate has launched the Incubate API to make all festival-data available for use in apps, websites or even art created by Incubate-minded developers. The Incubate API is an Ally API, a REST oriented JSON Web Service Interface to communicate with the Ally database."
+}

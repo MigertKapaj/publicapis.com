@@ -1,0 +1,15 @@
+{
+  "id": "realtime",
+  "title": "Realtime",
+  "link": "http://api.irishrail.ie/realtime/index.htm",
+  "image": "",
+  "author": {
+    "name": "Irish Rail Realtime"
+  },
+  "tags": [
+    "Services",
+    "System",
+    "Control"
+  ],
+  "description": "The current location of train services from Iarnród Éireann's central signalling system.The scheduled journey times from areas under local signalling control.Trains indicated as being late can make up time and arrive on time."
+}

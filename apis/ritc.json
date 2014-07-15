@@ -1,0 +1,15 @@
+{
+  "id": "ritc",
+  "title": "Ritc",
+  "link": "http://www.ritc.io/docs/",
+  "image": "http://www.ritc.io/wp-content/themes/ritc/images/logo.png",
+  "author": {
+    "name": "Ritc"
+  },
+  "tags": [
+    "Service",
+    "Workflows",
+    "Design"
+  ],
+  "description": "The Ritc API gives you a powerful and intuitive way to integrate & automate cloud services and SAAS applications in your apps, processes and workflows. The Ritc API follows RESTful principles, and has an easy to learn design pattern that allows you to get up and running quickly. "
+}

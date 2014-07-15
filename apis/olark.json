@@ -1,0 +1,16 @@
+{
+  "id": "olark",
+  "title": "Olark",
+  "link": "http://www.olark.com/developer",
+  "image": "http://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.olark.com%2Fimg%2Fcommon%2Flayout%2Flogo.svg&imgrefurl=http%3A%2F%2Fwww.olark.com%2Fabout&h=247&w=386&tbnid=ASXzB5tTK_hDiM%3A&zoom=1&docid=1jr4CayE0dxSaM&ei=bSw8U7_YFc7EkwWl0IFw&tbm=isch&ved=0CFUQhBwwAA&iact=rc&dur=6793&page=1&start=0&ndsp=12",
+  "author": {
+    "name": "Olark"
+  },
+  "tags": [
+    "Broad",
+    "Data",
+    "Messages",
+    "Chat"
+  ],
+  "description": "We have a powerful Javascript API that gives you broad flexibility and control over the behavior of the Olark chat box. The possibilities range from attaching customer data to the buddy list, to adding notifications sounds, to enabling canned messages.                 We even have some helpful developer tools built right in to the Olark chatbox. Just type the !develop command from the operator side of the chat, and the developer tools will pop up on the visitor side. "
+}

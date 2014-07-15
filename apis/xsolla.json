@@ -1,0 +1,15 @@
+{
+  "id": "xsolla",
+  "title": "Xsolla",
+  "link": "http://xsolla.com/docs/mobile-payment-api",
+  "image": "http://xsolla.com/assets/xsolla-logo-gdln.png",
+  "author": {
+    "name": "Xsolla"
+  },
+  "tags": [
+    "Interface",
+    "Design",
+    "Existing"
+  ],
+  "description": "Xsolla’s solutions are integrated perfectly to fit any game’s existing billing interface. Our fully customizable design complements any existing set of payment gateways."
+}

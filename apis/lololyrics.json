@@ -1,0 +1,15 @@
+{
+  "id": "lololyrics",
+  "title": "Lololyrics",
+  "link": "http://api.lololyrics.com/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQvyEMMWEwq9SsYXt2t0WUIyrXJ_Q6m-1A00MJm2SQYp3EnUCilvw",
+  "author": {
+    "name": "Lololyrics"
+  },
+  "tags": [
+    "Server",
+    "Mention",
+    "Providing"
+  ],
+  "description": "Don't worry about caching covers server-side, you can hotlink to our thumbnails. When showing the lyric, don't forget to mention where it's from, like providing a link to the site, the artist page, or the lyric itself."
+}

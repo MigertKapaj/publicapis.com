@@ -1,0 +1,16 @@
+{
+  "id": "bring",
+  "title": "Bring",
+  "link": "http://developer.bring.com/index.html",
+  "image": "http://developer.bring.com/images/bring/logo.png",
+  "author": {
+    "name": "Bring"
+  },
+  "tags": [
+    "Facilitate",
+    "Webshop",
+    "Shipment",
+    "Integaration"
+  ],
+  "description": "Bring provides a collection of APIs to facilitate integration with your systems. If you're running a webshop, or any software dealing with shipment from Nordic countries, using Bring APIs can add value to your business "
+}

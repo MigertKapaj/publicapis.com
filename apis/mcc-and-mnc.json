@@ -1,0 +1,14 @@
+{
+  "id": "mcc-and-mnc",
+  "title": "MCC and MNC",
+  "link": "http://ktailab.net/APIs/mccmnc/index.html",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRKSGN2Yc3NJnR2r93mLmeegeyHN2MeE2ai1RGne6ITtsIP2YbFKQ",
+  "author": {
+    "name": "ktailab"
+  },
+  "tags": [
+    "Combination",
+    "Opnerator"
+  ],
+  "description": "This API is written to decode the combination of MCC and MNC, back to name of the country, opnerator name, capital of the city and capital city location (latitude and longitude). "
+}

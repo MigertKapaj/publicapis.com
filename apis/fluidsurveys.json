@@ -1,0 +1,16 @@
+{
+  "id": "fluidsurveys",
+  "title": "Fluidsurveys",
+  "link": "http://docs.fluidsurveys.com/fluidsurveys/api/accounts.html",
+  "image": "",
+  "author": {
+    "name": "Fluidsurveys"
+  },
+  "tags": [
+    "HTTP",
+    "Password",
+    "Support",
+    ""
+  ],
+  "description": "The REST API is accessed through HTTPS with Basic authentication using the user’s API key and password.Note that for these APIs, you must have a developer API key. In order to obtain one, you must contact support or your account administrator."
+}

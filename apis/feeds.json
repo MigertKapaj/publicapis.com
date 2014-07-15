@@ -1,0 +1,15 @@
+{
+  "id": "feeds",
+  "title": "Feeds",
+  "link": "http://www.feedsapi.com",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLNY4BtJZYkT-mqhz8zT_0pRrkH28H7B-T0HEykXkYtQCmNW5k-g",
+  "author": {
+    "name": "Feeds"
+  },
+  "tags": [
+    "Service",
+    "Shortened",
+    "Web"
+  ],
+  "description": "FeedsAPI is a full text RSS feed generator and web content extraction service that allows you to: turn any shortened RSS feeds into a full text rss feed content, generate an rss feed from any static webpage, turn xml and html to JSON and create Full RSS in real time."
+}

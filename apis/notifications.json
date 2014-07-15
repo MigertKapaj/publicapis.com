@@ -1,0 +1,16 @@
+{
+  "id": "notifications",
+  "title": "Notifications",
+  "link": "http://www.yahooapis.com/social/rest_api_guide/notifications_api.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSEqlyYDxk2Titt3F_IROpbVqzzVOL5PFoh8iwyX6wFtMpbCUCOZg",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Invites",
+    "Requested",
+    "Indicates",
+    "Categoties"
+  ],
+  "description": "Notifications are messages sent to users that can consist of the following: invites, comments on their updates, gifts, or requested actions from online games. The notification can have an associated state that indicates if or how the user has responded to it. For example, the notification state of an invite would be PENDING if the user has not accepted or rejected the invite. Notifications can include personalized messages from users or applications, images, titles, categories, and expiration dates. See Use Cases for instances of how notifications are used. "
+}

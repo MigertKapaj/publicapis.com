@@ -1,0 +1,16 @@
+{
+  "id": "phocoder",
+  "title": "Phocoder",
+  "link": "http://www.phocoder.com/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4iA9eweJpv-XG4bwMF2Lzv80wNPCDwJ4TqosrmhsxWXaxZAD8AA",
+  "author": {
+    "name": "Phocoder"
+  },
+  "tags": [
+    "Projects",
+    "Libraries",
+    "Wrapper",
+    "Plugin"
+  ],
+  "description": "For easy integration with your projects, we supply two libraries for Ruby/Rails:phocoder-rb - A simple API wrapper for general Ruby applications.\nphocoder-rails - A rails plugin that makes it easy to add image handling to ActiveRecord models.\n    "
+}

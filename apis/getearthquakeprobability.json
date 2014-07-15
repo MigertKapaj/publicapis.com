@@ -1,0 +1,15 @@
+{
+  "id": "getearthquakeprobability",
+  "title": "GetEarthquakeProbability",
+  "link": "http://www.openhazards.com/data",
+  "image": "http://www.openhazards.com/sites/all/themes/oh_community/logo.png",
+  "author": {
+    "name": "GetEarthquakeProbability"
+  },
+  "tags": [
+    "Latitude",
+    "Longitude",
+    "Probability"
+  ],
+  "description": "The latitude and longitude of the location.The current expected rate of earthquakes of specified magnitude over a specified time window.\nThe current expected probability of experiencing at least one such earthquake.\n"
+}

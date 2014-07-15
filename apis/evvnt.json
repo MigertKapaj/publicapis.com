@@ -1,0 +1,14 @@
+{
+  "id": "evvnt",
+  "title": "evvnt",
+  "link": "https://api.evvnt.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQbMPGiixyNzx9eBAtYOy5WTEV01JGpPoTOzJBC2V4ejcirindF",
+  "author": {
+    "name": "evvnt"
+  },
+  "tags": [
+    "Feed",
+    "Events"
+  ],
+  "description": "Provides a feed of evvnt's high quality events for publishing to your site or app."
+}

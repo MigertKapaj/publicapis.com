@@ -1,0 +1,16 @@
+{
+  "id": "testingbot",
+  "title": "TestingBot",
+  "link": "http://testingbot.com/support/api",
+  "image": "http://testingbot.com/assets/xlogo-681f1535aab42fc3d4ba0f6c16930bc8.png.pagespeed.ic.ATpV9zBd-Y.png",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "Data",
+    "Authenticating",
+    "Secret",
+    ""
+  ],
+  "description": "With our REST API you can access and modify all your data in a simple and secure (HTTPs) way. The API requires authentication with the key and secret you obtained when you signed up. All API responses are in JSON format. The current version of our API is 1. (updated 2012-05-15) Our API endpoint is: https://api.testingbot.com There are currently 2 libraries available to easily interact with our API:\n"
+}

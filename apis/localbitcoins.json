@@ -1,0 +1,14 @@
+{
+  "id": "localbitcoins",
+  "title": "LocalBitcoins",
+  "link": "https://localbitcoins.com/api-docs/",
+  "image": "https://localbitcoins.com/cached-static/img/site-logo.47b58f6f66c6.png",
+  "author": {
+    "name": "LocalBitcoins"
+  },
+  "tags": [
+    "Legitimate",
+    "Permission"
+  ],
+  "description": "The core of the API is authentication. LocalBitcoins API uses OAuth 2 to authenticate requests as legitimate and for access permissions. Popular social networks as well as other Web heavyweights use OAuth 2"
+}

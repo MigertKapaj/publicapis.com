@@ -1,0 +1,15 @@
+{
+  "id": "screenhero",
+  "title": "Screenhero",
+  "link": "http://screenhero.com/api.html",
+  "image": "http://screenhero.com/svg/sh-logo-type.svg",
+  "author": {
+    "name": "Screenhero"
+  },
+  "tags": [
+    "Connect",
+    "Across",
+    "Globe"
+  ],
+  "description": "Our mission is to help people to connect and work together in an instant, whether they’re sitting across the room from each other or on the other side of the globe."
+}

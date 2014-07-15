@@ -1,0 +1,15 @@
+{
+  "id": "edoceo",
+  "title": "Edoceo",
+  "link": "http://edoceo.io/",
+  "image": "http://edoceo.com/img/logo-w-on-x.png",
+  "author": {
+    "name": " Edoceo"
+  },
+  "tags": [
+    "Header",
+    "Parameter",
+    "Output Format"
+  ],
+  "description": "Many support an output format parameter d with values of :[colon], |[pipe], \\t[tab] to delimit the output fields, with header row Many support an output format parameter f with values of csv, json, xml Some support parameter q, for query, with values of the field name:search value"
+}

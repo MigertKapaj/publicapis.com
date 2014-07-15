@@ -1,0 +1,16 @@
+{
+  "id": "shipwire",
+  "title": "Shipwire",
+  "link": "http://www.shipwire.com/w/developers/xml-shipping-rate-api/#request",
+  "image": "http://d21txek0ttpfbd.cloudfront.net/resources/img/global/logo.png",
+  "author": {
+    "name": "Shipwire"
+  },
+  "tags": [
+    "Return",
+    "Rates",
+    "Packing",
+    "Preferences"
+  ],
+  "description": "Obtain real-time shipping rates at any time during check-out. Shipwire will return the most cost-effective rates, choosing from the best warehouse, packing and carrier available based on your Optimizer preferences."
+}

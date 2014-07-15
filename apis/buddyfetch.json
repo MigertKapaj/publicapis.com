@@ -1,0 +1,15 @@
+{
+  "id": "buddyfetch",
+  "title": "buddyfetch",
+  "link": "http://www.buddyfetch.com/api.php",
+  "image": "http://www.buddyfetch.com/images/logo.png",
+  "author": {
+    "name": "buddyfetch"
+  },
+  "tags": [
+    "Service",
+    "Recognized",
+    "Access"
+  ],
+  "description": "In order to provide our service to everyone, we have to limit the number of queries per user. If you are a crawler we have not recognized or would like business or API access, please email us below. "
+}

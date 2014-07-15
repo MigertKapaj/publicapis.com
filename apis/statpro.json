@@ -1,0 +1,16 @@
+{
+  "id": "statpro",
+  "title": "StatPro",
+  "link": "http://developer.statpro.com/Revolution/WebApi/Intro",
+  "image": "http://www.statpro.com/wp-content/themes/BusinessPro-child-theme/images/header-logo.png",
+  "author": {
+    "name": "StatPro"
+  },
+  "tags": [
+    "Developer",
+    "Designed",
+    "Companies",
+    "Data"
+  ],
+  "description": "The StatPro Revolution developer program is designed for clients and development companies wishing to create portfolio analysis or reporting solutions based on data from the StatPro Revolution platform."
+}

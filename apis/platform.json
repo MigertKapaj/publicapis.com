@@ -1,0 +1,16 @@
+{
+  "id": "platform",
+  "title": "Platform",
+  "link": "http://developer.loadimpact.com/",
+  "image": "http://developer.loadimpact.com/static/img/logo_white.png",
+  "author": {
+    "name": "Load Impact"
+  },
+  "tags": [
+    "Documentation",
+    "Testing",
+    "Programmatic",
+    "Service"
+  ],
+  "description": "Welcome to the Load Impact Platform API reference documentation. This documentation should be of interest to anyone who wishes to use or build upon the Load Impact performance testing platform. The API gives you programmatic access to the same set of features used to power the service at loadimpact.com."
+}

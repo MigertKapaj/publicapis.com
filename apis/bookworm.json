@@ -1,0 +1,15 @@
+{
+  "id": "bookworm",
+  "title": "Bookworm",
+  "link": "http://bookworm.oreilly.com/api/public/help/",
+  "image": "http://bookworm.oreilly.com/static/bookworm-logo.png",
+  "author": {
+    "name": "Bookworm"
+  },
+  "tags": [
+    "Interesting",
+    "Service",
+    "Experiment"
+  ],
+  "description": "Developed by Threepress in 2008, and brought into O'Reilly Labs in early 2009, Bookworm has been an interesting and useful experiment—we learned a lot, and heard from users that they appreciated the service."
+}

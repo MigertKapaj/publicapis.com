@@ -1,0 +1,16 @@
+{
+  "id": "parcel-monkey",
+  "title": "Parcel Monkey",
+  "link": "http://www.parcelmonkey.co.uk/supercharged",
+  "image": "http://www.parcelmonkey.co.uk/templates/monkeyAlightHome/assets/images/header-logo-desktop@2x.png",
+  "author": {
+    "name": "Parcel Monkey"
+  },
+  "tags": [
+    "Collection",
+    "Dealiverries",
+    "Sales",
+    "Automatically"
+  ],
+  "description": "Save time and money The Parcel Monkey API eliminates the need to spend hours manually booking collections and deliveries on our website. This leaves you free to work on other tasks such as generating more sales for your business. Further savings can be made by always selecting the lowest cost service. Manage your customers. You can notify your customers (and yourself) of tracking changes automatically. This allows you to proactively manage deliveries and exceptions, reducing incoming customer service enquiries \nand impressing your customer with a high level of service. One simple interface Using the API you can book multiple couriers and \nservices through one simple XML interface. This means you don't have to maintain multiple carrier integrations and you have the added benefit of being able to log in to the Parcel Monkey website to review any of your bookings.\n                    "
+}

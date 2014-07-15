@@ -1,0 +1,15 @@
+{
+  "id": "map-my-tracks",
+  "title": "Map My Tracks",
+  "link": "http://www.mapmytracks.com/about/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8ikcmQeorkQ1GbfTu6wPdcltvqDNjHQQWA1l_nA40RycX3_gq",
+  "author": {
+    "name": "Map My Tracks"
+  },
+  "tags": [
+    "Data",
+    "Widgets",
+    "Services"
+  ],
+  "description": "Map My Tracks provides a simple interface that allows developers to access and update their activity data. You can use this API to make your own widgets or applications that seamlessly integrate Map My Tracks with other services."
+}

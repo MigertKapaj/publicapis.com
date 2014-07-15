@@ -1,0 +1,15 @@
+{
+  "id": "people",
+  "title": "People",
+  "link": "http://www.opencongress.org/api",
+  "image": "http://d6ekjl42nohi3.cloudfront.net/images/open-congress.png?20140325194118677253219",
+  "author": {
+    "name": "OpenCongress"
+  },
+  "tags": [
+    "Query",
+    "Individuals",
+    "Matching"
+  ],
+  "description": "The people API is used to query the system for individuals, or groups of people matching given criteria.  The following describes the parameters that can be used."
+}

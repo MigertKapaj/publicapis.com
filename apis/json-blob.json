@@ -1,0 +1,15 @@
+{
+  "id": "json-blob",
+  "title": "JSON Blob",
+  "link": "http://jsonblob.com/api",
+  "image": "",
+  "author": {
+    "name": "JSON Blob"
+  },
+  "tags": [
+    "Sending",
+    "Request",
+    "Contain"
+  ],
+  "description": "Creating a JSON Blob is accomplished by sending a POST request to /api/jsonBlob. The body of the request should contain valid JSON that will used as the JSON Blob."
+}

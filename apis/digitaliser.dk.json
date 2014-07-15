@@ -1,0 +1,13 @@
+{
+  "id": "digitaliser.dk",
+  "title": "Digitaliser.dk",
+  "link": "http://api.digitaliser.dk/rest/",
+  "image": "http://digitaliser.dk/media/layout/logo-top_2010.png",
+  "author": {
+    "name": "Digitaliserdk"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Dette API udstiller dele af Digitaliser.dk's underliggende data. API'et udstiller både læsning- og skrivningsfunktionalitet. Dataene er repræsenteret som XML, der er beskrevet i XML skemaer (se links i tabellen)."
+}

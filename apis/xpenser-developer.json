@@ -1,0 +1,16 @@
+{
+  "id": "xpenser-developer",
+  "title": "Xpenser Developer",
+  "link": "http://xpenser.com/docs/api/",
+  "image": "https://static.xpenser.com/static/xpenser/imgs/xpenser-logo-filled.gif",
+  "author": {
+    "name": "Xpenser"
+  },
+  "tags": [
+    "Access",
+    "Resources",
+    "Require",
+    "Instead"
+  ],
+  "description": "OAuth is a newer method for gaining access to protected resources. It offers several advantages over HTTP Basic Authentication - in particular, it does not require the user's username and password be known when invoking the APIs. We encourage you to make use of OAuth instead of HTTP Basic Auth where possible."
+}

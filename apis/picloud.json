@@ -1,0 +1,16 @@
+{
+  "id": "picloud",
+  "title": "PiCloud",
+  "link": "http://docs.picloud.com/rest.html#rest",
+  "image": "http://media.picloud.com/img/free_hours.gif",
+  "author": {
+    "name": "PiCloud"
+  },
+  "tags": [
+    "HTTP",
+    "Python",
+    "Installation",
+    "Interfaces"
+  ],
+  "description": "PiCloud’s RESTful API lets you use PiCloud directly over HTTP. It’s useful if you need to utilize PiCloud without our Python library, cloud, or our command-line interface, picloud. For example, Google App Engine does not support the installation of our cloud library (picloud doesn’t work without cloud), so you must use REST. Another use case of the REST API is to create Webhooks that leverage PiCloud. The interface of PiCloud’s REST API is designed to be similar to the interfaces available in cloud and picloud. However, there is no equivalent to cloud.call() and picloud exec for function invocation."
+}

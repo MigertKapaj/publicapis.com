@@ -1,0 +1,16 @@
+{
+  "id": "customcd",
+  "title": "CustomCD",
+  "link": "http://www.customcd.com/partner-with-us.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmFDKLTHZ639sj2Ry9dXsy7aEn6-yXSMHitTNSEVPn2eTumup1KA",
+  "author": {
+    "name": "CustomCD"
+  },
+  "tags": [
+    "Files",
+    "Order",
+    "Targeted",
+    "Information"
+  ],
+  "description": "Our API is Used to send files and order data to facilitate the order process.The API allows our clients to customize each product to targeted clients(additional fields, information and personalization on the disc, menu and printed materials)."
+}

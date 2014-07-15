@@ -1,0 +1,15 @@
+{
+  "id": "qr-code",
+  "title": "QR code",
+  "link": "http://goqr.me/api/doc/create-qr-code/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTfjTXjEgFUWGyrhYSgZQqmcMSct17K59qS4OyqRDhtZApSeTkh",
+  "author": {
+    "name": "QR code"
+  },
+  "tags": [
+    "Web",
+    "Developer",
+    "Beginners"
+  ],
+  "description": "Using our API, you can create and read QR code graphics yourself. The documents listed here are mainly targeted at application/web developers – but don’t let that scare you away in case you’re new to the subject. We’re pretty sure that using the API is rather straightforward, even for beginners. "
+}

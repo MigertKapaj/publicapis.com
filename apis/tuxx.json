@@ -1,0 +1,15 @@
+{
+  "id": "tuxx",
+  "title": "Tuxx",
+  "link": "https://developer.tuxx.co.uk/howto",
+  "image": "https://developer.tuxx.co.uk/assets/img/logo/tuxx.png",
+  "author": {
+    "name": "Tuxx"
+  },
+  "tags": [
+    "Describes",
+    "Connection",
+    "Requests"
+  ],
+  "description": "The Tuxx API can be used for retrieving valuable information from the Tuxx server (like validating IBAN numbers or retrieving the minimum wage). This page describes how to make calls to the Tuxx API and how to use the retrieved information. For the connection between your application and Tuxx, an additional library is required, one that can make requests using the REST protocol. "
+}

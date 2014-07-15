@@ -1,0 +1,13 @@
+{
+  "id": "webspellchecker",
+  "title": "WebSpellChecker",
+  "link": "https://www.mashape.com/webspellchecker/webspellchecker",
+  "image": "",
+  "author": {
+    "name": "webspellchecker"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "WebSpellchecker.net web service provides suggestions for spelling corrections for specified text."
+}

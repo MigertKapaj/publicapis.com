@@ -1,0 +1,16 @@
+{
+  "id": "quickpay",
+  "title": "QuickPay",
+  "link": "http://doc.quickpay.net/api.html",
+  "image": "",
+  "author": {
+    "name": "QuickPay"
+  },
+  "tags": [
+    "Payments",
+    "SSL encrypted",
+    "Quickpay",
+    "Window"
+  ],
+  "description": "The QuickPay API is an open protocol that enables merchants to handle payments in a simple manner. The protocol is based on SSL encrypted HTTP communication and all actions are perfomed by sending a HTTP POST request to https://secure.quickpay.dk/api (See Example  1). Upon each request sent, QuickPay will respond with a simple XML document (See Example 2). Please notice: do not send API requests to https://secure.quickpay.dk/form/. /form/ is only for authorizes using the Quickpay Payment Window."
+}

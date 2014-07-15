@@ -1,0 +1,15 @@
+{
+  "id": "anobii",
+  "title": "aNobii",
+  "link": "http://api.anobii.com/api_term_of_use",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSl7HVoUPI3VCabxh_qTVTAMbvTDNR0_HldrglhqUpyIuwvIGza",
+  "author": {
+    "name": "aNobii"
+  },
+  "tags": [
+    "Data",
+    "Interesting",
+    "App"
+  ],
+  "description": "With aNobii's Application Programming Interface (API), you can build apps that make use of aNobii's data in new and interesting ways."
+}

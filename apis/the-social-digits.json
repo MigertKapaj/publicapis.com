@@ -1,0 +1,16 @@
+{
+  "id": "the-social-digits",
+  "title": "The Social Digits",
+  "link": "http://developers.thesocialdigits.com/api",
+  "image": "http://developers.thesocialdigits.com/images/logo.png",
+  "author": {
+    "name": "Social Digits"
+  },
+  "tags": [
+    "Object",
+    "HTTP",
+    "Response",
+    "Documentation"
+  ],
+  "description": "The Social Digits API is a RESTful API. All communication is done by sending JSON objects as either HTTP POST- or GET-requests. All responses are likewise returned as \nJSON objects in the response body. The exact content of the request and response objects are specified by the individual API method documentation."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "modify",
+  "title": "Modify",
+  "link": "http://www.modifly.co/",
+  "image": "",
+  "author": {
+    "name": "Modify"
+  },
+  "tags": [
+    "Call",
+    "Database",
+    "Web",
+    "Service"
+  ],
+  "description": "Modifly is a web service designed to augment the results of an API call on the fly.There are a lot of datasets available online that are useful in all sorts of ways, but all too often the formats or methods used to make the data available are less than ideal.This simple web service is aimed at giving you a way to get the results you were hoping for from your data source, without really having to do the extra work."
+}

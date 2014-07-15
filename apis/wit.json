@@ -1,0 +1,15 @@
+{
+  "id": "wit",
+  "title": "Wit",
+  "link": "https://wit.ai/docs/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPrt2hxaKy3AaaXTe1Zp79YRXmTvBvyT37dlewU35WNKFdpvLB",
+  "author": {
+    "name": "Wit"
+  },
+  "tags": [
+    "Interface",
+    "Already",
+    "Instance"
+  ],
+  "description": "This guide will show you how to add a voice interface to your web app. It assumes you already have trained your Wit instance."
+}

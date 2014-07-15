@@ -1,0 +1,16 @@
+{
+  "id": "the-reppify",
+  "title": "The Reppify",
+  "link": "http://developer.reppify.com/",
+  "image": "http://developer.reppify.com/img/rfylogo.png",
+  "author": {
+    "name": "Reppify"
+  },
+  "tags": [
+    "Interact",
+    "Candidates",
+    "Invitations",
+    "Eventually"
+  ],
+  "description": "The Reppify API enables developers to interact with the Reppify web site programmatically. This API is designed to enable you to integrate Reppify into other applications. You can use it to manage the reppify work-flow by creating jobs (called UserLists in the web API), add candidates (called users in the Reppify API) and send invitations to request that candidates score themselves. From userlists and users you can then retrieve status for each added user and eventually retrieve the score for each candidate that have shared their score. There is also a service to get the complete set of Reppify score attributes."
+}

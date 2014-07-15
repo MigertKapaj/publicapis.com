@@ -1,0 +1,16 @@
+{
+  "id": "getfavicon",
+  "title": "getFavicon",
+  "link": "http://getfavicon.appspot.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzwC4xDjHifftJBmEq_jvHHOuscuKUiWFI_8aPKusyUeYdq8sR",
+  "author": {
+    "name": "getFavicon"
+  },
+  "tags": [
+    "Favicon",
+    "Able",
+    "Better",
+    "HTML"
+  ],
+  "description": "Retrieves the relevant favicon for a URL, or returns a default icon should it not be able to find it. Works better than the Google version as it will find favicons specified by an HTML page's <link> element."
+}

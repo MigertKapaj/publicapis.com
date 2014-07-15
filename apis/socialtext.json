@@ -1,0 +1,15 @@
+{
+  "id": "socialtext",
+  "title": "Socialtext",
+  "link": "https://www.socialtext.net/st-rest-docs/",
+  "image": "https://www.socialtext.net/data/accounts/1/theme/images/logo",
+  "author": {
+    "name": "Socialtext"
+  },
+  "tags": [
+    "Programmers",
+    "Data",
+    "Software"
+  ],
+  "description": "The Socialtext ReST API includes a set of functionality allowing programmers to create, read, update, and delete much of the data in the Socialtext system from client software running on other systems. The data that may be manipulated include tags, pages, attachments, workspaces, users, Signals, and search results."
+}

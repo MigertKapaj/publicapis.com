@@ -1,0 +1,16 @@
+{
+  "id": "soap",
+  "title": "SOAP",
+  "link": "http://www.newsisfree.com/webservice.php",
+  "image": "http://www.newsisfree.com/HPE/local/theme5/i/logo.gif",
+  "author": {
+    "name": "NewsIsFree"
+  },
+  "tags": [
+    "Enchance",
+    "News",
+    "Clippings",
+    "Source"
+  ],
+  "description": "NewsIsFree supports two sets of APIs: an enhanced SOAP API, providing access to news items and to custom content subscription (like creating pages, subscribing to sources, managing clippings, etc). a legacy XML RPC API providing basic access to news sources and items.\n"
+}

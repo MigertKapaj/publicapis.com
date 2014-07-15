@@ -1,0 +1,16 @@
+{
+  "id": "workbooks",
+  "title": "Workbooks",
+  "link": "http://www.workbooks.com/api-developer-guide",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpC8PgsZ4lFsqFjJ6YWhqlrkWHu7sWcJNY0nxfE6FyWDULX9SPUg",
+  "author": {
+    "name": "Workbooks"
+  },
+  "tags": [
+    "Programming",
+    "Powerful",
+    "Secure",
+    "Service"
+  ],
+  "description": "The Workbooks API allows developers with basic programming skills to have access to information stored inside Workbooks using a simple, powerful and secure Web Service API. Using the Workbooks Process Engine you can host API scripts within Workbooks itself."
+}

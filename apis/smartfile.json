@@ -1,0 +1,15 @@
+{
+  "id": "smartfile",
+  "title": "SmartFile",
+  "link": "http://app.smartfile.com/api/",
+  "image": "https://d2xtrvzo9unrru.cloudfront.net/98/api/images/smartfile-developer-logo.png",
+  "author": {
+    "name": "SmartFile Developer"
+  },
+  "tags": [
+    "Partners",
+    "Tasks",
+    "Purposes"
+  ],
+  "description": "The SmartFile API is available to our customers and partners to automate file sharing tasks. The API can be used for a variety of purposes. "
+}

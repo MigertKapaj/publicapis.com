@@ -1,0 +1,16 @@
+{
+  "id": "quotesdaddy",
+  "title": "QuotesDaddy",
+  "link": "http://www.quotesdaddy.com/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKNdaKeXmc2VG3A30OkhZHYp5thccAL0ZQ229wKu8TT5JARgv",
+  "author": {
+    "name": "QuotesDaddy"
+  },
+  "tags": [
+    "Partners",
+    "Add",
+    "Integrating",
+    "Content"
+  ],
+  "description": "The QuotesDaddy API has been created to allow our partners to easily add content to their site, by integrating our content into their design.\nThe API allows full-freedom in how you use the content you retrieve, and is a great way to add that extra something to your site."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "number-laundry",
+  "title": "Number Laundry",
+  "link": "http://numberlaundry.whatcheer.com/",
+  "image": "http://numberlaundry.whatcheer.com/public/images/soapbox.png",
+  "author": {
+    "name": "Number Laundry"
+  },
+  "tags": [
+    "Reasonable",
+    "Requests",
+    "Limiting"
+  ],
+  "description": "This API is available for free of charge to anyone who wants to use it for individual and/or reasonable use. We log requests, and if we notice someone really going nuts, we may end up doing some rate limiting."
+}

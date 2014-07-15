@@ -1,0 +1,15 @@
+{
+  "id": "viddler",
+  "title": "Viddler",
+  "link": "http://developers.viddler.com/",
+  "image": "",
+  "author": {
+    "name": "Viddler"
+  },
+  "tags": [
+    "Solution",
+    "Video",
+    "Accounts"
+  ],
+  "description": "The Viddler API exposes Viddler’s key features to those that would like to build custom solutions on top of Viddler’s video platform. In order to use Viddler’s API you must have a Viddler account and an API key. To access your API key please log into Viddler.com "
+}

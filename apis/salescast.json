@@ -1,0 +1,15 @@
+{
+  "id": "salescast",
+  "title": "Salescast",
+  "link": "http://www.lokad.com/programmers-guide-forecasting-api-v3.ashx",
+  "image": "http://www.lokad.com/Themes/Lokad2/Images/logo_new.png",
+  "author": {
+    "name": "Lokad"
+  },
+  "tags": [
+    "Check",
+    "Salecast",
+    "Project"
+  ],
+  "description": "In order to automate the run of a project and to check the status of a project, Salescast exposes a tiny public REST API. In the project configuration screen within Salescast, click the \"Rest API\" link to gain access to detailed URLs that you need to perform operations over your account.\n"
+}

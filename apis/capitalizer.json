@@ -1,0 +1,13 @@
+{
+  "id": "capitalizer",
+  "title": "Capitalizer",
+  "link": "https://www.mashape.com/sprawk/capitalizer",
+  "image": "",
+  "author": {
+    "name": "sprawk"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Changes the capitalization of input text based on language style rules - supports over 20 languages including English, French, German, Spanish, Italian, Russian, Swedish, Indonesian and more."
+}

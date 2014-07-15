@@ -1,0 +1,13 @@
+{
+  "id": "path-of-exile",
+  "title": "Path of Exile",
+  "link": "http://www.pathofexile.com/developer/docs/api-resource-leagues",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfOe_H-rduylCnjXQNpqpAnS7DFSEPhHZqrHrAGwvkTlUMKKjJ0g",
+  "author": {
+    "name": "Path of Exile"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Path of Exile currently has a basic API that will return results in JSON format."
+}

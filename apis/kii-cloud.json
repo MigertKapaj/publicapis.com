@@ -1,0 +1,15 @@
+{
+  "id": "kii-cloud",
+  "title": "Kii Cloud",
+  "link": "https://developer.kii.com/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR5YAb5H7WgYA168YZnmlaBy_nlCMPBZTQitydTVbJmLDU8eDwe",
+  "author": {
+    "name": "Kii Cloud"
+  },
+  "tags": [
+    "Services",
+    "Retention",
+    "Data"
+  ],
+  "description": "Kii Cloud provides back-end services that help with user acquisition, retention and monetization for your app. Add user management and data management functionality to your app without writing any server code - by simply using our native (Android, iOS) SDKs, JavaScript SDK or thru REST APIs."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "the-activity",
+  "title": "The Activity",
+  "link": "http://developer.active.com/docs/Home",
+  "image": "http://developer.active.com/public/Mashery/images/clients/active/logo.png",
+  "author": {
+    "name": " Activity"
+  },
+  "tags": [
+    "Produced",
+    "Concept",
+    "Tournaments",
+    "Considered"
+  ],
+  "description": "The Activity Distribution APIs gives developers easy access to the broad array of data produced by the technology solutions powered by ACTIVE Network, Inc.  It is centered around the concept of \"assets\", where events, races, tournaments, facilities, classes, leagues are all considered assets.  Each asset has a unique ID, and data about a given asset can be retrieved with this ID."
+}

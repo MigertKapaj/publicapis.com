@@ -1,0 +1,15 @@
+{
+  "id": "pubmlst",
+  "title": "PubMLST",
+  "link": "http://pubmlst.org/api/mlst.wsdl",
+  "image": "",
+  "author": {
+    "name": "PubMLST"
+  },
+  "tags": [
+    "Access",
+    "Developer",
+    "Web"
+  ],
+  "description": "We have developed a Simple Object Access Protocol (SOAP) Application Programming Interface (API) to enable software developers to write applications that can query the MLST databases directly without using the standard web interface."
+}

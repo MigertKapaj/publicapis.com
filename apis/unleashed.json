@@ -1,0 +1,14 @@
+{
+  "id": "unleashed",
+  "title": "Unleashed",
+  "link": "https://api.unleashedsoftware.com/Help",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRZ5060DMdz5CTHyUDPFwC5FHdKxboRwW961gTJIjUgrssYFZF86Q",
+  "author": {
+    "name": "Unleashed"
+  },
+  "tags": [
+    "Create",
+    "Access"
+  ],
+  "description": "The Unleashed API is linked to the Unleashed web application at https://go.unleashedsoftware.com/v2. You will need to create an account there before you can use the API. Demo accounts are also allowed to access the API."
+}

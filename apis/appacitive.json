@@ -1,0 +1,15 @@
+{
+  "id": "appacitive",
+  "title": "Appacitive",
+  "link": "https://docs.appacitive.com",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBsofbirvtHeBrIM9Y3Qega8K0xXyu8g7vkK-FqOUEppa1TFoKLw",
+  "author": {
+    "name": "Appacitive"
+  },
+  "tags": [
+    "Requires",
+    "Generate",
+    "Follows"
+  ],
+  "description": "Authentication in the API requires you to pass a header Appacitive-Session with its value set to the session key you generate for your application using the API key. You can generate session key as follows."
+}

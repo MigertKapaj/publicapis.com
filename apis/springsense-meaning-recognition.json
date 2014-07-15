@@ -1,0 +1,16 @@
+{
+  "id": "springsense-meaning-recognition",
+  "title": "SpringSense Meaning Recognition",
+  "link": "http://springsense.com/api/",
+  "image": "http://springsense.com/wp-content/themes/springsense/assets/child/i/logo.png",
+  "author": {
+    "name": "SpringSense Meaning Recognition"
+  },
+  "tags": [
+    "Recognitinon",
+    "Integrate",
+    "Engine",
+    "Service"
+  ],
+  "description": "The SpringSense Meaning Recognition API provides a simple yet powerful way to integrate the SpringSense Meaning Recognition engine into your application or service."
+}

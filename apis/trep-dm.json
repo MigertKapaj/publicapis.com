@@ -1,0 +1,16 @@
+{
+  "id": "trep-dm",
+  "title": "TREP-DM",
+  "link": "https://customers.reuters.com/developer/Kits/TREP/trep-dm-api.aspx",
+  "image": "https://customers.reuters.com/images/cz-site-name.gif",
+  "author": {
+    "name": "Customer Zone"
+  },
+  "tags": [
+    "Array",
+    "Data",
+    "Plateform",
+    "Diverse"
+  ],
+  "description": "TREP-DM provides access to a broad array of data types including Issue Terms and Conditions, Identifiers, Issuers, Ratings and Pricing. The platform also supports diverse asset classes from Equities, Fixed Income, Funds and Money Markets to Options, Swaps, Warrants and Asset Backed Securities. The platform can be easily extended to support new asset classes or other data types such as entities and transactions."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nrcs",
+  "title": "NRCS",
+  "link": "http://www.wcc.nrcs.usda.gov/snow/",
+  "image": "http://www.wcc.nrcs.usda.gov/common/header_nrcs.gif",
+  "author": {
+    "name": "NRCS"
+  },
+  "tags": [
+    "Provide",
+    "Information",
+    "Accuracy",
+    "Process"
+  ],
+  "description": "Effort has been made to provide accurate and complete information. However, we cannot guarantee that there will be no errors. Neither the U.S. Government, nor USDA assumes any legal liability for the accuracy, completeness, or usefulness of any information, product, or process disclosed herein, or represents that use of such information, product, or process would not infringe on privately owned rights."
+}

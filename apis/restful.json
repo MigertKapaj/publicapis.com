@@ -1,0 +1,14 @@
+{
+  "id": "restful",
+  "title": "RESTful",
+  "link": "http://restcountries.eu/",
+  "image": "http://restcountries.eu/img/octocat60px.png",
+  "author": {
+    "name": "RESTCountries"
+  },
+  "tags": [
+    "Information",
+    "Countries"
+  ],
+  "description": "Get information about countries via a RESTful API"
+}

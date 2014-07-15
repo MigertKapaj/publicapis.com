@@ -1,0 +1,15 @@
+{
+  "id": "decibel",
+  "title": "Decibel",
+  "link": "https://developer.decibel.net/rest-api-v2",
+  "image": "https://developer.decibel.net/logo-white.png",
+  "author": {
+    "name": "Decibel"
+  },
+  "tags": [
+    "Determine",
+    "Information",
+    "Detailed"
+  ],
+  "description": "In order to optimise bandwidth, a retrieval depth can be specified which will determine how much information will be retrieved. The default is to get a basic object back with no extra information. However, all names, thumbnails, participations and other items can be requested using the retrieval depth parameter. For instance, asking for a list of albums and thumbnails may be appropriate, but a detailed list of album participations may be overkill. "
+}

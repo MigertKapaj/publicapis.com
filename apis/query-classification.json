@@ -1,0 +1,13 @@
+{
+  "id": "query-classification",
+  "title": "Query Classification",
+  "link": "https://www.mashape.com/tdguest/query-classification",
+  "image": "",
+  "author": {
+    "name": "tdguest"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API can be used to find the topic of a keyword query. The topic for the query will be chosen from over 1500 predefined topics. This works best with query phrases like - \r\n\"Star Wars\", \"Dell Inspiron 1420 price\"\r\n\r\nThis technology has been provided by Query Dynamics LLC (http://www.querydynamics.com).\r\nThis technology is being used to categorize tweets at a website called TweetDynamics (http://www.tweetdynamics.com/)\r\n\r\nTo get the class for the query \"Star Wars\" submit a GET request to -\r\nhttp://tweetdynamics.com/perl/parseQueryJ?query=Star%20Wars\r\nThe following JSON code will be returned:\r\n{\"Answer\": sci-fi movie}\r\n\r\nThe category of the query is within the by the Answer tag.\r\n\r\nSome of the uses of this api are to create tools for online query analysis and offline query log analysis."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ckan-czech-republic",
+  "title": "CKAN Czech Republic",
+  "link": "http://cz.ckan.net/",
+  "image": "http://cz.ckan.net/img/logo.png",
+  "author": {
+    "name": "CKAN Czech Republic"
+  },
+  "tags": [
+    "Data",
+    "Search",
+    "Internet"
+  ],
+  "description": "CKAN Czech Republic is a community-run catalogue of useful sets of data on the Internet. You can collect links here to data from around the web for yourself and others to use, or search for data that others have collected."
+}

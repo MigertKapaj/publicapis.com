@@ -1,0 +1,16 @@
+{
+  "id": "dynmarks",
+  "title": "Dynmark’s",
+  "link": "http://www.dynmark.com/developers.aspx",
+  "image": "http://www.dynmark.com/images/dynmark_logo.png",
+  "author": {
+    "name": "Dynmark"
+  },
+  "tags": [
+    "Developed",
+    "Service",
+    "Web",
+    "Technical"
+  ],
+  "description": "Dynmark’s platform has been developed so that each of the services we offer can be consumed separately through APIs. We have then pre-built those APIs and web services to enable businesses to plug directly into the platform with minimal technical effort."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "facer",
+  "title": "FaceR",
+  "link": "http://api.animetrics.com",
+  "image": "http://api.animetrics.com/img/heads.jpg",
+  "author": {
+    "name": "FaceR"
+  },
+  "tags": [
+    "Industry's",
+    "Parented",
+    "Techology"
+  ],
+  "description": "Build Your Application with the Industry’s Most Advanced 2D/3D Face Recognition Tools. Patented and Proven Next Generation Face Biometric Technology that is Battle Tested, Field Tested, and Business Tested."
+}

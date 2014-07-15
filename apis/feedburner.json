@@ -1,0 +1,15 @@
+{
+  "id": "feedburner",
+  "title": "Feedburner",
+  "link": "https://developers.google.com/feedburner/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Services",
+    "Excludes",
+    "Separate"
+  ],
+  "description": "Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. "
+}

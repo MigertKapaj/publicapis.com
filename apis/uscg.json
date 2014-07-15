@@ -1,0 +1,15 @@
+{
+  "id": "uscg",
+  "title": "USCG",
+  "link": "https://cgmix.uscg.mil/equipment/",
+  "image": "https://cgmix.uscg.mil/Equipment/Images/CGMIXEQListBanner.bmp",
+  "author": {
+    "name": "USCG"
+  },
+  "tags": [
+    "Contains",
+    "Materials",
+    "Commercial"
+  ],
+  "description": "This database contains searchable listings of equipment and materials approved or certified by the US Coast Guard for use on commercial vessels and recreational boats."
+}

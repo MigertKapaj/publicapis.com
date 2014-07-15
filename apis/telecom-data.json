@@ -1,0 +1,15 @@
+{
+  "id": "telecom-data",
+  "title": "Telecom Data",
+  "link": "http://www.dataweave.in/apis/usage/21/Telecom-Data-API",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYKHijk7gDmqN53H4kuFnmXtHvj26Sa8oWWq0r9Ww6Jc93g7ujvA",
+  "author": {
+    "name": "DataWeave"
+  },
+  "tags": [
+    "Data",
+    "Operators",
+    "Aggregated"
+  ],
+  "description": "This data API provides details of all recharge options available with various telecom operators across all circles. The data is aggregated from the websites of all telecom operators."
+}

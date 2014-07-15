@@ -1,0 +1,16 @@
+{
+  "id": "open-guidance-service",
+  "title": "Open Guidance Service",
+  "link": "http://open.mapquestapi.com/guidance/",
+  "image": "http://open.mapquest.co.uk/cdn/dotcom3/images/logos/logo_beta.png",
+  "author": {
+    "name": "MapQuest Open"
+  },
+  "tags": [
+    "Provides",
+    "Interface",
+    "Connectivity",
+    "Route.."
+  ],
+  "description": "The Open Guidance Service provides a simple interface to get detailed routing, connectivity information, and route shapes. "
+}

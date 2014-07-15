@@ -1,0 +1,15 @@
+{
+  "id": "stagebloc",
+  "title": "StageBloc",
+  "link": "http://stagebloc.com/developers/api/",
+  "image": "",
+  "author": {
+    "name": "StageBloc"
+  },
+  "tags": [
+    "Custom",
+    "Standalone",
+    "Integration"
+  ],
+  "description": "It's your data, we're just giving it a good home.Use the StageBloc API to develop custom, standalone integrations with StageBloc.Objective-C Client"
+}

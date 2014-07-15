@@ -1,0 +1,16 @@
+{
+  "id": "conversations",
+  "title": "Conversations",
+  "link": "https://developer.bazaarvoice.com/",
+  "image": "https://d1yacy4j66eg2g.cloudfront.net/img/logo.png",
+  "author": {
+    "name": "Bazaarvoice"
+  },
+  "tags": [
+    "Retrieve",
+    "Stories",
+    "Profiles",
+    "Product"
+  ],
+  "description": "The Conversations API allows Bazaarvoice clients to retrieve and submit User Generated Content in the form of Reviews, Questions, Answers, Stories, and Profiles, as well as retrieve product catalog and statistics information."
+}

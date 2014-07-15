@@ -1,0 +1,15 @@
+{
+  "id": "postcoder-web",
+  "title": "PostCoder Web",
+  "link": "http://www.alliescomputing.com/products/postcoder-web-api/tech-specs",
+  "image": "http://www.alliescomputing.com/addons/shared_addons/themes/alliesv2/img/AlliesLogoSmall.png",
+  "author": {
+    "name": "Allies"
+  },
+  "tags": [
+    "Service",
+    "Regularly",
+    "Entered"
+  ],
+  "description": "PostCoder Web is a cloud-based lookup service which is securely hosted by us and regularly updated with the latest addresses. Your website or application can use it to validate and auto-fill addresses entered by your customers or staff."
+}

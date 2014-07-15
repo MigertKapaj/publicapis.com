@@ -1,0 +1,15 @@
+{
+  "id": "the-sonicliving",
+  "title": "The SonicLiving",
+  "link": "http://sonicliving.com/about/api",
+  "image": "http://posters.sonicliving.com/templates/sl/img/logo_blog.png",
+  "author": {
+    "name": "The SonicLiving"
+  },
+  "tags": [
+    "Requires",
+    "Commercial",
+    "Api key"
+  ],
+  "description": "The SonicLiving API requires an API key and is available for both commercial and non-commercial use."
+}

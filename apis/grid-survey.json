@@ -1,0 +1,16 @@
+{
+  "id": "grid-survey",
+  "title": "Grid Survey",
+  "link": "http://www.gridsurvey.com/api.php",
+  "image": "http://www.gridsurvey.com/img/sl_100.gif",
+  "author": {
+    "name": "Grid Survey"
+  },
+  "tags": [
+    "Web",
+    "Server",
+    "Metrics",
+    "Designed"
+  ],
+  "description": "Currently there are two web APIs for Grid Survey, the first serves queries about named regions whilst the second serves queries about a range of Second Life Metrics. They have been designed for use with the LSL llHTTPRequest Function."
+}

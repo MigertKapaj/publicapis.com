@@ -1,0 +1,16 @@
+{
+  "id": "shutterpro",
+  "title": "ShutterPro",
+  "link": "http://www.shutterpro.co.uk/api_guide/",
+  "image": "http://www.shutterpro.co.uk/includes/layout/images/logo.png",
+  "author": {
+    "name": "Shutterpro"
+  },
+  "tags": [
+    "Responses",
+    "Devices",
+    "Acceptable",
+    "Resource"
+  ],
+  "description": "The ShutterPro API is built on a HTTP POST basis and returns all responses in JSON format, this is mainly to utilise bandwidth on mobile devices but JSON is also becoming a widely acceptable cross platform format. To access your unique API you need to append the below resource addresses to this URL and HTTP POST the relevant fields."
+}

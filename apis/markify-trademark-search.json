@@ -1,0 +1,16 @@
+{
+  "id": "markify-trademark-search",
+  "title": "Markify trademark search",
+  "link": "http://www.markify.com/dev/api.html",
+  "image": "http://www.markify.com/images/bgLeaves.jpg",
+  "author": {
+    "name": "Markify"
+  },
+  "tags": [
+    "Search",
+    "Grant",
+    "License",
+    "Notice"
+  ],
+  "description": " Markify trademark search API. By using the Markify trademark search API, you agree to the terms below. If you disagree with any of these terms, Markify does not grant you a license to use the Markify API. We reserve the right to update and change these terms from time to time without notice."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "product-types",
+  "title": "Product Types",
+  "link": "http://developers.virtusize.com/integration-guide/product-types.html",
+  "image": "",
+  "author": {
+    "name": "Virtusize"
+  },
+  "tags": [
+    "Solution",
+    "Retailers",
+    "Online"
+  ],
+  "description": "Virtusize is a virtual fitting solution that helps retailers to visually illustrate the size and fit of clothing online."
+}

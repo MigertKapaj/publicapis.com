@@ -1,0 +1,16 @@
+{
+  "id": "new-relic",
+  "title": "New Relic",
+  "link": "https://github.com/newrelic/newrelic_api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Associated",
+    "Integration",
+    "Request",
+    "Described"
+  ],
+  "description": "New Relic supports an api key-based authentication mechanism. The key is the api key associated with an account and can be obtained using the RPM Account settings for Integrations. This key should be passed as a request header with each request. All API calls described in this document require authentication."
+}

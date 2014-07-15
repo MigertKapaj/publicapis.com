@@ -1,0 +1,16 @@
+{
+  "id": "mozscape",
+  "title": "Mozscape",
+  "link": "http://apiwiki.moz.com/url-metrics",
+  "image": "http://apiwiki.moz.com/assets/moz_logo-cf3e0bc1ec9ca15206bf35dfa07b330e.png",
+  "author": {
+    "name": "MOZ"
+  },
+  "tags": [
+    "Data",
+    "Integrate",
+    "Web",
+    "Possibilities"
+  ],
+  "description": "The Mozscape API allows you to customize and integrate data from our dynamic Mozscape index right into your own applications. Our Mozscape index is updated frequently to ensure that you're getting the freshest look at the web possible. With billions of links in our index, intelligent metrics, and thorough URL data, our Mozscape API offers unlimited possibilities."
+}

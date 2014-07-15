@@ -1,0 +1,16 @@
+{
+  "id": "sabio-rk",
+  "title": "SABIO-RK",
+  "link": "http://sabiork.h-its.org/webservice.jsp",
+  "image": "http://sabiork.h-its.org/sabiorknewb.jpg",
+  "author": {
+    "name": "SABIO-RK"
+  },
+  "tags": [
+    "Service",
+    "Web",
+    "Access",
+    "Information"
+  ],
+  "description": "The SABIO-RK Web Service provides customizable points of entry into the SABIO-RK Opens a new window system in a language independent fashion. Using this Web service, users can write their own clients to customize and automate access to SABIO-RK directly from their simulation software, tools or databases, thereby negating the need to manually parse information from Web pages. "
+}

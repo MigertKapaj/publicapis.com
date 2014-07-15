@@ -1,0 +1,16 @@
+{
+  "id": "worthmonkey",
+  "title": "WorthMonkey ",
+  "link": "http://worthmonkey.com/docs/api/getWorth.html",
+  "image": "http://cdn.worthmonkey.com/www/img/themes/default/worth_monkey_logo_trans_tm_beta.png",
+  "author": {
+    "name": "WorthMonkey "
+  },
+  "tags": [
+    "Corresponding",
+    "Object",
+    "Attribute",
+    "Constant"
+  ],
+  "description": " For each  item passed to the API, a corresponding  result  is given as an object. If the search was successful, the object will  contain a valid worth object. If it was unsuccessful, the object will contain an error  attribute of \"2\" and error_txt  constant of \"NOT  FOUND"
+}

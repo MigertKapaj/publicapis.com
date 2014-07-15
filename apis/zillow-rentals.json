@@ -1,0 +1,16 @@
+{
+  "id": "zillow-rentals",
+  "title": "Zillow Rentals",
+  "link": "http://api.rentjuice.com/documentation/RentJuice_API.pdf",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQP9n9QfFyap9AiIy5sp8M7TUn125zWwJDALfJDztWyLoVzIgheVw",
+  "author": {
+    "name": "Zillow Rentals"
+  },
+  "tags": [
+    "Search",
+    "Data",
+    "Design",
+    "Content"
+  ],
+  "description": "Zillow Rentals offers a REST API which allows an outside application to search and make use of your office's raw listings data. For example, you can work internally or with an outside design firm to produce a custom web site using this data, or you can create landing pages or automated listings content for your blog or social networking profile."
+}

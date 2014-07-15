@@ -1,0 +1,15 @@
+{
+  "id": "backbeam",
+  "title": "backbeam",
+  "link": "http://backbeam.io/documentation-rest",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzjcVlMA6DPA-Ydx0OU_q-B5G_EONyiwOHukmtS9kTCdqkQswJ9Q",
+  "author": {
+    "name": "backbeam"
+  },
+  "tags": [
+    "System",
+    "Services",
+    "Project"
+  ],
+  "description": "The authorization system is inspired on some mechanisms from OAuth and APIs like Amazon Web Services but it is a custom authorization system. It requires a pair of keys that you can create in your project."
+}

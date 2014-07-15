@@ -1,0 +1,14 @@
+{
+  "id": "ebay-trading-api",
+  "title": "eBay Trading API",
+  "link": "https://www.x.com/developers/ebay/products/trading-api",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "eBay"
+  },
+  "tags": [
+    "Post-sales management applications",
+    "Manage user information"
+  ],
+  "description": "The eBay Trading API offers secure, authenticated access to private eBay\n data. Use the eBay Trading API to build applications such as selling \nand post-sales management applications, manage user information, and \ninitiate the item purchase flow on eBay."
+}

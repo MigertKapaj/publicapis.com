@@ -1,0 +1,17 @@
+{
+  "id": "unitag-qr-code-generation",
+  "title": "Unitag QR Code generation",
+  "link": "https://www.unitaglive.com/api/qrcode",
+  "image": "https://static-unitag.com/images/napoleon1er/commons/header-logo.png?mh=06179295",
+  "author": {
+    "name": "Unitag"
+  },
+  "tags": [
+    "Developers",
+    "Functionalities",
+    "Interface",
+    "Making",
+    "Accessing"
+  ],
+  "description": "This solution allows IT developers to add QR Code generation functionalities into their application by using Unitag's programming interface. Our API's structure is simple, making it easy to implement by accessing a URL. "
+}

@@ -1,0 +1,13 @@
+{
+  "id": "rapleaf",
+  "title": "Rapleaf",
+  "link": "https://www.mashape.com/rapleaf/rapleaf",
+  "image": "",
+  "author": {
+    "name": "rapleaf"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Rapleaf's Personlization API provides rich demographic data about email addresses in real-time.\r\n\r\nYou will need an Rapleaf API key in order to use this service.  You can get one (for free) here: https://www.rapleaf.com/developers/api_access.\r\n\r\nWith an API key, you will have free, unlimited access to age, gender, and city/state/country data.\r\n\r\nAdditionally, we provide many other premium fields for a small price.  Please visit our website or email us at info@rapleaf.com to get more info on pricing and our premium fields."
+}

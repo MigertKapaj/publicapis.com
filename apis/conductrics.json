@@ -1,0 +1,15 @@
+{
+  "id": "conductrics",
+  "title": "Conductrics",
+  "link": "http://conductrics.com/",
+  "image": "http://conductrics.zippykid.netdna-cdn.com/wp-content/themes/conductrics-v0.3/assets/images/conductrics-logo.png",
+  "author": {
+    "name": "Conductrics"
+  },
+  "tags": [
+    "Developers",
+    "Method",
+    "Connect"
+  ],
+  "description": "At Conductrics, we know that there is more in developers’ tool kits than just JavaScript. That is why when we built Conductrics, we made sure that every feature, method, report, management, you name it, was available via our RestAPI. This way, you can connect to  Conductrics in whatever way works best for your environment."
+}

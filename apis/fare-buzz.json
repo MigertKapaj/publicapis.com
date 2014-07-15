@@ -1,0 +1,16 @@
+{
+  "id": "fare-buzz",
+  "title": " Fare Buzz",
+  "link": "http://ws.farebuzz.com/resources/",
+  "image": "",
+  "author": {
+    "name": " Fare Buzz"
+  },
+  "tags": [
+    "Fare",
+    "Clients",
+    "Web",
+    "Certification"
+  ],
+  "description": "The Fare Buzz Flight Gateway Web Service provides the client access to published and consolidator fares to anywhere in the world. Using the Flight Gateway the customer or agent can search for and book any fares that are available to Fare Buzz without leaving the clients website. Below you will find information and links for the web service API, example application, certification documentation, and support."
+}

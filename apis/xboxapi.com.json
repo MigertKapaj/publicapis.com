@@ -1,0 +1,13 @@
+{
+  "id": "xboxapi.com",
+  "title": "XboxAPI.com",
+  "link": "https://www.mashape.com/djekl/xboxapi-com",
+  "image": "",
+  "author": {
+    "name": "djekl"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This is an UNOFFICIAL Xbox LIVE API. You can use this API to collect data about gamertags, such as profile/played games/game achievement data.\r\n\r\nPlease visit https://xboxapi.com for more information"
+}

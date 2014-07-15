@@ -1,0 +1,15 @@
+{
+  "id": "mailwriter",
+  "title": "MailWriter",
+  "link": "http://apidoc.mailwriter.com/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmSPm4B_OESaNQVgl4Ao1bRm0qgNbJgzaMAYFjyseBKqtGECch",
+  "author": {
+    "name": "MailWriter"
+  },
+  "tags": [
+    "Directly",
+    "Website",
+    "Completely"
+  ],
+  "description": "The MailWriter API allows for sending letters directly from your own application without using the website to login and upload. Whether you would like to send a single standardized letter or sent out a completely personalized mail merge."
+}

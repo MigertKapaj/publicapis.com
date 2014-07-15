@@ -1,0 +1,15 @@
+{
+  "id": "bitlove",
+  "title": "Bitlove",
+  "link": "http://bitlove.org/help/podcaster/api#crawling",
+  "image": "http://bitlove.org/static/header_logo.png",
+  "author": {
+    "name": "Bitlove"
+  },
+  "tags": [
+    "Data",
+    "Resources",
+    "Functionality"
+  ],
+  "description": "We try to put all publicly available data back into feeds and OPML resources. That way you can reuse standard software. You may create an issue if you need more functionality. "
+}

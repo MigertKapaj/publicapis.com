@@ -1,0 +1,16 @@
+{
+  "id": "zeevex-standard",
+  "title": "Zeevex Standard",
+  "link": "http://wiki.zeevex.com/display/DEV/Home",
+  "image": "http://wiki.zeevex.com/download/attachments/425988/DEV?version=1&modificationDate=1276220223000",
+  "author": {
+    "name": "Zeevex"
+  },
+  "tags": [
+    "Provide",
+    "Integration",
+    "Platform",
+    "Partners."
+  ],
+  "description": "The Zeevex Standard API is designed to provide integration with the Zeevex virtual currency platform with minimal effort on the part of our merchant partners."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "songsterr",
+  "title": "Songsterr",
+  "link": "http://www.songsterr.com/a/wa/api",
+  "image": "http://www.songsterr.com/WebObjects/Songsterr.woa/Contents/WebServerResources/0c178947ce89f8332f5e415eb26bf13f/images/logo.png?1",
+  "author": {
+    "name": "Songsterr"
+  },
+  "tags": [
+    "Interface",
+    "Present",
+    "Data",
+    "Respond"
+  ],
+  "description": "Songsterr has an open Application Programming Interface (API for short). This means that anyone can write their own program to present public Songsterr data in new and different ways. The Songsterr API allows you to call methods that respond in REST style xml. Individual methods are detailed below. "
+}

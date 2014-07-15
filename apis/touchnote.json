@@ -1,0 +1,15 @@
+{
+  "id": "touchnote",
+  "title": "Touchnote",
+  "link": "http://www.touchnote.com",
+  "image": "https://www.touchnote.com/info/sites/default/files/color/pixture_reloaded-8367f63b/dr_logo.png",
+  "author": {
+    "name": "Touchnote"
+  },
+  "tags": [
+    "Service",
+    "Greeting",
+    "Message"
+  ],
+  "description": "Touchnote is the world's most popular postcard-sending service. From Christmas 2012, we also send beautiful greeting cards. Our mission is to be the best way to send meaningful messages and gifts to the people you care about."
+}

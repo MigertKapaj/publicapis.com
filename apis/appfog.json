@@ -1,0 +1,14 @@
+{
+  "id": "appfog",
+  "title": "AppFog",
+  "link": "http://blog.appfog.com/appfog-beta-api/",
+  "image": "http://blog.appfog.com/wp-content/themes/appfog/images/app-fog.png",
+  "author": {
+    "name": "AppFog"
+  },
+  "tags": [
+    "Platform",
+    "Service"
+  ],
+  "description": "AppFog is a simple Cloud Platform for web applications. It's built on Cloud Foundry, the Open Platform as a Service Project."
+}

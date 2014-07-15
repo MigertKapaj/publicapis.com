@@ -1,0 +1,16 @@
+{
+  "id": "email-migration",
+  "title": "Email Migration",
+  "link": "https://developers.google.com/admin-sdk/email-migration/v2/guides/migrating-email-messages",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Administrators",
+    "Delegated",
+    "Reseller",
+    "Migrate"
+  ],
+  "description": "This documentation is intended for developers who want to write client applications to allow account administrators, delegated administrators, reseller administrators, or with permission, account users to migrate email into their Google Apps mailboxes. "
+}

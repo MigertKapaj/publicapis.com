@@ -1,0 +1,15 @@
+{
+  "id": "tradier",
+  "title": "Tradier",
+  "link": "https://developer.tradier.com/documentation/oauth/authorization-code",
+  "image": "https://developer.tradier.com/images/tradier-developer-logo.png",
+  "author": {
+    "name": "Tradier Developer"
+  },
+  "tags": [
+    "Developers",
+    "Intuitive",
+    "Required"
+  ],
+  "description": "We built our API with the goal that our developers and partners will love working with it as much as we do. We hope we've made it intuitive and easy to use, but where a bit more explanation is required, the documentation should answer any questions you might have."
+}

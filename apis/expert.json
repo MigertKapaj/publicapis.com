@@ -1,0 +1,15 @@
+{
+  "id": "expert",
+  "title": "Expert",
+  "link": "http://api.mcla.us/",
+  "image": "http://media.mcla.us/images/header_mcla_logo.png",
+  "author": {
+    "name": "MCLA"
+  },
+  "tags": [
+    "Access",
+    "Detailed",
+    "Approval"
+  ],
+  "description": "The MCLA.us \"Expert API\" offers direct access to MCLA raw data (rosters, schedules, final game scores and player statistics). Use of this API requires a detailed usage plan and explanation of added value be submitted to the MCLA Board for approval. Terms, fees, and quota will be negotiated before activation."
+}

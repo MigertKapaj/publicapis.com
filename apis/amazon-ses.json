@@ -1,0 +1,15 @@
+{
+  "id": "amazon-ses",
+  "title": "Amazon SES",
+  "link": "http://aws.amazon.com/ses/",
+  "image": "http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Service",
+    "Reliable",
+    "Developed"
+  ],
+  "description": "Amazon Simple Email Service (Amazon SES) is a cost-effective outbound-only email-sending service built on the reliable and scalable infrastructure that Amazon.com has developed to serve its own customer base."
+}

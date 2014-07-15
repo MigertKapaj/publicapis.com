@@ -1,0 +1,16 @@
+{
+  "id": "inforama",
+  "title": "INforAMA",
+  "link": "http://www.higrids.nl/index.php?id=13;",
+  "image": "http://www.higrids.nl/images/higrids_01.gif",
+  "author": {
+    "name": "HiGrids"
+  },
+  "tags": [
+    "Engine",
+    "Mobility",
+    "Device",
+    "Position"
+  ],
+  "description": "INforAMA is the Information Engine for Advanced Mobility Applications.\nThis engine is integrated in an in-car device that is aware of (among others) the car’s position, speed and route."
+}

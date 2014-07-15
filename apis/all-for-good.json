@@ -1,0 +1,16 @@
+{
+  "id": "all-for-good",
+  "title": "All for Good",
+  "link": "http://api.allforgood.org/api.html",
+  "image": "http://api.allforgood.org/zxtrunk.372483137837475807/css/images/all-for-good.png",
+  "author": {
+    "name": "All for Good"
+  },
+  "tags": [
+    "Presents",
+    "Application",
+    "Request",
+    "Documented"
+  ],
+  "description": "The All for Good application programming interface (API) allows client applications to retrieve and view the content of http://www.allforgood.org/, which collects and presents volunteer opportunities posted to numerous sites. Your client application can use the All for Good API to request a list of volunteer opportunities using a number of parameters documented here."
+}

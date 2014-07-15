@@ -1,0 +1,16 @@
+{
+  "id": "netflix",
+  "title": " Netflix",
+  "link": "http://developer.netflix.com",
+  "image": "http://developer.netflix.com/public/Mashery/images/clients/netflix/logo.gif",
+  "author": {
+    "name": " Netflix"
+  },
+  "tags": [
+    "Understand",
+    "Developer",
+    "Documentation",
+    "Interface"
+  ],
+  "description": " This site help Netflix API developers better understand the API.View your developer account keys.Read our documentation to become familiar with our API interface.Start making API calls right now, through your browser.Find anything else you need on our Resources page.And, if you still have questions, query the community of Netflix API developers at stackoverflow.com,using the tag “netflixapi”."
+}

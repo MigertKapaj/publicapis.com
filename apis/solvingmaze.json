@@ -1,0 +1,15 @@
+{
+  "id": "solvingmaze",
+  "title": "Solvingmaze",
+  "link": "http://www.solvingmaze.com/apidoc/rates",
+  "image": "http://www.solvingmaze.com/img/logo_main.jpg",
+  "author": {
+    "name": "Solvingmaze"
+  },
+  "tags": [
+    "Packing",
+    "Developer",
+    "Languages"
+  ],
+  "description": "The API calculates packing requirement and/or shipping rates. This developer's guide is intended for web developers with basic knowledge of PHP, Ruby, C# or other programming languages."
+}

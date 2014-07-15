@@ -1,0 +1,15 @@
+{
+  "id": "cryptank.com",
+  "title": "Cryptank.com",
+  "link": "http://cryptank.com/ticker/ticker_api_tutorial.php",
+  "image": "http://cryptank.com/theme/default/image/logo_96.png",
+  "author": {
+    "name": "Cryptank.com"
+  },
+  "tags": [
+    "Describe",
+    "Consider",
+    "Description"
+  ],
+  "description": "These pages describe the purpose and usage of our Ticker Image API.\nIf you're just curious or wondering whether this is something you can use, consider skipping to the Target Audience Description first.\n        "
+}

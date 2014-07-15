@@ -1,0 +1,15 @@
+{
+  "id": "cortica",
+  "title": "Cortica",
+  "link": "http://demoapi.iweb.cortica.com/index/api",
+  "image": "http://www.cortica.com/images/cort_logo.png",
+  "author": {
+    "name": "Cortica"
+  },
+  "tags": [
+    "Automatically",
+    "Premium",
+    "Video"
+  ],
+  "description": "Cortica enables computers to understand images and automatically generates premium contextual inventory from images and video."
+}

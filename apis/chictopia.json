@@ -1,0 +1,15 @@
+{
+  "id": "chictopia",
+  "title": "Chictopia",
+  "link": "http://www.chictopia.com/about/api_terms",
+  "image": "http://images3.chictopia.com/images/site/chictopia_logo.png",
+  "author": {
+    "name": "Chictopia"
+  },
+  "tags": [
+    "Service",
+    "Cached",
+    "Designed"
+  ],
+  "description": "Your API Client may employ caching solely of Chictopia API results, but You must use commercially reasonable efforts to cause Your API Client to update cached results upon any changes in photo metadata. For example, if a photo is removed from the Chictopia service or made \"private\" by the photo uploader, cached results shall be removed from Your cache. For the avoidance of doubt, Your API Client shall not be designed to cache Chictopia content. "
+}

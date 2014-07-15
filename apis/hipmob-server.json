@@ -1,0 +1,16 @@
+{
+  "id": "hipmob-server",
+  "title": "Hipmob Server",
+  "link": "http://www.hipmob.com/documentation/api.html",
+  "image": "http://www.hipmob.com/images/newbrand.png",
+  "author": {
+    "name": "Hipmob"
+  },
+  "tags": [
+    "Provides",
+    "Library",
+    "Server",
+    "Device"
+  ],
+  "description": "Hipmob provides hosted live chat for mobile applications. You sign up with us, we give you a code, you download our library, you integrate it into your app, and you can then talk to your users, figure out what they want and what problems they are having, and make them happy. No servers, no extra steps or code to write, wherever the users are, you get to focus on what you do well. Hipmob provides a server API to allow admins to manage their applications' settings and obtain device information. This is the documentation for version 1 of the Hipmob API. "
+}

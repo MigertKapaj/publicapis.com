@@ -1,0 +1,15 @@
+{
+  "id": "factolex",
+  "title": "Factolex",
+  "link": "http://api.factolex.com/",
+  "image": "http://static.f-lex.com/img/logo.gif",
+  "author": {
+    "name": "Factolex"
+  },
+  "tags": [
+    "Outside",
+    "Developers",
+    "Possible"
+  ],
+  "description": "The Factolex API is available for non-commercial use by outside developers. Commercial use is possible by prior arrangement."
+}

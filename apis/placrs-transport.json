@@ -1,0 +1,16 @@
+{
+  "id": "placrs-transport",
+  "title": "\n\n   Placr's Transport",
+  "link": "http://www.placr.co.uk/transportapi.php",
+  "image": "http://www.placr.co.uk/transportapi.php",
+  "author": {
+    "name": "Placr"
+  },
+  "tags": [
+    "Aggregation",
+    "Access",
+    "Users",
+    "Data"
+  ],
+  "description": "Placr's Transport API is an aggregation and analytics service for UK public transport, designed to offer users, developers and operators access to transport data-as-a-service (DaaS). Our Transport API includes timetables, routes, live running and performance history and serves this information out in the Three ways: "
+}

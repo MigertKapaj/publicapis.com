@@ -1,0 +1,16 @@
+{
+  "id": "ebook-glue",
+  "title": "Ebook Glue",
+  "link": "https://ebookglue.com/docs",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRKFSYCGB7IAVCkU-I2nzpfb8c3imbj28H5AyKViQUsADnHX90_",
+  "author": {
+    "name": "Ebook Glue"
+  },
+  "tags": [
+    "Customize",
+    "Cover",
+    "Optimization",
+    "Detection"
+  ],
+  "description": "Ebook Glue also allows you to customize your ebooks with book covers, device-specific optimizations, custom stylesheets, content parsing, and automatic chapter detection."
+}

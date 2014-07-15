@@ -1,0 +1,16 @@
+{
+  "id": "telize",
+  "title": "Telize",
+  "link": "http://www.telize.com/",
+  "image": "",
+  "author": {
+    "name": "Telize"
+  },
+  "tags": [
+    "Service",
+    "Information",
+    "Data",
+    "Supports"
+  ],
+  "description": "This service offers a REST API allowing to get a visitor IP address and to query location information from any IP address. It outputs JSON-encoded IP geolocation data, and supports both JSON and JSONP."
+}

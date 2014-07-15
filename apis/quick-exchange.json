@@ -1,0 +1,16 @@
+{
+  "id": "quick-exchange",
+  "title": "Quick Exchange",
+  "link": "https://coinkite.com/api/docs/quick-api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK1m8fjU6tQxxHnWrlTvRjcI_vJ-dnU8K-OR-0Um-x-ABplf5K",
+  "author": {
+    "name": "Coinkite"
+  },
+  "tags": [
+    "Easy",
+    "Provides",
+    "Deposit",
+    "user Base"
+  ],
+  "description": "his API is intended to be easy to implement and provide a quick\nand easy way for Coinkite users to use your exchange to deposit\nfunds into their Coinkite account.\nIt's well suited to growing your user base by exposing Coinkite users\nto what you have to offer."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "time-nac-conversion-service",
+  "title": "Time NAC Conversion Service",
+  "link": "http://www.nacgeo.com/apidocument.htm#NACConversion",
+  "image": "http://www.nacgeo.com/i/logobig.jpg",
+  "author": {
+    "name": "NAC \nGeographic Products Inc."
+  },
+  "tags": [
+    "Location",
+    "Accurate",
+    "Real time",
+    ""
+  ],
+  "description": "A Natural Area Code (NAC) is an efficient representation of an area or a location anywhere in the world so that both human brains and computers can easily handle the accurate location information. A two-character NAC roughly represents an area about 1000 km in easting and 750 km in northing (here easting means the distance from the west edge to the east edge of the area and northing means the distance from the south edge to the north edge of the area). A four-character NAC, an area of 30 km by 25 km. A six-character NAC, one square kilometer area. An eight-character NAC, 25 m by 30 m and a ten-character NAC is approximately one square meter anywhere in the world. Since eight-character or ten-character NACs are accurate to building size, they are also called Universal Addresses. This is a \nsimplified NAC licensing business model which allows you to use NACs and Universal Addresses on any of your applications provided that: \nyou keep subscribing this NAC Real-Time Geo-Services Suite,  you use this Real-Time NAC Conversion service to do all the conversions between NACs and geographic coordinates you include a note on each user interface using NAC or Universal Address: \"NAC (i.e. Universal Address) is licensed by NAC Geographic Products Inc.\" If possible, with a link to http://www.nacgeo.com/nacsite/. "
+}

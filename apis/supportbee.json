@@ -1,0 +1,15 @@
+{
+  "id": "supportbee",
+  "title": "SupportBee",
+  "link": "https://developers.supportbee.com/",
+  "image": "https://supportbee.com/images/v3/logo.png",
+  "author": {
+    "name": "SupportBee"
+  },
+  "tags": [
+    "Section",
+    "Replies",
+    "Unanswered"
+  ],
+  "description": "When a customer sends you an email, we create an Unanswered Ticket. Once you reply, the ticket is marked answered and moved to the answered section on the screen (so you can still follow up if you want). If you don't want to follow up anymore, you can 'Archive' the ticket to take if off the screen. If the customer replies again, we move the ticket back to the unanswered section so you know that there is a new customer reply."
+}

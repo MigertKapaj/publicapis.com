@@ -1,0 +1,15 @@
+{
+  "id": "graphdives",
+  "title": "GraphDive's",
+  "link": "http://www.graphdive.com/technology.php",
+  "image": "http://graphdive.com/images/logo.png",
+  "author": {
+    "name": "GraphDive"
+  },
+  "tags": [
+    "Analytics",
+    "Drive",
+    "Targeted"
+  ],
+  "description": "Implement GraphDive's simple API and turn on our analytics platform to drive more targeted advertising."
+}

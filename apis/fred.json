@@ -1,0 +1,15 @@
+{
+  "id": "fred",
+  "title": "FRED",
+  "link": "http://api.stlouisfed.org/docs/fred/",
+  "image": "http://api.stlouisfed.org/banner.gif",
+  "author": {
+    "name": "St. Louis Fed"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Programs"
+  ],
+  "description": "The FRED® API is a web service that allows developers to write programs and build applications that retrieve economic data from the FRED® and ALFRED® websites hosted by the Economic Research Division of the Federal Reserve Bank of St. Louis."
+}

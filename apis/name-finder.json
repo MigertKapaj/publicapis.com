@@ -1,0 +1,16 @@
+{
+  "id": "name-finder",
+  "title": "Name finder",
+  "link": "http://wiki.openstreetmap.org/wiki/Namefinder",
+  "image": "",
+  "author": {
+    "name": "Open Street Map"
+  },
+  "tags": [
+    "Search",
+    "Database",
+    "Geocoding",
+    "Engine."
+  ],
+  "description": "Name finder is a tool to search for names and related items like road numbers in the OSM database. For a long time it was the main geocoding search engine powering the search box on the openstreetmap.org front page, as well as running at gazetteer.openstreetmap.org/namefinder "
+}

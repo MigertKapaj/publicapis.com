@@ -1,0 +1,16 @@
+{
+  "id": "recipe",
+  "title": "Recipe",
+  "link": "http://www.recipebridge.com/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSBgq-86IMJH2mp8JMXvbZpVuAaaFN1O60ipZAAGtO_2xgCmkWO7Q",
+  "author": {
+    "name": "RecipeBridge"
+  },
+  "tags": [
+    "Access",
+    "Websites",
+    "Creative",
+    "Device"
+  ],
+  "description": "The recipe API from RecipeBridge provides easy access to our index of 4,478,899 recipes from 311 cooking websites. Our recipe api is unique in that it allows users to build creative search-based recipe applications for web, mobile, and tablet devices. It also provides easy access for those wishing to add recipe content to their websites. "
+}

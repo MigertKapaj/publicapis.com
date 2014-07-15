@@ -1,0 +1,15 @@
+{
+  "id": "appolicious",
+  "title": "Appolicious",
+  "link": "http://www.appolicious.com/pages/api-ad-landing-page",
+  "image": "http://c1368582.cdn.cloudfiles.rackspacecloud.com/images/redesign/appo-logo.png?1",
+  "author": {
+    "name": "Appolicious"
+  },
+  "tags": [
+    "Service",
+    "Web",
+    "Revenue"
+  ],
+  "description": "Fill in the form below to get more information on Appolicious APIs and web services. You can use Appolicious proprietary app search, app recommendations, and other app web services to power iOS or Android app discovery in your app or website to drive engagement and revenue."
+}

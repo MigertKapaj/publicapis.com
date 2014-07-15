@@ -1,0 +1,15 @@
+{
+  "id": "alchemy",
+  "title": "Alchemy",
+  "link": "http://www.alchemyapi.com/api/calling-the-api/",
+  "image": "http://www.alchemyapi.com/sites/default/files/Logo60Height.png",
+  "author": {
+    "name": "Alchemy"
+  },
+  "tags": [
+    "Intelligence",
+    "Techniques",
+    "Support"
+  ],
+  "description": "We're excited that you're integrating AlchemyAPI into your project. By utilizing AlchemyAPI to power your text analysis needs, you're leveraging some of the most advanced artificial intelligence, machine learning and natural language processing techniques available. To help you get started, the following guide will walk through the basic steps to get up and running. If you have any questions or feedback, please contact support."
+}

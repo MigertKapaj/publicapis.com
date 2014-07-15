@@ -1,0 +1,15 @@
+{
+  "id": "taggstar",
+  "title": "taggstar",
+  "link": "http://www.taggstar.com/developer",
+  "image": "http://cdn.taggstar.com/static/site/images/sprite.png",
+  "author": {
+    "name": "taggstar"
+  },
+  "tags": [
+    "Methods",
+    "Control",
+    "Object"
+  ],
+  "description": "These Javascript methods can be used to control or update the widget via the global taggWidget object."
+}

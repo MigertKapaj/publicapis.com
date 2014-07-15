@@ -1,0 +1,15 @@
+{
+  "id": "adility",
+  "title": "Adility",
+  "link": "http://apidoc.adility.com/",
+  "image": "http://apidoc.adility.com/_/rsrc/1318135604697/config/customLogo.gif?revision=3",
+  "author": {
+    "name": "Adility"
+  },
+  "tags": [
+    "Responses",
+    "Advertisers",
+    "Access"
+  ],
+  "description": "The Adility API provides a simple RESTful interface with JSON- and XML-formatted responses to use distribution and submission operations, including offers, advertisers, orders, coupon clips, accounts, and reservations, using authentication to allow both read and write access to the offers database."
+}

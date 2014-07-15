@@ -1,0 +1,15 @@
+{
+  "id": "yookos",
+  "title": "Yookos",
+  "link": "http://api.yookos.com/documentation/api/v3/rest/",
+  "image": "http://api.yookos.com/documentation/api/v3/rest/images/hd.yookos.logo.png",
+  "author": {
+    "name": "Yookos"
+  },
+  "tags": [
+    "Request",
+    "Provided",
+    "Specified"
+  ],
+  "description": "All REST endpoints use JSON in the request and response bodies. The JSON format for different objects is provided in the Types section. Fields marked as required must be specified when creating and updating objects."
+}

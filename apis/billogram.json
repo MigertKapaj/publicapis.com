@@ -1,0 +1,15 @@
+{
+  "id": "billogram",
+  "title": "Billogram",
+  "link": "https://express.billogram.com/developers/",
+  "image": "https://express.billogram.com/images/logo-header-billogram.png",
+  "author": {
+    "name": "Billogram"
+  },
+  "tags": [
+    "Transfer",
+    "Request",
+    "Headers"
+  ],
+  "description": "The API uses a Representational State Transfer (REST) architecture and the HTTP/1.1 protocol. Every API-request is based on the URL, request type (GET, POST, DELETE or PUT), the HTTP body and the headers that are sent along with the HTTP-request. "
+}

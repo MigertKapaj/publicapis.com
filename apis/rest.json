@@ -1,0 +1,16 @@
+{
+  "id": "rest",
+  "title": "REST ",
+  "link": "http://speakertext.com/api",
+  "image": "http://speakertext.com/images/logo_nobeta.png?1393834759",
+  "author": {
+    "name": "SpeakerText"
+  },
+  "tags": [
+    "Transcription",
+    "Restful",
+    "Results",
+    "Account"
+  ],
+  "description": "SpeakerText's transcription services may be accessed through a RESTful API. It is possible to initiate transcription and receive transcription results through the API. Anyone with a SpeakerText account can use the API.\n\n"
+}

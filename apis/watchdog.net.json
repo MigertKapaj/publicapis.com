@@ -1,0 +1,17 @@
+{
+  "id": "watchdog.net",
+  "title": "watchdog.net",
+  "link": "http://watchdog.net/about/api",
+  "image": "http://static.watchdog.net/images/watchdog.slogan.twolines.gif",
+  "author": {
+    "name": "watchdog.net"
+  },
+  "tags": [
+    "Data",
+    "Developers",
+    "Human-readable",
+    "Machine",
+    "readeable"
+  ],
+  "description": "Making the data collected here useful to other developers is a core part of our mission.That's why we've made sure that every part of the site is not just human-readable\nbut also machine-readable.\n"
+}

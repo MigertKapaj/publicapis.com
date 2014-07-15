@@ -1,0 +1,15 @@
+{
+  "id": "vend",
+  "title": "Vend",
+  "link": "https://developers.vendhq.com/documentation/client/index.html#overview",
+  "image": "https://developers.vendhq.com/images/logo.png",
+  "author": {
+    "name": "Vend"
+  },
+  "tags": [
+    "Resource",
+    "Ideas",
+    "Better"
+  ],
+  "description": "Welcome to the Vend API documentation. We hope you’ll find this resource clear and helpful. If you find any errors or discrepancies please notify developer@vendhq.com. Also, if you have any brilliant ideas on how we can make it better, let us know."
+}

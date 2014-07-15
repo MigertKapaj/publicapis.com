@@ -1,0 +1,16 @@
+{
+  "id": "toprural",
+  "title": "Toprural",
+  "link": "http://api.toprural.com/doc/APIReference.html",
+  "image": "http://multimedia1.front.toprural.com/static-images/logo.png",
+  "author": {
+    "name": "Toprural"
+  },
+  "tags": [
+    "Information",
+    "Listings",
+    "Personal",
+    "Exchange"
+  ],
+  "description": "The Toprural API will enable you to obtain information from our rural accommodation listings and from their personal website (photos, videos, prices, etc.). In exchange, we only ask that you mention the source and include a link to Toprural."
+}

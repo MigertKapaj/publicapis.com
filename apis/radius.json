@@ -1,0 +1,15 @@
+{
+  "id": "radius",
+  "title": "Radius",
+  "link": "http://fwix.com/developer_tools/api",
+  "image": "http://radiusintel.wpengine.netdna-cdn.com/wp-content/themes/radiusV_5.2/img/radius-header-logo.png",
+  "author": {
+    "name": "Radius"
+  },
+  "tags": [
+    "Determine",
+    "Quickly",
+    "Data"
+  ],
+  "description": "With Radius, you can determine the attributes that define your best customers quickly and easily. No need to hire an army of data scientists."
+}

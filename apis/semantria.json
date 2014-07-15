@@ -1,0 +1,16 @@
+{
+  "id": "semantria",
+  "title": "Semantria",
+  "link": "https://semantria.com/developer",
+  "image": "https://semantria.com/marketing/img/ui/semantria_whitelogo.png",
+  "author": {
+    "name": "Semantria"
+  },
+  "tags": [
+    "Communicates",
+    "Supports",
+    "Data",
+    "Designed"
+  ],
+  "description": "Semantria provides a REST API, which is compliant with all REST standards. It communicates solely though secure HTTPS connections and supports JSON and XML formats for client-server communication. The API is asynchronous, meaning data cannot be downloaded and uploaded through the use of one API call; however, it is designed for heavy loads, near-realtime speeds and large volumes of content."
+}

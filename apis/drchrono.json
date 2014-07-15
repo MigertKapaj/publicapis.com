@@ -1,0 +1,16 @@
+{
+  "id": "drchrono",
+  "title": "Drchrono",
+  "link": "https://drchrono.com/api/",
+  "image": "https://d1lxka6a37cuak.cloudfront.net/site_media/cb-fc925a0c/images/homepage/logo_drchrono_dark.png",
+  "author": {
+    "name": "Drchrono"
+  },
+  "tags": [
+    "Interact",
+    "Professional",
+    "Healthcare",
+    "Possibilities"
+  ],
+  "description": "You can use the API and SDK to create new ways to interact with medical professionals, patients and people in healthcare. Simple setup and the possibilities are limitless… and it's free. "
+}

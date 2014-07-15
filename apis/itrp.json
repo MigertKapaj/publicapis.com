@@ -1,0 +1,16 @@
+{
+  "id": "itrp",
+  "title": "ITRP",
+  "link": "http://developer.itrp.com/",
+  "image": "http://developer.itrp.com/images/itrp_logo_small.png",
+  "author": {
+    "name": "ITRP"
+  },
+  "tags": [
+    "Describe",
+    "Resource",
+    "Developers",
+    "Integration"
+  ],
+  "description": "This site describes the resources that are available for developers to build integrations with the ITRP service."
+}

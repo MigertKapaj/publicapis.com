@@ -1,0 +1,15 @@
+{
+  "id": "genetics-home-reference",
+  "title": "Genetics Home Reference",
+  "link": "http://ghr.nlm.nih.gov/LinkingTo",
+  "image": "http://ghr.nlm.nih.gov/html/images/ghr-logo-collage-75-top-name.gif",
+  "author": {
+    "name": "Genetics Home Reference"
+  },
+  "tags": [
+    "Provide",
+    "Reference",
+    "Data"
+  ],
+  "description": "If you link to this site, provide proper attribution to the U.S. National Library of Medicine (NLM) and Genetics Home Reference. It must be clear to users that data and searches are being provided by Genetics Home Reference."
+}

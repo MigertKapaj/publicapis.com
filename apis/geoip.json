@@ -1,0 +1,15 @@
+{
+  "id": "geoip",
+  "title": "GeoIP",
+  "link": "http://docs.prototypeapps.com/geoip:api",
+  "image": "http://docs.rackspace.com/common/img/rackspace-logo.png",
+  "author": {
+    "name": "Proto type"
+  },
+  "tags": [
+    "Alpha",
+    "Problem",
+    "Request"
+  ],
+  "description": "The API is very much in alpha, so let me know if you have any problems or requests.\n"
+}

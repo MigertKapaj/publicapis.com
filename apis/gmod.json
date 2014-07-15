@@ -1,0 +1,15 @@
+{
+  "id": "gmod",
+  "title": "GMOD",
+  "link": "http://gmod.org/wiki/GMOD_REST_API",
+  "image": "http://gmod.org/images/GMOD-cogs.png",
+  "author": {
+    "name": "GMOD"
+  },
+  "tags": [
+    "According",
+    "Corresponds",
+    "Data"
+  ],
+  "description": "In order to provide a stable URL API all web calls should be versioned according to what version of the GMOD REST API they are using. The version number included in the URLs corresponds to the API version and not the data version."
+}

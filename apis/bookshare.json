@@ -1,0 +1,15 @@
+{
+  "id": "bookshare",
+  "title": "bookshare",
+  "link": "http://developer.bookshare.org/",
+  "image": "http://assets.bookshare.org/img/developer/bk-header_branding_logo.png",
+  "author": {
+    "name": "bookshare"
+  },
+  "tags": [
+    "Register",
+    "Developer",
+    "Application"
+  ],
+  "description": "To use our web service (API) you first need to get an application  key. You should obtain a different application key for each application  or device accessing our web service, so that you and Bookshare can  properly track usage per application.  To get an application key, you  first need to register for a developer account we use Mashery to manage our developer network,  so if you already had a Mashery account you can skip this step."
+}

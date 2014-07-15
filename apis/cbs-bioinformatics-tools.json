@@ -1,0 +1,15 @@
+{
+  "id": "cbs-bioinformatics-tools",
+  "title": "CBS Bioinformatics Tools",
+  "link": "http://www.cbs.dtu.dk/biotools/",
+  "image": "http://www.cbs.dtu.dk/images/m_logo.gif",
+  "author": {
+    "name": "CBS"
+  },
+  "tags": [
+    "Academic",
+    "Free",
+    "Limited"
+  ],
+  "description": "The access to the tools listed below is free and unlimited for all academic users. For other users the access is also free but limited. Please see here for the details of the access policy. "
+}

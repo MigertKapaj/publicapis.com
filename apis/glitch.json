@@ -1,0 +1,16 @@
+{
+  "id": "glitch",
+  "title": "Glitch",
+  "link": "http://www.glitchthegame.com/developer/docs/auth/",
+  "image": "http://c1.glitch.bz/img/dev/logo-glitch_62527.png",
+  "author": {
+    "name": "Glitch"
+  },
+  "tags": [
+    "Provided",
+    "Secrets",
+    "Possible",
+    "Scopes"
+  ],
+  "description": "Authentication is provided via OAuth 2, draft 13. At present, only the code and token authorization response types are supported. Client IDs have secrets, which must be passed for code token exchange requests. Issued tokens are bearer tokens with no secret and no expiry. Refresh tokens are not supported. Possible scopes are explained here. "
+}

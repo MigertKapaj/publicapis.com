@@ -1,0 +1,15 @@
+{
+  "id": "medgle",
+  "title": "MEDgle",
+  "link": "http://www.medgle.com/#platform",
+  "image": "",
+  "author": {
+    "name": "MEDgle"
+  },
+  "tags": [
+    "Power",
+    "Health",
+    "Medical"
+  ],
+  "description": "The API allows you to develop health applications leveraging the power of MEDgle expert system and search. To use the API, you need to first sign up for an API key. You can sign up for an API key via the contact form. Once you've received an API key, you can develop health and medical applications following the instructions in this documentation. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "we-feel-fine",
+  "title": "We Feel Fine",
+  "link": "http://www.wefeelfine.org/api.html",
+  "image": "http://www.wefeelfine.org/common/wefeelfine-medium.gif",
+  "author": {
+    "name": "We Feel Fine"
+  },
+  "tags": [
+    "Conversation",
+    "Emotions",
+    "Across",
+    "Artists"
+  ],
+  "description": "Borrowing is a great tradition in art; each individual piece of art is part of a larger conversation. With technology-based art, we have the ability to enable borrowing more directly by opening up APIs to our work. Accordingly, we have opened up an API for We Feel Fine, to allow other artists to more easily make pieces that explore these human emotions. Since we are borrowing from the feelings of thousands of people across the world to make our piece, we find it fitting for other artists to be able to borrow from our work to make theirs. We are eager to see where this conversation will take us. "
+}

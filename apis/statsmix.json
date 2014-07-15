@@ -1,0 +1,15 @@
+{
+  "id": "statsmix",
+  "title": "StatsMix",
+  "link": "https://www.statsmix.com/developers/api_console",
+  "image": "https://www.statsmix.com/assets/statsmix-logo.png",
+  "author": {
+    "name": "StatsMix"
+  },
+  "tags": [
+    "Console",
+    "Account",
+    "Developer"
+  ],
+  "description": "To use the StatsMix API console, you need an API key. If you don't have a StatsMix account, you can sign up for a free developer plan to get an API key. "
+}

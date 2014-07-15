@@ -1,0 +1,16 @@
+{
+  "id": "the-management-api",
+  "title": "The Management API",
+  "link": "https://developers.google.com/analytics/devguides/config/mgmt/v3/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Access",
+    "Analytics",
+    "Retieve",
+    "Cost data"
+  ],
+  "description": "The Management API provides access to the Google Analytics configuration data for an authorized user. With this API you can:\nList all the Account, Property and View (Profile) information for a user.Manage Properties, Views (Profiles), and Goals.Manage user permissions for an account hierarchy.Retrieve a View (Profile) ID to use with the Core Reporting API.Determine which goals are active and access their configured names.Retrieve a user's Custom Segments to apply them to Core Reporting API queries.\nUpload cost data to Google Analytics for non-Google paid campaigns.Manage Content Experiments.\n  "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "iowa-sex-offender-registry",
+  "title": "Iowa Sex Offender Registry",
+  "link": "http://www.iowasexoffender.com/api/info",
+  "image": "http://www.iowasexoffender.com/images/w2logo.png",
+  "author": {
+    "name": "Iowa Sex Offender Registry"
+  },
+  "tags": [
+    "Agencies",
+    "Accuracy",
+    "Services",
+    "Limitation"
+  ],
+  "description": "The State of Iowa and its agencies, officials and employees make no warranty, representation or guaranty as to the content, accuracy, timeliness or completeness of the information provided herein. The State of Iowa, and the Department of Administrative Services, Information Technology Enterprise expressly disclaim any and all liability for any loss or injury caused, in whole or in part, by its actions, omissions, or negligence in procuring, compiling or providing the information contained in this site, including without limitation, liability with respect to any use of this site, or the information contained herein. Reliance on the information contained on this site, is solely at your own risk. The information may change or be altered at any time."
+}

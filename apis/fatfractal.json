@@ -1,0 +1,15 @@
+{
+  "id": "fatfractal",
+  "title": "FatFractal",
+  "link": "http://fatfractal.com/prod/docs/getting-started/servlets/",
+  "image": "http://fatfractal.com/beta/wp-content/uploads/2012/08/beta.png",
+  "author": {
+    "name": "FatFractal"
+  },
+  "tags": [
+    "Supports",
+    "Access",
+    "Clicking"
+  ],
+  "description": "The FatFractal Platform supports a variety of clientside and serverside environments.\nYou can access the following API docs from this page. Clicking on the links below will open a new window."
+}

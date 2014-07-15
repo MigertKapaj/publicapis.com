@@ -1,0 +1,14 @@
+{
+  "id": "netregistry",
+  "title": "Netregistry",
+  "link": "http://www.netregistry.com.au/resellers/",
+  "image": "http://www.netregistry.com.au/images/sprites/global.png",
+  "author": {
+    "name": "Netregistry"
+  },
+  "tags": [
+    "Orders",
+    "Services"
+  ],
+  "description": "Our API is easily integrated into your existing system to manage orders and services."
+}

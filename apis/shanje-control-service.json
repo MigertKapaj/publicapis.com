@@ -1,0 +1,16 @@
+{
+  "id": "shanje-control-service",
+  "title": "Shanje Control Service",
+  "link": "http://www.shanje.com/ControlPanels-API.aspx",
+  "image": "http://www.shanje.com/images/logo.png",
+  "author": {
+    "name": "Shanje"
+  },
+  "tags": [
+    "Compliant",
+    "Service",
+    "Connect",
+    "Functions"
+  ],
+  "description": "The Shanje Control Service is a standards compliant web service that you can connect to from your own code in your favorite programming language through standard SOAP functions or through a web service proxy class. "
+}

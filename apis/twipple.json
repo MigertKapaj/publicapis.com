@@ -1,0 +1,15 @@
+{
+  "id": "twipple",
+  "title": "Twipple",
+  "link": "http://p.twipple.jp/wiki/Main_Page",
+  "image": "",
+  "author": {
+    "name": "Twipple"
+  },
+  "tags": [
+    "Data",
+    "Reference",
+    "Returned"
+  ],
+  "description": "This API acquires \"Image data\" and \"Transfer of the user information reference authority by OAuth Echo\" via HTTP and accepts the contribution. And, URL of the contributed image is returned with XML. "
+}

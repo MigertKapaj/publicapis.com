@@ -1,0 +1,14 @@
+{
+  "id": "processwire",
+  "title": "ProcessWire",
+  "link": "http://processwire.com/api/",
+  "image": "http://processwire.com/site/templates/styles/img/logo.png",
+  "author": {
+    "name": "ProcessWire"
+  },
+  "tags": [
+    "Selectors",
+    "Interface"
+  ],
+  "description": "ProcessWire’s API is a collection of variables, selectors, fluent interfaces and a modular plugin architecture. Read more about what makes up this API here."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "thingspeak",
+  "title": "ThingSpeak",
+  "link": "https://www.thingspeak.com",
+  "image": "https://thingspeak.com/assets/thingspeak_logo-dadc6a1037759f672179ca2d4e96ba6d.png",
+  "author": {
+    "name": "ThingSpeak"
+  },
+  "tags": [
+    "Numeric",
+    "Alphanumeric",
+    "Data",
+    "Processing"
+  ],
+  "description": "The ThingSpeak API is available on GitHub and includes the complete ThingSpeak API for processing HTTP requests, storing numeric and alphanumeric data, numeric data processing, location tracking, and status updates.  The open source version follows the same documentation as the ThingSpeak hosted service."
+}

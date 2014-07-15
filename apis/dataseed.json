@@ -1,0 +1,15 @@
+{
+  "id": "dataseed",
+  "title": "Dataseed",
+  "link": "https://getdataseed.com/documentation",
+  "image": "https://getdataseed.com/public/img/dataseed.png",
+  "author": {
+    "name": "Dataseed"
+  },
+  "tags": [
+    "Data",
+    "Exisiting",
+    "Provide"
+  ],
+  "description": "It's easy to build real-time data-driven visualisations, or add analytics to your existing applications. We provide a hosted back-end with analytics capabilities, into which you can load your data via a RESTful API, or from Amazon S3."
+}

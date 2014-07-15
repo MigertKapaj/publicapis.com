@@ -1,0 +1,15 @@
+{
+  "id": "betfair-developer-program",
+  "title": "Betfair Developer Program",
+  "link": "http://bdp.betfair.com/",
+  "image": "https://inviqa.betstores-development.com/bdpsite/themes/betfair/img/logo-betfair-devprog.png",
+  "author": {
+    "name": "Betfair Developer Program"
+  },
+  "tags": [
+    "Provides",
+    "Data",
+    "Distribute"
+  ],
+  "description": "The Betfair Developer Program provides the API's, data and tools you need to develop rich, customised interfaces for your own use or to distribute to Betfair customers."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "synchroteam",
+  "title": "Synchroteam",
+  "link": "http://api.synchroteam.com/rest.php",
+  "image": "http://api.synchroteam.com/assets/img/logo.png",
+  "author": {
+    "name": "Synchroteam"
+  },
+  "tags": [
+    "Data",
+    "Situations",
+    "Push"
+  ],
+  "description": "Synchroteam's data is not locked in. We understand that there exists a wide variety of situations where you will want to read data kept within synchroteam.com, or push data into it."
+}

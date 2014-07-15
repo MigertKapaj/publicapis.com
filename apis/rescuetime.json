@@ -1,0 +1,16 @@
+{
+  "id": "rescuetime",
+  "title": "RescueTime",
+  "link": "https://www.rescuetime.com/developers",
+  "image": "https://www.rescuetime.com/images/logo_team_simple.png",
+  "author": {
+    "name": "RescueTime"
+  },
+  "tags": [
+    "Software",
+    "Power",
+    "Flexiblity",
+    "Web"
+  ],
+  "description": "RescueTime software is engineered to maximize flexibility to power users while presenting minimum complexity through the web application."
+}

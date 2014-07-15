@@ -1,0 +1,16 @@
+{
+  "id": "kadoo-backstage",
+  "title": "Kadoo Backstage",
+  "link": "http://developers.kadoo.com/",
+  "image": "http://developers.kadoo.com/inc/images/main/logo-img2.png",
+  "author": {
+    "name": "Kadoo Backstage"
+  },
+  "tags": [
+    "Risk",
+    "Cloud",
+    "Development",
+    "Create"
+  ],
+  "description": "Kadoo Backstage takes the risk out of development for the consumer cloud. Our open development platform has all the stuff needed behind the scenes so you focus on what you do best—create.\n"
+}

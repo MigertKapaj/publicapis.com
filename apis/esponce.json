@@ -1,0 +1,15 @@
+{
+  "id": "esponce",
+  "title": "Esponce",
+  "link": "http://www.esponce.com/help-api-v3",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT__-PKtmFcu4h1CBMjqVy3Mh_Z94sqbMexYzCnc3zpLuBhrDxFQg",
+  "author": {
+    "name": "Esponce"
+  },
+  "tags": [
+    "Integrate",
+    "Decode",
+    "Trackable"
+  ],
+  "description": "Esponce API offers you a way to integrate QR Code features into your application. API can be used in your application to automate generating QR Codes or decode content from scanned QR Code images or to handle trackable QR Codes and campaigns. "
+}

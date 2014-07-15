@@ -1,0 +1,15 @@
+{
+  "id": "visitors-voice",
+  "title": "Visitors Voice ",
+  "link": "http://api.visitorsvoice.com/",
+  "image": "http://api.visitorsvoice.com/Images/vv-api-logo.png",
+  "author": {
+    "name": "Visitors Voice "
+  },
+  "tags": [
+    "Web",
+    "Access",
+    "Data"
+  ],
+  "description": "Visitors Voice track visitors of your web and intranet. And let you access a wide range of innovative, actionable user behavior data. "
+}

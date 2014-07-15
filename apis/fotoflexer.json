@@ -1,0 +1,16 @@
+{
+  "id": "fotoflexer",
+  "title": "FotoFlexer",
+  "link": "http://fotoflexer.com/api.php",
+  "image": "http://imgfarm.fotoflexer.com/web/api_logo.gif",
+  "author": {
+    "name": "FotoFlexer"
+  },
+  "tags": [
+    "Provides",
+    "Power",
+    "Online",
+    "Capabilities"
+  ],
+  "description": "The FotoFlexer API provides a simple interface for external websites to harness the power of FotoFlexer. Utilizing minimal code, any website can add industry-leading online image editing capabilities."
+}

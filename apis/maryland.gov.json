@@ -1,0 +1,15 @@
+{
+  "id": "maryland.gov",
+  "title": "Maryland.gov",
+  "link": "https://egov.maryland.gov/mva/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVVw2UiA835P9x8fUT3mUnvAf-pyeKqcizq-ZVK6Z7X4VnxnkbVQ",
+  "author": {
+    "name": "Maryland.gov"
+  },
+  "tags": [
+    "Service",
+    "Access",
+    "Record"
+  ],
+  "description": "The Interactive Driver and Vehicle Records (IDVR) service is a web-based application which allows authorized customers to access driver and vehicle record histories in real time."
+}

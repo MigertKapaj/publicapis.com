@@ -1,0 +1,16 @@
+{
+  "id": "the-districts",
+  "title": "The Districts",
+  "link": "http://developer.nytimes.com/docs/districts_api",
+  "image": "http://developer.nytimes.com/files/NYTDevLogo.png",
+  "author": {
+    "name": " Districts"
+  },
+  "tags": [
+    "Coordinates",
+    "Boundaries",
+    "Originated",
+    "Application"
+  ],
+  "description": "The Districts API, you can get political districts based on a pair of geographic coordinates. Currently, the Districts API is limited to New York City, and the boundaries are current as of june2013 The Districts API originated in the Represent application on NYTimes.com. For more information, read the blog post."
+}

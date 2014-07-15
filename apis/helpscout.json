@@ -1,0 +1,16 @@
+{
+  "id": "helpscout",
+  "title": "helpscout",
+  "link": "http://developer.helpscout.net/help-desk-api/",
+  "image": "http://developer.helpscout.net/img/logo.png",
+  "author": {
+    "name": "helpscout"
+  },
+  "tags": [
+    "Associated",
+    "Responses",
+    "Password",
+    ""
+  ],
+  "description": "This is an HTTPS-only API. Authentication is based on API Keys. Each  API Key is associated with a Help Scout user. Results returned from various responses are based upon the role of the user to which the API key is tied.The API Key is passed via HTTP Basic Authentication and goes in the username field. A dummy password, such as X, goes in the password field."
+}

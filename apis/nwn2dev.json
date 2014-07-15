@@ -1,0 +1,15 @@
+{
+  "id": "nwn2dev",
+  "title": "nwn2dev",
+  "link": "https://github.com/SkywingvL/nwn2dev-public",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Service",
+    "Provided",
+    "Server"
+  ],
+  "description": "This repository contains supporting infrastructure for a server browser replacement for NWN2 and NWN1. A public web service API is provided that enables clients (such as websites) to obtain a current list of participating NWN2 and NWN1 player-run game servers."
+}

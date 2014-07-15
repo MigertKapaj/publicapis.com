@@ -1,0 +1,16 @@
+{
+  "id": "auphonic",
+  "title": "Auphonic",
+  "link": "https://auphonic.com/api-docs/index.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSAYSn7Ik5VZq8vsA2AGiTzDLtfzUpAnVUDTxYN25uyup9MT9XB",
+  "author": {
+    "name": "Auphonic"
+  },
+  "tags": [
+    "Basic",
+    "Batch",
+    "Production",
+    "Internal"
+  ],
+  "description": "The Auphonic Simple API should be used for basic scripts like batch processing of multiple files. It is possible to save and start productions in a single request by referencing an existing preset, without storing an internal state. This makes it ideal for quick shell scripts and basic integrations."
+}

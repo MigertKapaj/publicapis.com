@@ -1,0 +1,15 @@
+{
+  "id": "audiomicro",
+  "title": "AudioMicro",
+  "link": "http://www.audiomicro.com/api/show/authentication/2",
+  "image": "http://www.audiomicro.com/images/header-v2/logo.png",
+  "author": {
+    "name": "AudioMicro"
+  },
+  "tags": [
+    "Design",
+    "Service",
+    "Web"
+  ],
+  "description": "The AudioMicro API allows our partners to design their own services, programs, and platforms based off of the AudioMicro interface - on the web, desktop, mobile devices, and more."
+}

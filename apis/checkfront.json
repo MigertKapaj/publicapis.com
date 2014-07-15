@@ -1,0 +1,15 @@
+{
+  "id": "checkfront",
+  "title": "Checkfront",
+  "link": "http://checkfront.github.io/API/",
+  "image": "https://www.checkfront.com/images/brand/Checkfront-Logo-45.png",
+  "author": {
+    "name": "Checkfront"
+  },
+  "tags": [
+    "Expand",
+    "Desktop",
+    "Integrate"
+  ],
+  "description": "The Checkfront API allows developers to expand and build on the Checkfront Booking Platform. The API makes it easy to create web, desktop & mobile applications that integrate and with your Checkfront account."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sendwrite",
+  "title": "Sendwrite",
+  "link": "https://sendwrite.com/developer/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTnUheqs5cUXoBunol1l7ZZYZUrUxNF3ojnciF2z1owGMx5q5oTYQ",
+  "author": {
+    "name": "Sendwrite"
+  },
+  "tags": [
+    "Settings",
+    "mail"
+  ],
+  "description": "The SendWrite API uses Basic authentication over HTTPS. Use 'api' for the username and your api key for the password. Your api key can be found on your account's settings page. Once you have your api key, you can send mail via our RESTful interface."
+}

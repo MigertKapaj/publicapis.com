@@ -1,0 +1,16 @@
+{
+  "id": "email-on-acid",
+  "title": "Email On Acid",
+  "link": "http://www.emailonacid.com/api/restful",
+  "image": "http://www.emailonacid.com/images/redesign/logo.jpg",
+  "author": {
+    "name": "Email On Acid"
+  },
+  "tags": [
+    "Interface",
+    "Requirement",
+    "Technical",
+    "Business"
+  ],
+  "description": "We'll provide a standard user interface and HTML framework for displaying test results, however, this is not a requirement. You are welcome to integrate our products and features into your workflow based on your technical requirements and business methodology."
+}

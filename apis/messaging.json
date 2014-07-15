@@ -1,0 +1,16 @@
+{
+  "id": "messaging",
+  "title": "Messaging",
+  "link": "https://dev.mxit.com/docs",
+  "image": "https://dev.mxit.com/images/nav-logo.png",
+  "author": {
+    "name": "Mxit Developer"
+  },
+  "tags": [
+    "Either",
+    "Directly",
+    "App",
+    "Recieve"
+  ],
+  "description": "The Messaging API allows an app to push messages, either in plain text or Mxit Markup format, directly to a Mxit user. The user must have already added your app to their contact list in order to receive the message."
+}

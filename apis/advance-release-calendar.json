@@ -1,0 +1,15 @@
+{
+  "id": "advance-release-calendar",
+  "title": "Advance Release Calendar",
+  "link": "http://www.idescat.cat/dev/api/cal/?lang=en",
+  "image": "http://www.idescat.cat/images/logo_Idescat_nostre_petit.gif",
+  "author": {
+    "name": "Idescat"
+  },
+  "tags": [
+    "Service",
+    "Response",
+    "Documentation"
+  ],
+  "description": "Every request must specify by obligation the service, version, operation and format. Version and operation are specific characteristics of each service. This service supports the general response formats for Idescat APIs. For further information, please see the Anatomy of Requests section of the general documentation on Idescat APIs."
+}

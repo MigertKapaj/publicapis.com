@@ -1,0 +1,15 @@
+{
+  "id": "ckan",
+  "title": "CKAN",
+  "link": "http://data.gov.uk/data/api",
+  "image": "http://data.gov.uk/assets/img/dgu-header-white.png",
+  "author": {
+    "name": "data.gov.uk"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Provides"
+  ],
+  "description": "Developers can access the data catalogue with an API, as an alternative to the data.gov.uk web interface. The API provides both RESTful and functional interfaces, all in JSON format, making it suitable for a wide range of clients."
+}

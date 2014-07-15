@@ -1,0 +1,16 @@
+{
+  "id": "embedly",
+  "title": "Embedly",
+  "link": "http://embed.ly/docs/endpoints",
+  "image": "http://embed.ly/static/images/logo.png?v=d5419",
+  "author": {
+    "name": "Embedly"
+  },
+  "tags": [
+    "Images",
+    "Articles",
+    "Libraries",
+    "Products "
+  ],
+  "description": "The Embedly Platform is the simplest way to create a better user experience in your application or site.We allow developers to embed media, display images,and make deep apps with related articles,trending content and recommendations for individual users.We will give a brief summary of the different Products, Tutorials,Libraries and APIs that make up Embedly."
+}

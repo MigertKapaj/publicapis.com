@@ -1,0 +1,14 @@
+{
+  "id": "sklik",
+  "title": "Sklik",
+  "link": "http://api.sklik.cz/",
+  "image": "http://api.sklik.cz/img/apilogo.png",
+  "author": {
+    "name": "Sklik"
+  },
+  "tags": [
+    "Calling",
+    "Information"
+  ],
+  "description": "You need to authenticate yourself before calling any XML-RPC method. See documentation of client.login() for information about user authentication."
+}

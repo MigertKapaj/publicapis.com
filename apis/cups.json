@@ -1,0 +1,15 @@
+{
+  "id": "cups",
+  "title": "CUPS",
+  "link": "http://www.cups.org/documentation.php/doc-1.6/api-cups.html",
+  "image": "",
+  "author": {
+    "name": "CUPS"
+  },
+  "tags": [
+    "Filters",
+    "Drivers",
+    "Interface"
+  ],
+  "description": "The CUPS API provides the convenience functions needed to support applications, filters, printer drivers, and backends that need to interface with the CUPS scheduler."
+}

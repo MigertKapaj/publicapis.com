@@ -1,0 +1,15 @@
+{
+  "id": "onetok",
+  "title": "OneTok",
+  "link": "http://onetok.com/",
+  "image": "http://onetok.com/images/onetok_logo.png",
+  "author": {
+    "name": "OneTok"
+  },
+  "tags": [
+    "Developers",
+    "Instant",
+    "Voicemail."
+  ],
+  "description": "OneTok™ is a platform that makes it simple for developers to add Instant Voice Messaging, Voice Notes, Voicemail and Conference Calling to apps."
+}

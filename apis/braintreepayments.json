@@ -1,0 +1,14 @@
+{
+  "id": "braintreepayments",
+  "title": "Braintreepayments",
+  "link": "https://www.braintreepayments.com/docs/ruby/guide/getting_paid",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSYu1i1bH4YZYnyKScLsYXscwkf6c7IrJ32QRZEzvDCfhwvjDoo",
+  "author": {
+    "name": "Braintreepayments"
+  },
+  "tags": [
+    "Credi Crds",
+    "Subscriptions"
+  ],
+  "description": "Easily manage credit cards, subscriptions, and transactions with our API libraries. Leave the complexity to us."
+}

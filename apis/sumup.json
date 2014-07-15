@@ -1,0 +1,15 @@
+{
+  "id": "sumup",
+  "title": "Sumup",
+  "link": "https://sumup.com/api/",
+  "image": "https://sumup.com/wp-content/themes/sumup/assets/img/nav/logo.png",
+  "author": {
+    "name": "Sumup"
+  },
+  "tags": [
+    "Provide",
+    "Developers",
+    "Compliant"
+  ],
+  "description": "The SumUp API provides an out-of-box solution for iOS and Android app developers to quickly add a powerful, secure and compliant payment feature to your own apps."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "almanac",
+  "title": "Almanac",
+  "link": "http://www.broadbandmap.gov/developer/api/almanac-api-parameters",
+  "image": "http://www.broadbandmap.gov/img/logo.gif",
+  "author": {
+    "name": "National Boardband Map"
+  },
+  "tags": [
+    "Providing",
+    "Access",
+    "Data"
+  ],
+  "description": "We are providing this API to increase the value of the transparency of the National Broadband Map. With this API you now have access to the full suite of data which populates our Rank page. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "glosk",
+  "title": "Glosk",
+  "link": "http://www.glosk.com/services/api/",
+  "image": "",
+  "author": {
+    "name": "Glosk"
+  },
+  "tags": [
+    "Database",
+    "Requests",
+    "Commercial",
+    "Possible"
+  ],
+  "description": "With Glosk API, you can search our database using XML-RPC calls. There is no limit for daily requests, but keep in mind that Glosk API is freely available only for non-commercial use. Commercial use is possible but by prior arrangement. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "gah-people",
+  "title": "gah People",
+  "link": "http://gah.pablotron.org/api/",
+  "image": "http://gah.pablotron.org/images/header-logo.png",
+  "author": {
+    "name": "gah People"
+  },
+  "tags": [
+    "Documentation",
+    "Versioned",
+    "Removed"
+  ],
+  "description": "This page describes the XML-RPC API for this site. Below you'll find documentation for each of the available methods, followed by some sample Ruby code. Note that this API is versioned, so it will never change in an incompatible way; methods may be added, for example, but they will never be renamed, changed, or removed. "
+}

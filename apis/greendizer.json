@@ -1,0 +1,15 @@
+{
+  "id": "greendizer",
+  "title": "Greendizer",
+  "link": "https://www.greendizer.com/docs/api/#general",
+  "image": "https://www.greendizer.com/static/images/logo.png",
+  "author": {
+    "name": "Greendizer"
+  },
+  "tags": [
+    "System",
+    "Update",
+    "Invoices"
+  ],
+  "description": "Use Greendizer as a complete billing system or as an extension of an existing one. Full power to bill customers, read, update and track and back up sent invoices, send reminders, and so much more."
+}

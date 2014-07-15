@@ -1,0 +1,16 @@
+{
+  "id": "dictionary",
+  "title": "Dictionary",
+  "link": "http://dictionaryapi.com/",
+  "image": "http://dictionaryapi.com/images/dev-center-logo-500x100.png",
+  "author": {
+    "name": "Merriam-Webster"
+  },
+  "tags": [
+    "Resources",
+    "Theaurus",
+    "Medical",
+    "Vocabulary"
+  ],
+  "description": "The Merriam-Webster Dictionary API gives developers access to a comprehensive resource of dictionary and thesaurus content as well as specialized medical, Spanish, ESL, and student-friendly vocabulary. Make your applications better by integrating our authoritative definitions, etymologies, audio pronunciations, synonyms and antonyms, and more.  Our robust API empowers developers to enhance word games and create educational, language learning, and other word-related applications for the digital environment. "
+}

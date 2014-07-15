@@ -1,0 +1,15 @@
+{
+  "id": "rumblefish",
+  "title": "Rumblefish",
+  "link": "http://rumblefish.com/developers.php",
+  "image": "https://sandbox.rumblefish.com/img/rumblefish-logo.png",
+  "author": {
+    "name": "Rumblefishinc."
+  },
+  "tags": [
+    "Private",
+    "Integrate",
+    "Service"
+  ],
+  "description": "Rumblefish launched its API in private beta in the first quarter of 2011 to make it easy to integrate copyright-cleared music into any web or mobile service."
+}

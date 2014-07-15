@@ -1,0 +1,16 @@
+{
+  "id": "interfax",
+  "title": "Interfax",
+  "link": "http://www.interfax.net/en/dev",
+  "image": "http://www.interfax.net/files/logo_en.png",
+  "author": {
+    "name": "Interfax"
+  },
+  "tags": [
+    "Send",
+    "Destinations",
+    "Deferred",
+    "Resolution"
+  ],
+  "description": "The InterFAX accepts files in all popular Office formats, including PDF and HTML, and sends them to a fax number you specify. The fax API offers basic fax send/receive, and advanced features such as multiple destinations, deferred transmission, document resolution, and more. "
+}

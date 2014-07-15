@@ -1,0 +1,16 @@
+{
+  "id": "monopond",
+  "title": "Monopond",
+  "link": "http://www.monopond.com/fax/fax-api/",
+  "image": "https://www.google.co.in/search?q=http://www.monopond.com/&source=lnms&tbm=isch&sa=X&ei=0vA9U-7hK4jAiQfYwoGQDQ&ved=0CAkQ_AUoAg#facrc=_&imgdii=_&imgrc=iGGSkNjiubF6oM%253A%3BM0l3maR-0cIwbM%3Bhttp%253A%252F%252Fwww.monopond.com%252Fwp-content%252Fthemes%252Fmonopond%252Fimages%252Fmonopond.png%3Bhttp%253A%252F%252Fwww.monopond.com%252Ffax%252Ffax-api%252F%3B210%3B52",
+  "author": {
+    "name": "Mono pond"
+  },
+  "tags": [
+    "Faxes",
+    "Destinations",
+    "Parameters",
+    "shedulings"
+  ],
+  "description": "Monopond’s SOAP-based API brings you the ability to send faxes programmatically from your applications. Using this API, you are able to both send a single document to a single destination and/or broadcast a single document to multiple destinations. With Monopond fax API, you can manage fax related parameters individually, such as:- Enabling support for specific blocking filters Customising connection settings Scheduling optionsMonopond offers extensive code libraries of different languages that would suit every developers’ needs. It can easily be integrated in any application and no hardware installation needed."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "oracle",
+  "title": "Oracle",
+  "link": "https://recmanager.atg.com/api/index.html",
+  "image": "https://recmanager.atg.com/api/asset/OracleLogo-531x66.png",
+  "author": {
+    "name": "Oracle"
+  },
+  "tags": [
+    "Receive",
+    "Product",
+    "Display"
+  ],
+  "description": "Oracle Recommendations On Demand is easy to install. Once you receive your Retailer ID, just add a few lines of HTML to your product pages, cart, style sheet, and put a <DIV> where you want to display your recommendations!"
+}

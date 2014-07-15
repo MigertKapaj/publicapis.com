@@ -1,0 +1,15 @@
+{
+  "id": "geocoder.us",
+  "title": "Geocoder.us",
+  "link": "http://geocoder.us/help/",
+  "image": "",
+  "author": {
+    "name": "Geocoder.us"
+  },
+  "tags": [
+    "Service",
+    "Interface",
+    "Separated"
+  ],
+  "description": "Geocoder.us offers four different ways to access our web services: an XML-RPC interface, a SOAP interface, a REST interface that returns an RDF/XML document, and a REST interface that returns a plain text comma separated values result. "
+}

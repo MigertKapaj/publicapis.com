@@ -1,0 +1,15 @@
+{
+  "id": "thumbsnap",
+  "title": "ThumbSnap",
+  "link": "http://thumbsnap.com/api/docs",
+  "image": "http://thumbsnap.com/img/ts_sprite.png",
+  "author": {
+    "name": "ThumbSnap"
+  },
+  "tags": [
+    "Multiple",
+    "Describe",
+    ""
+  ],
+  "description": "ThumbSnap has multiple APIs available. The following describes the REST-based API. An API key is required to use the API. You can get an API key by contacting ThumbSnap."
+}

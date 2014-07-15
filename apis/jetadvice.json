@@ -1,0 +1,15 @@
+{
+  "id": "jetadvice",
+  "title": "JetAdvice",
+  "link": "http://api.jetadvice.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMx9lZIh49FIZi0mDFdI6akKuHrOVz9TFpCYxfEwlDAyou3h5n",
+  "author": {
+    "name": "JetAdvice"
+  },
+  "tags": [
+    "Active",
+    "Requires",
+    "Specific"
+  ],
+  "description": "To consume JetAdvice REST API you must have an active JetAdvice account and the user must be API enabled (contact your reseller to get access). Many operations requires the calling JetAdvice account to have specific privileges, as detailed by the operation."
+}

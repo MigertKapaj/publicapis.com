@@ -1,0 +1,16 @@
+{
+  "id": "the-magisto",
+  "title": "The Magisto",
+  "link": "http://developers.magisto.com/",
+  "image": "http://developers.magisto.com/images/magisto_for_developers.png",
+  "author": {
+    "name": "Magisto"
+  },
+  "tags": [
+    "Mass",
+    "Editing",
+    "Customers",
+    "Videos"
+  ],
+  "description": "The Magisto API brings a mass real time editing platform to your customers, allowing them to upload home videos and create professional quality movies directly from your own website or application in minutes."
+}

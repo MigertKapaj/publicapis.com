@@ -1,0 +1,16 @@
+{
+  "id": "paytrail-connect",
+  "title": "Paytrail Connect",
+  "link": "http://docs.paytrail.com/en/ch03.html",
+  "image": "",
+  "author": {
+    "name": "Paytrail Connect"
+  },
+  "tags": [
+    "Testable",
+    "Merchant",
+    "Interface",
+    "Page"
+  ],
+  "description": "Payment gateway is testable using merchant id 13466 and merchant secret 6pKF4jkv97zmqBJ3ZL8gUw5DfT2NMQ. These test credentials are functional with form interface, REST interface and payment method selection page embedding.The test credentials for the Finnish banks are listed below. These can be used with the test credentials to test the complete payme  process without making any real payments.\n      "
+}
