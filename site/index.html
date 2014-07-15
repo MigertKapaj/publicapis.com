@@ -21,11 +21,11 @@
         {% for group, apis in sorted %}
           <div class="tab-pane fade" id="{{ group }}">
             {% for api in apis %}
-              <div class="item">
+              <div class="item fade in">
                 <a href="/api/{{ group }}/{{ api.id }}.html" class="api">
                   <div class="logo">
                     <span class="helper"></span>
-                    <img src="{{ api.image }}"/>
+                    <!--<img src="{{ api.image }}"/>-->
                   </div>
 
                   <h3>{{ api.title }}</h3>
