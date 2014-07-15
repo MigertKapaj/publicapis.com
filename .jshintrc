@@ -1,0 +1,14 @@
+{
+  "quotmark": "single",
+  "immed": true,
+  "latedef": true,
+  "newcap": true,
+  "sub": true,
+  "browser": true,
+  "node": false,
+
+  "globals": {
+    "module":   true,
+    "require":  true
+  }
+}

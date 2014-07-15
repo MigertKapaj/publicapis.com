@@ -1,4 +1,5 @@
-var api, item;
+var api;
+var item;
 var limit = 100;
 var iterator = 0;
 var list = document.getElementById('list');
