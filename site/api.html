@@ -1,6 +1,15 @@
 {% extends 'includes/layout.html' %}
 
 {% block content %}
-  <h1>{{ title }}</h1>
+  <div class="api detail">
+    <div class="logo">
+      <span class="helper"></span>
+      <img src="/assets/logos/{{ id }}/logo.png"/>
+    </div>
+
+    <h1>{{ title }}</h1>
+
+    <p>{{ description }}</p>
+  </div>
 {% endblock %}
 

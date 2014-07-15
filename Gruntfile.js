@@ -1,10 +1,11 @@
+var _     = require('lodash');
+var fs    = require('node-fs');
+var swig  = require('swig');
+var path  = require('path');
+var request = require('request');
+
 module.exports = function (grunt) {
   'use strict';
-
-  var _     = require('lodash');
-  var fs    = require('fs');
-  var swig  = require('swig');
-  var path  = require('path');
 
   /* Render HTML pages with Swig */
   grunt.registerMultiTask('render', 'Render HTML', function () {
@@ -28,6 +29,7 @@ module.exports = function (grunt) {
       this.data.locals.sorted[group].push(api);
     }.bind(this));
 
+    // render standalone pages
     grunt.file.expand(this.data.pages).forEach(function (page) {
       var name = path.basename(page);
 
@@ -37,6 +39,7 @@ module.exports = function (grunt) {
       grunt.file.write(this.data.locals.path, html);
     }.bind(this));
 
+    // render api pages
     this.data.locals.apis.forEach(function (api) {
       var locals = _.extend(this.data.locals, api);
       var group = api.id.charAt(0).toLowerCase();
@@ -55,25 +58,25 @@ module.exports = function (grunt) {
   /* sort and organize API JSON files */
   grunt.registerMultiTask('sort', 'Sort JSON API Files', function () {
     grunt.log.writeln('Sorting APIs');
+    var logos = [];
 
+    // organize apis into grouppings
     grunt.file.expand(this.data.src).forEach(function (api) {
-      var name = path.basename(api);
-      var group = name.charAt(0).toLowerCase();
+      var data = grunt.file.readJSON(api);
+      var group = data.id.charAt(0).toLowerCase();
 
-      if (!isNaN(group)) {
-        group = 'num';
+      var dest = this.data.dest + path.sep + group + path.sep + data.id + path.sep;
+
+      // create directories
+      if (fs.exists(dest) === false) {
+        fs.mkdirSync(dest, '0777', true);
       }
 
-      // check if it lives in the correct folder
-      if (path.basename(path.dirname(api)) != group) {
-        var dest = this.data.dest + path.sep + group + path.sep;
-
-        grunt.log.writeln('Moving ' + api + ' to: ' + dest + name);
-
-        fs.mkdir(dest);
-        fs.renameSync(api, dest + name);
-      }
+      // re-locate apis
+      fs.renameSync(api, dest + 'api.json');
     }.bind(this));
+
+    fs.writeFileSync('logos.json', JSON.stringify(logos, null, 2));
   });
 
   require('time-grunt')(grunt);
@@ -97,17 +100,26 @@ module.exports = function (grunt) {
     /* Optimization */
 
     imagemin: {
-      dist: {
-        options: {
-          progressive: true,
-          optimizationLevel: 4
-        },
+      options: {
+        progressive: true,
+        optimizationLevel: 4
+      },
 
+      assets: {
         files: [{
           expand: true,
           cwd: '<%= path.images %>',
           src: ['**/<%= pattern.images %>'],
           dest: '<%= path.dest %>/assets/images/',
+        }]
+      },
+
+      logos: {
+        files: [{
+          expand: true,
+          cwd: 'apis',
+          src: ['**/logo.jpg'],
+          dest: '<%= path.dest %>/assets/logos/',
         }]
       }
     },
@@ -296,7 +308,12 @@ module.exports = function (grunt) {
     watch: {
       images: {
         files: ['<%= path.images %>/**/<%= pattern.images %>'],
-        tasks: ['imagemin']
+        tasks: ['imagemin:assets']
+      },
+
+      logos: {
+        files: ['apis/**/logo.jpg'],
+        tasks: ['imagemin:logos']
       },
 
       less: {
@@ -353,7 +370,7 @@ module.exports = function (grunt) {
     'cssmin',
     'uglify',
     'imagemin',
-    'sort',
+    //'sort',
     'minjson',
     'render'
   ]);
