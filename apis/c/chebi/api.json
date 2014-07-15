@@ -2,7 +2,6 @@
   "id": "chebi",
   "title": "ChEBI",
   "link": "http://www.ebi.ac.uk/chebi/webServices.do",
-  "image": "http://www.ebi.ac.uk/web_guidelines/images/logos/EMBL-EBI/EMBL_EBI_Logo_white.png",
   "author": {
     "name": "EMBL-EBI"
   },

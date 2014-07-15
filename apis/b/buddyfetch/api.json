@@ -2,7 +2,6 @@
   "id": "buddyfetch",
   "title": "buddyfetch",
   "link": "http://www.buddyfetch.com/api.php",
-  "image": "http://www.buddyfetch.com/images/logo.png",
   "author": {
     "name": "buddyfetch"
   },

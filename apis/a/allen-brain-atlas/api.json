@@ -2,7 +2,6 @@
   "id": "allen-brain-atlas",
   "title": "Allen Brain Atlas",
   "link": "http://help.brain-map.org/display/devhumanbrain/API",
-  "image": "http://www.brain-map.org/assets/images/logo_data_portal.png",
   "author": {
     "name": "Allen Brain Atlas"
   },

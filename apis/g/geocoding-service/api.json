@@ -2,7 +2,6 @@
   "id": "geocoding-service",
   "title": "Geocoding Service",
   "link": "http://www.mapquestapi.com/geocoding/",
-  "image": "http://www.mapquestapi.com/cdn/common/images/MQ_header_logo_DevNet.png",
   "author": {
     "name": "MapQuest"
   },

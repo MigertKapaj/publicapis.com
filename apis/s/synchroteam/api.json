@@ -2,7 +2,6 @@
   "id": "synchroteam",
   "title": "Synchroteam",
   "link": "http://api.synchroteam.com/rest.php",
-  "image": "http://api.synchroteam.com/assets/img/logo.png",
   "author": {
     "name": "Synchroteam"
   },

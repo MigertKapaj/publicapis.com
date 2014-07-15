@@ -2,7 +2,6 @@
   "id": "antivirus",
   "title": "Antivirus",
   "link": "http://msdn.microsoft.com/en-us/library/ms537365(v=vs.85).aspx",
-  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
   "author": {
     "name": "Microsoft Developer Network"
   },

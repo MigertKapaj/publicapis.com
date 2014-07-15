@@ -2,7 +2,6 @@
   "id": "suse-studio",
   "title": "SUSE Studio",
   "link": "http://susestudio.com/help/api/index.html",
-  "image": "http://susestudio.com/help/public/logo-studio-help.png",
   "author": {
     "name": "SUSE Studio"
   },

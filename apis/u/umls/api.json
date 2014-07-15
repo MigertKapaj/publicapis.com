@@ -2,7 +2,6 @@
   "id": "umls",
   "title": "Umls",
   "link": "https://uts.nlm.nih.gov//home.html#apidocumentation",
-  "image": "https://uts.nlm.nih.gov//images/umls_tree_sm.jpg",
   "author": {
     "name": "Umls"
   },

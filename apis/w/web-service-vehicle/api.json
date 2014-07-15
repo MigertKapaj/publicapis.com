@@ -2,7 +2,6 @@
   "id": "web-service-vehicle",
   "title": "Web Service Vehicle",
   "link": "http://hea.thebus.org/api/documentation/vehicle.pdf",
-  "image": "http://www.thebus.org/images/Heading.jpg",
   "author": {
     "name": "TheBus"
   },

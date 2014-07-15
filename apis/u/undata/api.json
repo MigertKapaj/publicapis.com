@@ -2,7 +2,6 @@
   "id": "undata",
   "title": "UNdata",
   "link": "https://data.un.org/Host.aspx?Content=API",
-  "image": "https://data.un.org/_Images/logo_small.png",
   "author": {
     "name": "UNdata"
   },

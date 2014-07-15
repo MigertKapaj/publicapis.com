@@ -2,7 +2,6 @@
   "id": "fred",
   "title": "FRED",
   "link": "http://api.stlouisfed.org/docs/fred/",
-  "image": "http://api.stlouisfed.org/banner.gif",
   "author": {
     "name": "St. Louis Fed"
   },

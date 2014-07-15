@@ -2,7 +2,6 @@
   "id": "the-rotten-tomatoes",
   "title": "The Rotten Tomatoes",
   "link": "http://developer.rottentomatoes.com/",
-  "image": "http://developer.rottentomatoes.com/public/Mashery/images/clients/flixster/rt.png",
   "author": {
     "name": " Rotten Tomatoes"
   },

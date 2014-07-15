@@ -2,7 +2,6 @@
   "id": "tapatalk",
   "title": "TAPATALK",
   "link": "http://www.tapatalk.com/api/api.php",
-  "image": "http://tapatalk.com/images/logo_big.png",
   "author": {
     "name": "Tapatalk"
   },

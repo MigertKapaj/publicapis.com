@@ -2,7 +2,6 @@
   "id": "climate-counts",
   "title": "Climate Counts",
   "link": "http://api.climatecounts.org/docs/",
-  "image": "http://api.climatecounts.org/docs/img/logo.png",
   "author": {
     "name": "Climate Counts"
   },

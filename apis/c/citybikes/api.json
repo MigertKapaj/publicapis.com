@@ -2,7 +2,6 @@
   "id": "citybikes",
   "title": "CityBikes",
   "link": "http://api.citybik.es/",
-  "image": "http://www.citybik.es/img/headCB02.png",
   "author": {
     "name": "CityBikes"
   },

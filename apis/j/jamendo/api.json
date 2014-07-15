@@ -2,7 +2,6 @@
   "id": "jamendo",
   "title": "Jamendo",
   "link": "http://developer.jamendo.com/v3.0",
-  "image": "http://developer.jamendo.com/images/shared/nav/jamendo-logo.png",
   "author": {
     "name": "Jamendo"
   },

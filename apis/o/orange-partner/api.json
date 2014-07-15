@@ -2,7 +2,6 @@
   "id": "orange-partner",
   "title": "Orange Partner",
   "link": "http://api.orange.com/en/api/mms-api/",
-  "image": "http://www.orangepartner.com/sites/all/themes/ope/img/logo.jpg",
   "author": {
     "name": "Orange Partner"
   },

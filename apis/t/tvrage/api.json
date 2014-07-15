@@ -2,7 +2,6 @@
   "id": "tvrage",
   "title": "TVRage",
   "link": "http://services.tvrage.com/info.php?page=main",
-  "image": "http://services.tvrage.com/img/tvr_api_header.png",
   "author": {
     "name": "TVRage"
   },

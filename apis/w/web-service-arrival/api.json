@@ -2,7 +2,6 @@
   "id": "web-service-arrival",
   "title": "WEB Service Arrival",
   "link": "http://hea.thebus.org/api/documentation/arrivals.pdf",
-  "image": "http://www.thebus.org/images/Heading.jpg",
   "author": {
     "name": "TheBus"
   },

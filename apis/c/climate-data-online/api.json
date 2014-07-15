@@ -2,7 +2,6 @@
   "id": "climate-data-online",
   "title": "Climate Data Online",
   "link": "http://www.ncdc.noaa.gov/cdo-web/webservices/v2",
-  "image": "http://www.ncdc.noaa.gov/cdo-web/images/logos/noaa_logo.png",
   "author": {
     "name": "NCDC"
   },

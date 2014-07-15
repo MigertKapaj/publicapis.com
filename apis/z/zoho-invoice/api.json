@@ -2,7 +2,6 @@
   "id": "zoho-invoice",
   "title": "Zoho Invoice",
   "link": "http://www.zoho.com/invoice/api/index.html",
-  "image": "http://www.zoho.com/invoice/images/invoice.png",
   "author": {
     "name": "Zoho Invoice"
   },

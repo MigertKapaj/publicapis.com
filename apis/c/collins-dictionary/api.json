@@ -2,7 +2,6 @@
   "id": "collins-dictionary",
   "title": "Collins Dictionary",
   "link": "http://www.collinsdictionary.com/api/",
-  "image": "http://www.collinsdictionary.com/static-resources/static/graphics/Logo.png",
   "author": {
     "name": "Collins"
   },

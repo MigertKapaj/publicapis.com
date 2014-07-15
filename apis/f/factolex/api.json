@@ -2,7 +2,6 @@
   "id": "factolex",
   "title": "Factolex",
   "link": "http://api.factolex.com/",
-  "image": "http://static.f-lex.com/img/logo.gif",
   "author": {
     "name": "Factolex"
   },

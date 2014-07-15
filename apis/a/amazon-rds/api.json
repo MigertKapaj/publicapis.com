@@ -2,7 +2,6 @@
   "id": "amazon-rds",
   "title": "Amazon RDS",
   "link": "http://aws.amazon.com/rds/",
-  "image": "http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/images/documentation_logo200x29.png",
   "author": {
     "name": "Amazon Web Service"
   },

@@ -2,7 +2,6 @@
   "id": "tweet-scan",
   "title": "Tweet Scan",
   "link": "http://tweetscan.com/api.php",
-  "image": "http://tweetscan.com/images/logo.png",
   "author": {
     "name": "Tweet Scan"
   },

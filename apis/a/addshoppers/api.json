@@ -2,7 +2,6 @@
   "id": "addshoppers",
   "title": "AddShoppers",
   "link": "http://api.addshoppers.com/docs/1.0/",
-  "image": "http://api.addshoppers.com/docs/1.0/_static/admin_sprite.png",
   "author": {
     "name": "AddShoppers"
   },

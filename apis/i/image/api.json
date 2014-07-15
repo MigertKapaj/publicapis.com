@@ -2,7 +2,6 @@
   "id": "image",
   "title": " Image",
   "link": "http://developer.zappos.com/docs/api-image",
-  "image": "http://developer.zappos.com/sites/default/files/logo.png",
   "author": {
     "name": "Zappos"
   },

@@ -2,7 +2,6 @@
   "id": "yify-torrents",
   "title": "YIFY-Torrents",
   "link": "http://yify-torrents.com/api",
-  "image": "http://static.yts.re/assets/images/yts_logo.png",
   "author": {
     "name": "YTS"
   },

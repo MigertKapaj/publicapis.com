@@ -2,7 +2,6 @@
   "id": "emma",
   "title": "Emma",
   "link": "http://api.myemma.com/#",
-  "image": "http://api.myemma.com/_static/img/logo.png",
   "author": {
     "name": "Emma"
   },

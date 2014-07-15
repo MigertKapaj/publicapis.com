@@ -2,7 +2,6 @@
   "id": "speech",
   "title": "Speech",
   "link": "http://www.bing.com/dev/en-us/dev-center",
-  "image": "http://www.bing.com/dev/content/images/chrome/bing_65x25.jpg",
   "author": {
     "name": "bing"
   },

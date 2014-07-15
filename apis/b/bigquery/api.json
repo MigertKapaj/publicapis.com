@@ -2,7 +2,6 @@
   "id": "bigquery",
   "title": "BigQuery",
   "link": "https://developers.google.com/bigquery/docs/overview",
-  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
   "author": {
     "name": "Goggle Developers"
   },

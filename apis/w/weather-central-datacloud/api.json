@@ -2,7 +2,6 @@
   "id": "weather-central-datacloud",
   "title": "Weather Central DataCloud",
   "link": "http://dataapi.wxc.com/",
-  "image": "http://dataapi.wxc.com/assets/wxc_developers_logo.png",
   "author": {
     "name": "Weather Central DataCloud"
   },

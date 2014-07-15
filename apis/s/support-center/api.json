@@ -2,7 +2,6 @@
   "id": "support-center",
   "title": "Support Center",
   "link": "http://www.loggly.com/docs/api-overview/",
-  "image": "https://www.loggly.com/wp-content/themes/loggly/assets/images/logo-loggly.svg",
   "author": {
     "name": "Loggly"
   },

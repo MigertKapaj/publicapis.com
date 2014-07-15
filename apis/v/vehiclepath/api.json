@@ -2,7 +2,6 @@
   "id": "vehiclepath",
   "title": "VehiclePath",
   "link": "http://www.vehiclepath.com/api.php",
-  "image": "http://www.vehiclepath.com/sites/default/files/vp-header-logo.png",
   "author": {
     "name": "VehiclePath"
   },

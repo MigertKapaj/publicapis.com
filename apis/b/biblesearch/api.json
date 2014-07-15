@@ -2,7 +2,6 @@
   "id": "biblesearch",
   "title": "BibleSearch",
   "link": "http://bibles.org/pages/api",
-  "image": "http://bibles.org/images/biblesearch_logo_white.svg",
   "author": {
     "name": "BibleSearch"
   },

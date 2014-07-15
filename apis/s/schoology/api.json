@@ -2,7 +2,6 @@
   "id": "schoology",
   "title": "Schoology",
   "link": "https://developers.schoology.com/api-documentation/rest-api-v1",
-  "image": "https://developers.schoology.com/sites/developers.schoology.com/themes/schoology_developers/images/logo-developers.png",
   "author": {
     "name": "Schoology"
   },

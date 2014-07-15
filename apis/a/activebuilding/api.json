@@ -2,7 +2,6 @@
   "id": "activebuilding",
   "title": "ActiveBuilding",
   "link": "https://developer.activebuilding.com/oauth",
-  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/activebuilding-api/626464249266/profiles/logos/large/AB_API_Logo.png",
   "author": {
     "name": "ActiveBuilding"
   },

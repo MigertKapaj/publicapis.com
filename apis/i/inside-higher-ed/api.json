@@ -2,7 +2,6 @@
   "id": "inside-higher-ed",
   "title": "Inside Higher Ed",
   "link": "http://api2.insidehighered.com:8080/api/docs/#rest",
-  "image": "http://api2.insidehighered.com:8080/api/images/middle-top.png",
   "author": {
     "name": "Inside Higher Ed"
   },

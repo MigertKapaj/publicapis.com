@@ -2,7 +2,6 @@
   "id": "blogcatalog",
   "title": "BlogCatalog",
   "link": "http://www.blogcatalog.com/api/",
-  "image": "http://www.blogcatalog.com/css/images/new/blogcatalog_logo.png",
   "author": {
     "name": "BlogCatalog"
   },

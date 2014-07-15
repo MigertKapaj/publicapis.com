@@ -2,7 +2,6 @@
   "id": "gnome-help",
   "title": "GNOME HELP",
   "link": "https://developer.gnome.org/",
-  "image": "https://developer.gnome.org/skin/gnome-logo-devcenter.png",
   "author": {
     "name": "GNOME HELP"
   },

@@ -2,7 +2,6 @@
   "id": "mapquest-open-elevation-api-web-service",
   "title": "MapQuest Open Elevation API Web Service",
   "link": "http://developer.mapquest.com/web/products/open/elevation-service",
-  "image": "http://developer.mapquest.com/DevNet-Rebrand2-theme/html/themes/mq_theme/images/mq_images/mqlogo.png",
   "author": {
     "name": "MapQuest"
   },

@@ -2,7 +2,6 @@
   "id": "getmonthlypayments",
   "title": "GetMonthlyPayments",
   "link": "http://www.zillow.com/howto/api/GetMonthlyPayments.htm",
-  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
   "author": {
     "name": "Zillow"
   },

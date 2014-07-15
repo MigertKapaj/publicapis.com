@@ -2,7 +2,6 @@
   "id": "prosper",
   "title": "Prosper",
   "link": "http://www.prosper.com/tools/API.aspx",
-  "image": "https://api.prosper.com/Images/prosper_logo.png",
   "author": {
     "name": "Prosper"
   },

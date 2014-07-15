@@ -2,7 +2,6 @@
   "id": "tracker",
   "title": "Tracker",
   "link": "http://www.pivotaltracker.com/help/api",
-  "image": "http://d3jgo56a5b0my0.cloudfront.net/images/v7/logos/pivotal_tracker_logo_ghost_ring.png",
   "author": {
     "name": "Pivotal Tracker"
   },

@@ -2,7 +2,6 @@
   "id": "go-runtime-environment",
   "title": "Go Runtime Environment",
   "link": "https://developers.google.com/appengine/docs/go/overview",
-  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
   "author": {
     "name": "Goggle Developers"
   },

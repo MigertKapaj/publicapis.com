@@ -2,7 +2,6 @@
   "id": "careerjet",
   "title": "Careerjet",
   "link": "http://search.cpan.org/~tbusch/WebService-Careerjet-0.13/lib/WebService/Careerjet.pm",
-  "image": "http://static.careerjet.net/images/logo_ws_uk.png",
   "author": {
     "name": "Careerjet"
   },

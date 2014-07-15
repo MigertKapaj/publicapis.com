@@ -2,7 +2,6 @@
   "id": "ign",
   "title": "IGN",
   "link": "http://api.ign.fr/documentation/86/ajout-des-cles-d-acces-dans-l-api",
-  "image": "http://api.ign.fr/themes/api/img/design/header/api/logo.png",
   "author": {
     "name": "IGN"
   },

@@ -2,7 +2,6 @@
   "id": "gtfcdataexchange",
   "title": "GTFCDataExchange",
   "link": "http://www.gtfs-data-exchange.com/api",
-  "image": "http://www.gtfs-data-exchange.com/static/logo.png",
   "author": {
     "name": "GTFCDataExchange"
   },

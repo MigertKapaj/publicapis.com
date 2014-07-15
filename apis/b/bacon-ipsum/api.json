@@ -2,7 +2,6 @@
   "id": "bacon-ipsum",
   "title": "Bacon Ipsum",
   "link": "http://baconipsum.com/api/",
-  "image": "http://cdn.baconipsum.com/theme/images/bacon-ipsum-banner1.jpg",
   "author": {
     "name": "Bacon Ipsum"
   },

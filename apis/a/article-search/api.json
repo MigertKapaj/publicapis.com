@@ -2,7 +2,6 @@
   "id": "article-search",
   "title": "Article Search",
   "link": "http://developer.nytimes.com/docs/article_search_api",
-  "image": "http://developer.nytimes.com/files/NYTDevLogo.png",
   "author": {
     "name": "Article Search"
   },

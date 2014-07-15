@@ -2,7 +2,6 @@
   "id": "usgs",
   "title": "USGS",
   "link": "http://qwwebservices.usgs.gov/",
-  "image": "http://qwwebservices.usgs.gov/index_files/usgs_logo.jpg",
   "author": {
     "name": "USGS"
   },

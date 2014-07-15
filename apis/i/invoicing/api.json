@@ -2,7 +2,6 @@
   "id": "invoicing",
   "title": "Invoicing",
   "link": "https://www.x.com/developers/paypal/products/invoicing",
-  "image": "https://www.paypalobjects.com/webstatic/developer/logo_paypal_developer.png",
   "author": {
     "name": "Paypal"
   },

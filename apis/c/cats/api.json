@@ -2,7 +2,6 @@
   "id": "cats",
   "title": "CATS",
   "link": "http://api.catsone.com/api/help",
-  "image": "http://api.catsone.com/images/v3/logo.png",
   "author": {
     "name": "CATS"
   },

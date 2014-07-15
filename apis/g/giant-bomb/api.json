@@ -2,7 +2,6 @@
   "id": "giant-bomb",
   "title": "Giant Bomb",
   "link": "http://www.giantbomb.com/api/",
-  "image": "http://static.giantbomb.com/bundles/phoenixsite/images/core/loose/logo-gb.png",
   "author": {
     "name": "GiantBomb"
   },

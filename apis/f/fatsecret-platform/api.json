@@ -2,7 +2,6 @@
   "id": "fatsecret-platform",
   "title": "FatSecret Platform",
   "link": "http://platform.fatsecret.com/api/Default.aspx?screen=attrib",
-  "image": "http://platform.fatsecret.com/api/static/images/fsp_logo_white.gif",
   "author": {
     "name": "FatSecret Platform"
   },

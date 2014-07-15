@@ -2,7 +2,6 @@
   "id": "national-broadband-map",
   "title": "National Broadband Map",
   "link": "http://www.broadbandmap.govt.nz/rest-api/",
-  "image": "http://www.broadbandmap.govt.nz/themes/sscmap/images/broadband_map_logo.gif",
   "author": {
     "name": "the National Broadband Map"
   },

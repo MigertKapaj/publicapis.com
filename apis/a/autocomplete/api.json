@@ -2,7 +2,6 @@
   "id": "autocomplete",
   "title": "AutoComplete",
   "link": "http://www.wunderground.com/weather/api/d/docs?d=autocomplete-api",
-  "image": "http://icons.wxug.com/i/w/layout/logo-responsive.png",
   "author": {
     "name": "WeatherUnderground"
   },

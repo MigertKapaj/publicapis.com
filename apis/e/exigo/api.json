@@ -2,7 +2,6 @@
   "id": "exigo",
   "title": "Exigo",
   "link": "http://api.exigo.com/3.0/",
-  "image": "http://api.exigo.com/3.0/Content/Images/imgLogoSmall.png",
   "author": {
     "name": "Exigo"
   },

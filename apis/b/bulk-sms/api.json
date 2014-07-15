@@ -2,7 +2,6 @@
   "id": "bulk-sms",
   "title": "Bulk SMS",
   "link": "http://www.znisms.com/api.html",
-  "image": "http://znisms.com/images/sms-gateway.jpg",
   "author": {
     "name": "ZNI"
   },

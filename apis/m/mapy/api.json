@@ -2,7 +2,6 @@
   "id": "mapy",
   "title": "Mapy",
   "link": "http://api.mapy.cz/",
-  "image": "http://api.mapy.cz/img/web/logo.gif",
   "author": {
     "name": "Mapy.cz"
   },

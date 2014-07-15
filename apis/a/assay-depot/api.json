@@ -2,7 +2,6 @@
   "id": "assay-depot",
   "title": "Assay Depot",
   "link": "http://assaydepot.github.io/api/json",
-  "image": "http://assaydepot.github.io/api/images/logo.png",
   "author": {
     "name": "Assay Depot"
   },

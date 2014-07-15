@@ -2,7 +2,6 @@
   "id": "processwire",
   "title": "ProcessWire",
   "link": "http://processwire.com/api/",
-  "image": "http://processwire.com/site/templates/styles/img/logo.png",
   "author": {
     "name": "ProcessWire"
   },

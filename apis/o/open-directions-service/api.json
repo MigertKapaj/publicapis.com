@@ -2,7 +2,6 @@
   "id": "open-directions-service",
   "title": "Open Directions Service",
   "link": "http://open.mapquestapi.com/directions/",
-  "image": "http://open.mapquest.co.uk/cdn/dotcom3/images/logos/logo_beta.png",
   "author": {
     "name": "MapQuest Open"
   },

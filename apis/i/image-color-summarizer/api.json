@@ -2,7 +2,6 @@
   "id": "image-color-summarizer",
   "title": "Image Color Summarizer",
   "link": "http://mkweb.bcgsc.ca/color_summarizer/?api",
-  "image": "http://mkweb.bcgsc.ca/color_summarizer/img/logo/logo-05.png",
   "author": {
     "name": "Image Color Summarizer"
   },

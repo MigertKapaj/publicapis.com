@@ -2,7 +2,6 @@
   "id": "amazon-cloudsearch",
   "title": "Amazon CloudSearch",
   "link": "http://aws.amazon.com/cloudsearch/",
-  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
   "author": {
     "name": "Amazon Web Service"
   },

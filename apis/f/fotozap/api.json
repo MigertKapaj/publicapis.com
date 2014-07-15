@@ -2,7 +2,6 @@
   "id": "fotozap",
   "title": "FotoZap",
   "link": "http://api.fotozap.com/",
-  "image": "http://api.fotozap.com/images/fotozap-api.png",
   "author": {
     "name": "FotoZap"
   },

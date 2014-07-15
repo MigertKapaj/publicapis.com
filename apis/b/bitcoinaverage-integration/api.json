@@ -2,7 +2,6 @@
   "id": "bitcoinaverage-integration",
   "title": "BitcoinAverage integration",
   "link": "https://bitcoinaverage.com/api.htm",
-  "image": "https://bitcoinaverage.com/img/logo_full_small.png",
   "author": {
     "name": "BitcoinAverage"
   },

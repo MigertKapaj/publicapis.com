@@ -2,7 +2,6 @@
   "id": "dbpedia",
   "title": "DBpedia",
   "link": "http://dbpedia.org/About",
-  "image": "http://wiki.dbpedia.org/images/dbpedia_logo.png",
   "author": {
     "name": "DBpedia"
   },

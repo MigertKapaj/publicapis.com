@@ -2,7 +2,6 @@
   "id": "what-the-trend",
   "title": "What The Trend",
   "link": "http://api.whatthetrend.com/",
-  "image": "http://api.whatthetrend.com/images/logo.png",
   "author": {
     "name": "What The Trend"
   },

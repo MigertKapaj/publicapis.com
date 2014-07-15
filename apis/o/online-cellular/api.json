@@ -2,7 +2,6 @@
   "id": "online-cellular",
   "title": "Online cellular",
   "link": "http://openbmap.org/api/openbmap_api.php5",
-  "image": "http://openbmap.org/images/logo_website_145.png",
   "author": {
     "name": "openBmap.org"
   },

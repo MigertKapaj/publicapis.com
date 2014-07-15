@@ -2,7 +2,6 @@
   "id": "ecobees",
   "title": "ecobee's",
   "link": "https://www.ecobee.com/home/developer/api/documentation/v1/auth/auth-req-resp.shtml",
-  "image": "https://www.ecobee.com/home/images/developer/apidoc/global/logoEcobee.png",
   "author": {
     "name": "ecobee"
   },

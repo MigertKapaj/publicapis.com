@@ -2,7 +2,6 @@
   "id": "businessusa",
   "title": "BusinessUSA",
   "link": "http://business.usa.gov/apis",
-  "image": "http://business.usa.gov/sites/default/files/emover/sites/all/themes/bizusa/images/logo.png",
   "author": {
     "name": "BusinessUSA"
   },

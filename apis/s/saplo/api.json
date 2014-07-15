@@ -2,7 +2,6 @@
   "id": "saplo",
   "title": "Saplo",
   "link": "http://developer.saplo.com/method/auth-accessToken",
-  "image": "http://developer.saplo.com/images/logotypes/saplo-92x30.png",
   "author": {
     "name": "Saplo"
   },

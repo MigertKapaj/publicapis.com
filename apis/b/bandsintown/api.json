@@ -2,7 +2,6 @@
   "id": "bandsintown",
   "title": "Bandsintown",
   "link": "http://www.bandsintown.com/api/responses#artist-json",
-  "image": "https://d38hmgjgf0kofx.cloudfront.net/images/new/logo_bit.png",
   "author": {
     "name": "Bandsintown"
   },

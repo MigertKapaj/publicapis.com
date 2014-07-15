@@ -2,7 +2,6 @@
   "id": "bbc",
   "title": "BBC",
   "link": "http://www.bbc.co.uk/music/developers",
-  "image": "http://static.bbci.co.uk/frameworks/barlesque/2.60.6/orb/4/img/bbc-blocks-light.png",
   "author": {
     "name": "BBC"
   },

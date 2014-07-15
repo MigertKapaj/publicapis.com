@@ -2,7 +2,6 @@
   "id": "eventfinda",
   "title": "Eventfinda",
   "link": "http://www.eventfinder.co.nz/api/v2/overview",
-  "image": "http://s1.eventfinder.co.nz/images/global/logo.png?v=140405",
   "author": {
     "name": "eventfinda"
   },

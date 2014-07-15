@@ -2,7 +2,6 @@
   "id": "baseball-ipsum",
   "title": "Baseball Ipsum",
   "link": "http://baseballipsum.apphb.com/Home/RestApi",
-  "image": "http://baseballipsum.apphb.com/Content/header-with-text.jpg",
   "author": {
     "name": "Baseball Ipsum"
   },

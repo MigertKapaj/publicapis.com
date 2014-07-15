@@ -2,7 +2,6 @@
   "id": "allclients",
   "title": "AllClients",
   "link": "http://www.allclients.com/api/",
-  "image": "http://qa.allclients.com/images/public12/allclients-logo.png",
   "author": {
     "name": "AllClients"
   },

@@ -2,7 +2,6 @@
   "id": "seer",
   "title": "SEER ",
   "link": "https://api.seer.cancer.gov",
-  "image": "https://api.seer.cancer.gov/images/seer_logo.png",
   "author": {
     "name": "SEER "
   },

@@ -2,7 +2,6 @@
   "id": "coindesk",
   "title": "CoinDesk",
   "link": "http://www.coindesk.com/api/",
-  "image": "http://www.coindesk.com/wp-content/themes/coindesk2/images/header-logo.png",
   "author": {
     "name": "CoinDesk"
   },

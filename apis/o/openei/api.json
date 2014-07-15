@@ -2,7 +2,6 @@
   "id": "openei",
   "title": "OpenEI",
   "link": "http://en.openei.org/services/",
-  "image": "http://prod-http-80-800498448.us-east-1.elb.amazonaws.com/w/images/thumb/c/c5/OpenEI.Fact.Sheet.pdf/page1-180px-OpenEI.Fact.Sheet.pdf.jpg",
   "author": {
     "name": "OpenEI"
   },

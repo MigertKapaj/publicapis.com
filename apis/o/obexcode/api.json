@@ -2,7 +2,6 @@
   "id": "obexcode",
   "title": "ObexCode",
   "link": "http://api.obexcode.com/v2/doc/authentication/",
-  "image": "http://api.obexcode.com/static/images/obexcode.png",
   "author": {
     "name": "ObexCode"
   },

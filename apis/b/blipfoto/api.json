@@ -2,7 +2,6 @@
   "id": "blipfoto",
   "title": "Blipfoto",
   "link": "http://api.blipfoto.com/docs/requests",
-  "image": "http://www.blipfoto.com/_images/blipfoto.png",
   "author": {
     "name": "Blipfoto"
   },

@@ -2,7 +2,6 @@
   "id": "cheetahmail",
   "title": "CheetahMail",
   "link": "https://api.cheetahmail.fr/api_v1.html",
-  "image": "https://api.cheetahmail.fr/img/logo.png",
   "author": {
     "name": "CheetahMail"
   },

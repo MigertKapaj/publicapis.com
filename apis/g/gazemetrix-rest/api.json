@@ -2,7 +2,6 @@
   "id": "gazemetrix-rest",
   "title": "gazeMetrix REST",
   "link": "https://api.gazemetrix.com/",
-  "image": "https://www.gazemetrix.com/static/img/logo.png",
   "author": {
     "name": "gazeMetrix"
   },

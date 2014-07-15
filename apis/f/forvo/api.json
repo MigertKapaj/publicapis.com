@@ -2,7 +2,6 @@
   "id": "forvo",
   "title": "Forvo",
   "link": "http://api.forvo.com/documentation/branding/",
-  "image": "http://api.forvo.com/_presentation/img/forvo_developers.gif",
   "author": {
     "name": "Forvo"
   },

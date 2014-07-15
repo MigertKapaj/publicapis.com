@@ -2,7 +2,6 @@
   "id": "embl-ebi",
   "title": "EMBL-EBI",
   "link": "http://www.ebi.ac.uk/soaplab/",
-  "image": "http://www.ebi.ac.uk/web_guidelines/images/logos/EMBL-EBI/EMBL_EBI_Logo_white.png",
   "author": {
     "name": "EMBL-EBI"
   },

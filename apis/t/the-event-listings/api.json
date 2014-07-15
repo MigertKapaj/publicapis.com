@@ -2,7 +2,6 @@
   "id": "the-event-listings",
   "title": "The Event Listings",
   "link": "http://developer.nytimes.com/docs/events_api",
-  "image": "http://developer.nytimes.com/files/NYTDevLogo.png",
   "author": {
     "name": " Event Listings"
   },

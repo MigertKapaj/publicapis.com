@@ -2,7 +2,6 @@
   "id": "stock-news",
   "title": "Stock News",
   "link": "http://developer.stocklytics.com/stock-news/",
-  "image": "http://developer.stocklytics.com/images/developer_center_head.png",
   "author": {
     "name": "Stocklytics"
   },

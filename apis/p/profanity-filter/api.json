@@ -2,7 +2,6 @@
   "id": "profanity-filter",
   "title": "Profanity Filter",
   "link": "http://www.webpurify.com/documentation/endpoints/",
-  "image": "http://www.webpurify.com/images/logo.png",
   "author": {
     "name": "WebPurify"
   },

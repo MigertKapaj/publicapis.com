@@ -2,7 +2,6 @@
   "id": "hp-cloud",
   "title": "HP Cloud",
   "link": "https://docs.hpcloud.com/api/v13/block-storage/",
-  "image": "https://docs.hpcloud.com/images/hp-public-cloud-logo.png",
   "author": {
     "name": "HP Public Cloud"
   },

@@ -2,7 +2,6 @@
   "id": "cobocards",
   "title": "CoboCards",
   "link": "http://www.cobocards.com/api/pmwiki.php/UserAuthentication/AuthenticationAPI",
-  "image": "http://www.cobocards.com/api/pub/skins/cobocards/banner.jpg",
   "author": {
     "name": "CoboCards"
   },

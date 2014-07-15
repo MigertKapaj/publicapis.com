@@ -2,7 +2,6 @@
   "id": "panoramio-widget",
   "title": "Panoramio Widget",
   "link": "http://www.panoramio.com/api/widget/api.html",
-  "image": "http://www.panoramio.com/img/acrylic/header-panoramio.png",
   "author": {
     "name": "Panoramio"
   },

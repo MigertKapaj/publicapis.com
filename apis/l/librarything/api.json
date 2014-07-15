@@ -2,7 +2,6 @@
   "id": "librarything",
   "title": "LibraryThing",
   "link": "http://www.librarything.com/api.php",
-  "image": "http://pics.librarything.com/pics/lt-wordmark-2013.gif",
   "author": {
     "name": "LibraryThing"
   },

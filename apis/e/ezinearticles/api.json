@@ -2,7 +2,6 @@
   "id": "ezinearticles",
   "title": "EzineArticles",
   "link": "http://api.ezinearticles.com/docs/general_information.php",
-  "image": "http://api.ezinearticles.com/images/logo_gears.png",
   "author": {
     "name": "EzineArticles"
   },

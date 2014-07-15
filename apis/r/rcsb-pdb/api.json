@@ -2,7 +2,6 @@
   "id": "rcsb-pdb",
   "title": "RCSB PDB",
   "link": "http://www.rcsb.org/pdb/software/rest.do",
-  "image": "http://www.rcsb.org/pdb/skins/web20/default/images/pdbLogo.png",
   "author": {
     "name": "PDB"
   },

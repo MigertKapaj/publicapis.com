@@ -2,7 +2,6 @@
   "id": "vulndb",
   "title": "VulnDB",
   "link": "http://vulndbhq.com/help/api/v2/",
-  "image": "http://www.programmableweb.com/images/apis/at10329.png",
   "author": {
     "name": "VulnDB"
   },

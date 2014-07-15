@@ -2,7 +2,6 @@
   "id": "spending-data",
   "title": "Spending Data",
   "link": "http://www.usaspending.gov/data?tab=API",
-  "image": "http://www.usaspending.gov/sites/all/themes/usaspendingv2/images/usa_logo_ins.gif",
   "author": {
     "name": "USAspending.gov"
   },

@@ -2,7 +2,6 @@
   "id": "neospeech",
   "title": "Neospeech",
   "link": "https://ws.neospeech.com/NeoSpeech-TTSWS-API-1.1.pdf",
-  "image": "https://ws.neospeech.com/assets/images/logo.png",
   "author": {
     "name": "Neospeech"
   },

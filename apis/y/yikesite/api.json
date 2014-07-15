@@ -2,7 +2,6 @@
   "id": "yikesite",
   "title": "YikeSite",
   "link": "http://api.yikesite.com/json",
-  "image": "http://api.yikesite.com/images/yikesite.png",
   "author": {
     "name": "YikeSite"
   },

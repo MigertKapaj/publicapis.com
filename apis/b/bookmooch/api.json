@@ -2,7 +2,6 @@
   "id": "bookmooch",
   "title": "BookMooch",
   "link": "http://bookmooch.com/api/",
-  "image": "http://i.bookmooch.com/images/bookmooch_logo.gif",
   "author": {
     "name": "BookMooch"
   },

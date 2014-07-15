@@ -2,7 +2,6 @@
   "id": "shutterstock",
   "title": "Shutterstock",
   "link": "http://api.shutterstock.com/",
-  "image": "http://www.shutterstock.com/images/api/shutterstock-api-logo.png",
   "author": {
     "name": "Shutterstock"
   },

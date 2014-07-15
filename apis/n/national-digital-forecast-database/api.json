@@ -2,7 +2,6 @@
   "id": "national-digital-forecast-database",
   "title": "National Digital Forecast Database",
   "link": "http://graphical.weather.gov/xml/",
-  "image": "http://graphical.weather.gov/staticimages/noaaleft.jpg",
   "author": {
     "name": "National Digital Forecast Database"
   },

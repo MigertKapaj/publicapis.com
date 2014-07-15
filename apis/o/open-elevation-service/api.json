@@ -2,7 +2,6 @@
   "id": "open-elevation-service",
   "title": "Open Elevation Service",
   "link": "http://open.mapquestapi.com/elevation/",
-  "image": "http://open.mapquest.co.uk/cdn/dotcom3/images/logos/logo_beta.png",
   "author": {
     "name": "MapQuest Open"
   },

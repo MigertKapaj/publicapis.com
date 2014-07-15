@@ -2,7 +2,6 @@
   "id": "norwegian-bioinformatics-platform",
   "title": "Norwegian Bioinformatics Platform",
   "link": "http://api.bioinfo.no/",
-  "image": "http://www.bioinfo.no/++resource++bioinfo.theme.images/logo2013.png",
   "author": {
     "name": "Norwegian Bioinformatics Platform"
   },

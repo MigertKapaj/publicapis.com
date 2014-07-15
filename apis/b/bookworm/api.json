@@ -2,7 +2,6 @@
   "id": "bookworm",
   "title": "Bookworm",
   "link": "http://bookworm.oreilly.com/api/public/help/",
-  "image": "http://bookworm.oreilly.com/static/bookworm-logo.png",
   "author": {
     "name": "Bookworm"
   },

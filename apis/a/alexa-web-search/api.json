@@ -2,7 +2,6 @@
   "id": "alexa-web-search",
   "title": "Alexa Web Search",
   "link": "http://aws.amazon.com/alexawebsearch/",
-  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
   "author": {
     "name": "Alexa Web Search"
   },

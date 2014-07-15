@@ -2,7 +2,6 @@
   "id": "device-administration",
   "title": "Device Administration",
   "link": "http://developer.android.com/guide/topics/admin/device-admin.html#overview",
-  "image": "http://developer.android.com/assets/images/dac_logo.png",
   "author": {
     "name": "Device Administration"
   },

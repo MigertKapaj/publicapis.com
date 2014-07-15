@@ -2,7 +2,6 @@
   "id": "premium-weather",
   "title": "Premium Weather",
   "link": "http://developer.worldweatheronline.com/documentation",
-  "image": "http://cdn.worldweatheronline.net/staticv3/images/logo.jpg",
   "author": {
     "name": "Worldweatheronline"
   },

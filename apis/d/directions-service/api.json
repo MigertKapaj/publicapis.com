@@ -2,7 +2,6 @@
   "id": "directions-service",
   "title": "Directions Service",
   "link": "http://www.mapquestapi.com/directions/",
-  "image": "http://www.mapquestapi.com/cdn/common/images/MQ_header_logo_DevNet.png",
   "author": {
     "name": "MapQuest"
   },

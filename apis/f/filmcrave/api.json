@@ -2,7 +2,6 @@
   "id": "filmcrave",
   "title": "FilmCrave",
   "link": "http://www.filmcrave.com/api.php",
-  "image": "http://www.filmcrave.com/images/new_logo.jpg",
   "author": {
     "name": "FilmCrave.com"
   },

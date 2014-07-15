@@ -2,7 +2,6 @@
   "id": "mailchimp",
   "title": "MailChimp",
   "link": "http://apidocs.mailchimp.com/",
-  "image": "http://apidocs.mailchimp.com/i/logo-white-178x47.png",
   "author": {
     "name": "MailChimp"
   },

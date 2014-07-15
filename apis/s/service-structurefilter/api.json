@@ -2,7 +2,6 @@
   "id": "service-structurefilter",
   "title": "Service StructureFilter",
   "link": "http://structurefilter.embl.de/webservice/",
-  "image": "http://structurefilter.embl.de/webservice/EMBRACE_logo.gif",
   "author": {
     "name": "Service StructureFilter"
   },

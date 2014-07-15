@@ -2,7 +2,6 @@
   "id": "featurepics",
   "title": "FeaturePics",
   "link": "http://www.featurepics.com/API/ImageDetailsJSON.aspx",
-  "image": "http://www.featurepics.com/i/featurepicslogo.gif",
   "author": {
     "name": "FeaturePics"
   },

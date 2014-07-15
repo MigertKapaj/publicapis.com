@@ -2,7 +2,6 @@
   "id": "beatport",
   "title": "Beatport",
   "link": "https://oauth-api.beatport.com/",
-  "image": "https://oauth-api.beatport.com/images/logo-api.png",
   "author": {
     "name": "Beatport"
   },

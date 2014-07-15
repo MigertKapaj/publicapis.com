@@ -2,7 +2,6 @@
   "id": "esv-bible",
   "title": "ESV Bible",
   "link": "http://www.esvapi.org/api/",
-  "image": "http://www.esvapi.org/assets/logo.png",
   "author": {
     "name": "ESV Bible"
   },

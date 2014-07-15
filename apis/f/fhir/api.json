@@ -2,7 +2,6 @@
   "id": "fhir",
   "title": "FHIR",
   "link": "http://hl7.org/implement/standards/fhir/formats.html",
-  "image": "http://hl7.org/implement/standards/fhir/assets/images/fhir-logo-www.png",
   "author": {
     "name": "FHIR"
   },

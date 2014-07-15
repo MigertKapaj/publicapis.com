@@ -2,7 +2,6 @@
   "id": "the-city",
   "title": "The City",
   "link": "https://api.onthecity.org/docs/apps#security_and_auth",
-  "image": "https://api.onthecity.org/images/logo.png",
   "author": {
     "name": "The City"
   },

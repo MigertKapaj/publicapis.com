@@ -2,7 +2,6 @@
   "id": "lcbo",
   "title": "LCBO",
   "link": "http://lcboapi.com/docs/inventories",
-  "image": "http://lcboapi.com/assets/header-logo-d6c8580d002818eb17da93d0e2c5ad5b.png",
   "author": {
     "name": "LCBO"
   },

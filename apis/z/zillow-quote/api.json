@@ -2,7 +2,6 @@
   "id": "zillow-quote",
   "title": "Zillow Quote",
   "link": "http://www.zillow.com/mortgage/MortgageAPISignup.htm",
-  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
   "author": {
     "name": "Zillow"
   },

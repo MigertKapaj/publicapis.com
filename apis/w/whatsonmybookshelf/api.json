@@ -2,7 +2,6 @@
   "id": "whatsonmybookshelf",
   "title": "WhatsOnMyBookshelf",
   "link": "http://www.whatsonmybookshelf.com/api/",
-  "image": "http://www.whatsonmybookshelf.com/images/leaf.gif",
   "author": {
     "name": "WhatsOnMyBookshelf"
   },

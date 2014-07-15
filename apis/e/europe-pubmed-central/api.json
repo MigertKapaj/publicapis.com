@@ -2,7 +2,6 @@
   "id": "europe-pubmed-central",
   "title": "Europe PubMed Central",
   "link": "http://europepmc.org/RestfulWebService",
-  "image": "http://europepmc.org/template/images/epmc-logo.png",
   "author": {
     "name": "Europe PubMed Central"
   },

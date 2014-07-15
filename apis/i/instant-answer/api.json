@@ -2,7 +2,6 @@
   "id": "instant-answer",
   "title": " Instant Answer",
   "link": "https://api.duckduckgo.com/api",
-  "image": "https://api.duckduckgo.com/assets/logo_header.v101.hdpi.png",
   "author": {
     "name": "DuckDuckGo"
   },

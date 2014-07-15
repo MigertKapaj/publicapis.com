@@ -2,7 +2,6 @@
   "id": "mail",
   "title": "Mail",
   "link": "http://sendgrid.com/docs/API_Reference/Web_API/mail.html",
-  "image": "http://sendgrid.com/docs/images/sendgrid-logo.png?embed=true",
   "author": {
     "name": "SendGrid"
   },

@@ -2,7 +2,6 @@
   "id": "librarycloud",
   "title": "LibraryCloud",
   "link": "http://librarycloud.org/api",
-  "image": "http://librarycloud.org/images/librarycloud-logo.png",
   "author": {
     "name": "LibraryCloud"
   },

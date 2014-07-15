@@ -2,7 +2,6 @@
   "id": "amazon-mechanical-turk",
   "title": "Amazon Mechanical Turk",
   "link": "http://docs.aws.amazon.com/general/latest/gr/glos-chap.html",
-  "image": "http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/images/documentation_logo200x29.png",
   "author": {
     "name": "Amazon Web Service"
   },

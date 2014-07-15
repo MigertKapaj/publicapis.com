@@ -2,7 +2,6 @@
   "id": "text-to-speech",
   "title": "Text-to-speech",
   "link": "http://www.voicerss.org/api/documentation.aspx",
-  "image": "http://www.voicerss.org/images/logo.png",
   "author": {
     "name": "Voice RSS"
   },

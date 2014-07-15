@@ -2,12 +2,8 @@
   "id": "360-business-tool",
   "title": "360 Business Tool",
   "link": "https://www.mashape.com/hoyer/360-business-tool",
-  "image": "",
   "author": {
     "name": "hoyer"
   },
-  "tags": [
-    ""
-  ],
   "description": "360 Business Tool er et dansk designet og udviklet CRM & virksomhedssystem.\r\n\r\nMålrettet til små og mellemstore virksomheder.\r\n\r\nHostet i skyen med oppetidsgaranti og fuld backup.\r\n\r\nUdviklet for at øge produktiviteten i virksomheden ved at samle alle nødvendige funktioner i ét system.\r\n\r\nBusiness in a box\r\n\r\n360 Business Tool er en komplet løsning, der indeholder alle de funktioner, en virksomhed har brug for.\r\n\r\nCRM, tilbudsgivning, budgettering, time/sag, tidsregistrering, fakturering, marketing, nyhedsbreve og meget mere.\r\n\r\n360 Business Tool integrerer til dit eksisterende økonomisystem, kalender, email, lager, lønsystem, bank og meget mere.\r\n\r\nVi tilbyder et SOAP baseret API som kan bruges du bla:\r\n•Uploade bilag\r\n•Checke en kundes saldo \r\n•Udføre kreditcheck\r\n•Registrere tid"
 }

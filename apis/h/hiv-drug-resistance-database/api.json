@@ -2,7 +2,6 @@
   "id": "hiv-drug-resistance-database",
   "title": " HIV Drug Resistance Database",
   "link": "http://hivdb.stanford.edu/DR/webservices/",
-  "image": "http://hivdb.stanford.edu/images/header.gif",
   "author": {
     "name": "Stanford University HIV Drug Resistance Database"
   },

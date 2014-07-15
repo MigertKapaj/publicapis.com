@@ -2,7 +2,6 @@
   "id": "ispeech",
   "title": "iSpeech",
   "link": "http://www.ispeech.org/api",
-  "image": "http://www.ispeech.org/images/ispeech-logo-dark.png",
   "author": {
     "name": "iSpeech"
   },

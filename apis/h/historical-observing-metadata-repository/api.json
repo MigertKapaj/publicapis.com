@@ -2,7 +2,6 @@
   "id": "historical-observing-metadata-repository",
   "title": "Historical Observing Metadata Repository",
   "link": "http://www.ncdc.noaa.gov/homr/api",
-  "image": "http://www.ncdc.noaa.gov/homr/shared/v1/images/logos/noaa_logo.png",
   "author": {
     "name": "HOMR "
   },

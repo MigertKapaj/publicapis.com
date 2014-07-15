@@ -2,7 +2,6 @@
   "id": "opengov-nsw",
   "title": "OpenGov NSW",
   "link": "https://www.opengov.nsw.gov.au/api",
-  "image": "https://www.opengov.nsw.gov.au/images/logo.png",
   "author": {
     "name": "OpenGov NSW"
   },

@@ -2,7 +2,6 @@
   "id": "datadog",
   "title": "Datadog",
   "link": "http://docs.datadoghq.com/api/",
-  "image": "http://docs.datadoghq.com/static/logo.png",
   "author": {
     "name": "Datadog"
   },

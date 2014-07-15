@@ -2,7 +2,6 @@
   "id": "getregionchart",
   "title": "GetRegionChart",
   "link": "http://www.zillow.com/howto/api/GetRegionChart.htm",
-  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
   "author": {
     "name": "Zillow"
   },

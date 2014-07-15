@@ -2,7 +2,6 @@
   "id": "bitcoins",
   "title": "Bitcoins",
   "link": "http://coincard.ndrix.com/api.html",
-  "image": "http://coincard.ndrix.com/logo.png",
   "author": {
     "name": "B CoinCard"
   },

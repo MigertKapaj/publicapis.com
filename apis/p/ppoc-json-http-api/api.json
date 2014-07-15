@@ -2,7 +2,6 @@
   "id": "ppoc-json-http-api",
   "title": "PPOC - JSON HTTP API ",
   "link": "http://www.loc.gov/pictures/api",
-  "image": "http://cdn.loc.gov/images/img-head/logo-loc.png",
   "author": {
     "name": "Library of Congress"
   },

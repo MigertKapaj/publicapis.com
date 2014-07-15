@@ -2,7 +2,6 @@
   "id": "discovery-service",
   "title": "Discovery Service",
   "link": "https://developers.google.com/discovery/v1/getting_started",
-  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
   "author": {
     "name": "Goggle Developers"
   },

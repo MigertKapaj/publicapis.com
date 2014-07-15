@@ -2,7 +2,6 @@
   "id": "cipres-portal-web-server-rest",
   "title": "Cipres Portal Web Server REST",
   "link": "http://www.phylo.org/rest/rest_api.php",
-  "image": "http://www.phylo.org/img/logo_cipres.gif",
   "author": {
     "name": "Cipres"
   },

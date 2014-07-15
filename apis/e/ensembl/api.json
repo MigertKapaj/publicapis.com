@@ -2,7 +2,6 @@
   "id": "ensembl",
   "title": "Ensembl",
   "link": "http://beta.rest.ensembl.org/documentation/info/archive_id",
-  "image": "http://asia.ensembl.org/i/mirrors/this-mirror.png",
   "author": {
     "name": "Ensembl"
   },

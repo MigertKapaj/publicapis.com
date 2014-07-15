@@ -2,7 +2,6 @@
   "id": "weathersource",
   "title": "Weathersource",
   "link": "https://developer.weathersource.com/documentation/rest/",
-  "image": "https://developer.weathersource.com/wp-content/themes/weather-source-original/gfx/logos/ws-logo-2.png",
   "author": {
     "name": "Weathersource"
   },

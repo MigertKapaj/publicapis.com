@@ -2,7 +2,6 @@
   "id": "ckan",
   "title": "CKAN",
   "link": "http://data.gov.uk/data/api",
-  "image": "http://data.gov.uk/assets/img/dgu-header-white.png",
   "author": {
     "name": "data.gov.uk"
   },

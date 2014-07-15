@@ -2,7 +2,6 @@
   "id": "mta-bus-time",
   "title": "MTA Bus Time",
   "link": "http://bustime.mta.info/wiki/Developers/Index",
-  "image": "http://bustime.mta.info/css/img/agency_logo.gif",
   "author": {
     "name": "MTA.info"
   },

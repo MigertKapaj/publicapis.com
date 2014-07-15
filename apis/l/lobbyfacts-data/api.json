@@ -2,7 +2,6 @@
   "id": "lobbyfacts-data",
   "title": "LobbyFacts Data",
   "link": "http://api.lobbyfacts.eu/api/1/country/1",
-  "image": "http://assets.okfn.org/p/labs/201210/img/header.png",
   "author": {
     "name": "LABS"
   },

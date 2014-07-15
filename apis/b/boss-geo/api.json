@@ -2,7 +2,6 @@
   "id": "boss-geo",
   "title": "BOSS Geo",
   "link": "http://developer.yahoo.com/maps/rest/V1/geocode.html",
-  "image": "https://developer.yahoo.com/boss/geo/API_Update_Graphic_BOSS.png",
   "author": {
     "name": "Yahoo"
   },

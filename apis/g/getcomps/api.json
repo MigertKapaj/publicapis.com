@@ -2,7 +2,6 @@
   "id": "getcomps",
   "title": "GetComps",
   "link": "http://www.zillow.com/howto/api/GetComps.htm",
-  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
   "author": {
     "name": "Zillow"
   },

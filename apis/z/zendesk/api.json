@@ -2,7 +2,6 @@
   "id": "zendesk",
   "title": "Zendesk",
   "link": "http://developer.zendesk.com/documentation/rest_api/introduction.html",
-  "image": "http://developer.zendesk.com/images/zendesk_developers_header.png",
   "author": {
     "name": "Zendesk"
   },

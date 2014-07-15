@@ -2,7 +2,6 @@
   "id": "microsoft-azure",
   "title": "Microsoft Azure",
   "link": "http://msdn.microsoft.com/en-us/library/windowsazure/ee460807.aspx",
-  "image": "http://i3.msdn.microsoft.com/Areas/Epx/Themes/WindowsAzure/Content/SpriteImages/ImageSprite.Azure.png",
   "author": {
     "name": "Microsoft Azure"
   },

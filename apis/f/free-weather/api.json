@@ -2,7 +2,6 @@
   "id": "free-weather",
   "title": "Free Weather",
   "link": "http://www.worldweatheronline.com/api-usage-api.aspx",
-  "image": "http://cdn.worldweatheronline.net/staticv3/images/logo.jpg",
   "author": {
     "name": "Worldweatheronline"
   },

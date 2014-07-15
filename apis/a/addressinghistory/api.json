@@ -2,7 +2,6 @@
   "id": "addressinghistory",
   "title": "AddressingHistory",
   "link": "http://addressinghistory.edina.ac.uk/api",
-  "image": "http://addressinghistory.edina.ac.uk/img/top-logo-1.jpg",
   "author": {
     "name": "AddressingHistory"
   },

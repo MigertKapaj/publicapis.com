@@ -2,7 +2,6 @@
   "id": "taxifarefinder",
   "title": "TaxiFareFinder",
   "link": "http://www.taxifarefinder.com/api.php",
-  "image": "http://www.taxifarefinder.com/images/logo1-165.png",
   "author": {
     "name": "TaxiFareFinder"
   },

@@ -2,7 +2,6 @@
   "id": "bittorrent",
   "title": "BitTorrent",
   "link": "http://www.bittorrent.com/sync/developers",
-  "image": "http://www.bittorrent.com/images/site/bt-logo.png",
   "author": {
     "name": "BitTorrent"
   },

@@ -2,7 +2,6 @@
   "id": "traffic-service",
   "title": "Traffic Service",
   "link": "http://www.mapquestapi.com/traffic/",
-  "image": "http://www.mapquestapi.com/cdn/common/images/MQ_header_logo_DevNet.png",
   "author": {
     "name": "MapQuest"
   },

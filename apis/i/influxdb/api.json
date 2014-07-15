@@ -2,7 +2,6 @@
   "id": "influxdb",
   "title": "InfluxDB",
   "link": "http://influxdb.org/docs/api/http.html",
-  "image": "http://influxdb.org/images/influxdb-light-24px.png",
   "author": {
     "name": "InfluxDB"
   },

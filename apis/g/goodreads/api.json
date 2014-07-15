@@ -2,7 +2,6 @@
   "id": "goodreads",
   "title": "Goodreads",
   "link": "http://www.goodreads.com/api/documentation",
-  "image": "http://s.gr-assets.com/assets/layout/goodreads_logo_140-5b3e47356388131c1699f0baca28a234.png",
   "author": {
     "name": "Goodreads"
   },

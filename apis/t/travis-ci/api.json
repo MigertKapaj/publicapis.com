@@ -2,7 +2,6 @@
   "id": "travis-ci",
   "title": "Travis CI",
   "link": "https://api.travis-ci.org/docs/",
-  "image": "http://docs.travis-ci.com/images/travisci-small.png",
   "author": {
     "name": "Travis "
   },

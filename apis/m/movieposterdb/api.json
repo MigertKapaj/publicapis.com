@@ -2,7 +2,6 @@
   "id": "movieposterdb",
   "title": "MoviePosterDB",
   "link": "http://api.movieposterdb.com/console?type=JSON&api_key=demo&secret=demo&imdb_code=&title=&width=100",
-  "image": "http://api.movieposterdb.com/images/api_logo.png",
   "author": {
     "name": "MoviePosterDB"
   },

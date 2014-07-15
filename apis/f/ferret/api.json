@@ -2,7 +2,6 @@
   "id": "ferret",
   "title": "Ferret",
   "link": "http://api.ferret-go.com/docs/general.html",
-  "image": "http://api.ferret-go.com/docs/_static/images/header.png",
   "author": {
     "name": "Ferret"
   },

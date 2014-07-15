@@ -2,7 +2,6 @@
   "id": "subsonic",
   "title": "Subsonic",
   "link": "http://www.subsonic.org/pages/api.jsp",
-  "image": "http://www.subsonic.org/pages/inc/img/subsonic.png",
   "author": {
     "name": "Subsonic"
   },

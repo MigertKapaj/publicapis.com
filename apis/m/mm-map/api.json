@@ -2,7 +2,6 @@
   "id": "mm-map",
   "title": "MM Map",
   "link": "http://map.longdo.com/api",
-  "image": "http://map.longdo.com/themes/longdo/logo.png",
   "author": {
     "name": "Longdo Map"
   },

@@ -2,7 +2,6 @@
   "id": "trading-pairs",
   "title": "Trading Pairs",
   "link": "https://bter.com/api",
-  "image": "http://data.bter.com/images/logo_en.png",
   "author": {
     "name": "Bter.com"
   },

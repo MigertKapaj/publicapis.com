@@ -2,7 +2,6 @@
   "id": "online",
   "title": "Online",
   "link": "http://db-ip.com/api/",
-  "image": "http://db-ip.com/img/dbip-square-48.png",
   "author": {
     "name": "dbip"
   },

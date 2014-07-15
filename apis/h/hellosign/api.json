@@ -2,7 +2,6 @@
   "id": "hellosign",
   "title": "hellosign",
   "link": "https://www.hellosign.com/api/gettingStarted#HowWeCharge/SignatureRequest",
-  "image": "https://s3.amazonaws.com/cdn.hellofax.com/css/hs/images/header/logo.png",
   "author": {
     "name": "hellosign"
   },

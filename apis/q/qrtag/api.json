@@ -2,7 +2,6 @@
   "id": "qrtag",
   "title": "QRtag",
   "link": "http://api.qrtag.net/javascript_api",
-  "image": "http://api.qrtag.net/images/qrtag_logo_small.gif",
   "author": {
     "name": "QRtag"
   },

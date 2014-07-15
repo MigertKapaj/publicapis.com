@@ -2,7 +2,6 @@
   "id": "formassembly",
   "title": "FormAssembly",
   "link": "http://www3.formassembly.com/api/",
-  "image": "http://www3.formassembly.com/api/images/fa_for_dev.png",
   "author": {
     "name": "FormAssembly"
   },

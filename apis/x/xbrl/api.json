@@ -2,7 +2,6 @@
   "id": "xbrl",
   "title": "XBRL",
   "link": "http://api.xbrlgloballedger.com/api/xsd",
-  "image": "http://api.xbrlgloballedger.com/images/free_accounting_software_logo_32.png",
   "author": {
     "name": "Free Accounting Software"
   },

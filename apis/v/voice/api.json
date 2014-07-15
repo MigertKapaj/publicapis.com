@@ -2,7 +2,6 @@
   "id": "voice",
   "title": "Voice",
   "link": "http://www.twilio.com/docs/api/rest/test-credentials",
-  "image": "http://static1.twilio.com/packages/foundation/img/twilio-logo-50x50.png",
   "author": {
     "name": "Twilio Docs"
   },

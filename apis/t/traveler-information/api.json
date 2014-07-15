@@ -2,7 +2,6 @@
   "id": "traveler-information",
   "title": "Traveler Information",
   "link": "http://www.wsdot.wa.gov/traffic/api/",
-  "image": "http://www.wsdot.wa.gov/media/images/back/greenlogo.png",
   "author": {
     "name": "WSDOT"
   },

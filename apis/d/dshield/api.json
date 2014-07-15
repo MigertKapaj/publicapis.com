@@ -2,7 +2,6 @@
   "id": "dshield",
   "title": "DShield",
   "link": "https://isc.sans.edu/api/",
-  "image": "https://isc.sans.edu/img/logo.png",
   "author": {
     "name": "ISC"
   },

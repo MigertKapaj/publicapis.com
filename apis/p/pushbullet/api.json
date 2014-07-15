@@ -2,7 +2,6 @@
   "id": "pushbullet",
   "title": "Pushbullet",
   "link": "https://www.pushbullet.com/api",
-  "image": "https://www.pushbullet.com/img/header-logo.png",
   "author": {
     "name": "Pushbullet"
   },

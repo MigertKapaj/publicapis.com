@@ -2,7 +2,6 @@
   "id": "invoicera",
   "title": "Invoicera",
   "link": "http://www.invoicera.com/api/",
-  "image": "http://www.invoicera.com/common/images/logo.png",
   "author": {
     "name": "Invoicera"
   },

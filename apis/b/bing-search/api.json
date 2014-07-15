@@ -2,7 +2,6 @@
   "id": "bing-search",
   "title": "Bing Search",
   "link": "https://datamarket.azure.com/dataset/5BA839F1-12CE-4CCE-BF57-A49D98D29A44#schema",
-  "image": "https://datamarket.azure.com/res/images/WindowsAzureMarketplaceLogo.png",
   "author": {
     "name": "Windows Azure marketplace"
   },

@@ -2,7 +2,6 @@
   "id": "politicalpartytime",
   "title": "PoliticalPartyTime",
   "link": "http://politicalpartytime.org/api/",
-  "image": "http://assets.politicalpartytime.org/1.0/images/logo.png",
   "author": {
     "name": "PoliticalPartyTime"
   },

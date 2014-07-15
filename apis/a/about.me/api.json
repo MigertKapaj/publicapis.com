@@ -2,7 +2,6 @@
   "id": "about.me",
   "title": "About.me",
   "link": "http://about.me/developer/api/docs/",
-  "image": "http://about.me/developer/sdk/docs/_static/logo.png",
   "author": {
     "name": "About.me"
   },

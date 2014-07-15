@@ -2,7 +2,6 @@
   "id": "yast",
   "title": "Yast",
   "link": "http://www.yast.com/wiki/index.php/API",
-  "image": "http://www.yast.com/wiki/images/logo128.png",
   "author": {
     "name": "Yast"
   },

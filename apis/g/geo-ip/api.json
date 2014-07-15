@@ -2,7 +2,6 @@
   "id": "geo-ip",
   "title": "Geo-IP",
   "link": "http://smart-ip.net/geoip-api",
-  "image": "http://smart-ip.net/images/main-sprites.png",
   "author": {
     "name": "Smart-IP.net"
   },

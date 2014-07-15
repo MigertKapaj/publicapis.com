@@ -2,7 +2,6 @@
   "id": "omdb",
   "title": "OMDb ",
   "link": "http://OMDbAPI.com",
-  "image": "http://omdbapi.com/header.png",
   "author": {
     "name": "OMDb "
   },

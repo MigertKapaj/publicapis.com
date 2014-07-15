@@ -2,7 +2,6 @@
   "id": "withings",
   "title": "Withings",
   "link": "http://www.withings.com/en/api/",
-  "image": "http://www.withings.com/images/front/logo.png",
   "author": {
     "name": "Withings"
   },

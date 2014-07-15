@@ -2,7 +2,6 @@
   "id": "woot",
   "title": "Woot",
   "link": "http://api.woot.com/2/",
-  "image": "http://api.woot.com/images/api-logo.png",
   "author": {
     "name": "Woot"
   },

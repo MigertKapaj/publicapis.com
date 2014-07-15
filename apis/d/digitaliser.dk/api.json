@@ -2,7 +2,6 @@
   "id": "digitaliser.dk",
   "title": "Digitaliser.dk",
   "link": "http://api.digitaliser.dk/rest/",
-  "image": "http://digitaliser.dk/media/layout/logo-top_2010.png",
   "author": {
     "name": "Digitaliserdk"
   },

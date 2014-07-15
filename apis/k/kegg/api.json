@@ -2,7 +2,6 @@
   "id": "kegg",
   "title": "KEGG",
   "link": "http://www.kegg.jp/kegg/rest/keggapi.html",
-  "image": "http://www.kegg.jp/Fig/kegg2_menu.gif",
   "author": {
     "name": "KEGG"
   },

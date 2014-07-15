@@ -2,7 +2,6 @@
   "id": "remember-the-milk",
   "title": "Remember The Milk",
   "link": "http://www.rememberthemilk.com/services/api/request.rest.rtm",
-  "image": "http://s4.rtmcdn.net/img/logo2.png",
   "author": {
     "name": "RememberTheMilk"
   },

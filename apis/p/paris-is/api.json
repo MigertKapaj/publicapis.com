@@ -2,7 +2,6 @@
   "id": "paris-is",
   "title": "Paris is",
   "link": "https://api.paris.fr/",
-  "image": "https://api.paris.fr/assets/pics/logo-paris.gif",
   "author": {
     "name": "Paris is"
   },

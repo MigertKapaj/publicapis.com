@@ -2,7 +2,6 @@
   "id": "becas",
   "title": "becas",
   "link": "http://bioinformatics.ua.pt/becas/#!/api",
-  "image": "http://bioinformatics.ua.pt/becas/assets/img/becas-logo.small.png",
   "author": {
     "name": "becas"
   },

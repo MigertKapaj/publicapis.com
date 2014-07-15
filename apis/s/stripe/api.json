@@ -2,7 +2,6 @@
   "id": "stripe",
   "title": "Stripe",
   "link": "https://stripe.com/docs/api",
-  "image": "https://stripe.com/img/logo.png",
   "author": {
     "name": "Stripe"
   },

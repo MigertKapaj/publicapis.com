@@ -2,7 +2,6 @@
   "id": "table-service",
   "title": "Table Service",
   "link": "http://msdn.microsoft.com/en-us/library/windowsazure/dd179423.aspx",
-  "image": "http://i3.msdn.microsoft.com/Areas/Epx/Themes/WindowsAzure/Content/SpriteImages/ImageSprite.Azure.png",
   "author": {
     "name": "Microsoft Azure"
   },

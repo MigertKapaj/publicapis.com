@@ -2,7 +2,6 @@
   "id": "getregionchildren",
   "title": "GetRegionChildren",
   "link": "http://www.zillow.com/howto/api/GetRegionChildren.htm",
-  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
   "author": {
     "name": "Zillow"
   },

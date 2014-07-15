@@ -2,7 +2,6 @@
   "id": "saucelabs",
   "title": "Saucelabs",
   "link": "https://saucelabs.com/docs/rest",
-  "image": "https://saucelabs.com/images/sauce-labs-logo.png",
   "author": {
     "name": "Saucelabs"
   },

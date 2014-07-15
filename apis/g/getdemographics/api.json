@@ -2,7 +2,6 @@
   "id": "getdemographics",
   "title": "GetDemographics",
   "link": "http://www.zillow.com/howto/api/GetDemographics.htm",
-  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
   "author": {
     "name": "Zillow"
   },

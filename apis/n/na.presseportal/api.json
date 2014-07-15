@@ -2,7 +2,6 @@
   "id": "na.presseportal",
   "title": "na.presseportal",
   "link": "http://api.presseportal.de/",
-  "image": "http://api.presseportal.de/images/logos/logo_napresseportal.gif",
   "author": {
     "name": "na.presseportal"
   },

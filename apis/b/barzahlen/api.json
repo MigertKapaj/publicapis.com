@@ -2,7 +2,6 @@
   "id": "barzahlen",
   "title": "Barzahlen",
   "link": "https://integration.barzahlen.de/en/api/features/refund-transactions",
-  "image": "https://integration.barzahlen.de/de/assets/img/barzahlen.png",
   "author": {
     "name": "Barzahlen Online Bar bezahlen"
   },

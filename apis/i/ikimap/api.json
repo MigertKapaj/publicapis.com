@@ -2,7 +2,6 @@
   "id": "ikimap",
   "title": "ikiMap",
   "link": "http://api.ikimap.com/",
-  "image": "http://api.ikimap.com/sites/default/files/ikiloader_5.png",
   "author": {
     "name": "wikimapi"
   },

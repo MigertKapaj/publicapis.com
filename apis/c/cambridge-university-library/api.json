@@ -2,7 +2,6 @@
   "id": "cambridge-university-library",
   "title": "Cambridge University Library",
   "link": "http://www.lib.cam.ac.uk/api/",
-  "image": "http://www.lib.cam.ac.uk/global/images/identifier.gif",
   "author": {
     "name": "Cambridge University Library"
   },

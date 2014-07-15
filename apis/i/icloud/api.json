@@ -2,7 +2,6 @@
   "id": "icloud",
   "title": "iCloud",
   "link": "https://developer.apple.com/icloud/index.php",
-  "image": "https://devimages.apple.com.edgekey.net/assets/elements/header/developer.png",
   "author": {
     "name": "Apple"
   },

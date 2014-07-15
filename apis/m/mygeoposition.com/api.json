@@ -2,7 +2,6 @@
   "id": "mygeoposition.com",
   "title": "MyGeoPosition.com",
   "link": "http://api.mygeoposition.com/geopicker/",
-  "image": "http://mygeoposition.com/images/logo.png",
   "author": {
     "name": "MyGeoPosition.com"
   },

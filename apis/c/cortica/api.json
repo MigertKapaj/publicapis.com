@@ -2,7 +2,6 @@
   "id": "cortica",
   "title": "Cortica",
   "link": "http://demoapi.iweb.cortica.com/index/api",
-  "image": "http://www.cortica.com/images/cort_logo.png",
   "author": {
     "name": "Cortica"
   },

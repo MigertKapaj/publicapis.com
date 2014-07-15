@@ -2,7 +2,6 @@
   "id": "the-movie-database",
   "title": "The Movie Database",
   "link": "http://docs.themoviedb.apiary.io",
-  "image": "https://apiary.a.ssl.fastly.net/assets/images/apiary-app-logo-1x-136bf1f4d06a3c9e.png",
   "author": {
     "name": "The Movie Database"
   },

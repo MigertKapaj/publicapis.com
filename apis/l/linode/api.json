@@ -2,7 +2,6 @@
   "id": "linode",
   "title": "Linode",
   "link": "https://www.linode.com/api/",
-  "image": "https://www.linode.com/images/linode_logo_2011.png",
   "author": {
     "name": "Linode"
   },

@@ -2,7 +2,6 @@
   "id": "faxout",
   "title": "FaxOut",
   "link": "http://service.ringcentral.com/faxoutapi/",
-  "image": "http://service.ringcentral.com/picture/ringcentral/rc-logo-white-background.gif",
   "author": {
     "name": "RingCentral"
   },

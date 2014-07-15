@@ -2,7 +2,6 @@
   "id": "planetlab-central",
   "title": "PlanetLab Central",
   "link": "http://www.planet-lab.org/doc/plc_api",
-  "image": "http://www.planet-lab.org/sites/default/themes/chameleon/planetlab/logo.png",
   "author": {
     "name": "PlanetLab"
   },

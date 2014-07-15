@@ -2,7 +2,6 @@
   "id": "thingiverse",
   "title": "Thingiverse",
   "link": "http://www.thingiverse.com/api",
-  "image": "http://www.thingiverse.com/img/thingiverse-logo-2013.png",
   "author": {
     "name": "Thingiverse"
   },

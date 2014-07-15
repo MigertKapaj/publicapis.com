@@ -2,7 +2,6 @@
   "id": "dealsurf",
   "title": "DealSurf",
   "link": "http://api.dealsurf.com/doc/DealSurf/deals/list",
-  "image": "http://api.dealsurf.com/images/dealisearch/dealsurf2.png",
   "author": {
     "name": "DealSurf"
   },

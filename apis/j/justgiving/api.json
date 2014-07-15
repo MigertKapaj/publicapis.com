@@ -2,7 +2,6 @@
   "id": "justgiving",
   "title": "JustGiving",
   "link": "https://apimanagement.justgiving.com/",
-  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/justgiving/16308312024/profiles/logos/large/jg-logo-header-purple.png",
   "author": {
     "name": "JustGiving"
   },

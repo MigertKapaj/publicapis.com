@@ -2,7 +2,6 @@
   "id": "metrics",
   "title": "Metrics",
   "link": "http://dev.librato.com/v1/metrics#metrics",
-  "image": "http://dev.librato.com/images/logo.png",
   "author": {
     "name": "Librato"
   },

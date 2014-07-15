@@ -2,7 +2,6 @@
   "id": "auth",
   "title": "Auth",
   "link": "https://www.duosecurity.com/docs/authapi",
-  "image": "https://www.duosecurity.com/static/images/duo-logo.svg",
   "author": {
     "name": "DUO"
   },

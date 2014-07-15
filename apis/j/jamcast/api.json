@@ -2,7 +2,6 @@
   "id": "jamcast",
   "title": "Jamcast",
   "link": "http://getjamcast.com/api/",
-  "image": "http://getjamcast.com/img/logo.png",
   "author": {
     "name": "Jamcast"
   },

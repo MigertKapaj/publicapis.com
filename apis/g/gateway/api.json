@@ -2,7 +2,6 @@
   "id": "gateway",
   "title": "gateway ",
   "link": "http://wiki.usaepay.com/developer/transactionapi",
-  "image": "http://wiki.usaepay.com/lib/tpl/usaepay/images/logo.png",
   "author": {
     "name": "USAePay"
   },

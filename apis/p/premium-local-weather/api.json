@@ -2,7 +2,6 @@
   "id": "premium-local-weather",
   "title": "Premium Local Weather",
   "link": "http://www.worldweatheronline.com/premium-weather.aspx?menu=city",
-  "image": "http://cdn.worldweatheronline.net/staticv3/images/logo.jpg",
   "author": {
     "name": "Worldweatheronline"
   },

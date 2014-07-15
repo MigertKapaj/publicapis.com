@@ -2,7 +2,6 @@
   "id": "rxnorm",
   "title": "RxNorm",
   "link": "http://rxnav.nlm.nih.gov/RxNormAPI.html",
-  "image": "http://rxnav.nlm.nih.gov/css/images/rxnav_logo.gif",
   "author": {
     "name": "RxNAV"
   },

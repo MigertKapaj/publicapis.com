@@ -2,7 +2,6 @@
   "id": "cloudhub-rest",
   "title": "CloudHub REST",
   "link": "http://www.mulesoft.org/documentation/display/CLOUDHUB/API",
-  "image": "https://www.mulesoft.org/sites/all/themes/mulesoft_community/logo.png",
   "author": {
     "name": "MuleSoft"
   },

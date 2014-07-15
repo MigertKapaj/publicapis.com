@@ -2,7 +2,6 @@
   "id": "embedly",
   "title": "Embedly",
   "link": "http://embed.ly/docs/endpoints",
-  "image": "http://embed.ly/static/images/logo.png?v=d5419",
   "author": {
     "name": "Embedly"
   },

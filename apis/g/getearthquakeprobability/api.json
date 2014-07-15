@@ -2,7 +2,6 @@
   "id": "getearthquakeprobability",
   "title": "GetEarthquakeProbability",
   "link": "http://www.openhazards.com/data",
-  "image": "http://www.openhazards.com/sites/all/themes/oh_community/logo.png",
   "author": {
     "name": "GetEarthquakeProbability"
   },

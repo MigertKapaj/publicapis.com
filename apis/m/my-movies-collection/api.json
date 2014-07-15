@@ -2,7 +2,6 @@
   "id": "my-movies-collection",
   "title": "My Movies Collection",
   "link": "http://mymoviescollection.net/about/api/",
-  "image": "http://mymoviescollection.net/images/template/logo.png",
   "author": {
     "name": "My Movies Collection"
   },

@@ -2,7 +2,6 @@
   "id": "speech-to-text",
   "title": "Speech to Text",
   "link": "http://www.mycaption.com/resources/api",
-  "image": "http://www.mycaption.com/images/TM.png",
   "author": {
     "name": "My caption"
   },

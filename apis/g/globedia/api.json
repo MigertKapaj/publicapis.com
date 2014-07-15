@@ -2,7 +2,6 @@
   "id": "globedia",
   "title": "Globedia",
   "link": "http://api.globedia.com/es/documentacion/country/#getList",
-  "image": "http://api.globedia.com/img/logo_globedia.png",
   "author": {
     "name": "Globedia"
   },

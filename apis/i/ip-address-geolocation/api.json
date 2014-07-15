@@ -2,7 +2,6 @@
   "id": "ip-address-geolocation",
   "title": "IP Address Geolocation",
   "link": "http://ipinfodb.com/ip_location_api.php",
-  "image": "http://ipinfodb.com/img/sitelogo.gif",
   "author": {
     "name": "IPInfoDB"
   },

@@ -2,7 +2,6 @@
   "id": "mailjet-web",
   "title": "Mailjet Web",
   "link": "http://www.mailjet.com/docs/api",
-  "image": "http://www.mailjet.com/images/theme/v1/logos/head_logo_tiny.png",
   "author": {
     "name": "Mailjet"
   },

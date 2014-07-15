@@ -2,7 +2,6 @@
   "id": "dailymed",
   "title": "DailyMed",
   "link": "http://dailymed.nlm.nih.gov/dailymed/help.cfm",
-  "image": "http://dailymed.nlm.nih.gov/dailymed/images/DM_LOGO_HEADER.png",
   "author": {
     "name": "DailyMed"
   },

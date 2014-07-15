@@ -2,7 +2,6 @@
   "id": "quag-public",
   "title": "Quag Public",
   "link": "http://www.quag.com/api/",
-  "image": "http://www.quag.com/static/quag_api/images/logo-quag.png",
   "author": {
     "name": "Quag"
   },

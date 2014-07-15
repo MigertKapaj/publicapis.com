@@ -2,7 +2,6 @@
   "id": "findmeon",
   "title": "FindMeOn",
   "link": "http://api.findmeon.com/docs/v1/xsite/is_user_cookied",
-  "image": "http://findmeon.com/_img_new/logo.gif",
   "author": {
     "name": "FindMeOn"
   },

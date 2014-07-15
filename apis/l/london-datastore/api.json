@@ -2,7 +2,6 @@
   "id": "london-datastore",
   "title": "London Datastore",
   "link": "http://data.london.gov.uk/datastore",
-  "image": "http://data.london.gov.uk/sites/default/themes/gla/images/structure/logo_londongovuk.gif",
   "author": {
     "name": "london.gov.uk"
   },

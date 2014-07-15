@@ -2,7 +2,6 @@
   "id": "adobe",
   "title": "Adobe",
   "link": "http://feeds.adobe.com/Developers.cfm",
-  "image": "http://feeds.adobe.com/images/logo.gif",
   "author": {
     "name": "Adobe"
   },

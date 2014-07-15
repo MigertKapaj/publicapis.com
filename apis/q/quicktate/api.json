@@ -2,7 +2,6 @@
   "id": "quicktate",
   "title": "Quicktate",
   "link": "https://api.quicktate.com/v1/api/index.html",
-  "image": "https://api.quicktate.com/v1/api/images/quicktate-icon.png",
   "author": {
     "name": "Quicktate"
   },

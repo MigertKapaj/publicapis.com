@@ -2,7 +2,6 @@
   "id": "datahotell",
   "title": "\nDatahotell",
   "link": "http://hotell.difi.no/api",
-  "image": "http://hotell.difi.no/profiles/datahotel/themes/difi2_datahotel/logo.png",
   "author": {
     "name": "difi"
   },

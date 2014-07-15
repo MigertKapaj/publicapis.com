@@ -2,7 +2,6 @@
   "id": "chef-server",
   "title": "Chef Server",
   "link": "http://docs.opscode.com/api_chef_server.html",
-  "image": "http://docs.opscode.com/_static/chef_html_logo.png",
   "author": {
     "name": "Chef Server"
   },

@@ -2,7 +2,6 @@
   "id": "hmmer",
   "title": "HMMER",
   "link": "http://hmmer.janelia.org/help/api",
-  "image": "http://hmmer.janelia.org/static/images/hmmer_titlebar_small.gif",
   "author": {
     "name": "HMMER"
   },

@@ -2,7 +2,6 @@
   "id": "telegram",
   "title": "Telegram",
   "link": "http://core.telegram.org/api",
-  "image": "https://telegram.org/img/t_logo.png",
   "author": {
     "name": "Telegram"
   },

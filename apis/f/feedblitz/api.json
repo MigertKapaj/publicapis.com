@@ -2,7 +2,6 @@
   "id": "feedblitz",
   "title": "FeedBlitz",
   "link": "http://www.feedblitz.com/api/",
-  "image": "https://s3.amazonaws.com/assets.feedblitz.com/wp-content/themes/news/images/sprite.png",
   "author": {
     "name": "FeedBlitz"
   },

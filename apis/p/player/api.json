@@ -2,7 +2,6 @@
   "id": "player",
   "title": "Player",
   "link": "http://bambuser.com/api/embed_htmlplayer",
-  "image": "http://static.bambuser.com/themes/b4/images/b4/bambuser-logo.png",
   "author": {
     "name": "bumbuser"
   },

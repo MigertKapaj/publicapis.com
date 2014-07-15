@@ -2,7 +2,6 @@
   "id": "cloudbroker",
   "title": "CloudBroker",
   "link": "https://platform.cloudbroker.com/documents/CloudBrokerPlatform_RESTAPIUsageManual-1.2.1.pdf",
-  "image": "http://cloudbroker.com/wordpress/wp-content/uploads/CloudBroker_Logo_web.png",
   "author": {
     "name": "CloudBroker"
   },

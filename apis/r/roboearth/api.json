@@ -2,7 +2,6 @@
   "id": "roboearth",
   "title": "RoboEarth",
   "link": "http://api.roboearth.org/documentation/dev",
-  "image": "http://api.roboearth.org/img/RoboEarth.org_logo.png",
   "author": {
     "name": "RoboEarth"
   },

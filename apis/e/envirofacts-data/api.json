@@ -2,7 +2,6 @@
   "id": "envirofacts-data",
   "title": "Envirofacts Data",
   "link": "http://www.epa.gov/enviro/facts/ef_restful.html#new_search",
-  "image": "http://www.epa.gov/epafiles/css/i/epa-sprites.png",
   "author": {
     "name": "EPA"
   },

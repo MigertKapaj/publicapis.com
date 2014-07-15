@@ -2,7 +2,6 @@
   "id": "magic-the-gathering",
   "title": "Magic: The Gathering",
   "link": "http://mtgapi.com/docs",
-  "image": "http://mtgapi.com/img/global/logo-sm.png",
   "author": {
     "name": "Magic: The Gathering"
   },

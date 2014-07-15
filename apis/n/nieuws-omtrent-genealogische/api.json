@@ -2,7 +2,6 @@
   "id": "nieuws-omtrent-genealogische",
   "title": "Nieuws omtrent genealogische",
   "link": "http://api.coret.org/laatste_nieuws.php",
-  "image": "http://static.coret.org/img/api/bg-h.gif",
   "author": {
     "name": "genealogische"
   },

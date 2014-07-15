@@ -2,7 +2,6 @@
   "id": "review",
   "title": "Review",
   "link": "http://developer.zappos.com/docs/api-review",
-  "image": "http://developer.zappos.com/sites/default/files/logo.png",
   "author": {
     "name": "Zappos"
   },

@@ -2,7 +2,6 @@
   "id": "storm-on-demand",
   "title": "Storm on Demand",
   "link": "http://www.stormondemand.com/api/docs/v1",
-  "image": "http://www.stormondemand.com/img/logo-big.png",
   "author": {
     "name": "Storm"
   },

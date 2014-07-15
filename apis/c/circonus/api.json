@@ -2,7 +2,6 @@
   "id": "circonus",
   "title": "Circonus",
   "link": "https://login.circonus.com/resources/api",
-  "image": "https://login.circonus.com/i/present/product-logo-rev2.png",
   "author": {
     "name": "Circonus"
   },

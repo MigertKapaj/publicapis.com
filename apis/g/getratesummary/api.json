@@ -2,7 +2,6 @@
   "id": "getratesummary",
   "title": "GetRateSummary",
   "link": "http://www.zillow.com/howto/api/GetRateSummary.htm",
-  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
   "author": {
     "name": "Zillow"
   },

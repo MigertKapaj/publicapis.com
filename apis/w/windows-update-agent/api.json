@@ -2,7 +2,6 @@
   "id": "windows-update-agent",
   "title": "Windows Update Agent",
   "link": "http://msdn.microsoft.com/en-us/library/windows/desktop/aa387099(v=vs.85).aspx",
-  "image": "http://i.msdn.microsoft.com/Areas/Epx/Themes/Windows/Content/Windows_logo.png",
   "author": {
     "name": "Windows Dev Center Desktop"
   },

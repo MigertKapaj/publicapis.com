@@ -2,7 +2,6 @@
   "id": "philips-hue",
   "title": "Philips hue",
   "link": "http://developers.meethue.com/",
-  "image": "http://www.meethue.com/public/images/logos/hue-logo.png",
   "author": {
     "name": "Philips hue"
   },

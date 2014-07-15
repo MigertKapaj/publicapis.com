@@ -2,7 +2,6 @@
   "id": "newt",
   "title": "Newt",
   "link": "https://newt.nersc.gov/api/",
-  "image": "https://newt.nersc.gov/images/logo.png",
   "author": {
     "name": "Newt"
   },

@@ -2,7 +2,6 @@
   "id": "energy-saver",
   "title": "Energy Saver",
   "link": "https://developers.buildingsapi.lbl.gov/hes/documentation/api-definitions",
-  "image": "https://developers.buildingsapi.lbl.gov/logo_eiq.png",
   "author": {
     "name": "Berkeley Lab"
   },

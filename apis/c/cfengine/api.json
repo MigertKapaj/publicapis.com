@@ -2,7 +2,6 @@
   "id": "cfengine",
   "title": "CFEngine",
   "link": "http://cfengine.com/enterprise",
-  "image": "https://cfengine.com/docs/3.5/media/images/logo.png",
   "author": {
     "name": "CFEngine"
   },

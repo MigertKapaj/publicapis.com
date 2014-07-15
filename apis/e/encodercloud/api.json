@@ -2,7 +2,6 @@
   "id": "encodercloud",
   "title": "EncoderCloud",
   "link": "http://www.encodercloud.com/docs/api",
-  "image": "http://www.encodercloud.com/web/images/layout/encodercloud-logo.gif",
   "author": {
     "name": "EncoderCloud"
   },

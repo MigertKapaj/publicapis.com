@@ -2,7 +2,6 @@
   "id": "ifixit",
   "title": "iFixit",
   "link": "http://www.ifixit.com/api/0.1/doc",
-  "image": "http://d1luk0418egahw.cloudfront.net/static/images/home/IFIXIT-logo.png",
   "author": {
     "name": "iFixit"
   },

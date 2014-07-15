@@ -2,7 +2,6 @@
   "id": "opencyc",
   "title": "OpenCyc",
   "link": "http://www.cyc.com/platform/opencyc",
-  "image": "http://www.cyc.com/sites/all/themes/omega_cycorp/logo.png",
   "author": {
     "name": "Cycorp"
   },

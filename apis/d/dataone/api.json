@@ -2,7 +2,6 @@
   "id": "dataone",
   "title": "DataONE",
   "link": "http://wiki.datadryad.org/DataONE_RESTful_API",
-  "image": "http://wiki.datadryad.org/wg/dryad/images/dryad_logo.png",
   "author": {
     "name": "Dryad"
   },

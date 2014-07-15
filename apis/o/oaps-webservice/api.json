@@ -2,7 +2,6 @@
   "id": "oaps-webservice",
   "title": "OAPS Webservice",
   "link": "http://oaps.eu/project/soap/",
-  "image": "http://oaps.eu/include/image/oaps_beta_small.png",
   "author": {
     "name": "oaps"
   },

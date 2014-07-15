@@ -2,7 +2,6 @@
   "id": "pocket",
   "title": "Pocket",
   "link": "http://getpocket.com/developer/docs/authentication",
-  "image": "http://getpocket.com/i/v3/pocket_logo.png",
   "author": {
     "name": "Pocket"
   },

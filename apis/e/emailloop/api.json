@@ -2,7 +2,6 @@
   "id": "emailloop",
   "title": "EmailLoop",
   "link": "http://www.emailloop.net/api/api.html",
-  "image": "http://www.emailloop.net/images/emaillooplogo.png",
   "author": {
     "name": "EmailLoop"
   },

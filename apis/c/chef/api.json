@@ -2,7 +2,6 @@
   "id": "chef",
   "title": "Chef",
   "link": "http://www.opscode.com/support/",
-  "image": "http://docs.opscode.com/_static/chef_html_logo.png",
   "author": {
     "name": "Chef Documents"
   },

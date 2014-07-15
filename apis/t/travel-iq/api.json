@@ -2,7 +2,6 @@
   "id": "travel-iq",
   "title": "Travel IQ",
   "link": "https://booking-apiv3.travel-iq.com/bookings",
-  "image": "https://booking-apiv3.travel-iq.com/images/logo_traveliq.png",
   "author": {
     "name": "Travel IQ"
   },

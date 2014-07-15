@@ -2,7 +2,6 @@
   "id": "data-feed-barcode",
   "title": "Data Feed / Barcode",
   "link": "http://eandata.com/feed/",
-  "image": "http://eandata.com/image/title.png",
   "author": {
     "name": "Ean data"
   },

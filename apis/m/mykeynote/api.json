@@ -2,7 +2,6 @@
   "id": "mykeynote",
   "title": "MyKeynote",
   "link": "https://api.keynote.com",
-  "image": "https://api.keynote.com/apiconsole/includes/images/api_logo.png",
   "author": {
     "name": "Keynote"
   },

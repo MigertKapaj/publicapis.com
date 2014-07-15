@@ -2,7 +2,6 @@
   "id": "paymo",
   "title": "Paymo",
   "link": "http://api.paymo.biz/",
-  "image": "http://api.paymo.biz/images/paymo_logo.jpg",
   "author": {
     "name": "Paymo"
   },

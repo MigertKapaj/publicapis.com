@@ -2,7 +2,6 @@
   "id": "aidsinfo",
   "title": "AIDSinfo",
   "link": "http://aidsinfo.nih.gov/api",
-  "image": "http://aidsinfo.nih.gov/images/logos.png",
   "author": {
     "name": "AIDSinfo"
   },

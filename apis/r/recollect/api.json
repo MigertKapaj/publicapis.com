@@ -2,7 +2,6 @@
   "id": "recollect",
   "title": "Recollect",
   "link": "https://recollect.net/api.html",
-  "image": "https://recollect.a.ssl.fastly.net/0.11.1395181456/images/anaconda/logos/recollect_white.png",
   "author": {
     "name": "ReCollect"
   },

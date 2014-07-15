@@ -2,7 +2,6 @@
   "id": "the-github-jobs",
   "title": "The GitHub Jobs",
   "link": "https://jobs.github.com/api",
-  "image": "https://jobs.github.com/images/layout/logo.png",
   "author": {
     "name": "GitHub Jobs"
   },

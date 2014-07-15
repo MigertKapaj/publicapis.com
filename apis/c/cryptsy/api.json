@@ -2,7 +2,6 @@
   "id": "cryptsy",
   "title": "Cryptsy",
   "link": "https://www.cryptsy.com/pages/api",
-  "image": "https://www.cryptsy.com/img/biglogo.png",
   "author": {
     "name": "Cryptsy"
   },

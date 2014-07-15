@@ -2,7 +2,6 @@
   "id": "aws-identity-and-access-management",
   "title": "AWS Identity and Access Management ",
   "link": "http://aws.amazon.com/documentation/iam/",
-  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
   "author": {
     "name": "Amazon Web Service"
   },

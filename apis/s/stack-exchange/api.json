@@ -2,7 +2,6 @@
   "id": "stack-exchange",
   "title": "Stack Exchange",
   "link": "https://api.stackexchange.com/",
-  "image": "https://cdn.sstatic.net/apiv2/img/big-logo.png?v=2",
   "author": {
     "name": "Stack Exchange"
   },

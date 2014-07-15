@@ -2,7 +2,6 @@
   "id": "court-listner",
   "title": "Court Listner",
   "link": "https://www.courtlistener.com/api/rest-info/",
-  "image": "https://www.courtlistener.com/static/png/logo.png",
   "author": {
     "name": "Courtlistener"
   },

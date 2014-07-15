@@ -2,7 +2,6 @@
   "id": "soda",
   "title": "SODA",
   "link": "https://data.edmonton.ca/",
-  "image": "http://dev.socrata.com/images/soda-logo.png",
   "author": {
     "name": "Socrata"
   },

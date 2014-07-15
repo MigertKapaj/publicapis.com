@@ -2,7 +2,6 @@
   "id": "dublin-city-community-maps",
   "title": "Dublin City Community Maps",
   "link": "http://www.dublin.ie/maps/api",
-  "image": "http://www.dublin.ie/maps/img/layout/dccmaps_logo.png",
   "author": {
     "name": "Dublin City Community Maps"
   },

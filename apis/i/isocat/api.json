@@ -2,7 +2,6 @@
   "id": "isocat",
   "title": "ISOcat",
   "link": "http://www.isocat.org/rest/help.html",
-  "image": "https://catalog.clarin.eu/isocat/interface/JSXAPPS/ISOcat/images/banner.png",
   "author": {
     "name": "ISOcat"
   },

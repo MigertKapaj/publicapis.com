@@ -2,7 +2,6 @@
   "id": "hp-cloud-dns",
   "title": "HP Cloud DNS",
   "link": "http://docs.hpcloud.com/api/dns/",
-  "image": "http://docs.hpcloud.com/images/hp-public-cloud-logo.png",
   "author": {
     "name": "HP Cloud "
   },

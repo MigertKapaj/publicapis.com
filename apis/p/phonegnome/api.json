@@ -2,7 +2,6 @@
   "id": "phonegnome",
   "title": "PhoneGnome",
   "link": "http://my.phonegnome.com/api/",
-  "image": "http://my.phonegnome.com/api/images/myapi_banner.gif",
   "author": {
     "name": "My PhoneGnome"
   },

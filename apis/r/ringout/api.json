@@ -2,7 +2,6 @@
   "id": "ringout",
   "title": "RingOut",
   "link": "http://service.ringcentral.com/ringoutapi/",
-  "image": "http://service.ringcentral.com/picture/ringcentral/rc-logo-white-background.gif",
   "author": {
     "name": "RingCentral"
   },

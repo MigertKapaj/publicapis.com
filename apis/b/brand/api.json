@@ -2,7 +2,6 @@
   "id": "brand",
   "title": "Brand",
   "link": "http://developer.zappos.com/docs/api-brand",
-  "image": "http://developer.zappos.com/sites/default/files/logo.png",
   "author": {
     "name": "Zappos"
   },

@@ -2,7 +2,6 @@
   "id": "share",
   "title": "Share",
   "link": "https://www.shareaholic.com/api/",
-  "image": "https://shareaholic.com/assets/layouts/shareaholic-logo.png",
   "author": {
     "name": "Shareaholic"
   },

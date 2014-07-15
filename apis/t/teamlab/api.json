@@ -2,7 +2,6 @@
   "id": "teamlab",
   "title": "Teamlab",
   "link": "http://api.teamlab.com/2.0/",
-  "image": "http://api.teamlab.com/2.0/content/sprite/sprite.png",
   "author": {
     "name": "Teamlab"
   },

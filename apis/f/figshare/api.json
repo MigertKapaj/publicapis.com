@@ -2,7 +2,6 @@
   "id": "figshare",
   "title": "Figshare",
   "link": "http://api.figshare.com/docs/intro.html#authentication",
-  "image": "http://api.figshare.com/docs/_static/figshare_logo.png",
   "author": {
     "name": "Figshare"
   },

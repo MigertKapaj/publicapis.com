@@ -2,7 +2,6 @@
   "id": "seismi",
   "title": "Seismi",
   "link": "http://www.seismi.org/api/",
-  "image": "http://www.seismi.org/api/docs/images/seismi-logo.png",
   "author": {
     "name": "Seismi"
   },

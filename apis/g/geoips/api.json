@@ -2,7 +2,6 @@
   "id": "geoips",
   "title": "GeoIPs",
   "link": "http://www.geoips.com/en/developer",
-  "image": "http://www.geoips.com/assets/img/logo/geoips-logo.png",
   "author": {
     "name": "GeoIPs"
   },

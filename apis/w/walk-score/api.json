@@ -2,7 +2,6 @@
   "id": "walk-score",
   "title": "Walk Score",
   "link": "http://www.walkscore.com/professional/api.php",
-  "image": "http://cdn2.walk.sc/2/images/walkscore-professional.gif",
   "author": {
     "name": "Walk Score"
   },

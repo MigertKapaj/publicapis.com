@@ -2,7 +2,6 @@
   "id": "aws-elastic-beanstalk",
   "title": "AWS Elastic Beanstalk",
   "link": "http://aws.amazon.com/archives/AWS-Elastic-Beanstalk",
-  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
   "author": {
     "name": "Amazon Web Service"
   },

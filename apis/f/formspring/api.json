@@ -2,7 +2,6 @@
   "id": "formspring",
   "title": "Formspring",
   "link": "http://new.spring.me/#!/user/api/timeline/responses",
-  "image": "http://cdn.spring.me/img/sprites/icon-logo-wide.png",
   "author": {
     "name": "spring.me"
   },

@@ -2,7 +2,6 @@
   "id": "tidespy-raw-data",
   "title": "TideSpy Raw Data",
   "link": "http://tidespy.com/client/RawApi.php",
-  "image": "http://tidespy.com/images/TidespyCap.png",
   "author": {
     "name": "TideSpy"
   },

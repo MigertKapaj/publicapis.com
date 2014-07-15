@@ -2,7 +2,6 @@
   "id": "tradier",
   "title": "Tradier",
   "link": "https://developer.tradier.com/documentation/oauth/authorization-code",
-  "image": "https://developer.tradier.com/images/tradier-developer-logo.png",
   "author": {
     "name": "Tradier Developer"
   },
