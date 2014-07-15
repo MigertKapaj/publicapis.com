@@ -1,11 +1,12 @@
 module.exports = function (grunt) {
   'use strict';
 
-  var _     = require('underscore');
+  var _     = require('lodash');
+  var fs    = require('fs');
   var swig  = require('swig');
   var path  = require('path');
 
-  grunt.registerMultiTask('render', 'Render HTML.', function () {
+  grunt.registerMultiTask('render', 'Render HTML', function () {
     grunt.log.writeln('Writing HTML');
 
     this.data.locals.apis = grunt.file.readJSON(this.data.json);
@@ -13,7 +14,7 @@ module.exports = function (grunt) {
     grunt.file.expand(this.data.pages).forEach(function (page) {
       var name = path.basename(page);
 
-      this.data.locals.path = this.data.dest + '/' + name;
+      this.data.locals.path = this.data.dest + path.sep + name;
 
       var html = swig.renderFile(page, this.data.locals);
       grunt.file.write(this.data.locals.path, html);
@@ -22,10 +23,29 @@ module.exports = function (grunt) {
     this.data.locals.apis.forEach(function (api) {
       var locals = _.extend(this.data.locals, api);
 
-      locals.path = this.data.dest + '/api/' + api.id.charAt(0).toLowerCase() + '/' + api.id + '.html';
+      locals.path = this.data.dest + '/api/' + api.id.charAt(0).toLowerCase() + path.sep + api.id + '.html';
 
       var html = swig.renderFile(this.data.template, locals);
       grunt.file.write(locals.path, html);
+    }.bind(this));
+  });
+
+  grunt.registerMultiTask('sort', 'Sort JSON API Files', function () {
+    grunt.log.writeln('Sorting APIs');
+
+    grunt.file.expand(this.data.src).forEach(function (api) {
+      var name = path.basename(api);
+      var directory = name.charAt(0).toLowerCase();
+      var base = path.dirname(api);
+
+      if (path.basename(base) != directory) {
+        var dest = base + path.sep + directory + path.sep;
+
+        grunt.log.writeln('Moving ' + api + ' to: ' + dest + name);
+
+        fs.mkdir(dest);
+        fs.renameSync(api, dest + name);
+      }
     }.bind(this));
   });
 
@@ -195,6 +215,12 @@ module.exports = function (grunt) {
       }
     },
 
+    sort: {
+      dist: {
+        src: ['<%= path.json %>']
+      }
+    },
+
     render: {
       dist: {
         dest: '<%= path.dest %>',
@@ -299,6 +325,7 @@ module.exports = function (grunt) {
     'cssmin',
     'uglify',
     'imagemin',
+    'sort',
     'minjson',
     'render'
   ]);
