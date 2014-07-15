@@ -377,7 +377,8 @@ module.exports = function (grunt) {
 
   grunt.registerTask('default', [
     'build',
-    'check'
+    'check',
+    'imagemin:assets'
   ]);
 
   grunt.registerTask('serve', [
