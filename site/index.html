@@ -1,6 +1,41 @@
 {% extends 'includes/layout.html' %}
 
 {% block content %}
-  <div class="row" id="list"></div>
+  <ul class="nav nav-pills nav-justified" role="tablist">
+    <li class="active"><a href="#featured" role="tab" data-toggle="tab">Featured</a></li>
+
+    <li><a href="#num" role="tab" data-toggle="tab">#</a></li>
+
+    {% for group, apis in sorted %}
+      {% if group !== 'num' %}
+        <li><a href="#{{ group }}" role="tab" data-toggle="tab">{{ group | upper }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <div class="row" id="list">
+    <div class="tab-content">
+       <div class="tab-pane fade in active" id="featured">
+       </div>
+
+        {% for group, apis in sorted %}
+          <div class="tab-pane fade" id="{{ group }}">
+            {% for api in apis %}
+              <div class="item">
+                <a href="/api/{{ group }}/{{ api.id }}.html" class="api">
+                  <div class="logo">
+                    <span class="helper"></span>
+                    <img src="{{ api.image }}"/>
+                  </div>
+
+                  <h3>{{ api.title }}</h3>
+                  <p>{{ api.description }}</p>
+                </a>
+              </div>
+            {% endfor %}
+          </div>
+        {% endfor %}
+      </div>
+  </div>
 {% endblock %}
 

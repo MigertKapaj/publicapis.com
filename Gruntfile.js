@@ -6,10 +6,27 @@ module.exports = function (grunt) {
   var swig  = require('swig');
   var path  = require('path');
 
+  /* Render HTML pages with Swig */
   grunt.registerMultiTask('render', 'Render HTML', function () {
     grunt.log.writeln('Writing HTML');
 
+    this.data.locals.sorted = {};
     this.data.locals.apis = grunt.file.readJSON(this.data.json);
+
+    // group into alphabetized list
+    this.data.locals.apis.forEach(function (api) {
+      var group = api.id.charAt(0).toLowerCase();
+
+      if (!isNaN(group)) {
+        group = 'num';
+      }
+
+      if (this.data.locals.sorted.hasOwnProperty(group) === false) {
+        this.data.locals.sorted[group] = [];
+      }
+
+      this.data.locals.sorted[group].push(api);
+    }.bind(this));
 
     grunt.file.expand(this.data.pages).forEach(function (page) {
       var name = path.basename(page);
@@ -22,24 +39,34 @@ module.exports = function (grunt) {
 
     this.data.locals.apis.forEach(function (api) {
       var locals = _.extend(this.data.locals, api);
+      var group = api.id.charAt(0).toLowerCase();
 
-      locals.path = this.data.dest + '/api/' + api.id.charAt(0).toLowerCase() + path.sep + api.id + '.html';
+      if (!isNaN(group)) {
+        group = 'num';
+      }
+
+      locals.path = this.data.dest + '/api/' + group + path.sep + api.id + '.html';
 
       var html = swig.renderFile(this.data.template, locals);
       grunt.file.write(locals.path, html);
     }.bind(this));
   });
 
+  /* sort and organize API JSON files */
   grunt.registerMultiTask('sort', 'Sort JSON API Files', function () {
     grunt.log.writeln('Sorting APIs');
 
     grunt.file.expand(this.data.src).forEach(function (api) {
       var name = path.basename(api);
-      var directory = name.charAt(0).toLowerCase();
-      var base = path.dirname(api);
+      var group = name.charAt(0).toLowerCase();
 
-      if (path.basename(base) != directory) {
-        var dest = base + path.sep + directory + path.sep;
+      if (!isNaN(group)) {
+        group = 'num';
+      }
+
+      // check if it lives in the correct folder
+      if (path.basename(path.dirname(api)) != group) {
+        var dest = this.data.dest + path.sep + group + path.sep;
 
         grunt.log.writeln('Moving ' + api + ' to: ' + dest + name);
 
@@ -217,7 +244,8 @@ module.exports = function (grunt) {
 
     sort: {
       dist: {
-        src: ['<%= path.json %>']
+        src: ['<%= path.json %>'],
+        dest: ['apis']
       }
     },
 
