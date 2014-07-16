@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "name": "publicapis.com",
+  "author": "Ahmad Nassri <ahmad@mashape.com> (http://mashape.com)",
+  "devDependencies": {
+    "bootstrap": "~3.2.0",
+    "jquery-unveil": "~1.3.0"
+  }
+}

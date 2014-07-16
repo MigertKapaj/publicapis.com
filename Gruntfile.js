@@ -29,6 +29,11 @@ module.exports = function (grunt) {
       this.data.locals.sorted[group].push(api);
     }.bind(this));
 
+    // custom swig filter
+    swig.setFilter('charAt', function (input, idx) {
+      return input.charAt(idx);
+    });
+
     // render standalone pages
     grunt.file.expand(this.data.pages).forEach(function (page) {
       var name = path.basename(page);
@@ -118,7 +123,7 @@ module.exports = function (grunt) {
         files: [{
           expand: true,
           cwd: 'apis',
-          src: ['**/logo.jpg'],
+          src: ['**/*.{png, jpg}'],
           dest: '<%= path.dest %>/assets/logos/',
         }]
       }
@@ -220,6 +225,15 @@ module.exports = function (grunt) {
           cwd: '<%= path.site %>/assets',
           src: ['CNAME', 'robots.txt'],
           dest: '<%= path.dest %>'
+        }]
+      },
+
+      logos: {
+        files: [{
+          expand: true,
+          cwd: 'apis',
+          src: ['**/*.{png, jpg}'],
+          dest: '<%= path.dest %>/assets/logos/',
         }]
       }
     },
@@ -369,7 +383,7 @@ module.exports = function (grunt) {
     'csscomb',
     'cssmin',
     'uglify',
-    'imagemin',
+    'imagemin:assets',
     //'sort',
     'minjson',
     'render'
@@ -389,6 +403,7 @@ module.exports = function (grunt) {
   grunt.registerTask('deploy', [
     'default',
     'htmlmin',
+    'imagemin:logos',
     'gh-pages'
   ]);
 };
