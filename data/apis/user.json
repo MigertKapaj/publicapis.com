@@ -1,0 +1,14 @@
+{
+  "id": "user",
+  "title": "User",
+  "link": "https://api.yottaa.com/UserApi.html",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTCEBo6nmjz_VDXrpI6FdN4vjNpwfzjW9wEmpy8zjoE7mS603aM",
+  "author": {
+    "name": "Yottaa"
+  },
+  "tags": [
+    "Information",
+    "Setting"
+  ],
+  "description": "Users API allow 3rd party applications to access information and setting that are within a user. And Users API also allow end user to access your own data at Yottaa."
+}

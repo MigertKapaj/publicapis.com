@@ -1,0 +1,16 @@
+{
+  "id": "subtitlesource",
+  "title": "SubtitleSource",
+  "link": "http://www.subtitlesource.org/help/api",
+  "image": "http://www.subtitlesource.org/images/logo2.jpg",
+  "author": {
+    "name": "SubtitleSource"
+  },
+  "tags": [
+    "Provide",
+    "Description",
+    "Purpose",
+    "Data"
+  ],
+  "description": "All our APIs are using XML. This API is only open for webapplications, provide a description of your webpage, its purpose and how you intend to use the data from our API in your application."
+}

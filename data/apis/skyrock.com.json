@@ -1,0 +1,15 @@
+{
+  "id": "skyrock.com",
+  "title": "Skyrock.com",
+  "link": "http://www.skyrock.com/developer/documentation/",
+  "image": "http://static.v5.skyrock.net/img/api/logo_skyrockv5_dev.png",
+  "author": {
+    "name": "Skyrock"
+  },
+  "tags": [
+    "Interact",
+    "Messaging",
+    "Activities"
+  ],
+  "description": "Skyrock.com API allows an application to interact with most features proposed by Skyrock.com: blogs, profiles, messaging, \"what's new\", friends and activities."
+}

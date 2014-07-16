@@ -1,0 +1,16 @@
+{
+  "id": "semiocast",
+  "title": "Semiocast",
+  "link": "http://developer.semiocast.com/",
+  "image": "http://developer.semiocast.com/images/tagging.png",
+  "author": {
+    "name": "Semiocast"
+  },
+  "tags": [
+    "Messages",
+    "Sematic",
+    "Location",
+    "Annotations"
+  ],
+  "description": "analyze micro-messages, timelines and feeds to get semantic information such as language, user location, topics or sentiment;filter timelines and feeds according to languages and locations;prepare annotations based on semantic analysis for a message to be posted on Twitter;"
+}

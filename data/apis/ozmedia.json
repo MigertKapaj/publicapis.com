@@ -1,0 +1,16 @@
+{
+  "id": "ozmedia",
+  "title": "OzMedia",
+  "link": "http://www.ozmedia.com/api.html",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSvswO7Rwmh_lDuG2Qp0kfb4AMZ6coUh4HUmzrOJstFxk1jpSvr",
+  "author": {
+    "name": "OzMedia"
+  },
+  "tags": [
+    "Web",
+    "Emails",
+    "Messages",
+    "Standards"
+  ],
+  "description": "OzMedia offers an API, using Web Services, that you can use to send faxes, email, SMS’s and voice messages directly from any server based application or desktop system and check the status of your messages and get reports back. The API sends and receives messages using SOAP ( Simple Object Access Protocol) over HTTP. The Web Service is cross-platform and conforms to the Web Service Standards. The interface can be implemented using .Net or Java systems, or indeed any SOAP tool kit will work. "
+}

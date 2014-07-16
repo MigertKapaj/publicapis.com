@@ -1,0 +1,16 @@
+{
+  "id": "urbarama",
+  "title": " UrbArAmA",
+  "link": "http://en.urbarama.com/api",
+  "image": "http://en.urbarama.com/images/logo_urbarama_3.png",
+  "author": {
+    "name": " UrbArAmA"
+  },
+  "tags": [
+    "Interact",
+    "Returns",
+    "Web",
+    "Response"
+  ],
+  "description": "The urbArAmA Application Programming Interface (API) has been created to let users and partners interact programmatically with urbArAmA. The API returns urbArAmA data in a form that can be easily integrated into an application or a web site.The API accepts REST requests and offers two response types: XML and JSON"
+}

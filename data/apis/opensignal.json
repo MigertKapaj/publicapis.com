@@ -1,0 +1,16 @@
+{
+  "id": "opensignal",
+  "title": "OpenSignal",
+  "link": "http://developer.opensignal.com",
+  "image": "http://opensignal.com/assets/images/common/header/opensignal-developers-logo-300x56.png",
+  "author": {
+    "name": "OpenSignal"
+  },
+  "tags": [
+    "Averages",
+    "Networks",
+    "Information",
+    "Code"
+  ],
+  "description": "This API the signal averages for all networks contained within a specified area.TowerInfo - This API returns all information collected for towers based on the cell id and local area code (CID and LAC)."
+}

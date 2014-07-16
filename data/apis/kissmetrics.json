@@ -1,0 +1,16 @@
+{
+  "id": "kissmetrics",
+  "title": "KISSmetrics",
+  "link": "http://support.kissmetrics.com/apis/",
+  "image": "http://support.kissmetrics.com/assets/images/km_logo.png",
+  "author": {
+    "name": "KISSmetrics"
+  },
+  "tags": [
+    "Official",
+    "Languages",
+    "Data",
+    "Integration"
+  ],
+  "description": "KISSmetrics provides an official API for several languages. For most users we recommend using the JavaScript Library. Please also consider using our other ways of sending us data, as we are including direct integrations with several platforms like Mailchimp, Recurly, and your own MySQL database."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "icharts",
+  "title": "iCharts",
+  "link": "http://www.icharts.net/api",
+  "image": "http://www.icharts.net/sites/all/themes/bootstrap_icharts/img/logo.png",
+  "author": {
+    "name": "iCharts"
+  },
+  "tags": [
+    "Data",
+    "Resides",
+    "Chart",
+    "Privately"
+  ],
+  "description": "Use the iCharts Data API to power any chart you create with the iCharts Studio directly from your database. The iCharts chart widget will fetch the latest data from your database whenever the page the chart resides on is refreshed. You can embed a live chart on any website, public or privately, behind a firewall or a paywall."
+}

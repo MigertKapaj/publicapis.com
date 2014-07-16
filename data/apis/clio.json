@@ -1,0 +1,15 @@
+{
+  "id": "clio",
+  "title": "Clio",
+  "link": "http://api-docs.goclio.com/v2/index.html",
+  "image": "http://api-docs.goclio.com/_static/clio_gem_logo.png",
+  "author": {
+    "name": "Clio"
+  },
+  "tags": [
+    "Developers",
+    "Access",
+    "Data"
+  ],
+  "description": "This API allows third party developers to securely access data and actions in Clio. OAuth 2.0 is used for secure authorization. The API and this document are evolving as needs arise."
+}

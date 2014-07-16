@@ -1,0 +1,15 @@
+{
+  "id": "tincheck",
+  "title": "TINCheck",
+  "link": "https://www.tincheck.com/pages/developer",
+  "image": "https://www.tincheck.com/content/images/tincheck-logo.png",
+  "author": {
+    "name": "TINCheck"
+  },
+  "tags": [
+    "Service",
+    "Developers",
+    "Web"
+  ],
+  "description": "TINCheck offers an integrated web service that allows developers to call all validations programmatically. This enables you to build-in any of TINCheck's validation directly into your existing applications or web pages. "
+}

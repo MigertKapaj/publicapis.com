@@ -1,0 +1,15 @@
+{
+  "id": "peekacity",
+  "title": "PeekaCity",
+  "link": "http://www.peekacity.com/help/API.aspx",
+  "image": "http://www.peekacity.com/images/PeekaCityMainLogo.png",
+  "author": {
+    "name": "PeekaCity"
+  },
+  "tags": [
+    "Enables",
+    "Amenity",
+    "Unmatched"
+  ],
+  "description": "The Peekacity API Network enables member sites to easily add amenity information by offering unmatched local information to keep people coming back."
+}

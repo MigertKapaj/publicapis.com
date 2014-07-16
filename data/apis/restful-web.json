@@ -1,0 +1,15 @@
+{
+  "id": "restful-web",
+  "title": "RESTful web",
+  "link": "http://www.gamercv.com/static/api",
+  "image": "http://www.gamercv.com/images/logo.png?1259892157",
+  "author": {
+    "name": "Gamercv"
+  },
+  "tags": [
+    "Scores",
+    "Web",
+    "Principles"
+  ],
+  "description": "Gamercv provides a RESTful web API to high scores. A RESTful web API (also called a RESTful web service) is a simple web service implemented using HTTP and the principles of REST."
+}

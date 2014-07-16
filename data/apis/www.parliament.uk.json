@@ -1,0 +1,15 @@
+{
+  "id": "www.parliament.uk",
+  "title": "www.parliament.uk",
+  "link": "http://findyourmp.parliament.uk/api",
+  "image": "http://findyourmp.parliament.uk/images/parliament-uk-logo.gif",
+  "author": {
+    "name": "www.parliament.uk"
+  },
+  "tags": [
+    "Service",
+    "Provides",
+    "Separated"
+  ],
+  "description": "The Find Your MP service provides output in several formats in addition to HTML - XML, JSON, Javascript, plain text, comma separated values and YAML."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "sentence-recognition",
+  "title": "Sentence Recognition",
+  "link": "http://www.SentenceRecognition.com",
+  "image": "",
+  "author": {
+    "name": "Sentence Recognition"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The Sentence Recognition API allows you to match strings of text based off of their meaning. The API is free and currently in Beta testing. Please register if you would like an API key to join the Beta."
+}

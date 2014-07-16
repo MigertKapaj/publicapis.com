@@ -1,0 +1,16 @@
+{
+  "id": "bitx",
+  "title": "BitX",
+  "link": "https://bitx.co.za/api",
+  "image": "https://bitx.co.za/static/images/logo.png",
+  "author": {
+    "name": "BitX"
+  },
+  "tags": [
+    "Exchanges",
+    "Software",
+    "Technology",
+    "Security"
+  ],
+  "description": "BitX South Africa is part of the BitX Global network of Bitcoin exchanges. These exchanges have exclusive access to exchange and security software built by Switchless, the company that builds Bitcoin software for financial institutions. This means that all the BitX exchanges operate on a world-class technology platform that has been bank-tested and put through rigorous security tests."
+}

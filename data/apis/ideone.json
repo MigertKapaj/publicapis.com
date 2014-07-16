@@ -1,0 +1,15 @@
+{
+  "id": "ideone",
+  "title": "Ideone",
+  "link": "http://ideone.com/sphere-engine",
+  "image": "http://okta3.ideone.com/gfx2/img/logo25h.png",
+  "author": {
+    "name": "Ideone"
+  },
+  "tags": [
+    "Describes",
+    "Data",
+    "Webservice"
+  ],
+  "description": "This document describes ideone.com webservice. It is explained in here how the methods should be\nused and how to interpret data returned by them."
+}

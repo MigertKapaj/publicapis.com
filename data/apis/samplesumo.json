@@ -1,0 +1,15 @@
+{
+  "id": "samplesumo",
+  "title": "SampleSumo",
+  "link": "https://www.samplesumo.com/",
+  "image": "https://www.samplesumo.com/sites/all/themes/tsamplesumo/logo.png",
+  "author": {
+    "name": "Samplesumo"
+  },
+  "tags": [
+    "Software",
+    "Audio",
+    "Musicians"
+  ],
+  "description": "SampleSumo combines music software development, intelligent audio processing and hands-on experience with music creation tools to build solutions for end-users (musicians, gamers, producers, ...) and media-industry companies."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pocket",
+  "title": "Pocket",
+  "link": "http://getpocket.com/developer/docs/authentication",
+  "image": "http://getpocket.com/i/v3/pocket_logo.png",
+  "author": {
+    "name": "Pocket"
+  },
+  "tags": [
+    "Variant",
+    "Security",
+    "Information"
+  ],
+  "description": "The Pocket Authentication API uses a variant of OAuth 2.0 for authentication. OAuth 2.0 is meant to be straightforward to implement, and also provides increased security for user authentication because 3rd party client apps no longer need to request or store a user's login information to authenticate with Pocket. "
+}

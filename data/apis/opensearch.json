@@ -1,0 +1,15 @@
+{
+  "id": "opensearch",
+  "title": "OpenSearch",
+  "link": "http://help.brownbook.net/opensearch/",
+  "image": "http://help.brownbook.net/wp-content/themes/default/images/bb_logo2.gif",
+  "author": {
+    "name": "Brownbook.net"
+  },
+  "tags": [
+    "Data",
+    "Compliant",
+    "Results"
+  ],
+  "description": "We believe in openness, and we’ve opened up our data using an OpenSearch compliant API.  This means you can fire an HTTP query at Brownbook.net and received a set of business listing results back as an XML feed."
+}

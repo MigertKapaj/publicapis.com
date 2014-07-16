@@ -1,0 +1,15 @@
+{
+  "id": "world-travel-and-tours",
+  "title": "World Travel And Tours",
+  "link": "http://worldtravelandtours.com/apidocs.php",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR20YLiD9u7-vsdoIEAgcMkYsgW4kNsXgKltWrNt5EYtHk9sODqPg",
+  "author": {
+    "name": "World Travel And Tours"
+  },
+  "tags": [
+    "Reliability",
+    "Document",
+    "Unmodified"
+  ],
+  "description": "Paramaters and calls are passed following the HTTP GET convention. We reccomend, for best reliability, passing them in a URL-friendly form (replacing spaces with %20, for example) Each API call returns an XML document. Some fields may be packaged as a CDATA item, because they may include HTML, such as video or map embedding code, designed to be displayed unmodified.\n\n        "
+}

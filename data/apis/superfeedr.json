@@ -1,0 +1,15 @@
+{
+  "id": "superfeedr",
+  "title": "Superfeedr",
+  "link": "http://superfeedr.com",
+  "image": "https://superfeedr.com/images/superfeedr_complete.png?1397303130",
+  "author": {
+    "name": "Superfeedr"
+  },
+  "tags": [
+    "Realtime",
+    "Data",
+    "Wasting"
+  ],
+  "description": "Superfeedr provides a realtime API to any application who wants to produce (publishers) or consume (subscribers) data feeds without wasting resources and maintaining an \nexpensive and changing infrastructure."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "lingq",
+  "title": "LingQ",
+  "link": "http://www.lingq.com/apidocs/",
+  "image": "",
+  "author": {
+    "name": "LingQ"
+  },
+  "tags": [
+    "HTTP",
+    "Programmatic",
+    "Cookies",
+    "Extesions"
+  ],
+  "description": "LingQ API is a language and platform neutral RESTful protocol. It allows simple programmatic access via HTTP to specific features of LingQ. Before starting to use API, you must receive the API key. Currently, all you have to do is open the page https://www.lingq.com/accounts/apikey/ and use the displayed key in your program. Also, you can use LingQ session cookie for authorization. This might come inhandy for use in browser extensions."
+}

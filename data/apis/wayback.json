@@ -1,0 +1,16 @@
+{
+  "id": "wayback",
+  "title": "Wayback",
+  "link": "http://wwwoh-access.archive.org/wwwoh/waybackapi.htm",
+  "image": "http://wwwoh-access.archive.org/wwwoh/images/logo.png",
+  "author": {
+    "name": "WWI &WWII"
+  },
+  "tags": [
+    "Program",
+    "Systems",
+    "Support",
+    "Humanities"
+  ],
+  "description": "This project was funded under the JISC/NEH transatlantic digitisation collaborative grants program. As part of its Digital Humanities Initiative, the National Endowment for the Humanities (NEH) in the United States joined with the Joint Information Systems Committee (JISC) in the United Kingdom to offer support for digitization projects in the humanities."
+}

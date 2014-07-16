@@ -1,0 +1,16 @@
+{
+  "id": "geniecashbox",
+  "title": "GenieCashBox",
+  "link": "https://geniecashbox.com/api/signup.htm",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRi94p0FzhFyCcs7eqsHvRQWohDUC_iupu7vbP7WzawmfXPKr2z",
+  "author": {
+    "name": "GenieCashBox"
+  },
+  "tags": [
+    "Server",
+    "Knowledge",
+    "Java",
+    "Supported"
+  ],
+  "description": "API integration requires access to a server and knowledge of programming languages PHP, javascript, java, etc.  Variables need to be set dynamically in html. POST and GET methods are supported."
+}

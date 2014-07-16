@@ -1,0 +1,16 @@
+{
+  "id": "coolclimate",
+  "title": "CoolClimate",
+  "link": "http://coolclimate.berkeley.edu/api",
+  "image": "http://coolclimate.berkeley.edu/sites/all/themes/newsflash/images/blue/ccn_logo.png",
+  "author": {
+    "name": "CoolClimate"
+  },
+  "tags": [
+    "Individuals",
+    "Compare",
+    "Advice",
+    "Impact"
+  ],
+  "description": "The CoolClimate Calculator allows individuals or households in the U.S. to calculate their complete carbon footprints, compare their results to similar households and get personalized advice on managing their climate impact. "
+}

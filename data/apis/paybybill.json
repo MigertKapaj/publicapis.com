@@ -1,0 +1,16 @@
+{
+  "id": "paybybill",
+  "title": "PayByBill",
+  "link": "http://www.paybybill.com/how/api/",
+  "image": "http://www.paybybill.com/fileadmin/paybybill_templates/images/logo.png",
+  "author": {
+    "name": "PayByBill"
+  },
+  "tags": [
+    "Functions",
+    "Communicate",
+    "Invoices",
+    "Dedicated"
+  ],
+  "description": "The PayByBill APIs provided by arvato consist of more than 50 functions that can be used to communicate with arvato. In the API integration section we describe in more detail the functions that are used for creating Invoices, Partial payments and My Pages. If you need more information about the APIs please contact arvato sales who will supply you with what you need. \nWhen starting your integration a dedicated project manager will be assigned to you and a detailed integration guidewill help you get underway quickly and succesfully."
+}

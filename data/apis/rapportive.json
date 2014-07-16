@@ -1,0 +1,15 @@
+{
+  "id": "rapportive",
+  "title": "Rapportive",
+  "link": "http://code.rapportive.com/raplet-docs/",
+  "image": "http://code.rapportive.com/images/rapportive-other-pages.png",
+  "author": {
+    "name": "Rapportive"
+  },
+  "tags": [
+    "Data",
+    "Conversations",
+    "Database"
+  ],
+  "description": "Raplets let you take data you have about people, and show it in Gmail next to your email conversations. The basic API is super simple. You could be pulling information from your in-house CRM or other database in no time!"
+}

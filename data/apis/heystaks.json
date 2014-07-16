@@ -1,0 +1,15 @@
+{
+  "id": "heystaks",
+  "title": "Heystaks",
+  "link": "https://api.heystaks.com/doc/1/",
+  "image": "https://www.heystaks.com/sites/all/themes/heystakthemeV2/images/logo-heystaks.png",
+  "author": {
+    "name": "Heystaks"
+  },
+  "tags": [
+    "Weekly",
+    "Information",
+    "Guide"
+  ],
+  "description": "These pages are updated on a weekly basis with all the new api information and updated documentation. As a quick guide you will find the this broken down into 3 main areas."
+}

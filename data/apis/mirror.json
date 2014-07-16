@@ -1,0 +1,15 @@
+{
+  "id": "mirror",
+  "title": "Mirror",
+  "link": "https://developers.google.com/glass/v1/reference/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Service",
+    "Features",
+    "Combine"
+  ],
+  "description": "Many services fall into a few categories of API usage. Here are some stories that illustrate how to combine the features of the Mirror API to create Glass services."
+}

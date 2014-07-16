@@ -1,0 +1,16 @@
+{
+  "id": "mambu",
+  "title": "Mambu ",
+  "link": "http://developer.mambu.com/",
+  "image": "http://developer.mambu.com/images/spacer.gif",
+  "author": {
+    "name": "Mambu "
+  },
+  "tags": [
+    "State",
+    "Transfer",
+    "Resources",
+    "Communication"
+  ],
+  "description": "Mambu API follow the Representational state transfer (REST) standard allowing resources (accounts, client, etc) to be standard with a standard set of GET, POST, PUT, DELETE HTTP requests.Communication with Mambu follows the REST architecture constraints including being stateless & cacheable. All responses are returned as JSON objects ."
+}

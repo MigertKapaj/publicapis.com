@@ -1,0 +1,15 @@
+{
+  "id": "hangouts",
+  "title": "Hangouts",
+  "link": "https://developers.google.com/+/hangouts/getting-started",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Develop",
+    "Inside",
+    "Extension"
+  ],
+  "description": "The Hangouts API enables you to develop collaborative apps that run inside of a Google+ Hangout. You can write your app as either a Hangout application or extension. "
+}

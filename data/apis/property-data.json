@@ -1,0 +1,14 @@
+{
+  "id": "property-data",
+  "title": "Property Data",
+  "link": "http://phlapi.com/opaapi.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsKVbRRISGLjohxIGMCamLhDiON8P0BvUuYsYlBb7QRRNdJ6HY",
+  "author": {
+    "name": "PHL"
+  },
+  "tags": [
+    "Data",
+    "Information"
+  ],
+  "description": "This API exposes data on assessed property values based on information from the Office of Property Assessment (OPA). Currently in beta, subject to change."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "xml-or-json",
+  "title": "XML or JSON",
+  "link": "http://www.myupcoming.com/en/default/api/info",
+  "image": "http://mijnevent.oxynade.netdna-cdn.com/cdn/435/img/logos/myupcomingcom.png",
+  "author": {
+    "name": "My Upcoming"
+  },
+  "tags": [
+    "Return",
+    "Parameters",
+    ""
+  ],
+  "description": "The API can return data in XML (default) or JSON. Specify the format using the fmt GET parameter, which can be set to xml or json. The API does not remember the chosen format, so the parameter needs to be passed in every request."
+}

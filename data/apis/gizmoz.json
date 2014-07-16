@@ -1,0 +1,14 @@
+{
+  "id": "gizmoz",
+  "title": "Gizmoz",
+  "link": "http://gizmozcenter.wordpress.com/developers/",
+  "image": "http://gizmozcenter.files.wordpress.com/2010/06/devcenter_hp_decimator.jpg?w=595",
+  "author": {
+    "name": "Gizmoz"
+  },
+  "tags": [
+    "Service",
+    "Developers"
+  ],
+  "description": "This document focuses on the Gizmoz API functions for creating Digimi 3D characters. The API enables developers to offer services that automatically reconstructs users’ face photo into 3D heads and delivers them using a variety of output formats: images, 3D objects and even fully animated clips."
+}

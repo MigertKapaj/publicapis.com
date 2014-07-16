@@ -1,0 +1,16 @@
+{
+  "id": "the-launchpad-recruits",
+  "title": "The LaunchPad Recruits",
+  "link": "http://developer.launchpadrecruits.com/",
+  "image": "http://developer.launchpadrecruits.com/images/design_images/logo.png?1394536420",
+  "author": {
+    "name": "LaunchPad Recruits"
+  },
+  "tags": [
+    "Guide",
+    "Integrate",
+    "Interviewing",
+    "Service"
+  ],
+  "description": "These pages serve as a guide on how to integrate video interviewing to your application using the LaunchPad Recruits API. This also serves as the reference documentation for our REST API. LaunchPad Recruits makes interviewing online easy. It is a video job interview service that puts people, not CVs, at the heart of the selection process. Quick and easy to use, you'll be ready to go in minutes.\n"
+}

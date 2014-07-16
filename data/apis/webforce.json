@@ -1,0 +1,15 @@
+{
+  "id": "webforce",
+  "title": "WebForce",
+  "link": "http://help.webforce.com/customer/portal/articles/1401804-api-overview",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRibvM6B09UHoa5gEpyA0Fr97ysXl-isi9k83iDjyslnUf_LLq-",
+  "author": {
+    "name": "WebForce"
+  },
+  "tags": [
+    "Enables",
+    "Manage",
+    "Account"
+  ],
+  "description": "WebForce enables resellers and licensees to manage accounts using simple RESTful interface (HTTP GET/POST  requests). You can open, close, update, suspend an account, log-in and others."
+}

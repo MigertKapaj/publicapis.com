@@ -1,0 +1,13 @@
+{
+  "id": "rfc-generator-mexico",
+  "title": "RFC Generator Mexico",
+  "link": "https://www.mashape.com/jfhe88/rfc-generator-mexico",
+  "image": "",
+  "author": {
+    "name": "jfhe88"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Generador de RFC con homoclave, en base al NOMBRE, APELLIDO PATERNO, APELLIDO MATERNO, FECHA DE NACIMIENTO"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "whatrunswhere",
+  "title": "whatrunswhere",
+  "link": "https://github.com/whatrunswhere/api-client",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Access",
+    "Service",
+    "Monitored"
+  ],
+  "description": "You must use your account's API token to access the WRW API. This token can be found in the account settings panel on the WRW web site. Attempts to access the API without a valid API token are actively monitored. To obtain a new API token please contact customer service."
+}

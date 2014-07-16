@@ -1,0 +1,16 @@
+{
+  "id": "natlib",
+  "title": "Natlib",
+  "link": "http://dcregistry.natlib.govt.nz/",
+  "image": "http://dcregistry.natlib.govt.nz/dcregistry/images/header/natlib-logo.gif",
+  "author": {
+    "name": "Natlib"
+  },
+  "tags": [
+    "Designed",
+    "Provides",
+    "Simplifies",
+    "Relationship"
+  ],
+  "description": "The Dublin Core Metadata Initiative's (DCMI) Metadata Registry is designed to promote the discovery and reuse of exiting metadata definitions. It provides users, and applications, with an authoritative source of information about the Dublin Core element set and related vocabularies. This simplifies the discovery of terms and related definitions, and illustrates the relationship between terms. "
+}

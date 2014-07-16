@@ -1,0 +1,15 @@
+{
+  "id": "kepler-project",
+  "title": "Kepler Project",
+  "link": "http://www.asterank.com/kepler",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKu5G_SBaXQ-fUyBlY8QieoNAZzJGwL21drvM8zjv1usBkYs_e",
+  "author": {
+    "name": "Asterank"
+  },
+  "tags": [
+    "Data",
+    "Exoplanets",
+    "Specific"
+  ],
+  "description": "Asterank offers a basic queryable database for NASA's Kepler Project. It is a simple way to quickly apply constraints to a set of over 2,000 exoplanets and unconfirmed \"objects of interest.\" The database supports comparators and specific criteria for all attributes provided by the Kepler Data Explorer. "
+}

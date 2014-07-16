@@ -1,0 +1,15 @@
+{
+  "id": "engrade",
+  "title": "Engrade",
+  "link": "https://www.engrade.com/",
+  "image": "https://www.engrade.com/i/engrade-logo-blue-250.png",
+  "author": {
+    "name": "Engrade"
+  },
+  "tags": [
+    "Educators",
+    "Developers",
+    "Leaders"
+  ],
+  "description": "Engrade is a team made up of educators, developers business leaders, and others passionate about the future of education "
+}

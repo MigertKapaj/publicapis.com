@@ -1,0 +1,16 @@
+{
+  "id": "sharedbook",
+  "title": "SharedBook",
+  "link": "http://www.sharedbook.com/dev/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9evAEFDZ3H8ui1gIhjdZy5OzB5EDU6G3tKjtEUDfzD1j9WTVYww",
+  "author": {
+    "name": "SharedBook"
+  },
+  "tags": [
+    "Integration",
+    "Data",
+    "System",
+    "Internet"
+  ],
+  "description": "SharedBook specializes in integrating and publishing data from a variety of sources. For the most part, data comes to us as text, images or print-ready PDF's. They are transferred into our system via common internet protocols and our platform reformats the assets into the necessary formats."
+}

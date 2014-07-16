@@ -1,0 +1,15 @@
+{
+  "id": "the-shootproof",
+  "title": "The ShootProof",
+  "link": "http://developer.shootproof.com/",
+  "image": "https://d2ojodr5en0mjb.cloudfront.net/201404181397853407/developer/images/head_dev_sm.jpg",
+  "author": {
+    "name": "ShootProof"
+  },
+  "tags": [
+    "Connect",
+    "Orders",
+    "Photos"
+  ],
+  "description": "The ShootProof API allows you to connect your ShootProof account into external systems to view orders, create events/albums, upload photos and more. With the help of a developer, you can tightly integrate your ShootProof account into your backend systems for easy workflows and administration."
+}

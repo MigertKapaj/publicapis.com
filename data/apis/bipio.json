@@ -1,0 +1,13 @@
+{
+  "id": "bipio",
+  "title": "bipio",
+  "link": "https://www.mashape.com/cloudspark/bipio",
+  "image": "",
+  "author": {
+    "name": "cloudspark"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "bipio gives you the power to rapidly create workflows around the cloud components you already love, no programming required. Bring together its supported services to automate common tasks, send messages where you need them or prototype simple applications.\r\n\r\nThe Mashape Console for the bipio API supports the full suite of REST resources detailed in the documentation (https://bip.io/docs) and some select RPC's.\r\n\r\nFor personal support, feel free to reach out to the Google group at https://groups.google.com/forum/?fromgroups#!forum/bipio-api"
+}

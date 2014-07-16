@@ -1,0 +1,16 @@
+{
+  "id": "meteor-ignite",
+  "title": "Meteor Ignite",
+  "link": "https://api.meteorsolutions.com/docs",
+  "image": "",
+  "author": {
+    "name": "Meteor Ignite"
+  },
+  "tags": [
+    "Retrieve",
+    "Data",
+    "Tracker",
+    "Reporting"
+  ],
+  "description": "The Meteor Ignite API allows Meteor clients to retrieve data about campaigns tracked by Meteor Tracker. Developers can use both server-side and client-side technologies to enhance reporting and add dynamic components that include Meteor-specific data to their pages."
+}

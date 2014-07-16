@@ -1,0 +1,16 @@
+{
+  "id": "the-medallia",
+  "title": "The Medallia",
+  "link": "http://developer.medallia.com/",
+  "image": "http://www.medallia.com/images/developer/medallia-dev-logo.png",
+  "author": {
+    "name": "Medallia"
+  },
+  "tags": [
+    "Empowering",
+    "Application",
+    "Interested",
+    "Feedback"
+  ],
+  "description": "The Medallia Data API serves customer feedback data to your applications, empowering your users to listen, act, and win outside the Medallia web application.Please note that the Medallia Data API is only for Medallia customers. If your company is interested in Medallia's Enterprise Feedback Management solutions"
+}

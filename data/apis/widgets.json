@@ -1,0 +1,15 @@
+{
+  "id": "widgets",
+  "title": "Widgets",
+  "link": "http://codex.wordpress.org/Widgets_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Technical",
+    "Developers",
+    "Review"
+  ],
+  "description": "This page contains the technical documentation for the WordPress Widgets API and is written for developers. If you're not a developer you may want to review the Widgets page. "
+}

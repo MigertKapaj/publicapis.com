@@ -1,0 +1,16 @@
+{
+  "id": "family-echo",
+  "title": "Family Echo",
+  "link": "http://www.familyecho.com/?page=api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT_rmurJXryvrWX6_o6Sr3TjC8wSdOH9qoNfKzQBqGVyDBC31kj",
+  "author": {
+    "name": "Family Echo"
+  },
+  "tags": [
+    "Web",
+    "Description",
+    "Format",
+    "Receives"
+  ],
+  "description": "The Family Echo API allows your desktop or web application to display a family tree using the online Family Echo display engine. Your application sends a family description in GEDCOM or FamilyScript format, and receives back a URL that can be used to browse that family interactively for the next 7 days."
+}

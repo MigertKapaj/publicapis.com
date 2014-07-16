@@ -1,0 +1,15 @@
+{
+  "id": "sanfrancisco-crimespotting",
+  "title": "SanFrancisco Crimespotting",
+  "link": "http://sanfrancisco.crimespotting.org/api",
+  "image": "http://sanfrancisco.crimespotting.org/img/logo-small.png",
+  "author": {
+    "name": "SanFrancisco Crimespotting"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Developer"
+  ],
+  "description": "Crimespotting data is available to developers and researchers via a simpe web service. "
+}

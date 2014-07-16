@@ -1,0 +1,14 @@
+{
+  "id": "bump",
+  "title": "Bump",
+  "link": "http://bu.mp/company/api",
+  "image": "http://static.bumpserver.com/images/b_banner.png",
+  "author": {
+    "name": "Bump"
+  },
+  "tags": [
+    "Supported",
+    "Attempts"
+  ],
+  "description": "The Bump API will be no longer supported after 1/31/14. Any attempts to bump after this date won't work."
+}

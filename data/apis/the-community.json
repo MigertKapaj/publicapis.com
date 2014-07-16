@@ -1,0 +1,16 @@
+{
+  "id": "the-community",
+  "title": "The Community",
+  "link": "http://developer.nytimes.com/docs/community_api/",
+  "image": "http://developer.nytimes.com/files/NYTDevLogo.png",
+  "author": {
+    "name": " Community"
+  },
+  "tags": [
+    "Generated",
+    "Content",
+    "Includes",
+    "Reviews"
+  ],
+  "description": "With the Community API, you can get user-generated NYTimes.com content. The current release includes article comments and readers' reviews of movies. (Other types of user-generated content will be available in a later version.)"
+}

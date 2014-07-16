@@ -1,0 +1,16 @@
+{
+  "id": "onsip-xmpp",
+  "title": "OnSIP XMPP",
+  "link": "http://wiki.onsip.com/docs/XMPP_API",
+  "image": "",
+  "author": {
+    "name": "OnSIP XMPP"
+  },
+  "tags": [
+    "Developers",
+    "Notifications",
+    "Commands",
+    "Realtimr=e."
+  ],
+  "description": "The OnSIP XMPP API is an XMPP/PubSub based API that allows developers to receive push notifications for various events inside the OnSIP system. Events include information regarding current call state and user agent state for SIP addresses inside of OnSIP. The other side of the API, the Ad-Hoc commands, allow for connected XMPP clients to perform realtime call control for active calls inside of OnSIP."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "wallet-studio",
+  "title": "Wallet Studio",
+  "link": "https://passtools.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpPa61-HJpu-8qMBvlCEWSlrK4AthkOrT8hx8y9KzxtxAC6AQTxA",
+  "author": {
+    "name": "Wallet Studio"
+  },
+  "tags": [
+    "Simple",
+    "Design",
+    "Template"
+  ],
+  "description": "Wallet Studio provides a simple, yet powerful, drag-and-drop design solution for Apple Passbook and Google Wallet. Anyone can build Passbook passes or Wallet cards in minutes by simply dragging fields onto a template — user names, member numbers, coupon codes, event info, etc."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "justis",
+  "title": "Justis",
+  "link": "http://www.justis.com/about/technology.aspx",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2GteSvpk4PeUdkp_WREru79ugADSAHPdeiEalpeqkL5SokyBjMQ",
+  "author": {
+    "name": "Justis"
+  },
+  "tags": [
+    "Search",
+    "Service",
+    "Interface",
+    "Data"
+  ],
+  "description": "The Justis API provides a way for developers to incorporate our legal search technology into their own web applications. Available as an XML web service, the API exposes a simple external interface to the complete data and functionality of Justis."
+}

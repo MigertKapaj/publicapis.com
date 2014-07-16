@@ -1,0 +1,15 @@
+{
+  "id": "answerhub",
+  "title": "AnswerHub",
+  "link": "http://answerhub.com/developer/restapi/v1",
+  "image": "http://answerhub.com/site/templates/static/images/AH_whitelogo_250x66.png",
+  "author": {
+    "name": "AnswerHub"
+  },
+  "tags": [
+    "Format",
+    "Scalable",
+    "Organizations"
+  ],
+  "description": "AnswerHub uses a question and answer format to capture and share knowledge. It is designed to be highly flexible and scalable, making it a great solution for organizations of any size."
+}

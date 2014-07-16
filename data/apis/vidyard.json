@@ -1,0 +1,15 @@
+{
+  "id": "vidyard",
+  "title": "Vidyard",
+  "link": "http://www.vidyard.com/tour/developers/",
+  "image": "http://www.vidyard.com/wp-content/themes/cobragang/img/logos/vidyard/website_logo.png",
+  "author": {
+    "name": "Vidyard"
+  },
+  "tags": [
+    "Platform",
+    "Interact",
+    "Improve"
+  ],
+  "description": "As the world’s leading video marketing platform, Vidyard can show you exactly how viewers interact with your videos. This means you can continuously improve your marketing strategy based on measurable results."
+}

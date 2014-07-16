@@ -1,0 +1,16 @@
+{
+  "id": "client",
+  "title": "Client",
+  "link": "http://www.ismuser.com/docs",
+  "image": "http://assets.ismuser.com/assets/ism-logo-white-60f27c2cbc78abb086524c17a16fb2cd.png",
+  "author": {
+    "name": "Ismuser"
+  },
+  "tags": [
+    "Defines",
+    "Represents",
+    "Board",
+    "Application"
+  ],
+  "description": "The APP class defines an object which represents an application inside the Magic Board. There will be an APP object for each application in the Magic Board, allowing the control of the applications."
+}

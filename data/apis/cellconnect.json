@@ -1,0 +1,16 @@
+{
+  "id": "cellconnect",
+  "title": "CellConnect",
+  "link": "http://www.programmableweb.com/api/moma-cellconnect",
+  "image": "http://www.programmableweb.com/images/apis/at8008.png",
+  "author": {
+    "name": "Masters of Mobile Arts"
+  },
+  "tags": [
+    "Integration",
+    "Software",
+    "Management",
+    ""
+  ],
+  "description": "The CellConnect API is a mobile connectivity tool that allows for integration with outside business software and systems. The API can be used to send data to customer relationship management software packages for reports on SMS subscription groups, facilitate opt-in to campaigns from a website with confirmation, manage SMS groups, retrieve content from outside websites, and mobile content can be uploaded in bulk to the CellMate content management system. For couponing campaigns, redemption code numbers can be uploaded in bulk, as can phone numbers. Public documentation for the API is not available. \n\n\n"
+}

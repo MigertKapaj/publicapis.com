@@ -1,0 +1,16 @@
+{
+  "id": "interest-rates",
+  "title": "Interest Rates",
+  "link": "http://www.xignite.com/product/XigniteNews/api/GetStockHeadlines/",
+  "image": "http://www.xignite.com/img/global/logo-text.png",
+  "author": {
+    "name": "Xignite"
+  },
+  "tags": [
+    "Interest",
+    "Financial",
+    "Data",
+    "Canadian"
+  ],
+  "description": "This API offers current and historical benchmark interest rates from global financial markets in the U.S., Europe, Canada and Asia. schedules. XigniteRates provides interest rates data for over 600 treasury, money market and private capital market instruments or benchmarks. Key interest rates include LIBOR rates, U.S. H.15 rates, state rates, and Canadian treasury rates."
+}

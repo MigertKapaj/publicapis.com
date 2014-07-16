@@ -1,0 +1,15 @@
+{
+  "id": "price-comparison",
+  "title": "Price Comparison",
+  "link": "http://www.directtextbook.com/api.php",
+  "image": "http://www.directtextbook.com/img/direct-textbook-small.gif",
+  "author": {
+    "name": "DIRECT TEXTBOOK"
+  },
+  "tags": [
+    "Engine",
+    "Search",
+    "Online"
+  ],
+  "description": " Direct Textbook does not sell textbooks. Rather, it is a textbook price comparison search engine that lets students search for the best textbook prices from the web's most popular and reputable online textbook sellers."
+}

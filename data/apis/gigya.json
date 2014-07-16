@@ -1,0 +1,16 @@
+{
+  "id": "gigya",
+  "title": "Gigya",
+  "link": "http://developers.gigya.com/",
+  "image": "http://developers.gigya.com/@api/deki/site/logo.png",
+  "author": {
+    "name": "Gigya"
+  },
+  "tags": [
+    "Reading",
+    "Basic",
+    "Hello",
+    "Instruction"
+  ],
+  "description": "This section is a reference to Gigya's JavaScript & ActionScript3 API. We highly recommend reading the Using the JavaScript API guide. The guide includes a basic example using the API i.e. the \"Hello World\" of Gigya) and instructions for using Gigya's JavaScript API methods."
+}

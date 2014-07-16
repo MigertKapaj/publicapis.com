@@ -1,0 +1,14 @@
+{
+  "id": "intouch",
+  "title": "Intouch",
+  "link": "http://intouch.no/api.php",
+  "image": "http://intouch.no/img/logo_intouch.png",
+  "author": {
+    "name": "Intouch"
+  },
+  "tags": [
+    "Data",
+    "Automatisk"
+  ],
+  "description": "Med Intouch API kan du integrere våre data inn i egne systemer sånn at bare trenger å taste navn eller telefonnummer, og all annen tilgjengelig informasjon blir automatisk lagt inn i systemet. På sekunder har du registrert en komplett oppføring."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bitballoon",
+  "title": "Bitballoon",
+  "link": "https://www.bitballoon.com/api",
+  "image": "https://353a23c500dde3b2ad58-c49fe7e7355d384845270f4a7a0a7aa1.ssl.cf2.rackcdn.com/images/e5caae59b067992cb35f6ed5f0f3d084b94e2278/bitballoon-logo.svg",
+  "author": {
+    "name": "Bitballoon"
+  },
+  "tags": [
+    "Service",
+    "Document",
+    "Provides",
+    "Authentication"
+  ],
+  "description": "BitBalloon is a hosting service for the programmable web. It understands your documents and provides an API to deploy sites, manage form submissions, inject javascript snippets and do intelligent updates of HTML documents. This is a REST-style API that uses JSON for serialization and OAuth 2 for authentication."
+}

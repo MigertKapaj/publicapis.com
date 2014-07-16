@@ -1,0 +1,15 @@
+{
+  "id": "indivo",
+  "title": "Indivo",
+  "link": "http://indivohealth.org/developer-community",
+  "image": "http://indivohealth.org/uploads/images/chip-alt.png",
+  "author": {
+    "name": "chip"
+  },
+  "tags": [
+    "Extensible",
+    "Developed",
+    "Production"
+  ],
+  "description": "Indivo X is the new, web-platform version of Indivo. It is extensible via a standard API, of which significant portions were developed in collaboration with Dossia. A full production version of Indivo X is now available. "
+}

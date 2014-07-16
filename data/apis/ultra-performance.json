@@ -1,0 +1,15 @@
+{
+  "id": "ultra-performance",
+  "title": "Ultra Performance",
+  "link": "https://customers.reuters.com/developer/Kits/UPA/C/ProductOverview.aspx",
+  "image": "https://customers.reuters.com/images/cz-site-name.gif",
+  "author": {
+    "name": "Customer Zone"
+  },
+  "tags": [
+    "Platform",
+    "Features",
+    "OMM Message Model"
+  ],
+  "description": "The Ultra Performance API (UPA) is the second Custom API to support the OMM message model. It is meant to complement RFA by providing users with a choice as to the level of API access and functionality that is appropriate to access the Thomson Reuters Enterprise Platform for Real-time. (See below.) If low-level, raw access is needed and some of the features at the RFA layer can be sacrificed, then UPA is for you."
+}

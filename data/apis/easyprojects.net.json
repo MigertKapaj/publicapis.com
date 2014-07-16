@@ -1,0 +1,15 @@
+{
+  "id": "easyprojects.net",
+  "title": "EasyProjects.NET",
+  "link": "http://api.easyprojects.net/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3e3bpZNhOwstkNqYwnhF1QrW-yjkSDdeHqoCSm3gW1X57V9QP",
+  "author": {
+    "name": "EasyProjects.NET"
+  },
+  "tags": [
+    "Projects",
+    "Activity",
+    "Possible"
+  ],
+  "description": "Implemented as XML/JSON over HTTP, Easy Projects. NET’s API is using all four verbs (GET/POST/PUT/DELETE). Each entity, such as Projects, Activity, or TimeEntry, has its own URL and is handled separately. In other words, we’ve tried to make the API follow the REST principles as closely as possible."
+}

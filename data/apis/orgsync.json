@@ -1,0 +1,15 @@
+{
+  "id": "orgsync",
+  "title": "OrgSync",
+  "link": "https://api.orgsync.com/api/",
+  "image": "https://orgsync.com/assets/api_docs/api-logo-d45177960a214346b59e070c19435ffe.png",
+  "author": {
+    "name": "OrgSync"
+  },
+  "tags": [
+    "Campus",
+    "System",
+    "Resources"
+  ],
+  "description": "The OrgSync API is a way for you to \"sync\" your campus portal system, student information system, and other enterprise resources with OrgSync."
+}

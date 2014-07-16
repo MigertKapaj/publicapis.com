@@ -1,0 +1,16 @@
+{
+  "id": "movylo",
+  "title": "Movylo",
+  "link": "http://www.movylo.com/api.php",
+  "image": "http://www.movylo.com/img/icons/logo_movylo.png",
+  "author": {
+    "name": "Movylo"
+  },
+  "tags": [
+    "Integrate",
+    "Mobile",
+    "Products",
+    "Orders"
+  ],
+  "description": " If you are a developer or agency and want to integrate Movylo with your solution please fill in the following form and we’ll get back to you very soon! If you are a merchant and plan to create a mobile store to be integrated with your existing web store with the Movylo APIs you can: Upload products on MovyloUpload customers on MovyloExport orders from Movylo (when an order is closed via mobile you can fulfill it with your existing solution)"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "settings",
+  "title": "Settings",
+  "link": "http://codex.wordpress.org/Settings_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Admin",
+    "Containing",
+    "Sections"
+  ],
+  "description": "The Settings API, added in WordPress 2.7, allows admin pages containing settings forms to be managed semi-automatically. It lets you define settings pages, sections within those pages and fields within the sections. "
+}

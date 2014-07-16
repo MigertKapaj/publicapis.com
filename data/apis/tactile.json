@@ -1,0 +1,16 @@
+{
+  "id": "tactile",
+  "title": "Tactile",
+  "link": "http://www.tactilecrm.com/api/",
+  "image": "http://www.tactilecrm.com/images/logo.png",
+  "author": {
+    "name": "Tactile CRM"
+  },
+  "tags": [
+    "Access",
+    "Modify",
+    "Data",
+    "Programatically"
+  ],
+  "description": "The Tactile API allows you to access and modify data from your Tactile account programatically, using HTTP and JSON."
+}

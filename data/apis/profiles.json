@@ -1,0 +1,16 @@
+{
+  "id": "profiles",
+  "title": "Profiles",
+  "link": "https://developers.google.com/google-apps/profiles/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Data",
+    "Retrieve",
+    "Owning",
+    "Modified"
+  ],
+  "description": "The Profiles Data API allows client applications to retrieve and update profile information for users in a Google Apps domain. Each user profile is stored in the owning user's Google Account, but it can be modified only by an administrator of the user's domain."
+}

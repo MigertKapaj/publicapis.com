@@ -1,0 +1,16 @@
+{
+  "id": "zip-please",
+  "title": "Zip Please",
+  "link": "https://www.zipplease.com",
+  "image": "https://www.zipplease.com/img/logo.png",
+  "author": {
+    "name": "Zip Please"
+  },
+  "tags": [
+    "Zip file opener",
+    "Zip file",
+    "Zip file extractor",
+    "Zipped files"
+  ],
+  "description": "With Zip Please, your application can create Zip files that are ready to be downloaded instantly. That means no more stressing your servers \ncreating Zip filesthat may only be needed for a short time, or forcing your users to download files individually."
+}

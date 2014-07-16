@@ -1,0 +1,16 @@
+{
+  "id": "scalr",
+  "title": "Scalr",
+  "link": "http://wiki.scalr.net/display/docs/Home",
+  "image": "https://scalr-wiki.atlassian.net/wiki/s/en_GB/4992/fd99fd42970b7b54b9f0c3943d06df9bb0672c3b.7/_/images/logo/confluence-logo.png",
+  "author": {
+    "name": "Scalr"
+  },
+  "tags": [
+    "Execute",
+    "Commands",
+    "Interact",
+    "Servers."
+  ],
+  "description": "Scalr has an API that allows you to execute commands on your infrastructure. The Scalr API can be used to interact with Farms, Farm Roles, Servers."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "frnadb",
+  "title": "fRNAdb",
+  "link": "http://www.ncrna.org/frnadb/doc/api_manual",
+  "image": "",
+  "author": {
+    "name": "ncRNA"
+  },
+  "tags": [
+    "Web",
+    "Application",
+    "Search",
+    "Data retrival"
+  ],
+  "description": "fRNAdb API is a web service using fRNAdb via an application program. fRNAdb API provides search and data retrieval services via REST and SOAP services. The REST service can be accessed using HTTP GET method and the SOAP service can be accessed using HTTP POST method.\n"
+}

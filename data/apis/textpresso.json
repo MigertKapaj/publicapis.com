@@ -1,0 +1,15 @@
+{
+  "id": "textpresso",
+  "title": "Textpresso",
+  "link": "http://www.textpresso.org/neuroscience/",
+  "image": "http://textpresso-www.cacr.caltech.edu/neuroscience//gif/textpresso_neuro.jpg",
+  "author": {
+    "name": "Textpresso"
+  },
+  "tags": [
+    "Processing",
+    "Developed",
+    "Contributions"
+  ],
+  "description": "Textpresso is an information extracting and processing package for biological literature. It was initially developed by Hans-Michael Muller, Eimear Kenny and Paul W. Sternberg, with contributions from Juancarlos Chan and David Chen. This new version (officially known as Textpresso 2.0) was developed by Hans-Michael Muller with contributions from Arun Rangarajan and Tracy K. Teal."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "livedocx",
+  "title": "LiveDocx",
+  "link": "https://api.livedocx.com/",
+  "image": "",
+  "author": {
+    "name": "LiveDocx"
+  },
+  "tags": [
+    "Template",
+    "Creation"
+  ],
+  "description": "LiveDocx is a template-based document creation platform."
+}

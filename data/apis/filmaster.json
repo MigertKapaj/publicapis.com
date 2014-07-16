@@ -1,0 +1,15 @@
+{
+  "id": "filmaster",
+  "title": "Filmaster",
+  "link": "http://filmaster.tv/",
+  "image": "http://filmaster.tv/static/img/filmaster-logo.png",
+  "author": {
+    "name": "Filmaster"
+  },
+  "tags": [
+    "Technologies",
+    "Platforms",
+    "Media"
+  ],
+  "description": "Filmaster provides cloud-based recommendation technologies and solutions for cable providers, VODs, IPTV platforms and cinema chains. Our algorithms learn viewer’s tastes and behaviors and enable media distributors to deliver the right content to the right viewer."
+}

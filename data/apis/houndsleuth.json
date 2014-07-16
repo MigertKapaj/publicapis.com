@@ -1,0 +1,15 @@
+{
+  "id": "houndsleuth",
+  "title": "houndsleuth",
+  "link": "http://www.houndsleuth.com/docs/",
+  "image": "http://www.houndsleuth.com/static/img/houndsleuth.png",
+  "author": {
+    "name": "houndsleuth"
+  },
+  "tags": [
+    "Defines",
+    "Documents",
+    "Searches"
+  ],
+  "description": "The API defines methods to manage indexes (create and delete them), operate on them (add and delete documents, functions, etc), perform searches, etc."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mollom",
+  "title": "Mollom",
+  "link": "http://mollom.com/api",
+  "image": "http://mollom.com/sites/all/themes/mollomv2/images/logo.png",
+  "author": {
+    "name": "Mollom"
+  },
+  "tags": [
+    "Patterns",
+    "Enables",
+    "Products"
+  ],
+  "description": "Mollom provides a REST API that is based on widely adopted RESTful patterns and best practices. It allows for simple Mollom client implementations and enables them for new Mollom features and products."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sigimera",
+  "title": "Sigimera",
+  "link": "https://api.sigimera.org/",
+  "image": "https://api.sigimera.org/logos/sigimera_logo_complete_small.png",
+  "author": {
+    "name": "Sigimera"
+  },
+  "tags": [
+    "Overview",
+    "Access",
+    "Code"
+  ],
+  "description": "The following documentation describes the REST API that is part of the Sigimera Platform. It starts with an overview how to get access to the API and how to make first calls. It links also to example code that could be used as starting point and an in depth description about the single endpoints. "
+}

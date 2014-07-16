@@ -1,0 +1,15 @@
+{
+  "id": "nicenic",
+  "title": "NiceNIC",
+  "link": "http://nicenic.net/reseller/api.php",
+  "image": "http://nicenic.net/images/v5/logo.png",
+  "author": {
+    "name": "NiceNIC"
+  },
+  "tags": [
+    "Service",
+    "Developer",
+    "Access"
+  ],
+  "description": "NiceNIC is a Hong Kong based company providing domain name, hosting, and other internet services. The NiceNIC API provides developer access to NiceNIC’s domain reseller program."
+}

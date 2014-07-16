@@ -1,0 +1,15 @@
+{
+  "id": "cloudfier",
+  "title": "Cloudfier",
+  "link": "http://doc.cloudfier.com/api/",
+  "image": "",
+  "author": {
+    "name": "Cloudfier"
+  },
+  "tags": [
+    "Funciationality. Application",
+    "Data",
+    "Metedata"
+  ],
+  "description": "Every Cloudfier application has a full fledged REST API that provides acccess to 100% of the functionality of the application (data, behaviour, and metadata).  The API supports JSON only. Authentication is currently form-based (with a cookie). Other forms of authentication are planned. "
+}

@@ -1,0 +1,13 @@
+{
+  "id": "face",
+  "title": "Face",
+  "link": "https://www.mashape.com/lambda/face",
+  "image": "",
+  "author": {
+    "name": "lambda"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "A computer vision api for facial recognition and facial detection that is a perfect face.com replacement. We currently have a free api for face detection."
+}

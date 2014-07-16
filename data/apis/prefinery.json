@@ -1,0 +1,15 @@
+{
+  "id": "prefinery",
+  "title": "Prefinery",
+  "link": "https://app.prefinery.com/api",
+  "image": "https://app.prefinery.com/assets/logo-small.png",
+  "author": {
+    "name": "Prefinery"
+  },
+  "tags": [
+    "Beta",
+    "Tester",
+    "Isolation"
+  ],
+  "description": "The Prefinery API is implemented as JSON (the default) and XML over HTTPS using all four verbs (GET/POST/PUT/DELETE). Every resource, like Beta or Tester has their own URL and are manipulated in isolation. We've tried to make the API follow the REST principles as much as possible"
+}

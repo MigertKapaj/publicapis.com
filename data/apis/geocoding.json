@@ -1,0 +1,15 @@
+{
+  "id": "geocoding",
+  "title": "Geocoding",
+  "link": "http://www.infochimps.com/datasets",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQM4efVQj-odkzmIP5Acbk684h2dQ9uNkxNAWfOL0paB74DjlJ5",
+  "author": {
+    "name": "Infochimps"
+  },
+  "tags": [
+    "Service",
+    "Provides",
+    "Data"
+  ],
+  "description": "No Data — The service for this API has ceased Our apologies for the inconvenience this may cause. The Geocoding API is a powerful and useful tool that provides location information for any given address in the United States. Geocoding is a process that assigns geographic data (ie, latitude and longitude) to an address. For example, the API would take the address “1214 W 6th St. ... "
+}

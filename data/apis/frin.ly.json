@@ -1,0 +1,15 @@
+{
+  "id": "frin.ly",
+  "title": "frin.ly",
+  "link": "http://frin.ly/api.php",
+  "image": "http://frin.ly/images/finly-logo.gif",
+  "author": {
+    "name": "frin.ly"
+  },
+  "tags": [
+    "Share",
+    "Family",
+    "Service"
+  ],
+  "description": "Welcome to Frin.ly (pronounced Frien•ly) Share photos with friends and family.\nFrin.ly is a bare knuckle photo sharing service that lets you share your photos on twitter."
+}

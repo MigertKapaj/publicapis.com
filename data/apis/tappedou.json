@@ -1,0 +1,16 @@
+{
+  "id": "tappedou",
+  "title": "TappedOu",
+  "link": "http://tappedout.github.io/",
+  "image": "",
+  "author": {
+    "name": "TappedOu"
+  },
+  "tags": [
+    "Representation",
+    "Card",
+    "Map",
+    "Dict"
+  ],
+  "description": "A CardSpec is a representation of a card. Its a map, a hash, or a dict, depending on the language. It can contain information, such as image, of a specific printing, but it defaults to the latest one."
+}

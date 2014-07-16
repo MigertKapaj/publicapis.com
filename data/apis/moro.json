@@ -1,0 +1,15 @@
+{
+  "id": "moro",
+  "title": "MoRo",
+  "link": "http://mobileroadie.com/dev/attendees/getAll",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBrN-Jy8mN-i129qhdqwrerPQ2252TMosYvKUTXg6Twrh22cBU",
+  "author": {
+    "name": "Mobile Roadie"
+  },
+  "tags": [
+    "Developer",
+    "Online",
+    "Possibilities"
+  ],
+  "description": "If you're a developer, or you already have your content online, the MoRo API will open the door to a whole new set of possibilities. "
+}

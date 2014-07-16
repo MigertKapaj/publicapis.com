@@ -1,0 +1,17 @@
+{
+  "id": "wevideo",
+  "title": "WeVideo",
+  "link": "http://www.wevideo.com/developers",
+  "image": "https://d3tvj3lw2y3r4c.cloudfront.net/hub/logo.png",
+  "author": {
+    "name": "WeVideo"
+  },
+  "tags": [
+    "Engage",
+    "Service",
+    "Online",
+    "Media",
+    "Editing"
+  ],
+  "description": "Drive traffic, engage customers and offer value added services through an embedded online video editor that is integrated with your website and media repository. Use the comprehensive API services to customize and integrate video editing functionality."
+}

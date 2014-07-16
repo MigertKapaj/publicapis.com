@@ -1,0 +1,16 @@
+{
+  "id": "the-aceproject",
+  "title": "The AceProject",
+  "link": "http://support.aceproject.com/support/api/",
+  "image": "http://support.aceproject.com/support/api/img/api.gif",
+  "author": {
+    "name": "The AceProject"
+  },
+  "tags": [
+    "Retrieve",
+    "Manage",
+    "Code samples",
+    "Technical support"
+  ],
+  "description": "This document describes how to use the AceProject API to develop your own tools to retrieve and manage your data. The API is available for non-commercial use only. This guide is intended for developers and includes information about using the API as well as access to the API Explorer with code samples. Do not hesitate to contact us should require additional information or technical support."
+}

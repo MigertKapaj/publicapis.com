@@ -1,0 +1,15 @@
+{
+  "id": "orderharmony",
+  "title": "OrderHarmony",
+  "link": "https://api.orderharmony.com/apidoc",
+  "image": "https://api.orderharmony.com/images/oh_logo_175_30.png",
+  "author": {
+    "name": "OrderHarmony"
+  },
+  "tags": [
+    "Service",
+    "Requesting",
+    "Provided"
+  ],
+  "description": "The web service calls are authenticated by the following strategy. Take the uri that you are requesting to and add your token, a serial number and secret provided (in that order) as a query string and generate a SHA1 hash of the resulting string as a signature. Other query string parameters are then free to be added to the request. "
+}

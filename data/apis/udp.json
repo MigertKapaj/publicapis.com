@@ -1,0 +1,15 @@
+{
+  "id": "udp",
+  "title": "UDP",
+  "link": "http://wiki.anidb.net/w/API",
+  "image": "http://wiki.anidb.net/wiki/skins/common/images/anidb_wiki.gif",
+  "author": {
+    "name": "AniDB"
+  },
+  "tags": [
+    "Information",
+    "File",
+    "Database"
+  ],
+  "description": "The UDP API is a public UDP based read/write API which can be used to obtain information about specific files and database entries. This API is the best choice for all file related activities as well as for many others.\n"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "name.com",
+  "title": "Name.com",
+  "link": "https://www.name.com/domain/renew/pincodeapi.com?utm_source=Sedo_parked_page&utm_medium=button&utm_campaign=Sedo_Expired_7.13",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQbT-Dk0FPbc952DHT2bEzsXd-iyxdKpWAN1i7OJau7xyDFPQyv",
+  "author": {
+    "name": "Name.com"
+  },
+  "tags": [
+    "Knowledge",
+    "Support",
+    "Protocol"
+  ],
+  "description": "The API requires programming knowledge and you must have a way to bill your customer. Currently, the API supports a RESTFUL API. We may add other protocols in the future."
+}

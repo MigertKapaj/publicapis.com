@@ -1,0 +1,15 @@
+{
+  "id": "opencyc",
+  "title": "OpenCyc",
+  "link": "http://www.cyc.com/platform/opencyc",
+  "image": "http://www.cyc.com/sites/all/themes/omega_cycorp/logo.png",
+  "author": {
+    "name": "Cycorp"
+  },
+  "tags": [
+    "Accessing",
+    "Provides",
+    "Modifying"
+  ],
+  "description": "The OpenCyc KB Browser is the main interface tool for accessing the Cyc Knowledge Base (Cyc KB). It provides a means for browsing the KB in a number of different ways, a means for querying the KB, and (for registered users) a means for modifying or adding to the KB itself."
+}

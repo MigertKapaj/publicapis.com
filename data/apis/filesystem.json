@@ -1,0 +1,15 @@
+{
+  "id": "filesystem",
+  "title": "Filesystem",
+  "link": "http://codex.wordpress.org/Filesystem_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Created",
+    "Functionality",
+    "Securely"
+  ],
+  "description": "The Filesystem API, added in WordPress 2.6, was originally created for WordPress' own automatic updates feature. The Filesystem API abstracts out the functionality needed for reading and writing local files to the filesystem to be done securely, on a variety of host types. "
+}

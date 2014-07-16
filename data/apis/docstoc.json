@@ -1,0 +1,15 @@
+{
+  "id": "docstoc",
+  "title": "Docstoc",
+  "link": "http://platform.docstoc.com/Default.aspx",
+  "image": "http://platform.docstoc.com/i/logo.png",
+  "author": {
+    "name": "Docstoc Platform"
+  },
+  "tags": [
+    "Accessed",
+    "Member",
+    "Structure"
+  ],
+  "description": "Most functionality available to a user on the site can be accessed through the API. The API includes functions for registering new members, uploading, downloading, updating, and searching for documents, manipulating a member's folder structure, and setting up ads. "
+}

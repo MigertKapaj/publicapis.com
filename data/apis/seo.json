@@ -1,0 +1,15 @@
+{
+  "id": "seo",
+  "title": "SEO",
+  "link": "http://www.seoengine.com/api-web-services.htm",
+  "image": "http://images.seoengine.com/logo/seo-engine-logo-green-gray.png",
+  "author": {
+    "name": "SEO Engine"
+  },
+  "tags": [
+    "Data",
+    "Software",
+    "Offerings"
+  ],
+  "description": "Want to incorporate SEO Engine Data into your software platform? Need an enterprise-class offering that enables you to stop worrying about scaling out your offerings? The API Web Services PRO Feature offers all of that and more. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "catlab-bitcoin-gateway",
+  "title": "CatLab Bitcoin Gateway",
+  "link": "http://bitcoin.catlab.eu/",
+  "image": "",
+  "author": {
+    "name": "CatLab Bitcoin Gateway"
+  },
+  "tags": [
+    "Programmers",
+    "Provide",
+    "Experience"
+  ],
+  "description": "An API, developed for programmers who want to easily implement Bitcoin in their projects. Our goal is to provide a very clean user Bitcoin experience without actually having to mess with the Bitcoin API."
+}

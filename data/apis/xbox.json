@@ -1,0 +1,13 @@
+{
+  "id": "xbox",
+  "title": "Xbox",
+  "link": "https://xboxapi.com/documentation",
+  "image": "https://xboxapi.com/images/logo.png",
+  "author": {
+    "name": "Xbox"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

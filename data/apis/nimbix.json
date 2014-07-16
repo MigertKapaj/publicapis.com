@@ -1,0 +1,15 @@
+{
+  "id": "nimbix",
+  "title": " Nimbix ",
+  "link": "http://www.nimbix.net/",
+  "image": "http://www.nimbix.net/wp-content/themes/nimbix/_images/Nimbix-Logo-Tagline_WithTM.gif",
+  "author": {
+    "name": " Nimbix "
+  },
+  "tags": [
+    "Technologies",
+    "Hardware",
+    "Challenges"
+  ],
+  "description": "At Nimbix, while leveraging multiple available technologies for computationally intensive applications, we are focused on making hardware accelerator-based platforms available to our customers for consumption and tackling the challenges of application and software development on heterogeneous and hybrid platforms. - See more at: http://www.nimbix.net/about/#sthash.O9OUazNI.dpuf"
+}

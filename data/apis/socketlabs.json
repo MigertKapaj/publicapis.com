@@ -1,0 +1,15 @@
+{
+  "id": "socketlabs",
+  "title": "SocketLabs",
+  "link": "http://www.socketlabs.com/api-reference/injection-api/",
+  "image": "http://www.socketlabs.com/wp-content/themes/socketlabs/images/logo.png",
+  "author": {
+    "name": "SocketLabs"
+  },
+  "tags": [
+    "Customers",
+    "Messages",
+    "Merging"
+  ],
+  "description": "The Injection API is for On-Demand customers who need to send sets of related email messages utilizing our advanced merging functionality, or who prefer to send email via HTTP requests instead of SMTP."
+}

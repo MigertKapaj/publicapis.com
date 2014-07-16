@@ -1,0 +1,15 @@
+{
+  "id": "bottlenose",
+  "title": "Bottlenose",
+  "link": "http://bottlenose.com/developer",
+  "image": "http://bottlenose.com/images/logo-home.png",
+  "author": {
+    "name": "Bottlenose"
+  },
+  "tags": [
+    "Cognitive",
+    "Techniques",
+    "Data"
+  ],
+  "description": "Bottlenose builds a real-time cognitive map of every topic, much like the human brain. It then uses sophisticated techniques for selecting and surfacing “trends with shove” from time-series data."
+}

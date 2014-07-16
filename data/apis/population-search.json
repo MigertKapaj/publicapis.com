@@ -1,0 +1,15 @@
+{
+  "id": "population-search",
+  "title": "Population search",
+  "link": "http://www.idescat.cat/dev/api/pob/?lang=en",
+  "image": "http://www.idescat.cat/images/logo_Idescat_nostre_petit.gif",
+  "author": {
+    "name": "Idescat"
+  },
+  "tags": [
+    "Information",
+    "Population",
+    "Sex"
+  ],
+  "description": "The Population search API provides information on the population by sex for any territorial entity in Catalonia."
+}

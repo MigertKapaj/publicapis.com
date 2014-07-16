@@ -1,0 +1,16 @@
+{
+  "id": "rogers-catalyst",
+  "title": "Rogers Catalyst",
+  "link": "https://www.rogerscatalyst.com/resources",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ4NIwUnfl-CMBqJWao8Gj4nKKnQxN6UNemgU-GgVb6ftHLRJHz0g",
+  "author": {
+    "name": "Rogers Catalyst"
+  },
+  "tags": [
+    "Webservice",
+    "Handsets",
+    "Leverage",
+    "Account"
+  ],
+  "description": "The Rogers Catalyst Platform exposes a variety of Web Services to enable application developers to leverage the capabilities within the Rogers’ and Fido telecom networks. APIs are available to allow application developers to send and receive text messages (SMS), geographically locate handsets and to submit payment charges to a customer’s prepaid or postpaid account."
+}

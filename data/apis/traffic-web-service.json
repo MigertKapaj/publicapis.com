@@ -1,0 +1,16 @@
+{
+  "id": "traffic-web-service",
+  "title": "Traffic Web Service",
+  "link": "http://developer.yahoo.com/traffic/index.html",
+  "image": "http://weather.yahooapis.com",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Web Sercice",
+    "Traffic",
+    "Data",
+    "Routes"
+  ],
+  "description": "The Traffic Web Services from Yahoo! enable you to access real-time traffic alerts information for a given location.  Build applications that use this dynamic traffic alert data to help you plan optimal routes and keep on top of your commute. Traffic data also makes a great addition to a mashup with Yahoo! Maps.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "climate-counts",
+  "title": "Climate Counts",
+  "link": "http://api.climatecounts.org/docs/",
+  "image": "http://api.climatecounts.org/docs/img/logo.png",
+  "author": {
+    "name": "Climate Counts"
+  },
+  "tags": [
+    "Service",
+    "Developers",
+    "Access",
+    "Apps"
+  ],
+  "description": "This site serves as documentation for Climate Counts' Web Services. The primary goal of this API is to provide developers direct access to the Climate Counts company-scoring database. These RESTful XML, JSON & JSONP services enable developers to utilize our data in applications such as mobile apps and websites, browser plugins, graphing tools etc."
+}

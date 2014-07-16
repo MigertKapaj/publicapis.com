@@ -1,0 +1,15 @@
+{
+  "id": "linkshare",
+  "title": "LinkShare",
+  "link": "http://helpcenter.linkshare.com/publisher/questions.php?questionid=952",
+  "image": "http://helpcenter.linkshare.com/publisher/templates/Default/Images/help/logo.gif",
+  "author": {
+    "name": "Rakuten LinkShare"
+  },
+  "tags": [
+    "Service",
+    "Advertisers",
+    "Publisher"
+  ],
+  "description": "This LinkShare Web Service enables you to retrieve a list of all your advertisers and their MIDs without logging into the Publisher Dashboard. To use it, simply append your Web Services token to the token= parameter of this REST query:"
+}

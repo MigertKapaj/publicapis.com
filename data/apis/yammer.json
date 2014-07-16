@@ -1,0 +1,16 @@
+{
+  "id": "yammer",
+  "title": "Yammer",
+  "link": "https://developer.yammer.com/restapi/",
+  "image": "https://developer.yammer.com/assets/sites/12/2013/08/copy-copy-cropped-logo-developers1.png",
+  "author": {
+    "name": "Yammer"
+  },
+  "tags": [
+    "Process",
+    "Examples",
+    "App",
+    "Integrated"
+  ],
+  "description": "Welcome. We are excited that you are interested in the Yammer Platform. Our platform consists of a set of open APIs and tools that enable you to bring Yammer’s social services to your application."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "setsters",
+  "title": "Setster's",
+  "link": "http://www.setster.com/documentation/",
+  "image": "http://www.setster.com/images/logo-setster.png",
+  "author": {
+    "name": "Setster"
+  },
+  "tags": [
+    "Redemption",
+    "Service",
+    "Marketing",
+    "Define"
+  ],
+  "description": "Setster's API supports the booking and redemption of services purchased via your daily deals / marketing portal. Setster provides API users complete Admin control over core scheduling operations. Create new users from within your own application by porting user sign up data directly into Setster to instantly create accounts. You can custom create services, define service parameters including run start and end dates, create locations, define availability and assign users to services and locations."
+}

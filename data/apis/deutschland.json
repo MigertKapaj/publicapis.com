@@ -1,0 +1,13 @@
+{
+  "id": "deutschland",
+  "title": "Deutschland",
+  "link": "http://www.deutschland-api.de/Api",
+  "image": "http://www.deutschland-api.de/skins/deutschlandapi/logo.png",
+  "author": {
+    "name": "Deutschland"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

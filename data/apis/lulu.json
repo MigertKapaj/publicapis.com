@@ -1,0 +1,16 @@
+{
+  "id": "lulu",
+  "title": "Lulu",
+  "link": "http://developer.lulu.com",
+  "image": "http://developer.lulu.com/public/Mashery/images/clients/lulu/lulu.png",
+  "author": {
+    "name": "Lulu"
+  },
+  "tags": [
+    "Freely",
+    "Accessible",
+    "Enterprising",
+    "Publishing"
+  ],
+  "description": "Lulu's industry-leading open publishing platform is now freely accessible to innovative and enterprising developers! By providing a powerful set of APIs for publishing, we aim to enable partners to build new applications and add value to their businesses."
+}

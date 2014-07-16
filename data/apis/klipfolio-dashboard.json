@@ -1,0 +1,16 @@
+{
+  "id": "klipfolio-dashboard",
+  "title": "Klipfolio Dashboard",
+  "link": "http://developer.klipfolio.com",
+  "image": "",
+  "author": {
+    "name": "Klipfolio"
+  },
+  "tags": [
+    "Runtime",
+    "Interpreter",
+    "Internal",
+    "Structure"
+  ],
+  "description": "Klipfolio Dashboard provides a full JavaScript runtime interpreter for your Klip to let you override Klipfolio Dashboard's default behaviour. Klipfolio Dashboard makes much of its internal default logic and data structures available through an application programming interface (API), accessible as JavaScript objects. "
+}

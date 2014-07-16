@@ -1,0 +1,17 @@
+{
+  "id": "invoicera",
+  "title": "Invoicera",
+  "link": "http://www.invoicera.com/api/",
+  "image": "http://www.invoicera.com/common/images/logo.png",
+  "author": {
+    "name": "Invoicera"
+  },
+  "tags": [
+    "Provides",
+    "Data",
+    "Access",
+    "Service",
+    "Programming"
+  ],
+  "description": "Invoicera API provides you another way to access your Invoicera data and enables the third-party and custom tools to programmatically access and interact with the Invoicera service. Invoicera API responds to requests in an XML format and is programming language-neutral; enabling you to build applications in a language you are familiar with."
+}

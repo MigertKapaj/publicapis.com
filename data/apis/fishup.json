@@ -1,0 +1,13 @@
+{
+  "id": "fishup",
+  "title": "fishup",
+  "link": "http://fishup.ru/developer/api?lang=en",
+  "image": "http://fishup.ru/sites/skins/school_basic/img/logo_small.png",
+  "author": {
+    "name": "fishup"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

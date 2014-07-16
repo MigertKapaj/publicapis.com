@@ -1,0 +1,15 @@
+{
+  "id": "lead-zeppelin",
+  "title": "Lead Zeppelin",
+  "link": "https://www.leadzep.com/docs/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSkcvRvtbTjZoIvi0sqUL7fFUm1wUGUEwEVXneUW88sgXFEab5p",
+  "author": {
+    "name": "Lead Zeppelin"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Described"
+  ],
+  "description": "The Lead Zeppelin API allows you access to your lead data from your website or application. Authentication and currently available methods are described below, with examples given in PHP. "
+}

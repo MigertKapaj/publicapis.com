@@ -1,0 +1,15 @@
+{
+  "id": "yellow",
+  "title": "Yellow",
+  "link": "http://mediative.com/digital-media/yellow-api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQNUce8Mx-usmzbaRYAQbTUwJJzShxCusJlQ5Rqz6ZJD9wGIqMv",
+  "author": {
+    "name": "Mediative"
+  },
+  "tags": [
+    "Interface",
+    "Associated",
+    "Data"
+  ],
+  "description": "Yellow API is an application programming interface that allows businesses to stream top Canadian local search content into their applications. Using our database of over 1.5 million business listings and associated rich content, marketers can deliver the most accurate data to their users without the need for their own directory. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "weeworld",
+  "title": "WeeWorld",
+  "link": "http://www.weeworld.com/about/",
+  "image": "http://www.weeworld.com/about/images/logo.png",
+  "author": {
+    "name": "WeeWorld"
+  },
+  "tags": [
+    "Social",
+    "Design",
+    "Entertained"
+  ],
+  "description": "WeeWorld makes games that inspire social creativity. With a focus on iconic design and playful self-expression, our games have entertained more than 60 million mobile and web players."
+}

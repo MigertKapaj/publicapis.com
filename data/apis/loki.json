@@ -1,0 +1,16 @@
+{
+  "id": "loki",
+  "title": "Loki",
+  "link": "http://loki.com/how/documentation",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRbPRQ_mfLg9mQrZ8kEgEm74gNaXh6mNyZw_9yPKs-0LpA7lLb0",
+  "author": {
+    "name": "Loki"
+  },
+  "tags": [
+    "Browser",
+    "Developer",
+    "Accurate",
+    "Website"
+  ],
+  "description": "Loki is a cross-platform browser plugin that allows developers to easily add accurate location to a website with a few lines of Javascript."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "daydetails.com",
+  "title": "DayDetails.com",
+  "link": "http://daydetails.com/about.php",
+  "image": "http://daydetails.com/gfx/about_1.png",
+  "author": {
+    "name": "DayDetails.com"
+  },
+  "tags": [
+    "Service",
+    "Details",
+    "According"
+  ],
+  "description": "DayDetails.com is a free web service that lets you check various interesting facts and details about your birthday or any other date. You can quickly find out how old you are according to Islamic, Iranian, and many other calendars."
+}

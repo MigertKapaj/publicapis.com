@@ -1,0 +1,16 @@
+{
+  "id": "noisebridge",
+  "title": "Noisebridge",
+  "link": "https://www.noisebridge.net/wiki/API",
+  "image": "https://www.noisebridge.net/NB-logo-red-black-med.png",
+  "author": {
+    "name": "Noisebridge"
+  },
+  "tags": [
+    "Infrastructure",
+    "Hardware",
+    "Science",
+    "Technology"
+  ],
+  "description": "Noisebridge is a physical space open and welcoming to all, providing infrastructure and collaboration opportunities for anyone interested in programming, hardware, crafts, science, food, robotics, art, and technology. We teach, we learn, we share. With no leaders, we have one rule: \"Be excellent to each other\"."
+}

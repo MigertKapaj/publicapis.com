@@ -1,0 +1,15 @@
+{
+  "id": "freerisk",
+  "title": "Freerisk",
+  "link": "http://freerisk.org/docs/documentation.html",
+  "image": "http://freerisk.org/static/images/logo.jpg",
+  "author": {
+    "name": "Freerisk"
+  },
+  "tags": [
+    "Metrics",
+    "Specification",
+    "Advance"
+  ],
+  "description": "We're trying to build the simplest API that we can to create risk metrics, and we may have to evolve the specification as a result. We'll do our best to keep you updated and give you plenty of warning about any changes in advance."
+}

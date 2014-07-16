@@ -1,0 +1,15 @@
+{
+  "id": "ambassadors",
+  "title": "Ambassadors",
+  "link": "https://getambassador.com/api/",
+  "image": "https://s3.amazonaws.com/ambassador-client/logged-out/img/logo_new.png",
+  "author": {
+    "name": "Ambassadors"
+  },
+  "tags": [
+    "Integrate",
+    "Require",
+    "Defined"
+  ],
+  "description": "Our API may be used to programmatically integrate with our referral system. All API requests require a username and key to be defined, therefore you must have a company account with us before being able to successfully make requests."
+}

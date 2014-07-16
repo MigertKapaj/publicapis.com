@@ -1,0 +1,17 @@
+{
+  "id": "cigna-developer",
+  "title": "Cigna Developer",
+  "link": "https://developer.cigna.com/home/pages/home#/api_home",
+  "image": "https://developer.cigna.com/home/styles/img/cigna_logo_h_color_nav.png",
+  "author": {
+    "name": "Cigna"
+  },
+  "tags": [
+    "Provide",
+    "Ruby",
+    "Python",
+    "Complexity",
+    "Overhead"
+  ],
+  "description": "A RESTful API is used to provide the flexibility (not bound to a specific platform like Ruby, Python, Objective-C, Java or .Net) and ease of implementation without the client and server-side complexity and overhead of SOAP."
+}

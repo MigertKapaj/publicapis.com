@@ -1,0 +1,17 @@
+{
+  "id": "sherparomeo",
+  "title": "SHERPA/RoMEO",
+  "link": "http://www.sherpa.ac.uk/romeo/api.html",
+  "image": "http://www.sherpa.ac.uk/SHERPA-logo.gif",
+  "author": {
+    "name": "SHERPA/RoMEO"
+  },
+  "tags": [
+    "Interface",
+    "Access",
+    "Data",
+    "Incorporate",
+    "Publisher"
+  ],
+  "description": "The SHERPA/RoMEO Application Programmers' Interface (API) is a machine-to-machine interface that lets programmers access SHERPA/RoMEO data from their applications. For instance, you could use the API to incorporate an automatic look-up of a journal or publisher into your repository or CRIS deposition process."
+}

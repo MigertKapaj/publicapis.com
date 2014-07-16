@@ -1,0 +1,16 @@
+{
+  "id": "data-feed-barcode",
+  "title": "Data Feed / Barcode",
+  "link": "http://eandata.com/feed/",
+  "image": "http://eandata.com/image/title.png",
+  "author": {
+    "name": "Ean data"
+  },
+  "tags": [
+    "Data",
+    "Automation",
+    "Service",
+    "Purchase"
+  ],
+  "description": "The data feed is our API to get to the UPC/EAN-13 data using automation. We offer  XML, JSON data feeds. You can use this API for free. There is a paid service if you need it but you should start with the free access before making any purchase. These feeds are not available to the general public and your account has to be enabled for this access. This allows us to keep track of who is using this automation so we can inform you when changes are coming to this barcode API.\n        "
+}

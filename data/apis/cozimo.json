@@ -1,0 +1,15 @@
+{
+  "id": "cozimo",
+  "title": "Cozimo",
+  "link": "http://www.cozimo.com/api",
+  "image": "http://www.cozimo.com/cozimo_media/logo.gif",
+  "author": {
+    "name": "Cozimo"
+  },
+  "tags": [
+    "Service",
+    "Online",
+    "Media"
+  ],
+  "description": "Cozimo.com has been upgraded to a completely new service for online digital media review and collaboration. Check out the new site and sign up for a free trial! "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "boliven",
+  "title": "Boliven",
+  "link": "http://www.boliven.com/data_api/api_concepts",
+  "image": "http://www.boliven.com/images/boliven_header/cip-logo-header-unav.png",
+  "author": {
+    "name": "Cambridge"
+  },
+  "tags": [
+    "Service",
+    "System",
+    "Data"
+  ],
+  "description": "The Data API (Application Programming Interface) service allows your software systems to programmatically interface with our source data for patents, and other scientific literature."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "trade-me",
+  "title": "Trade Me",
+  "link": "http://developer.trademe.co.nz/",
+  "image": "http://developer.trademe.co.nz/wp-content/themes/DeveloperAPI/images/sprite.gif",
+  "author": {
+    "name": "Trade Me"
+  },
+  "tags": [
+    "Developers",
+    "Pages",
+    "Information",
+    "Cracking"
+  ],
+  "description": "We’ve provided an API to help developers build cool things for the good of our members. These pages are here to help you use our API correctly, and will provide the information you need to get cracking!  You should also check out our Sandbox site which will be useful for testing your applications against."
+}

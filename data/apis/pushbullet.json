@@ -1,0 +1,15 @@
+{
+  "id": "pushbullet",
+  "title": "Pushbullet",
+  "link": "https://www.pushbullet.com/api",
+  "image": "https://www.pushbullet.com/img/header-logo.png",
+  "author": {
+    "name": "Pushbullet"
+  },
+  "tags": [
+    "Notification",
+    "Dropbox",
+    "Reminders"
+  ],
+  "description": "When you send a file with Pushbullet, it's automatically downloaded so you can open it right from your notifications. This means you don't have to go and dig for it in your inbox or Dropbox and then wait for it to download. And that's just the start—we've made pushing links, addresses, reminders, checklists and more just as easy and equally as useful."
+}

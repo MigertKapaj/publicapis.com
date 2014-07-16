@@ -1,0 +1,16 @@
+{
+  "id": "bureau-of-justice-statistics",
+  "title": "Bureau of Justice Statistics",
+  "link": "http://www.justice.gov/legalpolicies.htm",
+  "image": "http://www.bjs.gov/images/n_1_main_01.gif",
+  "author": {
+    "name": "Bureau of Justice Statistics"
+  },
+  "tags": [
+    "Provide",
+    "Information",
+    "Data",
+    "Service"
+  ],
+  "description": "On this page, the Bureau of Justice Statistics (BJS) will provide criminal justice information in Application Programming Interface (API) format. This information-centric approach is described in further detail in the Federal Digital Strategy and Open Data Policy. The APIs are free of charge, do not require registration, and allow unlimited access. Please read the terms of service for using the APIs. "
+}

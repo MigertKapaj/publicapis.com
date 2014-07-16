@@ -1,0 +1,15 @@
+{
+  "id": "sector",
+  "title": "Sector",
+  "link": "http://getsector.com/documentation/",
+  "image": "http://getsector.com/wp-content/uploads/2011/12/SectorLogo.png",
+  "author": {
+    "name": "Sector"
+  },
+  "tags": [
+    "Secure",
+    "Securely",
+    "Provider"
+  ],
+  "description": "OAuth is a simple and secure authentication mechanism that allows applications to securely authenticate themselves and issue requests to an API provider, by using a combination of an API key and a private key."
+}

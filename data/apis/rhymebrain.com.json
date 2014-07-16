@@ -1,0 +1,15 @@
+{
+  "id": "rhymebrain.com",
+  "title": "RhymeBrain.com",
+  "link": "http://rhymebrain.com/api.html",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTE8_tnvl6lfyD8vwoRUkjU72HtHol9lx9X_INXMM7Bzsv_kRj3qQ",
+  "author": {
+    "name": "RhymeBrain.com"
+  },
+  "tags": [
+    "Machine",
+    "Derive",
+    "Computed."
+  ],
+  "description": "RhymeBrain uses machine learning to derive the pronunciation of words. Rhymes are not stored, but computed automatically for each request by finding words that sound similar. "
+}

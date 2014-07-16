@@ -1,0 +1,15 @@
+{
+  "id": "skimlinks",
+  "title": "Skimlinks",
+  "link": "http://api-products.skimlinks.com/doc/",
+  "image": "https://skimlinks.com/img/logo.png",
+  "author": {
+    "name": "skimlinks"
+  },
+  "tags": [
+    "Extensive",
+    "Developer",
+    "Flexibility"
+  ],
+  "description": "The Product API (previously known as EveryFeed), provides a query-able API frontend to Skimlinks' extensive and consolidated database of monetizable products. Queries can be provided using the rich Solr or Lucene query language, providing the developer with a great deal of flexibility and power to tailor the results to their needs."
+}

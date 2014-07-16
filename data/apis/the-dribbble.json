@@ -1,0 +1,15 @@
+{
+  "id": "the-dribbble",
+  "title": "The Dribbble",
+  "link": "http://dribbble.com/api",
+  "image": "http://dribbble.com/api",
+  "author": {
+    "name": " Dribbble"
+  },
+  "tags": [
+    "Contact",
+    "Commercial",
+    "Arrangement"
+  ],
+  "description": "The Dribbble API is available for non-commercial use. Commercial use is possible by prior arrangement. Please contact us if you wish to apply for commercial use of the API.\n"
+}

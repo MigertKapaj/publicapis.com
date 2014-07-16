@@ -1,0 +1,16 @@
+{
+  "id": "humbug",
+  "title": "Humbug",
+  "link": "http://www.humbuglabs.org/index.php/apidocs",
+  "image": "http://www.humbuglabs.org/images/humbug.png",
+  "author": {
+    "name": "HumbugTelecomLabs"
+  },
+  "tags": [
+    "Service",
+    "Fraud",
+    "Integrate",
+    "Reporting"
+  ],
+  "description": "Connect any PBX, softswitch or telephony service to Humbug for in-depth reporting and fraud alerting. Basic usage of the API requires you to send only CDR Events, and takes only minutes to integrate. Advanced integration enables you to remotely configure alerts, and add/remove sub-api keys for drill-down reporting. "
+}

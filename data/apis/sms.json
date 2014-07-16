@@ -1,0 +1,16 @@
+{
+  "id": "sms",
+  "title": "SMS",
+  "link": "http://www.abtxt.com/SMS-API.html",
+  "image": "http://www.abtxt.com/images/logo.png",
+  "author": {
+    "name": "ABTXT"
+  },
+  "tags": [
+    "Service",
+    "Intended",
+    "Facilitate",
+    "Direct"
+  ],
+  "description": "ABTXT is the largest business SMS service provider in Australia and provide several API into your sms gateway for seamless integration of messages to send to your intended customers. The SMS are auto generated and facilitate you and your employees to communicate with your clients and customers in a direct and cost effective way."
+}

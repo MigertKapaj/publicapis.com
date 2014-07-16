@@ -1,0 +1,16 @@
+{
+  "id": "kraken",
+  "title": "Kraken",
+  "link": "https://kraken.io/docs",
+  "image": "https://kraken-nocompany1234.netdna-ssl.com/assets/images/kraken-logo-2.png",
+  "author": {
+    "name": "Kraken"
+  },
+  "tags": [
+    "Service",
+    "Obtain",
+    "Account",
+    "Application"
+  ],
+  "description": "To plug into the power of Kraken API you need to sign up for Kraken API services and obtain your unique API Key and API Secret. You will find those in your Account under the API Credentials section. Once you have set-up your account, you can start using Kraken API in your applications."
+}

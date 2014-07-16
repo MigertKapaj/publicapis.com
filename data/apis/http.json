@@ -1,0 +1,15 @@
+{
+  "id": "http",
+  "title": "HTTP",
+  "link": "http://codex.wordpress.org/HTTP_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Request",
+    "Collectively",
+    "Possible"
+  ],
+  "description": "Within PHP, there are many possible ways to send an HTTP request. For simplicity, these methods will be referred to collectively as 'transports' for this article. The purpose for the HTTP API is to support as many of them as possible with an API that is simple and standard for each of the transports. "
+}

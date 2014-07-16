@@ -1,0 +1,16 @@
+{
+  "id": "trendspottr",
+  "title": "TrendSpottr",
+  "link": "http://trendspottr.com/api/",
+  "image": "http://trendspottr.com/images/logo.png",
+  "author": {
+    "name": "TrendSpottr"
+  },
+  "tags": [
+    "Predictive",
+    "Information",
+    "Data",
+    "Acceleration."
+  ],
+  "description": "TrendSpottr is a predictive analytics service that identifies the most timely and trending information from any big data stream. Our core technology analyzes real-time data streams such as Twitter and Facebook and spots emerging trends at their earliest acceleration point."
+}

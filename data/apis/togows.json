@@ -1,0 +1,16 @@
+{
+  "id": "togows",
+  "title": "TogoWS",
+  "link": "http://togows.dbcls.jp/",
+  "image": "",
+  "author": {
+    "name": "TogoWS"
+  },
+  "tags": [
+    "Bioinformatics",
+    "Analysis",
+    "Web",
+    "Integration"
+  ],
+  "description": "To date, various databases have been made available through web services provided by major bioinformatics centers including NCBI, EBI, DDBJ, KEGG, PDBj, and CBRC.These web s ervices are helpful especially for the high throughput analysis, however, there are no consistent way to utilize them uniformly. Our new web service, TogoWS, is designed to address several major issues for the improved usability and seamless integration.\n"
+}

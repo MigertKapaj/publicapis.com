@@ -1,0 +1,15 @@
+{
+  "id": "infradox-partner",
+  "title": "Infradox partner",
+  "link": "http://www.infradox.com/infradox-partner-api/",
+  "image": "http://www.infradox.com/wp-content/uploads/2011/02/infradox.jpg",
+  "author": {
+    "name": "Infradox"
+  },
+  "tags": [
+    "Connections",
+    "Database",
+    "Performance"
+  ],
+  "description": "The Infradox partner API is a web based server application that enables your partners to set up live connections with your Infradox database. Its architecture is based on open industry standards, it offers exceptional performance, it produces XML output and it is very simple to use. "
+}

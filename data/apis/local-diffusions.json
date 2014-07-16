@@ -1,0 +1,14 @@
+{
+  "id": "local-diffusions",
+  "title": "Local Diffusions",
+  "link": "http://localdiffusion.fr/demo/api/index.php?lang=en",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRsDLxrf5iBKPxTojHLyQceela2Ddcnn_57iNhjMv_hJXghlCq6nQ",
+  "author": {
+    "name": "Local Diffusions"
+  },
+  "tags": [
+    "Purpose",
+    "Database"
+  ],
+  "description": "Local Diffusions API purpose is to deliver the datas of our database, which is made of local point of sales, business places and this database keep growing daily."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cellid",
+  "title": "CellID",
+  "link": "http://www.cellid.eu/home",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ_YaRQ81qCO01ZNMoJQq3-hBl0KYu5KFGRLdmA83ywsdkLXzPT",
+  "author": {
+    "name": "CellID"
+  },
+  "tags": [
+    "Possible",
+    "Accuracy",
+    "Operators"
+  ],
+  "description": "CellID was the result of the need to know where we are without using a GPS signal. You can define it as a position's seeker of the antennas's identifiers belonging to the mobile operators. This is possible thanks to the support, direct and indirect, on some databases, which have been populated with datas in all the world, with high accuracy to say the least. These databases are always in constant update on the evolution of the telephone operators, but even so it is possible that at times some informations are still missing. "
+}

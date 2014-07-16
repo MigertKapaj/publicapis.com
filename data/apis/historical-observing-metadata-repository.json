@@ -1,0 +1,16 @@
+{
+  "id": "historical-observing-metadata-repository",
+  "title": "Historical Observing Metadata Repository",
+  "link": "http://www.ncdc.noaa.gov/homr/api",
+  "image": "http://www.ncdc.noaa.gov/homr/shared/v1/images/logos/noaa_logo.png",
+  "author": {
+    "name": "HOMR "
+  },
+  "tags": [
+    "Station",
+    "Metadata",
+    "Sections",
+    "List"
+  ],
+  "description": "HOMR provides a web service that you can use to get station metadata in JSON format. This page documents the URL formats used to get the data you want. All calls to the web service should be GET requests. The WADL for this web service can be found here:http://www.ncdc.noaa.gov/homr/services/station?_wadl&_type=xml\nAll queries, if they find one or more stations, will return a JSON object with the property stationCollection, which contains a definitions section and a stations section. definitions contains the same information for each request: descriptive information about the fields that can be found in a station metadata entry. stations contains the list of stations that matched your search query. Each entry in the stations list has an ncdcStnId, and other properties such as names and location, depending on what information is available for that station.\n  \n  \n   \n  "
+}

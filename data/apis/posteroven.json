@@ -1,0 +1,14 @@
+{
+  "id": "posteroven",
+  "title": "PosterOven",
+  "link": "http://www.posteroven.com/info/api/",
+  "image": "http://www.posteroven.com/static_v/1.016/images/framework/Poster-Oven-Banner-300x60-on-Brown.png",
+  "author": {
+    "name": "PosterOven"
+  },
+  "tags": [
+    "Integrate",
+    "Web"
+  ],
+  "description": "Smoothly integrate your web applications with PosterOven."
+}

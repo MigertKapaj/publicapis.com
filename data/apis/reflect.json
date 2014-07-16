@@ -1,0 +1,16 @@
+{
+  "id": "reflect",
+  "title": "Reflect",
+  "link": "http://reflect.ws/REST_API.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnlElQdJHEkuqb9yXq8aH9vg4fTlgBvWjw-VVsw5iq-EI08ObqTg",
+  "author": {
+    "name": "Reflect"
+  },
+  "tags": [
+    "Service",
+    "Provide",
+    "Response",
+    "Information"
+  ],
+  "description": "The Reflect service identifies and ‘tags’ biologically and chemically relevant names found in HTML documents. Clients provide the documents as input in HTTP GET and POST messages and, in the response, receive tagged versions where recognized names are appropriately highlighted and linked to information popup windows."
+}

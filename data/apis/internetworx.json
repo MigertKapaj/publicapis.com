@@ -1,0 +1,15 @@
+{
+  "id": "internetworx",
+  "title": "InterNetworx",
+  "link": "http://www.inwx.com/en/offer/api",
+  "image": "http://www.inwx.com/images/logos/inwx.png",
+  "author": {
+    "name": "InterNetworx"
+  },
+  "tags": [
+    "Addressed",
+    "Documentation",
+    "Downloaded"
+  ],
+  "description": "You can access all functions of our frontend via an application programming interface (API). Our API is based on the XML-RPC protocol and thus can be easily addressed by almost all programming languages. The documentation and programming examples in PHP, Java, Ruby and Python can be downloaded here."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "medidata-rave-web-services",
+  "title": "Medidata Rave Web Services",
+  "link": "http://www.mdsol.com/innovate/index.htm",
+  "image": "http://www2.kenes.com/biomed/social/PublishingImages/mdsol_corp_rgb_bg_no_tag.png",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "Clinical",
+    "Services",
+    "Research",
+    "Standards"
+  ],
+  "description": "Medidata is innovating with a growing number of software providers committed to driving efficiencies in clinical research for sponsors. The Medidata Rave Web Services API enables technologists to quickly, independently and cost-effectively integrate their existing systems with Medidata Rave® and our platform to create a seamless clinical research environment with real-time, inbound and outbound data sharing using CDISC* data standards."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bontq",
+  "title": "Bontq",
+  "link": "http://www.bontq.com/help/api.php",
+  "image": "http://www.bontq.com/images/logo.png",
+  "author": {
+    "name": "Bontq"
+  },
+  "tags": [
+    "Access",
+    "Developer",
+    "Receive",
+    "Information"
+  ],
+  "description": "Bontq API was created to allow a much easier access for third-party developers to the product's core functionality.\nIn case something is unclear and you wish to receive more information - feel free to contact us: support@bontq.com"
+}

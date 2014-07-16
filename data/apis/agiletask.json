@@ -1,0 +1,16 @@
+{
+  "id": "agiletask",
+  "title": "AgileTask",
+  "link": "http://doc.agiletask.me/",
+  "image": "http://doc.agiletask.me/_images/agiletasklogo.png",
+  "author": {
+    "name": "AgileTask"
+  },
+  "tags": [
+    "Standard account",
+    "Data",
+    "Support",
+    "Parm"
+  ],
+  "description": "You will need your API key to make all calls. If you have a Standard account you can find your API key here, http://agiletask.me/account/edit. We are using the four HTTP methods (GET, POST, PUT, and DELETE) to send in and pull data. Browsers usually only support GET, and POST so to make calls for things like updating tasks, you will need to include an \n_method parm. All this entails is adding a “&_method=put” to the URL in your calls."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "skybiometry",
+  "title": "SkyBiometry",
+  "link": "http://skybiometry.com/Documentation",
+  "image": "http://skybiometry.com/Content/Images/sky-logo.png",
+  "author": {
+    "name": "SkyBiometry"
+  },
+  "tags": [
+    "Detection",
+    "Recognition",
+    "Products"
+  ],
+  "description": "SkyBiometry introduces cloud-based Face Detection and Recognition API. At the core of the product is one of the worlds best algorithms for the detection and recognition of faces that is successfully used in many commercial products around the globe."
+}

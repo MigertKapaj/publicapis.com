@@ -1,0 +1,15 @@
+{
+  "id": "benchmark",
+  "title": "Benchmark",
+  "link": "http://www.benchmarkemail.com/API/Library",
+  "image": "http://www.benchmarkemail.com/images/apilogo.png",
+  "author": {
+    "name": "Benchmark"
+  },
+  "tags": [
+    "Integrate",
+    "Program",
+    "System"
+  ],
+  "description": "If you’re not a big coder, and you’re looking to integrate Benchmark with your current CMS or another program, check our Plugins & Integrations Directory page first to see if someone has already released code for your system."
+}

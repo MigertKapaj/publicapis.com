@@ -1,0 +1,15 @@
+{
+  "id": "eventfinda",
+  "title": "Eventfinda",
+  "link": "http://www.eventfinder.co.nz/api/v2/overview",
+  "image": "http://s1.eventfinder.co.nz/images/global/logo.png?v=140405",
+  "author": {
+    "name": "eventfinda"
+  },
+  "tags": [
+    "Access",
+    "Information",
+    "Services"
+  ],
+  "description": "The Eventfinda Developer API allows you to access our extensive database of event information to display within your own website or application, using a standards-based web services interface."
+}

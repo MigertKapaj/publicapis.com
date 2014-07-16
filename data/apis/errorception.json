@@ -1,0 +1,16 @@
+{
+  "id": "errorception",
+  "title": "Errorception",
+  "link": "http://errorception.com/api/http",
+  "image": "https://errorception.com/images/logo-small.png",
+  "author": {
+    "name": "Errorception"
+  },
+  "tags": [
+    "HTTPS",
+    "Speaks",
+    "Authentication",
+    "Omitted"
+  ],
+  "description": "All API access is over HTTPS only. The API is available at api.errorception.com. The server only speaks JSON. Most API calls require authentication. The API currently only supports HTTP Basic Auth. Use your email address as the username and your account password as the password. Blank fields are included as null instead of being omitted."
+}

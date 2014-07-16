@@ -1,0 +1,15 @@
+{
+  "id": "codemunch",
+  "title": "CodeMunch",
+  "link": "http://www.codemunch.com/api/techDoc.php",
+  "image": "",
+  "author": {
+    "name": "CodeMunch"
+  },
+  "tags": [
+    "Social",
+    "Data",
+    "Company"
+  ],
+  "description": "CodeMunch is a recruitment platform which makes good use of emerging social networking technologies. Our goal with API is to reduce data collection effort required to build next generation career management applications. Using CodeMunch API you can access job data, company and college profile information. "
+}

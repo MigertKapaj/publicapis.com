@@ -1,0 +1,16 @@
+{
+  "id": "the-ergast-developer",
+  "title": "The Ergast Developer",
+  "link": "http://ergast.com/mrd/",
+  "image": "",
+  "author": {
+    "name": "Ergast Developer"
+  },
+  "tags": [
+    "Web",
+    "Historical",
+    "Racing",
+    "Data"
+  ],
+  "description": "The Ergast Developer API is an experimental web service which provides a historical record of motor racing data for non-commercial purposes. Please read the terms and conditions of use. The API provides data for the Formula One series, from the beginning of the world championship in 1950."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "the-dns-update",
+  "title": "The DNS Update ",
+  "link": "http://dyn.com/support/developers/api/",
+  "image": "http://dyn.com/wp-content/themes/dynamic/images/dyn-sprite.png?v=20131209",
+  "author": {
+    "name": "DNS Update "
+  },
+  "tags": [
+    "Dynamic",
+    "Standard",
+    "Providers"
+  ],
+  "description": "The DNS Update API is also known as the Members NIC Update API and is used to update the IP addresses of dynamic DNS hostnames. Dyn designed and created the specification prior to 2001 which has become the standard update mechanism for other DNS providers. The API works over HTTPS and HTTP."
+}

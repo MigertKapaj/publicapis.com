@@ -1,0 +1,16 @@
+{
+  "id": "related-items-management",
+  "title": "Related Items Management ",
+  "link": "http://developer.ebay.com/Devzone/related-items/Concepts/MakingACall.html",
+  "image": "http://developer.ebay.com/Devzone/related-items/assets/eBayDevLogo_sm.gif",
+  "author": {
+    "name": ".ebay"
+  },
+  "tags": [
+    "Increasing",
+    "Parameters",
+    "Convention",
+    "Versioning"
+  ],
+  "description": "Related Items Management API is a SOA service that is intended to be consumed by sellers in the US, UK, and Germany. This service allows sellers to create and manage product bundles, which consist of one primary product and multiple related items. Product bundles assist sellers in increasing sales by marketing related items to buyers. The incentive of product bundles to buyers is order discounts when multiple items in a product bundle are purchased. High-level information for the service are covered below, including service endpoints, HTTP headers and URL parameters, naming conventions, and versioning scheme."
+}

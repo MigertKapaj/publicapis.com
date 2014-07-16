@@ -1,0 +1,15 @@
+{
+  "id": "storage-made-easy",
+  "title": "Storage Made Easy ",
+  "link": "http://storagemadeeasy.com/?p=apidoc",
+  "image": "http://storagemadeeasy.com/templates/sme/nd/images/sme_logo.png?2",
+  "author": {
+    "name": "Storage Made Easy "
+  },
+  "tags": [
+    "Post",
+    "Operation",
+    "Function"
+  ],
+  "description": "Get token for operations. We suggest to use POST for this function, this will hide user login and password."
+}

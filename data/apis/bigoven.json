@@ -1,0 +1,16 @@
+{
+  "id": "bigoven",
+  "title": "BigOven",
+  "link": "http://api.bigoven.com",
+  "image": "http://api.bigoven.com/assets/images/logo.png",
+  "author": {
+    "name": "BigOven"
+  },
+  "tags": [
+    "Provides",
+    "Access",
+    "Data",
+    "Interface"
+  ],
+  "description": "The BigOven.com Recipe API provides third-party websites and products with access to 250,000+ recipes and their related data, as well as a grocery shopping list in the cloud. It's all delivered by an easy to use interface that takes only minutes to learn."
+}

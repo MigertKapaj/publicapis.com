@@ -1,0 +1,15 @@
+{
+  "id": "scoreoid",
+  "title": "Scoreoid",
+  "link": "http://wiki.scoreoid.net/",
+  "image": "http://wikicdn.scoreoid.net/wp-content/uploads/2011/07/Scoreoid_Wiki_Logo.png",
+  "author": {
+    "name": "Scoreoid"
+  },
+  "tags": [
+    "Create",
+    "Incremental",
+    "Leaderboards."
+  ],
+  "description": "Scoreoid’s incrementScore() API method let’s you create incremental leaderboards with ease."
+}

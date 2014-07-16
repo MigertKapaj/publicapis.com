@@ -1,0 +1,15 @@
+{
+  "id": "lisird",
+  "title": "LISIRD",
+  "link": "http://lasp.colorado.edu/lisird/tss.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSho5W9cQ1OIUdBr8SUdWXCSOtC5_8ZEgV_Q8CCmePJla3wHrWabA",
+  "author": {
+    "name": "LISIRD"
+  },
+  "tags": [
+    "Server",
+    "Access",
+    "Data"
+  ],
+  "description": "The LASP Time Series Server (LaTiS) is an API that allows software programs to access most data sets on LISIRD.* LaTiS provides customizable data access functionality."
+}

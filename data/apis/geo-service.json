@@ -1,0 +1,15 @@
+{
+  "id": "geo-service",
+  "title": "Geo service",
+  "link": "http://www.geosvc.com/docs/Ref",
+  "image": "",
+  "author": {
+    "name": "Geo service"
+  },
+  "tags": [
+    "Existing",
+    "Database",
+    "Service"
+  ],
+  "description": "The web service uses SOAP or REST over HTTP, and is easy to integrate into existing applications. It requires virtually no maintenance after the initial integration. No need to download databases and keep them up to date or figure out distance calculation formulas. Just call Zip Codes web service using your favorite SOAP toolkit or even plain HTTP Get/Post. Read through the Documentation for more information. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "frengo",
+  "title": "Frengo",
+  "link": "http://www.frengo.com/mobile_toolkit.html",
+  "image": "http://www.frengo.com/img/newhome/frengologo_new.gif",
+  "author": {
+    "name": "Frengo"
+  },
+  "tags": [
+    "Notification",
+    "Mobile",
+    "Features",
+    "Web"
+  ],
+  "description": "A simple API to extend Notification events to mobile to rich threaded messaging features that let you manage web and mobile conversations concurrently"
+}

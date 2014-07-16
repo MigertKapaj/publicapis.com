@@ -1,0 +1,15 @@
+{
+  "id": "gat",
+  "title": "GAT",
+  "link": "http://www.gridlab.org/WorkPackages/wp-1/",
+  "image": "http://www.gridlab.org/WorkPackages/images/Layout_Logo.jpg",
+  "author": {
+    "name": "GridLab"
+  },
+  "tags": [
+    "Document",
+    "Required",
+    "Example"
+  ],
+  "description": "This guide is a document which covers in detail the elements required to write an adaptor for C GAT. It does this through examining each of the parts required for an adaptor then giving a full example of a C GAT adaptor's code. "
+}

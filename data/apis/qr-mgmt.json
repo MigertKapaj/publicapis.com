@@ -1,0 +1,16 @@
+{
+  "id": "qr-mgmt",
+  "title": "QR MGMT",
+  "link": "http://faq.kaywa.com/category/api/",
+  "image": "http://devfaq.kaywa.com/wp-content/uploads/2013/04/kaywa-faq-logo.png",
+  "author": {
+    "name": "kaywa"
+  },
+  "tags": [
+    "Includes",
+    "Write",
+    "Program",
+    "Decode"
+  ],
+  "description": "Our QR MGMT includes an open Application Programming Interface (API for short). This means that anyone can write their own program to use and decode QR Codes. There’s a list of API methods available to you to work with, so go and play!"
+}

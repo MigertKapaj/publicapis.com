@@ -1,0 +1,15 @@
+{
+  "id": "world-bank-currently",
+  "title": "World Bank currently",
+  "link": "http://data.worldbank.org/developers",
+  "image": "http://data.worldbank.org/profiles/datafinder/themes/wbbase/network/images/WB-LOGO-EN.gif",
+  "author": {
+    "name": "World Bank currently"
+  },
+  "tags": [
+    "Different",
+    "Data",
+    "Financial"
+  ],
+  "description": "The World Bank currently has three different APIs to provide access to different datasets: one for Indicators (or time series data), one for Projects (or data on the World Bank’s operations), and one for the World Bank financial data (World Bank Finances API)."
+}

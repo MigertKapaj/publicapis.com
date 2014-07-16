@@ -1,0 +1,15 @@
+{
+  "id": "springcm",
+  "title": "SpringCM",
+  "link": "https://www.springcm.com/faq/faqs-apis",
+  "image": "https://www.springcm.com/sites/springhome.localhost/files/logo.png",
+  "author": {
+    "name": "SpringCM"
+  },
+  "tags": [
+    "Service",
+    "Internet",
+    "Remote"
+  ],
+  "description": "Web services refers to a set of system functions on a server that are exposed to the Internet to allow (authenticated) remote systems to interact."
+}

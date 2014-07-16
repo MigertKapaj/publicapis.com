@@ -1,0 +1,13 @@
+{
+  "id": "imgur",
+  "title": "Imgur",
+  "link": "https://www.mashape.com/imgur/imgur-9",
+  "image": "",
+  "author": {
+    "name": "imgur"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Imgur's API exposes the entire Imgur infrastructure via a standardized programmatic interface. Using Imgur's API, you can do just about anything you can do on imgur.com, while using your programming language of choice. If you're familiar with the APIs of Twitter, Amazon's S3, del.icio.us, or a host of other web services, you'll feel right at home.\r\n\r\nThe full documentation is available at: http://api.imgur.com"
+}

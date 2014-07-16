@@ -1,0 +1,16 @@
+{
+  "id": "agendize-action",
+  "title": "Agendize Action",
+  "link": "http://developers.agendize.com/p/action",
+  "image": "http://developers.agendize.com/shared/img/agendize.gif",
+  "author": {
+    "name": "Agendize"
+  },
+  "tags": [
+    "Execute",
+    "Action",
+    "Widget",
+    "Website"
+  ],
+  "description": "With the Agendize Action API, you can execute any Agendize action programmatically, bypassing the default widgets and dialog boxes. With it, you can easily integrate Agendize features into your application, website or banner ad with your own user interface."
+}

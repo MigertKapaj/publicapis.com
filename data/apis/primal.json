@@ -1,0 +1,16 @@
+{
+  "id": "primal",
+  "title": "Primal",
+  "link": "http://about.primal.com/developers/documentation/content-service",
+  "image": "http://about.primal.com/images/logo.jpg",
+  "author": {
+    "name": "Primal"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Online",
+    "Interest"
+  ],
+  "description": "Primal powers a truly personalized experience for your users. Our cloud-based data service creates rich user-specific interest graphs. Primal then aggregates and filters Web content from any online source using your individual interest graphs."
+}

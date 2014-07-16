@@ -1,0 +1,15 @@
+{
+  "id": "xps",
+  "title": "XPS",
+  "link": "http://msdn.microsoft.com/en-us/library/windows/desktop/ff686814(v=vs.85).aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Epx/Themes/Windows/Content/Windows_logo.png",
+  "author": {
+    "name": "Windows Dev Center Desktop"
+  },
+  "tags": [
+    "Program",
+    "Document",
+    "Versions"
+  ],
+  "description": "The XPS Document API is a native Windows API that enables programs to create, read, edit, save, and print XPS documents. The XPS Document API is supported in Windows 7 and later versions of Windows, and can be used in user-mode programs and XPSDrv printer drivers."
+}

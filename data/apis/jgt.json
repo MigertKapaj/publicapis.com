@@ -1,0 +1,16 @@
+{
+  "id": "jgt",
+  "title": "JGT",
+  "link": "http://www.javagametome.com/api.html",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUFn_Q4PkGh0QLqce03BnJFG0FLPHPJ2ECCWVeqG5QEgA59s1-",
+  "author": {
+    "name": "JGT"
+  },
+  "tags": [
+    "Interface",
+    "Connecting",
+    "Service",
+    "Provided"
+  ],
+  "description": "The Java Game Tome Application Programming Interface (JGT API) allows connecting to the Java Game Tome and provides services such as game listings. Helper functions in the PHP programming language are provided. "
+}

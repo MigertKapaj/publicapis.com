@@ -1,0 +1,16 @@
+{
+  "id": "message-center",
+  "title": "Message Center",
+  "link": "http://developers.odesk.com/w/page/12364005/Message%20Center%20API",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Authorized",
+    "Send",
+    "Receive",
+    "Manage"
+  ],
+  "description": "The Message Center API allows authorized users to send, receive, view and manage messages in the oDesk message center."
+}

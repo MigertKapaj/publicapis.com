@@ -1,0 +1,16 @@
+{
+  "id": "europe-pubmed-central",
+  "title": "Europe PubMed Central",
+  "link": "http://europepmc.org/RestfulWebService",
+  "image": "http://europepmc.org/template/images/epmc-logo.png",
+  "author": {
+    "name": "Europe PubMed Central"
+  },
+  "tags": [
+    "Search",
+    "Query",
+    "SOAP",
+    "Web"
+  ],
+  "description": "Users may wish to apply search fields to retrieve data, for example when using the ‘search’ module. View the ‘search’ module ‘query’ parameter section below for examples. Also see the tips at the end of each module section. A comprehensive list of search terms can be found on the Help page, and also in the SOAP Web Service Reference Guide."
+}

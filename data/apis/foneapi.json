@@ -1,0 +1,15 @@
+{
+  "id": "foneapi",
+  "title": "foneAPI",
+  "link": "http://pre.foneapi.com/index.php/docs/",
+  "image": "http://pre.foneapi.com/wp-content/uploads/2011/11/custom_login_logo.png",
+  "author": {
+    "name": "foneAPI"
+  },
+  "tags": [
+    "Initiate",
+    "Execute",
+    "Events"
+  ],
+  "description": "It consists of two main parts, the foneAPI switch which waits for incoming calls on customer numbers and initiate calls on behalf of customers. Customer applications can though the foneAPI rest API, execute actions on calls and receive events on ongoing phone calls"
+}

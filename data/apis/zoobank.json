@@ -1,0 +1,15 @@
+{
+  "id": "zoobank",
+  "title": "ZooBank",
+  "link": "http://zoobank.org/Api",
+  "image": "http://zoobank.org/images/zoobank-logo.gif",
+  "author": {
+    "name": "ZooBank"
+  },
+  "tags": [
+    "Publications",
+    "Static",
+    "Documents"
+  ],
+  "description": "A static documentation source. Examples include: Publications, printed documents, static electronic documents, snapshop versions of databases. In the context of ZooBank, only References that are Published Works (in the sense of the Code) are registered."
+}

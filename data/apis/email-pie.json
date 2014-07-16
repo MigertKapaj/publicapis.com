@@ -1,0 +1,15 @@
+{
+  "id": "email-pie",
+  "title": "Email Pie",
+  "link": "http://emailpie.com/",
+  "image": "http://emailpie.com/static/img/email.png",
+  "author": {
+    "name": "Email Pie"
+  },
+  "tags": [
+    "Validate",
+    "Simplr Way",
+    "Legit"
+  ],
+  "description": "Email Pie is a wonderful little JSON API that gives you a simple way to validate email addresses. We'll let you know if that email address is legit or not.\n\n  "
+}

@@ -1,0 +1,13 @@
+{
+  "id": "viki",
+  "title": "Viki’",
+  "link": "http://dev.viki.com/v3/api/",
+  "image": "",
+  "author": {
+    "name": "Viki’"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This is the documentation for version 3 of Viki’s official API. This API is still a work in progress, which means periodic changes are expected from time to time. Viki API V2 is deprecated, though documentation may still be found here."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sunnytrail",
+  "title": "Sunnytrail",
+  "link": "https://www.thesunnytrail.com/",
+  "image": "https://www.thesunnytrail.com/static/images/logo_sunnytrail_blue_cut.png",
+  "author": {
+    "name": "Sunnytrail"
+  },
+  "tags": [
+    "Automates",
+    "Research",
+    "Message"
+  ],
+  "description": "Sunnytrail automates your customer research efforts so that you can focus on crafting your message and reaching out."
+}

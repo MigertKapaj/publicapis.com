@@ -1,0 +1,16 @@
+{
+  "id": "idrive-evs",
+  "title": " IDrive EVS",
+  "link": "http://evs.idrive.com/getting-started.htm#two",
+  "image": "http://evs.idrive.com/images/idevs_new_logo.png",
+  "author": {
+    "name": " IDrive EVS"
+  },
+  "tags": [
+    "Server",
+    "Dynamic",
+    "Data",
+    "Periodically"
+  ],
+  "description": "It is important to note that the IDrive server address is dynamic and may change over a period of time as physically the data may get moved to another server. So depending on your application needs, you may need to call this API periodically to get the current IDrive server address applicable for the user. "
+}

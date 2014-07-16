@@ -1,0 +1,15 @@
+{
+  "id": "local-mobile",
+  "title": "Local Mobile",
+  "link": "http://corporate.zvents.com/developers/",
+  "image": "http://corporate.zvents.com/images/lgo-zvents.gif",
+  "author": {
+    "name": "Zvents"
+  },
+  "tags": [
+    "Provides",
+    "Access",
+    "Performers"
+  ],
+  "description": "The Zvents Mobile API provides programmatic access to business listings, events, performers, users and tags indexed by Zvents."
+}

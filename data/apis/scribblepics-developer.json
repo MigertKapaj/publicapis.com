@@ -1,0 +1,16 @@
+{
+  "id": "scribblepics-developer",
+  "title": "ScribblePics developer",
+  "link": "http://www.scribblepics.com/api",
+  "image": "",
+  "author": {
+    "name": "ScribblePics"
+  },
+  "tags": [
+    "Integrate",
+    "Applications",
+    "Language",
+    "Create"
+  ],
+  "description": "The ScribblePics developer API enables you to easily integrate real postcards into your applications.\nWith our JSON API you can use any modern programming language to create, preview and send real postcards.\n            "
+}

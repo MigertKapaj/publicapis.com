@@ -1,0 +1,14 @@
+{
+  "id": "thrillcall",
+  "title": "Thrillcall",
+  "link": "https://github.com/thrillcall/thrillcall-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Describes",
+    "Provided"
+  ],
+  "description": "This document describes the Thrillcall API v3, and usage for the provided Ruby API wrapper gem."
+}

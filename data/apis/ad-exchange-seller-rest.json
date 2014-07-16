@@ -1,0 +1,16 @@
+{
+  "id": "ad-exchange-seller-rest",
+  "title": "Ad Exchange Seller REST",
+  "link": "https://developers.google.com/ad-exchange/seller-rest/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Developrs",
+    "Reports",
+    "Earnings",
+    "Channels"
+  ],
+  "description": "The Ad Exchange Seller REST API enables developers to obtain reports on Ad Exchange earnings and manage Ad Exchange ad clients, ad units, URL channels, and custom channels."
+}

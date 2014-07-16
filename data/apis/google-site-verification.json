@@ -1,0 +1,15 @@
+{
+  "id": "google-site-verification",
+  "title": "Google Site Verification",
+  "link": "https://developers.google.com/site-verification/v1/getting_started",
+  "image": "https://developers.google.com/_static/b23c2cb352/images/developers-logo.svg",
+  "author": {
+    "name": "Google Developers"
+  },
+  "tags": [
+    "Develop",
+    "Process",
+    "Services"
+  ],
+  "description": "The Google Site Verification API lets you develop applications or services that automate the process of verifying that the authenticated user owns a domain or website. This is important, since some Google services can only be used by site owners."
+}

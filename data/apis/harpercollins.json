@@ -1,0 +1,16 @@
+{
+  "id": "harpercollins",
+  "title": "HarperCollins ",
+  "link": "http://developer.harpercollins.com/",
+  "image": "http://developer.harpercollins.com/files/Graphic_06b.png",
+  "author": {
+    "name": "HarperCollins "
+  },
+  "tags": [
+    "Publishers",
+    "Information",
+    "Mashup",
+    "Influence"
+  ],
+  "description": "In another technology step forward, HarperCollins Publishers presents The OpenBook API -  giving EVERYONE the access to information and tools to build their own book and author related applications and mashups.See how access to data puts *you* in control.  We give you access to both book and author information - and you can influence the future."
+}

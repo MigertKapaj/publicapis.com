@@ -1,0 +1,16 @@
+{
+  "id": "wexs",
+  "title": "WEXs",
+  "link": "http://www.tradewex.com/Integration/Api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTBOmfJpqluuyLIBQOkY9j3mimE6oqBeeMTVCNvTsoVIaL_A8QJ",
+  "author": {
+    "name": "Wex"
+  },
+  "tags": [
+    "Develop",
+    "Mature",
+    "Compatible",
+    "Provides"
+  ],
+  "description": "WEX's programming API provides software developers a framework to develop feature rich applications that can leverage our mature and robust proprietary trading platform. Utilizing Microsoft's .Net framework and COM interface, the WEX API is compatible with a number of languages including C#, VisualBasic, VBA, and C++. From order placement and position management to crafting complex trading strategies, the WEX API provides the tools you need to get the job done."
+}

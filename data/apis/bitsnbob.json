@@ -1,0 +1,15 @@
+{
+  "id": "bitsnbob",
+  "title": "Bitsnbob",
+  "link": "http://jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fwww.bitsnbobs.co.uk%2Fhelp%2F12%2Fa_guide_to_bitsnbobscouk",
+  "image": "http://www.bitsnbobs.co.uk/Images/Logo.gif",
+  "author": {
+    "name": "Bitsnbob"
+  },
+  "tags": [
+    "Introduced",
+    "Developers",
+    "Post"
+  ],
+  "description": "We have recently introduced an API to allow developers to access and post items for sale on Bitsnbob.co.uk. Please contact us for more information. "
+}

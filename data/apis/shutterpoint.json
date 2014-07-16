@@ -1,0 +1,17 @@
+{
+  "id": "shutterpoint",
+  "title": "ShutterPoint",
+  "link": "http://www.shutterpoint.com/Home-API.cfm",
+  "image": "http://www.shutterpoint.com/images/Tab1_logo.jpg",
+  "author": {
+    "name": "ShutterPoint"
+  },
+  "tags": [
+    "Application",
+    "Image",
+    "Online",
+    "System",
+    "Described"
+  ],
+  "description": "ShutterPoint API allows a third party web site or an application to submit image files to ShutterPoint on behalf of the end user. The API is an HTTP form post to the ShutterPoint online system that consists of name-value pairs described below. "
+}

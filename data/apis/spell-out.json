@@ -1,0 +1,16 @@
+{
+  "id": "spell-out",
+  "title": "Spell Out",
+  "link": "http://spellout.org/api",
+  "image": "",
+  "author": {
+    "name": "Spell Out"
+  },
+  "tags": [
+    "Functions",
+    "JSONP",
+    "Parameter",
+    "Wrapped"
+  ],
+  "description": "All API functions support the JSONP method: if an optional request parameter callback=functionName is specified, the JSON response will be wrapped into a functionName() call."
+}

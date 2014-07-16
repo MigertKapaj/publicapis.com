@@ -1,0 +1,15 @@
+{
+  "id": "the-cambridge-dictionaries-online",
+  "title": "The Cambridge Dictionaries Online",
+  "link": "http://dictionary-api.cambridge.org/",
+  "image": "http://dictionary-api.cambridge.org/images/logo.png",
+  "author": {
+    "name": "Cambridge Dictionaries Online"
+  },
+  "tags": [
+    "Range",
+    "Dictionaries",
+    "Advanced"
+  ],
+  "description": "The Cambridge Dictionaries Online API gives you access to a range of dictionaries and dictionary resources. We currently offer these titles: Cambridge Advanced Learner’s DictionaryCambridge Dictionary of American EnglishCambridge Business English Dictionary"
+}

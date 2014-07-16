@@ -1,0 +1,14 @@
+{
+  "id": "commission-reporting",
+  "title": "Commission Reporting",
+  "link": "https://api-reports.skimlinks.com/doc/",
+  "image": "https://skimlinks.com/img/logo.png",
+  "author": {
+    "name": "Skimlinks"
+  },
+  "tags": [
+    "Current",
+    "Historical"
+  ],
+  "description": "This API allows publishers to query current and historical information pertaining to their commissions."
+}

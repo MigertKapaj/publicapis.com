@@ -1,0 +1,14 @@
+{
+  "id": "count.io",
+  "title": "Count.io",
+  "link": "http://count.io/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2HE9qFQj3y-66GqEz2y6XMC6aAab9Cjy4shIfcwXvZEz1rZ-y",
+  "author": {
+    "name": "Count.io"
+  },
+  "tags": [
+    "Challenge",
+    "Persistent"
+  ],
+  "description": "Counting is a simple programming challenge. However, keeping your count persistent can be a pain.\nFor this, we created count.io."
+}

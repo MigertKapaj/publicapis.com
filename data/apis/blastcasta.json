@@ -1,0 +1,15 @@
+{
+  "id": "blastcasta",
+  "title": "BlastCasta",
+  "link": "http://www.blastcasta.com/api.aspx",
+  "image": "http://www.blastcasta.com/images/logo-new.gif",
+  "author": {
+    "name": "BlastCasta"
+  },
+  "tags": [
+    "Service",
+    "Process",
+    "Multiple"
+  ],
+  "description": "The BlastCasta Feed API provides a powerful library of feed modifying web services that you can use to process and create customized feeds for yourself or for your readers. For example, your application can call into the BlastCasta Feed API to convert a feed from RSS format to Atom, to combine multiple feeds into one, to translate a feed, and a lot more."
+}

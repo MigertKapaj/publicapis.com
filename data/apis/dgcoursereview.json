@@ -1,0 +1,16 @@
+{
+  "id": "dgcoursereview",
+  "title": "DGCourseReview",
+  "link": "http://www.dgcoursereview.com/api.php",
+  "image": "http://www.dgcoursereview.com/images/header_logo.png",
+  "author": {
+    "name": "DGCourseReview"
+  },
+  "tags": [
+    "Course",
+    "Application",
+    "Branding",
+    "Approved"
+  ],
+  "description": "DGCourseReview's API program enables you to access course information in real time, such as basic course details, course hole information, and overall course rating into your consumer web site or mobile application provided that you follow our Display Requirements and API Terms of Use including appropriate branding and linking to DGCourseReview. Any uses of DGCourseReview content must also be approved by DGCourseReview. "
+}

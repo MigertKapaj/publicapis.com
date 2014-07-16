@@ -1,0 +1,15 @@
+{
+  "id": "rankur",
+  "title": "rankur",
+  "link": "http://rankur.com/api-documentation.html",
+  "image": "http://rankur.com/wp-content/uploads/2013/08/rankur3logo.png",
+  "author": {
+    "name": "rankur"
+  },
+  "tags": [
+    "Search",
+    "Data",
+    "Process"
+  ],
+  "description": "With our API you can receive your search results, metric results and summarized trend info as structured data and process them in your own software tool. "
+}

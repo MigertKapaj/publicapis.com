@@ -1,0 +1,15 @@
+{
+  "id": "citypockets",
+  "title": "Citypockets",
+  "link": "http://www.citypockets.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSfbJfSIP_gb5lgJiM0SEgUSwZjmtue9GyFKrJGjJCmd1Xq5_TUkw",
+  "author": {
+    "name": "Citypockets"
+  },
+  "tags": [
+    "Friendly",
+    "Reminders",
+    "Selling"
+  ],
+  "description": "We automagically import all your daily deal vouchers from various deal sites so you can keep track of them in one spot. We send friendly expiration reminders so you don't forget about them. Can't use a deal you bought? Recoup your money by selling your deal in our marketplace."
+}

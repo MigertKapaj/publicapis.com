@@ -1,0 +1,15 @@
+{
+  "id": "cocoa-frameworks",
+  "title": "Cocoa Frameworks",
+  "link": "https://developer.apple.com/technologies/mac/cocoa.html",
+  "image": "https://devimages.apple.com.edgekey.net/assets/elements/header/developer.png",
+  "author": {
+    "name": "Apple Developer"
+  },
+  "tags": [
+    "Runtimes",
+    "Creating",
+    "Consist"
+  ],
+  "description": "The Cocoa frameworks consist of libraries, APIs, and runtimes that form the development layer for all of OS X. By developing with Cocoa, you will be creating applications the same way OS X itself is created."
+}

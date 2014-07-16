@@ -1,0 +1,15 @@
+{
+  "id": "semetric",
+  "title": "Semetric",
+  "link": "http://semetric.com/products/",
+  "image": "http://semetric.com/_assets/img/logo.png",
+  "author": {
+    "name": "Semetric"
+  },
+  "tags": [
+    "Products",
+    "Data",
+    "Accessed"
+  ],
+  "description": "All Semetric products are driven by our API. This means any data, charts or analysis can be bulk accessed programatically for ingestion to any existing platform. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bibserver",
+  "title": "BibServer",
+  "link": "http://bibserver.readthedocs.org/en/latest/",
+  "image": "",
+  "author": {
+    "name": "BibServer"
+  },
+  "tags": [
+    "Data",
+    "Manage",
+    "Publication"
+  ],
+  "description": "BibServer is an open-source RESTful bibliographic data server. BibServer makes it easy to create and manage collections of bibliographic records such as reading lists, publication lists and even complete library catalogs."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "gbr",
+  "title": "GBR",
+  "link": "http://www.gbrdirect.eu/GBRDirectAPI.aspx",
+  "image": "http://www.gbrdirect.eu/images/logo.png",
+  "author": {
+    "name": "GBR Direct"
+  },
+  "tags": [
+    "Experience",
+    "Profiles",
+    "Integrating",
+    "Directly"
+  ],
+  "description": "GBR API Provides a better experience: Build better experiences on your site by \nintegrating company profiles, person profiles and company documents \ndirectly into your business processes."
+}

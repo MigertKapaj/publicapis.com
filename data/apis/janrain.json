@@ -1,0 +1,16 @@
+{
+  "id": "janrain",
+  "title": "Janrain",
+  "link": "http://developers.janrain.com/",
+  "image": "http://developers.janrain.com/wp-content/themes/documentation-theme/assets/images/logo.png?1392231671",
+  "author": {
+    "name": "Janrain"
+  },
+  "tags": [
+    "Requests",
+    "Retrieve",
+    "Map",
+    "Application"
+  ],
+  "description": "Janrain provides access to advanced features through a RESTful web API that requires only the ability to post HTTPS requests and parse XML or JSON responses. You can use these requests to retrieve contact data, map an identity to multiple accounts, and more. The RESTful format allows you to communicate with your application, and relay the results to your own site."
+}

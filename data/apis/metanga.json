@@ -1,0 +1,14 @@
+{
+  "id": "metanga",
+  "title": "Metanga",
+  "link": "http://howto.metanga.com/M%29_For_Developers/M-c%29_RESTful_SDK_Reference/Authentication",
+  "image": "http://howto.metanga.com/@api/deki/site/logo.png",
+  "author": {
+    "name": "Metanga"
+  },
+  "tags": [
+    "Provides",
+    "Services"
+  ],
+  "description": "This page provides a brief overview explaining how to work with Metanga's web services API."
+}

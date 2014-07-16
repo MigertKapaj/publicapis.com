@@ -1,0 +1,15 @@
+{
+  "id": "longurl",
+  "title": "LongURL",
+  "link": "http://longurl.org/api",
+  "image": "http://assets.longurl.org/static/images/longurl-logo.png?1271277480",
+  "author": {
+    "name": "LongURL"
+  },
+  "tags": [
+    "Provides",
+    "Service",
+    "Subject"
+  ],
+  "description": "LongURL provides a simple RESTful API to allow application developers to easily use its service. This documentation and the API are subject to change."
+}

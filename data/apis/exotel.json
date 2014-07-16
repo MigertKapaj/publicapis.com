@@ -1,0 +1,16 @@
+{
+  "id": "exotel",
+  "title": "Exotel",
+  "link": "http://exotel.in/features/api-integration/",
+  "image": "http://exotel.in/wp-content/uploads/2013/01/openvbx-header-newlogo.png",
+  "author": {
+    "name": "Exotel"
+  },
+  "tags": [
+    "E- commerce",
+    "Dymamic",
+    "Companies",
+    "Information"
+  ],
+  "description": "You have a CRM/Web application/E-Commerce site and want to integrate an IVRS or SMS system to provide dynamic content to your end customer? Use Exotel API – easy to integrate and very simple to use. We allow companies to use our existing Apps + API to build some great integration with their current systems. For more information check our API Docs ."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "astute-payroll",
+  "title": "Astute Payroll",
+  "link": "http://www.astutepayroll.com/developers.php",
+  "image": "http://www.astutepayroll.com/common/images/logo.png",
+  "author": {
+    "name": "astutepayroll"
+  },
+  "tags": [
+    "Integrate",
+    "Data",
+    "Components",
+    "Service"
+  ],
+  "description": "The Astute Payroll API's are programming interfaces that programmers can use to integrate the Astute Payroll application with third-party applications and data. The API's also provide mechanisms that enable you to customize the Astute Payroll user interface with custom components and validations. The API's were designed for use by either customers or partners that wish to integrate their products and services with the Astute Payroll application."
+}

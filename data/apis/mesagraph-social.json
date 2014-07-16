@@ -1,0 +1,15 @@
+{
+  "id": "mesagraph-social",
+  "title": "Mesagraph Social",
+  "link": "https://developers.mesagraph.com/api-reference/",
+  "image": "https://developers.mesagraph.com/logo-mesagraph.png",
+  "author": {
+    "name": "Mesagraph"
+  },
+  "tags": [
+    "Conversation",
+    "Experiences",
+    "Product"
+  ],
+  "description": "Mesagraph Social TV API uses the Mesagraph platform to gather conversations happening in real-time on Twitter about TV shows. With our API, you can start building Social TV experiences now, right into your product."
+}

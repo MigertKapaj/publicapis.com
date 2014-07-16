@@ -1,0 +1,15 @@
+{
+  "id": "metalocator",
+  "title": "\n                                                                            \n                                                                        \n                                                            \n                                                    \n                                                    \n                                                    \n                                                    MetaLocator",
+  "link": "http://www.metalocator.com/api/",
+  "image": "http://www.metalocator.com/wp-content/uploads/2012/12/web_white2.png",
+  "author": {
+    "name": "\n                                                                            \n                                                                        \n                                                            \n                                                    \n                                                    \n                                                    \n                                                    MetaLocator"
+  },
+  "tags": [
+    "Service",
+    "Solution",
+    "Implementation"
+  ],
+  "description": "The API is rate limited to 500 requests per hour per IP address.The API is not a Platform-as-a-Service (PaaS) solution, but allows complete remote management of your data.Implementation of the API is subject to the MetaLocator scope of support."
+}

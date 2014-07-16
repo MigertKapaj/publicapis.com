@@ -1,0 +1,15 @@
+{
+  "id": "hotel",
+  "title": "Hotel",
+  "link": "http://fastdocs.travelfusion.com/hotel-api-specification-October-2011",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTHT9jnNtFoXWXiShje_N2YIQu6YAuJlud29e1nG_SXwWDOF8RQ",
+  "author": {
+    "name": "travelfusion"
+  },
+  "tags": [
+    "Attributes",
+    "Functions",
+    "Response"
+  ],
+  "description": "This guide is designed to give a quick start to your integration with the Travelfusion Hotel Booking API. In the XML examples below, various XML elements and attributes have been omitted for simplicity. There are also many more details, features and functions available that you can read about in our XML Request and Reponse Specifications."
+}

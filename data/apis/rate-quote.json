@@ -1,0 +1,16 @@
+{
+  "id": "rate-quote",
+  "title": "Rate Quote",
+  "link": "http://www.myfreight.com/Rate-Quote-API",
+  "image": "http://www.myfreight.com/images/header-870x178.jpg",
+  "author": {
+    "name": "MyFreight"
+  },
+  "tags": [
+    "Integrates",
+    "Employees",
+    "Robust",
+    "Shipping"
+  ],
+  "description": "The Rate Quote Application Programming Interface (API) integrates myFreight’s rates into your internal system and your customers and  employees have access to myFreight’s robust carrier rates and market capacity.Your clients can estimate shipping costs on-demand and streamlining the buying process by automating shipping requirements and generating rate quotes without a phone call."
+}

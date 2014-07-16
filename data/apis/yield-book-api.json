@@ -1,0 +1,15 @@
+{
+  "id": "yield-book-api",
+  "title": "Yield Book API",
+  "link": "https://www.yieldbook.com/m/products/api/",
+  "image": "https://www.yieldbook.com/m/src/img/logos/yield-book-logo.jpg",
+  "author": {
+    "name": "Yield Book"
+  },
+  "tags": [
+    "Income",
+    "Market",
+    "Accurate"
+  ],
+  "description": "The Yield Book is the trusted and authoritative fixed income analytics system that enables market makers and institutional investors to perform complex and highly accurate portfolio analysis and risk management."
+}

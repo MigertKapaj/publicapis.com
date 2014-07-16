@@ -1,0 +1,13 @@
+{
+  "id": "texas-holdem",
+  "title": "Texas Holdem",
+  "link": "https://www.mashape.com/neurone/texas-holdem",
+  "image": "",
+  "author": {
+    "name": "neurone"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "With this API you can easily create a full Texas Holdem game, just create the graphic and associate it with the results."
+}

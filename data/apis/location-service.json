@@ -1,0 +1,13 @@
+{
+  "id": "location-service",
+  "title": "Location Service",
+  "link": "https://www.mashape.com/lasoo/location-service",
+  "image": "",
+  "author": {
+    "name": "lasoo"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Location suburb/postcode information which can is used to populate type ahead drop down similar to we have it on Lasoo.com.au. Check right hand side corner on our site.\r\n\r\nThis service is available for Australian locations only."
+}

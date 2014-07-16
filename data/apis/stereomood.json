@@ -1,0 +1,16 @@
+{
+  "id": "stereomood",
+  "title": "Stereomood",
+  "link": "http://www.stereomood.com/api/documentation/",
+  "image": "http://www.stereomood.com/gui/img/logo.png",
+  "author": {
+    "name": "Stereomood"
+  },
+  "tags": [
+    "Websites",
+    "Developers",
+    "Interact",
+    "Protocol"
+  ],
+  "description": "We provide you an API method for just about every feature you can see on our website. developers use the stereomood API to make applications, websites, widgets, and other projects that interact with stereomood. programs talk to the stereomood API over HTTP, the same protocol that your browser uses to visit and interact with web pages. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "captricity",
+  "title": "Captricity",
+  "link": "http://captricity.com/api/",
+  "image": "https://shreddr.captricity.com/static/images/cap_logo_white.png",
+  "author": {
+    "name": "Captricity"
+  },
+  "tags": [
+    "Data",
+    "Extraction",
+    "Demand"
+  ],
+  "description": "The Captricity API allows you to seamlessly blend structured data extraction from paper forms into your custom applications. For the first time, high-quality extraction of all data types (multiple choice, numbers, even handwriting!) from paper is available as an on-demand API, 24/7."
+}

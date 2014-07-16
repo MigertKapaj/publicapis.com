@@ -1,0 +1,16 @@
+{
+  "id": "cloudmade",
+  "title": "CloudMade",
+  "link": "http://cloudmade.com/",
+  "image": "http://cloudmade.com/sites/all/themes/cmnewweb/images/logo.png",
+  "author": {
+    "name": "CloudMade"
+  },
+  "tags": [
+    "Automotive",
+    "Deliver",
+    "Connected",
+    "Pioneer"
+  ],
+  "description": "CloudMade works with the world's leading automotive and consumer electronics OEMs to help them deliver mobility experiences that are truly remarkable.  From smartphones to wearables to the connected car, CloudMade is an established pioneer of location based technologies that enable bold new user experiences."
+}

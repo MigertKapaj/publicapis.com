@@ -1,0 +1,15 @@
+{
+  "id": "exceptional-publish",
+  "title": "Exceptional Publish",
+  "link": "http://docs.exceptional.io/api/publish/",
+  "image": "http://docs.exceptional.io/img/logo.png",
+  "author": {
+    "name": "Exceptional Doc"
+  },
+  "tags": [
+    "Accepts",
+    "Error",
+    "Exceptional"
+  ],
+  "description": "The Exceptional Publish API accepts error information which is then processed and made available on exceptional.io."
+}

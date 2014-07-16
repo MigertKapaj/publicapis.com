@@ -1,0 +1,16 @@
+{
+  "id": "screach",
+  "title": " Screach",
+  "link": "http://dev.screach.com/api-v3",
+  "image": "http://dev.screach.com/wp-content/themes/wiki_new/images/logo.png",
+  "author": {
+    "name": " Screach"
+  },
+  "tags": [
+    "Website",
+    "Data",
+    "Expriences",
+    "Metohd"
+  ],
+  "description": "Using our new API, you can embed Screach features directly within your Mobile application or use the Screach data within ‘Websites’, ‘Widgets’, etc. Screach data is accessed directly through the API, giving you access to everything from discovering experiences around you, to profiling users. Screach uses a two way authentication method to authenticate certain requests."
+}

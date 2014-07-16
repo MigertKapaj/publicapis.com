@@ -1,0 +1,15 @@
+{
+  "id": "drcog",
+  "title": "DRCOG",
+  "link": "http://gis.drcog.org/datacatalog/content/cookbook/identify-api-function",
+  "image": "http://gis.drcog.org/datacatalog/sites/default/files/bartik_mod_logo.png",
+  "author": {
+    "name": "DRCOG"
+  },
+  "tags": [
+    "Data",
+    "Provides",
+    "Services"
+  ],
+  "description": "The DRCOG Regional Data Catalog is an ever-growing resource for data in the Denver region. This API provides a way for developers to interact with that data through RESTful web services to build interesting web applications."
+}

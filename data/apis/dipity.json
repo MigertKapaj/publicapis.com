@@ -1,0 +1,15 @@
+{
+  "id": "dipity",
+  "title": "Dipity",
+  "link": "http://www.dipity.com/developer",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTMWLOChSx0CPDjxU1pg3BmGP_2E1r_LqYcNUECS_jP_Zc1lsQzcA",
+  "author": {
+    "name": "dipity"
+  },
+  "tags": [
+    "Data",
+    "Web",
+    "Mashups"
+  ],
+  "description": "The REST-based API returns data in a form that can be easily integrated into another application or web site. You can develop Dipity applications for a mobile phone, build a Dipity widget for your blog, or create mashups with other web applications."
+}

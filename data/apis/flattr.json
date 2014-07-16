@@ -1,0 +1,16 @@
+{
+  "id": "flattr",
+  "title": "Flattr",
+  "link": "http://developers.flattr.net/",
+  "image": "http://developers.flattr.net/styles/img/logo.png",
+  "author": {
+    "name": "Flattr"
+  },
+  "tags": [
+    "Integrate",
+    "Authentication",
+    "Create",
+    "Delete"
+  ],
+  "description": "Use our REST API if you want to integrate with Flattr. It offers OAuth2 authentication of Flattr users, ways to create, delete and update things and much more.\n  "
+}

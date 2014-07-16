@@ -1,0 +1,16 @@
+{
+  "id": "spinn3r",
+  "title": "Spinn3r",
+  "link": "http://spinn3r.com/service",
+  "image": "",
+  "author": {
+    "name": "Spinn3r"
+  },
+  "tags": [
+    "Integrates",
+    "Java",
+    "Language",
+    ""
+  ],
+  "description": "We ship a standard reference client that integrates directly with your pipeline. If you're running Java, you can get up and running in less than an hour. If you're using another language, you only need to parse out a few XML files every few seconds, but the set up is still pretty straight forward."
+}

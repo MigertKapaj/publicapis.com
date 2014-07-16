@@ -1,0 +1,16 @@
+{
+  "id": "tempodb",
+  "title": "TempoDB",
+  "link": "https://tempo-db.com/docs/api/",
+  "image": "https://tempo-db.com/static/images/words_logo.png",
+  "author": {
+    "name": "TempoDB"
+  },
+  "tags": [
+    "Read",
+    "Data",
+    "Identified",
+    "Specified"
+  ],
+  "description": "TempoDB offers a ReST API to create new series, and read and write data. Every series can be identified by a system generated id or an optional user specified key. "
+}

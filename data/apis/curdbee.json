@@ -1,0 +1,15 @@
+{
+  "id": "curdbee",
+  "title": "CurdBee",
+  "link": "http://curdbee.com/api/",
+  "image": "http://curdbee.com/assets/images/curdbee_home_logo.png",
+  "author": {
+    "name": "CurdBee"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Resource"
+  ],
+  "description": "CurdBee provides easy access to all your data via a JSON and XML-based RESTful API. With the API, you can access to following resource types. Visit each section to learn about the actions available for them."
+}

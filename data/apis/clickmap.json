@@ -1,0 +1,13 @@
+{
+  "id": "clickmap",
+  "title": "Clickmap",
+  "link": "http://www.clickmap.ch/de/apidoc/",
+  "image": "http://www.clickmap.ch/static/images/clickmap_RGB_175_neg.png",
+  "author": {
+    "name": "Clickmap"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

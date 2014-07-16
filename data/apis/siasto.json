@@ -1,0 +1,16 @@
+{
+  "id": "siasto",
+  "title": "Siasto",
+  "link": "https://www.siasto.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSce3NXmrUImIxAjlf0R7XcsthQGTm-sL6SpnECneyb3kcRWzku",
+  "author": {
+    "name": "Siasto"
+  },
+  "tags": [
+    "Access",
+    "Teams",
+    "Projects",
+    "Application"
+  ],
+  "description": "The Siasto API gives you programmatic access to all of the people, teams, projects, and other resources associated with your Siasto account. You can use it to augment an existing applications, or even to build your own applications from scratch. "
+}

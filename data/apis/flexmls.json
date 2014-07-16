@@ -1,0 +1,15 @@
+{
+  "id": "flexmls",
+  "title": "Flexmls",
+  "link": "https://www.flexmls.com/developers/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRkxkbclCOoSS-oD4wdrN5Rq18yo-fMxW4fMCoerC2Jy2D4KhGKDg",
+  "author": {
+    "name": "flexmls"
+  },
+  "tags": [
+    "Shares",
+    "Separate",
+    "Platform"
+  ],
+  "description": "Please note that, even though the Flexmls IDX API shares the the same API as the Spark Platform, signing up for and using the Flexmls IDX API is separate from the Spark Platform."
+}

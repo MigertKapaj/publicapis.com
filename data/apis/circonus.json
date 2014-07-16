@@ -1,0 +1,14 @@
+{
+  "id": "circonus",
+  "title": "Circonus",
+  "link": "https://login.circonus.com/resources/api",
+  "image": "https://login.circonus.com/i/present/product-logo-rev2.png",
+  "author": {
+    "name": "Circonus"
+  },
+  "tags": [
+    "Rest",
+    "Resource"
+  ],
+  "description": "The Circonus API is a REST based API. Accessing and modifying a resource is achived by using HTTP verbs on the URL that corresponds to the Circonus ID (cid) for that resource."
+}

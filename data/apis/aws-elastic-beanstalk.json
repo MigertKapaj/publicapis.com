@@ -1,0 +1,15 @@
+{
+  "id": "aws-elastic-beanstalk",
+  "title": "AWS Elastic Beanstalk",
+  "link": "http://aws.amazon.com/archives/AWS-Elastic-Beanstalk",
+  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Data",
+    "Repository",
+    "Services"
+  ],
+  "description": "Public Data Sets on AWS provides a centralized repository of public data sets that can be seamlessly integrated into AWS cloud-based applications. AWS is hosting the public data sets at no charge for the community, and like all AWS services, users pay only for the compute and storage they use for their own applications."
+}

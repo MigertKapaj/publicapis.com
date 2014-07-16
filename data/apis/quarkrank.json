@@ -1,0 +1,16 @@
+{
+  "id": "quarkrank",
+  "title": "quarkrank",
+  "link": "http://www.quarkrank.com/api",
+  "image": "http://www.quarkrank.com/images/api/logo.png",
+  "author": {
+    "name": "quarkrank"
+  },
+  "tags": [
+    "Access",
+    "Repository",
+    "Sentiment",
+    "Interact"
+  ],
+  "description": "We provide a RESTful API to access our huge repository of reviews summarized by sentiment analysis. Send us simple HTTP requests and we will send back basic XML responses, which means you can interact with our API from any language. "
+}

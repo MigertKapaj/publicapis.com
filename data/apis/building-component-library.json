@@ -1,0 +1,16 @@
+{
+  "id": "building-component-library",
+  "title": "Building Component Library",
+  "link": "https://bcl.nrel.gov/developer",
+  "image": "https://bcl.nrel.gov/sites/all/themes/nrel_fusion/images/nrel_logo.jpg",
+  "author": {
+    "name": "Building Component Library"
+  },
+  "tags": [
+    "Programitically",
+    "Query",
+    "Path",
+    ""
+  ],
+  "description": "The Building Component Library is accessible pragmatically through a RESTful API.  The API will allow users to query the library.\nThe URL to query the Library for components is: http://bcl.nrel.gov/api/search/with the search term added to the path.  The query will return a list \nof components and the details as xml, json, or yaml document by appending a dot (“.”) and the appropriate document type."
+}

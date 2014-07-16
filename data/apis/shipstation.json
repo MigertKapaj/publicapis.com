@@ -1,0 +1,15 @@
+{
+  "id": "shipstation",
+  "title": "ShipStation",
+  "link": "http://api.shipstation.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbt619XAeUANIOXqPeJPZamkRCHwpGAF3mEmIEPJOKRpjkjBDeGg",
+  "author": {
+    "name": "ShipStation"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Specific"
+  ],
+  "description": "The ShipStation API provides programmatic access to many of the records in your ShipStation account. This allows for read access to almost all data in your ShipStation account and write access to specific objects like Orders, Customers and Products."
+}

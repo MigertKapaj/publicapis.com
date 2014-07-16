@@ -1,0 +1,15 @@
+{
+  "id": "the-times-developer-network",
+  "title": "The Times Developer Network",
+  "link": "http://developer.nytimes.com/",
+  "image": "http://developer.nytimes.com/files/NYTDevLogo.png",
+  "author": {
+    "name": " Times Developer Network"
+  },
+  "tags": [
+    "community",
+    "documentation",
+    "experiment"
+  ],
+  "description": "The Times Developer Network is our API clearinghouse and community. Here's how to get started Request an API keyRead the API documentation, FAQ and Terms of Use. Use the APITool to experiment without writing codeBrowse the application galleryConnect with other developers in the forum"
+}

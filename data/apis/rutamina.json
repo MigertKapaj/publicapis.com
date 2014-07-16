@@ -1,0 +1,16 @@
+{
+  "id": "rutamina",
+  "title": "Rutamina",
+  "link": "http://en.rutamina.com/api",
+  "image": "http://ads.enala.net/openx/www/images/030df1b7ba71ee7d5ef077f979d37138.gif",
+  "author": {
+    "name": "Rutamina"
+  },
+  "tags": [
+    "Data",
+    "Routes",
+    "Application",
+    "Display"
+  ],
+  "description": "Rutamina API provides data from our database of routes, so any application can get, search and display on their own maps our routes\n"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tagged-partner-integration",
+  "title": "Tagged Partner Integration",
+  "link": "http://www.tagged.com/api/spec.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq7nalH6vLxepB2PEk75Mjtx02wG48X6SJm_ZzDAa3JPj_8bYz",
+  "author": {
+    "name": "Tagged"
+  },
+  "tags": [
+    "Describe",
+    "Websites",
+    "Mashups",
+    "Integrate"
+  ],
+  "description": "Web 2.0 is a catchall description for a lot of ideas that describe modern consumer facing websites, it includes things like social networking, mashups, AJAX design patterns, etc.Tagged is a social networking platform. A good platform is one that works with partners to enable them to integrate with it."
+}

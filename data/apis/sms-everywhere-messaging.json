@@ -1,0 +1,15 @@
+{
+  "id": "sms-everywhere-messaging",
+  "title": "SMS Everywhere Messaging",
+  "link": "http://api.smseverywhere.com/?docs=api",
+  "image": "",
+  "author": {
+    "name": "SMS Everywhere Messaging"
+  },
+  "tags": [
+    "Developers",
+    "Data",
+    "Guideliness"
+  ],
+  "description": "Using the API developers can create their own messaging applications with the language of their choice following the guidelines below. To send a message, data is posted over HTTP to SMS Everywhere Servers."
+}

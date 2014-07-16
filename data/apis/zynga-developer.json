@@ -1,0 +1,15 @@
+{
+  "id": "zynga-developer",
+  "title": "Zynga Developer",
+  "link": "https://developers.zynga.com/apps#",
+  "image": "https://developers.zynga.com/assets/imgs/zynga-developers.png",
+  "author": {
+    "name": "Zynga Developer"
+  },
+  "tags": [
+    "Developing",
+    "Running",
+    "Adjustments"
+  ],
+  "description": "Your big play is only few clicks away: Create App, choose SDK, and begin developing. From there, the sky's the limit. Once your App is up and running, it's easy to get under the hood and make adjustments. Get your game on."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "passdefense",
+  "title": "PassDefense",
+  "link": "http://passdefense.com/docs.html",
+  "image": "http://passdefense.com/img/PassDefenseLogo333x50.png",
+  "author": {
+    "name": "PassDefense"
+  },
+  "tags": [
+    "Server",
+    "Parameters"
+  ],
+  "description": "On your web server, grab the PassDefense token (or hashed password if you aren't using PassDefense.js) from the POST parameters submitted by your form."
+}

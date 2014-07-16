@@ -1,0 +1,15 @@
+{
+  "id": "florist-one",
+  "title": "Florist One",
+  "link": "http://www.floristone.com/api/",
+  "image": "http://www.floristone.com/layout/floristone-blue.png",
+  "author": {
+    "name": "FloristOne"
+  },
+  "tags": [
+    "Delivered",
+    "Conjunction",
+    "Leading"
+  ],
+  "description": "The Florist One® API is the world's first API that lets you sell florist-delivered flowers on any website or application. The Florist One® API is used in conjunction with the Florist One® Affiliate Program which pays an industry leading 20% commission on every sale."
+}

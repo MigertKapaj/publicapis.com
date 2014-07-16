@@ -1,0 +1,16 @@
+{
+  "id": "veer",
+  "title": "Veer",
+  "link": "http://api.veer.com/doc/",
+  "image": "http://images.veer.com/images/sharedelements/nav/veer_nav_logo.new.png",
+  "author": {
+    "name": "Veer"
+  },
+  "tags": [
+    "Patners",
+    "Developers",
+    "Incorporate",
+    "Apps"
+  ],
+  "description": "Veer has developed Application Programming Interfaces (APIs), which open opportunities for partners, businesses, and developers. The APIs allow you to incorporate Veer web site functionality into your own sites, tools, plug-ins, applications, mobile apps, and widgets."
+}

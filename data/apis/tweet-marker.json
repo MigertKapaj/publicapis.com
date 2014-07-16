@@ -1,0 +1,16 @@
+{
+  "id": "tweet-marker",
+  "title": "Tweet Marker",
+  "link": "http://tweetmarker.net/",
+  "image": "http://www.riverfold.com/software/tweetmarker/images/macworld_eddy.png",
+  "author": {
+    "name": "Tweet Marker"
+  },
+  "tags": [
+    "Cross- Platform",
+    "Web",
+    "Multiple",
+    "Clients"
+  ],
+  "description": "Tweet Marker is an award-winning, cross-platform web service for syncing the reading position between multiple Twitter clients."
+}

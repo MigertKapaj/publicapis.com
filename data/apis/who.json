@@ -1,0 +1,15 @@
+{
+  "id": "who",
+  "title": "Who",
+  "link": "http://whoapi.com/api-documentation.html",
+  "image": "http://a.adroll.com/a/5UN/QE2/5UNQE2W5WVHH7EY5LNAGYN.png",
+  "author": {
+    "name": "Who"
+  },
+  "tags": [
+    "Communication",
+    "HTTP",
+    "Responses"
+  ],
+  "description": "The WhoAPI is a RESTful based API. Communication is made through a normal HTTP requests. Requests are made as strings using HTTP GET method. All outputs are provided as a  JSON formatted responses.\n\n\n\n"
+}

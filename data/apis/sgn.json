@@ -1,0 +1,15 @@
+{
+  "id": "sgn",
+  "title": "SGN",
+  "link": "http://blog.sgn.com/developers.php",
+  "image": "http://sgn.sgnapps.com/wp-content/themes/Phenomenon/images/logo-sgn-silver.png",
+  "author": {
+    "name": "SGN"
+  },
+  "tags": [
+    "Technology",
+    "Process",
+    "Seamlessly"
+  ],
+  "description": "SGN represents the next generation of social game development. SGN’s proprietary and patent-pending technology process, MasterKey, allows a game to be built once and seamlessly distributed to all platforms, including: Facebook, iOS, Android, and Amazon."
+}

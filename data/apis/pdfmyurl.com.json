@@ -1,0 +1,15 @@
+{
+  "id": "pdfmyurl.com",
+  "title": "PDFmyURL.com",
+  "link": "http://pdfmyurl.com/html-to-pdf-api",
+  "image": "http://pdfmyurl.com/img/logo.png",
+  "author": {
+    "name": "PDFmyURL.com"
+  },
+  "tags": [
+    "Service",
+    "Professional",
+    "Quickly"
+  ],
+  "description": "Our HTML to PDF API is a professional service for HTML to PDF conversion. It allows you to create high-quality PDF documents quickly, efficiently and cost-effectively."
+}

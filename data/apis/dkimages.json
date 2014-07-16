@@ -1,0 +1,16 @@
+{
+  "id": "dkimages",
+  "title": "dkimages",
+  "link": "https://developer.pearson.com/apis/dkimages/",
+  "image": "https://developer.pearson.com/wp-content/themes/pearson-developer-2013/_/inc/images/dp_pearson_logo.gif",
+  "author": {
+    "name": "Pearson"
+  },
+  "tags": [
+    "Multiple",
+    "Developer",
+    "Test",
+    "Exciting"
+  ],
+  "description": "The company behind Penguin Books, the Financial Times and multiple education businesses now has a developer platform.\nExplore and test our APIs, and build your own applications using our exciting content."
+}

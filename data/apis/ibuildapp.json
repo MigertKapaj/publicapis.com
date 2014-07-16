@@ -1,0 +1,15 @@
+{
+  "id": "ibuildapp",
+  "title": "IBuildApp",
+  "link": "http://ibuildapp.com/api.howto.php#a2",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFsmHz5rio07zsjokNIown2sSId1fa3sSGInRqIJxppO12Iyqmaw",
+  "author": {
+    "name": "IBuildApp"
+  },
+  "tags": [
+    "Service",
+    "Retrieve",
+    "Events"
+  ],
+  "description": "IBuildApp provides SOAP Web Service API that allows you to create, retrieve, update or delete content such as photos, news, or events."
+}

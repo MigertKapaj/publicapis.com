@@ -1,0 +1,16 @@
+{
+  "id": "tiktrac",
+  "title": "Tiktrac",
+  "link": "http://tiktrac.com/tiktrac_api.html",
+  "image": "",
+  "author": {
+    "name": "Tiktrac"
+  },
+  "tags": [
+    "Freatures",
+    "Create",
+    "List",
+    "Task"
+  ],
+  "description": "The Tiktrac API can be accessed with XMLRPC and provides access to several of Tiktrac’s core features. You can: List, create, update and delete your clientsList, create, update and delete your sheetsGet your tasksComplete a taskOpen a taskUpdate, create and delete tasks"
+}

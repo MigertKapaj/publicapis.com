@@ -1,0 +1,15 @@
+{
+  "id": "windows-live-messenger-activity",
+  "title": "Windows Live Messenger Activity",
+  "link": "http://msdn.microsoft.com/en-us/library/aa751014.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Advantage",
+    "Design",
+    "Connection"
+  ],
+  "description": "Windows Live Messenger Activity API allows developers to build applications that take advantage of the multiuser communication functionality provided by Windows Live Messenger. Developers can design applications using this simplified connection model. "
+}

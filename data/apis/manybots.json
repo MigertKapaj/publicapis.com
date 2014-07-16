@@ -1,0 +1,15 @@
+{
+  "id": "manybots",
+  "title": "Manybots",
+  "link": "https://www.manybots.com/developers",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQIsl5AQBG4PhXWsLljxeEsHbE6pA-iCnau0IlAAmVM-S13L9zLbw",
+  "author": {
+    "name": "Manybots"
+  },
+  "tags": [
+    "Developers",
+    "Data",
+    "Comparison"
+  ],
+  "description": "Manybots is an open ecosystem allowing developers to build connections to existing apps or create new apps that all bring data back into one private place allowing exploration, comparison and visualization in new ways."
+}

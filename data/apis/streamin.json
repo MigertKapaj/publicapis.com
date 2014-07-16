@@ -1,0 +1,16 @@
+{
+  "id": "streamin",
+  "title": "streamin",
+  "link": "http://streamin.io/developers/",
+  "image": "http://streamin.io/img/logo.png",
+  "author": {
+    "name": "streamin"
+  },
+  "tags": [
+    "Individul",
+    "Attempt",
+    "Notification",
+    "Dermined"
+  ],
+  "description": "You can use our API to send messages via individual StreamIn sources. That means you’ve created your custom source using the web office and you can obtain an API key. Every time you attempt to send a notification through StreamIn the source is determined based on the API key you used to sign the request."
+}

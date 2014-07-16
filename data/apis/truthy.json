@@ -1,0 +1,13 @@
+{
+  "id": "truthy",
+  "title": "Truthy",
+  "link": "https://www.mashape.com/truthy/truthy-1",
+  "image": "",
+  "author": {
+    "name": "truthy"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Write scripts to work with our data, statistics, and images using the API. Download tweet volume over time, network layout, and statistics about memes and users, such as predicted political partisanship, sentiment score, language, and activity."
+}

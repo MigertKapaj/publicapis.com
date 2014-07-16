@@ -1,0 +1,13 @@
+{
+  "id": "mozliwosci-qtravel",
+  "title": "Możliwości Qtravel",
+  "link": "http://www.qtravel.pl/qtravel-api",
+  "image": "http://static.qtravel.pl/img/qtravel-logo-hp.png",
+  "author": {
+    "name": "Qtravel"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Qtravel Offer API umożliwia pełną prezentację oferty turystycznej zwróconej w wynikach wyszukiwania za pomocą Qtravel Search API. Jeśli chcesz dowiedzieć się więcej na ten temat skontaktuj się z Qtravel.pl"
+}

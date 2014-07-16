@@ -1,0 +1,15 @@
+{
+  "id": "cafe-spot",
+  "title": "Cafe Spot",
+  "link": "http://cafespot.net/api/v1/",
+  "image": "http://cafespot.net/wp-content/themes/graphene/images/headers/flow.jpg",
+  "author": {
+    "name": "Cafe Spot"
+  },
+  "tags": [
+    "Autumn",
+    "Break",
+    "Travel"
+  ],
+  "description": "It’s not too late in Autumn  to take a break and get away for a final bit of sunshine and you don’t even have to travel to far!"
+}

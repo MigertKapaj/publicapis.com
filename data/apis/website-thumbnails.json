@@ -1,0 +1,15 @@
+{
+  "id": "website-thumbnails",
+  "title": "Website Thumbnails",
+  "link": "http://pagepeeker.com/website-thumbnails-api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr-PFiXQxQ3KcbkUIg_BKYj_Hp8NfzuljVTPYpb79ReDHOgOoDkQ",
+  "author": {
+    "name": "PagePeeker"
+  },
+  "tags": [
+    "Service",
+    "Wrappers",
+    "Advanced"
+  ],
+  "description": "There are several ways to use our thumbnail generation service. You can use direct linking, javascript wrappers or you can use APIs on the server side for advanced functionality. "
+}

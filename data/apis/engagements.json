@@ -1,0 +1,16 @@
+{
+  "id": "engagements",
+  "title": "Engagements",
+  "link": "http://developers.odesk.com/w/page/23881695/Engagements%20API",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Assignments",
+    "Offers",
+    "Employment",
+    "Job"
+  ],
+  "description": "Engagements are assignments on oDesk. Offers are converted into Engagements by a user with manage_employment permissions in the team that the original job was posted into."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "personal-platform",
+  "title": "Personal Platform ",
+  "link": "http://developer.personal.com",
+  "image": "",
+  "author": {
+    "name": "Personal Platform "
+  },
+  "tags": [
+    "Privacy",
+    "Security",
+    "Business",
+    "Information"
+  ],
+  "description": "The Personal Platform handles privacy and security with an easy-to-integrate SDK so you can spend your valuable resources building your app and growing your business. Use the now-standard OAuth flow to authenticate your customers to Personal, then store their information in our 256-bit AES encrypted cloud, share with our RSA 2048 asymmetric key encryption, and slap the \"Powered by Personal\" badge on your app to tell customers you use security and privacy best-practices."
+}

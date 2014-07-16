@@ -1,0 +1,15 @@
+{
+  "id": "litetree",
+  "title": "Litetree",
+  "link": "https://www.litetree.com/api",
+  "image": "https://www.litetree.com/assets/logo.png",
+  "author": {
+    "name": "Litetree"
+  },
+  "tags": [
+    "Interface",
+    "Access",
+    "Software"
+  ],
+  "description": "LiteTree application programming interface (API) allows our clients to access and control their accounts, using custom written software. "
+}

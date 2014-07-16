@@ -1,0 +1,15 @@
+{
+  "id": "cleanify",
+  "title": "Cleanify",
+  "link": "http://cleanify.net/api",
+  "image": "http://cleanify.net/content/cleanify.png",
+  "author": {
+    "name": "Cleanify"
+  },
+  "tags": [
+    "Decided",
+    "Service",
+    "Experience"
+  ],
+  "description": "After four years of operation I've decided to gradually shut down the Cleanify service. With only a small user base and (intentionally) no business model, I'm not feeling motivated to try and maintain a decent user experience any longer."
+}

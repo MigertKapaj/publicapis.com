@@ -1,0 +1,15 @@
+{
+  "id": "stickystreet",
+  "title": "StickyStreet",
+  "link": "http://api.stickystreet.com/",
+  "image": "",
+  "author": {
+    "name": "StickyStreet"
+  },
+  "tags": [
+    "Interface",
+    "Browser",
+    "Desktop"
+  ],
+  "description": "This API allows other programs and hardware to interface with the loyalty platform directly, without having to go through a browser, allowing you to integrate transactional steps into mobile, web, or desktop applications."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sigkat",
+  "title": "Sigkat",
+  "link": "https://sigkat.com/#apiDocuments",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTwIF3D6YIqe-OCziYucMA6wlKWVd2TccRTDpkb3N7TSYi_8mZInw",
+  "author": {
+    "name": "Sigkat"
+  },
+  "tags": [
+    "Domain",
+    "Creating",
+    "Verifying",
+    "Reducing"
+  ],
+  "description": "SIGKAT provides a domain neutral API for creating, submitting, and verifying credentials. Our purpose is to increase the value of credentials by means that can be broadly divided into two categories. The first is reducing the impedance in credential economies. The second is broadening the currency of credentials."
+}

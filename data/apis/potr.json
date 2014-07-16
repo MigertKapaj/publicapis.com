@@ -1,0 +1,15 @@
+{
+  "id": "potr",
+  "title": "POTR",
+  "link": "http://www.postcardontherun.com/api",
+  "image": "http://www.postcardontherun.com/sites/all/themes/humble/logo.png",
+  "author": {
+    "name": "Postcard On The Run"
+  },
+  "tags": [
+    "Integrated",
+    "Gopher",
+    "Advantage"
+  ],
+  "description": "The POTR SDK is tightly integrated with our Postal Gopher web service. When your customer wants to send a postcard to a contact on their phone that does not have a mailing address, Postal Gopher will send them an email or SMS text message. The contact will have 48 hours to respond with a mailing address. Postal Gopher is included with the POTR SDK so no additional steps are required to take advantage of this service."
+}

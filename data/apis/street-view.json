@@ -1,0 +1,15 @@
+{
+  "id": "street-view",
+  "title": "Street View",
+  "link": "https://developers.google.com/maps/documentation/streetview/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Panorama",
+    "Defined",
+    "Request"
+  ],
+  "description": "The Google Street View Image API lets you embed a static (non-interactive) Street View panorama or thumbnail into your web page, without the use of JavaScript. The viewport is defined with URL parameters sent through a standard HTTP request, and is returned as a static image."
+}

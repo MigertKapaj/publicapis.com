@@ -1,0 +1,16 @@
+{
+  "id": "onesite",
+  "title": "ONESite",
+  "link": "http://developer.onesite.com/api",
+  "image": "http://developer.onesite.com/sites/all/themes/ONEsite_v1/images/logo.png",
+  "author": {
+    "name": "ONESite"
+  },
+  "tags": [
+    "Integration",
+    "Customization",
+    "Stock",
+    "Consuming"
+  ],
+  "description": "The SocialCore Platform is built on an open-architecture that allows extensibility, integration and customization by using the SocialCore APIs (Application Programming Interfaces). The stock pages within the SocialCore platform are built by consuming these APIs and custom pages or functionality may be created by utilizing the APIs from CMS pages on SocialCore or by calling the APIs externally."
+}

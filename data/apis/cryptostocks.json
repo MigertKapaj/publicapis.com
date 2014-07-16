@@ -1,0 +1,14 @@
+{
+  "id": "cryptostocks",
+  "title": "Cryptostocks",
+  "link": "https://cryptostocks.com/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdiOOAOKRRGl6SQ_1Rt6cvG6NaCUIUSdBTS6mKKTbM8eGwleWS",
+  "author": {
+    "name": "Cryptostocks"
+  },
+  "tags": [
+    "Development",
+    "Functions"
+  ],
+  "description": "The API is still in its early development phase. New functions are being added as we speak."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "highcharts",
+  "title": "Highcharts",
+  "link": "http://api.highcharts.com/highcharts",
+  "image": "http://api.highcharts.com/resources/images/Highcharts-icon-160px.png",
+  "author": {
+    "name": "Highcharts"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

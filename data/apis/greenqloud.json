@@ -1,0 +1,16 @@
+{
+  "id": "greenqloud",
+  "title": "GreenQloud",
+  "link": "http://greenqloud.com/computeqloud/#api",
+  "image": "https://www.greenqloud.com/public/images/logos/gq-blue.svg",
+  "author": {
+    "name": "GreenQloud"
+  },
+  "tags": [
+    "Industry",
+    "Solutions",
+    "Making",
+    "Replacement"
+  ],
+  "description": "GreenQloud’s APIs are compatible with the industry standard, AWS EC2. This makes GreenQloud automatable using numerous third party tools and SaaS solutions. The standard AWS API tools work out-of-the-box making GreenQloud a truly green drop-in replacement. "
+}

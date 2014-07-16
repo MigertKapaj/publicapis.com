@@ -1,0 +1,15 @@
+{
+  "id": "google-affiliate-network",
+  "title": "Google Affiliate Network",
+  "link": "https://developers.google.com/affiliate-network/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Affiliate",
+    "Online",
+    "PerformanceAutomate"
+  ],
+  "description": "The Google Affiliate Network is an affiliate marketing network that helps advertisers increase online conversions on a performance basis and enables publishers to monetize traffic with affiliate ads. Google Affiliate Network API allows publishers and advertisers to automate various tasks related to the Google Affiliate Network."
+}

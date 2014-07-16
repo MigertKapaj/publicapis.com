@@ -1,0 +1,16 @@
+{
+  "id": "jonathan-stark",
+  "title": "Jonathan Stark",
+  "link": "http://jonathanstark.com/card/#api",
+  "image": "",
+  "author": {
+    "name": " Jonathan Stark"
+  },
+  "tags": [
+    "Fellow",
+    "Days",
+    "Format",
+    "Simple"
+  ],
+  "description": "At least two fellow geeks built graphing apps on top of the @jonathanscard Twitter stream within the first couple of days. Rather than break apps every time I change the Twitter message format, I whipped up a simple read-only API that returns JSON."
+}

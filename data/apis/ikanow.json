@@ -1,0 +1,16 @@
+{
+  "id": "ikanow",
+  "title": "IKANOW",
+  "link": "http://www.ikanow.com/developer/",
+  "image": "http://www.ikanow.com/wp-content/uploads/2013/12/IKANOW-BD-270x40.jpg",
+  "author": {
+    "name": "IKANOW"
+  },
+  "tags": [
+    "Data",
+    "Intelligence",
+    "Change",
+    "Accessible"
+  ],
+  "description": "We’ve all heard the headlines accompanying Big Data, how it will change business, intelligence and decision-making. At IKANOW we know Big Data, and we’ve learned that for Big Data to really create change, it needs to be easily accessible."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "onewinner.me",
+  "title": "OneWinner.Me",
+  "link": "https://www.mashape.com/onewinnerme/onewinner-me",
+  "image": "",
+  "author": {
+    "name": "onewinnerme"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "OneWinner.Me is a service that lets you check the earning expectation of your lottery numbers, and register your combination to prevent other players from choosing similar ones.\r\n\r\nIn lotteries (Euro Millions, …), some combinations are more played than others. It is better to choose combinations rarely played : they have the same probability of draw, but pay much more, because there are fewer winners.\r\n\r\n\r\nThe service works through a crowdsourcing technology, and advanced learning algorithms.\r\n\r\nThis API allows third party application to check and register combinations into the OneWinner.Me service. \r\n\r\nFor the moment, only Euro Millions lottery is available, but more are coming soon. \r\n\r\nGood luck Mashapers, and enjoy !"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fantasy-sports",
+  "title": "Fantasy Sports ",
+  "link": "http://developer.yahoo.com/fantasysports/",
+  "image": "https://s.yimg.com/oo/ydn-footer-sprite/sprite-footer.png",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Fantasy",
+    "Utilizes",
+    "Query",
+    "Data"
+  ],
+  "description": "The Yahoo! Fantasy Sports API utilizes the Yahoo! Query Language (YQL) as a mechanism to access Yahoo! Fantasy Sports data, returning data in XML and JSON formats."
+}

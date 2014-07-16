@@ -1,0 +1,16 @@
+{
+  "id": "dead-simple",
+  "title": "Dead-simple",
+  "link": "http://scrapelogo.com/dead-simple-api/",
+  "image": "http://scrapelogo.com/wp-content/uploads/2012/12/logo3.png",
+  "author": {
+    "name": "Scrape Logo"
+  },
+  "tags": [
+    "Website",
+    "Javascript",
+    "Backend",
+    "Universal."
+  ],
+  "description": "Implementing logos into your website takes only a few minutes. ScrapeLogo API is based on pure HTML without any JavaScript or back-end coding, which makes it truly universal."
+}

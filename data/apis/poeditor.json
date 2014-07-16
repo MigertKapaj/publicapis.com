@@ -1,0 +1,15 @@
+{
+  "id": "poeditor",
+  "title": "POEditor",
+  "link": "https://poeditor.com/api_reference/",
+  "image": "https://poeditor.com/public/images/logo.png",
+  "author": {
+    "name": "POEditor"
+  },
+  "tags": [
+    "Methods",
+    "Request",
+    "Response"
+  ],
+  "description": "The POEditor API consists of a set of callable methods. To perform an action using the API, send a request to an API endpoint and a response will then be sent back to you. The request should be POST."
+}

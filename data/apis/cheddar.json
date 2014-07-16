@@ -1,0 +1,16 @@
+{
+  "id": "cheddar",
+  "title": "Cheddar",
+  "link": "https://cheddarapp.com/developer",
+  "image": "https://cheddar-assets.s3.amazonaws.com/assets/logo-1e5ec71093420a1dfd3a06d4a5f2cb45.png",
+  "author": {
+    "name": "Cheddar"
+  },
+  "tags": [
+    "Organized",
+    "Web",
+    "Simple",
+    "Sync"
+  ],
+  "description": "Cheddar keeps your world organized. It's easy to use on your iPhone, iPod touch, iPad, and on the web. Cheddar is super simple and instantly in sync on all of your devices"
+}

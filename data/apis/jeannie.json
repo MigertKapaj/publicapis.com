@@ -1,0 +1,13 @@
+{
+  "id": "jeannie",
+  "title": "Jeannie",
+  "link": "https://www.mashape.com/pannous/jeannie",
+  "image": "",
+  "author": {
+    "name": "pannous"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Jeannie (Voice Actions) is a virtual assistant with over two Million downloads, now also available via API.\r\nThe objective of this service is to provide you and your robot with the smartest answer to any natural language question, just like Siri. This service provides an interface to the standard functions that users demand of modern voice assistants. For example chatting, looking up information, creating messages and much much more. It also provides useful metadata such as sentence analysis and entity extraction that goes beyond simple chatting and voice commands.\r\n\r\nOver 2 million users have already been in contact with this API: http://www.voice-actions.com/\r\n\r\nExamples:\r\nhttps://weannie.pannous.com/api?input=hi&login=test-user\r\nhttps://ask.pannous.com/?input=hi\r\n\r\nComplete documentation:\r\nhttps://docs.google.com/document/d/1dVG_B5Sc2x-fi1pN6iJJjfF1bJY6KEFzUqjOb8NsntI/edit"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "compute",
+  "title": "Compute",
+  "link": "https://developers.google.com/compute/docs/overview",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Instances",
+    "Considered",
+    "Resource",
+    "Data",
+    "Regulate"
+  ],
+  "description": "At the core of Google Compute Engine are virtual machine instances that run on Google's infrastructure. Each virtual machine instance is considered an Instance resource and part of the Instance collection. When you create a virtual machine instance, you are creating an Instance resource that uses other resources, such as Disk resources, Network resources, Image resources, and so on. Each resource performs a different function. For example, a Disk resource functions as data storage for your virtual machine, similar to a physical hard drive, and a Network resource helps regulate traffic to and from your instances."
+}

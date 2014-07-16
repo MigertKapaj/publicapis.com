@@ -1,0 +1,15 @@
+{
+  "id": "athlinks",
+  "title": "Athlinks",
+  "link": "http://api.athlinks.com/",
+  "image": "",
+  "author": {
+    "name": "Athlinks"
+  },
+  "tags": [
+    "Controller",
+    "Data",
+    "Available"
+  ],
+  "description": "The Athlete controller deals exclusively with athlete profiles. You can perform account lookups as well as query member data such as results, friends, rivals, etc. Unclaimed results are available through the Results Controller."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "preact",
+  "title": "Preact",
+  "link": "http://www.preact.io/api",
+  "image": "http://www.preact.com/assets/public/v2/logo-10997c49cc05bd274091f936ac000e40.png",
+  "author": {
+    "name": "Preact"
+  },
+  "tags": [
+    "Single",
+    "Accepts",
+    "Objects"
+  ],
+  "description": "The Preact Logging API has a single endpoint that accepts a person and an event object.  You will POST these objects to\nhttps://api.preact.io/api/v2/events"
+}

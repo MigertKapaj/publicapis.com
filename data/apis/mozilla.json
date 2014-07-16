@@ -1,0 +1,16 @@
+{
+  "id": "mozilla",
+  "title": "Mozilla",
+  "link": "https://wiki.mozilla.org/Bugzilla:REST_API",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl0ccKBrkR1C1xGqpE1kBVMVEhKDjbj-QkpUb60aUqovCu5Z_m",
+  "author": {
+    "name": "Bugzilla Rest"
+  },
+  "tags": [
+    "Data",
+    "Webservice",
+    "Originally",
+    "Improvement"
+  ],
+  "description": "If starting a new project that needs access to BMO data via a webservice API, please talk to the BMO Team about using the native API instead. The below API is a proxy that was originally created to address some of the webservice issues that Bugzilla had in the past and may no longer be needed for your project due to many recent improvements."
+}

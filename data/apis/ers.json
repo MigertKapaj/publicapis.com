@@ -1,0 +1,16 @@
+{
+  "id": "ers",
+  "title": "ERS",
+  "link": "http://ers.usda.gov/developer.aspx",
+  "image": "",
+  "author": {
+    "name": "ERS"
+  },
+  "tags": [
+    "Private",
+    "Digital",
+    "Web",
+    "Charts"
+  ],
+  "description": "To spur innovative applications of ERS data in the public and private sectors, this area connects developers, researchers, and digital professionals with machine-readable data, web services, and other related technical resources. Use our Application Programming Interfaces (APIs) to gain programmatic access to website content (including charts and publications) and select data (including GIS)—or grab our widgets already built from the APIs!"
+}

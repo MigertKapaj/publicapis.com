@@ -1,0 +1,16 @@
+{
+  "id": "lairout",
+  "title": "LairOut",
+  "link": "http://www.lairout.com/static/developers",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT_Gvj50MAjMRYKmnxuB7IVSrlwdTWNa7LyACZkNXFCCM6DpmAP",
+  "author": {
+    "name": "LairOut"
+  },
+  "tags": [
+    "Create",
+    "Settings",
+    "Generate",
+    "Website"
+  ],
+  "description": "To authenticate with LairOut API, you have to sign up with your user or create an account.Once you are logged in LairOut, go under your user settings, and at the bottom of the page click 'Enable API'.\nThis will generate an authentication token (API authentication); on that page you will also have to fill in the website URL that you will use to display or insert events from."
+}

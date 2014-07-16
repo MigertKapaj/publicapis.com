@@ -1,0 +1,15 @@
+{
+  "id": "salessystemcrm",
+  "title": "SalesSystemCRM",
+  "link": "http://www.zootle.co.uk/api/",
+  "image": "http://www.zootle.co.uk/web/site/controls/zootle-logo.gif",
+  "author": {
+    "name": "Zootle"
+  },
+  "tags": [
+    "Programming",
+    "Communicating",
+    "Developer"
+  ],
+  "description": "To get your integration up and running, you'll need to take your favourite programming language and use some of it's features for communicating with the SalesSystemCRM API. Whether you're a PHP, ASP, Perl, Ruby on Rails or other developer this is all possible."
+}

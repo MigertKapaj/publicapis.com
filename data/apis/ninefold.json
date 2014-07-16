@@ -1,0 +1,15 @@
+{
+  "id": "ninefold",
+  "title": "Ninefold",
+  "link": "https://help.ninefold.com/home",
+  "image": "https://p2.zdassets.com/hc/settings_assets/220034/200017565/UFNX3zxvUBzokhPK9viVzw-NF.png",
+  "author": {
+    "name": "Ninefold"
+  },
+  "tags": [
+    "Compute",
+    "Developed",
+    "Accessible"
+  ],
+  "description": "Ninefold's APIs (application programming interfaces) for both storage and compute have now been formally accepted and included in the jclouds (Java/JVM), Fog (Ruby) and Libcloud (Python) libraries. Ninefold has developed a new open source Nuget package to make the APIs more accessible on Microsoft's .NET platform. They are currently looking for developers to build an open source cloud library for PHP."
+}

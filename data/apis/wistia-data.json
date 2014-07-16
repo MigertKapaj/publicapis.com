@@ -1,0 +1,16 @@
+{
+  "id": "wistia-data",
+  "title": "Wistia Data",
+  "link": "http://wistia.com/doc/data-api",
+  "image": "http://wistia.com/community/images/wgh_wistia_logo_white.png",
+  "author": {
+    "name": "Wistia"
+  },
+  "tags": [
+    "Marketers",
+    "Upload",
+    "Mange",
+    "Programmatice"
+  ],
+  "description": "Wistia is a video hosting solution for marketers.  We make it easy to upload, manage, share, and track your web video performance.The Wistia data API gives you all kinds of programmatic access to your Wistia account. The data is available in either JSON or XML format over HTTP.There is also a Wistia API Ruby gem for integrating into your application"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "gamejolt",
+  "title": "GameJolt",
+  "link": "http://gamejolt.com/api/doc/game/",
+  "image": "http://s.gjcdn.net/img/logo-3.png",
+  "author": {
+    "name": "GameJolt"
+  },
+  "tags": [
+    "System",
+    "Service",
+    "Browser"
+  ],
+  "description": "Calls to the system are done over the HTTP protocol, so nothing special is needed, and you can even test the service using a normal Web browser."
+}

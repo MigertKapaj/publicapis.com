@@ -1,0 +1,15 @@
+{
+  "id": "brightpearl",
+  "title": "Brightpearl",
+  "link": "http://www.brightpearl.com/api",
+  "image": "http://d3sg2ldiig8y1n.cloudfront.net/sites/all/themes/prototype/img/logos/brightpearl-logo-wh.png",
+  "author": {
+    "name": "brightpearl"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Powerful"
+  ],
+  "description": "Welcome to the documentation for the Brightpearl API. Using the Brightpearl API, you can access the data held in your Brightpearl account and make use of Brightpearl's powerful functionality from within your own applications."
+}

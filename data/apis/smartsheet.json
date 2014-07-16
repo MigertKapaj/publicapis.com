@@ -1,0 +1,16 @@
+{
+  "id": "smartsheet",
+  "title": "Smartsheet",
+  "link": "https://www.smartsheet.com/developers/api-documentation",
+  "image": "https://www.smartsheet.com/sites/all/themes/blue_sky/logo.png",
+  "author": {
+    "name": "Smartsheet"
+  },
+  "tags": [
+    "Programmatic",
+    "Data",
+    "Simple",
+    "Goal"
+  ],
+  "description": "The Smartsheet API provides programmatic access to Smartsheet features and data. In designing the API, our goal was to make it simple, intuitive, and predictable.  We do our best to adhere to common open and widely accepted standards, including REST for access, JSON format for the data, and OAuth for Authentication and Authorization.  This API assumes a good working knowledge of the Smartsheet application UI, concepts and terminology."
+}

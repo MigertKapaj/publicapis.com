@@ -1,0 +1,17 @@
+{
+  "id": "microsoft-translator",
+  "title": "Microsoft Translator",
+  "link": "http://www.microsoft.com/en-us/translator/developers.aspx",
+  "image": "http://www.microsoft.com/global/en-us/translator/PublishingImages/header-ms-translator-logo.gif",
+  "author": {
+    "name": "Microsoft Translator "
+  },
+  "tags": [
+    "Translation",
+    "HTTP Rest",
+    "AJAX",
+    "SOAP web service",
+    ""
+  ],
+  "description": "Microsoft Translator provides a powerful set of web service APIs that developers can use to take advantage of its best-of-breed Machine Translation technology in their own applications, services or web sites. This API may be called in a number of ways, including an HTTP REST Service, an AJAX-callable service and a SOAP Web Service.The Microsoft Translator API, an online service, is available directly from the Windows Azure Marketplace. The Microsoft Translator API is sold as a monthly subscription based on the number of characters of text passed to the API. The API is available for FREE for usage up to 2 million characters per month."
+}

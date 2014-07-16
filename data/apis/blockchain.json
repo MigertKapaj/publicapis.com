@@ -1,0 +1,15 @@
+{
+  "id": "blockchain",
+  "title": "blockchain",
+  "link": "https://blockchain.info/api/api_receive",
+  "image": "https://blockchain.info/Resources/logo.png",
+  "author": {
+    "name": "blockchain"
+  },
+  "tags": [
+    "Accepting",
+    "Requests",
+    "Approval"
+  ],
+  "description": "The blockchain receive payments API is the quickest and easiest way to begin accepting automated bitcoin payments. Consisting of just two simple http GET requests you can be up and running in minutes with no account or approval needed. "
+}

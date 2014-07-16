@@ -1,0 +1,16 @@
+{
+  "id": "share",
+  "title": "Share",
+  "link": "https://www.shareaholic.com/api/",
+  "image": "https://shareaholic.com/assets/layouts/shareaholic-logo.png",
+  "author": {
+    "name": "Shareaholic"
+  },
+  "tags": [
+    "Website",
+    "Channels",
+    "Referrals",
+    "Webpages"
+  ],
+  "description": "Shareaholic tracks all of your important social media metrics including popular pages on your website, referral channels, and who the individual people are that are making referrals and spreading your webpages on the internet on your behalf bringing you back more traffic and new visitors without increasing your marketing budget."
+}

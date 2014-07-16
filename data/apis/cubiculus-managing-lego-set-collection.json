@@ -1,0 +1,13 @@
+{
+  "id": "cubiculus-managing-lego-set-collection",
+  "title": "cubiculus - managing LEGO set collection",
+  "link": "https://www.mashape.com/jajir/cubiculus-managing-lego-set-collection",
+  "image": "",
+  "author": {
+    "name": "jajir"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "API allows manage LEGO set collection. User can specify which items you own and how many of them. Through this API could be persist collection."
+}

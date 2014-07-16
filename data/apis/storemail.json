@@ -1,0 +1,16 @@
+{
+  "id": "storemail",
+  "title": "StoreMail",
+  "link": "http://wiki.storemail.com/Api_Documentation",
+  "image": "http://wiki.storemail.com/lib/images/interwiki/doku.gif",
+  "author": {
+    "name": "StoreMail"
+  },
+  "tags": [
+    "Rich",
+    "Webservice",
+    "Segments",
+    "Newsletters."
+  ],
+  "description": "StoreMail has a rich set of webservices that you may use to work with contacts, segments and newsletters."
+}

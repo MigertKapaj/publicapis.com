@@ -1,0 +1,16 @@
+{
+  "id": "the-sonoma",
+  "title": "The SONoMA",
+  "link": "http://sonoma.etomic.org/index.php?page=api",
+  "image": "http://sonoma.etomic.org/images/sonoma.png",
+  "author": {
+    "name": "The SONoMA"
+  },
+  "tags": [
+    "Session",
+    "Contains",
+    "Measurement",
+    "Forment"
+  ],
+  "description": "Always use this method to request for a session. A session binds together all measurement under the same collectionID in the VO and contains the information of the output format.\n"
+}

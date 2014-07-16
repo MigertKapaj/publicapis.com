@@ -1,0 +1,15 @@
+{
+  "id": "copub",
+  "title": "CoPub",
+  "link": "http://services.nbic.nl/copub5",
+  "image": "http://services.nbic.nl/copub5/images/logo.gif",
+  "author": {
+    "name": "CoPub"
+  },
+  "tags": [
+    "Mining",
+    "Boimedical",
+    "Abstract"
+  ],
+  "description": "CoPub is a text mining tool that detects co-occuring biomedical concepts in abstracts from the MedLine literature database.\n\n"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "opencolorado",
+  "title": "OpenColorado",
+  "link": "http://data.opencolorado.org",
+  "image": "http://www.opencolorado.org/wordpress/wp-content/themes/the-advent/css/opencolorado/logo.png",
+  "author": {
+    "name": "OpenColorado"
+  },
+  "tags": [
+    "Transformation",
+    "Achieve",
+    "Effective"
+  ],
+  "description": "Our vision is to support a transformation that will lead to a simple, beautiful, and easy-to-use government. We founded OpenColorado to achieve this new, more effective, and open government. "
+}

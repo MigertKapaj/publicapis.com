@@ -1,0 +1,16 @@
+{
+  "id": "yelp",
+  "title": "Yelp",
+  "link": "http://www.yelp.com/developers/documentation/v2/search_api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQx-0YG2t3Z7NgAnQ1L7LHnmV_BCUqFpchAlo8j2yT7plZx7xEW",
+  "author": {
+    "name": "Yelp"
+  },
+  "tags": [
+    "Access",
+    "Relevant",
+    "Secure",
+    "Protocol"
+  ],
+  "description": "The Yelp v2.0 API enables access to more relevant search results that more closely match the results on Yelp. It uses a standard and secure authorization protocol (OAuth 1.0a, xAuth). Click on Authentication to get started."
+}

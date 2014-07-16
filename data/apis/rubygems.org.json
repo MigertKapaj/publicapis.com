@@ -1,0 +1,15 @@
+{
+  "id": "rubygems.org",
+  "title": "RubyGems.org",
+  "link": "http://guides.rubygems.org/rubygems-org-api/",
+  "image": "http://guides.rubygems.org/images/logo-small.png",
+  "author": {
+    "name": "RubyGems Guides"
+  },
+  "tags": [
+    "Progress",
+    "Push",
+    "Owners"
+  ],
+  "description": "The API is a work in progress, and can use your help! RubyGems itself and the gemcutter gem use the API to push gems, add owners, and more."
+}

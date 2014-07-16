@@ -1,0 +1,14 @@
+{
+  "id": "locator",
+  "title": "Locator",
+  "link": "http://www.nzpost.co.nz/products-services/iphone-apps-apis/locator-api/how-the-locator-api-works",
+  "image": "http://www.nzpost.co.nz/sites/all/themes/nzpost/logo.png",
+  "author": {
+    "name": "New Zealand Post"
+  },
+  "tags": [
+    "Locations",
+    "Handy"
+  ],
+  "description": "Display NZ Post locations within your own application using our handy Locator API."
+}

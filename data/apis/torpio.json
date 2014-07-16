@@ -1,0 +1,15 @@
+{
+  "id": "torpio",
+  "title": "Torpio",
+  "link": "https://torpio.com",
+  "image": "https://torpio.com/img/logo.png",
+  "author": {
+    "name": "Torpio"
+  },
+  "tags": [
+    "Servers",
+    "Integrate",
+    "Receive"
+  ],
+  "description": "Torpio allows you to create short scripts (written in JavaScript or CoffeeScript), that run on our servers and allow you to integrate and extend the cloud applications that your business uses. A common use case is to receive and react to webhooks."
+}

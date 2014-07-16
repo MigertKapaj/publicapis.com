@@ -1,0 +1,15 @@
+{
+  "id": "emma",
+  "title": "Emma",
+  "link": "http://api.myemma.com/#",
+  "image": "http://api.myemma.com/_static/img/logo.png",
+  "author": {
+    "name": "Emma"
+  },
+  "tags": [
+    "Support",
+    "Public",
+    "Around"
+  ],
+  "description": "Use the documentation here to set up and troubleshoot your API calls. We don’t offer one-on-one support for Emma’s public API, but our system is monitored around the clock."
+}

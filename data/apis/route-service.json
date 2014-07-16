@@ -1,0 +1,14 @@
+{
+  "id": "route-service",
+  "title": "Route Service",
+  "link": "http://msdn.microsoft.com/en-us/library/cc966826.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Service",
+    "Directions"
+  ],
+  "description": "The Bing Maps Route Service is comprised of classes and enumerations that allow you to calculate route directions to and from multiple locations on a map."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "faxage",
+  "title": "FAXAGE",
+  "link": "http://www.faxage.com/internet-fax-api.php",
+  "image": "http://www.faxage.com/images/logo.jpg",
+  "author": {
+    "name": "FAXAGE"
+  },
+  "tags": [
+    "Service",
+    "Software",
+    "Expensive",
+    "Investments"
+  ],
+  "description": "The FAXAGE Internet Fax API allows for the FAXAGE service to be used as a fax back end - integrated into your systems or software. The API can be used to fax-enable ERP and other back-office systems that need the capability to fax. It can also be used to create a white label fax service - allowing you to get into the email fax business while avoiding expensive infrastructure and R&D investments."
+}

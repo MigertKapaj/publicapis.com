@@ -1,0 +1,15 @@
+{
+  "id": "futurelytic",
+  "title": "Futurelytic",
+  "link": "http://www.futurelytics.com/api",
+  "image": "http://www.futurelytics.com/assets/_layout/logo-header-bf32e794b6f33481467769e5cad3f3cd.svg",
+  "author": {
+    "name": "Futurelytic"
+  },
+  "tags": [
+    "Feature",
+    "Analytical",
+    "Access"
+  ],
+  "description": "Futurelytics' most powerful feature is its analytical API. With it, you have access to a wealth of information about your customers and their behavior."
+}

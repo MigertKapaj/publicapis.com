@@ -1,0 +1,15 @@
+{
+  "id": "blockavenue",
+  "title": "BlockAvenue",
+  "link": "http://www.blockavenue.com/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSuQHWmpkJttAquzfDWaPwkUwyWDFDOlOm3XfGxOF4Q6-OT5EzP",
+  "author": {
+    "name": "BlockAvenue"
+  },
+  "tags": [
+    "Access",
+    "Counts",
+    "Experts"
+  ],
+  "description": "BlockAvenue’s API program enables you to access trusted BlockAvenue information in real time such as, BlockScores and the associated ratings, counts, and detailed neighborhood and block reviews from locals and trusted experts. Interested in gaining access to our the BlockAvenue API?"
+}

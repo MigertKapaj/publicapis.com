@@ -1,0 +1,15 @@
+{
+  "id": "metacdn-web-service",
+  "title": "MetaCDN Web Service",
+  "link": "http://www.metacdn.com/apidocs/index.jsp",
+  "image": "http://metacdn.sa.metacdn.com/img/logo/88dae20e6a8218068f8d7301348d6f5085349bd5-logo_gy.png",
+  "author": {
+    "name": "MetaCDN"
+  },
+  "tags": [
+    "Service",
+    "Acceleration",
+    "Distributation"
+  ],
+  "description": "The aim of this document is to describe the simple and concise HTTP-based RESTful Web Services for MetaCDN. We offer a RESTful, JSON based Web Service interface, allowing you to create and update a MetaCDN user, register your site for acceleration, register your content for distribution on our CDN, register your media (i.e. video) for encoding and delivery, and customise the branding of your media player."
+}

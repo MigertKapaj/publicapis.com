@@ -1,0 +1,15 @@
+{
+  "id": "budget-your-trip",
+  "title": "Budget Your Trip",
+  "link": "http://www.budgetyourtrip.com/api/",
+  "image": "http://www.budgetyourtrip.com/images/droidicon48.png",
+  "author": {
+    "name": "Budget Your Trip"
+  },
+  "tags": [
+    "Developer",
+    "Data",
+    "Functions"
+  ],
+  "description": "The API is designed so that developers of applications can use data from Budget Your Trip to make their own applications. For now, there are only a few functions available to get information from a user's trip, but more will be coming soon. "
+}

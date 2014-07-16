@@ -1,0 +1,16 @@
+{
+  "id": "pusher",
+  "title": "Pusher",
+  "link": "http://pusher.com/docs/javascript_quick_start",
+  "image": "http://pusher.com/images/pusher-logo-flat-white.png",
+  "author": {
+    "name": "Pusher"
+  },
+  "tags": [
+    "Securely",
+    "Web",
+    "App",
+    "Internet"
+  ],
+  "description": "Pusher is a simple hosted API for quickly, easily and securely adding realtime bi-directional functionality via WebSockets to web and mobile apps, or any other Internet connected device."
+}

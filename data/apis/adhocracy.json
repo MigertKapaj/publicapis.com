@@ -1,0 +1,15 @@
+{
+  "id": "adhocracy",
+  "title": "Adhocracy",
+  "link": "http://api.adhocracy.de/",
+  "image": "",
+  "author": {
+    "name": "Adhocracy"
+  },
+  "tags": [
+    "Process",
+    "Creation",
+    "Strategy"
+  ],
+  "description": "The core process of Adhocracy is focussed around the creation and collaborative development of (policy) Proposals. These can include any normative text, ranging from strategy documents to full-fledged legislation drafts."
+}

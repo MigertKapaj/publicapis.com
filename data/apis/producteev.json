@@ -1,0 +1,16 @@
+{
+  "id": "producteev",
+  "title": "Producteev",
+  "link": "https://www.producteev.com/",
+  "image": "https://d2a7es4z2uhx5e.cloudfront.net/staticwebapp/version_4/bundles/producteevweb/images/logoBlack.png",
+  "author": {
+    "name": "Producteev"
+  },
+  "tags": [
+    "Management",
+    "Designed",
+    "Collaborate",
+    "Members"
+  ],
+  "description": "Producteev was born out of a simple for a full-featured task management application designed with simplicity in mind. We needed to be able to collaborate effortlessly from anywhere: via the web, email, IM, mobile, desktop... And we needed to be able to share information in real time with all our team members, no matter how computer-savvy they are … or aren’t. "
+}

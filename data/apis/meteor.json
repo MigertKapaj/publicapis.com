@@ -1,0 +1,16 @@
+{
+  "id": "meteor",
+  "title": "Meteor",
+  "link": "http://docs.meteor.com/#api",
+  "image": "http://docs.meteor.com/forkme_right_red_aa0000.png",
+  "author": {
+    "name": "Meteor"
+  },
+  "tags": [
+    "Building",
+    "Tools",
+    "Web",
+    "Server"
+  ],
+  "description": "Meteor is an ultra-simple environment for building modern websites. What once took weeks, even with the best tools, now takes hours with Meteor. The web was originally designed to work in the same way that mainframes worked in the 70s.  The application server rendered a screen and sent it over the network to a dumb terminal. Whenever the user did anything, that server rerendered a whole new screen. This model served the Web well for over a decade. It gave rise to LAMP, Rails, Django, PHP."
+}

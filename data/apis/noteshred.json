@@ -1,0 +1,15 @@
+{
+  "id": "noteshred",
+  "title": "NoteShred",
+  "link": "https://www.noteshred.com/api",
+  "image": "https://d2pocuw5b0ymf1.cloudfront.net/assets/logo_v2-e8156e3251d887cb7ad2175a8bf01e73.png",
+  "author": {
+    "name": "NoteShred"
+  },
+  "tags": [
+    "Accounts",
+    "Discuss",
+    "Requirements"
+  ],
+  "description": "The NoteShred API is currently in beta. API keys are attached to user accounts. If you wish to use the NoteShred API, please feel free to get in contact to discuss your application requirements."
+}

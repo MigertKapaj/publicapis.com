@@ -1,0 +1,15 @@
+{
+  "id": "peerreach",
+  "title": "PeerReach",
+  "link": "http://peerreach.com/api/user",
+  "image": "http://peerreach.com/images/menu-logo.png",
+  "author": {
+    "name": "PeerReach"
+  },
+  "tags": [
+    "Product",
+    "Support",
+    "Network"
+  ],
+  "description": "The PeerReach API allows you to give context to content produced by users. Currently we only support Twitter users but will accept other networks in the near future."
+}

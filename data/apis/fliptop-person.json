@@ -1,0 +1,16 @@
+{
+  "id": "fliptop-person",
+  "title": "Fliptop Person",
+  "link": "https://developer.fliptop.com/documentation",
+  "image": "https://developer.fliptop.com/logo.png",
+  "author": {
+    "name": "Fliptop"
+  },
+  "tags": [
+    "Social",
+    "Person",
+    "Address",
+    "Twitter"
+  ],
+  "description": "Fliptop Person API Documentation is used to get social information about a person, given an email address, Twitter handle, Facebook url, or Linkedin URL as input."
+}

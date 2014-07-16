@@ -1,0 +1,16 @@
+{
+  "id": "nomisma",
+  "title": "Nomisma",
+  "link": "http://nomisma.org/apis",
+  "image": "",
+  "author": {
+    "name": "Nomisma"
+  },
+  "tags": [
+    "Stable",
+    "Concepts",
+    "Data",
+    "Access"
+  ],
+  "description": "Nomisma.org is a collaborative project to provide stable digital representations of numismatic concepts according to the principles of Linked Open Data. These take the form of http URIs that also provide access to reusable information about those concepts, along with links to other resources."
+}

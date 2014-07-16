@@ -1,0 +1,13 @@
+{
+  "id": "semanticwire-developer",
+  "title": "SemanticWire Developer",
+  "link": "http://www.semanticwire.com/help/pages/api/",
+  "image": "",
+  "author": {
+    "name": "SemanticWire"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "SemanticWire Developer API 2.2 Alpha is service designed to provide access to machine readable news content through a portfolio of application programming interfaces (API). - See more at: http://www.semanticwire.com/help/pages/api/#sthash.CGM1UhAw.dpuf"
+}

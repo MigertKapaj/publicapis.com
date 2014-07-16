@@ -1,0 +1,15 @@
+{
+  "id": "huddle",
+  "title": "Huddle",
+  "link": "http://www.huddle.com/developers/huddle-api/",
+  "image": "http://www.huddle.com/wp-content/themes/huddle2012/img/logo.png",
+  "author": {
+    "name": "Huddle"
+  },
+  "tags": [
+    "Developers",
+    "Themselves",
+    "Concepts"
+  ],
+  "description": "The Huddle API is built using HTTP standards. Developers should familiarize themselves with these standards and concepts before developing against the Huddle APIs."
+}

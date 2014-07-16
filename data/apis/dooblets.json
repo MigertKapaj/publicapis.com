@@ -1,0 +1,15 @@
+{
+  "id": "dooblets",
+  "title": "Dooblet's",
+  "link": "http://dooblet.com/feeds/api/_/",
+  "image": "http://dooblet.com/img/logo_small_beta.png",
+  "author": {
+    "name": "Dooblet's"
+  },
+  "tags": [
+    "Portions",
+    "Incorporated",
+    "Web page"
+  ],
+  "description": "Dooblet.com is a web-service helping users to find the best alternatives to a very broad range of subjects. The portions of a search result could be fetched from dooblet.com and be incorporated (mashed-up) into a web-page shown to a web-surfer. Below is explained how to do it right.\n\n\n\n\n"
+}

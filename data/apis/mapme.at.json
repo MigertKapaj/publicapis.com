@@ -1,0 +1,16 @@
+{
+  "id": "mapme.at",
+  "title": "mapme.at",
+  "link": "http://blog.mapme.at/documentation/",
+  "image": "http://blog.mapme.at/wp-content/uploads/2012/11/blog-logo1.png",
+  "author": {
+    "name": "mapme.at"
+  },
+  "tags": [
+    "Website",
+    "Provide",
+    "Discuss",
+    "Information"
+  ],
+  "description": "Map Me.at is a location tracking website that aims to provide as many ways as possible to build up your location history, and as many ways as possible to make use of it. This blog will discuss how to interact with the site in multiple different ways, giving “How-To” postings and information on devices that can be used."
+}

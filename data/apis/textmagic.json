@@ -1,0 +1,15 @@
+{
+  "id": "textmagic",
+  "title": "TextMagic",
+  "link": "http://api.textmagic.com/",
+  "image": "http://api.textmagic.com/images/logo_api_small.gif?1",
+  "author": {
+    "name": "TextMagic"
+  },
+  "tags": [
+    "Online",
+    "Interface",
+    "Queries"
+  ],
+  "description": "This online document describes how to interface your custom application with the TextMagic Bulk SMS Gateway using API queries. "
+}

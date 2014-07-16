@@ -1,0 +1,15 @@
+{
+  "id": "zanox-data",
+  "title": "zanox Data",
+  "link": "https://developer.zanox.com/web/guest/data-api",
+  "image": "http://wiki.zanox.com/en/en/skins/common/images/wiki.png",
+  "author": {
+    "name": "zanox"
+  },
+  "tags": [
+    "Synchronous",
+    "Data",
+    "Status."
+  ],
+  "description": "zanox Data API follows an a synchronous pattern. First, you have to order your data export job. The zanox Data API will then respond with a jobId.  Use this jobId to check your job's status. Once your job is processed by the zanox backend."
+}

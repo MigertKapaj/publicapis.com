@@ -1,0 +1,15 @@
+{
+  "id": "ondango",
+  "title": "Ondango",
+  "link": "http://apidocs.ondango.com/minimal-integration-example.php",
+  "image": "http://apidocs.ondango.com/img/ondango-logo.png",
+  "author": {
+    "name": "Ondango"
+  },
+  "tags": [
+    "Designed",
+    "Features",
+    "Process"
+  ],
+  "description": "Ondango is a beautifully designed shopping system that helps you sell your products on your Facebook Page, by leveraging Facebook’s viral features. At Ondango the whole purchase process, from product browsing to the checkout, happens within Facebook."
+}

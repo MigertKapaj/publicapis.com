@@ -1,0 +1,15 @@
+{
+  "id": "zipster",
+  "title": "Zipster",
+  "link": "http://www.zipster.com.au/services",
+  "image": "http://www.zipster.com.au/images/zipster-developers.png",
+  "author": {
+    "name": "Zipster"
+  },
+  "tags": [
+    "Interact",
+    "Data",
+    "Easily"
+  ],
+  "description": "The Zipster API allows anyone interact programmatically with Zipster. We do so by providing a range of API methods and data, which can be easily integrated into an application or a website."
+}

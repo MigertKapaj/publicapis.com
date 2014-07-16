@@ -1,0 +1,15 @@
+{
+  "id": "bigtable",
+  "title": "BigTable",
+  "link": "http://bigtable.appspot.com/",
+  "image": "",
+  "author": {
+    "name": "BigTable"
+  },
+  "tags": [
+    "Scalable",
+    "Services",
+    "Design"
+  ],
+  "description": "BigTable is a sparse, distributed, scalable database created by Google. It is used by many of their popular services. Until now it has only been available internally for Googlers, but there are some open source projects to duplicate it. For detailed design information, read Google's white paper."
+}

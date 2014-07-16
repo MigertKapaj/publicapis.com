@@ -1,0 +1,15 @@
+{
+  "id": "crittercism",
+  "title": "Crittercism",
+  "link": "https://www.crittercism.com/for-developers/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTe9vw6sYLmnFAVnOVhNsIj-SYK0eOEAjvT7ZJouUsGREjpXriQZA",
+  "author": {
+    "name": "Crittercism"
+  },
+  "tags": [
+    "Network",
+    "Impact",
+    "Affected"
+  ],
+  "description": "Immediately know if the old version of an API is getting more network HTTP errors than a new version. Understand the impact of an API by various metrics in relation to the percentage of the userbase affected to help prioritize bug fixing. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "wattvision",
+  "title": "Wattvision",
+  "link": "http://www.wattvision.com/info/api",
+  "image": "http://www.wattvision.com/zimg/wvlogo10.png",
+  "author": {
+    "name": "Wattvision"
+  },
+  "tags": [
+    "Enabled",
+    "Energy",
+    "Access"
+  ],
+  "description": "Wattvision is iPhone and Android-enabled, so you can view your live energy use wherever you can get Internet access."
+}

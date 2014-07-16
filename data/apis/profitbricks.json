@@ -1,0 +1,16 @@
+{
+  "id": "profitbricks",
+  "title": "ProfitBricks",
+  "link": "http://www.profitbricks.com/sites/default/files/profitbricks-soap-api-documentation.pdf",
+  "image": "http://www.profitbricks.com/sites/default/files/ProfitBricks_logo_190x35.png",
+  "author": {
+    "name": "ProfitBricks"
+  },
+  "tags": [
+    "Leverage",
+    "Options",
+    "DCD",
+    "Inherent"
+  ],
+  "description": "The Profitbrick API lets you to leverage the rich features and options offered by the ProfitBricks Data Center Designer (DCD) visual tool, while also taking advantage of automation attributes inherent in cloud computing environments."
+}

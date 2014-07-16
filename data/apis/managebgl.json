@@ -1,0 +1,16 @@
+{
+  "id": "managebgl",
+  "title": "ManageBGL",
+  "link": "http://www.managebgl.com/api/",
+  "image": "http://www.managebgl.com/images/logo.png",
+  "author": {
+    "name": "ManageBGL"
+  },
+  "tags": [
+    "Power",
+    "Methods",
+    "Diabetes",
+    "Access"
+  ],
+  "description": "The ManageBGL API allows you to build the power of ManageBGL's diabetes management, coaching and analysis directly into your app. The API provides methods to read and write from ManageBGL securely, so your users can bring all their diabetes data with them to your app. Any changes they make will be saved back to all their computers, tablets and mobile phones. You'll also have access to unique and powerful features such as sharing, prediction and analysis."
+}

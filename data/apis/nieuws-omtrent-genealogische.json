@@ -1,0 +1,15 @@
+{
+  "id": "nieuws-omtrent-genealogische",
+  "title": "Nieuws omtrent genealogische",
+  "link": "http://api.coret.org/laatste_nieuws.php",
+  "image": "http://static.coret.org/img/api/bg-h.gif",
+  "author": {
+    "name": "genealogische"
+  },
+  "tags": [
+    "Online",
+    "Organisaties",
+    "Type"
+  ],
+  "description": "Genealogie Online heeft een register samengesteld van online beschikbare scans van BS en DTB bij archieven en organisaties zoals FamilySearch die doorzocht kan worden op gebeurtenis type, plaats en datum."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "service-structurefilter",
+  "title": "Service StructureFilter",
+  "link": "http://structurefilter.embl.de/webservice/",
+  "image": "http://structurefilter.embl.de/webservice/EMBRACE_logo.gif",
+  "author": {
+    "name": "Service StructureFilter"
+  },
+  "tags": [
+    "Evaluation",
+    "Associated",
+    "Interact"
+  ],
+  "description": "This  WSDL file describe the Structure Filter Web Service.  This web service is useful for evaluating the location of candidate short regulatory sequences in proteins (linear motifs) which need to be accessible to interact with their ligand domains. The StructureFilter web-service calculates an accessibility score, secondary structure score and total score (as well as various other features) for each match of a regular expression or ELM in the query sequence for which structural information is available. (If a regular expression match is determined as having no associated structural information available, no reference is made to this match in the result set.)\n        "
+}

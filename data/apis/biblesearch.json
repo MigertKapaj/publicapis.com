@@ -1,0 +1,15 @@
+{
+  "id": "biblesearch",
+  "title": "BibleSearch",
+  "link": "http://bibles.org/pages/api",
+  "image": "http://bibles.org/images/biblesearch_logo_white.svg",
+  "author": {
+    "name": "BibleSearch"
+  },
+  "tags": [
+    "Running",
+    "Steps",
+    "Command"
+  ],
+  "description": "Once you have your API key, this Getting Started guide will get you up and running with the Bible Search API in a few simple steps. The examples on this page use cURL, both with the command-line utility and via PHP's support for libcurl."
+}

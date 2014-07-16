@@ -1,0 +1,16 @@
+{
+  "id": "tin-can",
+  "title": "Tin Can",
+  "link": "http://tincanapi.com/",
+  "image": "http://cdn4.tincanapi.com/wp-content/themes/tincanapi/images/logo.png",
+  "author": {
+    "name": "Tin Can"
+  },
+  "tags": [
+    "Learning",
+    "Data",
+    "Group's activities",
+    "Vocabulary"
+  ],
+  "description": "The Tin Can API (sometimes known as the Experience API or xAPI) is a brand new specification for learning technology that makes it possible to collect data about the wide range of experiences a person has (online and offline). This API captures data in a consistent format about a person or group’s activities from many technologies. Very different systems are able to securely communicate by capturing and sharing this stream of activities using Tin Can’s simple vocabulary."
+}

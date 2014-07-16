@@ -1,0 +1,16 @@
+{
+  "id": "philips-hue",
+  "title": "Philips hue",
+  "link": "http://developers.meethue.com/",
+  "image": "http://www.meethue.com/public/images/logos/hue-logo.png",
+  "author": {
+    "name": "Philips hue"
+  },
+  "tags": [
+    "Lanuch",
+    "Material",
+    "Interface",
+    "Service"
+  ],
+  "description": "Your feedback following our hue launch was clear. You want to use light as you want it. Here we provide you some material to do so. The hue bridge has a powerful RESTful interface, which behaves like a simple web service. Use it as your tool. We hope this will help you to truly use light as you want it, by making new apps, websites and digital installations;integrating hue into something else or just playing around."
+}

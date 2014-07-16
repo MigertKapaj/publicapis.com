@@ -1,0 +1,14 @@
+{
+  "id": "searchtweets",
+  "title": "search/tweets",
+  "link": "https://dev.twitter.com/docs/api/1/get/search",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnkFW7EipdxVa6f_iJlsoI_o-LH9h_NvZJEXCEncaP2aGlqIJT",
+  "author": {
+    "name": "Twitter"
+  },
+  "tags": [
+    "Exhaustive",
+    "Indexed"
+  ],
+  "description": "Twitter's search service and, by extension, the Search API is not meant to be an exhaustive source of Tweets. Not all Tweets will be indexed or made available via the search interface."
+}

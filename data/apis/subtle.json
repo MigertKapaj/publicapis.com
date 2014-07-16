@@ -1,0 +1,16 @@
+{
+  "id": "subtle",
+  "title": "Subtle",
+  "link": "https://www.subtledata.com/API/",
+  "image": "https://www.subtledata.com/Images/Logo.png",
+  "author": {
+    "name": "Subtledata"
+  },
+  "tags": [
+    "Development",
+    "Interface",
+    "Protocol",
+    "Performance"
+  ],
+  "description": "We offer the SubtleAPI for developers needing complete control of their development environment. The SubtleAPI interface uses a patent-pending protocol that is 34% smaller than JSON. One of the benefits of the SubtleAPI protocol is that it allows you to batch requests for increased performance."
+}

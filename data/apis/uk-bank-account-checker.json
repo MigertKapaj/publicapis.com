@@ -1,0 +1,13 @@
+{
+  "id": "uk-bank-account-checker",
+  "title": "UK Bank Account Checker ",
+  "link": "https://www.bankaccountchecker.com/apiUkJson.php",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSVxNns_nYySDbIiGgRmLwYDjDaDaDnnzixCC7UyjITb8q9mdEP6Q",
+  "author": {
+    "name": "Bankaccountchecker"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The API returns a validation code and a validation description for the bank account and sort code provided in JSON format."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "honey",
+  "title": "Honey",
+  "link": "https://developer.honey.is/docs",
+  "image": "https://cdn.honey.is/static/8e72279-1/img/logo_header4.png",
+  "author": {
+    "name": "Honey"
+  },
+  "tags": [
+    "Application",
+    "Portal",
+    "Report"
+  ],
+  "description": "You can create a new API application at anytime from the \"My Applications\" link from the top menu in the developer portal. If you need help or have questions with the API, a specific endpoint, or want to report an issue, please contact us at: honey@honey.is"
+}

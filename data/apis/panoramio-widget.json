@@ -1,0 +1,16 @@
+{
+  "id": "panoramio-widget",
+  "title": "Panoramio Widget",
+  "link": "http://www.panoramio.com/api/widget/api.html",
+  "image": "http://www.panoramio.com/img/acrylic/header-panoramio.png",
+  "author": {
+    "name": "Panoramio"
+  },
+  "tags": [
+    "Display",
+    "Photos",
+    "Geolocate",
+    "Vacation"
+  ],
+  "description": "With the Panoramio Widget API you can display the photos from Panoramio on your own web site. Geolocated photos from Panoramio are great to\nenrich your maps or illustrate information where location is an important factor (real estate sites, hotels and vacation sites, routes, trails...). The Panoramio Widget API is a JavaScript library that provides easy-to-use graphical UI elements and search capabilities so that you can show Panoramio photos on your web site. In addition, we provide ready-made HTML templates that you can embed in a web site using iframe tags so you cantake advantage of the Widget API without the need to write any JavaScript.The Panoramio Widget API is free for both commercial and non-commercial purposes that don't exceed the limit of 100000 queries through the API per day.\n"
+}

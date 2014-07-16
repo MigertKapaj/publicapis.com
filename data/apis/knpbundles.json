@@ -1,0 +1,15 @@
+{
+  "id": "knpbundles",
+  "title": "knpbundles",
+  "link": "http://knpbundles.com/api",
+  "image": "http://knpbundles.com/bundles/knpbundles/images/logo.gif?v1",
+  "author": {
+    "name": "knpbundles"
+  },
+  "tags": [
+    "Access",
+    "Responses",
+    "Accepted"
+  ],
+  "description": "All API access is over HTTP. All responses are returned as JSON (with Content-Type set to application/json).\nThe API is not RESTful and only GET request are accepted."
+}

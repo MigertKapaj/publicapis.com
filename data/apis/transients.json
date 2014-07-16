@@ -1,0 +1,16 @@
+{
+  "id": "transients",
+  "title": "Transients",
+  "link": "http://codex.wordpress.org/WordPress.org_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Technical",
+    "Standardized",
+    "Data",
+    "Deleted"
+  ],
+  "description": "This page contains the technical documentation of WordPress Transients API, which offers a simple and standardized way of storing cached data in the database temporarily by giving it a custom name and a timeframe after which it will expire and be deleted. "
+}

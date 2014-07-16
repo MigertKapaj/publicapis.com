@@ -1,0 +1,15 @@
+{
+  "id": "twingly",
+  "title": "Twingly",
+  "link": "http://www.twingly.com/products/blog-data",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvYx_LLpB3Ev25lowjRy3FNU4aXML7hZ31cXCCPteT8J81wgX3",
+  "author": {
+    "name": "Twingly"
+  },
+  "tags": [
+    "Implement",
+    "Adjusted",
+    "Design"
+  ],
+  "description": "Twingly widgets are very easy to implement with a few lines of code and can easily be adjusted to your design."
+}

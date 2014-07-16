@@ -1,0 +1,15 @@
+{
+  "id": "quicktate",
+  "title": "Quicktate",
+  "link": "https://api.quicktate.com/v1/api/index.html",
+  "image": "https://api.quicktate.com/v1/api/images/quicktate-icon.png",
+  "author": {
+    "name": "Quicktate"
+  },
+  "tags": [
+    "Integrate",
+    "Professional",
+    "Service"
+  ],
+  "description": "The Quicktate API allows you to seemlessly integrate our audio transcription backend into your applications. Now you can leverage our quick turnaround times and professional quality to provide audio transcription services to your customers."
+}

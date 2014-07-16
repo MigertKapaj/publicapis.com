@@ -1,0 +1,15 @@
+{
+  "id": "amazon-emr",
+  "title": "Amazon EMR",
+  "link": "http://aws.amazon.com/elasticmapreduce/",
+  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Service",
+    "Quickly",
+    "Data"
+  ],
+  "description": "Amazon Elastic MapReduce (Amazon EMR) is a web service that makes it easy to quickly and cost-effectively process vast amounts of data."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "chute",
+  "title": "Chute",
+  "link": "http://www.getchute.com/developers",
+  "image": "http://www.getchute.com/assets/rights/logo-63f239c18a58d7629a5af6d0dfd1fccb.png",
+  "author": {
+    "name": "Chute"
+  },
+  "tags": [
+    "Media",
+    "Management",
+    "Publishing"
+  ],
+  "description": "The Chute API enables you to add media capture, management, metadata and publishing to any app or site."
+}

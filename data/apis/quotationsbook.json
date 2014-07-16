@@ -1,0 +1,15 @@
+{
+  "id": "quotationsbook",
+  "title": "quotationsbook",
+  "link": "http://quotationsbook.com/services/",
+  "image": "http://quotationsbook.com/v2/mockups/web/images/logo.png",
+  "author": {
+    "name": "quotationsbook"
+  },
+  "tags": [
+    "Database",
+    "Quotes",
+    "Truncated."
+  ],
+  "description": "If you want to buy our database of quotes, you can do it officially! You must link all usage back to the quotationsbook.com links provided. Please note that the quotes in these public files are truncated to 100 characters. If you want full quotes from our dataset."
+}

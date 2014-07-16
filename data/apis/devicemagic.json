@@ -1,0 +1,15 @@
+{
+  "id": "devicemagic",
+  "title": "devicemagic",
+  "link": "http://api-docs.devicemagic.com/",
+  "image": "http://www.devicemagic.com/images/logo.png",
+  "author": {
+    "name": "devicemagic"
+  },
+  "tags": [
+    "Mobile",
+    "Collecting",
+    "Data"
+  ],
+  "description": "Please follow our Getting Started tutorial if you're new to Mobile Forms and would like follow a guided set of steps, including screenshots, for collecting data from a mobile device and sending it to Google Docs."
+}

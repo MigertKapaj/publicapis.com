@@ -1,0 +1,15 @@
+{
+  "id": "jamendo",
+  "title": "Jamendo",
+  "link": "http://developer.jamendo.com/v3.0",
+  "image": "http://developer.jamendo.com/images/shared/nav/jamendo-logo.png",
+  "author": {
+    "name": "Jamendo"
+  },
+  "tags": [
+    "Structure",
+    "Documentation",
+    "Headers"
+  ],
+  "description": "Every api call returns a response document in the requested format: json, jsonpretty, xml. Such a response document (with a slightly different structure depending on the used format), will always contain some headers, and the results requested by your api call. On every read method's documentation page and write method's documentation page you can see an example of a request and the corresponding response document. \n"
+}

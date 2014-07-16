@@ -1,0 +1,15 @@
+{
+  "id": "cloudmine",
+  "title": "CloudMine",
+  "link": "https://cloudmine.me/developer_zone",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8GWJBmcP9NhiXdjulVhd_5EiF0O2mW5X6ZCo3Q7UekbKVD9e1",
+  "author": {
+    "name": "Cloudmine"
+  },
+  "tags": [
+    "Plateform",
+    "Libraries",
+    ""
+  ],
+  "description": "The CloudMine REST API forms the platform which our libraries are built on. We don't recommend that you build an app using the REST API exclusively - you will probably want to use one of our libraries for that. "
+}

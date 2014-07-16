@@ -1,0 +1,15 @@
+{
+  "id": "blinkmap",
+  "title": "BlinkMap",
+  "link": "https://www.blinknetwork.com/developer.html",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTyD6X02jRmn7KVOO4O-KeXxmflsJJ3odsRNOV4mOMximweTayq",
+  "author": {
+    "name": "Blinknetwork"
+  },
+  "tags": [
+    "Information",
+    "Network Status",
+    "Developers"
+  ],
+  "description": "You can bring the power of the Blink Network to your users. The BlinkMap API, enables third-party integrators to receive up-to-date information straight from the Blink Network – including Blink-compatible EV charger locations, hours of operation, network status, and more – in a developer-friendly format. By integrating with the Blink Network through our API program, developers can also receive access to our technical documentation and email support."
+}

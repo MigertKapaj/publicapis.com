@@ -1,0 +1,15 @@
+{
+  "id": "hukd",
+  "title": "HUKD",
+  "link": "http://www.hotukdeals.com/rest-api/docs",
+  "image": "http://www.hotukdeals.com/images/hukd-logo.png",
+  "author": {
+    "name": "HUKD"
+  },
+  "tags": [
+    "Data",
+    "Information",
+    "Community"
+  ],
+  "description": "With the introduction of the new HotUKDeals API, we are hoping to allow members of the community to help us further develop tools for the community. The hope is that we can encourage people to make new, and interesting ways of accessing HUKD data. An ever increasing number of ways are appearing for people to interact with information, social networking applications, smartphone applications, desktop widgets, blog widgets, and much more. The deals and information on HUKD are created and maintained by the community for the benefit of the community, and we are hoping that this will allow members to help the community grow and benefit from these new ways of accessing information. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nutshell",
+  "title": "Nutshell",
+  "link": "https://www.nutshell.com/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTfbiQ1Rpz7w1AXWBSk7GKWUpEh05B1wsLR63NxedeoyVV-pASt4A",
+  "author": {
+    "name": "Nutshell"
+  },
+  "tags": [
+    "Elegant",
+    "Data",
+    "Enterprise",
+    "Productive"
+  ],
+  "description": "Nutshell is building modern software with a focus on an elegant user interface and powerful data. We’re working hard to deliver the future of business software: enterprise-level features with the ease-of-use found in popular web applications. We exist to make businesses more productive."
+}

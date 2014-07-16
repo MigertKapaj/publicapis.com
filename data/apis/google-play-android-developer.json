@@ -1,0 +1,15 @@
+{
+  "id": "google-play-android-developer",
+  "title": "Google Play Android Developer",
+  "link": "https://developers.google.com/android-publisher/getting_started",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Applications",
+    "Acccess",
+    "Project"
+  ],
+  "description": "The Google Play Android Developer API allows Android application developers access to some aspects of their Google Play developer accounts.\nAll calls to the API must be authenticated with OAuth 2.0. To set this up, you will first need to create a project in the APIs Console."
+}

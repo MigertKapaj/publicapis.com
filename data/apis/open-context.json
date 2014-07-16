@@ -1,0 +1,15 @@
+{
+  "id": "open-context",
+  "title": "Open Context",
+  "link": "http://opencontext.org/about/services",
+  "image": "http://opencontext.org/images/layout/oc-door-logo.png",
+  "author": {
+    "name": "Open Context"
+  },
+  "tags": [
+    "Provides",
+    "System",
+    "Interested"
+  ],
+  "description": "In addition to the Concepts and Technology pages, this page provides extensive information about the nuts and bolts of how Open Context works. It is not necessary for all Open Context authors and users to understand the system at this level of detail, but we provide it here for those who are interested."
+}

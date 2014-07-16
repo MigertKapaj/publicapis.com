@@ -1,0 +1,15 @@
+{
+  "id": "irc",
+  "title": "IRC",
+  "link": "https://code.google.com/p/irc-api/",
+  "image": "",
+  "author": {
+    "name": "IRC"
+  },
+  "tags": [
+    "Synchronous",
+    "Model",
+    "Features"
+  ],
+  "description": "IRC-API is a state(ful)/(less), (a)synchronous IRC API written in Java. The API offers an (a)synchronous programming model, and has the ability to save the IRC connection state per user. SSL support has lately been added, and more features are to come soon."
+}

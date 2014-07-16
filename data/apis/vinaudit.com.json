@@ -1,0 +1,16 @@
+{
+  "id": "vinaudit.com",
+  "title": "VinAudit.com",
+  "link": "http://www.vinaudit.com/api-documentation",
+  "image": "http://www.vinaudit.com/images/logos/vinaudit.com.gif",
+  "author": {
+    "name": "VinAudit.com"
+  },
+  "tags": [
+    "Data",
+    "Server",
+    "Depending",
+    "Details"
+  ],
+  "description": "The VinAudit.com API requires a reseller account. Once you have an account, you can login to access your API key. From there, your application can access data by making a HTTP requests to our API server (api.vinaudit.com). The output received can be either JSON or XML depending on the specified format. Below, we document details of the specific resources and parameters to use."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "aispeech",
+  "title": "AISpeech",
+  "link": "http://code.google.com/p/aispeech-api/",
+  "image": "http://code.google.com/p/aispeech-api/logo?cct=1323220623",
+  "author": {
+    "name": "AISpeech"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "AISpeech API 开发文档已经迁移至 http://api.aispeech.com/projects/api，此网站的文档已不再维护 "
+}

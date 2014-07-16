@@ -1,0 +1,15 @@
+{
+  "id": "get-beaches",
+  "title": "Get Beaches",
+  "link": "http://www.newdecision.net/beachguardapi/",
+  "image": "",
+  "author": {
+    "name": "BeachGuard"
+  },
+  "tags": [
+    "List",
+    "Criteria",
+    "Data"
+  ],
+  "description": "The Beaches API Returns an XML document containing a list of beaches that match the criteria provided. At least one parameter must be  provided in order for the service to return any data. All parameters are optional."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "wiserearth",
+  "title": "WiserEarth",
+  "link": "http://www.wiser.org/group/API",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTKuy_yIV-wxO0SsPg8vSElvpu13pFwCTFb3hlzWKWkr4dr4SlT",
+  "author": {
+    "name": "Wiser.org"
+  },
+  "tags": [
+    "Contains",
+    "Groups",
+    "Resources",
+    "Solutions"
+  ],
+  "description": "WiserEarth API contains up-to-date information about organizations, groups, resources, events, jobs and solutions related to Social Justice and the Environment. At any given time, our database has over 125,000 records."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "simplename",
+  "title": "Simplename",
+  "link": "https://simplename.co.nz/page/api",
+  "image": "https://simplename.co.nz/static/images/header_logo.png",
+  "author": {
+    "name": "Simplename"
+  },
+  "tags": [
+    "Developers",
+    "Expiry",
+    "Service",
+    "Devices"
+  ],
+  "description": "Simplename offers a simple API for developers wishing to integrate availability and expiry services on their websites / browser toolbars / mobile devices / whatever. "
+}

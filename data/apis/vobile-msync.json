@@ -1,0 +1,16 @@
+{
+  "id": "vobile-msync",
+  "title": "Vobile mSync",
+  "link": "http://tvsync.com/index.html#overview",
+  "image": "http://tvsync.com/logo.png",
+  "author": {
+    "name": "Vobile mSync"
+  },
+  "tags": [
+    "Phone",
+    "Tablet",
+    "TV",
+    "Music"
+  ],
+  "description": "Vobile mSync is an API platform that lets developers build phone, tablet, TV, and desktop applications that automatically identify and synchronize music, picture, television, and movie content."
+}

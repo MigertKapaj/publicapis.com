@@ -1,0 +1,15 @@
+{
+  "id": "awarly",
+  "title": "Awarly",
+  "link": "https://awarly.com/docs/rest-api",
+  "image": "",
+  "author": {
+    "name": "Awarly"
+  },
+  "tags": [
+    "Interact",
+    "Access",
+    "Data"
+  ],
+  "description": "The REST API lets you interact with Awarly from anything that can send an HTTP request. All API access is over HTTPS, and accessed from the awarly.com/api resource. All data is sent and received as JSON."
+}

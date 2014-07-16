@@ -1,0 +1,15 @@
+{
+  "id": "leadsyncer",
+  "title": "leadsyncer",
+  "link": "http://leadsyncer.com/75.0.html?&L=1#",
+  "image": "http://leadsyncer.com/fileadmin/templates/logo.png",
+  "author": {
+    "name": "leadsyncer"
+  },
+  "tags": [
+    "Returns",
+    "Programming",
+    "Requires"
+  ],
+  "description": "Our REST api uses simple HTTP GET calls and returns the records JSON encoded. This is very easy to implement in any programming language and doesn't include the overhead SOAP requires."
+}

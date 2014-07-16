@@ -1,0 +1,16 @@
+{
+  "id": "the-decarta",
+  "title": "The deCarta",
+  "link": "http://developer.decarta.com/Apis/JavaScript",
+  "image": "http://developer.decarta.com/img/logotext.png",
+  "author": {
+    "name": "DeCarta"
+  },
+  "tags": [
+    "Location",
+    "Based",
+    "Service",
+    "Web"
+  ],
+  "description": "The deCarta REST API is an interface to a complete suite of Location Based Services & Data. This new REST API is the next generation deCarta technology to replace our legacy XML Web Services, and exposes all of the core geospatial functionality of the deCarta Drill Down Server and the new deCarta L2 search engine as well as a whole suite of connected services.\n"
+}

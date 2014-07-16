@@ -1,0 +1,16 @@
+{
+  "id": "continuityapp",
+  "title": "ContinuityApp",
+  "link": "https://continuityapp.com/docs/api/v1",
+  "image": "https://cdn.continuityapp.com/64e409b/images/continuityapp-logo.png",
+  "author": {
+    "name": "ContinuityApp"
+  },
+  "tags": [
+    "Predictable",
+    "Indicates",
+    "Authentication",
+    "Encourage"
+  ],
+  "description": "The ContinuityApp API is organized around REST.\n Our API is designed to have predictable, resource-oriented URLs and to use HTTP response codes to indicate API errors. JSON will be returned inall responses from the API, including errors.\nAPI can be accessed via HTTP basic authentication, and OAuth2. We strongly encourage you to use OAuth2 based authentication for your production applications, and use HTTP basic authentication for testing purposes."
+}

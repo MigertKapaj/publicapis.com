@@ -1,0 +1,14 @@
+{
+  "id": "feedbooks",
+  "title": "Feedbooks",
+  "link": "http://www.feedbooks.com/api",
+  "image": "http://assets2.feedbooks.net/images/layout/logo.png?t=1396624843",
+  "author": {
+    "name": "Feedbooks"
+  },
+  "tags": [
+    "Developpers",
+    "Representational"
+  ],
+  "description": "Feedbooks is open to third party developpers via an Application Programming Interface (API), based on the principle of the Representational State Transfer (REST) architectural style."
+}

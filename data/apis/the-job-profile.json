@@ -1,0 +1,16 @@
+{
+  "id": "the-job-profile",
+  "title": "The Job Profile",
+  "link": "http://developers.odesk.com/w/page/49065901/Job%20Profile",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Job",
+    "Renco",
+    "Profile",
+    "Associated"
+  ],
+  "description": "The Job Profile API takes a job key or recno and returns detailed profile information about the job. This method returns an exhaustive list of attributes associated with the job."
+}

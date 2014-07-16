@@ -1,0 +1,16 @@
+{
+  "id": "payzippy",
+  "title": "Payzippy",
+  "link": "https://www.payzippy.com/apidoc",
+  "image": "https://www.payzippy.com/static/images/payzippy-logo.png",
+  "author": {
+    "name": "Payzippy"
+  },
+  "tags": [
+    "Security",
+    "Transaction",
+    "Suspected",
+    "Risk"
+  ],
+  "description": "PayZippy has undergone stringent security audits (including PCI DSS) by industry experts. \nPayZippy's real time risk engine analyses every transaction across 50+ risk parameters and notifies you about \nsuspected fraudulent transactions by email/sms.\n                            "
+}

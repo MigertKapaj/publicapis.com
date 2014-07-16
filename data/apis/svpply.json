@@ -1,0 +1,15 @@
+{
+  "id": "svpply",
+  "title": "Svpply",
+  "link": "https://developer.svpply.com/",
+  "image": "https://developer.svpply.com/assets/image/svpply.png",
+  "author": {
+    "name": "Svpply"
+  },
+  "tags": [
+    "Accessible",
+    "Required",
+    "Scope"
+  ],
+  "description": "The majority of our API is accessible without user authentication. Where authentication is required, we've noted this as \"AUTHENTICATED: Yes\" and listed the scope required for access. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zaypay",
+  "title": "Zaypay",
+  "link": "http://zaypay.com/api_integration_guide",
+  "image": "http://zaypay.com/images/v2/logo_velti.png",
+  "author": {
+    "name": "Zaypay"
+  },
+  "tags": [
+    "Initiated",
+    "Sending",
+    "Forth",
+    "Involved"
+  ],
+  "description": "This communication will sometimes be initiated by your application (to request a payment to be setup, for instance) or by Zaypay (say, to give your application an update on a payment). All communication is done by sending http-requests back and forth. This document explains all methods the API can perform, and all the details involved."
+}

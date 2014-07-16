@@ -1,0 +1,15 @@
+{
+  "id": "the-jaduka",
+  "title": "The Jaduka",
+  "link": "http://devzone.jaduka.com/",
+  "image": "http://devzone.jaduka.com/image/devzone/splash.png",
+  "author": {
+    "name": "Jaduka"
+  },
+  "tags": [
+    "Telecommunication",
+    "Worldwide",
+    "Companies"
+  ],
+  "description": "The Jaduka API gives you access to over 120 telecommunications companies worldwide, including the tier-one carriers. Managed by our parent company, NetworkIP, Jaduka's telecommunications platform delivers the highest level of call completion, consistently better call quality, and more satisfied customers - every time, all the time."
+}

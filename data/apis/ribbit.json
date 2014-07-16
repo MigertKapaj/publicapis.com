@@ -1,0 +1,16 @@
+{
+  "id": "ribbit",
+  "title": "Ribbit",
+  "link": "http://www.programmableweb.com/api/ribbit",
+  "image": "http://www.programmableweb.com/images/logo2.png",
+  "author": {
+    "name": "Programmableweb"
+  },
+  "tags": [
+    "Internet",
+    "Developer",
+    "Receive",
+    "Manage"
+  ],
+  "description": "The Ribbit Phone Component will give Rich internet application \ndevelopers the ability to make and receive calls, record/send and \nreceive voicemail, as well as add and manage contacts.\n"
+}

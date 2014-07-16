@@ -1,0 +1,16 @@
+{
+  "id": "mibbit",
+  "title": "Mibbit",
+  "link": "http://wiki.mibbit.com/index.php/API",
+  "image": "http://wiki.mibbit.com/mibbit.png",
+  "author": {
+    "name": "Mibbit"
+  },
+  "tags": [
+    "Gather",
+    "Widget",
+    "Account",
+    "ID."
+  ],
+  "description": "The Mibbit API allows you to gather information on your widget. You have to have a manager account, and a settings ID for the API to work. "
+}

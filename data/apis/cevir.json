@@ -1,0 +1,13 @@
+{
+  "id": "cevir",
+  "title": "cevir",
+  "link": "http://www.cevir.im/api",
+  "image": "http://www.cevir.im/bin/main",
+  "author": {
+    "name": "cevir"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "API servisine www.cevir.ws alan adı üzerinden erişilebilir. Şu anda geçerli sürüm numarası 1'dir. Yeni API sürümleri çıktıkça, uygulamalarınızın parametre, sonuç formatı gibi değişikliklerden etkilenmemesi için, eski sürümler yayından kalkmaz. Çevir.com API'si cross-domain istekleri kabul edecek şekilde (CORS) yapılandırılmıştır."
+}

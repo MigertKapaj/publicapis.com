@@ -1,0 +1,16 @@
+{
+  "id": "pastplace",
+  "title": "PastPlace",
+  "link": "http://www.pastplace.org/",
+  "image": "",
+  "author": {
+    "name": "PastPlace"
+  },
+  "tags": [
+    "Simple",
+    "Free to use",
+    "Historical",
+    "Web server"
+  ],
+  "description": "The PastPlace API (Applications Programming Interface) offers a simple, free to use, web service. It allows you to search our database of historical information directly in a variety of ways returning data in arange of structured formats. It is designed to allow web servers and software components to speak to each other more easily, human beings looking for data should generally use our main website A Vision of Britain through Time."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "metricfire",
+  "title": "Metricfire",
+  "link": "http://docs.metricfire.com/",
+  "image": "http://docs.metricfire.com/mf_apidoc_logo.png",
+  "author": {
+    "name": "Metricfire"
+  },
+  "tags": [
+    "Use",
+    "Implement",
+    "Performate",
+    "Data"
+  ],
+  "description": "The tradeoffs are that the HTTP API is quick to use, simple to implement, but not performant. The client libraries use UDP to send your data so they don't block your application. Sending thousands of datapoints per second should be no problem with the client libraries, but using the HTTP API will get you playing around faster."
+}

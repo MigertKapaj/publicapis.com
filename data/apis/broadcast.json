@@ -1,0 +1,15 @@
+{
+  "id": "broadcast",
+  "title": "Broadcast",
+  "link": "http://betwext.com/api/broadcast",
+  "image": "http://betwext.com/public/i/betwext_developer_center_logo.gif",
+  "author": {
+    "name": "Betwext"
+  },
+  "tags": [
+    "Destroy",
+    "Keywords",
+    "Campaigns"
+  ],
+  "description": "The Broadcast API allows you to create, update, and destroy subscribers, lists, keywords, campaigns, and responses in any of your Betwext Broadcast accounts."
+}

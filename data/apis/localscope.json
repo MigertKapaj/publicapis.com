@@ -1,0 +1,15 @@
+{
+  "id": "localscope",
+  "title": "Localscope",
+  "link": "http://www.cynapse.com/localscope/api",
+  "image": "http://cynapse.com/wp-content/uploads/cynapse-logo.png",
+  "author": {
+    "name": "Cynapse"
+  },
+  "tags": [
+    "Discover",
+    "Videos",
+    "Directly"
+  ],
+  "description": "Localscope app supports a discover mode. In discover mode, Localscope shows all the cool nearest locations, photos, videos, etc., around the user’s location. You can launch Localscope app directly into discover mode, by launching this URL from your app."
+}

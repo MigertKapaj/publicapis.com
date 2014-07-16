@@ -1,0 +1,15 @@
+{
+  "id": "ookaboo",
+  "title": "Ookaboo",
+  "link": "http://about.ookaboo.com/a/ookaboo_api/documentation",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxe9SL3OtRU4x6UXaCPH4belU3EhAVhJCYGbsl7rfIqJCoy6Mc",
+  "author": {
+    "name": "Ookaboo"
+  },
+  "tags": [
+    "Possible",
+    "Creative",
+    "Data"
+  ],
+  "description": "The Ookaboo Semantic API is a simple JSON-based API that makes it possible to find creative commons images relevant to a linked data topic with unprecedented precision."
+}

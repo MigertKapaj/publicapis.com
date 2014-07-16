@@ -1,0 +1,15 @@
+{
+  "id": "flashgamedistribution",
+  "title": "FlashGameDistribution",
+  "link": "http://flashgamedistribution.com/docs/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSQBMzBoUJFrBY1AqtDNkZHQ4QFju16_0UoEsEG8YVTdHdy_uTU",
+  "author": {
+    "name": "FlashGameDistribution"
+  },
+  "tags": [
+    "Distribute",
+    "Receive",
+    "Server"
+  ],
+  "description": "The API is the fastest and most streamlined way to distribute games. Once the API has been implemented into your website, you will receive automated game-broadcasts from our server. When your scripts receive the broadcast packet they can then fetch the game directly from our server."
+}

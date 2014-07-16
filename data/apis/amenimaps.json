@@ -1,0 +1,15 @@
+{
+  "id": "amenimaps",
+  "title": "AmeniMaps",
+  "link": "http://amenimaps.com/api",
+  "image": "http://amenimaps.com/sites/default/files/simpleclean_logo.png",
+  "author": {
+    "name": "AmeniMaps"
+  },
+  "tags": [
+    "Webapp",
+    "Location",
+    "Code"
+  ],
+  "description": "A mobile webapp that demonstrates the use of the Amenimaps API to show the location of toilets near you on a Google map can be found here. The sample code can be found on github."
+}

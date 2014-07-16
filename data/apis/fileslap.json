@@ -1,0 +1,15 @@
+{
+  "id": "fileslap",
+  "title": "Fileslap",
+  "link": "http://fileslap.com/api/",
+  "image": "http://fileslap.com/media/images/logo-small.png",
+  "author": {
+    "name": "Fileslap"
+  },
+  "tags": [
+    "Access",
+    "Response",
+    "Interact"
+  ],
+  "description": "Fileslap's RESTful API allows you to create, delete, and access info for files. To use this (or any) REST API, your application will make an HTTP request and parse the response. By default, the response is JSON. Fileslap's API is based on regular old HTTP, so you can use pretty much any language that speaks HTTP to interact with it."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "the-conductor",
+  "title": "The Conductor",
+  "link": "http://developers.conductor.com/",
+  "image": "http://www.conductor.com/mashery/images/img-2.jpg",
+  "author": {
+    "name": "Conductor"
+  },
+  "tags": [
+    "Secure",
+    "Connection",
+    "Social",
+    "Business"
+  ],
+  "description": "The Conductor Searchlight open infrastucture enables secure and seamless connection between Searchlight, social platforms, custom data warehouses and reporting platforms.  Focus on building amazing user experiences, solving business challenges and spending less time on backend services.\n\n"
+}

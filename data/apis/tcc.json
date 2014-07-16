@@ -1,0 +1,15 @@
+{
+  "id": "tcc",
+  "title": "TCC",
+  "link": "http://connect.thecurrencycloud.com/api-docs/introduction-xbpconnect-api/",
+  "image": "http://d3l9mdubvt3het.cloudfront.net/sites/52efa4dddaf9927254000003/theme/images/logo.gif",
+  "author": {
+    "name": "TCC"
+  },
+  "tags": [
+    "Provides",
+    "Access",
+    "Payment"
+  ],
+  "description": "TCC Connect provides developers with access to The Currency Cloud infrastructure for cross border currency receipt, conversion and payment. We suggest you read the following documentation."
+}

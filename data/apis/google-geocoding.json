@@ -1,0 +1,13 @@
+{
+  "id": "google-geocoding",
+  "title": "Google Geocoding",
+  "link": "https://www.mashape.com/shatsar/google-geocoding",
+  "image": "",
+  "author": {
+    "name": "shatsar"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This is a simple, unofficial wrapper for Google Geocoding API"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "doxument",
+  "title": "Doxument",
+  "link": "http://code.google.com/p/doxument/wiki/Documentation?tm=6",
+  "image": "http://code.google.com/p/doxument/logo?cct=1332693521",
+  "author": {
+    "name": "Doxument"
+  },
+  "tags": [
+    "Service",
+    "Paid",
+    "Convert"
+  ],
+  "description": "Doxument offers free and paid REST API service that allows anyone to convert, OCR and NLP documents in the cloud. "
+}

@@ -1,0 +1,14 @@
+{
+  "id": "geolocate",
+  "title": "Geolocate",
+  "link": "http://ipgeolocation.setgetgo.com/",
+  "image": "http://ipgeolocation.setgetgo.com/ipgeolocate.jpg",
+  "author": {
+    "name": "Geolocate"
+  },
+  "tags": [
+    "Easy",
+    "IP"
+  ],
+  "description": "The easiest easy way to geolocate an IP (built on top of setgetgo.com)."
+}

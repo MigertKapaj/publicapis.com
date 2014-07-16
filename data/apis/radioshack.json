@@ -1,0 +1,16 @@
+{
+  "id": "radioshack",
+  "title": "RadioShack",
+  "link": "https://developer.radioshack.com/Home/Authentication",
+  "image": "https://developer.radioshack.com/Images/logo.png",
+  "author": {
+    "name": "RadioShack"
+  },
+  "tags": [
+    "Platform",
+    "Data",
+    "Access",
+    "General"
+  ],
+  "description": "This is the documentation for the RadioShack API. This platform enables you to leverage RadioShack's large inventory of data for use with your application. To get started, click the Request API Key or Login button on the left, or if you have API access or general questions, please contact us. "
+}

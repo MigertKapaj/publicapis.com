@@ -1,0 +1,15 @@
+{
+  "id": "apiphany",
+  "title": "Apiphany",
+  "link": "http://apiphany.com/#/product",
+  "image": "http://apiphany.com/logo.png",
+  "author": {
+    "name": "Apiphany"
+  },
+  "tags": [
+    "Services",
+    "Customers",
+    "Acquired"
+  ],
+  "description": "Thank you for your interest in API management services and the Apiphany API Delivery Platform. Our service is unavailable to new customers at this time as Apiphany has been acquired by Microsoft and is joining the Windows Azure family of cloud services."
+}

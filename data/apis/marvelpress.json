@@ -1,0 +1,16 @@
+{
+  "id": "marvelpress",
+  "title": "Marvelpress ",
+  "link": "http://docs.marvelpress.com/",
+  "image": "http://docs.marvelpress.com/public/images/logo_small.png",
+  "author": {
+    "name": "Marvelpress "
+  },
+  "tags": [
+    "Orders",
+    "Tracking",
+    "Software",
+    "Integrate"
+  ],
+  "description": "Marvelpress offers the benefits of our state of the art production workflow software to customers via a series of APIs, allowing customers to place orders and access live tracking data for any order item, at any time. This site contains overviews of the different APIs available along with the documentation required by developers to use the APIs in software applications. All APIs are designed with simplicity and ease of use in mind and should be able to be integrated with almost any software system."
+}

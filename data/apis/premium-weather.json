@@ -1,0 +1,17 @@
+{
+  "id": "premium-weather",
+  "title": "Premium Weather",
+  "link": "http://developer.worldweatheronline.com/documentation",
+  "image": "http://cdn.worldweatheronline.net/staticv3/images/logo.jpg",
+  "author": {
+    "name": "Worldweatheronline"
+  },
+  "tags": [
+    "Agents",
+    "Sailors",
+    "Owners",
+    "Data",
+    "Information"
+  ],
+  "description": "Our premium weather API delivers advanced and in-depth weather information in easy to use formats like XML, CSV, JSON, JSON-P, TAB etc. It is used worldwide by travel agents, marinas, sailors, ski fanatics, airlines, mobile companies and website owners. Our premium weather data includes up to 15 day weather, current conditions, hour by hour weather information and much more. "
+}

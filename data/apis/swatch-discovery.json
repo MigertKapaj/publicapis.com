@@ -1,0 +1,14 @@
+{
+  "id": "swatch-discovery",
+  "title": "Swatch Discovery",
+  "link": "http://www.colorfyit.com/api",
+  "image": "http://www.colorfyit.com/assets/img/xcolorfy.png,q1311463926.pagespeed.ic.CNpLqXa1I1.png",
+  "author": {
+    "name": "Colorfy"
+  },
+  "tags": [
+    "Limits",
+    "Build"
+  ],
+  "description": "The current API is a RESTful API without any limits. Enjoy, but let me know what you build..."
+}

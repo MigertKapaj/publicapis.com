@@ -1,0 +1,15 @@
+{
+  "id": "formstack",
+  "title": "Formstack",
+  "link": "https://www.formstack.com/developers/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4lHkQ8QALIFOAm7TlS8YoY5SFNQn2smHdOueh21yMhx6mBaHm",
+  "author": {
+    "name": "Formstack"
+  },
+  "tags": [
+    "Access",
+    "Resources",
+    "Conform"
+  ],
+  "description": "The Formstack API allows users and 3rd party application to access certain resources programatically. This API tries to conform to REST principals. "
+}

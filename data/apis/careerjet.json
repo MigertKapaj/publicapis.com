@@ -1,0 +1,15 @@
+{
+  "id": "careerjet",
+  "title": "Careerjet",
+  "link": "http://search.cpan.org/~tbusch/WebService-Careerjet-0.13/lib/WebService/Careerjet.pm",
+  "image": "http://static.careerjet.net/images/logo_ws_uk.png",
+  "author": {
+    "name": "Careerjet"
+  },
+  "tags": [
+    "Webmaster",
+    "Public",
+    "Support"
+  ],
+  "description": "If you are a webmaster and would like to embed Careerjet search results into your website, please feel free to use our public search API. So far we support the following languages."
+}

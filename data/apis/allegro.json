@@ -1,0 +1,13 @@
+{
+  "id": "allegro",
+  "title": "Allegro",
+  "link": "http://allegro.pl/webapi/general.php",
+  "image": "http://c.allegrostatic.pl/images/velalayout/logotypes/290856a0.allegro-pl.png",
+  "author": {
+    "name": "Allegro"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Informacje na temat wszystkich metod, które składają się na Allegro WebAPI."
+}

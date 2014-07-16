@@ -1,0 +1,15 @@
+{
+  "id": "metrics",
+  "title": "Metrics",
+  "link": "http://dev.librato.com/v1/metrics#metrics",
+  "image": "http://dev.librato.com/images/logo.png",
+  "author": {
+    "name": "Librato"
+  },
+  "tags": [
+    "Measurements",
+    "Programatically",
+    "Gauses"
+  ],
+  "description": "Metrics are custom measurements stored in Librato's Metrics service. These measurements are created and may be accessed programatically through a set of RESTful API calls. There are currently two types of metrics that may be stored in Librato Metrics, gauges and counters."
+}

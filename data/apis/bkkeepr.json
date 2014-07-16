@@ -1,0 +1,15 @@
+{
+  "id": "bkkeepr",
+  "title": "bkkeepr",
+  "link": "http://booktwo.org/notebook/the-bkkeepr-api/",
+  "image": "http://booktwo.org/wp-content/uploads/2008/05/bkkeepr.jpg",
+  "author": {
+    "name": "booktwo.org"
+  },
+  "tags": [
+    "Moment",
+    "Data",
+    "Particular"
+  ],
+  "description": "The bkkeepr API is very basic at the moment, allowing you to do two things: get all of a particular reader’s reading data, and get all the reading data about a particular book. "
+}

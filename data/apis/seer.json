@@ -1,0 +1,16 @@
+{
+  "id": "seer",
+  "title": "SEER ",
+  "link": "https://api.seer.cancer.gov",
+  "image": "https://api.seer.cancer.gov/images/seer_logo.png",
+  "author": {
+    "name": "SEER "
+  },
+  "tags": [
+    "Data",
+    "Resources",
+    "Tools",
+    "Quality"
+  ],
+  "description": "The SEER API is a RESTful Web service that supports various SEER Program data sets and algorithms. This service is available to developers who wish to incorporate SEER resources into their own systems. These resources include databases and tools developed to enhance registry operations and quality improvement. The SEER API is designed for integration into registry computer systems and is not designed to be accessed by end-users."
+}

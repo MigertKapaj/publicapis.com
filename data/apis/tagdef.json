@@ -1,0 +1,15 @@
+{
+  "id": "tagdef",
+  "title": "tagdef",
+  "link": "http://api.tagdef.com/",
+  "image": "http://dho6aw9hr4b3p.cloudfront.net/tagdeflogonew.png",
+  "author": {
+    "name": "tagdef"
+  },
+  "tags": [
+    "Definitions",
+    "Application",
+    "Licence"
+  ],
+  "description": "You can use this API to get definitions for hashtags in your application. It is free to use, but please read the short licence at the bottom of this page."
+}

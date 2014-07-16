@@ -1,0 +1,16 @@
+{
+  "id": "iactionable",
+  "title": "IActionable",
+  "link": "http://iactionable.com/privacy/",
+  "image": "http://iactionable.com/images/logoclear-260.png",
+  "author": {
+    "name": "IActionable"
+  },
+  "tags": [
+    "Engine",
+    "Accessible",
+    "Connected",
+    "Data"
+  ],
+  "description": "Harness the power of IActionable’s Engage Engine through a secure and robust RESTful API. It works with any programming language and is accessible from any internet connected application, device or server. All functionality is fully documented with example request and response data."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "the-myfonts",
+  "title": "The MyFonts",
+  "link": "http://dev.myfonts.com/",
+  "image": "http://cdn.myfonts.net/s/images/dev/dev_logo.png",
+  "author": {
+    "name": "MyFonts "
+  },
+  "tags": [
+    "Fonts",
+    "Collection",
+    "Criretia"
+  ],
+  "description": "The MyFonts API lets you build apps that explore the wealth of fonts. You can browse the entire MyFonts font collection using various criteria, get more information about a font family and each font within it, and render font samples with a custom text."
+}

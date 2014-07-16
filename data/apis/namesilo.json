@@ -1,0 +1,15 @@
+{
+  "id": "namesilo",
+  "title": " NameSilo",
+  "link": "http://www.namesilo.com/api_reference.php",
+  "image": "http://www.namesilo.com/images/logo_main.gif",
+  "author": {
+    "name": " NameSilo"
+  },
+  "tags": [
+    "Formatting",
+    "Request",
+    ""
+  ],
+  "description": "This reference guide is intended to help you access and utilize our API. We provide details for formatting your requests, our basic API structure, how responses will be returned, and a guide for response codes. Take note that certain operations can update the settings for your domains without the standard error checking native to the same operations made through our web interface. Therefore please only make use of the API if you are comfortable using such a system.\n\n    \n    "
+}

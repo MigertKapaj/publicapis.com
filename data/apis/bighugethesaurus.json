@@ -1,0 +1,15 @@
+{
+  "id": "bighugethesaurus",
+  "title": "BigHugeThesaurus",
+  "link": "http://words.bighugelabs.com/api.php",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTK-w19Bc6sGrNvoGkoTnYJjPmU7WLGAnsMS1CmX-YDwFKR5LDN",
+  "author": {
+    "name": "BigHugeThesaurus"
+  },
+  "tags": [
+    "Retrieving",
+    "Access",
+    "Synonyms"
+  ],
+  "description": "This site sports a very simple API for retrieving the synonyms for any word. You can access the API by making a GET request"
+}

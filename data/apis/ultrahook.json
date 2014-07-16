@@ -1,0 +1,16 @@
+{
+  "id": "ultrahook",
+  "title": "UltraHook",
+  "link": "http://www.ultrahook.com/faq",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTuo6D8oDg8qfeyT8QqWKH9xuPqnPfge0xL2wJzsvemJq3dkMwjxA",
+  "author": {
+    "name": "UltraHook"
+  },
+  "tags": [
+    "Service",
+    "Requests",
+    "Testing",
+    "Public"
+  ],
+  "description": "Webhooks are HTTP requests made over the web by services when certain events are triggered within the services. Many popular services (GitHub, Stripe, ActiveCampaign, Papertrail, etc) support updates via webhooks. However, since these webhook requests are made over the public web, it's difficult receive them when testing from behind a firewall. This is where UltraHook comes in - it provides you a public endpoint to give to other services and tunnels requests to a private endpoint on your computer."
+}

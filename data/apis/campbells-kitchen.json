@@ -1,0 +1,15 @@
+{
+  "id": "campbells-kitchen",
+  "title": " Campbell’s Kitchen",
+  "link": "http://developer.campbellskitchen.com/",
+  "image": "https://developer.campbellskitchen.com/campbells_kitchen_logo.png",
+  "author": {
+    "name": " Campbell’s Kitchen"
+  },
+  "tags": [
+    "Empowering",
+    "Cupboards",
+    "Indgredients"
+  ],
+  "description": "Information is empowering. The more information readers have the better choices they can make. That’s why we’re opening our kitchen cupboards and making our recipes available to developers through Campbell’s Kitchen API – so you have all the ingredients you need to create smart and easier ways for your readers to make choices that are right for them."
+}

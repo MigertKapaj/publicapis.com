@@ -1,0 +1,15 @@
+{
+  "id": "runscope-radar",
+  "title": "Runscope Radar",
+  "link": "https://www.runscope.com/docs",
+  "image": "https://www.runscope.com/static/img/public/logo-runscope-white.png",
+  "author": {
+    "name": "Runscope Radar"
+  },
+  "tags": [
+    "Sequence",
+    "Response",
+    "Data"
+  ],
+  "description": "A Runscope Radar test is a group of one or more HTTP requests executed sequentially. For each request in the sequence you can define Assertions on expected response data and Variables containing extracted response data to be used in subsequent requests. "
+}

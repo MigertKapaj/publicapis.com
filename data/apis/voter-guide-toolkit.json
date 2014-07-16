@@ -1,0 +1,16 @@
+{
+  "id": "voter-guide-toolkit",
+  "title": "Voter Guide Toolkit",
+  "link": "http://ethepeople.org/help/web-services-api/",
+  "image": "",
+  "author": {
+    "name": "Voter Guide Toolkit"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Application",
+    "Widget"
+  ],
+  "description": "The Voter Guide Toolkit web services API provides RESTful read-only access to the data in your voter guide. Use the WS API to consume your voter guide data for use in other applications. For example, you can use the WS API to create an HTML widget displaying a candidate profile in another part of your web site."
+}

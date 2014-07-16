@@ -1,0 +1,15 @@
+{
+  "id": "politicalpartytime",
+  "title": "PoliticalPartyTime",
+  "link": "http://politicalpartytime.org/api/",
+  "image": "http://assets.politicalpartytime.org/1.0/images/logo.png",
+  "author": {
+    "name": "PoliticalPartyTime"
+  },
+  "tags": [
+    "Several",
+    "Data",
+    "Developer"
+  ],
+  "description": "There are several ways to get your Party Time data fix, including an API for developers and email alerts for reporters. "
+}

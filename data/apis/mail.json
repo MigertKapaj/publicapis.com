@@ -1,0 +1,15 @@
+{
+  "id": "mail",
+  "title": "Mail",
+  "link": "http://sendgrid.com/docs/API_Reference/Web_API/mail.html",
+  "image": "http://sendgrid.com/docs/images/sendgrid-logo.png?embed=true",
+  "author": {
+    "name": "SendGrid"
+  },
+  "tags": [
+    "Emails",
+    "Customized",
+    "App"
+  ],
+  "description": "This is an API that allows you to tag your emails to get detailed statistics on each tag, send multiple customized emails in one request via mail merge, and configure each app on a per email basis."
+}

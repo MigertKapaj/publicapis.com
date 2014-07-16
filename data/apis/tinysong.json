@@ -1,0 +1,13 @@
+{
+  "id": "tinysong",
+  "title": "Tinysong",
+  "link": "http://www.tinysong.com/api",
+  "image": "http://www.tinysong.com/webincludes/css/suntheme/images/header_logo.png",
+  "author": {
+    "name": "Tinysong"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

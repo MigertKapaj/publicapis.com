@@ -1,0 +1,15 @@
+{
+  "id": "bibsonomy",
+  "title": "BibSonomy",
+  "link": "http://www.bibsonomy.org/help/doc/gettingaccess.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzEhe_04qOx_z5JsQmIg2VZQFTuEFEfFac5mjlW7nlPpBamNLuJQ",
+  "author": {
+    "name": "BibSonomy"
+  },
+  "tags": [
+    "Software",
+    "Web",
+    "Developer"
+  ],
+  "description": "BibSonomy provides a webservice using Representational State Transfer (REST), a software architectural style for distributed hypermedia systems. The term originated in a 2000 doctoral dissertation about the web written by Roy Fielding, one of the principal authors of the HTTP protocol specification. This site is intended for developers who want to develop applications which interact with BibSonomy. "
+}

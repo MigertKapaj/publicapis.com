@@ -1,0 +1,15 @@
+{
+  "id": "activebuilding",
+  "title": "ActiveBuilding",
+  "link": "https://developer.activebuilding.com/oauth",
+  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/activebuilding-api/626464249266/profiles/logos/large/AB_API_Logo.png",
+  "author": {
+    "name": "ActiveBuilding"
+  },
+  "tags": [
+    "Protocol",
+    "Supports",
+    "Access"
+  ],
+  "description": "ActiveBuilding API uses the OAuth 2.0 protocol for authentication and authorization. All requests to the API must be made over SSL (https://, not http://). ActiveBuilding only supports the password grant_type: clients send a username and password and receive an access_token (2-legged oauth authentication)."
+}

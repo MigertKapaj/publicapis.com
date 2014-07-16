@@ -1,0 +1,16 @@
+{
+  "id": "anniversarator",
+  "title": "Anniversarator",
+  "link": "http://anniversarator.com/service/",
+  "image": "",
+  "author": {
+    "name": "Anniversarator"
+  },
+  "tags": [
+    "Service",
+    "Web",
+    "Appropriate",
+    "Mobile"
+  ],
+  "description": "The Anniversarator web page can also be used as a simple REST web service by third-party applications. This means that if you have a facebook application, a mobile application, or some other web service, and you want to be able to incorporate the results of the Anniversarator's calculations into your application, you can do that using a simple HTTP call to the page with the appropriate parameters."
+}

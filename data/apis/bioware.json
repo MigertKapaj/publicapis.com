@@ -1,0 +1,15 @@
+{
+  "id": "bioware",
+  "title": "Bioware",
+  "link": "http://bioware.ucd.ie/~compass/biowareweb/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTS-WzVWR1WbJFVtVOXx9mG3Mhu2kLNIKG2fL9_u0Y7gkbWRKeSrg",
+  "author": {
+    "name": "Bioware"
+  },
+  "tags": [
+    "Webserver",
+    "Contains",
+    "Data"
+  ],
+  "description": "Welcome to the Bioware webserver for the Clinical Bioinformatics lab. This server contains several tools for short linear motif discovery and peptide characterisation and related analysis of proteomics data."
+}

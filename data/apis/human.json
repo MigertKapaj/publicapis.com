@@ -1,0 +1,15 @@
+{
+  "id": "human",
+  "title": "Human",
+  "link": "http://humanapi.co/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpp2sMSllfFtI1buKR4U3Vh5B48Qa0_rLru-ds2wo0gRT5RxQq",
+  "author": {
+    "name": "Human"
+  },
+  "tags": [
+    "Connection",
+    "Data",
+    "Source"
+  ],
+  "description": "Human API gives you a single, simple connection to all your user's health data from any vendor or data source. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "wubook",
+  "title": "Wubook",
+  "link": "http://en.wubook.net/developers/",
+  "image": "http://en.wubook.net/siimgs/logo.jpg",
+  "author": {
+    "name": "Wubook"
+  },
+  "tags": [
+    "Provides",
+    "connectivity",
+    "Reliable",
+    "Friendly"
+  ],
+  "description": "WuBook provides an XmlRpc connectivity solution:Wired! It is easy and very reliable. We receive hundreds of  thousands of requests each day; our solid and user friendly interface deals with them easily."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "chatterboxlabs",
+  "title": "ChatterboxLabs",
+  "link": "http://chatterbox.co/service-plans.html",
+  "image": "http://chatterbox.co/content/themes/chatterbox/assets/img/chatterbox-logo.svg",
+  "author": {
+    "name": "ChatterboxLabs"
+  },
+  "tags": [
+    "Commercial",
+    "Natural",
+    "Data"
+  ],
+  "description": "Chatterbox Labs deliver commercial machine learning and natural language processing technologies to global partners created by our multilingual data science team."
+}

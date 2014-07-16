@@ -1,0 +1,15 @@
+{
+  "id": "opencaching.com",
+  "title": "OpenCaching.com",
+  "link": "http://www.opencaching.com/api_doc/index.html",
+  "image": "http://www.opencaching.com/api_doc/g/logo_beta.png",
+  "author": {
+    "name": "Open Caching"
+  },
+  "tags": [
+    "Allows",
+    "Data",
+    "Authenticate"
+  ],
+  "description": "The OpenCaching.com API allows you to query all the data stored in the OpenCaching.com database.  You can even use the API to authenticate users to update and write data to the database.  The first step to using the API is to request a Developer Key.  "
+}

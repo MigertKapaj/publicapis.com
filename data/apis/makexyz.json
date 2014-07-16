@@ -1,0 +1,16 @@
+{
+  "id": "makexyz",
+  "title": "makexyz",
+  "link": "http://www.makexyz.com/developers",
+  "image": "http://s3.amazonaws.com/makexyz/img/logo.2d8a8f92b4c8.png",
+  "author": {
+    "name": "makexyz"
+  },
+  "tags": [
+    "Dual",
+    "Print",
+    "Quotes",
+    "Extruder"
+  ],
+  "description": "Say you want to let your customers order a print of a design on your site, the Dual Sriracha Extruder. They would click Print, then choose printers to request quotes from; as seen on the right"
+}

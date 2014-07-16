@@ -1,0 +1,14 @@
+{
+  "id": "rgrta-rest",
+  "title": "RGRTA REST",
+  "link": "https://www.rgrta.com/API.aspx",
+  "image": "https://www.rgrta.com/Portals/0/Skins/RGRTA/images/logo.png",
+  "author": {
+    "name": "RGRTA REST"
+  },
+  "tags": [
+    "Agency",
+    "Organisation"
+  ],
+  "description": "Headquartered on East Main Street in Rochester and governed by twelve \ncommissioners, RGRTA oversees public transportation in Monroe, Genesee, \nLivingston, Orleans, Wayne,  Wyoming and Seneca counties. RGRTA also \nserves as the host agency to a planning organization known as the \nGenesee Transportation Council."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "table-service",
+  "title": "Table Service",
+  "link": "http://msdn.microsoft.com/en-us/library/windowsazure/dd179423.aspx",
+  "image": "http://i3.msdn.microsoft.com/Areas/Epx/Themes/WindowsAzure/Content/SpriteImages/ImageSprite.Azure.png",
+  "author": {
+    "name": "Microsoft Azure"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Contain"
+  ],
+  "description": "The Table service offers structured storage in the form of tables. The Table service API is a REST API for working with tables and the data that they contain."
+}

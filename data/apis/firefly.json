@@ -1,0 +1,16 @@
+{
+  "id": "firefly",
+  "title": "Firefly",
+  "link": "http://usefirefly.com/api",
+  "image": "http://usefirefly.com/img/logo-small-no-shadow.png",
+  "author": {
+    "name": "Firefly"
+  },
+  "tags": [
+    "Chat",
+    "Customer",
+    "Software",
+    "Deployment"
+  ],
+  "description": "Firefly's cobrowsing API is intended for deploying Firefly at scale across many websites. Primary use cases include adding Firefly to chat applications, customer support software, or enterprise software deployments."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "news-headlines",
+  "title": "News Headlines",
+  "link": "http://www.xignite.com/product/XigniteNews/api/GetStockHeadlines/",
+  "image": "http://www.xignite.com/img/global/logo-text.png",
+  "author": {
+    "name": "Xignite"
+  },
+  "tags": [
+    "Economic",
+    "Online",
+    "Publication",
+    "Market"
+  ],
+  "description": "This API offers comprehensive company and stock market news headlines which includes U.S. business, economic and financial news headlines from leading online publications such as Reuters, AP, Market Watch, WSJ Online, The Street.com, and many others."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "traffic",
+  "title": "Traffic",
+  "link": "http://msdn.microsoft.com/en-us/library/hh441726.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Information",
+    "Congestion"
+  ],
+  "description": "Use the Traffic API to get information about traffic incidents and issues, such as construction sites and traffic congestion. For traffic incident coverage by country, see Bing Maps Traffic Coverage."
+}

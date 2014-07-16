@@ -1,0 +1,16 @@
+{
+  "id": "breadcrumbs",
+  "title": "Breadcrumbs",
+  "link": "http://www.gobreadcrumbs.com/en/developers",
+  "image": "http://www.gobreadcrumbs.com/assets/sprites/header-s0a210cdc9a-ab41ec94ff0d31b32c0ec71b7384648c.png",
+  "author": {
+    "name": "Breadcrumbs"
+  },
+  "tags": [
+    "Data",
+    "Register",
+    "Provisioned",
+    "Secret"
+  ],
+  "description": "Breadcrumbs allows applications to push data of their users to Breadcrumbs. To use the Breadcrumbs API, the first step you have to do is register your application. Each application you register will be provisioned a consumer key and secret."
+}

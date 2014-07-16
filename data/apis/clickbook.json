@@ -1,0 +1,15 @@
+{
+  "id": "clickbook",
+  "title": "ClickBook",
+  "link": "http://clickbook.net/interface",
+  "image": "http://clickbook.net/logosmall.gif",
+  "author": {
+    "name": "ClickBook"
+  },
+  "tags": [
+    "Service",
+    "Access",
+    "Prospect"
+  ],
+  "description": "The ClickBook.net SOAP WebService API provides comprehensive access to the ClickBook engine for custom user interfaces and bespoke workflow integration with Local Business Directories (typical flowchart), providing them with the prospect of real-time availability display and confirmed appointment booking, detail management and appointment reminder services for their customers. "
+}

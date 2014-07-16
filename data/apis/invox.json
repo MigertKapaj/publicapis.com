@@ -1,0 +1,16 @@
+{
+  "id": "invox",
+  "title": "Invox",
+  "link": "http://www.invox.com/phone-api.html",
+  "image": "http://www.invox.com/images/logo1.png",
+  "author": {
+    "name": "Invox"
+  },
+  "tags": [
+    "Fortune",
+    "Setup",
+    "Technical",
+    "Software"
+  ],
+  "description": "Building voice applications in the past was only meant for Fortune 500 companies as it needed huge up front costs to setup the infrastructure, a highly technical development team to write thousands of lines of code and huge maintenance expenses for hardware and software."
+}

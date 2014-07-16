@@ -1,0 +1,15 @@
+{
+  "id": "payson",
+  "title": "Payson",
+  "link": "http://api.payson.se/#Gettingstarted",
+  "image": "http://api.payson.se/Content/Images/payson_large.png",
+  "author": {
+    "name": "Payson"
+  },
+  "tags": [
+    "Applied",
+    "Integration",
+    "Credentials"
+  ],
+  "description": "In order to use Paysons API, you first need API credentials. These can be applied for at your Payson Account by clicking on 'My Account' and then clicking on 'Integration'. Once you have been approved by Payson, you can see your credentials at the very same page where you applied for them."
+}

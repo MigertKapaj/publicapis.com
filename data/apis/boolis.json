@@ -1,0 +1,13 @@
+{
+  "id": "boolis",
+  "title": "Boolis",
+  "link": "http://www.booli.se/api",
+  "image": "http://bcdn.se/images/logoIndex.e6f01.png",
+  "author": {
+    "name": "boolis"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Boolis API ger dig en möjlighet att få åtkomst till Boolis data och interagera via tredjepartsapplikationer. API:et följer principerna för REST. I den här guiden och i utforskaren hittar du förhoppningsvis allt du behöver för komma igång. Skulle du har några frågor eller stöta på problem så kan du kontakta oss här. "
+}

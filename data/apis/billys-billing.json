@@ -1,0 +1,16 @@
+{
+  "id": "billys-billing",
+  "title": "Billy's Billing",
+  "link": "https://dev.billysbilling.dk/api",
+  "image": "https://d2h9sribge1gza.cloudfront.net/billy/billy/resources/20140321-230356/images/dev/design/top-logo.png",
+  "author": {
+    "name": "Billy's Billing"
+  },
+  "tags": [
+    "Easy",
+    "Applications",
+    "language",
+    "Communicate"
+  ],
+  "description": "The API is based on REST principles, which makes it very easy to write and test applications. You can use any HTTP client in your favorite programming language to communicate with the API. You can also point your browser to the API’s base url and navigate the API to see how it works."
+}

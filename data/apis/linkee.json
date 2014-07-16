@@ -1,0 +1,15 @@
+{
+  "id": "linkee",
+  "title": "Linkee",
+  "link": "http://linkee.com/tools/api",
+  "image": "http://linkee.com/assets/logo-dd9c14e8785b767db275e38cb162f9fe.gif",
+  "author": {
+    "name": "Linkee"
+  },
+  "tags": [
+    "Service",
+    "Provides",
+    "Developer"
+  ],
+  "description": "The Linkee API provides a means to interact with the Linkee service programmatically. This document provides the instructions & examples for a developer to use to create web, desktop and mobile applications."
+}

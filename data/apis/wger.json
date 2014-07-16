@@ -1,0 +1,15 @@
+{
+  "id": "wger",
+  "title": "Wger",
+  "link": "https://wger.de/software/api",
+  "image": "",
+  "author": {
+    "name": "Wger"
+  },
+  "tags": [
+    "Necessary",
+    "Consult",
+    "Documentation"
+  ],
+  "description": "The API uses HATEOAS, so you should be able to browse through the necessary endpoints without having to consult an extensive documentation."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "weather",
+  "title": "weather",
+  "link": "http://api.met.no/#english",
+  "image": "",
+  "author": {
+    "name": "api.met.no"
+  },
+  "tags": [
+    "Interface",
+    "Data",
+    "Conditions"
+  ],
+  "description": "api.met.no/weatherapi is an interface to a selection of data produced by the Norwegian Meteorological Institute. The data is available for use under these conditions. "
+}

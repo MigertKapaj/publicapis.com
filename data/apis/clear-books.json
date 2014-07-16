@@ -1,0 +1,15 @@
+{
+  "id": "clear-books",
+  "title": "Clear Books",
+  "link": "http://www.clearbooks.co.uk/support/api/",
+  "image": "http://www.clearbooks.co.uk/themes/ClearBooks2013/images/appLogos/nav-Clear-Books.png",
+  "author": {
+    "name": "ClearBooks"
+  },
+  "tags": [
+    "Service",
+    "Communication",
+    "System"
+  ],
+  "description": "Clear Books provides an API service to its users, allowing for third party communication to pass information both into and out of the system."
+}

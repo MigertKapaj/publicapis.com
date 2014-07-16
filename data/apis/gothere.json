@@ -1,0 +1,15 @@
+{
+  "id": "gothere",
+  "title": "Gothere",
+  "link": "http://gothere.sg/api",
+  "image": "http://gothere.sg/static/img/2/top.png",
+  "author": {
+    "name": "Gothere"
+  },
+  "tags": [
+    "Interface",
+    "Service",
+    "Directions"
+  ],
+  "description": "The Gothere Maps API is an Application Programming Interface to Gothere’s web services, such as our maps, address geocoder, public transport and driving directions, as well as nearby amenities search. Contact us today if you're interested to find out more."
+}

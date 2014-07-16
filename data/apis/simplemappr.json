@@ -1,0 +1,16 @@
+{
+  "id": "simplemappr",
+  "title": "SimpleMappr",
+  "link": "http://www.simplemappr.net/#tabs=7",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFCZUw3ufSVadDCFx39vTBCmcvs1oZw6ZzyFis2ddU6y1yd4uf",
+  "author": {
+    "name": "SimpleMappr"
+  },
+  "tags": [
+    "Internet",
+    "Sending",
+    "Service",
+    "Respectively"
+  ],
+  "description": "A simple, restful API may be used with Internet accessible, tab-separated text files, a collection of coordinates, or by sending files with additional parameters outlined below. A Web Feature Service (WFS) and a Web Map Service (WMS) are also available for vector- and raster-based layers, respectively."
+}

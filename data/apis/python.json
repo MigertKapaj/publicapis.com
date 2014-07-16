@@ -1,0 +1,14 @@
+{
+  "id": "python",
+  "title": "Python",
+  "link": "https://docs.python.org/devguide/",
+  "image": "https://www.python.org/static/img/python-logo.png",
+  "author": {
+    "name": "Python"
+  },
+  "tags": [
+    "Contributing",
+    "Maintained"
+  ],
+  "description": "This guide is a comprehensive resource for contributing to Python – for both new and experienced contributors. It is maintained by the same community that maintains Python. We welcome your contributions to Python!"
+}

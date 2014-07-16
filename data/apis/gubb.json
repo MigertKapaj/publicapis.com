@@ -1,0 +1,15 @@
+{
+  "id": "gubb",
+  "title": "gubb",
+  "link": "http://gubb.net/api/docs",
+  "image": "http://gubb.net/images/external_logo.gif",
+  "author": {
+    "name": "gubb"
+  },
+  "tags": [
+    "Developers",
+    "Software",
+    "Data"
+  ],
+  "description": "The gubb API exists to help developers create non-commercial applications, browser plug-ins and other software that interacts with data inside of gubb."
+}

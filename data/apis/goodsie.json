@@ -1,0 +1,16 @@
+{
+  "id": "goodsie",
+  "title": "goodsie",
+  "link": "http://goodsie.com/developer/docs/api",
+  "image": "http://d1bn1ndebsjcoa.cloudfront.net/fbcb436/z/images/shared/global_logo.png",
+  "author": {
+    "name": "goodsie"
+  },
+  "tags": [
+    "Allows",
+    "Access",
+    "Manipulate",
+    "Exposed"
+  ],
+  "description": "The Goodsie JSON API allows other applications to access and manipulate resources associated with a Goodsie store over HTTP. The API is designed with the principles of REST in mind. Store resources such as products, orders, pages, and shipping and tax rates are exposed to the GET, PUT, POST, and DELETE HTTP methods."
+}

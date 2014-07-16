@@ -1,0 +1,15 @@
+{
+  "id": "bugbuster",
+  "title": "BugBuster",
+  "link": "http://bugbuster.com/",
+  "image": "http://bugbuster.com/wp-content/uploads/2014/02/Bugbuster-logo-RVB-v2.png",
+  "author": {
+    "name": "BugBuster"
+  },
+  "tags": [
+    "Transform",
+    "Reducing",
+    "Automate"
+  ],
+  "description": "Our vision is to transform the way applications are being tested by reducing the reliance on manually written test cases and leverage code analysis to automate away most of the testing effort."
+}

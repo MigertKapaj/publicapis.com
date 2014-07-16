@@ -1,0 +1,14 @@
+{
+  "id": "georanker",
+  "title": "GeoRanker",
+  "link": "http://apidocs.georanker.com/",
+  "image": "http://apidocs.georanker.com/images/georankerapi-logo.png",
+  "author": {
+    "name": "GeoRanker"
+  },
+  "tags": [
+    "Technical",
+    "Developers"
+  ],
+  "description": "This website is a technical reference for developers that are interested to utilize the GeoRanker API. All content and documentation is created by the developers GeoRanker team. "
+}

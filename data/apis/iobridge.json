@@ -1,0 +1,15 @@
+{
+  "id": "iobridge",
+  "title": "ioBridge",
+  "link": "http://connect.iobridge.com/api/data-feed-api/",
+  "image": "http://connect.iobridge.com/wp-content/themes/iobridge/images/logo_connect.png",
+  "author": {
+    "name": "ioBridge"
+  },
+  "tags": [
+    "Technology",
+    "Browsers",
+    "Devices"
+  ],
+  "description": "The open ioBridge APIs are ways for you to extend the ioBridge technology and create new applications for desktops, web browsers, and mobile devices."
+}

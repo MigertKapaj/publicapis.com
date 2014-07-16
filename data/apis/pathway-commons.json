@@ -1,0 +1,15 @@
+{
+  "id": "pathway-commons",
+  "title": "Pathway Commons",
+  "link": "http://www.pathwaycommons.org/pc2/",
+  "image": "",
+  "author": {
+    "name": "Pathway Commons"
+  },
+  "tags": [
+    "Point Of Access",
+    "Biological",
+    "Database"
+  ],
+  "description": "Pathway Commons is a convenient point of access to biological pathway information collected from several public pathway databases supporting BioPAX and PSI-MI formats. "
+}

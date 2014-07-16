@@ -1,0 +1,15 @@
+{
+  "id": "iridize",
+  "title": "iridize",
+  "link": "https://iridize.com/api/",
+  "image": "https://d2p93rcsj9dwm5.cloudfront.net/static/website/img/Logo-Iridize.png",
+  "author": {
+    "name": "iridize"
+  },
+  "tags": [
+    "Global",
+    "Executed",
+    "Directly"
+  ],
+  "description": "The API commands are issued by a call to the iridize method, which is defined on the global scope as part of the iridize JS embed scriptlet. As such, API command can be issued from any JS code that is executed after the embed scriptlet is run. The best practice recommended by iridize is to issue the API commands from a script tag embedded directly after the iridize embed scriptlet."
+}

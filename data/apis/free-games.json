@@ -1,0 +1,16 @@
+{
+  "id": "free-games",
+  "title": "Free Games",
+  "link": "http://www.fupa.com/freegames.aspx",
+  "image": "http://cdn.fupa.com/images/logo2.png",
+  "author": {
+    "name": "FUPA"
+  },
+  "tags": [
+    "Directly",
+    "Backend",
+    "Dynamically",
+    "Create"
+  ],
+  "description": "Free Games REST API Version Include all of our games directly into your site via our REST API. You access XML versions of our pages on the back end via REST and display the content dynamically in your own pages. We provide a ready made site in ASP for you to use or you can write your own code to access the content via REST. Accessing our API is very easy. You need to create a Fupa account and then you will receive a Channel API application key when you visit the Channel API page. You do not need a database to use the REST API.\n"
+}

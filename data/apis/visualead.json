@@ -1,0 +1,15 @@
+{
+  "id": "visualead",
+  "title": "Visualead",
+  "link": "http://www.visualead.com/api/",
+  "image": "http://www.visualead.com/css/design-v4/images/logo.png",
+  "author": {
+    "name": "Visualead"
+  },
+  "tags": [
+    "Instantly",
+    "Design",
+    "Attracting"
+  ],
+  "description": "Visualead's Visual QR Code Generator makes QR Codes more effective by instantly and seamlessly blending them with any design, attracting users and increasing engagement."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "pwnedlist",
+  "title": "Pwnedlist",
+  "link": "https://pwnedlist.com/use-cases",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKLG5dhYC21QHxmFEYL9uKrkZWH3Db4nTOR-vf1tY5PF1BgJLOXQ",
+  "author": {
+    "name": "Pwnedlist"
+  },
+  "tags": [
+    "Continually",
+    "Stolen",
+    "Data",
+    "Online",
+    "Compromised"
+  ],
+  "description": "PwnedList actively protects you by continually monitoring sites that host stolen credentials and other security data. If your data has been compromised we’ll notify you immediately—but that’s not all. You can check your online accounts and know with virtual certainty whether they’ve been compromised at any time."
+}

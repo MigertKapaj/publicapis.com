@@ -1,0 +1,16 @@
+{
+  "id": "collabinate",
+  "title": "Collabinate",
+  "link": "http://www.collabinate.com/docs/",
+  "image": "http://www.collabinate.com/wp/wp-content/uploads/2014/03/Collabinate48-Logo.png",
+  "author": {
+    "name": "Collabinate"
+  },
+  "tags": [
+    "Provides",
+    "Streams",
+    "Social",
+    "App"
+  ],
+  "description": "Collabinate provides an API for hosted activity streams, helping you to build social feeds, microblogs, and collaboration directly into your app."
+}

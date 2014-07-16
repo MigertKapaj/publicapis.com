@@ -1,0 +1,16 @@
+{
+  "id": "thebeerspot",
+  "title": "TheBeerSpot",
+  "link": "http://www.thebeerspot.com/api/reference",
+  "image": "http://www.thebeerspot.com/images/logo.png",
+  "author": {
+    "name": "TheBeerSpot"
+  },
+  "tags": [
+    "Perpetual",
+    "State",
+    "Application",
+    "Account"
+  ],
+  "description": "TheBeerSpot API is free and it is in a perpetual beta state. If you wish to use our API you do need to apply for an API key for your site or application and must have a user account at TheBeerSpot.com. "
+}

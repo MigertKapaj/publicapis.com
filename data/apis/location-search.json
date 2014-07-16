@@ -1,0 +1,15 @@
+{
+  "id": "location-search",
+  "title": "Location Search",
+  "link": "http://www.worldweatheronline.com/location-search-api.aspx",
+  "image": "http://cdn.worldweatheronline.net/staticv3/images/logo.jpg",
+  "author": {
+    "name": "Worldweatheronline"
+  },
+  "tags": [
+    "Released",
+    "Results",
+    "Search"
+  ],
+  "description": "We have now released our City or Location Search API for our Free as well as Premium users. Free users will only be able to get 3 results back for a location search whereas the premium users will get upto 50 results for location search. "
+}

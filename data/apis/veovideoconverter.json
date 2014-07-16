@@ -1,0 +1,15 @@
+{
+  "id": "veovideoconverter",
+  "title": "Veovideoconverter",
+  "link": "http://www.veovideoconverter.com/en/doc/apis",
+  "image": "http://www.veovideoconverter.com/assets/logo_veo-8acaae5b7a802a967734b15c4a2d290c.png",
+  "author": {
+    "name": "Veovideoconverter"
+  },
+  "tags": [
+    "Requests",
+    "Either",
+    "Formatted"
+  ],
+  "description": "Note that all the requests must be made as an XML REST or HTTP request, using either GET or POST.\nThe return values are formatted based on the XML syntax."
+}

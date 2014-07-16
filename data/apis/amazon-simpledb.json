@@ -1,0 +1,15 @@
+{
+  "id": "amazon-simpledb",
+  "title": "Amazon SimpleDB",
+  "link": "http://docs.aws.amazon.com/AmazonSimpleDB/latest/DeveloperGuide/APIUsage.html",
+  "image": "http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Data",
+    "Developers",
+    "Services"
+  ],
+  "description": "Amazon SimpleDB is a highly available and flexible non-relational data store that offloads the work of database administration. Developers simply store and query data items via web services requests and Amazon SimpleDB does the rest."
+}

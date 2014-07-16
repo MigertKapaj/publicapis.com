@@ -1,0 +1,15 @@
+{
+  "id": "pingdom",
+  "title": "Pingdom",
+  "link": "https://www.pingdom.com/features/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQcJfEL7wvw7npAntJMEuABEPvp3NL3Gtvlm4nVmxP0DvOngtJTqw",
+  "author": {
+    "name": "Pingdom"
+  },
+  "tags": [
+    "Infrastructure",
+    "Platform",
+    "Technical"
+  ],
+  "description": "Pingdom, customers will be the first to know of any issues with their website, DNS, email server, or any other infrastructure they choose to monitor. Pingdom alerts customers of any issues so that they can focus on their daily business. The platform allows customers to easily and quickly set up monitoring without all the technical work normally involved. All that is needed is a URL, Pingdom will take care of the rest."
+}

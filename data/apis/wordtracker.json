@@ -1,0 +1,16 @@
+{
+  "id": "wordtracker",
+  "title": "Wordtracker",
+  "link": "http://www.wordtracker.com/docs/api/",
+  "image": "http://www.wordtracker.com/public-assets/wordtracker-logo-nav.png",
+  "author": {
+    "name": "Wordtracker"
+  },
+  "tags": [
+    "Developers",
+    "Applications",
+    "Directly",
+    "Search"
+  ],
+  "description": "The Wordtracker API gives developers the ability to build tools and applications that interact directly with Wordtracker’s huge keyword database of 3.5 billion search terms (350 million unique keywords)."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "punchtab-developer",
+  "title": "PunchTab Developer",
+  "link": "http://www.punchtab.com/developer-docs",
+  "image": "http://developers.punchtab.com/images/logo.png",
+  "author": {
+    "name": "PunchTab Developer"
+  },
+  "tags": [
+    "Multiple",
+    "Authentication",
+    "Integrate",
+    "Account"
+  ],
+  "description": "In order to build loyalty into your application, you will need to identify and authenticate your loyal users. PunchTab provides multiple ways to authenticate a user as a member of a program. If you don't have an existing authentication layer, or do not want to integrate/leverage your existing authentication system, then we provide our own social login, and email/password login. If you do want to integrate with your existing authentication system, PunchTab can piggy-back on it with our SSO option, so users don't have to create a loyalty account."
+}

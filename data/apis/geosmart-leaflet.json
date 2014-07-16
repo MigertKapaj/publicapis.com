@@ -1,0 +1,16 @@
+{
+  "id": "geosmart-leaflet",
+  "title": "GeoSmart Leaflet",
+  "link": "http://www.geosmart.co.nz/developer",
+  "image": "http://www.geosmart.co.nz/Site/Files/b/9231c9c4e76dea54578a5758ff75bbd/c1c584718eb63f6c3e0c6df7a50e6f0c/logo2.gif",
+  "author": {
+    "name": "GeoSmart"
+  },
+  "tags": [
+    "Interactive",
+    "Supporting",
+    "Data",
+    "Working"
+  ],
+  "description": "This document is a guide to using the Maps Javascript API to add rich, interactive maps to your web applications. The API exposes a set of Javascript objects for the creation of maps and map features, and supporting classes for data loading and event management. Familiarity with the Javascript language, especially its object-oriented features will be helpful in working with the API."
+}

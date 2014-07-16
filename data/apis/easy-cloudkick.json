@@ -1,0 +1,13 @@
+{
+  "id": "easy-cloudkick",
+  "title": "Easy cloudkick",
+  "link": "https://www.mashape.com/dan-rujy/easy-cloudkick",
+  "image": "",
+  "author": {
+    "name": "dan rujy"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This is a simple wrapper of the cloudkick APIs. You can get your nodes, and check live data for them.\r\nTo use this API you must have an OAuth Key and an OAuth secret. Take a look here to get your OAuth credentials: https://support.cloudkick.com/OAuth_Authentication"
+}

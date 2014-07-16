@@ -1,0 +1,15 @@
+{
+  "id": "tomtom",
+  "title": "TomTom",
+  "link": "http://www.tomtom.com/lib/doc/TomTomTips/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTFIp5qiR-auu98UF-Dovu5PH7AJzVv0MoyHSQ94XeLgpVtlsUcoQ",
+  "author": {
+    "name": "TomTom"
+  },
+  "tags": [
+    "Service",
+    "Developers",
+    "Publish"
+  ],
+  "description": "Welcome to the 'Add to TomTom' Services. These services allow web developers, such as yourself, to make full use of the 'Add to TomTom' API to easily create and publish content for your customers to use on their own devices. Content currently consists of POI sets, itineraries (routes), addresses and geo-references."
+}

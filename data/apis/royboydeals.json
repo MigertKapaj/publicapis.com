@@ -1,0 +1,15 @@
+{
+  "id": "royboydeals",
+  "title": "RoyBoyDeals",
+  "link": "http://royboydeals.com/page/api-instructions",
+  "image": "http://royboydeals.com/img/blue-theme/samll-logo1.png",
+  "author": {
+    "name": "RoyBoyDeals.com"
+  },
+  "tags": [
+    "Directly",
+    "Describes",
+    "Exposure"
+  ],
+  "description": "The goal of this API is to allow applications to directly interact with RoyBoyDeals via a REST API.  This document describes supported aspects of the API, focusing primarily on exposure of deal content based on geography."
+}

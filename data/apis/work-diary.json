@@ -1,0 +1,16 @@
+{
+  "id": "work-diary",
+  "title": "Work Diary",
+  "link": "http://developers.odesk.com/w/page/12364020/Work%20Diary",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Retrieves",
+    "Snapshots",
+    "Server",
+    "Location"
+  ],
+  "description": "The Work Diary method retrieves all snapshots from a single user account within a single day. Keep in mind that a day is dependent on server time and not the day in which the query is made. Make sure to test with various locations before you're done.\n"
+}

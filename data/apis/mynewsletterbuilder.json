@@ -1,0 +1,16 @@
+{
+  "id": "mynewsletterbuilder",
+  "title": "MyNewsletterBuilder",
+  "link": "http://www.mynewsletterbuilder.com/api",
+  "image": "",
+  "author": {
+    "name": "MyNewsletterBuilder"
+  },
+  "tags": [
+    "Seamlessly",
+    "Services",
+    "Data",
+    "Shoping charts"
+  ],
+  "description": "MyNewsletterBuilder's Application Programming Interface (API) gives you the power to seamlessly integrate all of our services with your existing systems.Transfer data to and from your Customer Relationship Management (CRM), Content Management System (CMS), shopping carts, custom databases, and more.\n                                        "
+}

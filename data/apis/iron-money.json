@@ -1,0 +1,15 @@
+{
+  "id": "iron-money",
+  "title": "Iron Money",
+  "link": "https://ironmoney.com/api/permissions/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQxP-kstZYGqx_Qi-bdw9nH-0ZwGiDhCO8jdBuazUd-LLbfwAYV",
+  "author": {
+    "name": "Iron Money"
+  },
+  "tags": [
+    "Adding",
+    "Categories",
+    "Transaction"
+  ],
+  "description": "The Iron Money API allows developers to build apps on top of Iron Money. The API allows access to almost everything you can do in the web app: adding, editing, and deleting accounts, categories, notifications, transactions, etc. That’s right: almost everything that you can do through the web app is available through the API, and to keep the web app easy to use, some things are only available through the API."
+}

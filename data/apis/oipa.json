@@ -1,0 +1,16 @@
+{
+  "id": "oipa",
+  "title": "OIPA",
+  "link": "http://oipa.openaidsearch.org/api/v2/docs/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8pquMJ0F8df2OyeLyxEGzamMfMhfG8GTk_oXclAP5i0-dASymUA",
+  "author": {
+    "name": "OIPA"
+  },
+  "tags": [
+    "Useable",
+    "parsing",
+    "Ingesting",
+    "Searching."
+  ],
+  "description": "OIPA is a framework that provides a rich and usable API for parsing, ingesting, storing and searching IATI standard compliant datasets."
+}

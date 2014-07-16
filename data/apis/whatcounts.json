@@ -1,0 +1,15 @@
+{
+  "id": "whatcounts",
+  "title": "WhatCounts",
+  "link": "http://api7.publicaster.com/restdocs/Default.aspx",
+  "image": "http://api7.publicaster.com/images/wclogo.png",
+  "author": {
+    "name": "WhatCounts"
+  },
+  "tags": [
+    "Service",
+    "Publicaster",
+    "Functionality"
+  ],
+  "description": "The WhatCounts Publicaster Edition API (or Application Programming Interface) is a collection of web services that enable you to make use of WhatCounts Publicaster Edition's functionality in your application."
+}

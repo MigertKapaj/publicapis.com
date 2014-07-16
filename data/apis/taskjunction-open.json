@@ -1,0 +1,16 @@
+{
+  "id": "taskjunction-open",
+  "title": "TaskJunction Open",
+  "link": "http://www.taskjunction.com/api",
+  "image": "http://www.taskjunction.com/images/logo.png",
+  "author": {
+    "name": "TaskJunction"
+  },
+  "tags": [
+    "Instructions",
+    "Data",
+    "Platforms",
+    "Require"
+  ],
+  "description": "This page will provide instructions on how to interact with the online TaskJunction API. The API can be used to integrate TaskJunction data and functionality with other software and platforms. This API is free to use and doesn't require any prior registration. "
+}

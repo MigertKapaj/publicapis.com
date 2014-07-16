@@ -1,0 +1,15 @@
+{
+  "id": "alexa-top-sites",
+  "title": "Alexa Top Sites",
+  "link": "http://aws.amazon.com/alexatopsites/",
+  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Alexa Web Search"
+  },
+  "tags": [
+    "Service",
+    "Access",
+    "Developers"
+  ],
+  "description": "The Alexa Top Sites web service provides access to lists of web sites ordered by Alexa Traffic Rank. Using the web service developers can understand traffic rankings from the largest to the smallest sites."
+}

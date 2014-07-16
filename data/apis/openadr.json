@@ -1,0 +1,16 @@
+{
+  "id": "openadr",
+  "title": "OpenADR",
+  "link": "http://openadr.lbl.gov/",
+  "image": "http://openadr.lbl.gov/images/DRRC_title.gif",
+  "author": {
+    "name": "Demand Response Research Center"
+  },
+  "tags": [
+    "Activities",
+    "Operation",
+    "Technical",
+    "Planning."
+  ],
+  "description": "The Demand Response Research Center (or \"Center\") is led by Lawrence Berkeley National Laboratory.\nAs a guiding principle, Center activities are multi-institutional in concept and operation. LBNL hosts the Center; guides Center development;\nand provides technical, operational and planning leadership. The Center director solicits stakeholder input and adopts research topics accordingly."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "bgcantor",
+  "title": "BGCantor",
+  "link": "http://www.bgcantorondemand.com/Default.aspx",
+  "image": "http://www.bgcantorondemand.com/Custom/BGCantor/img/global/logo.gif",
+  "author": {
+    "name": "BGCantor"
+  },
+  "tags": [
+    "Access",
+    "Service",
+    "Data",
+    "Immediate"
+  ],
+  "description": "BGCantor On-Demand is a fast, flexible and cost-effective way to access our high quality inter-dealer broker data. With industry standard web services, BGCantor On-Demand's benchmark Treasury, Fixed Income, Foreign Exchange, Futures, and Credit Derivatives data can be accessed easily and quickly over the Internet. BGCantor On-Demand is designed to enable rapid integration to your applications and add immediate value to your business. "
+}

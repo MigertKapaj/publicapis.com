@@ -1,0 +1,16 @@
+{
+  "id": "globalquran",
+  "title": "GlobalQuran",
+  "link": "http://docs.globalquran.com/Main_Page",
+  "image": "http://globalquran.com/img/logo-alternate.png",
+  "author": {
+    "name": "GlobalQuran"
+  },
+  "tags": [
+    "Website",
+    "Mobile",
+    "Desktop",
+    "Reuse"
+  ],
+  "description": "The purpose of GlobalQuran (GQ) is to enable different website, mobile and desktop developers to reuse existing codebase and quickly embed Quran on their website.allow max reuse; avoid everyone reinventing the wheelfully allow user customizations. overwrite CSS styles or pretty much anything elseall the code is up on git and APIs are well documented below \n\n\n"
+}

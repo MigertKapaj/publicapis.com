@@ -1,0 +1,15 @@
+{
+  "id": "metwit",
+  "title": "Metwit",
+  "link": "http://metwit.com/weather-api/docs/authentication/",
+  "image": "https://s3-eu-west-1.amazonaws.com/caldo2-static-eu/images/new/metwit-logo.png",
+  "author": {
+    "name": "Metwit"
+  },
+  "tags": [
+    "Access",
+    "Process",
+    "Described"
+  ],
+  "description": "API calls require a valid access token. An access token is a string obtained through an authentication process, as described by OAuth 2.0."
+}

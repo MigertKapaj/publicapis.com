@@ -1,0 +1,15 @@
+{
+  "id": "real-time-communications",
+  "title": "Real-time Communications",
+  "link": "http://msdn.microsoft.com/en-us/library/ee499859(v=winembedded.60).aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Supports",
+    "Audio",
+    "Messaging"
+  ],
+  "description": "Windows Embedded CE includes the Real-time Communications (RTC) Client API, which supports real-time communication between different parties using audio and text messaging. "
+}

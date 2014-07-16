@@ -1,0 +1,13 @@
+{
+  "id": "text-processing",
+  "title": "Text-Processing",
+  "link": "https://www.mashape.com/japerk/text-processing",
+  "image": "",
+  "author": {
+    "name": "japerk"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Sentiment analysis, stemming and lemmatization, part-of-speech tagging and chunking, phrase extraction and named entity recognition."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "snap",
+  "title": "Snap",
+  "link": "http://www.evosnap.com/",
+  "image": "http://www.evosnap.com/wp-content/uploads/2014/03/logo-2014-main.png",
+  "author": {
+    "name": "EvoSnap"
+  },
+  "tags": [
+    "Online",
+    "Developer"
+  ],
+  "description": "Snap* Simplifies In-Store, Online & Mobile Payments with Developer-Friendly Payment APIs and Toolkits."
+}

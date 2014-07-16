@@ -1,0 +1,13 @@
+{
+  "id": "espn",
+  "title": "ESPN",
+  "link": "http://developer.espn.com/",
+  "image": "http://a1.espncdn.com/prod/assets/apis/v1/img/nav.png",
+  "author": {
+    "name": "ESPN"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

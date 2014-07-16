@@ -1,0 +1,16 @@
+{
+  "id": "stathat",
+  "title": "StatHat",
+  "link": "http://www.stathat.com/docs/api",
+  "image": "http://www.stathat.com/img/logos/help.png",
+  "author": {
+    "name": "StatHat"
+  },
+  "tags": [
+    "Web",
+    "Convenient",
+    "Posting",
+    "Viewable"
+  ],
+  "description": "The Classic API requires you to create your stats with the web interface. Its use of signed keys is more tamper-resistant than the EZ API, but it is less convenient to add new stats while you are coding. It is the only recommended API for situations where the stat posting code will be viewable by anyone (client side JavaScript and HTML, for example). "
+}

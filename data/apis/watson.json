@@ -1,0 +1,16 @@
+{
+  "id": "watson",
+  "title": "Watson",
+  "link": "http://watson.kmi.open.ac.uk/REST_API.html",
+  "image": "",
+  "author": {
+    "name": "Watson"
+  },
+  "tags": [
+    "HTTP calls",
+    "Semantic",
+    "Cat",
+    "Dog"
+  ],
+  "description": "The Watson REST API corresponds to a set of services simply accessible through HTTP calls. For example, you can type the following URL in your Web browser to obtain the URIs of all the semantic documents containing the words \"cat\" and \"dog\":\n"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "semantic",
+  "title": "Semantic",
+  "link": "http://www.sensebot.net/semanticapi.aspx",
+  "image": "http://www.sensebot.net/sensebotlogo.jpg",
+  "author": {
+    "name": "Sensebot"
+  },
+  "tags": [
+    "Webpage",
+    "Extracts",
+    "Mining",
+    "Content"
+  ],
+  "description": "Semantic API analyzes a webpage on-the-fly and extracts key concepts from it. It uses text mining and semantic analysis to understand the content of the page."
+}

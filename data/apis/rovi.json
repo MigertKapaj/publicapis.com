@@ -1,0 +1,16 @@
+{
+  "id": "rovi",
+  "title": "Rovi",
+  "link": "http://developer.rovicorp.com/",
+  "image": "http://developer.rovicorp.com/files/rovi-small.png",
+  "author": {
+    "name": "Rovi"
+  },
+  "tags": [
+    "Technology",
+    "Manufacturers",
+    "Mobile",
+    "Customers"
+  ],
+  "description": "Rovi is a global leader in digital entertainment technology for some of the largest CE manufacturers, service providers and online, mobile and application developers in the world. We now have a range of APIs that can help you to create and deliver an even more enhanced entertainment experience to your customers."
+}

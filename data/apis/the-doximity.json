@@ -1,0 +1,16 @@
+{
+  "id": "the-doximity",
+  "title": "The Doximity",
+  "link": "http://developer.doximity.com/",
+  "image": "http://developer.doximity.com/assets/img/logo-black.png",
+  "author": {
+    "name": "Doximity"
+  },
+  "tags": [
+    "Clinician",
+    "Engine",
+    "Doctor",
+    "Confermation"
+  ],
+  "description": "The Doximity API allows partners to utilize Doximity’s clinician verification engine to verify the identity of a user and allow the user to authenticate using her Doximity credentials. That’s right, one less username and password for a doctor to remember, less friction during registration and confirmation that the user is a clinician."
+}

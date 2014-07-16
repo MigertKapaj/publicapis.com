@@ -1,0 +1,16 @@
+{
+  "id": "nice-time-on-ice",
+  "title": "Nice Time On Ice",
+  "link": "http://www.nicetimeonice.com/api",
+  "image": "http://www.programmableweb.com/images/apis/at7026.png",
+  "author": {
+    "name": "Nice Time On Ice"
+  },
+  "tags": [
+    "Seasons",
+    "Games",
+    "Teams",
+    "Identifiers"
+  ],
+  "description": "This site includes a REST API. This API includes resources for seasons, games, teams, and links. Resources can be accessed using the appropriate identifiers. Query \nstring parameters are available to filter the returned data. The API uses Sinatra for routing and DataMapper for an ORM. Season, game, and team data was scraped from the NHL schedule page using a Python script with Beautiful Soup.\n        "
+}

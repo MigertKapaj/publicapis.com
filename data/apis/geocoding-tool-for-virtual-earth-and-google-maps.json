@@ -1,0 +1,16 @@
+{
+  "id": "geocoding-tool-for-virtual-earth-and-google-maps",
+  "title": "Geocoding Tool for Virtual Earth & Google Maps",
+  "link": "http://emad.fano.us/blog/?p=277",
+  "image": "",
+  "author": {
+    "name": "Emad Fanous"
+  },
+  "tags": [
+    "Geocode",
+    "Maps",
+    "Application",
+    "Javascript"
+  ],
+  "description": "Would you like to be able to geocode Virtual Earth and/or Google Maps without the hassle?  Or how about any application requiring the use of \njavascript? Well, you can use this API for it: It is a javascript API and you can call it like so:The base URL is:http://geo.localsearchmaps.com/"
+}

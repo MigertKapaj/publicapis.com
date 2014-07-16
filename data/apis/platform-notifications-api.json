@@ -1,0 +1,15 @@
+{
+  "id": "platform-notifications-api",
+  "title": "Platform Notifications API",
+  "link": "https://www.x.com/developers/ebay/products/platform-notifications-api",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "eBay"
+  },
+  "tags": [
+    "Notification For Business",
+    "Manage Notification Preferences",
+    "Real time Notification Applications"
+  ],
+  "description": "With eBay Notification APIs applications can receive notifications for business events occurring on the eBay platform. eBay Notification APIs are a set of APIs that are used to manage notification preferences for applications and users. Applications receive Users notifications on a configured end point. This functionality enables developers to build real time notification applications to react to events affecting eBay users."
+}

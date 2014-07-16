@@ -1,0 +1,15 @@
+{
+  "id": "sharedbookshelves.com",
+  "title": "SharedBookshelves.com",
+  "link": "http://www.sharedbookshelves.com/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTTE6YSL51iJ3kwyy3LvSiZFDm5Krw-yIAime5scDlbWLpcWjLCxQ",
+  "author": {
+    "name": "SharedBookshelves"
+  },
+  "tags": [
+    "Integrate",
+    "Website",
+    "Reference"
+  ],
+  "description": "If you want to integrate SharedBookshelves.com into your church website (like to display all the titles owned by your church family) you now can using our Application Programming Interface (API). This document is the official reference for that functionality."
+}

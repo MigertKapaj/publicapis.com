@@ -1,0 +1,15 @@
+{
+  "id": "mega",
+  "title": "Mega",
+  "link": "https://mega.co.nz/#doc",
+  "image": "https://g.cdn1.mega.co.nz/images/mega/logo.png",
+  "author": {
+    "name": "Mega"
+  },
+  "tags": [
+    "Prove",
+    "Developers",
+    "Interested"
+  ],
+  "description": "Welcome to the MEGA SDK! We hope that it will prove useful to developers who are interested in integrating MEGA support into their applications."
+}

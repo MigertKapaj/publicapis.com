@@ -1,0 +1,16 @@
+{
+  "id": "cyclestreets",
+  "title": "CycleStreets",
+  "link": "http://www.cyclestreets.net/api/",
+  "image": "http://www.cyclestreets.net/images/logo/logo.png",
+  "author": {
+    "name": "CycleStreets.net"
+  },
+  "tags": [
+    "Mobile",
+    "Acceptable",
+    "Resources",
+    "Service"
+  ],
+  "description": "CycleStreets is keen to see widespread use of our API, particularly for mobile use. This policy governs acceptable use and our limitation policy. As an organisation run on a not-for-profit basis run from relatively small amounts of income, our server resources are to some extent limited. However, we aim to provide as full and professional a service as possible, and we are continually improving the routing quality and adding new features."
+}

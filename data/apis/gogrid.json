@@ -1,0 +1,15 @@
+{
+  "id": "gogrid",
+  "title": "Gogrid",
+  "link": "https://wiki.gogrid.com/index.php/API:grid.job.list",
+  "image": "https://wiki.gogrid.com/images/gogrid-wiki-logo.png",
+  "author": {
+    "name": "Gogrid"
+  },
+  "tags": [
+    "Developers",
+    "Access",
+    "Functions"
+  ],
+  "description": "The GoGrid API is our proprietary API that allows GoGrid developers, \nadmins, and users to programmatically access the functions that are \navailable through our UI.\n"
+}

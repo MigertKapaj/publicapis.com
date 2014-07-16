@@ -1,0 +1,16 @@
+{
+  "id": "lemonwhale",
+  "title": "lemonwhale",
+  "link": "http://www.lemonwhale.com/api/",
+  "image": "http://www.lemonwhale.com/wp-content/uploads/2013/10/Logo-300x98.png",
+  "author": {
+    "name": "lemonwhale"
+  },
+  "tags": [
+    "Fetch",
+    "Vidoes",
+    "Searching",
+    "Limit"
+  ],
+  "description": "The Lemonwhale public API is used to fetch public information about the videos for your account.Typical operations include getting information about a video, listing the most popular videos and searching among the videos.Authentication is not necessary to access the public api.The public API can be used in public settings and does not contain any limit in hits per second."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "collins-dictionary",
+  "title": "Collins Dictionary",
+  "link": "http://www.collinsdictionary.com/api/",
+  "image": "http://www.collinsdictionary.com/static-resources/static/graphics/Logo.png",
+  "author": {
+    "name": "Collins"
+  },
+  "tags": [
+    "Developer",
+    "Flagship",
+    "Definitions",
+    "Audio"
+  ],
+  "description": "The Collins Dictionary API gives developers access to Collins' flagship monolingual, bilingual and learner’s dictionaries. It allows integration of Collins' definitions, translations, examples phrases, audio pronunciations, and more."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "seculerts-dashboard",
+  "title": "Seculert’s dashboard",
+  "link": "http://www.seculert.com/docs/API.pdf",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8EFxjugjlK9tCTI0vy5lgly1ZQcd9oU43tdmD8JS-3NJYwW0uhw",
+  "author": {
+    "name": "Seculert’s dashboard"
+  },
+  "tags": [
+    "Data",
+    "Intelligence",
+    "Analytics",
+    "Botnet"
+  ],
+  "description": "Seculert’s dashboard provides unique data intelligence based on log analytics and live botnet monitoring, relating to internal and external assets."
+}

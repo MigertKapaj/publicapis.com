@@ -1,0 +1,15 @@
+{
+  "id": "bullseye-store-locator",
+  "title": "Bullseye Store Locator",
+  "link": "http://api.bullseyelocations.com/",
+  "image": "http://api.bullseyelocations.com/sites/default/files/bullseye-logo.png",
+  "author": {
+    "name": "Bullseye Store Locator"
+  },
+  "tags": [
+    "Documentation",
+    "Search",
+    "Source"
+  ],
+  "description": "Welcome the the Bullseye REST Store Locator API documentation site. Use the API to build your own store locator solution. Our Search, User, Lead, and Location APIs are all documented here, with example source code in multiple languages."
+}

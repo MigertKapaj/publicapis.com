@@ -1,0 +1,16 @@
+{
+  "id": "accounts-authentication-and-authorization",
+  "title": "Accounts Authentication and Authorization",
+  "link": "https://developers.google.com/accounts/docs/AuthForWebApps",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "protocol",
+    "Developer",
+    "Access",
+    ""
+  ],
+  "description": "OAuth 2.0 is a relatively simple protocol. To begin, you obtain OAuth 2.0 credentials from the Google Developers Console. Then your client application requests an access token from the Google Authorization Server, extracts a token from the response, and sends the token to the Google API that you want to access"
+}

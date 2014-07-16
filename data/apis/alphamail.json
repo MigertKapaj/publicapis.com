@@ -1,0 +1,15 @@
+{
+  "id": "alphamail",
+  "title": "AlphaMail",
+  "link": "http://app.amail.io/#/docs/api/",
+  "image": "http://app.amail.io/img/am-logo.png",
+  "author": {
+    "name": "AlphaMail"
+  },
+  "tags": [
+    "Service",
+    "Knowing",
+    "Templates"
+  ],
+  "description": "AlphaMail is a cloud-based transactional email service. Stop maintaining your own infrastructure! We let you sleep well at night knowing that you have high deliverability, dynamic templates and statistics in real-time. "
+}

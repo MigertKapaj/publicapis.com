@@ -1,0 +1,16 @@
+{
+  "id": "eol",
+  "title": " EOL",
+  "link": "http://eol.org/api",
+  "image": "http://eol.org/assets/v2/logo-f69b42438cbe43f0eadf60243e0fd8be.png",
+  "author": {
+    "name": " EOL"
+  },
+  "tags": [
+    "Cached",
+    "HTTP",
+    "Web",
+    "Request"
+  ],
+  "description": "The response of any API call can be cached for a specified length of time. A \"cache_ttl\" parameter can be provided whose value is the number of seconds for which the response will be cached. This will create HTTP headers indicating the result should be cached by web browsers, and additionally the response will be cached on EOL's servers for the specified number of seconds. If the value of \"cache_ttl\" is changed, the first request with the new value will not hit the cache, but subsequent requests will leverage the newly cached response.\n"
+}

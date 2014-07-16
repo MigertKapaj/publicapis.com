@@ -1,0 +1,13 @@
+{
+  "id": "historisk-atlas-blog",
+  "title": "Historisk Atlas Blog",
+  "link": "http://service.historiskatlas.dk/?format=jpeg&service=",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSMokDU9GM6rbI1q4tqNZ_NHXbhN71UcMMZS70OghoA8A6EjKR1Mg",
+  "author": {
+    "name": "Historisk Atlas Blog"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Indholds-API’et er åbent og gratis og kræver ikke en API-key. Da vi endnu ikke har fuld opmærkning af ophavsret på vores materiale, skal anvendelse af indhold fra Historisk Atlas betragtes som eksperimentelt og må ikke ske i forbindelse med kommercielle produkter."
+}

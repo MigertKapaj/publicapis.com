@@ -1,0 +1,15 @@
+{
+  "id": "google-moderator",
+  "title": "Google Moderator",
+  "link": "https://developers.google.com/site-terms",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Developers",
+    "Service",
+    "Specific"
+  ],
+  "description": "This Terms of Service applies to the developers.google.com website. Please click the \"Terms\" link found in the sidebar of each API or other product or service for its specific Terms of Service. "
+}

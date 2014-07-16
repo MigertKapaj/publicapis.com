@@ -1,0 +1,16 @@
+{
+  "id": "virool",
+  "title": "Virool",
+  "link": "http://docs.virool.com/",
+  "image": "http://virool-blog-assets.s3.amazonaws.com/img/virool-logo.png",
+  "author": {
+    "name": "Virool"
+  },
+  "tags": [
+    "Extermely",
+    "Version",
+    "Intergration",
+    "Widgets"
+  ],
+  "description": "Virool’s API is extremely easy to use. We offer different versions of it, from easy copy-and-paste widgets to real-time, two-step integrations."
+}

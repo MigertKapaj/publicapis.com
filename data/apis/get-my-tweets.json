@@ -1,0 +1,15 @@
+{
+  "id": "get-my-tweets",
+  "title": "GET MY TWEETS",
+  "link": "http://getmytweets.co.uk/params.html",
+  "image": "http://getmytweets.co.uk/xlogo.png.pagespeed.ic.H8l-VquNqT.png",
+  "author": {
+    "name": "GET MY TWEETS"
+  },
+  "tags": [
+    "Developing",
+    "Important",
+    "Patches"
+  ],
+  "description": "This API is very new, so I am still developing and improving the API. This is why it is important to either link to the javascript or follow us on twitter @gmtweetsuk to stay informed about updates and patches."
+}

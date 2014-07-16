@@ -1,0 +1,14 @@
+{
+  "id": "kumutu",
+  "title": "Kumutu",
+  "link": "http://kumutu.com/api/methods",
+  "image": "http://kumutu.com/img/logo/logo.png",
+  "author": {
+    "name": "Kumutu"
+  },
+  "tags": [
+    "Supports",
+    "Information"
+  ],
+  "description": "The Kumutu API currently supports XML output. If you wish to use JSON, please contact us for more information."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ip-location",
+  "title": "IP Location",
+  "link": "http://www.opencrypt.com/ip-location.php",
+  "image": "http://www.opencrypt.com/images/opencrypt_logo.gif",
+  "author": {
+    "name": "OpenCrypt"
+  },
+  "tags": [
+    "Detect",
+    "Location",
+    "Integrated",
+    "Improves"
+  ],
+  "description": "The IP Location API enables you to detect user location based on a user's IP address.  Quitesimply, you provide the API with an IP address and it returns the \ncountry that IP is registered to.The IP Location API is integrated with OpenCrypt version 1.8 to offer improved statistics which now include user locations and usage per country data.  However, the API isn't just for use with OpenCrypt, we invite all developers to use the API with their own tools and services."
+}

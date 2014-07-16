@@ -1,0 +1,15 @@
+{
+  "id": "cofundos",
+  "title": "Cofundos",
+  "link": "http://www.cofundos.org/docs/syndication.php",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHIgqieP_sX_-_2TS0tGCZVQi8aJ27X3UDsTQyOOkVNZmTP80oBQ",
+  "author": {
+    "name": "Cofundos"
+  },
+  "tags": [
+    "Transparent",
+    "Regarding",
+    "Access"
+  ],
+  "description": "Cofundos aims at being as open and transparent as possible and to foster 3rd party applications. Please contact us if you have any requests regarding syndication and programmatic access."
+}

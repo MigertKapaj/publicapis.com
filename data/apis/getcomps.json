@@ -1,0 +1,15 @@
+{
+  "id": "getcomps",
+  "title": "GetComps",
+  "link": "http://www.zillow.com/howto/api/GetComps.htm",
+  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
+  "author": {
+    "name": "Zillow"
+  },
+  "tags": [
+    "Comparable",
+    "Address",
+    "Properties"
+  ],
+  "description": "The GetComps API returns a list of comparable recent sales for a specified property. The result set returned contains the address, Zillow property identifier, and Zestimate for the comparable properties and the principal property for which the comparables are being retrieved. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dlese",
+  "title": "DLESE",
+  "link": "http://www.dlese.org/dds/services/ddsws1-1/service_specification.jsp",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTOgCMwrtw0NJJG9otfZeoe3t9_PT_Hw3FoI4uv0Aewf6fPtwMz3g",
+  "author": {
+    "name": "DLESE"
+  },
+  "tags": [
+    "Service",
+    "Repository",
+    "System"
+  ],
+  "description": "The Digital Discovery System Search Service (DDSWS) is a search and retrieval service API for items that reside in a digital repository, and is available from the Digital Discovery System (DDS) and the NSDL Collection System (NCS). Service requests are expressed as HTTP argument/value pairs and responses may be returned as XML or JSON."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "qrtag",
+  "title": "QRtag",
+  "link": "http://api.qrtag.net/javascript_api",
+  "image": "http://api.qrtag.net/images/qrtag_logo_small.gif",
+  "author": {
+    "name": "QRtag"
+  },
+  "tags": [
+    "Service",
+    "Responsible",
+    "Suspect"
+  ],
+  "description": "This is a free service designed to deal with long URLs and creating QR tags for hardlinking. QRtag.net can not be responsible for the nature and content of URLs that are tagged using this web tool. We reserve the right to disable any URL that we suspect is being used for spamming/illegal purposes."
+}

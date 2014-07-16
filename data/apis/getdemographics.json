@@ -1,0 +1,16 @@
+{
+  "id": "getdemographics",
+  "title": "GetDemographics",
+  "link": "http://www.zillow.com/howto/api/GetDemographics.htm",
+  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
+  "author": {
+    "name": "Zillow"
+  },
+  "tags": [
+    "Specified",
+    "Respective",
+    "Providing",
+    "Data"
+  ],
+  "description": "A region can be specified either through its respective Region ID, its zipcode, or by providing one to three parameters: state, city, neighborhood. The neighborhood parameter can be omitted if only city data is desired. "
+}

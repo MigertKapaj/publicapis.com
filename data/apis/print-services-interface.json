@@ -1,0 +1,15 @@
+{
+  "id": "print-services-interface",
+  "title": "Print Services Interface",
+  "link": "http://www.pwg.org/ps/",
+  "image": "http://www.pwg.org/pwg-half.gif",
+  "author": {
+    "name": "PWG"
+  },
+  "tags": [
+    "Methods",
+    "Prontjob",
+    "Resolve"
+  ],
+  "description": "The Print Service Interface is the set of interfaces and methods that enable a Client such as a Printer, a Mobile Device, Web Portal, or a service to set up and invoke a print job from a Print Service.  The Print Service may be used to resolve and access the information to be printed. "
+}

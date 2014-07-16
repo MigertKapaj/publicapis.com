@@ -1,0 +1,15 @@
+{
+  "id": "runscope",
+  "title": "Runscope",
+  "link": "https://www.runscope.com/docs/api/overview",
+  "image": "https://www.runscope.com/static/img/public/logo-runscope-white.png",
+  "author": {
+    "name": "Runscope"
+  },
+  "tags": [
+    "Runscope",
+    "Documents",
+    "Resources"
+  ],
+  "description": "The Runscope API provides access to data in your Runscope account. This document describes how to authenticate to the API and the resources available. If you have any problems using the Runscope API contact us at help@runscope.com"
+}

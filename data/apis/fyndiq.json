@@ -1,0 +1,16 @@
+{
+  "id": "fyndiq",
+  "title": "Fyndiq",
+  "link": "https://fyndiq.se/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSXO0D2slA5F2pRioc3kO14JaSQB7ErhJCp04h2A5NvIwn3jAAQ",
+  "author": {
+    "name": "Fyndiq"
+  },
+  "tags": [
+    "Resurser",
+    "Enkelt",
+    "Handlare",
+    "Konto"
+  ],
+  "description": "Fyndiqs API är ett så kallat REST-API, vilket bland annat innebär att allt kretsar kring resurser. En resurs är ett dataobjekt som representerar något i systemet. I Fyndiqs fall är det ganska enkelt, då vi inte har så väldigt många olika resurser vi hanterar. Det du som handlare främst behöver göra är att manipulera resurserna produkt, order och ditt konto."
+}

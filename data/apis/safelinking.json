@@ -1,0 +1,14 @@
+{
+  "id": "safelinking",
+  "title": "safelinking",
+  "link": "http://safelinking.net/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8ny7w2QnhfhsH0i4AX55MsLv-B4u714yioNwnJoP9pkUzq4x1qA",
+  "author": {
+    "name": "safelinking"
+  },
+  "tags": [
+    "Developers",
+    "Integrate"
+  ],
+  "description": "Here on this page is listed our API documentation for developers who wish to make their own scripts to integrate with safelinking."
+}

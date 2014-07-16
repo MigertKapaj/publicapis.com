@@ -1,0 +1,14 @@
+{
+  "id": "syllabs",
+  "title": "Syllabs",
+  "link": "http://docs.api.syllabs.com/general/authentication.html",
+  "image": "",
+  "author": {
+    "name": "Syllabs"
+  },
+  "tags": [
+    "Token",
+    "Requests"
+  ],
+  "description": "The API user key is an authentication token, that is used to link your API requests to your user account."
+}

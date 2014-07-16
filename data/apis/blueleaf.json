@@ -1,0 +1,15 @@
+{
+  "id": "blueleaf",
+  "title": "Blueleaf",
+  "link": "http://www.blueleaf.com/developer/",
+  "image": "http://www.blueleaf.com/wp-content/themes/blankslate/css/images/logo.png",
+  "author": {
+    "name": "Blueleaf"
+  },
+  "tags": [
+    "Data",
+    "Development",
+    "Collecting"
+  ],
+  "description": "Access to this kind of data, hassle-free, is unheard of. The Blueleaf API allows small (or large) development shops to simply build amazing applications instead of having to spend tons of time, energy, and frustration on collecting, storing and maintaing financial data. Let’s see what you can make!"
+}

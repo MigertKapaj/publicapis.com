@@ -1,0 +1,15 @@
+{
+  "id": "igoogle-themes",
+  "title": "iGoogle Themes",
+  "link": "https://developers.google.com/igoogle-themes/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Implemented",
+    "Metadata",
+    "Design"
+  ],
+  "description": "This is the reference for the Themes API. Themes are implemented in XML files that contain key-value pairs for metadata and design elements. "
+}

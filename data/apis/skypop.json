@@ -1,0 +1,16 @@
+{
+  "id": "skypop",
+  "title": "SkyPop",
+  "link": "http://skypop.com/index.php?p=platform",
+  "image": "http://skypop.com/img/logo_header.png",
+  "author": {
+    "name": "SkyPop"
+  },
+  "tags": [
+    "Developed",
+    "Data",
+    "Access",
+    "Service"
+  ],
+  "description": "The SkyPop platform is securely developed using scalable cloud computing infrastructures. Data is routed through multiple availability zones and enables access to the SkyPop service interface."
+}

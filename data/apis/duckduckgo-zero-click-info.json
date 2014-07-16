@@ -1,0 +1,13 @@
+{
+  "id": "duckduckgo-zero-click-info",
+  "title": "DuckDuckGo Zero-click Info",
+  "link": "https://www.mashape.com/duckduckgo/duckduckgo-zero-click-info",
+  "image": "",
+  "author": {
+    "name": "duckduckgo"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "DuckDuckGo Zero-click Info includes topic summaries, categories, disambiguation, official sites, !bang redirects, definitions and more. You can use this API for many things, e.g. define people, places, things, words and concepts; provides direct links to other services (via !bang syntax); list related topics; and gives official sites when available."
+}

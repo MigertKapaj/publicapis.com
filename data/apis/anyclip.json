@@ -1,0 +1,15 @@
+{
+  "id": "anyclip",
+  "title": "AnyClip",
+  "link": "http://wiki.anyclip.com/",
+  "image": "http://wiki.anyclip.com/_/rsrc/1297844687237/config/customLogo.gif?revision=21",
+  "author": {
+    "name": "AnyClipWiki"
+  },
+  "tags": [
+    "Motion Picture",
+    "Clips",
+    "Data"
+  ],
+  "description": "The AnyClip API allows you to build applications using motion picture video clips and metadata from AnyClip's vast video clip database. The database is searchable through the API and enables you access and use all the data and clips returned through a range of API Get and Post methods. Access and usage of this data is governed by the AnyClip License Agreement. By using the AnyClip API, using the API you consent to the terms of the AnyClip License Agreement. Please review the License Agreement before registering for access."
+}

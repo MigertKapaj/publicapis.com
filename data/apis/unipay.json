@@ -1,0 +1,16 @@
+{
+  "id": "unipay",
+  "title": "UniPay",
+  "link": "http://unipaygateway.info/api",
+  "image": "",
+  "author": {
+    "name": "UniPay"
+  },
+  "tags": [
+    "Resources",
+    "HTTP",
+    "Implicit",
+    "Explicit"
+  ],
+  "description": "Actions are functions associated with resources that perform specific operations. Each action is associated with a single HTTP method. Actionsare divided into two groups: implicit and explicit. Implicit actions can be invoked without explicit indication of the action's name. The name is derived from the HTTP method used. Indicating explicitly name of the action for implicit actions has no negative consequences and can be done if desired. Explicit actions require action name to be explicitly indicated because HTTP method is not sufficient to conclude that this specific action is desired.\n\n\n\n"
+}

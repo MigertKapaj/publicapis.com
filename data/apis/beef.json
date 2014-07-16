@@ -1,0 +1,15 @@
+{
+  "id": "beef",
+  "title": "beef",
+  "link": "https://github.com/beefproject/beef",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Attacks",
+    "Professional",
+    "Security"
+  ],
+  "description": "Amid growing concerns about web-borne attacks against clients, including mobile clients, BeEF allows the professional penetration tester to assess the actual security posture of a target environment by using client-side attack vectors."
+}

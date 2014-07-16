@@ -1,0 +1,15 @@
+{
+  "id": "coinapult",
+  "title": "Coinapult",
+  "link": "http://coinapult.com/api",
+  "image": "http://coinapult.com/themes/coinapult/img/logo.png",
+  "author": {
+    "name": "Coinapult"
+  },
+  "tags": [
+    "Email",
+    "Service",
+    "Account"
+  ],
+  "description": "Coinapult lets you send Bitcoins to any email or mobile phone. The service is completely free and you don't even need a Coinapult account to use it."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "kynetx",
+  "title": "kynetx",
+  "link": "http://apps.kynetx.com/",
+  "image": "http://apps.kynetx.com/images/kynetx-logo.png?1298501318",
+  "author": {
+    "name": "kynetx"
+  },
+  "tags": [
+    "Application",
+    "Running",
+    "Suggested"
+  ],
+  "description": "This guide will walk you through getting your first application running on SquareTag.com. At the end of this document are suggested next steps. "
+}

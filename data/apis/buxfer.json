@@ -1,0 +1,15 @@
+{
+  "id": "buxfer",
+  "title": "Buxfer",
+  "link": "https://www.buxfer.com/help/api",
+  "image": "https://www.buxfer.com/media/logos/logo.jpg",
+  "author": {
+    "name": "Buxfer"
+  },
+  "tags": [
+    "Flexible",
+    "Personalize",
+    "Customize"
+  ],
+  "description": "The API provides a flexible interface to personalize and customize your financial information. Read the documentation below and get started with sample code in Ruby, Python, PHP or Perl. "
+}

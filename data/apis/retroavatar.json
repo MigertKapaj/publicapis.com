@@ -1,0 +1,14 @@
+{
+  "id": "retroavatar",
+  "title": "RetroAvatar",
+  "link": "http://retroavatar.appspot.com/",
+  "image": "http://retroavatar.appspot.com/api?name=AVATAR",
+  "author": {
+    "name": "RetroAvatar"
+  },
+  "tags": [
+    "Free",
+    "Vanish."
+  ],
+  "description": "Retro Avatar created by Richard Phipps, Java port and API by Oliver Hengstenberg.MonsterID created by Andreas Gohr, API by Marko Mrdjenovič. \nThis is a free service. It may change or vanish at any time. There is absolutely no warranty.        \n      \n      \n        \n        "
+}

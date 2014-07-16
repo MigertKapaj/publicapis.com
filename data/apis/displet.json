@@ -1,0 +1,16 @@
+{
+  "id": "displet",
+  "title": "Displet",
+  "link": "http://displet.com/wiki/",
+  "image": "",
+  "author": {
+    "name": "Displet"
+  },
+  "tags": [
+    "Queried",
+    "Search",
+    "Fields",
+    "Database"
+  ],
+  "description": "Displet’s database can be queried and called using our RESTful API. Here is a list of search fields that can be queried. Developers will typically use our database for two reasons: to query an XML result, or to create a “quick search” on another website."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "scality",
+  "title": "Scality",
+  "link": "http://www.scality.com/?s=api&submit=Go",
+  "image": "http://www.scality.com/wp-content/themes/scality/images/SCALITY_logo2012_SM.png",
+  "author": {
+    "name": "Scality"
+  },
+  "tags": [
+    "Commercial",
+    ""
+  ],
+  "description": "Most of the time users can’t really choose and decision is controlled by application. In 2 words, if the application is a commercial one, users don’t have access to the code and can’t embed any specific code."
+}

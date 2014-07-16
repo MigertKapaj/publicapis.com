@@ -1,0 +1,16 @@
+{
+  "id": "bitcoinaverage-integration",
+  "title": "BitcoinAverage integration",
+  "link": "https://bitcoinaverage.com/api.htm",
+  "image": "https://bitcoinaverage.com/img/logo_full_small.png",
+  "author": {
+    "name": "BitcoinAverage"
+  },
+  "tags": [
+    "Self Explanatory",
+    "Links",
+    "Timestamp",
+    "Documents"
+  ],
+  "description": "Each API level starting from the top provides you with a self-explanatory JSON document containing links to deeper levels of API up to data endpoints.\nEach API endpoint JSON document includes a timestamp indicating document generation time. All API timestamps assume UTC time.\nYou can use HTTP or HTTPS for API queries, preference is yours, yet we recommend using HTTPS."
+}

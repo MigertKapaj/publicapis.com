@@ -1,0 +1,16 @@
+{
+  "id": "klimadata-web-services",
+  "title": "Klimadata Web Services",
+  "link": "http://eklima.no/wsKlima/start/start_en.html",
+  "image": "http://eklima.no/wsKlima/images/wsKlima.jpg",
+  "author": {
+    "name": "Klimadata"
+  },
+  "tags": [
+    "Extract",
+    "Data",
+    "Tools",
+    "Automatically"
+  ],
+  "description": "wsKlima are services where klimadata and metadata are made available. By using the Web Services technology, you can set up clients that extract the data from met.no 's klimadatabase (does not require any registration). In order to be able to connect to wsKlima you have to use the WSDL-document(try to read locally if problems). Clients should use the development tools that automatically generate classesbased on WSDL document. For clients that programming in JAVA, we can recommend the use of development tools NetBeans with a lot of built-in functionality."
+}

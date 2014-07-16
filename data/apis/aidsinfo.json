@@ -1,0 +1,15 @@
+{
+  "id": "aidsinfo",
+  "title": "AIDSinfo",
+  "link": "http://aidsinfo.nih.gov/api",
+  "image": "http://aidsinfo.nih.gov/images/logos.png",
+  "author": {
+    "name": "AIDSinfo"
+  },
+  "tags": [
+    "Accessing",
+    "Database",
+    "Resources"
+  ],
+  "description": "This is a RESTful API for accessing drug information (English and Spanish) from the AIDSinfo drug database. It is implemented using HTTP and can be thought of as a collection of resources, specified as URIs."
+}

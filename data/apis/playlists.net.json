@@ -1,0 +1,14 @@
+{
+  "id": "playlists.net",
+  "title": "Playlists.net",
+  "link": "http://sharemyplaylists.com/api/documentation",
+  "image": "http://playlists.net/tpl/img/header.logo.png",
+  "author": {
+    "name": "Playlists.net"
+  },
+  "tags": [
+    "Requests",
+    "Important"
+  ],
+  "description": "All requests to the Playlists.net REST API must use the GET method. It is important to note that a simple level of authentication is implemented within the API."
+}

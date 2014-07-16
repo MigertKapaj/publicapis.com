@@ -1,0 +1,15 @@
+{
+  "id": "activ",
+  "title": "ACTIV",
+  "link": "http://www.activfinancial.com/enterprise/api",
+  "image": "http://www.activfinancial.com/images/website/logo-activ.png",
+  "author": {
+    "name": "activ"
+  },
+  "tags": [
+    "Data",
+    "Combination",
+    "Exchange"
+  ],
+  "description": "The ACTIV APIs are perhaps the most advanced, modern, and thorough interface to market data available anywhere. These lightweight libraries are available in C++, Java and C# and are supported on over 30 OS/Compiler combinations including 32 & 64-bit versions of Windows, Solaris, and Linux. Through the Content Gateway individual subscription watch lists are retrievable by a powerful set of methods including single instrument, wildcard, exchange, or entire asset classes. "
+}

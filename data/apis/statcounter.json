@@ -1,0 +1,15 @@
+{
+  "id": "statcounter",
+  "title": "StatCounter",
+  "link": "http://api.statcounter.com/docs/v3",
+  "image": "http://www-beta.statcounter.com/images/statcounter-api-logo.png",
+  "author": {
+    "name": "StatCounter"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Reports"
+  ],
+  "description": "The StatCounter API gives developers direct access to StatCounter data allowing them to build scripts, custom reports, widgets and apps."
+}

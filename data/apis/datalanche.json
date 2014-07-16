@@ -1,0 +1,15 @@
+{
+  "id": "datalanche",
+  "title": "Datalanche",
+  "link": "https://www.datalanche.com/docs",
+  "image": "https://www.datalanche.com/img/datalanche-logo-white.png",
+  "author": {
+    "name": "Datalanche"
+  },
+  "tags": [
+    "Data",
+    "Complete",
+    "Executed"
+  ],
+  "description": "This tutorial will guide you through creating a database, inserting some data, and search it using JSON SQL. All code examples below are complete and can simply be copied and executed, but please remember to replace the API credentials with your own."
+}

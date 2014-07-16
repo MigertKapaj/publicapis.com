@@ -1,0 +1,16 @@
+{
+  "id": "groupflier",
+  "title": "groupflier",
+  "link": "http://groupflier.com/tos.html",
+  "image": "http://groupflier.com/images/logo.png",
+  "author": {
+    "name": "groupflier"
+  },
+  "tags": [
+    "Texting",
+    "Mobile",
+    "Access",
+    "Manage"
+  ],
+  "description": "Our API makes it easy to add powerful group texting functionality to your site or application. This is the same API our web and mobile clients use so you have full access to a rich set of commands to create and manage texting groups."
+}

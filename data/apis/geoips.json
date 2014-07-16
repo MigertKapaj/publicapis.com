@@ -1,0 +1,16 @@
+{
+  "id": "geoips",
+  "title": "GeoIPs",
+  "link": "http://www.geoips.com/en/developer",
+  "image": "http://www.geoips.com/assets/img/logo/geoips-logo.png",
+  "author": {
+    "name": "GeoIPs"
+  },
+  "tags": [
+    "Tracking",
+    "Data",
+    "Identify",
+    "Application"
+  ],
+  "description": "GeoIPs.com is an IP Intelligence application, available worldwide, which offers IP tracking data, web tools and geographic resources. GeoIPs.com purpose is to help you identify IP addresses accurately and in real-time. This service is available even from your application (website, blog or administration area) through the GeoIPs's API."
+}

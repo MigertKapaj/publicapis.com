@@ -1,0 +1,15 @@
+{
+  "id": "wikidot-xml-rpc",
+  "title": "Wikidot XML-RPC",
+  "link": "http://xml-api.wikidot.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQXew1VuY39bTIvQ0CBxurN1wyR-NpyRCZozzoHJmeeqdx8xQAHKQ",
+  "author": {
+    "name": "Wikidot XML-RPC"
+  },
+  "tags": [
+    "Working",
+    "Access",
+    "Data"
+  ],
+  "description": "In January 2009 Piotr announced that he is working on an XML-RPC API, two months later, in March, the new Wikidot XML-RPC API was announced. User scripts can use this API to access Wikidot data like."
+}

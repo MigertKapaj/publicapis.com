@@ -1,0 +1,16 @@
+{
+  "id": "online-fraud-detection",
+  "title": "Online Fraud Detection",
+  "link": "http://ipinfodb.com/fraud_detection.php",
+  "image": "http://ipinfodb.com/img/sitelogo.gif",
+  "author": {
+    "name": "IPInfoDB"
+  },
+  "tags": [
+    "Designed",
+    "Online",
+    "Information",
+    "Data"
+  ],
+  "description": "This tool is designed to help prevent online fraud with credit card. It compares the transaction shipping / billing information with IP geolocation data for all countries."
+}

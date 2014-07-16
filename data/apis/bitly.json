@@ -1,0 +1,13 @@
+{
+  "id": "bitly",
+  "title": "bitly",
+  "link": "https://www.mashape.com/ismaelc/bitly-2",
+  "image": "",
+  "author": {
+    "name": "ismaelc"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Shortens urls"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "earth",
+  "title": "Earth",
+  "link": "https://developers.google.com/earth/documentation/index",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Globe",
+    "Drape",
+    "Allowing",
+    "Existing"
+  ],
+  "description": "The Google Earth Plug-in and its JavaScript API let you embed Google Earth, a true 3D digital globe, into your web pages. Using the API you can draw markers and lines, drape images over the terrain, add 3D models, or load KML files, allowing you to build sophisticated 3D map applications. If you have an existing Maps API site, you can 3D-enable your page with as little as one line of code."
+}

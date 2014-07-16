@@ -1,0 +1,15 @@
+{
+  "id": "phono",
+  "title": "Phono",
+  "link": "http://phono.com/docs",
+  "image": "http://phono.com/assets/logo-home-big.png",
+  "author": {
+    "name": "Phono"
+  },
+  "tags": [
+    "Provide",
+    "Char",
+    "Communication"
+  ],
+  "description": "The Phono SDK provides an object-oriented JavaScript API for embedding two-way audio and chat onto any web page. The Phono SDK is a pure client-side solution and requires zero server-side logic on your part; all communication is handled transparently by the Tropo Cloud. "
+}

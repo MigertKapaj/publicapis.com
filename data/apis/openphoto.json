@@ -1,0 +1,16 @@
+{
+  "id": "openphoto",
+  "title": "OpenPhoto",
+  "link": "http://theopenphotoproject.org/documentation",
+  "image": "https://s3.amazonaws.com/uploads.uservoice.com/logo/design_setting/26782/original/openphoto-logo-mark-word-100h.png?1322609162",
+  "author": {
+    "name": "OpenPhoto"
+  },
+  "tags": [
+    "Easy",
+    "Setup",
+    "Link",
+    "Installation guide"
+  ],
+  "description": "We've made it really easy for you to get set up with an OpenPhoto site. Click on any of the get started links or follow one of the installation guides to the left.\n"
+}

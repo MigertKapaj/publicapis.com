@@ -1,0 +1,15 @@
+{
+  "id": "metadata",
+  "title": "Metadata",
+  "link": "http://codex.wordpress.org/Metadata_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Metadata",
+    "Represented",
+    "Share"
+  ],
+  "description": "The Metadata API is a simple and standarized way for retrieving and manipulating metadata of various WordPress object types. Metadata for an object is a represented by a simple key-value pair. Objects may contain multiple metadata entries that share the same key and differ only in their value. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "the-new-easydns",
+  "title": "The new easyDNS",
+  "link": "http://docs.sandbox.rest.easydns.net/",
+  "image": "http://docs.sandbox.rest.easydns.net/images/easyapi_logo_dark2.png",
+  "author": {
+    "name": "EasyDNS"
+  },
+  "tags": [
+    "Domains",
+    "Credentials",
+    "Description"
+  ],
+  "description": "The new easyDNS API is available for all users with currently active domains or services on the easyDNS platform. At the time of initial launch we will be providing a select group of easyDNS customers who have expressed an interest in getting early access to the API with the necessary credentials to begin accessing the easyDNS Sandbox environment. If you have never used a sandbox environment before please see below for a basic description."
+}

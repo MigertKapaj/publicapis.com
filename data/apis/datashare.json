@@ -1,0 +1,15 @@
+{
+  "id": "datashare",
+  "title": "DataShare",
+  "link": "http://data.redbridge.gov.uk/developer/",
+  "image": "http://data.redbridge.gov.uk/Content/images/DataSpaceLogo.png",
+  "author": {
+    "name": "DataShare"
+  },
+  "tags": [
+    "Access",
+    "Developers",
+    "Data"
+  ],
+  "description": "The DataShare API provides access to all the datasets stored in DataShare. The API implements RESTful interfaces to allow developers to perform simple queries on the available data. XML and JSON representations of the data are available."
+}

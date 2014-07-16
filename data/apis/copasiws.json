@@ -1,0 +1,15 @@
+{
+  "id": "copasiws",
+  "title": "CopasiWS",
+  "link": "http://www.comp-sys-bio.org/CopasiWS/",
+  "image": "http://www.comp-sys-bio.org/CopasiWS/copasi.png",
+  "author": {
+    "name": "CopasiWS"
+  },
+  "tags": [
+    "Service",
+    "Projects",
+    "Management"
+  ],
+  "description": "CopasiWS provides web service interfaces to the numerical simulation and optimization methods of COPASI. It consists of a suite of basic services for simulation and analysis of biochemical reaction networks. The aim of this project is to allow easy integration of COPASI powerful functionalities with other applications and services. One immediate result of this work is that simulation tasks are now available to be used in a platform- and language-independent manner as components of distributed workflows, for example using the workflow management system like Taverna. The CopasiWS uses COPASI command line version (CopasiSE) in the background to carry out the simulation process. CopasiWS simulation results are encoded in Systems Biology Results Markup Language (SBRML) format in order to make further processing of the results very easy for other application and services. SBRML is an XML-based and programming language independent format for encoding systems biology simulation results and experimental data. "
+}

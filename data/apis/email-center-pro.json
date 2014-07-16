@@ -1,0 +1,14 @@
+{
+  "id": "email-center-pro",
+  "title": "Email Center Pro",
+  "link": "http://services.emailcenterpro.com/api/",
+  "image": "http://services.emailcenterpro.com/img/ecp-logo-sm.png",
+  "author": {
+    "name": "ECP"
+  },
+  "tags": [
+    "Specifies",
+    "Accessed"
+  ],
+  "description": "The Email Center Pro API supports various authentication schemes. Each API action specifies the authentication schemes under which it may be accessed. Refer to the individual action documentation for more information. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "places",
+  "title": "Places",
+  "link": "http://www.yellowapi.com/docs/places/",
+  "image": "http://www.yellowapi.com/wp-content/Images/YellowAPI-logo.png",
+  "author": {
+    "name": "Yellow"
+  },
+  "tags": [
+    "Technical",
+    "Listings",
+    "Associated",
+    "Data"
+  ],
+  "description": "This is the place to come for the technical details about YellowAPI™’s Places API. Using our database of over 1.5 million business listings and associated rich content, you can deliver the best data to your users without the need for your own directory."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ofar-products",
+  "title": "OFAR Products",
+  "link": "http://ofar.orvsd.org/content/ofar-products",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcROeLWembohZKpAoJ4FwHosYZSDTWr8PsI2ytH6Fwjryje3j_qC",
+  "author": {
+    "name": "OFAR Products"
+  },
+  "tags": [
+    "Presentations",
+    "Reference",
+    "Provide",
+    "Progress"
+  ],
+  "description": "Throughout Project OFAR we will publish documents, presentations and other key references to keep the public informed about how our solutions are implemented and provide details on project progress."
+}

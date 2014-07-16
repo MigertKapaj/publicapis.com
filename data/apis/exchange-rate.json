@@ -1,0 +1,15 @@
+{
+  "id": "exchange-rate",
+  "title": "Exchange Rate",
+  "link": "http://www.exchangerate-api.com/howto",
+  "image": "",
+  "author": {
+    "name": "Exchange Rate"
+  },
+  "tags": [
+    "Service",
+    "Reliable",
+    "Personal"
+  ],
+  "description": "Our service is the easy to use, accurate and reliable currency API that's perfect for both personal and professional use. Convert currencies with ease! "
+}

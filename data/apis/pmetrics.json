@@ -1,0 +1,15 @@
+{
+  "id": "pmetrics",
+  "title": "PMetrics",
+  "link": "http://pmetrics.performancing.com/help/api",
+  "image": "http://hello.staticstuff.net/media/pmetrics-logo.png",
+  "author": {
+    "name": "PMetrics"
+  },
+  "tags": [
+    "Extract",
+    "Several",
+    "Data"
+  ],
+  "description": "The Analytics API allows you to extract your web site's traffic data into several common formats, making it easy to integrate, analyze, or store your data within your own application."
+}

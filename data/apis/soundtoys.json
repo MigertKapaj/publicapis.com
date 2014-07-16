@@ -1,0 +1,16 @@
+{
+  "id": "soundtoys",
+  "title": "soundtoys",
+  "link": "http://soundtoys.net/contribute/api",
+  "image": "http://soundtoys.net/static/img/st_logo_160x32.png",
+  "author": {
+    "name": "soundtoys"
+  },
+  "tags": [
+    "Redesigned",
+    "Database",
+    "Web pages",
+    "Digested"
+  ],
+  "description": "Like many other websites these days, the Soundtoys backend has been redesigned so that most information stored about our artists and works in our database is not only available as normal web pages for human consumption, but is also exposed in a machine-readable raw data format easily digested by 3rd party software.\n"
+}

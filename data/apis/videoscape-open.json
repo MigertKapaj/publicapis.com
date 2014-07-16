@@ -1,0 +1,15 @@
+{
+  "id": "videoscape-open",
+  "title": "Videoscape Open",
+  "link": "https://developer.sdp.nds.com/",
+  "image": "https://developer.sdp.nds.com/sites/all/themes/aloha/images/theme-developer_connect/logo.png",
+  "author": {
+    "name": "NDS"
+  },
+  "tags": [
+    "System",
+    "Relevant",
+    "Devices"
+  ],
+  "description": "The Cisco Videoscape Open API is an end-to-end system that enables the creation of relevant contextual TV-centric applications for the wide variety of companion devices available in the market today."
+}

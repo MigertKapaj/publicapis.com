@@ -1,0 +1,15 @@
+{
+  "id": "phaxio",
+  "title": "Phaxio",
+  "link": "http://www.phaxio.com/docs",
+  "image": "http://www.phaxio.com/images/logo.png",
+  "author": {
+    "name": "Phaxio"
+  },
+  "tags": [
+    "Key",
+    "Secret",
+    "parameters"
+  ],
+  "description": "ll calls to the Phaxio API should be made to https://api.phaxio.com/v1. For most calls you will need to pass in your API key and API secret as parameters. You can find your API credentials on the \"API Settings\" page. In Phaxio"
+}

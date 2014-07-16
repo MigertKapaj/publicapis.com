@@ -1,0 +1,15 @@
+{
+  "id": "ispeech",
+  "title": "iSpeech",
+  "link": "http://www.ispeech.org/api",
+  "image": "http://www.ispeech.org/images/ispeech-logo-dark.png",
+  "author": {
+    "name": "iSpeech"
+  },
+  "tags": [
+    "Description",
+    "Retrieve",
+    "Creating"
+  ],
+  "description": "This document provides a detailed description of the iSpeech API and examples for almost every possible use case. It demonstrates how to dynamically retrieve API key properties such as voice lists, credits, and enabled key options. Wireshark and RESTClient are recommended for viewing network transactions, creating requests, and debugging code."
+}

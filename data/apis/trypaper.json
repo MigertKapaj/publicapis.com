@@ -1,0 +1,15 @@
+{
+  "id": "trypaper",
+  "title": "try(Paper)",
+  "link": "https://www.trypaper.com",
+  "image": "https://www.trypaper.com/content/images/home-icon.png",
+  "author": {
+    "name": "try(Paper)"
+  },
+  "tags": [
+    "Print",
+    "Mail",
+    "Documents"
+  ],
+  "description": "TryPaper provides an API that will print and mail documents for you. You can add mailings using our API by providing the return address, recipient address, and the contents (stuff we'll print) for the mailing. Once you've sent us the mailing, we'll automatically batch any additional mailings over the next 24 hours. "
+}

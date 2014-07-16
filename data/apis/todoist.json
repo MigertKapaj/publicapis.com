@@ -1,0 +1,16 @@
+{
+  "id": "todoist",
+  "title": "Todoist",
+  "link": "http://todoist.com/API/",
+  "image": "http://s3.amazonaws.com/crunchbase_prod_assets/assets/images/resized/0023/2570/232570v2-max-250x250.png",
+  "author": {
+    "name": "Todoist"
+  },
+  "tags": [
+    "Application",
+    "Functionality",
+    "Support",
+    "Data"
+  ],
+  "description": "Todoist standard API can be used to hook Todoist into other applications. If you need some functionality, don't hesitate to post it on Todoist Support Page.\nIf your application needs to maintain a complete model of the data and sync this model we recommend using Todoist Sync API.\n            "
+}

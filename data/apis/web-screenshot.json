@@ -1,0 +1,13 @@
+{
+  "id": "web-screenshot",
+  "title": "Web screenshot",
+  "link": "https://www.mashape.com/shepik/web-screenshot",
+  "image": "",
+  "author": {
+    "name": "shepik"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Given a page url, it creates a screenshot and returns it's url"
+}

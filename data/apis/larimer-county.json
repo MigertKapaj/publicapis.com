@@ -1,0 +1,15 @@
+{
+  "id": "larimer-county",
+  "title": "Larimer County",
+  "link": "http://www.co.larimer.co.us/databases/api.htm",
+  "image": "http://www.co.larimer.co.us/images/header_logo.gif",
+  "author": {
+    "name": "Larimer County"
+  },
+  "tags": [
+    "Access",
+    "Database",
+    "Services"
+  ],
+  "description": "Application Programming Interfaces (API) allow programmatic access to some of the information in the Larimer County Public Records Databases. These APIs are implemented as SOAP web services. Contact the webmaster if you have any comments or questions about these APIs."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "aws-cloudformation",
+  "title": "AWS CloudFormation",
+  "link": "http://aws.amazon.com/archives/9915827394344517",
+  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Alexa Web Search"
+  },
+  "tags": [
+    "Introduces",
+    "Public",
+    "Release"
+  ],
+  "description": "This release introduces AWS CloudFormation. This is an initial public beta release of AWS CloudFormation. "
+}

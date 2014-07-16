@@ -1,0 +1,17 @@
+{
+  "id": "voice-to-text-transcription",
+  "title": "Voice to Text Transcription",
+  "link": "http://www.voicecloud.com/features/api/",
+  "image": "http://www.voicecloud.com/wp-content/uploads/voicecloudlogo.png",
+  "author": {
+    "name": "VoiceCloud"
+  },
+  "tags": [
+    "Developer",
+    "System",
+    "Server",
+    "Accessible",
+    "Completed"
+  ],
+  "description": "Developers will have access to our API function calls which allows you to submit mp3 or wav files to our system. The audio files you submit to us must be hosted on an http server that can be accessed by our software. Once the API call is made, our servers will fetch the audio file and submit it to our queuing system to be transcribed by our agents. The audio files will be accessible from your VoiceCloud login account including the transcribed text when completed."
+}

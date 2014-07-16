@@ -1,0 +1,15 @@
+{
+  "id": "old-bailey",
+  "title": "Old Bailey",
+  "link": "http://criminalintent.org/for-developers/",
+  "image": "http://criminalintent.org/wp-content/themes/criminalintent/images/criminalintent-logo-full.gif",
+  "author": {
+    "name": "With Criminal Intent"
+  },
+  "tags": [
+    "Refined",
+    "Position",
+    "Process"
+  ],
+  "description": "This webpage allows the server-side API to be queried and the results refined and passed to both Zotero and Voyuer.  It is currently running at its final public position, but has not been advertised on the wider Old Bailey site. Further functionality, including a ‘more like this’, and an integrated graphing facility are in the process of being implemented."
+}

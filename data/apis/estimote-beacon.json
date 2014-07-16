@@ -1,0 +1,16 @@
+{
+  "id": "estimote-beacon",
+  "title": "Estimote Beacon",
+  "link": "http://estimote.com/",
+  "image": "http://estimote.com/api/images/gettingstarted2.jpg",
+  "author": {
+    "name": "Estimote Beacon"
+  },
+  "tags": [
+    "Computer",
+    "Flash",
+    "Temperature",
+    "Sensor"
+  ],
+  "description": "Technically speaking, Estimote Beacon is a super small computer. It has a powerful 32-bit ARM® Cortex M0 CPU with 256kB flash memory, accelerometer, temperature sensor and what is most important – 2.4 GHz Bluetooth 4.0 Smart (also known as BLE or Bluetooth low energy) bidirectional radio."
+}

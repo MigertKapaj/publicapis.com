@@ -1,0 +1,15 @@
+{
+  "id": "bowker",
+  "title": "Bowker",
+  "link": "http://www.bowker.com/webservices.htm",
+  "image": "http://www.bowker.co.uk/images/core/logo.gif",
+  "author": {
+    "name": "Bowker"
+  },
+  "tags": [
+    "Designed",
+    "Services",
+    "Publisher"
+  ],
+  "description": "Bowker is the world’s leading provider of bibliographic information and management solutions designed to help publishers, booksellers, and libraries better serve their customers. Creators of products and services that make books easier for people to discover, evaluate, order, and experience, the company also generates research and resources for publishers, helping them understand and meet the interests of readers worldwide. Bowker, a ProQuest affiliate, is the official ISBN Agency for the United States and its territories and is headquartered in New Providence, New Jersey with additional operations in England and Australia."
+}

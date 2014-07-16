@@ -1,0 +1,16 @@
+{
+  "id": "prox",
+  "title": "Prox",
+  "link": "http://www.proxapi.com",
+  "image": "http://proxapi.com/images/light-logo.png",
+  "author": {
+    "name": "Prox"
+  },
+  "tags": [
+    "Technology",
+    "Connect",
+    "proximity",
+    "Interact"
+  ],
+  "description": "Are you looking for a proximity based app? Our advanced technology allows you to locate, compare, and connect any number of people or objects in real time, all based on proximity. Once this comparison is made, an alert can be produced so these connections can interact"
+}

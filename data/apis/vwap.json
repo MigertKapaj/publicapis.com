@@ -1,0 +1,16 @@
+{
+  "id": "vwap",
+  "title": "VWAP",
+  "link": "http://www.xignite.com/product/XigniteVWAP/api/GetHistoricalVWAP/",
+  "image": "http://www.xignite.com/img/global/logo-text.png",
+  "author": {
+    "name": "Xignite"
+  },
+  "tags": [
+    "Transaction",
+    "Traders",
+    "Funds",
+    "Transaction"
+  ],
+  "description": "This API offers real-time, intraday and historical VWAP (Volume-Weighted Average Price) data for US equities. VWAP is a method of pricing transactions and is used as a benchmark to measure the efficiency of institutional trading or the performance of traders. For examples, it is often used as an indicator for trading performances by pension plans, hedge funds and firms that engage in algorithmic trading. VWAP for a stock is calculated by adding up the dollars traded for every transaction in that stock (price x shares traded) and then dividing by the total shares traded for a specific time period."
+}

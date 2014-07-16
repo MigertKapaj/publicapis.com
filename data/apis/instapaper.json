@@ -1,0 +1,14 @@
+{
+  "id": "instapaper",
+  "title": "Instapaper",
+  "link": "http://www.instapaper.com/api/full",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQuQgnNG1cOYDc5HeAsVijdFVWOE4hElIox5uszNGeo8fbsUbh9Jw",
+  "author": {
+    "name": "Instapaper"
+  },
+  "tags": [
+    "Account",
+    "Consider"
+  ],
+  "description": "The Instapaper API allows third-party applications to add URLs to Instapaper. If you only need to add URLs from your application to an Instapaper customer's account, consider using the Simple API."
+}

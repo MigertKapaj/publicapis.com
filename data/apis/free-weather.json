@@ -1,0 +1,16 @@
+{
+  "id": "free-weather",
+  "title": "Free Weather",
+  "link": "http://www.worldweatheronline.com/api-usage-api.aspx",
+  "image": "http://cdn.worldweatheronline.net/staticv3/images/logo.jpg",
+  "author": {
+    "name": "Worldweatheronline"
+  },
+  "tags": [
+    "Online",
+    "Data",
+    "Advanced",
+    "Separated"
+  ],
+  "description": "World Weather Online Free and Premium APIs provide a way to get local weather, ski and mountain weather and marine data for current, past, and forecasted future times.  The APIs deliver advanced and in-depth weather information using standard HTTP requests, returning data in easy to use formats like XML, JSON, JSON-P, comma-separated values, and tab-separated values. "
+}

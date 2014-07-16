@@ -1,0 +1,15 @@
+{
+  "id": "popvox",
+  "title": "Popvox",
+  "link": "http://www.directleap.com/support_api.php",
+  "image": "http://www.directleap.com/images/topbanner.jpg",
+  "author": {
+    "name": "Direct Leap Technologies, Inc."
+  },
+  "tags": [
+    "Website",
+    "Campaign",
+    "Modify"
+  ],
+  "description": "The Popvox Client API lets you embed our Popvox interface for agents into your own website. Using a single Javascript command, you can get started, giving your website visitors an easy to use tool to join a campaign and begin making phone calls. We provide the full source code for the Javascript client, letting you modify any aspect of the implementation or even create your own client."
+}

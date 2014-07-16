@@ -1,0 +1,13 @@
+{
+  "id": "taxcloud",
+  "title": "TaxCloud",
+  "link": "https://api.taxcloud.net/1.0/",
+  "image": "",
+  "author": {
+    "name": "TaxCloud"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

@@ -1,0 +1,15 @@
+{
+  "id": "chatterous",
+  "title": "Chatterous",
+  "link": "http://www.chatterous.com/faq/api/#introduction",
+  "image": "http://www.chatterous.com/site_media/images/chatterous_logo_sm.gif",
+  "author": {
+    "name": "Chatterous"
+  },
+  "tags": [
+    "Require",
+    "Passing",
+    "Parameters"
+  ],
+  "description": "All the Chatterous API calls require authentication. A call is authenticated by passing in your username (username), group short name (group_short_name) and your api key (api_key) as either query string parameters (for a GET) or parameters in a POST body. "
+}

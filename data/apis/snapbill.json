@@ -1,0 +1,16 @@
+{
+  "id": "snapbill",
+  "title": "Snapbill",
+  "link": "http://developers.snapbill.com/home",
+  "image": "",
+  "author": {
+    "name": "Snapbill"
+  },
+  "tags": [
+    "System ",
+    "Clients",
+    "Providing",
+    "Paid"
+  ],
+  "description": "We have a flexible signup system that lets you jumpstart a signup for one of your clients by providing the required detailswhen redirecting. We also can redirect back to your site once your client has paid."
+}

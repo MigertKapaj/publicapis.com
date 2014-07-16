@@ -1,0 +1,15 @@
+{
+  "id": "translator-toolkit",
+  "title": "Translator Toolkit",
+  "link": "https://developers.google.com/translator-toolkit/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Engineering",
+    "Marketing",
+    "Development"
+  ],
+  "description": "We are in Google's Engineering organization, though we also work closely with Product Management, Marketing, PR, Business Development, and others. We are actively hiring for many junior and senior positions in our global organization."
+}

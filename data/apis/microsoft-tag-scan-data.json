@@ -1,0 +1,15 @@
+{
+  "id": "microsoft-tag-scan-data",
+  "title": "Microsoft Tag Scan Data",
+  "link": "http://tag.microsoft.com/developer/scan-data-api.aspx",
+  "image": "http://tag.microsoft.com/Images/V3/Header/TagLogo_95x85.jpg",
+  "author": {
+    "name": "Microsoft"
+  },
+  "tags": [
+    "Tag",
+    "Searvice",
+    "Windows"
+  ],
+  "description": "Detailed scan data for your Tags are stored by the Tag Services. You can retrieve your Tag scan data using the Tag Scan Data API.  To use the Tag Scan Data API you must first have a Microsoft Tag Scan DataAPI key. The Microsoft Tag Scan Data API key is associated with the Windows Live ID that was used to create your Tags. To obtain a Microsoft Tag Scan Data API key, please log in to the Tag Key Manager and request one.  "
+}

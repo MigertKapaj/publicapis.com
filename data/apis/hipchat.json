@@ -1,0 +1,15 @@
+{
+  "id": "hipchat",
+  "title": "Hipchat",
+  "link": "https://www.hipchat.com/docs/api",
+  "image": "https://www.hipchat.com/img/logo_corp2@2x.png",
+  "author": {
+    "name": "Hipchat"
+  },
+  "tags": [
+    "Requires",
+    "Containing",
+    "Response"
+  ],
+  "description": "The HipChat API requires you to pass an auth_token variable with each request containing one of your API tokens. If the token is not provided or invalid you will receive a 401 response. "
+}

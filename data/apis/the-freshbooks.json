@@ -1,0 +1,16 @@
+{
+  "id": "the-freshbooks",
+  "title": "The FreshBooks",
+  "link": "http://developers.freshbooks.com/",
+  "image": "http://www.freshbooks.com/images/header/logo-sprite-eca.png",
+  "author": {
+    "name": "FreshBooks"
+  },
+  "tags": [
+    "Developers",
+    "Platform",
+    "Web",
+    "Desktop"
+  ],
+  "description": "The FreshBooks API allows 3rd party developers to expand and build on the FreshBooks platform. The FreshBooks API is an interface for accessing your FreshBooks account\n data using HTTP and XML. The API makes it easy to create web and desktop applications that integrate with your account."
+}

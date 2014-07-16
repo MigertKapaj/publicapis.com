@@ -1,0 +1,16 @@
+{
+  "id": "grooveshark-public",
+  "title": "Grooveshark Public",
+  "link": "http://developers.grooveshark.com/docs/public_api/v3/",
+  "image": "",
+  "author": {
+    "name": "Grooveshark"
+  },
+  "tags": [
+    "Methods",
+    "Intreracting",
+    "Web",
+    "Service"
+  ],
+  "description": "Grooveshark makes available methods for accessing and interacting with Grooveshark data. All methods require a web services key and you must sign your requests with a secret we provide. If you're interested in streaming,  please see the Streaming API tutorial."
+}

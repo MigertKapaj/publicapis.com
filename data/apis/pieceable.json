@@ -1,0 +1,16 @@
+{
+  "id": "pieceable",
+  "title": "Pieceable",
+  "link": "https://www.pieceable.com/docs",
+  "image": "https://www.pieceable.com/public/images/topbar-logo.png",
+  "author": {
+    "name": "Pieceable"
+  },
+  "tags": [
+    "Publishers",
+    "Technology",
+    "Developers",
+    "Contractors"
+  ],
+  "description": "Pieceable Software and we make Pieceable Viewer, the first product that lets iOS app publishers deliver their apps to the browser.\n    It's a cool piece of technology, and our customers use it in a bunch of different ways.  It's a sales tool for B2B iOS developers. It's a demo tool for contractors working with remote clients.  Sometimes it's a web-based marketing tool.  And, other times it's used by customer support departments that need to support iOS apps.\n    "
+}

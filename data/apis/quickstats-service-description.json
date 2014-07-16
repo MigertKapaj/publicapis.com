@@ -1,0 +1,16 @@
+{
+  "id": "quickstats-service-description",
+  "title": "Quickstats Service Description",
+  "link": "https://api.clickbank.com/rest/1.3/quickstats",
+  "image": "",
+  "author": {
+    "name": "Citibank"
+  },
+  "tags": [
+    "Service",
+    "Except",
+    "Presents",
+    "Data"
+  ],
+  "description": "The count service sums the quickstat sale, refund and chargeback amounts based on the search criteria. If no search conditions are set, it will return the sum of the values for the last 45 days based on all the accounts linked to the API keys. The count service is similar to the list method except for the fact that it presents the user with one total of the dates specified the search criteria instead of listing each day's quickstat values individually. Note that the quickStatDate in the returned data will be null. "
+}

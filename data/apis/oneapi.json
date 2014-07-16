@@ -1,0 +1,16 @@
+{
+  "id": "oneapi",
+  "title": "OneAPI",
+  "link": "http://www.gsma.com/oneapi/",
+  "image": "http://www.gsma.com/oneapi/wp-content/themes/GSMAOneAPI2013/images/GSMA_logo.png",
+  "author": {
+    "name": "GSMA"
+  },
+  "tags": [
+    "Provides",
+    "Access",
+    "Network",
+    "Operators"
+  ],
+  "description": "The OneAPI Exchange is an infrastructure that provides developers with access to mobile network operator assets via APIs. This infrastructure federates different operators into one unit providing a wider reach for developers."
+}

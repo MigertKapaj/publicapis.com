@@ -1,0 +1,16 @@
+{
+  "id": "texthub",
+  "title": "TextHub",
+  "link": "http://www.texthub.com/features/",
+  "image": "http://www.texthub.com/wp-content/themes/texthub/images/logo.png",
+  "author": {
+    "name": "TextHub"
+  },
+  "tags": [
+    "Extensive",
+    "Directly",
+    "Reminders",
+    "Notifications"
+  ],
+  "description": "TextHub has built an extensive API to easily allow you to integrate TextHub functionality directly into your existing web site and/or applications. Simply connect to our API, post a message and TextHub will do the rest. We now open up a world of text message reminders, updates, notifications and more."
+}

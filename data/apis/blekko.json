@@ -1,0 +1,15 @@
+{
+  "id": "blekko",
+  "title": "blekko",
+  "link": "http://help.blekko.com/index.php/tag/api/",
+  "image": "http://help.blekko.com/wp-content/uploads/2012/05/head_bar_help.png",
+  "author": {
+    "name": "blekko"
+  },
+  "tags": [
+    "Capacity",
+    "Programs",
+    "Websites"
+  ],
+  "description": "As of September 2013, we have sold out our entire search capacity and are no longer offering free API usage. Sorry. Yes. The blekko API allows programs and other websites to run searches on blekko, and to manipulate slashtags."
+}

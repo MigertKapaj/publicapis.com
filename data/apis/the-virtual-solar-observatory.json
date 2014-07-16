@@ -1,0 +1,13 @@
+{
+  "id": "the-virtual-solar-observatory",
+  "title": "The Virtual Solar Observatory",
+  "link": "http://vso.nascom.nasa.gov/API/VSO_API.html",
+  "image": "",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This document will attempt to provide the necessary information for a programmer to write applications that interact with the Virtual Solar Observatory (VSO). We will explain the Application Program Interface (API), and attempt to provide insight into the design of the VSO in an attempt for programmers to understand the logic that resulted in the interface. Programmers should ensure that they are reading the most current version of this document.  They will also need the corresponding WSDL document to describe the structure of the messages exchanged between clients and the VSO."
+}

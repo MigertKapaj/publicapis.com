@@ -1,0 +1,16 @@
+{
+  "id": "twiddla",
+  "title": "Twiddla",
+  "link": "http://www.twiddla.com/API/Reference.aspx",
+  "image": "http://www.twiddla.com/images/logo-corner2.png",
+  "author": {
+    "name": "Twiddla"
+  },
+  "tags": [
+    "Meetings",
+    "Embed",
+    "Disable",
+    "Instead"
+  ],
+  "description": "Twiddla's Application Programming Interface (API) lets you host Twiddla meetings on your own website. You can create new meetings on the fly and embed them into any page you'd like. You can disable the bits you don't want to see, and you can even show your own logo instead of ours. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "insights",
+  "title": "Insights",
+  "link": "http://www.openamplify.com/insights",
+  "image": "",
+  "author": {
+    "name": "Open Amplify"
+  },
+  "tags": [
+    "NLP",
+    "Analysis",
+    "Signals",
+    "Domains"
+  ],
+  "description": "If you want to leverage the actual meaning of content in your application, you need OpenAmplify. OpenAmplify is the most advanced NLP text analysis engine currently available, processing content submitted to the API in milliseconds to deliver a comprehensive range of analysis 'Signals' in a rich XML schema. OpenAmplify delivers so much more than just sentiment analysis: the Insights API presents the entire meaning of the text as XML and is the only API that can deliver you:\nThe topics and entities being discussed, Domains, categories and classifications ,Sentiment: at both the topic and whole text level Actions: what is happening ,Intent: what the author is planning ,Decisiveness: how sure the author is about the actions ,Emotions: the passion the author has for the topics being discussed ,Topic Descriptions: those terms that drive the sentiment scoring \n "
+}

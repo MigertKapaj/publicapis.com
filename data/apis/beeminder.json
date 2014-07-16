@@ -1,0 +1,14 @@
+{
+  "id": "beeminder",
+  "title": "Beeminder",
+  "link": "https://www.beeminder.com/api",
+  "image": "https://www.beeminder.com/images/logo_hi.png",
+  "author": {
+    "name": "Beeminder"
+  },
+  "tags": [
+    "Compatible",
+    "Versions"
+  ],
+  "description": "This API is under active development but by releasing it as a 1.0 we’re committing to make any future changes backwards compatible and give plenty of warning if we do have to stop supporting prior versions or endpoints. We have been compiling a list of ways people are using the Beeminder API on our blog."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "text-spinner",
+  "title": "Text Spinner",
+  "link": "https://www.mashape.com/pozzad/text-spinner",
+  "image": "",
+  "author": {
+    "name": "pozzad"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API exposes an endpoint which can spin a text containing a spinning expression syntax by generating a list of different variations."
+}

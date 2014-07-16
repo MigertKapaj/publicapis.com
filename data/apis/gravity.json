@@ -1,0 +1,16 @@
+{
+  "id": "gravity",
+  "title": "Gravity",
+  "link": "http://www.gravity.com/publishers",
+  "image": "http://www.gravity.com/wp-content/themes/orbit/images/xgravity-logo_255x80.png.pagespeed.ic.1Q_QbZGTPx.png",
+  "author": {
+    "name": "Gravity"
+  },
+  "tags": [
+    "Bottom",
+    "Internet",
+    "Video",
+    "Connected"
+  ],
+  "description": "Personalization is more than just putting a module at the bottom of a website that says \"Recommended For You\". The Gravity API can personalize anything on the internet - an entire home page, a video channel, mobile/tablet apps or even connected TV's."
+}

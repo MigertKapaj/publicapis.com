@@ -1,0 +1,16 @@
+{
+  "id": "the-fastly",
+  "title": "The Fastly",
+  "link": "http://docs.fastly.com/docs/api",
+  "image": "http://www.fastly.com/sites/all/themes/fastly/logo.png",
+  "author": {
+    "name": "Fastly"
+  },
+  "tags": [
+    "Tools",
+    "Configuration",
+    "Purging",
+    "Application"
+  ],
+  "description": "The Fastly API is a fully featured suite of tools that allows you to handle everything from configuration to instant purging via a straight forward REST interface. Use the references below to guide the development of your application.\n                "
+}

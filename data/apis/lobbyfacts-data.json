@@ -1,0 +1,15 @@
+{
+  "id": "lobbyfacts-data",
+  "title": "LobbyFacts Data",
+  "link": "http://api.lobbyfacts.eu/api/1/country/1",
+  "image": "http://assets.okfn.org/p/labs/201210/img/header.png",
+  "author": {
+    "name": "LABS"
+  },
+  "tags": [
+    "Access",
+    "Information",
+    "Persons"
+  ],
+  "description": "The API for LobbyFacts is made to allow easy access to up-to-date, structured information about registered interests, persons and other organisations."
+}

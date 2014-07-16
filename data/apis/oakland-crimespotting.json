@@ -1,0 +1,15 @@
+{
+  "id": "oakland-crimespotting",
+  "title": "Oakland crimespotting",
+  "link": "http://oakland.crimespotting.org/api",
+  "image": "http://oakland.crimespotting.org/img/logo-small.png",
+  "author": {
+    "name": "Oakland crimespotting"
+  },
+  "tags": [
+    "Data",
+    "Developers",
+    "Service"
+  ],
+  "description": "Crimespotting data is available to developers and researchers via a simpe web service."
+}

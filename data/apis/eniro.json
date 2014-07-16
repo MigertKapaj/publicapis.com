@@ -1,0 +1,15 @@
+{
+  "id": "eniro",
+  "title": "Eniro",
+  "link": "http://api.eniro.com/code-snippets",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb_3lestohbEHOhenFigge5Tq4dF-LIv6TnTawmn8YCljzqFzv",
+  "author": {
+    "name": "Eniro"
+  },
+  "tags": [
+    "Interface",
+    "Access",
+    "Data"
+  ],
+  "description": "API is an abbrevation for Application Programming Interface. The Eniro API at api.eniro.com is a way for your site to access to Eniro's company data. By crafting a specific request to our servers, you'll get a consistent response back."
+}

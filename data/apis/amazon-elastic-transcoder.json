@@ -1,0 +1,15 @@
+{
+  "id": "amazon-elastic-transcoder",
+  "title": "Amazon Elastic Transcoder",
+  "link": "http://docs.aws.amazon.com/general/latest/gr/rande.html",
+  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Designed",
+    "Effective",
+    "Versions"
+  ],
+  "description": "Amazon Elastic Transcoder is media transcoding in the cloud. It is designed to be a highly scalable, easy to use and a cost effective way for developers and businesses to convert (or “transcode”) media files from their source format into versions that will playback on devices like smartphones, tablets and PCs."
+}

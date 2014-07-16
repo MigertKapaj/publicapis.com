@@ -1,0 +1,15 @@
+{
+  "id": "overdrive",
+  "title": "OverDrive",
+  "link": "https://developer.overdrive.com/docs/getting-started",
+  "image": "https://developer.overdrive.com/Themes/DeveloperPortal/Content/Images/draftOHeaderIcon.png",
+  "author": {
+    "name": "OverDrive"
+  },
+  "tags": [
+    "Connect",
+    "Digital",
+    "Approved"
+  ],
+  "description": "OverDrive is creating a suite of APIs that allow third-party applications to connect to and interact with the OverDrive digital media database. The following APIs are currently available to approved users. Additional APIs will be added to this page as they are released."
+}

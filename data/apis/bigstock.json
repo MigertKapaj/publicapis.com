@@ -1,0 +1,16 @@
+{
+  "id": "bigstock",
+  "title": "Bigstock",
+  "link": "http://help.bigstockphoto.com/hc/en-us/articles/200303245-API-Documentation",
+  "image": "http://p2.zdassets.com/hc/settings_assets/120888/200003920/o7MqlSJXxPrQAXxWrOKCOw-Bigstock.png",
+  "author": {
+    "name": "Bigstockphoto"
+  },
+  "tags": [
+    "Account",
+    "Request",
+    "Interact",
+    "Structure"
+  ],
+  "description": "To use our API you sign up for a Bigstock account and fill out the API getting started form. You will be given an account ID which must be included with every request. To explore, you can interact with most of our API right through your browser. All requests are in the following URL structure:"
+}

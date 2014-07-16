@@ -1,0 +1,15 @@
+{
+  "id": "adegga",
+  "title": "Adegga",
+  "link": "http://www.adegga.com/help/api/",
+  "image": "http://s.adegga.com/assets/images/adegga_logo_long.gif",
+  "author": {
+    "name": "adegga"
+  },
+  "tags": [
+    "Interface",
+    "Producers",
+    "Developers"
+  ],
+  "description": "The Adegga API provides a simple RESTful interface with XML and Json formatted responses to use many of Adegga’s website features, including producers, wines, country and wine types. This document provides information to developers on how to integrate with the Adegga API."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "openlayers",
+  "title": "OpenLayers",
+  "link": "http://www.openlayers.org/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQyI9Rzp-Gap9iik8BwAL4NTcwcgqaBG0QZn3Ue3vigdmD7cV-p",
+  "author": {
+    "name": "OpenLayers"
+  },
+  "tags": [
+    "Dynamic. Map",
+    "Markers",
+    "Geographic"
+  ],
+  "description": "OpenLayers makes it easy to put a dynamic map in any web page. It can display map tiles and markers loaded from any source. OpenLayers has been developed to further the use of geographic information of all kinds."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "spreadshirt-webservices",
+  "title": "Spreadshirt Webservices",
+  "link": "http://spreadshop.org/",
+  "image": "",
+  "author": {
+    "name": "Spreadshirt Webservices"
+  },
+  "tags": [
+    "Web service",
+    "Sounds",
+    "Daunting",
+    ""
+  ],
+  "description": "Firstly, if you've never heard of web services or SOAP or REST before, or if dealing with XML sounds daunting, then this documentation might be an uphill struggle \\for you. However, I do intend developing some customisable plugins/widgets later which should be of interest to non-progammers.\n"
+}

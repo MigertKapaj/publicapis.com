@@ -1,0 +1,14 @@
+{
+  "id": "citysourced",
+  "title": "CitySourced",
+  "link": "http://www.citysourced.com/developers",
+  "image": "http://x.citysourced.com/images/Hdr-Logo-CitySourced.gif",
+  "author": {
+    "name": "CitySourced"
+  },
+  "tags": [
+    "Information",
+    "Gathered"
+  ],
+  "description": "We've developed a REST API (Application Programming Interface) for anyone who would like to use the information we've gathered and use in their own applications."
+}

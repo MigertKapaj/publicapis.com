@@ -1,0 +1,15 @@
+{
+  "id": "naic",
+  "title": "NAIC",
+  "link": "https://eapps.naic.org/NaicRegistry/",
+  "image": "https://eapps.naic.org/images/header_200711_r1_c1.gif",
+  "author": {
+    "name": "NAIC"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Exchange"
+  ],
+  "description": "With NAIC Web services, client applications can call NAIC Web services in order to add functionality or data. Web services are remote functions which exchange data over a network using Extensible Markup Language (XML) and Hypertext Transfer Protocol (HTTP) standards."
+}

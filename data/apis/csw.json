@@ -1,0 +1,16 @@
+{
+  "id": "csw",
+  "title": "CSW",
+  "link": "http://www.spamwipe.com/api.html",
+  "image": "http://www.spamwipe.com/img/bg/logo.png",
+  "author": {
+    "name": "CSW"
+  },
+  "tags": [
+    "Libraries",
+    "Work",
+    "Downloaded",
+    "Started"
+  ],
+  "description": "The easiest way to get started with our API is to use one of our libraries. These libraries do all of the hard work for you. Once you've downloaded a library, all you'll need is an API key to get started."
+}

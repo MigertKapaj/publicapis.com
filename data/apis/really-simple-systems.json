@@ -1,0 +1,15 @@
+{
+  "id": "really-simple-systems",
+  "title": "Really Simple Systems",
+  "link": "http://www.reallysimplesystems.com/tour/api",
+  "image": "http://www.reallysimplesystems.com/wp-content/themes/wp-rss/images/logo.gif",
+  "author": {
+    "name": "ReallySimpleSystems"
+  },
+  "tags": [
+    "Systems",
+    "Access",
+    "Online"
+  ],
+  "description": "The Really Simple Systems CRM API (Application Program Interface) gives low level access to all the objects in your online CRM."
+}

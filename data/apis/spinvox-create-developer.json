@@ -1,0 +1,15 @@
+{
+  "id": "spinvox-create-developer",
+  "title": "SpinVox Create Developer",
+  "link": "http://create.spinvox.com/index.php?pageid=0",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQuJvNC747ep5EutjgFqfUvdFkL2suhW4FNhVDXOrOg0Iwh8Af50g",
+  "author": {
+    "name": "SpinVox Create Developer"
+  },
+  "tags": [
+    "Conversion",
+    "Messages",
+    "Speech"
+  ],
+  "description": "We have created a Developers’ guide to help you know more about SpinVox conversion system, understand the converted messages and of course the API. Please download and read it to start developing speech to text applications. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "txodds",
+  "title": "TXODDS",
+  "link": "http://txodds.com/api_info",
+  "image": "http://txodds.com/fanstatic/app/:version:2014-04-10T16:16:39.93/img/logo.png",
+  "author": {
+    "name": "TXODDS"
+  },
+  "tags": [
+    "Database",
+    "Enabling",
+    "Marketplace"
+  ],
+  "description": "The possibilities are endless, and the TXODDS MARKET ODDS FEED is updated in line with the live master odds database, enabling versatile processing of multiple data streams in a standardised format. Essentially, this enables your own database to connect directly to and respond to events happening 24/7 in the global sports betting marketplace."
+}

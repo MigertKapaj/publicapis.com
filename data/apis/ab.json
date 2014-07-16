@@ -1,0 +1,16 @@
+{
+  "id": "ab",
+  "title": "AB",
+  "link": "http://docs.academicbenchmarks.com/api.html",
+  "image": "http://www.academicbenchmarks.com/templates/rt_modulus_j15/images/logo/light/logo.png",
+  "author": {
+    "name": "Academic Benchmarks"
+  },
+  "tags": [
+    "Collection",
+    "Platform",
+    "Data",
+    "Management"
+  ],
+  "description": "Access the market's most comprehensive academic standards collection and alignment management functionality — from within your product. The AB applications and API platform are a cost-effective way to add powerful functionality without complex coding and data management."
+}

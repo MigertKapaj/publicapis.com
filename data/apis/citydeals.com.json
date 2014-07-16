@@ -1,0 +1,14 @@
+{
+  "id": "citydeals.com",
+  "title": "CityDeals.com",
+  "link": "http://www.citydeals.com/developer-api",
+  "image": "http://www.citydeals.com/skin/frontend/default/citydeals/images/citydeals_logo_header_tm.png",
+  "author": {
+    "name": "CityDeals.com"
+  },
+  "tags": [
+    "Provides",
+    "Information"
+  ],
+  "description": "The CityDeals.com Simple API provides a mechanism for getting current deal information. The Simple API allows applications to get this information via a REST API."
+}

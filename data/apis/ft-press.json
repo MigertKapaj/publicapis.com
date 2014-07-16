@@ -1,0 +1,16 @@
+{
+  "id": "ft-press",
+  "title": "FT Press",
+  "link": "https://developer.pearson.com/apis/ft-press/",
+  "image": "https://developer.pearson.com/wp-content/themes/pearson-developer-2013/_/inc/images/dp_pearson_logo.gif",
+  "author": {
+    "name": "Pearson"
+  },
+  "tags": [
+    "Books",
+    "Thinkers",
+    "Products",
+    "Tells"
+  ],
+  "description": "FT Press provides essential insights from the best business books and\n original writings by leading business thinkers, in a bite-sized \nelectronic format.  When developing products, the FT Press engages \nreaders, asks questions, tells stories, and illustrates ideas with \ninsightful examples of people, products, or businesses. The end result \nis short, meaningful, and actionable content."
+}

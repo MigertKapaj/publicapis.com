@@ -1,0 +1,15 @@
+{
+  "id": "woot",
+  "title": "Woot",
+  "link": "http://api.woot.com/2/",
+  "image": "http://api.woot.com/images/api-logo.png",
+  "author": {
+    "name": "Woot"
+  },
+  "tags": [
+    "Recent",
+    "Require",
+    "Applications"
+  ],
+  "description": "This page lists the endpoints for the most recent Woot API. These calls require an API key that can be obtained on your applications page."
+}

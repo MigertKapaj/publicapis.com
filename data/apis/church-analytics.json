@@ -1,0 +1,15 @@
+{
+  "id": "church-analytics",
+  "title": "Church Analytics",
+  "link": "http://churchanalytics.com/api.html",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjHmx9CEPE5_j-hs9_Hq1GhV-je3ldN52mvlU82vCusOfh84iy",
+  "author": {
+    "name": "Church Analytics"
+  },
+  "tags": [
+    "Data",
+    "Several",
+    "Integrate"
+  ],
+  "description": "The Church Analytics Analytics API allows you to extract your web site's traffic data into several common formats, making it easy to integrate, analyze, or store your data within your own application."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "digital-podcast-search-service",
+  "title": "Digital Podcast Search Service",
+  "link": "http://api.digitalpodcast.com/api_doc.html",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTkmF2tf1HFRPr4EN57umeCK5syPjGraDrBXQAlbEcA3J_0VTFj",
+  "author": {
+    "name": "Digital Podcast Search Service"
+  },
+  "tags": [
+    "Service",
+    "Represents",
+    "Upgrade"
+  ],
+  "description": "The Digital Podcast Search Service uses service versions to control changes to the API and the output specs. Each service version represents a fixed version of the API and output specifications. As we upgrade the API, new service versions will be released."
+}

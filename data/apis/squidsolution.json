@@ -1,0 +1,15 @@
+{
+  "id": "squidsolution",
+  "title": "SquidSolution",
+  "link": "https://api.squidsolutions.com/wp/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT74sFOFpMHaetwgX3_GBsCyT8F-MVLZqBE8wfn45jUHZul8WBlGw",
+  "author": {
+    "name": "Squid Solution"
+  },
+  "tags": [
+    "Standard",
+    "Access",
+    "Application"
+  ],
+  "description": "A Rest API : by using our standard Rest-full API you will have access to all platform functionalities and be able to integrate them into any Rest-capable application. "
+}

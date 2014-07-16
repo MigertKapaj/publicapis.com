@@ -1,0 +1,16 @@
+{
+  "id": "opencourseware",
+  "title": "OpenCourseWare",
+  "link": "http://www.ocwsearch.com/api",
+  "image": "http://nc.ocwsearch.com/assets/images/logo-talk-wide.png",
+  "author": {
+    "name": "OpenCourseWare"
+  },
+  "tags": [
+    "Endpoint",
+    "Compatibility",
+    "Contact",
+    "Cross domain"
+  ],
+  "description": "The APIs are designed to be very simple to use. You construct a URL that you retrieve the contents of, and it returns a JSON output of the search results.The API is versioned, meaning that each API endpoint specifies the version number. This maintains backwards compatability in that when the API gets updated in a way that would \nbreak the default behavior, it gets a new version number, and your application will not break.The API outputs only JSON. Support for XML responses are not planned unless there is significant demand for it. See the Mailing List and Getting Help section below for contact details.Currently the API does notsupport JSONP but this is a planned top priority. JSONP will allow you to use the API in web browsers as it is a secure mechanism to do cross-domain scripting."
+}

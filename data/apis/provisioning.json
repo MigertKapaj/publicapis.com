@@ -1,0 +1,16 @@
+{
+  "id": "provisioning",
+  "title": "Provisioning",
+  "link": "https://developers.google.com/google-apps/provisioning/reference",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Provisioning",
+    "Accessing",
+    "Directly",
+    "Data"
+  ],
+  "description": "The following subsections explain how to use the Google Apps Provisioning API. Each subsection explains the methods available for accessing specific provisioning functionality with the supported client libraries or directly through HTTP requests. For help getting started with your chosen client library, see the corresponding Google Data Protocol article."
+}

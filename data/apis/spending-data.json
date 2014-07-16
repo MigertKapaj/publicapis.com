@@ -1,0 +1,17 @@
+{
+  "id": "spending-data",
+  "title": "Spending Data",
+  "link": "http://www.usaspending.gov/data?tab=API",
+  "image": "http://www.usaspending.gov/sites/all/themes/usaspendingv2/images/usa_logo_ins.gif",
+  "author": {
+    "name": "USAspending.gov"
+  },
+  "tags": [
+    "Assistance",
+    "Data",
+    "Respectively",
+    "Except",
+    "Chart"
+  ],
+  "description": "The API consists of three methods, fpds.php, faads.php and fsrs.php that allow access to Federal contracts, Federal assistance and Federal sub-award data respectively. All data present on USAspending.gov are available through the API, except for pie charts and end-of-search totals. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "geocodefarm",
+  "title": "GeocodeFarm",
+  "link": "http://www.geocodefarm.com",
+  "image": "http://www.geocodefarm.com/assets/img/logo.png",
+  "author": {
+    "name": "GeocodeFarm"
+  },
+  "tags": [
+    "Geocoding",
+    "Turning",
+    "Addresses",
+    "Maps"
+  ],
+  "description": "GeocodeFarm is the leading provider of Geocoding services. We take care of the process of turning human readable addresses into computer and map understandable coordinates. You can then use the coordinates we provide to place markers or position maps such as \"Google Maps\" or \"Bing Maps\"."
+}

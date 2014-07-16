@@ -1,0 +1,15 @@
+{
+  "id": "ediscio",
+  "title": "Ediscio",
+  "link": "http://www.ediscio.com/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ8hLqsFTmN6v6p5CH8LfwVFPeDCRCrMRdwofk3MIuGZ3NEZGzf",
+  "author": {
+    "name": "Ediscio"
+  },
+  "tags": [
+    "Created",
+    "Activities",
+    "Assigned"
+  ],
+  "description": "Classes can easily be created and administered. You get a history about all activities in all cardboxes which you assigned to your class. "
+}

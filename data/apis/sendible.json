@@ -1,0 +1,15 @@
+{
+  "id": "sendible",
+  "title": "Sendible",
+  "link": "http://sendible.com/developers",
+  "image": "http://sendible.com/images/sendible_72.png",
+  "author": {
+    "name": "Sendible"
+  },
+  "tags": [
+    "Technology",
+    "Media",
+    "Across"
+  ],
+  "description": "Version 1.0 of the Sendible API lets you write applications that can make use of Sendible's messaging technology to send and track email, SMS and social media messages across multiple platforms. "
+}

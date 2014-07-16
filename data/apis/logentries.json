@@ -1,0 +1,16 @@
+{
+  "id": "logentries",
+  "title": "Logentries",
+  "link": "https://logentries.com/doc/api-download/",
+  "image": "https://logentries.com/wp-content/uploads/2014/01/logo2.png",
+  "author": {
+    "name": "Logentries"
+  },
+  "tags": [
+    "Designed",
+    "Operation",
+    "Developer",
+    "Data"
+  ],
+  "description": "Logentries couples powerful log analysis with ease-of-use. Designed with simplicity in mind, we allow IT operations, developers and business analysts to quickly and easily gain actionable insights from log data. We’re trusted by customers around the world, analyzing billions of log events every day."
+}

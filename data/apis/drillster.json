@@ -1,0 +1,15 @@
+{
+  "id": "drillster",
+  "title": "Drillster",
+  "link": "http://www.drillster.com/info/oauth",
+  "image": "http://www.drillster.com/public/logo-modern-en.svg",
+  "author": {
+    "name": "Drillster"
+  },
+  "tags": [
+    "Deprecated",
+    "Projects",
+    "Strongly"
+  ],
+  "description": "There are two versions of the Drillster REST API: version 1.0 and version 2.0. Version 1.0 is deprecated and no longer maintained. It should not be used for any new development projects. For existing projects it is strongly recommended to upgrade to API version 2.0."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "kegg",
+  "title": "KEGG",
+  "link": "http://www.kegg.jp/kegg/rest/keggapi.html",
+  "image": "http://www.kegg.jp/Fig/kegg2_menu.gif",
+  "author": {
+    "name": "KEGG"
+  },
+  "tags": [
+    "Searching",
+    "Computing",
+    "Processes",
+    "Universe"
+  ],
+  "description": "KEGG API (application programming interface) allows customization of KEGG-based analysis, such as for searching and computing biochemical pathways in cellular processes or analyzing the universe of genes in the completely sequenced genomes. "
+}

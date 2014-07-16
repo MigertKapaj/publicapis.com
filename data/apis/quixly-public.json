@@ -1,0 +1,16 @@
+{
+  "id": "quixly-public",
+  "title": "Quixly Public",
+  "link": "http://www.quixly.com/api/",
+  "image": "http://www.quixly.com/images/logo.jpg",
+  "author": {
+    "name": "Quixly"
+  },
+  "tags": [
+    "Interface",
+    "Website",
+    "Order",
+    "System"
+  ],
+  "description": "The Public API is used to interface with Quixly from your own website or application. Currently the only API method available is the \"orders\" method. You would use this to tell Quixly when an order has been placed on your system. You would send Quixly all the necessary info about the transaction, and Quixly will take it from there. Quixly will then create an order record for the transaction and email your customer a link to download the appropriate file.\n\n                                                "
+}

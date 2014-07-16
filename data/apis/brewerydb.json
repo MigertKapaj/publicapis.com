@@ -1,0 +1,15 @@
+{
+  "id": "brewerydb",
+  "title": "BreweryDB",
+  "link": "http://www.brewerydb.com/developers/docs",
+  "image": "http://www.brewerydb.com/img/xbadge.png.pagespeed.ic.L7Q3ZAw83A.png",
+  "author": {
+    "name": "BreweryDB"
+  },
+  "tags": [
+    "Generated",
+    "Approved",
+    "Access"
+  ],
+  "description": "Every request to the BreweryDB API requires an API key to be passed along with the request. An API key is generated automatically for you when you create a new app. Once your app is approved by our staff (typically takes at most a few hours), you will have access to the API. You can register a new app via the My Apps link above. Please keep your API key private!"
+}

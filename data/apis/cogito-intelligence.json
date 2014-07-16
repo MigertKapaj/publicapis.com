@@ -1,0 +1,16 @@
+{
+  "id": "cogito-intelligence",
+  "title": "Cogito Intelligence",
+  "link": "http://www.intelligenceapi.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSO3L3z9DTZflFGr9VDwplRAzgdiFa8Ii4_pAYHS-lpjh6t-q1O1w",
+  "author": {
+    "name": "Cogito Intelligence"
+  },
+  "tags": [
+    "Processing",
+    "Relationships",
+    "Platform",
+    "Data"
+  ],
+  "description": "Cogito Intelligence API provides full semantic processing features—text mining, categorization, semantic tagging, fact mining, and extraction of entity and relationships—that developers can easily integrate into their analysis platforms and applications for faster evaluation and analysis of documents, web pages, social media data or any big data sets or real-time information streams."
+}

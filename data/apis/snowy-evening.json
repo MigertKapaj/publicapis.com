@@ -1,0 +1,15 @@
+{
+  "id": "snowy-evening",
+  "title": "Snowy Evening",
+  "link": "https://snowy-evening.com/",
+  "image": "https://snowy-evening.com/img/public/logo.png",
+  "author": {
+    "name": "Snowy Evening"
+  },
+  "tags": [
+    "Project",
+    "Possible",
+    "Matter"
+  ],
+  "description": "Your overview gives a summary of every open project you're involved with, and every statistic is a link to a pre-made filter. Project navigation is so simple, you can jump between projects with the fewest clicks possible, no matter where in the application you are."
+}

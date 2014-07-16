@@ -1,0 +1,16 @@
+{
+  "id": "hellosign",
+  "title": "hellosign",
+  "link": "https://www.hellosign.com/api/gettingStarted#HowWeCharge/SignatureRequest",
+  "image": "https://s3.amazonaws.com/cdn.hellofax.com/css/hs/images/header/logo.png",
+  "author": {
+    "name": "hellosign"
+  },
+  "tags": [
+    "Process",
+    "Request",
+    "Tracking",
+    "Document"
+  ],
+  "description": "Follow the next steps and start using our API right now. It will guide you through the process of sending a signature request, tracking its status and retrieving the final signed document. "
+}

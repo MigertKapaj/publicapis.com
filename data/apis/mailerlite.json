@@ -1,0 +1,15 @@
+{
+  "id": "mailerlite",
+  "title": "MailerLite",
+  "link": "https://www.mailerlite.com/api",
+  "image": "https://www.mailerlite.com/assets/images/mailerlite_logo.png",
+  "author": {
+    "name": "MailerLite"
+  },
+  "tags": [
+    "Service",
+    "Send",
+    "Condition"
+  ],
+  "description": "MailerLite (“Service”) is a service that provides people with a means to collect email addresses and to create, send and track email promotions. This service may not be used for the sending of unsolicited email (\"spam\"). By signing up or by using the site, you accept these terms and conditions."
+}

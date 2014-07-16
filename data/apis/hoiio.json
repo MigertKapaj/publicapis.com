@@ -1,0 +1,16 @@
+{
+  "id": "hoiio",
+  "title": "Hoiio",
+  "link": "http://developer.hoiio.com/",
+  "image": "http://developer.hoiio.com/img/logo_developer.png",
+  "author": {
+    "name": "Hoiio"
+  },
+  "tags": [
+    "Access",
+    "Developers",
+    "Interactive",
+    "Traditional"
+  ],
+  "description": "Hoiio API provides developers with access to voice and SMS services.Using Hoiio API, developers can Make and receive phone callsSend and receive SMSSend and receive FaxCreate interactive voice response (IVR) apps The benefit is that developers can now easily access traditional telephone network, without incurring hefty startup cost. A simplified view on what Hoiio API does:"
+}

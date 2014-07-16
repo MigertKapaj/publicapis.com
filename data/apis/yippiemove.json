@@ -1,0 +1,16 @@
+{
+  "id": "yippiemove",
+  "title": "YippieMove",
+  "link": "http://www.yippiemove.com/help/api.html",
+  "image": "http://static.yippiemove.com/1177/img/logo.png",
+  "author": {
+    "name": "YippieMove"
+  },
+  "tags": [
+    "Integrate",
+    "Control",
+    "Apps",
+    "Reference"
+  ],
+  "description": "The YippieMove API allows you to integrate YippieMove into anything from customer control panels, to iPhone apps and command line utilities. This reference guide will show you how it works."
+}

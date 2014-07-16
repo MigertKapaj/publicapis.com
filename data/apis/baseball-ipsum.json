@@ -1,0 +1,14 @@
+{
+  "id": "baseball-ipsum",
+  "title": "Baseball Ipsum",
+  "link": "http://baseballipsum.apphb.com/Home/RestApi",
+  "image": "http://baseballipsum.apphb.com/Content/header-with-text.jpg",
+  "author": {
+    "name": "Baseball Ipsum"
+  },
+  "tags": [
+    "Interface",
+    "Parameters"
+  ],
+  "description": "The Baseball Ipsum API is a REST interface that returns JSON. Pass in the following parameters using an HTTP GET and you'll get a Json string array of paragraphs."
+}

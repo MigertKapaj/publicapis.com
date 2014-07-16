@@ -1,0 +1,16 @@
+{
+  "id": "the-webshopapp-rest",
+  "title": "The Webshopapp REST",
+  "link": "http://developers.webshopapp.com/rest-api/",
+  "image": "http://developers.webshopapp.com/assets/gfx/canopy_64px.png",
+  "author": {
+    "name": "Webshopapp "
+  },
+  "tags": [
+    "Applications",
+    "Store",
+    "Products",
+    "Shipments"
+  ],
+  "description": "The WebshopApp API makes it easy to integrate your applications with WebshopApp. Important store data such as orders, products, customers, categories, shipments and brands can be retrieved and modified as required. Our standards-compliant RESTful API both accepts and responds with XML or JSON-formatted data"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "textking-translation",
+  "title": "TEXTKING Translation",
+  "link": "https://www.textking.com/api",
+  "image": "https://www.textking.com/Content/Style/images/sprites.png?v12",
+  "author": {
+    "name": "Textking.com"
+  },
+  "tags": [
+    "Translation",
+    "System",
+    "Transfer",
+    "Receive"
+  ],
+  "description": "With the aid of the TEXTKING Translation API you can access the TEXTKING\n translation service directly from your own system. With just a few \nmouse clicks transfer your text and receive a finished translation fed \ndirectly into your system."
+}

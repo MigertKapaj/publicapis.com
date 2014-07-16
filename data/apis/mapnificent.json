@@ -1,0 +1,15 @@
+{
+  "id": "mapnificent",
+  "title": "Mapnificent",
+  "link": "http://www.mapnificent.net/docs/",
+  "image": "http://www.mapnificent.net/media/img/mapnificent_medium.png",
+  "author": {
+    "name": "Mapnificent"
+  },
+  "tags": [
+    "Maps",
+    "Cities",
+    "Transport"
+  ],
+  "description": "Mapnificent provides dynamic public transport travel time maps for many cities in the US and some world wide. You can use the Mapnificent API to augment your Google Maps application (using the Google Maps API v3)  with public transport travel time overlays."
+}

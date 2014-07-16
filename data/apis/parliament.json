@@ -1,0 +1,15 @@
+{
+  "id": "parliament",
+  "title": "Parliament",
+  "link": "http://www.biomi.org/2011/05/parliament-api/",
+  "image": "http://www.biomi.org/wp-content/themes/boxes-and-photos/media/biomi-kotka.png",
+  "author": {
+    "name": "biomi.org"
+  },
+  "tags": [
+    "Website",
+    "Accross",
+    "Impossible"
+  ],
+  "description": "Results of the votings by the Finnish Parliament are available from the Parliament website, but they are difficult to find and read. It is especially tedious to find out what a particular parliament member has voted, because the results are divided accross hunderds of pages. Linking to individual voting is also impossible, because the website uses temporary addresses which expire after few days."
+}

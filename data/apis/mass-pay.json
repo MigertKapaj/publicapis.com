@@ -1,0 +1,16 @@
+{
+  "id": "mass-pay",
+  "title": "Mass Pay",
+  "link": "https://www.x.com/developers/paypal/products/mass-pay",
+  "image": "https://www.paypalobjects.com/webstatic/developer/logo_paypal_developer.png",
+  "author": {
+    "name": "Paypal"
+  },
+  "tags": [
+    "Mass Pay",
+    "Instant Money",
+    "Multiple Recipients",
+    ""
+  ],
+  "description": "Merchants use the Mass Pay API to send money instantly to up to 250 recipients at once. To send payments to multiple recipients, merchants only need the recipient's PayPal account email address, the payment amount, and the currency code. Merchants can manually upload a file listing payments or create them programmatically using the Mass Pay API.  "
+}

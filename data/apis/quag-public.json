@@ -1,0 +1,16 @@
+{
+  "id": "quag-public",
+  "title": "Quag Public",
+  "link": "http://www.quag.com/api/",
+  "image": "http://www.quag.com/static/quag_api/images/logo-quag.png",
+  "author": {
+    "name": "Quag"
+  },
+  "tags": [
+    "Connects",
+    "Semantic",
+    "Reputational",
+    "Network"
+  ],
+  "description": "Quag is a social network that connects people by interests, not by friendship. Quag relies on a semantic and reputational interest graph that goes beyond tag based and category based social networks. Using Quag APIs you can: "
+}

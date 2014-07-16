@@ -1,0 +1,16 @@
+{
+  "id": "kippt",
+  "title": "Kippt",
+  "link": "http://developers.kippt.com/",
+  "image": "http://developers.kippt.com/static/img/kippt-logo.png",
+  "author": {
+    "name": "Kippt"
+  },
+  "tags": [
+    "Documentation",
+    "Resources",
+    "Feedback",
+    "Improvements"
+  ],
+  "description": "Below you can find reference documentation and resources for the Kippt API. If you're planning to implement Kippt into your app, we would like to hear about you. Feedback and improvements are always welcome."
+}

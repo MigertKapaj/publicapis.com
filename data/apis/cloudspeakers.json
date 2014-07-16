@@ -1,0 +1,15 @@
+{
+  "id": "cloudspeakers",
+  "title": "Cloudspeakers",
+  "link": "http://apidoc.cloudspeakers.com/access-to-the-api",
+  "image": "http://apidoc.cloudspeakers.com/_/rsrc/1257758197294/config/app/images/customLogo/customLogo.gif?revision=2",
+  "author": {
+    "name": "Cloudspeakers"
+  },
+  "tags": [
+    "Possible",
+    "Access",
+    "Data"
+  ],
+  "description": "The Cloudspeakers API is a REST API and makes it possible for developers to access the data of Cloudspeakers."
+}

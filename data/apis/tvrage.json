@@ -1,0 +1,15 @@
+{
+  "id": "tvrage",
+  "title": "TVRage",
+  "link": "http://services.tvrage.com/info.php?page=main",
+  "image": "http://services.tvrage.com/img/tvr_api_header.png",
+  "author": {
+    "name": "TVRage"
+  },
+  "tags": [
+    "Free",
+    "Donations",
+    "Expand"
+  ],
+  "description": "Since our API is a free service, we would welcome any donations, money will be used to expand the API Center as well\n\n"
+}

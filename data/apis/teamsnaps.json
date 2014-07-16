@@ -1,0 +1,17 @@
+{
+  "id": "teamsnaps",
+  "title": "TeamSnap's",
+  "link": "https://github.com/teamsnap/apiv2-docs/wiki/Getting-Started-Guide",
+  "image": "http://www.teamsnap.com/_images/new/logo.png",
+  "author": {
+    "name": "TeamSnap"
+  },
+  "tags": [
+    "Access",
+    "Players",
+    "Messages",
+    "Drives",
+    "Data"
+  ],
+  "description": "TeamSnap's API gives you programmatic access to the teams, players, games, locations, messages and other objects that make up the TeamSnap application universe. Since the API drives our mobile apps, it's a flexible and powerful way to extend TeamSnap to integrate with your data or your application."
+}

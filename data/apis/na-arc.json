@@ -1,0 +1,16 @@
+{
+  "id": "na-arc",
+  "title": "NA-ARC",
+  "link": "http://www.ifremer.fr/lpo/naarc/m/docs/api/howto.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRHzLLWF8eRvkV0AV-4Bza_ffPuUeJDjt5kWQt5UweDUuxm2fKH",
+  "author": {
+    "name": "NA-ARC"
+  },
+  "tags": [
+    "Service",
+    "Information",
+    "Floats",
+    "Database"
+  ],
+  "description": "The NA-ARC web API provides a set of services with many functions to retrieve information about Argo profiles and floats in the North Atlantic Ocean. Those information are based or computed from the NA-ARC database updated daily."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "coordinate",
+  "title": "Coordinate",
+  "link": "https://developers.google.com/coordinate/getting-started",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Mobile",
+    "Organization",
+    "Creation",
+    "Listing",
+    "Service"
+  ],
+  "description": "Google Maps Coordinate is a web and mobile application that helps organizations manage their mobile workforce. The Maps Coordinate API exposes job creation, listing, and update functionality through a RESTful web service. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "scrapinghub",
+  "title": "Scrapinghub",
+  "link": "http://doc.scrapinghub.com/api.html",
+  "image": "",
+  "author": {
+    "name": "Scrapinghub"
+  },
+  "tags": [
+    "Cookies",
+    "HTTP",
+    "Browser",
+    "Command"
+  ],
+  "description": "All API calls require authentication using either cookies (which you typically use from the browser) or HTTP basic access authentication (typically used from code). It means you can access the API from a browser if you’re already logged into Scrapinghub, but you’ll need to use HTTP authentication if you’re accessing it from command line or code."
+}

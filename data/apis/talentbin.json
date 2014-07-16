@@ -1,0 +1,16 @@
+{
+  "id": "talentbin",
+  "title": "TalentBin",
+  "link": "http://www.talentbin.com/developer",
+  "image": "http://www.talentbin.com/media/img/splash/sprite.png",
+  "author": {
+    "name": "TalentBin"
+  },
+  "tags": [
+    "Bottled",
+    "Interface",
+    "Search",
+    "Custom"
+  ],
+  "description": "The power of a boolean jet fighter bottled up into an easy-to-use interface, with visual boolean search, automated and custom query expansion rules, contact-channel search, and more."
+}

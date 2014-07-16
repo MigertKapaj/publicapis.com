@@ -1,0 +1,15 @@
+{
+  "id": "filmcrave",
+  "title": "FilmCrave",
+  "link": "http://www.filmcrave.com/api.php",
+  "image": "http://www.filmcrave.com/images/new_logo.jpg",
+  "author": {
+    "name": "FilmCrave.com"
+  },
+  "tags": [
+    "Beginner",
+    "Professional",
+    "Service"
+  ],
+  "description": "FilmCrave developed this Application Programming Interface (API) for free use. From beginner to professional, we’ve made it easy for anyone to tap into our services. Again, the FilmCrave API is free and allows for commercial use."
+}

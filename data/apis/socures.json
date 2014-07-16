@@ -1,0 +1,16 @@
+{
+  "id": "socures",
+  "title": "Socure’s",
+  "link": "http://www.socure.com/#API",
+  "image": "http://www.socure.com/images/socure-online-id-verification-fraud-detection-software.png",
+  "author": {
+    "name": "Socure"
+  },
+  "tags": [
+    "Endpoints",
+    "Service",
+    "Practice",
+    "Scaling"
+  ],
+  "description": "Our REST and SOAP API services are hosted at SSL-secured endpoints. We ensure non-repudiation and authorized access to our service. We also employ best practice horizontal infrastructure scaling and API bandwidth shaping techniques to meet our SLAs. Our services are also audited to ensure compliance."
+}

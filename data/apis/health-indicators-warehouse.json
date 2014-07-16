@@ -1,0 +1,15 @@
+{
+  "id": "health-indicators-warehouse",
+  "title": "Health Indicators Warehouse",
+  "link": "http://www.healthindicators.gov/Developers/",
+  "image": "http://www.healthindicators.gov/App_Themes/Default/Images/header_Sprite.png",
+  "author": {
+    "name": "Health Indicators Warehouse"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Designed"
+  ],
+  "description": "The Health Indicators Warehouse provides access to the underlying data through the use of an Application Programming Interface (API) which is designed to present information to systems with disparate architectures and technologies."
+}

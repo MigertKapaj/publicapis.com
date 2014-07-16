@@ -1,0 +1,15 @@
+{
+  "id": "wonderfl",
+  "title": "wonderfl ",
+  "link": "http://wonderfl.net/apis",
+  "image": "http://wonderfl.net/img/common/logo.png",
+  "author": {
+    "name": "wonderfl "
+  },
+  "tags": [
+    "Developers",
+    "Future",
+    "Post"
+  ],
+  "description": " Here are some things wonderfl API developers should know. <username> is the user id, which appears in urls like: http://wonderfl.net/user/<username> <codeid> is the code id, which appears in urls like: http://wonderfl.net/c/<codeid> All API methods are HTTP based. All of the API methods use HTTP GET methods for now. Future API methods might use POST or other methods."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "xnat",
+  "title": "Xnat",
+  "link": "https://wiki.xnat.org/dashboard.action",
+  "image": "https://wiki.xnat.org/download/attachments/327682/global.logo?version=1&amp;modificationDate=1338563357732&amp;api=v2",
+  "author": {
+    "name": "Xnat"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Visitors"
+  ],
+  "description": "All access to any XNAT site is restricted to valid users of the site. User accounts determine the data and pages which are accessible to visitors of the site."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "play.me",
+  "title": "Play.me",
+  "link": "http://lab.playme.com/termsofuseIT",
+  "image": "http://lab.playme.com/themes/api/logo.png",
+  "author": {
+    "name": "Play.me Lab"
+  },
+  "tags": [
+    "Request",
+    "Program",
+    "Service"
+  ],
+  "description": "The Play.me API is completely open and free to use for non-commercial uses, however you can request to be a part of our affiliate program if you're interested in creating a commercial music service."
+}

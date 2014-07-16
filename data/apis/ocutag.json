@@ -1,0 +1,16 @@
+{
+  "id": "ocutag",
+  "title": "Ocutag",
+  "link": "https://www.ocutag.com/documents/api",
+  "image": "https://www.ocutag.com/res/design2.0/images/ocutag-logo.png",
+  "author": {
+    "name": "Ocutag"
+  },
+  "tags": [
+    "Service",
+    "Recognition",
+    "Developer",
+    "MetaData"
+  ],
+  "description": "The Ocutag web service uses two sets of APIs: the Collection API and the Store API. Within the Collections API, there are two calls: one to get a list of collections, and one to access the image recognition service. Within the Store API, there’s only one call: to retrieve any metadata associated with the recognized image. To get started, register for the Ocutag service and get Developer Keys to authenticate API requests. for the Ocutag service and get Developer Keys to authenticate API requests."
+}

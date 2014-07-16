@@ -1,0 +1,16 @@
+{
+  "id": "sodahead",
+  "title": "SodaHead",
+  "link": "http://www.sodahead.com/partners/rest-api/",
+  "image": "http://images.sodahead.com/cms/0/0/0/0/0/0/6/1/7/SHlogo-Engage4.png",
+  "author": {
+    "name": "SodaHead"
+  },
+  "tags": [
+    "Data",
+    "Sources",
+    "Extension",
+    "Intelligence"
+  ],
+  "description": "Demographic data obtained from multiple sources including non PII audience extension tracking data from Lotame, the leader in audience intelligence data. "
+}

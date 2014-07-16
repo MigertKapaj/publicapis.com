@@ -1,0 +1,16 @@
+{
+  "id": "ripl",
+  "title": "RIPL",
+  "link": "http://www.ripl.com/developer/1/developer_tos.php",
+  "image": "http://www.ripl.com/images/s2/riplLogo.png",
+  "author": {
+    "name": "RIPL"
+  },
+  "tags": [
+    "Reporting",
+    "Afforded",
+    "Video",
+    "Music"
+  ],
+  "description": "RIPL makes it easy for partners to incorporate advanced social-media and reporting features into web sites and applications. With its extensive social API and the flexibility afforded by its javascript library, RIPL can help deliver on a wide range of business objectives in distribution, discovery and analytics for video, music, ads and merchandise."
+}

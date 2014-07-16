@@ -1,0 +1,15 @@
+{
+  "id": "dkcoin",
+  "title": "dkCOIN",
+  "link": "http://www.dkcoin.org/documentation/searchkeyword",
+  "image": "http://www.dkcoin.org/images/dkCOIN_r03C_r02.png",
+  "author": {
+    "name": "dkCOIN"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Publicly"
+  ],
+  "description": "Data published to dkCOIN is publicly accessible. You can search the database using this website or you can access the data programmatically using our SOAP service. The SOAP service has the following publicly available actions."
+}

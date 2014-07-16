@@ -1,0 +1,16 @@
+{
+  "id": "brennan-novak",
+  "title": "Brennan Novak",
+  "link": "https://emoo.me/api",
+  "image": "",
+  "author": {
+    "name": "Brennan Novak"
+  },
+  "tags": [
+    "Support",
+    "Post",
+    "Put",
+    "Delete"
+  ],
+  "description": "Brennan Novak has a standard REST API that supports GET, POST, PUT, and DELETE methods."
+}

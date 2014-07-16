@@ -1,0 +1,15 @@
+{
+  "id": "court-listner",
+  "title": "Court Listner",
+  "link": "https://www.courtlistener.com/api/rest-info/",
+  "image": "https://www.courtlistener.com/static/png/logo.png",
+  "author": {
+    "name": "Courtlistener"
+  },
+  "tags": [
+    "Developers",
+    "Provide",
+    "Data"
+  ],
+  "description": "For developers that wish to have a more granular API for our data, we provide a RESTful API based on the tastypie toolkit. "
+}

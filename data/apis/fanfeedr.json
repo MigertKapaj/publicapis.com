@@ -1,0 +1,16 @@
+{
+  "id": "fanfeedr",
+  "title": "FanFeedr",
+  "link": "http://developer.fanfeedr.com/page/Image_API",
+  "image": "http://developer.fanfeedr.com/files/FanFeedr_API_logo_FULL.png",
+  "author": {
+    "name": "FanFeedr"
+  },
+  "tags": [
+    "Affordable",
+    "League",
+    "Provids",
+    "Economical"
+  ],
+  "description": "Partnering with Getty Images, FanFeedr is now offering images for customers seeking an affordable content provision solution.Getty provides a robust number of photos for nearly every entity in sports. From a league to an athlete, the Image API solution provides photos to supplement your website or application in a meaningful way. We offer different packages to provide customers with economical options to meet their needs, but do not provide free content in contrast to our regular API."
+}

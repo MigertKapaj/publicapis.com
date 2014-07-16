@@ -1,0 +1,15 @@
+{
+  "id": "yandex",
+  "title": "Yandex",
+  "link": "http://api.yandex.com/rca/doc/dg/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3DngKXlxGhX8MbX-007X-A0taahawi488QRQ9P9O1oCgmiEb4",
+  "author": {
+    "name": "Yandex"
+  },
+  "tags": [
+    "Services",
+    "Regular",
+    "Content"
+  ],
+  "description": "The Yandex Rich Content API is essential for any services that work with web pages. If your users are exchanging links on a regular basis, the API will give you the ability to let them find out about the content of a web page without leaving your service."
+}

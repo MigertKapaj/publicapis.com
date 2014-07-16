@@ -1,0 +1,16 @@
+{
+  "id": "trackingo",
+  "title": "Trackingo",
+  "link": "http://www.trackingo.com/api",
+  "image": "http://www.trackingo.com/images/logo.png",
+  "author": {
+    "name": "Trackingo"
+  },
+  "tags": [
+    "Retrieve",
+    "Insert",
+    "Probably",
+    "Significantly"
+  ],
+  "description": "As you see, the API is very basic: you only can retrieve and insert information. Nothing about edit or delete. In future versions of this API probably the number of methods will increase significantly."
+}

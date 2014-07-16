@@ -1,0 +1,16 @@
+{
+  "id": "mediacore",
+  "title": "MediaCore",
+  "link": "http://mediacore.com/docs/",
+  "image": "http://developers.mediacore.com/docs/_static/logo.png",
+  "author": {
+    "name": "MediaCore"
+  },
+  "tags": [
+    "Video",
+    "Education",
+    "Institution",
+    "Real"
+  ],
+  "description": "MediaCore’s powerful video platform for education can help any institution easily capture, manage and share educational content that drives real learning results."
+}

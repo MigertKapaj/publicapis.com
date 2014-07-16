@@ -1,0 +1,13 @@
+{
+  "id": "beschreibung",
+  "title": "Beschreibung",
+  "link": "http://blogpingr.de/api/",
+  "image": "http://blogpingr.de/public/images/logo.png",
+  "author": {
+    "name": "BlogPingr"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

@@ -1,0 +1,16 @@
+{
+  "id": "esendex",
+  "title": "Esendex",
+  "link": "http://developers.esendex.com/APIs/REST-API",
+  "image": "http://developers.esendex.com/sites/all/themes/EsendexDevelopers/images/esendex-logo.jpg",
+  "author": {
+    "name": "Esendex"
+  },
+  "tags": [
+    "Basics",
+    "Programming",
+    "Paging",
+    "Status"
+  ],
+  "description": "Describes the basics of programming with our REST API including authentication, paging and common HTTP status codes the API uses. "
+}

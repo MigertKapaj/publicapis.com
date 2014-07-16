@@ -1,0 +1,16 @@
+{
+  "id": "typepad",
+  "title": "TypePad",
+  "link": "http://www.typepad.com/services/apidocs/authentication",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSQiYqsDysrtiDG2Zlmc2obbUeGZAD0Cng8YMi1YL3Gf_7kjhuj",
+  "author": {
+    "name": "TypePad"
+  },
+  "tags": [
+    "Provides",
+    "Developers",
+    "Stored",
+    "Infrastructure"
+  ],
+  "description": "TypePad's JSON-based API provides an interface for client developers to interact with content stored on TypePad, and to build new applications on top of TypePad's infrastructure. "
+}

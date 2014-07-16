@@ -1,0 +1,15 @@
+{
+  "id": "catch-a-cab",
+  "title": "Catch-A-Cab",
+  "link": "https://www.catch-a-cab.com/partner-api.html",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS2M_yu75KLuIIjTIukDvuNCNtntapBtxQQLay-8peyQa5nY5hx",
+  "author": {
+    "name": "Catch-A-Cab"
+  },
+  "tags": [
+    "Share",
+    "Revenue",
+    "Bookings"
+  ],
+  "description": "Add our API on your website and share revenue obtained from minicab or private hire bookings. We will work with your developers to easily integrate and support our API on your website"
+}

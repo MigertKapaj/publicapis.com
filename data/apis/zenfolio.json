@@ -1,0 +1,16 @@
+{
+  "id": "zenfolio",
+  "title": "Zenfolio",
+  "link": "http://www.zenfolio.com/zf/tools/api.aspx",
+  "image": "http://cdn.zenfolio.net/zf/img/site/zenfolio-logo-w.png",
+  "author": {
+    "name": "Zenfolio"
+  },
+  "tags": [
+    "Implement",
+    "Website",
+    "Publishing",
+    "Tools"
+  ],
+  "description": "The Zenfolio API can be used by anyone to implement virtually any application using Zenfolio as a service. Think of photo browsers, plug-ins to image editing applications, synchronization utilities, screen savers, OS shell integration, website publishing tools, and more. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sugarsync",
+  "title": "SugarSync",
+  "link": "https://www.sugarsync.com/developer",
+  "image": "https://www.sugarsync.com/images/developer/logo-ss_dev.png",
+  "author": {
+    "name": "SugarSync"
+  },
+  "tags": [
+    "Online",
+    "Cloud",
+    "Access",
+    "Mobile"
+  ],
+  "description": "At SugarSync, we provide exceptional online backup, cloud storage, and file syncing to millions of users. In addition, our mobile apps offer our users unprecedented access to files and photos from their mobile devices.\nWith the free SugarSync Platform API, your users can reach all the way to the cloud to access their files from any of their computers. Cloud-enable your web, mobile, or desktop application with SugarSync's easy to implement API."
+}

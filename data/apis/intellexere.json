@@ -1,0 +1,15 @@
+{
+  "id": "intellexere",
+  "title": "Intellexere",
+  "link": "http://www.intellexere.com/en/ikb/api/nlp/ner/v1/nlp-named-entity-recognition-ner-api-v1-snippet-java",
+  "image": "http://www.intellexere.com/en/media/images/wwwshared/shared/logo.png",
+  "author": {
+    "name": "Intellexere"
+  },
+  "tags": [
+    "Technologies",
+    "Data",
+    "Service"
+  ],
+  "description": "Intellexere provides a comprehensive set of technologies and tools for Big Data Text Analytics. Intellexere is available either as Software-as-a-Service (SaaS) or through the On-Premise deployment option."
+}

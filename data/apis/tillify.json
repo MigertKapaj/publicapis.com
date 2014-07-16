@@ -1,0 +1,15 @@
+{
+  "id": "tillify",
+  "title": "Tillify",
+  "link": "http://www.tillify.com/api",
+  "image": "http://2.bp.blogspot.com/-ksgXcoB3iGQ/Tx5jXRCQO6I/AAAAAAAAADM/uviIvI1kFbg/s1600/tillify.PNG",
+  "author": {
+    "name": "Tillify"
+  },
+  "tags": [
+    "Sharing",
+    "Devices",
+    "Directly"
+  ],
+  "description": "Tillify lets you create a store-front for anything in minutes. By sharing your store's domain, or location, other devices can send transactions at point-of-sale directly to your checkout. It's e-commerce, but point-of-sale."
+}

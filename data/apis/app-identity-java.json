@@ -1,0 +1,15 @@
+{
+  "id": "app-identity-java",
+  "title": "App Identity Java",
+  "link": "https://developers.google.com/appengine/docs/java/appidentity/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Code",
+    "Application",
+    "Identity"
+  ],
+  "description": "Code sometimes needs to determine the identifier of the application in which it is executing. This may be to generate a URL or email address, or possibly to make some run-time decision. App Engine includes an Application Identity service for this purpose."
+}

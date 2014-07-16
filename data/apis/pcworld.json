@@ -1,0 +1,15 @@
+{
+  "id": "pcworld",
+  "title": "PCWorld",
+  "link": "http://api.gamepro.com",
+  "image": "http://csmb.staticworld.net/images/furniture/techhive/logo-banner-pcworld-sm-pm.png",
+  "author": {
+    "name": "PCWorld"
+  },
+  "tags": [
+    "Navigate",
+    "Products",
+    "Advice"
+  ],
+  "description": "PCWorld helps you navigate the PC ecosystem to find the products you want and the advice you need to get the job done."
+}

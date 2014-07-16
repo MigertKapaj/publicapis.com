@@ -1,0 +1,15 @@
+{
+  "id": "sosius",
+  "title": "Sosius",
+  "link": "http://my.sosius.com/ww/developer/api/",
+  "image": "http://my.sosius.com/ww/themes/6/images/banner.png",
+  "author": {
+    "name": "Sosius"
+  },
+  "tags": [
+    "Provides",
+    "Contained",
+    "Associated"
+  ],
+  "description": "Welcome to the Sosius API. The API provides a RESTful interface into many of the objects contained within the application. The API will allow you to read, edit, delete and create items and associated objects on which you have permissions."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "textcaptcha",
+  "title": "textCAPTCHA",
+  "link": "http://textcaptcha.com/how_it_works",
+  "image": "http://www.programmableweb.com/images/apis/at5424.png",
+  "author": {
+    "name": "textCAPTCHA"
+  },
+  "tags": [
+    "Account",
+    "Identifier",
+    "Password",
+    "Testing"
+  ],
+  "description": "When you sign up for your own account, you are provided with a unique API key. This key is your unique identifier for this site, like a password. For testing purposes you can use the API key \"demo\" which will serve a limited subset of questions."
+}

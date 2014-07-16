@@ -1,0 +1,13 @@
+{
+  "id": "seo-checker",
+  "title": "SEO Checker",
+  "link": "https://www.mashape.com/markus-perl/seo-checker",
+  "image": "",
+  "author": {
+    "name": "markus perl"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The API can analyze a given text for it's seo validity and can give you tips how to optimize the article to get a better search engine ranking. The API is still beta. Please report any bugs to markus@www-factory.de"
+}

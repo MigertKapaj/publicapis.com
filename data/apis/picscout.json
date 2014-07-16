@@ -1,0 +1,17 @@
+{
+  "id": "picscout",
+  "title": "PicScout",
+  "link": "http://www.picscout.com/platform/",
+  "image": "http://www.picscout.com/wp-content/themes/picscout/img/logo.png",
+  "author": {
+    "name": "PicScout"
+  },
+  "tags": [
+    "Leader",
+    "Identification",
+    "Images",
+    "Accessible",
+    "Protected"
+  ],
+  "description": "The PicScout Platform is the industry leader in commercial image identification technology. Our registry houses 140 million premium images from more than 200 content providers. Content providers can upload premium images to the PicScout Platform to ensure they are accessible and protected by the PicScout-powered tools."
+}

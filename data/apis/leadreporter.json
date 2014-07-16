@@ -1,0 +1,13 @@
+{
+  "id": "leadreporter",
+  "title": " Leadreporter ",
+  "link": "http://www.leadreporter.com/api/",
+  "image": "http://www.leadreporter.com/images/logo.png",
+  "author": {
+    "name": " Leadreporter "
+  },
+  "tags": [
+    ""
+  ],
+  "description": "In order to utilise our API functionality, an account administrators must first create a web service user in their system. This can be done in the same way as adding any other type of user:\nClick on the Settings link on the top menuClick on the Company/User Management link in the settings page.Click the Add User button.When creating the new user, make sure the User Type is set to Web Service."
+}

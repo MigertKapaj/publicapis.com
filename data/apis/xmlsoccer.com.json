@@ -1,0 +1,15 @@
+{
+  "id": "xmlsoccer.com",
+  "title": "XMLSOCCER.COM",
+  "link": "http://www.xmlsoccer.com",
+  "image": "http://www.xmlsoccer.com/images/logo.gif",
+  "author": {
+    "name": "XMLSOCCER.COM"
+  },
+  "tags": [
+    "Data",
+    "Provide",
+    "Service"
+  ],
+  "description": "We are specialised in providing a cheap and stable machine-readable data-feed from our always up to date database. We always provide one league free of charge (simply register and you are ready to go) so you can test our service, and start developing your projects using our extensive database TODAY!"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "movieposterdb",
+  "title": "MoviePosterDB",
+  "link": "http://api.movieposterdb.com/console?type=JSON&api_key=demo&secret=demo&imdb_code=&title=&width=100",
+  "image": "http://api.movieposterdb.com/images/api_logo.png",
+  "author": {
+    "name": "MoviePosterDB"
+  },
+  "tags": [
+    "Stopped",
+    "Posters",
+    "App"
+  ],
+  "description": "As of September 27th we stopped our anonymous API (the json.inc.php and image.inc.php files). If you were a user of one of these and want to continue using posters from MoviePosterDB on your own site/app, you can request an API key by contacting us."
+}

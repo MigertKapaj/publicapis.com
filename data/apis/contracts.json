@@ -1,0 +1,14 @@
+{
+  "id": "contracts",
+  "title": "Contracts",
+  "link": "http://developers.odesk.com/w/page/46842954/Contracts%20API",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Contracts",
+    "Existent"
+  ],
+  "description": "The End Contracts API allows you to close existent contracts."
+}

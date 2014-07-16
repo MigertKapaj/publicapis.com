@@ -1,0 +1,16 @@
+{
+  "id": "parse",
+  "title": "Parse",
+  "link": "https://www.parse.com/docs/rest",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoQvsTXR7Hy7ixO3unBCqQIvUN2Vv7d6AU16mTY3o3360T4_Mt",
+  "author": {
+    "name": "Parse"
+  },
+  "tags": [
+    "Scalable",
+    "Management",
+    "Integration",
+    "Data"
+  ],
+  "description": "Parse, you can add a scalable and powerful backend in minutes and launch a full-featured app in record time without ever worrying about server management. We offer push notifications, social integration, data storage, and the ability to add rich custom logic to your app’s backend with Cloud Code."
+}

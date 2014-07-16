@@ -1,0 +1,16 @@
+{
+  "id": "the-storify",
+  "title": "The Storify",
+  "link": "http://dev.storify.com/api/summary",
+  "image": "",
+  "author": {
+    "name": " Storify"
+  },
+  "tags": [
+    "Information",
+    "Public",
+    "Storify",
+    "Stories"
+  ],
+  "description": "The Storify API allows you to get all the information about any public story or any public user on Storify. We also offer a write API that allows you to update or create new stories."
+}

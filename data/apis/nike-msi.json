@@ -1,0 +1,15 @@
+{
+  "id": "nike-msi",
+  "title": "Nike MSI",
+  "link": "http://nikemsiapi.nikebetterworld.com/",
+  "image": "",
+  "author": {
+    "name": "NMSI"
+  },
+  "tags": [
+    "Product",
+    "Footwear",
+    "Apparel"
+  ],
+  "description": "The Nike Materials Sustainability Index is a tool to help product creation teams select environmentally better footwear and apparel materials from better suppliers."
+}

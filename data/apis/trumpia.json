@@ -1,0 +1,16 @@
+{
+  "id": "trumpia",
+  "title": "Trumpia",
+  "link": "http://trumpia.com/main/developer_api.php",
+  "image": "http://trumpia.com/images/main_120424/logo_t3.png",
+  "author": {
+    "name": "Trumpia"
+  },
+  "tags": [
+    "Messaging",
+    "Robust",
+    "Reliability",
+    "Security"
+  ],
+  "description": "Each business is different with unique needs and goals. That’s why we’ve opened our industry-leading messaging platform through application programming interfaces (APIs). Backed by a robust infrastructure designed for reliability, scalability, and security, our APIs provide powerful and efficient ways of integrating our features with your services and applications.\n                "
+}

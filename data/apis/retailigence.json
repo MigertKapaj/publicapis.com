@@ -1,0 +1,15 @@
+{
+  "id": "retailigence",
+  "title": "Retailigence",
+  "link": "http://www.retailigence.com/developers/",
+  "image": "http://www.retailigence.com/images/retailigencelogo.png",
+  "author": {
+    "name": "Retailigence"
+  },
+  "tags": [
+    "Integrate",
+    "Developers",
+    "Data"
+  ],
+  "description": "The Retailigence API is versatile enough to integrate into a wide variety of applications. Check out our App Network page to see how developers are already using our data."
+}

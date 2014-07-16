@@ -1,0 +1,15 @@
+{
+  "id": "historical-currency-converter",
+  "title": "Historical currency converter",
+  "link": "http://currencies.apps.grandtrunk.net/",
+  "image": "",
+  "author": {
+    "name": "Historical currency converter"
+  },
+  "tags": [
+    "Exchange",
+    "Currently",
+    "Settings"
+  ],
+  "description": "This web service allows you to programmatically query a historical exchange rate for a number of currencies, from January 1971 onwards, using exchange rates from the Federal Reserve and European Central Bank (ECB). It is currently free for use in low-volume and non-commercial settings. "
+}

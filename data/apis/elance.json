@@ -1,0 +1,16 @@
+{
+  "id": "elance",
+  "title": "Elance",
+  "link": "https://www.elance.com/q/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUFaXzelheSTjqRqeqe9QMTQhngB8NO_B9BsCQqcL9wIY0OICB6g",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "Developer",
+    "Interface",
+    "Provider",
+    "Consuming"
+  ],
+  "description": "The Elance Developer API exposes the power of the Elance system through a simple, Web-based interface that can be called from any application platform. Using the Elance API, you can obtain profile data for providers, search our database of available jobs, and obtain listings of groups and their members. All that is required is an account on our system, and an API key (available upon request). Our documentation will tell you everything you need to know to begin consuming the API on your development platform of choice."
+}

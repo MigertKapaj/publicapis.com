@@ -1,0 +1,15 @@
+{
+  "id": "ebt",
+  "title": "EBT",
+  "link": "http://api.eurobilltracker.com/index.html",
+  "image": "",
+  "author": {
+    "name": "EBT"
+  },
+  "tags": [
+    "Authenticate",
+    "Acquired",
+    "Provide"
+  ],
+  "description": "This functionality is only available to registered and logged in EBT users. You have to authenticate in order to use any of these API methods. Use the login API method and provide the acquired session ID to all further calls. If the call fails (e.g. when the authentication check fails) the API will return a plain false."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "ign",
+  "title": "IGN",
+  "link": "http://api.ign.fr/documentation/86/ajout-des-cles-d-acces-dans-l-api",
+  "image": "http://api.ign.fr/themes/api/img/design/header/api/logo.png",
+  "author": {
+    "name": "IGN"
+  },
+  "tags": [
+    "Services",
+    "Referer"
+  ],
+  "description": "Afin d'accéder aux ressources et services du Geoportail à travers les droits fournis par les clés d'accès, il est nécessaire de spécifier ces clés à l'API.Les clé d'accès sont soumises à un contrôle du header Referer pour toute requête envoyée vers un service du Géoportail."
+}

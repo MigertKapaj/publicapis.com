@@ -1,0 +1,16 @@
+{
+  "id": "gatorurl",
+  "title": "GatorURL",
+  "link": "http://www.programmableweb.com/api/gatorurl",
+  "image": "http://www.programmableweb.com/images/logo2.png",
+  "author": {
+    "name": "ProgrammableWeb"
+  },
+  "tags": [
+    "Service",
+    "Return",
+    "Additional",
+    "Data"
+  ],
+  "description": "GatorURL is a URL shortening service that takes an input of a long URL and returns a short URL. The GatorURL API is a RESTful API and can either return just a plain-text short URL or it can return a JSON array that contains the short URL along with some additional data, such as if the URL already exists in the GatorURL database."
+}

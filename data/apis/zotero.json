@@ -1,0 +1,15 @@
+{
+  "id": "zotero",
+  "title": "Zotero",
+  "link": "http://www.zotero.org/support/dev/start",
+  "image": "https://www.zotero.org/static/images/theme/zotero.png",
+  "author": {
+    "name": "Zotero"
+  },
+  "tags": [
+    "Contribute",
+    "Diffuculty",
+    "Further"
+  ],
+  "description": "Zotero is an open source tool, and we welcome anyone who would like to contribute. Programming experience is not always required! Below are the different parts of the Zotero ecosystem, as well as the estimated technical difficulty and the required skills for contributing. Each area has its own starting page with further details. "
+}

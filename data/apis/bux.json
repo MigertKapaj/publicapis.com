@@ -1,0 +1,15 @@
+{
+  "id": "bux",
+  "title": "Bux",
+  "link": "http://www.buxville.net/xf/wiki/buxapi/",
+  "image": "http://www.buxville.net/xf/styles/aurora/xenforo/buxlogos/6.png",
+  "author": {
+    "name": "Buxville"
+  },
+  "tags": [
+    "Receive",
+    "Derectly",
+    "Data"
+  ],
+  "description": "Buxville has its own API, using XML-RPC. Any player with a good idea can receive a private API key, and can then write an application or interface, which can pull data directly from Buxville's database."
+}

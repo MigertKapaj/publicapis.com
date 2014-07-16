@@ -1,0 +1,16 @@
+{
+  "id": "amazon-cloudfront",
+  "title": "Amazon CloudFront ",
+  "link": "http://aws.amazon.com/cloudfront/",
+  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Service",
+    "Developers",
+    "Data",
+    "Speeds"
+  ],
+  "description": "Amazon CloudFront is a content delivery web service. It integrates with other Amazon Web Services to give developers and businesses an easy way to distribute content to end users with low latency, high data transfer speeds, and no commitments."
+}

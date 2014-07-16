@@ -1,0 +1,16 @@
+{
+  "id": "officerecovery",
+  "title": "Officerecovery",
+  "link": "https://online.officerecovery.com/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSEhtWqoqeuBCg-wb2w9uInvZmBpri4xSV_hj81Okj6lFVgdxsbeA",
+  "author": {
+    "name": "OfficeRecovery"
+  },
+  "tags": [
+    "Online",
+    "Service",
+    "Resource",
+    "Data"
+  ],
+  "description": "OfficeRecovery Web API provides functionality to embed OfficeRecovery Online service to other sites and to use service resources for remote recovery of corrupted data."
+}

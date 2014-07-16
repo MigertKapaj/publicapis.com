@@ -1,0 +1,16 @@
+{
+  "id": "family-graph",
+  "title": "Family Graph",
+  "link": "http://www.familygraph.com/",
+  "image": "http://d.mhcache.com/FP/Assets/Images/FamilyGraph/DevSite_Sprite.png?v=4",
+  "author": {
+    "name": "MyHeritage Family Graph"
+  },
+  "tags": [
+    "Web",
+    "Service",
+    "Enjoy",
+    "Network"
+  ],
+  "description": "Welcome to the Family Graph by MyHeritage.com, the primary API on the web for family connections. Use the API to family-enable any app or service and enjoy the global reach of MyHeritage.com’s gigantic family network."
+}

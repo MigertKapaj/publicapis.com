@@ -1,0 +1,16 @@
+{
+  "id": "javascript-maps",
+  "title": "          JavaScript Maps",
+  "link": "http://developer.mapquest.com/web/products/featured/javascript",
+  "image": "http://developer.mapquest.com/DevNet-Rebrand2-theme/html/themes/mq_theme/images/mq_images/mqlogo.png",
+  "author": {
+    "name": "MapQuest"
+  },
+  "tags": [
+    "Map",
+    "Direction",
+    "Traffic",
+    "Search"
+  ],
+  "description": "This is your source for information and resources available for adding a map, driving directions, traffic, search, geocoding and more to your application using the JavaScript Maps API. Here you can explore our tutorials, documentation and samples built specifically for JavaScript. If you're looking for another language, please visit the Licensed Data APIs overview page."
+}

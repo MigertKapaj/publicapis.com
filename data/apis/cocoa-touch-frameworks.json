@@ -1,0 +1,16 @@
+{
+  "id": "cocoa-touch-frameworks",
+  "title": "Cocoa Touch frameworks",
+  "link": "https://developer.apple.com/technologies/ios/cocoa-touch.html",
+  "image": "https://devimages.apple.com.edgekey.net/assets/elements/header/developer.png",
+  "author": {
+    "name": "Apple Developer"
+  },
+  "tags": [
+    "Patterns",
+    "Interfaces",
+    "Provides",
+    "Graphical"
+  ],
+  "description": "The Cocoa Touch frameworks that drive iOS apps share many proven patterns found on the Mac, but were built with a special focus on touch-based interfaces and optimization. UIKit provides the basic tools you need to implement graphical, event-driven applications in iOS."
+}

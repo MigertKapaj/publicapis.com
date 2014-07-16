@@ -1,0 +1,16 @@
+{
+  "id": "the-space",
+  "title": "the Space",
+  "link": "http://spaceapi.net/",
+  "image": "http://spaceapi.net/c/images/spaceapi-logo.png",
+  "author": {
+    "name": "the Space"
+  },
+  "tags": [
+    "Define",
+    "Hackerspaces",
+    "Information",
+    "Web"
+  ],
+  "description": "The purpose of the Space API is to define a unified specification across the hackerspaces that can be used to expose information to web apps or any other application.\n        "
+}

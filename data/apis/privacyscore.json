@@ -1,0 +1,15 @@
+{
+  "id": "privacyscore",
+  "title": "privacyscore",
+  "link": "http://privacyscore.com/signup",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2IB__Wktc6HfANbhh2KRFRZgrzxhtbp_Fbz21XDlGCjpUeFOz",
+  "author": {
+    "name": "privacyscore"
+  },
+  "tags": [
+    "Data",
+    "Companies",
+    "Automatically"
+  ],
+  "description": "Request consent from your users for the use of cookies by your site and by ad and data companies.  With the privacyscore API, the list of tracking companies is updated automatically."
+}

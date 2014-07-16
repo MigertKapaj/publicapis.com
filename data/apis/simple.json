@@ -1,0 +1,16 @@
+{
+  "id": "simple",
+  "title": "Simple",
+  "link": "http://www.usetrackthis.com/developers",
+  "image": "http://www.usetrackthis.com/img/logo.gif",
+  "author": {
+    "name": "Trackthis"
+  },
+  "tags": [
+    "Working",
+    "Tool",
+    "Easiest",
+    "Package"
+  ],
+  "description": "If you're working on a simple widget or tool the simple API is the easiest way to add a package."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "the-airport-guide",
+  "title": "the-airport-guide",
+  "link": "http://www.the-airport-guide.com/apifaq.php",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjKcuOa4hQbAhaOA5KjOoSZpcuvUocKGYvH0ODK_nuUEfc7GLy",
+  "author": {
+    "name": "TAG"
+  },
+  "tags": [
+    "Service",
+    "Designed",
+    "Information",
+    "Developers"
+  ],
+  "description": "The-airport-guide.com SOAP API service is designed to find and pass airport information to developers through the web."
+}

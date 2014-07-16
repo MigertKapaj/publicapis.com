@@ -1,0 +1,15 @@
+{
+  "id": "lelylan",
+  "title": "Lelylan",
+  "link": "http://lelylan.com/features/#services",
+  "image": "http://d1mldq8d5glkzj.cloudfront.net/assets/circles.png",
+  "author": {
+    "name": "Lelylan"
+  },
+  "tags": [
+    "Connected",
+    "Mobile",
+    "Glasses"
+  ],
+  "description": "Lelylan offers an open API for the connected home. Whether or not you want to build an app for web, mobile, voice, glasses, etc. "
+}

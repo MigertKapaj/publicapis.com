@@ -1,0 +1,15 @@
+{
+  "id": "accountingsuite",
+  "title": "AccountingSuite",
+  "link": "http://developer.accountingsuite.com/",
+  "image": "http://developer.accountingsuite.com/",
+  "author": {
+    "name": "AccountingSuite"
+  },
+  "tags": [
+    "Designed",
+    "Capabilities",
+    "Response"
+  ],
+  "description": "AccountingSuite API (preview) is designed to enable industry-standard integration capabilities. The API is organized around RESTful principles. JSON is used for request and response data transfer, including errors."
+}

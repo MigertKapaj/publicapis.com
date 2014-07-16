@@ -1,0 +1,15 @@
+{
+  "id": "curebit",
+  "title": "Curebit",
+  "link": "http://docs.curebit.com/api_v2/intro.html",
+  "image": "http://docs.curebit.com/_static/img/logo.png",
+  "author": {
+    "name": "Curebit"
+  },
+  "tags": [
+    "Responds",
+    "Codes",
+    "Errors"
+  ],
+  "description": "The Curebit API is built on HTTP. Our API is RESTful, returns JSON and responds with standard HTTP response codes to indicate errors."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "real-time",
+  "title": "Real Time",
+  "link": "http://wcities.com/technical-services/",
+  "image": "http://wcities.com/wp-content/themes/wcities/images/sprites.png",
+  "author": {
+    "name": "wcities "
+  },
+  "tags": [
+    "Web",
+    "Mobile",
+    "Embeded devices"
+  ],
+  "description": "wcities provides industry standard REST-ful API with XML, JSON, JSONP. GeoRSS and GeoJSON support for it’s content products (Venues, Events and Movies). The API is highly scalable to meet millions of hits from Web, Mobile and Embedded devices. Encourage your users to add content via wcities Network through our extensive UGC API ."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "gnteam",
+  "title": "gnTEAM",
+  "link": "http://gnode1.mib.man.ac.uk/index.html",
+  "image": "http://gnode1.mib.man.ac.uk/css/header.jpg?z=4575",
+  "author": {
+    "name": "gnTEAM"
+  },
+  "tags": [
+    "Extraction",
+    "Documents",
+    "Sciences"
+  ],
+  "description": "Our research TEAM investigates methodologies for the extraction of both explicit and implicit knowledge from large collections of textual documents, in particular in the domains of life sciences and health-care."
+}

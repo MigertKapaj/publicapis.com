@@ -1,0 +1,16 @@
+{
+  "id": "postalmethods",
+  "title": "PostalMethods",
+  "link": "http://www.postalmethods.com/",
+  "image": "http://www.postalmethods.com/files/postalmethods_logo.png",
+  "author": {
+    "name": "PostalMethods"
+  },
+  "tags": [
+    "Send",
+    "Application",
+    "Envoirnments",
+    "Libraries"
+  ],
+  "description": "The PostalMethods Web-to-Postal API allows developers to easily send \npostal letters (snail mail) from applications.  The service may be \naccessed from all common development environments through standard SOAP \nlibraries. Native SOAP libraries, as well as third-party libraries, are \navailable for Java, .NET, ASP, PHP, Perl, ColdFusion"
+}

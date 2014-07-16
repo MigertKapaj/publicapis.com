@@ -1,0 +1,16 @@
+{
+  "id": "searchmetrics",
+  "title": "Searchmetrics",
+  "link": "http://api.searchmetrics.com/start#query-optimization",
+  "image": "http://api.searchmetrics.com/images/logo.png",
+  "author": {
+    "name": "Searchmetrics"
+  },
+  "tags": [
+    "Suite",
+    "Enrich",
+    "Smart",
+    "Tools"
+  ],
+  "description": "With the Searchmetrics API it is now possible for Suite customers to enrich their own applications with Searchmetrics data easily. Whatever you want to build: smart, automated reports, innovative research tools, mobile apps, web services, browser toolbars - your developers will love our API."
+}

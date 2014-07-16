@@ -1,0 +1,13 @@
+{
+  "id": "openaid",
+  "title": "Openaid",
+  "link": "http://openaid.se/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuE7lrr1Ty0kBE6Cewlu4O8i44tAEOoX9H5LTUZCITJEnqaRKk9Q",
+  "author": {
+    "name": "Openaid"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Openaid.se handlar i första hand om transparens och öppenhet. För att i konkreta steg realisera de målsättningar som uttrycks i transparensgarantin, och skapa en möjlighet för externa aktörer att förädla och bygga vidare på det öppenhetsarbete som inletts av UD och Sida, är därför ett öppet API en central del av projektet."
+}

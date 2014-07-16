@@ -1,0 +1,16 @@
+{
+  "id": "orders",
+  "title": "ORDERS",
+  "link": "http://www.mals-e.com/tpv.php?tp=35",
+  "image": "http://www.mals-e.com/template/images/head-sprite.png",
+  "author": {
+    "name": "mals"
+  },
+  "tags": [
+    "XML",
+    "Web",
+    "Service",
+    "Premium"
+  ],
+  "description": "The order API (Application Programming Interface) is implemented as an XML based webservice.  \nThis service only available to Premium accounts."
+}

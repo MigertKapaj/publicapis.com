@@ -1,0 +1,16 @@
+{
+  "id": "device-administration",
+  "title": "Device Administration",
+  "link": "http://developer.android.com/guide/topics/admin/device-admin.html#overview",
+  "image": "http://developer.android.com/assets/images/dac_logo.png",
+  "author": {
+    "name": "Device Administration"
+  },
+  "tags": [
+    "Administration",
+    "Provides",
+    "Enterprise",
+    "Devices"
+  ],
+  "description": "Android 2.2 introduces support for enterprise applications by offering the Android Device Administration API. The Device Administration API provides device administration features at the system level.  These APIs allow you to createsecurity-aware applications that are useful in enterprise settings, in which ITprofessionals require rich control over employee devices"
+}

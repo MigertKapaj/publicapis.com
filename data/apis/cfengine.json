@@ -1,0 +1,15 @@
+{
+  "id": "cfengine",
+  "title": "CFEngine",
+  "link": "http://cfengine.com/enterprise",
+  "image": "https://cfengine.com/docs/3.5/media/images/logo.png",
+  "author": {
+    "name": "CFEngine"
+  },
+  "tags": [
+    "System",
+    "Desired",
+    "Policies"
+  ],
+  "description": "CFEngine is a configuration management system that enables system administrators to define the desired end states of IT-systems throughout their organizations. The desired state is expressed through policies written using the CFEngine policy language."
+}

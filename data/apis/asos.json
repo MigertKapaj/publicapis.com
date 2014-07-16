@@ -1,0 +1,16 @@
+{
+  "id": "asos",
+  "title": "ASOS ",
+  "link": "http://developer.asos.com/docs",
+  "image": "http://developer.asos.com/public/Mashery/images/clients/asos//logo.png",
+  "author": {
+    "name": "ASOS "
+  },
+  "tags": [
+    "Fashion",
+    "Beauty",
+    "Accessories",
+    "Services"
+  ],
+  "description": "ASOS is a global online fashion and beauty retailer aimed at fashion forward 16-34 year olds. We stock over 50,000 branded and own label product lines across womenswear, menswear, footwear, accessories, jewellery and beauty. We add approximately 1,500 new product lines every week.  Our API enables you access to ASOS Product data and basket (cart) services. \n"
+}

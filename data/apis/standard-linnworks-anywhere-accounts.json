@@ -1,0 +1,16 @@
+{
+  "id": "standard-linnworks-anywhere-accounts",
+  "title": "Standard Linnworks Anywhere accounts",
+  "link": "http://www.linnworks.com/doc/API_Basics",
+  "image": "http://www.linnworks.com/img/logo.png",
+  "author": {
+    "name": " Linnworks"
+  },
+  "tags": [
+    "Data",
+    "Functional",
+    "Web",
+    "WSDL"
+  ],
+  "description": "SOAP (Simple Object Access Protocol) is XML- based Web services. Linnworks Anywhere exposes the data and some functional elements of the system via XML-based web services. We use standard SOAP web service and have exposed following WSDL"
+}

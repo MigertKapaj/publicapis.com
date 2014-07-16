@@ -1,0 +1,16 @@
+{
+  "id": "sitepal",
+  "title": "SitePal",
+  "link": "http://www.sitepal.com/api/",
+  "image": "http://www.sitepal.com/images/header/logo-and-tagline-sitepal.gif",
+  "author": {
+    "name": "SitePal"
+  },
+  "tags": [
+    "Powerful",
+    "Advanced",
+    "Explore",
+    "Capabilities"
+  ],
+  "description": "SitePal offers 3 powerful sets of API (Application Programming Interfaced), allowing advanced users or developers to explore deeper into SitePal's capabilities. Also visit our Support area for information."
+}

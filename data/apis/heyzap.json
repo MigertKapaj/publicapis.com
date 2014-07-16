@@ -1,0 +1,16 @@
+{
+  "id": "heyzap",
+  "title": "Heyzap",
+  "link": "https://developers.heyzap.com/docs/api_overview",
+  "image": "https://d2jks9au6e6w94.cloudfront.net/images/navigation/heybar_logo.png",
+  "author": {
+    "name": "Heyzap"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Activity",
+    "Users"
+  ],
+  "description": "This API gives you access to most of the data Heyzap makes available on our Android and iOS applications, including games, activity and users on the Heyzap network."
+}

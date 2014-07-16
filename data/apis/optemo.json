@@ -1,0 +1,15 @@
+{
+  "id": "optemo",
+  "title": "Optemo",
+  "link": "http://optemo.com/api",
+  "image": "http://optemo.com/img/logo.png",
+  "author": {
+    "name": "Optemo"
+  },
+  "tags": [
+    "Desktop",
+    "Application",
+    "Efforts"
+  ],
+  "description": "Optemo's API empowers search, navigation and recommendation for desktop browsers, mobile browsers, and native applications, thus streamlining the management and configuration efforts."
+}

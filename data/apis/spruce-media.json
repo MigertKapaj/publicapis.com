@@ -1,0 +1,15 @@
+{
+  "id": "spruce-media",
+  "title": "Spruce Media",
+  "link": "http://apidocs.sprucemedia.com/",
+  "image": "http://apidocs.sprucemedia.com/_/rsrc/1299636320927/config/customLogo.gif?revision=7",
+  "author": {
+    "name": "Spruce Media"
+  },
+  "tags": [
+    "Partners",
+    "Interested",
+    "Provide"
+  ],
+  "description": "The Spruce Media API is available for use by select partners who receive an API Key from the Spruce team only.  If you're interested in leveraging the Spruce Media API to quickly and easily provide scalable performance advertising on Facebook to your customers and/or within your product, please contact us."
+}

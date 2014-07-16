@@ -1,0 +1,15 @@
+{
+  "id": "smmry",
+  "title": "SMMRY",
+  "link": "http://smmry.com/api",
+  "image": "http://smmry.com/sm_images/sm_logo.png",
+  "author": {
+    "name": "SMMRY"
+  },
+  "tags": [
+    "Developer",
+    "Webpage",
+    "Generate"
+  ],
+  "description": "SMMRY is accessible by an API. Developers are able to implement SMMRY into applications that may require a summary of a webpage or variable. Developers need to generate an API key to access this feature."
+}

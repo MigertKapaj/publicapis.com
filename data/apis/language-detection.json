@@ -1,0 +1,13 @@
+{
+  "id": "language-detection",
+  "title": "Language detection",
+  "link": "https://www.mashape.com/sprawk/language-detection",
+  "image": "",
+  "author": {
+    "name": "sprawk"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Takes a piece of text and detects the language it is written in."
+}

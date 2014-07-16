@@ -1,0 +1,14 @@
+{
+  "id": "cept",
+  "title": "CEPT",
+  "link": "https://cept.3scale.net/docs",
+  "image": "",
+  "author": {
+    "name": "cortical.io"
+  },
+  "tags": [
+    "Responses",
+    "Header"
+  ],
+  "description": "Generally, services generate JSON responses ('application/json') by default. XML responses ('application/xml') can be requested by appending the suffix '.xml' to the service path, e.g. /similarterms.xml. The 'Accept' request header field is intentionally ignored."
+}

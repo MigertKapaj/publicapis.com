@@ -1,0 +1,15 @@
+{
+  "id": "ourshelf",
+  "title": "OurShelf",
+  "link": "http://beta.rshelf.com/api",
+  "image": "http://beta.rshelf.com/images/betaLogo.png",
+  "author": {
+    "name": "OurShelf"
+  },
+  "tags": [
+    "Developers",
+    "Access",
+    "Approval"
+  ],
+  "description": "OurShelf is built upon a rich and extensible API. Third-party developers can use this API to extend OurShelf or create new applications using OurShelf's functionality. API access is granted upon review and approval of use."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "allclients",
+  "title": "AllClients",
+  "link": "http://www.allclients.com/api/",
+  "image": "http://qa.allclients.com/images/public12/allclients-logo.png",
+  "author": {
+    "name": "AllClients"
+  },
+  "tags": [
+    "Database",
+    "Return",
+    "Message"
+  ],
+  "description": "Adds an account to the database via an http form post. Results will be returned in an XML format. A successful post will return a success message and the accountid for the new account."
+}

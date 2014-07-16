@@ -1,0 +1,16 @@
+{
+  "id": "transit-data",
+  "title": "Transit Data",
+  "link": "http://developer.ridemetro.apiphany.com/",
+  "image": "http://developer.ridemetro.apiphany.com/Themes/APIphany.Themes.Ridemetro/images/logo.png",
+  "author": {
+    "name": "Transit Data"
+  },
+  "tags": [
+    "Houston",
+    "Incluing",
+    "Provided",
+    "Location"
+  ],
+  "description": "This service provides data about public transit in the Houston metropolitan area (bus and rail), including stop locations, routes, schedules, real-time arrivals times and trip calculation. The data comes from official data sources provided by Ride METRO. \n        "
+}

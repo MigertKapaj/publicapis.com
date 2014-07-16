@@ -1,0 +1,15 @@
+{
+  "id": "the-geocoder",
+  "title": "The geocoder",
+  "link": "http://dev.hel.fi/apis/geocoder",
+  "image": "http://dev.hel.fi/sites/default/files/HELDEV_logo_tagline_pieni%20etusivu.png",
+  "author": {
+    "name": "geocoder"
+  },
+  "tags": [
+    "Access",
+    "Geospatial",
+    "Information"
+  ],
+  "description": "The geocoder API allows access to some geospatial information related to the Helsinki metropolitan area. Currently, the API supports"
+}

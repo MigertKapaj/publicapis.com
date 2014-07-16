@@ -1,0 +1,15 @@
+{
+  "id": "edmodo",
+  "title": "Edmodo",
+  "link": "https://www.edmodo.com/developers/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRaggLbY_orESq1GqtybnYBBcPBUCO4bk1LnVS4F9TdGr_YHLTg",
+  "author": {
+    "name": "Edmodo"
+  },
+  "tags": [
+    "Connect",
+    "Access",
+    "Product"
+  ],
+  "description": "The Edmodo Connect API allows teachers to access their students and groups within your product, eliminating the need to switch between apps."
+}

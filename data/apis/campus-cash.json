@@ -1,0 +1,15 @@
+{
+  "id": "campus-cash",
+  "title": "Campus Cash",
+  "link": "http://campuscashmobile.com/api/doc.php",
+  "image": "",
+  "author": {
+    "name": "Campus Cash"
+  },
+  "tags": [
+    "Integrate",
+    "System",
+    "Services"
+  ],
+  "description": "Campus Cash's API will enable users to create applications or integrate with the user's system with some of the services and features offered by Campus Cash."
+}

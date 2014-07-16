@@ -1,0 +1,16 @@
+{
+  "id": "icontact",
+  "title": "iContact",
+  "link": "http://developer.icontact.com/documentation/",
+  "image": "http://www.icontact.com/developerportal/documentation/files/2011/05/portalLogo.gif",
+  "author": {
+    "name": "iContact"
+  },
+  "tags": [
+    "Expand",
+    "Email",
+    "Software",
+    "Retrieve"
+  ],
+  "description": "iContact’s application programming interface (API) allows your organization to expand upon the core functionality provided by iContact’s email marketing software. In particular, it allows external applications to retrieve data from and send data to iContact, making integration with other software simple."
+}

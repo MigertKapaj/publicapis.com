@@ -1,0 +1,16 @@
+{
+  "id": "the-aol-on-networks",
+  "title": "The AOL On Network’s",
+  "link": "http://support.aolonnetwork.com/API/Videos",
+  "image": "https://support.aolonnetwork.com/API/Content/images/logo.png",
+  "author": {
+    "name": "The AOL On Network’s"
+  },
+  "tags": [
+    "Intergrate",
+    "Video Content",
+    "Funcitionality",
+    "Stuck"
+  ],
+  "description": "Welcome to The AOL On Network’s API developer documentation. It enables you to integrate our video content, display and functionality into your website. Below you'll find links to helpful documentation on all of the different methods you can use to get data from The Aol On Network. There are plenty of examples, so if you're stuck, be sure to check them out."
+}

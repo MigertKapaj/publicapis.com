@@ -1,0 +1,16 @@
+{
+  "id": "zillow-quote",
+  "title": "Zillow Quote",
+  "link": "http://www.zillow.com/mortgage/MortgageAPISignup.htm",
+  "image": "http://www.zillowstatic.com/static/images/logos/zillow-logo-white.svg",
+  "author": {
+    "name": "Zillow"
+  },
+  "tags": [
+    "Buyers",
+    "Sellers",
+    "Managers",
+    "Decisions"
+  ],
+  "description": "Zillow is a home and real estate marketplace dedicated to helping homeowners, home buyers, sellers, renters, real estate agents, mortgage professionals, landlords and property managers find and share vital information about homes, real estate, mortgages and home improvement. We are transforming the way consumers make home-related decisions and connect with professionals."
+}

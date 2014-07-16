@@ -1,0 +1,13 @@
+{
+  "id": "freebase",
+  "title": "Freebase",
+  "link": "http://wiki.freebase.com/wiki/Freebase_API",
+  "image": "http://1-ps.googleusercontent.com/h/wiki.freebase.com/skins/freebaseUpdate/xfreebaselogo.png.pagespeed.ic.tA-BFii-KX.png",
+  "author": {
+    "name": "Freebase"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Freebase contains tens of millions of topics, thousands of types, and tens of thousands of properties. By comparison, English Wikipedia has over 4 million articles. Each of the topics in Freebase is linked to other related topics and annotated with important properties like movie genres and people's dates of birth. There are over a billion such facts or relations that make up the graph and they're all available for free through the APIs or to download from our weekly data dumps."
+}

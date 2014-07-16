@@ -1,0 +1,15 @@
+{
+  "id": "ikimap",
+  "title": "ikiMap",
+  "link": "http://api.ikimap.com/",
+  "image": "http://api.ikimap.com/sites/default/files/ikiloader_5.png",
+  "author": {
+    "name": "wikimapi"
+  },
+  "tags": [
+    "Developers",
+    "Secret",
+    "Service"
+  ],
+  "description": "The developers will ask for each of the applications that wish to develop an application ID, obtaining with this a secret code. The application ID and secret code will be included as parameters for all the service requests at ikiMap API, by basic HTTP authentication, so that the application ID is used as username and the secret code as password."
+}

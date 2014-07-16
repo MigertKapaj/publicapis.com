@@ -1,0 +1,16 @@
+{
+  "id": "planyo",
+  "title": "Planyo",
+  "link": "http://www.planyo.com/api.php",
+  "image": "http://www.planyo.com/images/logo.png",
+  "author": {
+    "name": "Planyo"
+  },
+  "tags": [
+    "Advanced",
+    "Automate",
+    "Data",
+    "Photo"
+  ],
+  "description": "The Planyo API lets you perform advanced functions and automate the Planyo reservation system (e.g. import resource data and photos into your site, make automated reservations). To use the API you must be familiar with a programming language such as PHP, Java, Ruby or ASP.NET."
+}

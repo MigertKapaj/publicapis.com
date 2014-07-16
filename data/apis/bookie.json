@@ -1,0 +1,15 @@
+{
+  "id": "bookie",
+  "title": "Bookie",
+  "link": "http://readable.bmark.us/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTaxX5cUUPJIg85Yl8t-muPEIr7xV_BBYildJPMoZXm8DHz-61nzg",
+  "author": {
+    "name": "Bookie"
+  },
+  "tags": [
+    "Provides",
+    "Web",
+    "Readable"
+  ],
+  "description": "Welcome to the Bookie Readable Parser. This site provides an api for parsing the content of a web page and providing a clear and readable version of it."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "giftup",
+  "title": "GiftUp",
+  "link": "https://yiftee.com/developers/api",
+  "image": "https://d172o8lbtmr238.cloudfront.net/assets/giftup/giftup-b34d0512347fe9f626e3b36fd41fd958.png",
+  "author": {
+    "name": "Yiftee"
+  },
+  "tags": [
+    "Developer",
+    "Endpoints",
+    "Merchants",
+    "Check"
+  ],
+  "description": "Welcome to the first iteration of the Yiftee developer API! Below you will find descriptions of all API endpoints that will allow you to search for merchants, send gifts, and check the status of your purchases. "
+}

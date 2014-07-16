@@ -1,0 +1,16 @@
+{
+  "id": "the-tweetboner",
+  "title": "The TweetBoner",
+  "link": "http://tweetboner.biz/api",
+  "image": "http://tweetboner.biz/static/tb.png",
+  "author": {
+    "name": "TweetBoner"
+  },
+  "tags": [
+    "Experiment",
+    "Method",
+    "Water",
+    "Hear"
+  ],
+  "description": "This API is an experiment. We've added this first method to test the waters. Depending on how it goes, we might expand on the API later. Oh, and if you use our API for something, we'd love to hear about it."
+}

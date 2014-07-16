@@ -1,0 +1,15 @@
+{
+  "id": "plivo",
+  "title": "Plivo",
+  "link": "https://plivo.com/docs/api/",
+  "image": "https://new-ui-cms-plivo.s3.amazonaws.com/img/logo-119x36.png?1378576378",
+  "author": {
+    "name": "Plivo"
+  },
+  "tags": [
+    "Methods",
+    "Browser",
+    "Interact"
+  ],
+  "description": "Plivo APIs are based on HTTP methods, which make it easy to write applications. You can use any HTTP client in any programming language or even your browser to interact with the API."
+}

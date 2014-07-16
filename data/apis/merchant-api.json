@@ -1,0 +1,16 @@
+{
+  "id": "merchant-api",
+  "title": "Merchant API",
+  "link": "https://cryptoknox.com/",
+  "image": "https://cryptoknox.com/img/web.png",
+  "author": {
+    "name": "CryptoKnox"
+  },
+  "tags": [
+    "Secure",
+    "Generate",
+    "Export",
+    "Process"
+  ],
+  "description": "We also offer a secure Merchant API that allows Merchants to hook up their existing shopping cart or current checkout process directly to their wallet in order for them to easily generate a payment address and check the moment funds are received at these generated address. On top of all of this within the wallet there are also some useful tools; For example you can export your wallet TX data in either Excel or PDF format thus simplifying greatly your accounting needs."
+}

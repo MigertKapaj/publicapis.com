@@ -1,0 +1,16 @@
+{
+  "id": "hoovers",
+  "title": "Hoovers",
+  "link": "http://developer.hoovers.com/",
+  "image": "http://images.hoovers.com/images/i/logos/logo_yellow_97x41.gif",
+  "author": {
+    "name": "Hoovers"
+  },
+  "tags": [
+    "Business",
+    "Systems",
+    "Web",
+    "Application"
+  ],
+  "description": "Hoover's API is an application programming interface that allows you to stream reliable, on-demand business information into your enterprise-wide systems, or commercial software and web applications. Using Hoover's database of industry information, 65 million company records and 85 million people records, you can deliver valuable business insight to your employees and customers."
+}

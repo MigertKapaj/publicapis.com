@@ -1,0 +1,16 @@
+{
+  "id": "pswincom",
+  "title": "PSWinCom",
+  "link": "http://www.pswin.com/english/products/gateway",
+  "image": "http://www.pswin.com/Portals/107/Skins/PSWinCom/Images/logo-pswincom.png",
+  "author": {
+    "name": "PSWinCom"
+  },
+  "tags": [
+    "Professional",
+    "Commercial",
+    "Systems",
+    "Interfaces"
+  ],
+  "description": "PSWinCom Gateway is a professional, commercial solution for delivering SMS messages from computer systems to GSM phones world wide. Messages can be sent using several interfaces and various applications, like .NET WebService/SOAP, ActiveX/COM, XML, HTTP/HTTPS, E-mail and more."
+}

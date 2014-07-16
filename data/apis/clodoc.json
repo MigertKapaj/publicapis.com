@@ -1,0 +1,15 @@
+{
+  "id": "clodoc",
+  "title": "Clodoc",
+  "link": "http://www.clodoc.org/api",
+  "image": "",
+  "author": {
+    "name": "Clodoc"
+  },
+  "tags": [
+    "Pretty",
+    "Sweet",
+    "Enjoy"
+  ],
+  "description": "We have a pretty sweet JSON API for you to enjoy."
+}

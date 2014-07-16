@@ -1,0 +1,16 @@
+{
+  "id": "textbelt",
+  "title": "TextBelt",
+  "link": "http://textbelt.com/",
+  "image": "http://i.imgur.com/iPie1.png",
+  "author": {
+    "name": "TextBelt"
+  },
+  "tags": [
+    "Outgoing",
+    "Carrier",
+    "text",
+    "Messages"
+  ],
+  "description": "TextBelt is an outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads.  Textbelt is fairly reliable and has sent over 100,000 texts. "
+}

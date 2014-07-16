@@ -1,0 +1,16 @@
+{
+  "id": "beansbooks",
+  "title": "BeansBooks",
+  "link": "https://beansbooks.com/api/explore/overview",
+  "image": "https://beansbooks.com/static/images/logo.png",
+  "author": {
+    "name": "BeansBooks"
+  },
+  "tags": [
+    "Crowdsource",
+    "Overheads",
+    "Analytics",
+    "Payroll"
+  ],
+  "description": "Crowdsource your data entry, remove errors, reduce overhead and create real time analytics by connecting your e-commerce, point of sale and payroll systems to BeansBooks. BeansBooks extensive API enables automatic creation of customers, vendors, sales orders, purchase orders, invoices and more."
+}

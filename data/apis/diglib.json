@@ -1,0 +1,15 @@
+{
+  "id": "diglib",
+  "title": "Diglib",
+  "link": "http://info.diglib.com/rest-api-for-vendors",
+  "image": "http://info.diglib.com/Websites/diglibinfo/templates/diglib-cms/images/diglibHeader.png",
+  "author": {
+    "name": "Diglib"
+  },
+  "tags": [
+    "Provides",
+    "Vendors",
+    "Integrate"
+  ],
+  "description": "Diglib provides vendors with a REST interface so that vendors can integrate their own systems with Diglib."
+}

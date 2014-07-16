@@ -1,0 +1,15 @@
+{
+  "id": "trafikverket",
+  "title": "Trafikverket",
+  "link": "http://www.trafiklab.se/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSPl3EfdnZxXAI2mQzfoaCZU0ZFfKhW0kWn_cfo0ucoTf4wA9HN",
+  "author": {
+    "name": "Trafiklab"
+  },
+  "tags": [
+    "Hamtning",
+    "Data",
+    "Filter"
+  ],
+  "description": "Strukturen skiljer sig en hel del från andra APIer på Trafiklab. Hämtning av data görs med ett HTTP-anrop. En fråga skickas med i POST-metoden som beskriver vilket data som efterfrågas samt innehållandes eventuella filter."
+}

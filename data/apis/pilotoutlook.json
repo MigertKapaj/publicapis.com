@@ -1,0 +1,15 @@
+{
+  "id": "pilotoutlook",
+  "title": "PilotOutlook",
+  "link": "http://www.pilotoutlook.com/api/introduction",
+  "image": "http://www.pilotoutlook.com/images/logo.gif",
+  "author": {
+    "name": "PilotOutlook"
+  },
+  "tags": [
+    "Pilot",
+    "Training",
+    "Repository"
+  ],
+  "description": " PilotOutlook is a one stop shop to meet all the pilot training needs. It is also the largest repository of airports, aircrafts, flying clubs and training material on the internet. "
+}

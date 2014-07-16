@@ -1,0 +1,16 @@
+{
+  "id": "jupiter",
+  "title": "JUPITER",
+  "link": "http://water.usgs.gov/software/JupiterApi/",
+  "image": "http://water.usgs.gov/images/header_graphic_usgsIdentifier_white.jpg",
+  "author": {
+    "name": "USGS"
+  },
+  "tags": [
+    "Models",
+    "Sensitivity analysis",
+    "Calibration",
+    "Evaluation"
+  ],
+  "description": "The JUPITER API provides resources for programming applications (computer programs) designed to analyze process models. Process models simulate, for example, physical, chemical, and(or) biological processes of a site or experiment of interest. The analyses involved could include sensitivity analysis data needs assessment, calibration, uncertainty evaluation, optimization, and other types of applications that require similar capabilities.  The API is programmed in Fortran-90.  It can be used in applications programmed in Fortran or other languages that can be linked with Fortran.\n    "
+}

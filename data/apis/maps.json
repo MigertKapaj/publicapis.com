@@ -1,0 +1,15 @@
+{
+  "id": "maps",
+  "title": "Maps",
+  "link": "http://api.yandex.com/maps/doc/jsapi/2.x/quick-start/tasks/quick-start.xml",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3DngKXlxGhX8MbX-007X-A0taahawi488QRQ9P9O1oCgmiEb4",
+  "author": {
+    "name": "Yandex"
+  },
+  "tags": [
+    "Integrating",
+    "Directions",
+    "Services"
+  ],
+  "description": "The JavaScript API is an excellent tool for integrating an interactive Yandex map into a website. Using this API, you can manage maps and their contents, as well as create various applications — from simple interactive directions to your office, to sophisticated geo information services."
+}

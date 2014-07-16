@@ -1,0 +1,16 @@
+{
+  "id": "stores",
+  "title": "Stores",
+  "link": "https://bbyopen.com/documentation/stores-api",
+  "image": "https://bbyopen.com/sites/all/themes/remix_new/images/logo.gif",
+  "author": {
+    "name": "BBY Open"
+  },
+  "tags": [
+    "Access",
+    "Location",
+    "Hours",
+    "Concert"
+  ],
+  "description": "The store query will allow you to access information about all Best Buy Stores such as address, geo-location, stores hours and phone number. \nUsing the Products API in concert with the Stores API you will also be able to perform product availabilty queries for each store."
+}

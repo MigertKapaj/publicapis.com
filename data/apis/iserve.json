@@ -1,0 +1,15 @@
+{
+  "id": "iserve",
+  "title": "iServe",
+  "link": "http://iserve.kmi.open.ac.uk/news/",
+  "image": "http://iserve.kmi.open.ac.uk/wp-content/themes/iserve/images/iserve-logo.gif",
+  "author": {
+    "name": "iServe"
+  },
+  "tags": [
+    "Service",
+    "Publication",
+    "Capabilities"
+  ],
+  "description": "iServe is what we refer to as service warehouse which unifies service publication, analysis, and discovery through the use of lightweight semantics as well as advanced discovery and analytic capabilities."
+}

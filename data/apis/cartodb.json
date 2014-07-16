@@ -1,0 +1,14 @@
+{
+  "id": "cartodb",
+  "title": "CartoDB",
+  "link": "http://cartodb.com/develop",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSgWEWZP-AtpAFI8yB6Cmtx0rUcOWZpAiUxgOZWN6rcxwYJCLOMVg",
+  "author": {
+    "name": "CartoDB"
+  },
+  "tags": [
+    "Complex",
+    "Develop"
+  ],
+  "description": "Avoid developing complex geospatial infrastructure yourself, and develop your applications on top of CartoDB."
+}

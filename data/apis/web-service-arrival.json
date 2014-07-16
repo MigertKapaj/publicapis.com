@@ -1,0 +1,15 @@
+{
+  "id": "web-service-arrival",
+  "title": "WEB Service Arrival",
+  "link": "http://hea.thebus.org/api/documentation/arrivals.pdf",
+  "image": "http://www.thebus.org/images/Heading.jpg",
+  "author": {
+    "name": "TheBus"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Service"
+  ],
+  "description": "The Web API (Application Programming Interface) allows a developer to access our real-time AVL data. To utilize OTS's web services, an application id (AppID) is required via registration. This AppID will be a parameter that must be passed in order to use OTS's web service calls."
+}

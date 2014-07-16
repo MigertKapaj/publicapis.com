@@ -1,0 +1,14 @@
+{
+  "id": "coderwall",
+  "title": "Coderwall",
+  "link": "https://coderwall.com/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJyN_0YxD_nO4VlnxwNgS1uzqc0jvd9iAoHZWnQx4CwFlbqU6anQ",
+  "author": {
+    "name": "Coderwall"
+  },
+  "tags": [
+    "Profile",
+    "Simple"
+  ],
+  "description": "Coderwall exposes a simple JSON representation of every profile. To access it, make an HTTP GET request to your profile URL (https://coderwall.com/username) but append .json to the end, like so:"
+}

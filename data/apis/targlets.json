@@ -1,0 +1,15 @@
+{
+  "id": "targlets",
+  "title": "Targlets",
+  "link": "https://targlets.com/Home/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzTqX8aLxNR-d2TpcFafEajtXTsfRfzYl2y1erOrEokNkpuKBu",
+  "author": {
+    "name": "Targlets"
+  },
+  "tags": [
+    "Provides",
+    "Sending",
+    "Reports"
+  ],
+  "description": "This API provides you with all the relevant messaging operations: sending, retrieve delivery reports (push/pull) and balance checks"
+}

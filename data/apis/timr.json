@@ -1,0 +1,15 @@
+{
+  "id": "timr",
+  "title": "timr",
+  "link": "http://www.timr.com/tour/api",
+  "image": "http://www.timr.com/wp-content/themes/wapp/images/timr-logo.png",
+  "author": {
+    "name": "timr"
+  },
+  "tags": [
+    "Enables",
+    "Existing",
+    "Assumed"
+  ],
+  "description": "The timr Webservice API enables to integrate timr in existing company-infrastructures. Tasks and task-assignments can be set automatically. Created time entries can be assumed by timr."
+}

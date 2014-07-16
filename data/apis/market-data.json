@@ -1,0 +1,13 @@
+{
+  "id": "market-data",
+  "title": " Market data",
+  "link": "http://dev.markitondemand.com/",
+  "image": "http://dev.markitondemand.com/Content/images/modl_logo_120.png",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "Market On Demand"
+  ],
+  "description": "Our APIs offer an opportunity to explore the complexity of financial data in building great tools. We have complete docs right here and a handful of demos over on our GitHub page, so put on a pot of coffee and enjoy."
+}

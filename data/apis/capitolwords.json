@@ -1,0 +1,15 @@
+{
+  "id": "capitolwords",
+  "title": "CapitolWords",
+  "link": "http://capitolwords.org/about/",
+  "image": "http://s3.amazonaws.com/assets.sunlightfoundation.com/capitol-words/media/img/logo.png",
+  "author": {
+    "name": "CapitolWords"
+  },
+  "tags": [
+    "Congress",
+    "Record",
+    "Yearly"
+  ],
+  "description": "For every day Congress is in session, Capitol Words visualizes the most frequently used words in the Congressional Record, giving you an at-a-glance view of which issues lawmakers address on a daily, weekly, monthly and yearly basis."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "digit-eyes",
+  "title": "Digit-Eyes",
+  "link": "http://www.digit-eyes.com/api.html",
+  "image": "http://www.digit-eyes.com/graphics/logoWeb2.jpg",
+  "author": {
+    "name": "Digit-Eyes"
+  },
+  "tags": [
+    "Developers",
+    "Database",
+    "Performance"
+  ],
+  "description": "The Digit-Eyes UPC / EAN API gives developers access to our database of UPC and EAN records. The database grows continually as a function of user activity and the performance of the digital indexing software. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "xignite",
+  "title": "Xignite",
+  "link": "http://www.xignite.com/xEmerging.asmx",
+  "image": "http://www.xignite.com/img/global/logo-text.png",
+  "author": {
+    "name": "Xignite"
+  },
+  "tags": [
+    "Data",
+    "Providing",
+    "Across",
+    "Websites"
+  ],
+  "description": "Xignite is the leading provider of market data cloud solutions. The Xignite Market Data Cloud fulfills more than 15 billion requests per month and offers more than 40 financial web services APIs providing real-time, historical, and reference data across all asset classes. Xignite’s Financial Data APIs power mobile financial applications, websites, and front-, middle- and back-office functions for more than 1000 clients worldwide, including Wells Fargo, GE, Computershare, BNY Mellon, Natixis, Schwab, SeekingAlpha, ExxonMobil, Starbucks, and Barrick Gold."
+}

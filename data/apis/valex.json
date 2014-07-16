@@ -1,0 +1,15 @@
+{
+  "id": "valex",
+  "title": "ValEx",
+  "link": "http://developers.valex.com.au/?q=node/10",
+  "image": "http://developers.valex.com.au/files/marvin_logo.png",
+  "author": {
+    "name": "ValEx"
+  },
+  "tags": [
+    "Process",
+    "Valuation",
+    "Service"
+  ],
+  "description": "This guide describes in detail the process you need to take to order a valuation and recieve the  completed valuation report using ValEx's web services."
+}

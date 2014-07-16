@@ -1,0 +1,17 @@
+{
+  "id": "liveops",
+  "title": "LiveOps",
+  "link": "https://developer.liveops.com/",
+  "image": "https://developer.liveops.com/logo-liveops.png",
+  "author": {
+    "name": "LiveOps"
+  },
+  "tags": [
+    "Center",
+    "Platform",
+    "Support",
+    "Custom",
+    "Service"
+  ],
+  "description": "The Live Ops Cloud Contact Center Platform support sintegrating the Live Ops Contact Center with custom and standard software systems through a web services Application Programming Interface(API)."
+}

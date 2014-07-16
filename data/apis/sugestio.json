@@ -1,0 +1,17 @@
+{
+  "id": "sugestio",
+  "title": "Sugestio",
+  "link": "https://www.sugestio.com/documentation",
+  "image": "https://www.sugestio.com/sites/default/files/Sugestio_logo_small.png",
+  "author": {
+    "name": "Sugestio"
+  },
+  "tags": [
+    "Cloud",
+    "Recommendation",
+    "Online",
+    "System",
+    "Web"
+  ],
+  "description": "Sugestio is a powerful recommendation service built on top of cloud technologies.\nThe technology is a result of research conducted at Ghent University and aims at delivering a highly performant and cost-efficient online \nrecommendation engine. It can be easily integrated into popular content management systems or custom-built web applications."
+}

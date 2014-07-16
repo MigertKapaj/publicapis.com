@@ -1,0 +1,16 @@
+{
+  "id": "storm-on-demand",
+  "title": "Storm on Demand",
+  "link": "http://www.stormondemand.com/api/docs/v1",
+  "image": "http://www.stormondemand.com/img/logo-big.png",
+  "author": {
+    "name": "Storm"
+  },
+  "tags": [
+    "Parameters",
+    "Optinal",
+    "Dependent",
+    "Conditions"
+  ],
+  "description": "For each method, input parameters and output fields are listed. Input parameters are optional unless specified \"Required\". Output fields marked \"Optional\" will not always have a value, as those fields are dependent upon other conditions. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "embedded-viewer",
+  "title": "Embedded Viewer",
+  "link": "https://developers.google.com/books/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Embed",
+    "Webpages",
+    "Utility"
+  ],
+  "description": "The Embedded Viewer API lets you embed book content from Google Books directly in your web pages with JavaScript. The API also provides a number of utilities for manipulating book previews, and is often used together with the other APIs described on this site."
+}

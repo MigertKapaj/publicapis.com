@@ -1,0 +1,15 @@
+{
+  "id": "checkbook-nyc-2.0",
+  "title": "Checkbook NYC 2.0",
+  "link": "http://www.checkbooknyc.com/data-feeds/api",
+  "image": "http://www.checkbooknyc.com/sites/all/themes/checkbook/images/logo.png",
+  "author": {
+    "name": "Checkbook NYC 2.0"
+  },
+  "tags": [
+    "Data",
+    "Present",
+    "Except"
+  ],
+  "description": "Checkbook NYC 2.0 is pleased to announce the availability of its data in an Application Programming Interface (API). All data present in Checkbook NYC 2.0 is available through the API, except for visualizations."
+}

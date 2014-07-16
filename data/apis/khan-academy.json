@@ -1,0 +1,15 @@
+{
+  "id": "khan-academy",
+  "title": "Khan Academy",
+  "link": "https://github.com/Khan/khan-api/wiki/Khan-Academy-API",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Information",
+    "Discover",
+    "Exercises"
+  ],
+  "description": "At the highest levels, the API will give you information about Every Playlist. You can use the titles of each playlist to discover the videos within individual playlists (i.e. Algebra, Banking and Money, Biology, etc). Or, you can use the playlists to give you info about exercises for each (i.e. Precalculus, Trigonometry, Arithmetic, etc)."
+}

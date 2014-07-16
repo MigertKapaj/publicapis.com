@@ -1,0 +1,16 @@
+{
+  "id": "e-mail-checker",
+  "title": "E-Mail checker",
+  "link": "http://www.email-checker.com/verify-emails-in-real-time-using-our-api/",
+  "image": "http://www.email-checker.com/wp-content/uploads/2012/01/newlogojr15.png",
+  "author": {
+    "name": "email-checker.com"
+  },
+  "tags": [
+    "Challenging",
+    "Knowledge",
+    "Technology",
+    "Service"
+  ],
+  "description": "To perform reliable email checking at the volumes we deliver is a very challenging task requiring detailed knowledge of ISP behaviour and mail server technology. No other email verification service can match the accuracy of our checks."
+}

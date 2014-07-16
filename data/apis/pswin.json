@@ -1,0 +1,17 @@
+{
+  "id": "pswin",
+  "title": "Pswin",
+  "link": "https://wiki.pswin.com/Intouch-REST-API.ashx",
+  "image": "https://wiki.pswin.com/GetFile.aspx?File=/PSW_Logo_PMS_Neg_1_small.png",
+  "author": {
+    "name": "Intouch Rest-Api"
+  },
+  "tags": [
+    "Provide",
+    "Interface",
+    "Product",
+    "Service",
+    "Implement"
+  ],
+  "description": "The Intouch API provides a simple yet powerful interface to the central features of the PSWinCom Intouch product. It can be used to automate tasks like synchronizing contacts, facilitate custom SMS services, or even implement alternative user interfaces."
+}

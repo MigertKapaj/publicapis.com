@@ -1,0 +1,15 @@
+{
+  "id": "cryptsy",
+  "title": "Cryptsy",
+  "link": "https://www.cryptsy.com/pages/api",
+  "image": "https://www.cryptsy.com/img/biglogo.png",
+  "author": {
+    "name": "Cryptsy"
+  },
+  "tags": [
+    "Getting",
+    "Possible",
+    "Accept"
+  ],
+  "description": "Since implementation of our new security layer, some API clients are getting denied access. If possible, you should program your bot to accept cookies to pass the security test"
+}

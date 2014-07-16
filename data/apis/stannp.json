@@ -1,0 +1,16 @@
+{
+  "id": "stannp",
+  "title": "Stannp",
+  "link": "http://www.stannp.com/apiman.php",
+  "image": "https://www.stannp.com/assets/img/stannp-logo-blue.png",
+  "author": {
+    "name": "Stannp.com"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Creating",
+    "Deliver"
+  ],
+  "description": "The stannp API is a print on demand service for sending postcards. You send us the data for creating a postcard and our service will then print and deliver the postcard for you. "
+}

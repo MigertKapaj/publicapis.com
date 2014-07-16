@@ -1,0 +1,16 @@
+{
+  "id": "stipple",
+  "title": "Stipple",
+  "link": "https://stipple.com/api_docs",
+  "image": "https://stipple.com/images/consumer/icons/stipple-logo-text.png?1395114478",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "Possible",
+    "Functionality",
+    "Existing",
+    "Increase"
+  ],
+  "description": "Stipple will attempt to make breaking changes to the API as little as possible. We will, of course, add new functionality over time. Any addition or change that would not effect currently built apps will be added to the current version of the Stipple API, with no change in version number. If a change would affect existing applications built with the Stipple API, we will give a 90 day notice before the change goes live, and we will increase the API version number as well."
+}

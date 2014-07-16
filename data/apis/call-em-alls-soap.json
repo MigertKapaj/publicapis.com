@@ -1,0 +1,16 @@
+{
+  "id": "call-em-alls-soap",
+  "title": "Call-Em-All's SOAP",
+  "link": "https://dev.call-em-all.com/SoapApi",
+  "image": "https://dev.call-em-all.com/GetAuthorization",
+  "author": {
+    "name": "Call-Em-All"
+  },
+  "tags": [
+    "Functions",
+    "Languages",
+    "Formats",
+    ""
+  ],
+  "description": "We've put together a comprehensive reference for your use. Like any good guide it describes the API functions and tells you how to connect and make use of our service. It even has code examples in several languages. However, it goes further by providing details on such subjects as common data formats used throughout the API, the three broadcast types, SMS texting peculiarities, and controlling your text-to-speech conversions. In short, there's lots of good stuff in here that will help you get the most out of the Call-Em-All API. "
+}

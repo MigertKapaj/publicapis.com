@@ -1,0 +1,16 @@
+{
+  "id": "qirina",
+  "title": "Qirina",
+  "link": "http://www.qirina.com/api.html",
+  "image": "http://www.qirina.com/graphics/logoxl2.png",
+  "author": {
+    "name": "Qirina"
+  },
+  "tags": [
+    "Developer",
+    "Website",
+    "Language",
+    "Spams"
+  ],
+  "description": "Qirina database allows developers to check on the fly whether or not a website was analyzed by Qirina. The Qirina API can be used to check websites for language and spam. "
+}

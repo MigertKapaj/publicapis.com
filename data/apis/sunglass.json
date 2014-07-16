@@ -1,0 +1,13 @@
+{
+  "id": "sunglass",
+  "title": "Sunglass",
+  "link": "https://www.sunglass.io/apidocs/",
+  "image": "https://www.sunglass.io/img/logo.png",
+  "author": {
+    "name": "Sunglass"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

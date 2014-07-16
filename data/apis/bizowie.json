@@ -1,0 +1,15 @@
+{
+  "id": "bizowie",
+  "title": "Bizowie",
+  "link": "http://bizowie.com/api/",
+  "image": "http://bizowie.com/wp-content/themes/bizowie/img/logo.png",
+  "author": {
+    "name": "Bizowie"
+  },
+  "tags": [
+    "Provides",
+    "Integrate",
+    "Platform"
+  ],
+  "description": "Bizowie ERP provides a full-featured, JSON-based API (Application Programming Interface) allowing developers to integrate third-party applications with the platform."
+}

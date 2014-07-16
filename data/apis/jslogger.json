@@ -1,0 +1,15 @@
+{
+  "id": "jslogger",
+  "title": "JSLogger",
+  "link": "http://jslogger.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrzU81dQa_Cmctp0L7ZvAg59xNtDv7ijduIZMu4OR-SMBJoFzdPw",
+  "author": {
+    "name": "JSLogger"
+  },
+  "tags": [
+    "Describes",
+    "Data",
+    "Tracking"
+  ],
+  "description": " The API bellow describes the client part of JSLogger, where you can query the existent data from your account and build applications on top of it. The tracking API will be available soon."
+}

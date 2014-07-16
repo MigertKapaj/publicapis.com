@@ -1,0 +1,16 @@
+{
+  "id": "review",
+  "title": "Review",
+  "link": "http://developer.zappos.com/docs/api-review",
+  "image": "http://developer.zappos.com/sites/default/files/logo.png",
+  "author": {
+    "name": "Zappos"
+  },
+  "tags": [
+    "Customers",
+    "Robust",
+    "Review",
+    "Data"
+  ],
+  "description": "Zappos is extremely proud of our amazing customers.  Check out what some of our customer's have to say on the Zappos.com Facebook Fan page: http://www.facebook.com/zappos.Thanks to our customers, we have an incredibly robust set of reviews for many of our products.  The Review API can be used to pull some of this great review data."
+}

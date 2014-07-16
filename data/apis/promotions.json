@@ -1,0 +1,15 @@
+{
+  "id": "promotions",
+  "title": "Promotions",
+  "link": "http://www.strutta.com/products/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRBdQHakyOgikSwOxdtGvUYMRUMP2FV14noJjMf_Cs2MJJpSon5",
+  "author": {
+    "name": "Promotions"
+  },
+  "tags": [
+    "Promotions",
+    "Social",
+    "Advantage"
+  ],
+  "description": "Currently in development, Strutta's Promotions API will allow you to tap into the core of our social promotions platform and take advantage of advanced complexity and customization."
+}

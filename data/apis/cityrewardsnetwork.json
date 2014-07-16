@@ -1,0 +1,15 @@
+{
+  "id": "cityrewardsnetwork",
+  "title": "CityRewardsNetwork",
+  "link": "http://www.cityrewardsnetwork.com/developers/documentation.php?authorization",
+  "image": "http://www.cityrewardsnetwork.com/logos/city_rewards_logo.png",
+  "author": {
+    "name": "CityRewardsNetwork"
+  },
+  "tags": [
+    "Search",
+    "Requires",
+    "Generate"
+  ],
+  "description": "We have provided a search interface which helps in generating the deals. For searching it requires an API key. Click here to generate your own api key or to view your previously generated api keys."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "doubleclick-ad-exchange-buyer-rest",
+  "title": "DoubleClick Ad Exchange Buyer REST",
+  "link": "https://developers.google.com/ad-exchange/buyer-rest/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Realtime",
+    "Access",
+    "Update",
+    "Discover"
+  ],
+  "description": "This document explains how to get started writing applications that use the Ad Exchange Buyer REST API to interact with DoubleClick Ad Exchange. The Ad Exchange Buyer REST API allows your Real-Time Bidding application to access and update account information, and to submit creatives. The API also allows an application (whether it does static bidding or real-time bidding) to discover direct deals that sellers make available."
+}

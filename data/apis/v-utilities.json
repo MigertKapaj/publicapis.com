@@ -1,0 +1,16 @@
+{
+  "id": "v-utilities",
+  "title": "V-Utilities",
+  "link": "http://www.violinet.org/v-utilities/",
+  "image": "http://www.violinet.org/images/VIOLIN-Logo-2008-07-30.jpg",
+  "author": {
+    "name": "VIOLIN"
+  },
+  "tags": [
+    "Provide",
+    "Data",
+    "Retrieved",
+    "Define"
+  ],
+  "description": "VIOLIN programming utilities (V-Utilities) provide a set of tools for access to the entire VIOLIN database for vaccine related information. The data can be currently retrieved with a known pathogen or vaccine. The retrieved data is returned in XML format. The XML Schema is used to define the returned XML file."
+}

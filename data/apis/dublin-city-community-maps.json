@@ -1,0 +1,16 @@
+{
+  "id": "dublin-city-community-maps",
+  "title": "Dublin City Community Maps",
+  "link": "http://www.dublin.ie/maps/api",
+  "image": "http://www.dublin.ie/maps/img/layout/dccmaps_logo.png",
+  "author": {
+    "name": "Dublin City Community Maps"
+  },
+  "tags": [
+    "Community",
+    "Developers",
+    "Possible",
+    "Technical"
+  ],
+  "description": "We use an API (Application Programming Interface) to make the data within our community maps database available to other developers/interested parties. Every request to the API is controlled by a key. If you wish to apply for a key, please fill in the form below and we'll respond to you as soon as possible with documentation. Access to and use of the API is governed by our Terms of Use so make sure to consult them. If you do not know what an API is, please do not request a key as this process requires technical knowledge."
+}

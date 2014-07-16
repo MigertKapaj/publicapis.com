@@ -1,0 +1,17 @@
+{
+  "id": "connection-guide",
+  "title": "Connection Guide",
+  "link": "http://fastdocs.travelfusion.com/connection-guide",
+  "image": "http://www.google.com/a/cpanel/travelfusion.com/images/logo.gif?service=google_default",
+  "author": {
+    "name": "Travel Fusion"
+  },
+  "tags": [
+    "Attribute",
+    "Token",
+    "Expiry",
+    "Login reques",
+    "Sessions"
+  ],
+  "description": "Authentication is achieved by adding an attribute called ‘token’ to the top level element of all requests. The value of the token must be that returned in the LoginResponse (see below). The same token can be used for all requests for all users and sessions, until it expires after 1 hour. It is recommended that 15 minutes before the expiry time it is refreshed by submitting another LoginRequest, and the new token is used for all subsequent requests. \n"
+}

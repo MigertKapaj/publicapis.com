@@ -1,0 +1,16 @@
+{
+  "id": "journey-planner",
+  "title": "Journey Planner",
+  "link": "http://www.silverrailtech.com/journeyplanner",
+  "image": "http://www.silverrailtech.com/sites/all/themes/silverrail/images/logo.png",
+  "author": {
+    "name": "SilverRail"
+  },
+  "tags": [
+    "Support",
+    "Assist",
+    "Tailor",
+    "Customized"
+  ],
+  "description": "We offer a wide range of tools and support documentation to assist you with your use of the SilverRail Journey Planner API. Alternatively, please contact our team who would be glad to help tailor a customized solution for your application."
+}

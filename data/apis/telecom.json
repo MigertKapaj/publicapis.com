@@ -1,0 +1,15 @@
+{
+  "id": "telecom",
+  "title": "Telecom",
+  "link": "http://www.azuralis.no/TelecomAPI.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5Hd5Ifl7ZXinb_Ww6XDhqII7iipVI7Q7lco6Gbm3GbVvAjYc2uA",
+  "author": {
+    "name": "Azuralis"
+  },
+  "tags": [
+    "Documentet",
+    "Resources",
+    "Integrate"
+  ],
+  "description": "All the user really needs to care about is a well documentet set of high level RESTful API function calls, and not putting the time and resources into learing the inner workings on how to integrate telecommunication functionality in their own applications. "
+}

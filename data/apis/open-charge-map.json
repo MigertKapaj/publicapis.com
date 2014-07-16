@@ -1,0 +1,15 @@
+{
+  "id": "open-charge-map",
+  "title": "Open Charge Map",
+  "link": "http://openchargemap.org/site/develop",
+  "image": "http://openchargemap.org/site/Content/images/AppIcon_36x36.png",
+  "author": {
+    "name": "Open Charge Map"
+  },
+  "tags": [
+    "Data",
+    "Provides",
+    "Variety"
+  ],
+  "description": "If you wish to export charging location data into your own systems or applications the most flexible way is to use our API, which provides an export in a variety of formats."
+}

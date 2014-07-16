@@ -1,0 +1,16 @@
+{
+  "id": "trove",
+  "title": "Trove",
+  "link": "http://developer.washingtonpost.com/api/trove",
+  "image": "http://apiportal.washingtonpost.com/Themes/APIphany.Themes.Base/content/MastheadSprite.png",
+  "author": {
+    "name": "Trove"
+  },
+  "tags": [
+    "Personalization",
+    "Engine",
+    "Service",
+    "Interface"
+  ],
+  "description": "Trove is the personalization and content engine of WaPo Labs. The Trove API provides basic text analytics services, URL lookup for news articles, as well as a constantly updated set of news around any topic, which we call a Trove channel. Trove.com is an example implementation of the API and a helpful interface for creating or tuning Trove channels.Find WaPo Labs at wapolabs.com!"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "qobuz",
+  "title": "Qobuz",
+  "link": "https://github.com/Qobuz/api-documentation",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Approach",
+    "Programming",
+    "Technical",
+    "Online",
+    "Service"
+  ],
+  "description": "This documentation is a global approach of Qobuz Application Programming Interface (API). It shows our technical philosophy destinated to third party partners who want to interact with Qobuz online music services."
+}

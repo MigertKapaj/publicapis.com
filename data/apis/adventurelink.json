@@ -1,0 +1,15 @@
+{
+  "id": "adventurelink",
+  "title": "AdventureLink",
+  "link": "http://api.adventurelink.com/",
+  "image": "",
+  "author": {
+    "name": "AdventureLink"
+  },
+  "tags": [
+    "Integrate",
+    "Recommend",
+    "Transacting"
+  ],
+  "description": "For partners who want to integrate our trips and book reservations through us, we recommend the use of our API. We provide both XML and JSON feeds and a RESTful API for transacting and booking trips."
+}

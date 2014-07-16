@@ -1,0 +1,16 @@
+{
+  "id": "scribd",
+  "title": "Scribd ",
+  "link": "http://www.scribd.com/developers/platform",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXsCxKM5NjBohCATIzh6tuPSFolDFmlSboWE30v8r_06AS5aM-",
+  "author": {
+    "name": "Scribd "
+  },
+  "tags": [
+    "System",
+    "Accounts",
+    "Choices",
+    "Authentication"
+  ],
+  "description": "Scribd's API has a very simple system for authenticating user accounts (note this is distinct from API accounts, which are authenticated simply by passing an api_key parameter). There are three choices for handling user authentication:"
+}

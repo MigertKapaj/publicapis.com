@@ -1,0 +1,16 @@
+{
+  "id": "plotly",
+  "title": "Plotly",
+  "link": "https://plot.ly/api/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTrnT-2LPr1NVrj6Fpkqt7j4zMuaxdv9aVF-fBPXYsVUNBXomcYsQ",
+  "author": {
+    "name": "Plotly"
+  },
+  "tags": [
+    "Graphing",
+    "Data",
+    "Online",
+    "Code"
+  ],
+  "description": "Interface Plotly's online graphing tools with your desktop environment. Send data to your Plotly account and view your graphs in your web browser. Style with code or with our online interface; share your work publicly with a url or privately among other Plotly members; access your graphs from anywhere. "
+}

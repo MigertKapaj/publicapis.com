@@ -1,0 +1,15 @@
+{
+  "id": "dialmycalls",
+  "title": "DialMyCalls",
+  "link": "http://www.dialmycalls.com/api-docs/",
+  "image": "http://www.dialmycalls.com/img/logo.png",
+  "author": {
+    "name": "DialMyCalls"
+  },
+  "tags": [
+    "Integrate",
+    "Developed",
+    "Support"
+  ],
+  "description": "With our Voice & SMS API you can easily integrate voice calling and/or text messaging into any application you may have. We've developed the API to be easy to use and we also have our support team available at any time to help if you have any questions or issues along the way."
+}

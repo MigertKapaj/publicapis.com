@@ -1,0 +1,15 @@
+{
+  "id": "mxtoolbox",
+  "title": "MxToolBox",
+  "link": "http://mxtoolbox.com/restapi.aspx",
+  "image": "http://mxtoolbox.com/Public/images/Mx-Logo-590x150.png",
+  "author": {
+    "name": "MxToolBox"
+  },
+  "tags": [
+    "Service",
+    "Integrate",
+    "Dashboard"
+  ],
+  "description": "The MxToolBox API is a RESTful Web Service allowing MxToolbox customers to query the status of their monitors and run lookups (blacklist, smtp, mx, etc.). Generally, programmers use this API to integrate MxToolBox into their products. For example, customers have created a dashboard on their site which shows the real-time status of their monitors. "
+}

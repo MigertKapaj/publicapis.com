@@ -1,0 +1,16 @@
+{
+  "id": "theysay-preceive",
+  "title": "TheySay PreCeive",
+  "link": "http://docs.theysay.apiary.io/",
+  "image": "https://apiary.a.ssl.fastly.net/assets/images/apiary-app-logo-1x-136bf1f4d06a3c9e.png",
+  "author": {
+    "name": "TheySay PreCeive"
+  },
+  "tags": [
+    "Developer",
+    "Speculation",
+    "Tagging",
+    "Language"
+  ],
+  "description": "TheySay PreCeive API is a platform-agnostic service which enables developers to access and mix-and-match our powerful text analysis processors that cover sentiment analysis, speculation detection, part-of-speech tagging, dependency parsing, and others. If you're building an application that cannot do without serious, state-of-the-art text analytics but don't want to delve deep into natural language processing,then this is the API for you."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ithenticates",
+  "title": " iThenticate’s",
+  "link": "http://www.ithenticate.com/",
+  "image": "http://cdn2.hubspot.net/hub/92785/file-293973767-png/templates/v1/img/ith-logo.png?t=1378401602000",
+  "author": {
+    "name": " iThenticate"
+  },
+  "tags": [
+    "Processing",
+    "Testing",
+    "Process",
+    "System"
+  ],
+  "description": "In order to provide an adequate amount of time for iThenticate’s custom built or MTS integrators to test our new upload processing system a beta testing period is available to our customers before we move everyone over to the new process. This beta testing period will last until January 2014. We suggest testing the upload process via your current API setup as we believe, for most customers, that no change is required to your API process in order to successfully use the new upload processing system."
+}

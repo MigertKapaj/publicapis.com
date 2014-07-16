@@ -1,0 +1,16 @@
+{
+  "id": "wikimatrix",
+  "title": "WikiMatrix",
+  "link": "http://www.wikimatrix.org/wiki/api",
+  "image": "http://www.wikimatrix.org/tpl/logo.gif",
+  "author": {
+    "name": "WikiMatrix"
+  },
+  "tags": [
+    "Features",
+    "Specified",
+    "Internal",
+    "Replaced"
+  ],
+  "description": "The API calls can be restricted to certain features items or products. Those can be specified either with their internal IDs as returned in the API calls or by their real names. Multiple items or products can be given separated by plus chars. Whitespaces need to be replaced by underscores. When specifying feature items by name you need to give the item group name and the item name separated by a colon. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "fundpeak",
+  "title": "Fundpeak",
+  "link": "http://www.fundpeak.com/products/tailor/#api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR9TXooz9Asp9l_2oeK5JU83jp8gCNuc1AxwtuD0aJj8eEu9iY73Q",
+  "author": {
+    "name": "Fundpeak"
+  },
+  "tags": [
+    "Inhouse",
+    "Access",
+    "Data",
+    "Websites"
+  ],
+  "description": "Do you have inhouse developers? Just use our API which gives you full access to all data, calculations, statistics, portfolios and charts etc. You can then easily implement it into your websites or other applications."
+}

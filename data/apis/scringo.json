@@ -1,0 +1,14 @@
+{
+  "id": "scringo",
+  "title": "Scringo",
+  "link": "http://www.scringo.com/",
+  "image": "",
+  "author": {
+    "name": "Scringo"
+  },
+  "tags": [
+    "Integrate",
+    "Plugins"
+  ],
+  "description": "Scringo has plugins (SDK) for iOS, Android and Unity (currently under closed beta). We provide a set of APIs to easily integrate Scringo's features into your app, the way you want."
+}

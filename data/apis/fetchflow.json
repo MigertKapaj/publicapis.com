@@ -1,0 +1,16 @@
+{
+  "id": "fetchflow",
+  "title": "fetchflow",
+  "link": "http://www.fetchflow.com/API/",
+  "image": "http://www.fetchflow.com/resources/images/logo.gif",
+  "author": {
+    "name": "fetchflow"
+  },
+  "tags": [
+    "Interact",
+    "System",
+    "Online",
+    "Store"
+  ],
+  "description": "The fetchflow API is created for you to interact with our system programmatically. With just a few lines of code you're able to create & send invoices to your customers from any application (i.e. your online store, your CRM etc.). "
+}

@@ -1,0 +1,13 @@
+{
+  "id": "elifesciences",
+  "title": "elifesciences",
+  "link": "http://dev.elifesciences.org/",
+  "image": "http://dev.elifesciences.org/images/dev_header.png",
+  "author": {
+    "name": "elifesciences"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Our philosophy is to make eLife content promiscuous, and to make it as easy as possible for the content to flow to as many locations as possible. We are also working on services to work on top of our publications. This portal will cover documentation about our services, and it will provide pointers to other services that work well with our content."
+}

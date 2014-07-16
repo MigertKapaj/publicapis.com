@@ -1,0 +1,15 @@
+{
+  "id": "colourlovers",
+  "title": "COLOURlovers",
+  "link": "http://creativecommons.org",
+  "image": "http://static.colourlovers.com/images/v4.0/_/global-sprite.png?16",
+  "author": {
+    "name": "COLOURlovers"
+  },
+  "tags": [
+    "Service",
+    "Projects",
+    "Conditions"
+  ],
+  "description": "Access to the services provided by this website and the COLOURlovers API and use of the information and services provided through the same, with or without modification, are permitted provided that the following conditions are met"
+}

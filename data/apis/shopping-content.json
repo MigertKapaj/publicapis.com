@@ -1,0 +1,15 @@
+{
+  "id": "shopping-content",
+  "title": "Shopping Content",
+  "link": "https://developers.google.com/shopping-content/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Operation",
+    "Separate",
+    "Processing"
+  ],
+  "description": "Batching allows you to execute a single HTTP call containing multiple operations instead of sending each operation as a separate HTTP request. In this way, the Content API for Shopping server can optimize the processing and return results faster."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "my-cycling",
+  "title": "My Cycling",
+  "link": "http://www.mycyclinglog.com/api/docs.php",
+  "image": "http://www.mycyclinglog.com/images/mcl_logo.png",
+  "author": {
+    "name": "My Cycling"
+  },
+  "tags": [
+    "Authenticating",
+    "HTTP",
+    "Scheme"
+  ],
+  "description": "Many My Cycling API methods require authentication.  All responses are relative to the context of the authenticating user.  For the time being, HTTP Basic Authentication is the only supported authentication scheme.\n\n"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "text2html",
+  "title": "Text2HTML",
+  "link": "https://www.mashape.com/pbkwee/text2html",
+  "image": "",
+  "author": {
+    "name": "pbkwee"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Converts text to HTML\r\n\r\nStart a line with h1, h2 or h3 to create a header.\r\n\r\nWe will convert text that looks like URLs to hyperlinks to that URL http://foo.com => <a href='http://foo.com'>http://foo.com</a>\r\n\r\nWe try to leave valid HTML alone. For example, if you include <p>http://foo.com.</p> then we will not add an anchor tag to that URL.\r\n\r\nNon-HTML friendly characters like & < are escaped like &amp; &lt;\r\n\r\nWe do minimal conversion of text. This approach differs (by design) from http://txt2html.sourceforge.net/ which does more processing like numbered lists and headers and tables.\r\nFeedback on this tool is welcomed on our blog."
+}

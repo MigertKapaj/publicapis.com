@@ -1,0 +1,16 @@
+{
+  "id": "eligius",
+  "title": "Eligius ",
+  "link": "http://eligius.st/~gateway/pool-apis",
+  "image": "http://eligius.st/~gateway/sites/default/files/btc-logo.png",
+  "author": {
+    "name": "Eligius "
+  },
+  "tags": [
+    "Knowledge",
+    "Data",
+    "Miners",
+    "Stats"
+  ],
+  "description": "Eligius has, to my knowledge, more publicly exposed data about the pool and miners than any other pool, be it on the stats page, the API, or elsewhere."
+}

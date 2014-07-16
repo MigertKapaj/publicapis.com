@@ -1,0 +1,15 @@
+{
+  "id": "campfire",
+  "title": "Campfire",
+  "link": "https://github.com/37signals/campfire-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Existing",
+    "Work",
+    "Authenticating"
+  ],
+  "description": "When you're using the API, it's always through an existing user in Campfire. There's no special API user. So when you use the API as \"david\", you get to see and work with what \"david\" is allowed to. Authenticating is done with an authentication token, which you'll find on the \"My info\" screen in Campfire."
+}

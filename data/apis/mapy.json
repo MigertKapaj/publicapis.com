@@ -1,0 +1,13 @@
+{
+  "id": "mapy",
+  "title": "Mapy",
+  "link": "http://api.mapy.cz/",
+  "image": "http://api.mapy.cz/img/web/logo.gif",
+  "author": {
+    "name": "Mapy.cz"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Pomocí Mapy API můžete na své stránky umístit mapy, jaké znáte ze služby Mapy.cz. V rámci API jsou přístupné všechny mapové podklady jako na www.mapy.cz (kromě podrobné mapy Evropy). "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "hacker-news",
+  "title": "Hacker News",
+  "link": "http://api.ihackernews.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJzN3L9xUhT5ilV3Ol55dtr5TMGA3CtIDN6SqRh4l0aJD8MUHvgw",
+  "author": {
+    "name": "Hacker News"
+  },
+  "tags": [
+    "Developed",
+    "Data",
+    "Interact"
+  ],
+  "description": "This is an unofficial API for Y Combinator's HackerNews that was developed for iHackerNews.com (a mobile version of HN). It allows you to programmatically retrieve data and interact with news.ycombinator.com."
+}

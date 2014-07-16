@@ -1,0 +1,15 @@
+{
+  "id": "subeta",
+  "title": "Subeta",
+  "link": "http://api.subeta.net/docs/scope/user.change_wardrobe",
+  "image": "",
+  "author": {
+    "name": "Subeta"
+  },
+  "tags": [
+    "Fleshing",
+    "Choose",
+    "Adoy"
+  ],
+  "description": "We're working on fleshing out the documentation on this page, right now it's a bit bare. First, you should choose an OAuth2 Library. For this example we'll be using this one from adoy on github! "
+}

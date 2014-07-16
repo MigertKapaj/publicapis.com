@@ -1,0 +1,15 @@
+{
+  "id": "mapbox",
+  "title": "Mapbox",
+  "link": "https://www.mapbox.com/developers/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRAx3awjydQFEePdhwmtdXP3h5iQSS6CKuLvOE7mbYAFWJD2VQgag",
+  "author": {
+    "name": "Mapbox"
+  },
+  "tags": [
+    "Service",
+    "Processing",
+    "Respond"
+  ],
+  "description": "Mapbox web services accept GET requests and support both HTTP and HTTPS. If there is an error processing the request the API will respond with an appropriate HTTP error code."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "quickgo",
+  "title": "QuickGO",
+  "link": "http://www.ebi.ac.uk/QuickGO/WebServices.html",
+  "image": "http://www.ebi.ac.uk/web_guidelines/images/logos/EMBL-EBI/EMBL_EBI_Logo_white.png",
+  "author": {
+    "name": "EMBL-EBI"
+  },
+  "tags": [
+    "Annotation",
+    "Data",
+    "Service"
+  ],
+  "description": "QuickGO can supply GO term information and GO annotation data via REST web services. The details of each service can be found below; a WADL description of the services can be found here. "
+}

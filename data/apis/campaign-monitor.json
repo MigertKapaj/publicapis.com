@@ -1,0 +1,15 @@
+{
+  "id": "campaign-monitor",
+  "title": "Campaign Monitor",
+  "link": "http://www.campaignmonitor.com/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSL6g8aeys2tJ0FcFfPDZGAhNIzXyM71JSZ6Xu53P5TKq1Sl83TnA",
+  "author": {
+    "name": "CampaignMonitor"
+  },
+  "tags": [
+    "Possibilities",
+    "Software",
+    "Subscribing"
+  ],
+  "description": "The Campaign Monitor API opens up a world of possibilities for integrating our platform with your favorite CMS, blog, or other third party software. Keep up to date with the latest API news by subscribing to our API Announcements."
+}

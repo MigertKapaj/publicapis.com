@@ -1,0 +1,15 @@
+{
+  "id": "and",
+  "title": "AND",
+  "link": "http://geoaccess.and.com/geoaccessinfo/",
+  "image": "http://geoaccess.and.com/geoaccessinfo/images/logo.gif",
+  "author": {
+    "name": "AND"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Software"
+  ],
+  "description": "GeoAccess, AND's XML Web Services solution, combines AND's two global databases Road & Address with additional road data aggregated from data partners, and with AND's complete offering of software component functionalities in a single comprehensive platform."
+}

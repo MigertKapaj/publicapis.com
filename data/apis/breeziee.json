@@ -1,0 +1,16 @@
+{
+  "id": "breeziee",
+  "title": "Breeziee",
+  "link": "http://breeziee.com/api.php",
+  "image": "http://breeziee.com/images/ico-1.png",
+  "author": {
+    "name": "Breeziee"
+  },
+  "tags": [
+    "Interact",
+    "Powered",
+    "Services",
+    "Data"
+  ],
+  "description": "The Breeziee API was created to allow applications to easily interact with and add to Breeziee's data. We want to make it easy for you to build applications powered by Breeziee, pull content into other clients and services, or integrate Breeziee's data with external websites."
+}

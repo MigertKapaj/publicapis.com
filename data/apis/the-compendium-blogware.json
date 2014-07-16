@@ -1,0 +1,16 @@
+{
+  "id": "the-compendium-blogware",
+  "title": "The Compendium Blogware",
+  "link": "http://docs.eng.compendiumblogware.com/node/1",
+  "image": "http://docs.eng.compendiumblogware.com/sites/default/files/garland_logo.png",
+  "author": {
+    "name": "Compendium Blogware"
+  },
+  "tags": [
+    "Integrate",
+    "Blogging",
+    "web",
+    "Service"
+  ],
+  "description": "The Compendium Blogware Application Program Interface (API) provides a simple and powerful way for third parties to integrate with Compendium's corporate blogging application.  Access to application resources is achieved through web service calls.  The simplicity of these calls makes it possible for these services to be used both from browsers and server side applications."
+}

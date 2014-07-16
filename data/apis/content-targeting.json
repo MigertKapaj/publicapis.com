@@ -1,0 +1,16 @@
+{
+  "id": "content-targeting",
+  "title": "Content Targeting",
+  "link": "http://www.sensebot.net/contextualadapi.aspx",
+  "image": "http://www.sensebot.net/sensebotlogo.jpg",
+  "author": {
+    "name": "Sensebot"
+  },
+  "tags": [
+    "Webpage",
+    "Extracts",
+    "Mining",
+    "Content"
+  ],
+  "description": "Content Targeting API analyzes a webpage on-the-fly and identifies the most relevant advertising category for it. The categories are extracted using our proprietary semantic engine SenseBot. "
+}

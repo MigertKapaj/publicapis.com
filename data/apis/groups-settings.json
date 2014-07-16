@@ -1,0 +1,16 @@
+{
+  "id": "groups-settings",
+  "title": "Groups Settings",
+  "link": "https://developers.google.com/admin-sdk/groups-settings/manage",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Provides",
+    "Groups",
+    "Manage",
+    "Apps"
+  ],
+  "description": "Google Groups provides a convenient way for your users to send messages to groups of people they frequently contact. With the Google Apps Groups Settings API account-level administrators can manage the group settings for your Google Apps account. "
+}

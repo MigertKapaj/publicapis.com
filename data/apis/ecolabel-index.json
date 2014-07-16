@@ -1,0 +1,15 @@
+{
+  "id": "ecolabel-index",
+  "title": "Ecolabel Index",
+  "link": "http://www.ecolabelindex.com/developers/api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA8J9U5MfTZFsdLUBhZCchIxK-auiNwSdaKAz26zSatzGi_KEqlA",
+  "author": {
+    "name": "Ecolabel Index"
+  },
+  "tags": [
+    "Request",
+    "Specifying",
+    "Response"
+  ],
+  "description": "To perform an action using the Ecolabel Index API, send a request to its endpoint specifying a method and some arguments. You will receive a formatted response."
+}

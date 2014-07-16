@@ -1,0 +1,15 @@
+{
+  "id": "runsignup",
+  "title": "RunSignUp",
+  "link": "https://runsignup.com/API/",
+  "image": "https://d368g9lw5ileu7.cloudfront.net/frontend/img/logos/runsignup.bts-RC.png",
+  "author": {
+    "name": "RunSignUp"
+  },
+  "tags": [
+    "Robust",
+    "Spurs",
+    "Integration"
+  ],
+  "description": "RunSignUp has implemented a robust and completely open API with a set of partners to make sure our web service is as open as possible. The benefit to the running community is that RunSignUp can be used with many other services for timing, results, and any website. We also hope the API and the various components we have open sourced serve as spurs for more innovation and eases integration points for everyone in the community. "
+}

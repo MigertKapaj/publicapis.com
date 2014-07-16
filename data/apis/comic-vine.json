@@ -1,0 +1,15 @@
+{
+  "id": "comic-vine",
+  "title": "Comic Vine",
+  "link": "http://api.comicvine.com/",
+  "image": "http://static.comicvine.com/bundles/comicvinesite/images/logo.png",
+  "author": {
+    "name": "Comic Vine"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Provide"
+  ],
+  "description": "These APIs provide full access to our structured-wiki content data in XML and JSON formats. It does not provide data specific to our userbase. You must sign up for a unique api key for each site individually."
+}

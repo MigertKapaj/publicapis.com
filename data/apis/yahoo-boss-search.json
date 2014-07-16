@@ -1,0 +1,17 @@
+{
+  "id": "yahoo-boss-search",
+  "title": "Yahoo Boss Search",
+  "link": "http://developer.yahoo.com/boss/search/",
+  "image": "https://developer.yahoo.com/boss/search/API_Update_Graphic_BOSS.png",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Search",
+    "Products",
+    "Assets"
+  ],
+  "description": "BOSS is Yahoo's open search and data services platform. The goal of BOSS is simple: to foster innovation in the search industry. Developers, start-ups, and large Internet companies can use BOSS to build web-scale search products that utilize Yahoo Search technology and data. By combining your unique assets and ideas with our search technology assets, you can build innovative experiences that delight your users. BOSS is offered with a low flexible usage fee based on the type of queries. You can also get search advertising in the same service to monetize your offerings."
+}

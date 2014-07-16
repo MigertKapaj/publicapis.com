@@ -1,0 +1,16 @@
+{
+  "id": "backlift",
+  "title": "Backlift",
+  "link": "https://docs.backlift.com/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQhv1JADEVj3hVDu7sRLwzWiuv6QfwJHPv_wgR9ssa1w5mncWv3PQ",
+  "author": {
+    "name": "Backlift"
+  },
+  "tags": [
+    "Establishing",
+    "Private",
+    "Data",
+    "Settings"
+  ],
+  "description": "The authorization plugin provides an API for registering and establishing sessions for users, storing private and public user data, and setting permissions on data objects."
+}

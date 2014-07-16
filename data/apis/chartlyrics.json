@@ -1,0 +1,16 @@
+{
+  "id": "chartlyrics",
+  "title": "ChartLyrics",
+  "link": "http://www.chartlyrics.com/api.aspx",
+  "image": "http://www.chartlyrics.com/img/logo.png",
+  "author": {
+    "name": "ChartLyrics"
+  },
+  "tags": [
+    "Supports",
+    "Search",
+    "Song",
+    "Query"
+  ],
+  "description": "The ChartLyrics API supports both the SOAP and GET protocol. Allowing users to search for lyrics using the artist name, song title or lyric text as search query."
+}

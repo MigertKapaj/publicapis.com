@@ -1,0 +1,14 @@
+{
+  "id": "rhapsody",
+  "title": "Rhapsody",
+  "link": "http://access.napster.com/docs/",
+  "image": "http://www.rhapsody.com/shared/us/logos/rhapsody_logo_1x.png",
+  "author": {
+    "name": "Rhapsody"
+  },
+  "tags": [
+    "Obscure",
+    "Millions"
+  ],
+  "description": "Think of a song and play it instantly. From obscure album cuts to chart-topping hits, we have a catalog of millions of songs and full-length albums."
+}

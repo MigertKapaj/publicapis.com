@@ -1,0 +1,16 @@
+{
+  "id": "minnesota-cities-townships-and-unorganized-territories-ctus-service-access",
+  "title": "Minnesota Cities, Townships and Unorganized Territories (CTUs): Service Access",
+  "link": "http://www.mngeo.state.mn.us/CTU/service.html",
+  "image": "",
+  "author": {
+    "name": "Minnesota CTU"
+  },
+  "tags": [
+    "Web",
+    "Service",
+    "Pregrame",
+    "Local data"
+  ],
+  "description": "You may access the data found in the Minnesota CTU database via a web service interface using the file query.pl. This allows end users to create programs that use the data without having to store it in a local database, thus avoiding the need to periodically update the local data source to reflect changes.Querying this data is accomplished by sending parameters which get converted into a SQL statement on our server. Results are returned to the requesting process in XML format. Prior to the construction of the SQL statement on our server, the user supplied parameters are parsed and sanitized (i.e. words such as 'drop', 'delete' and characters such as \";\" are removed to \nprevent SQL injection attacks)."
+}

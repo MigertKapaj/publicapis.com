@@ -1,0 +1,16 @@
+{
+  "id": "search-marketing",
+  "title": "Search Marketing ",
+  "link": "http://developer.yahoo.com/searchmarketing/",
+  "image": "https://s.yimg.com/oo/ydn-footer-sprite/sprite-footer.png",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Access",
+    "Web",
+    "Interface",
+    "Reports"
+  ],
+  "description": "The Yahoo! Search Marketing API provides programmatic access to the same functionality exposed visually in the web-based interface. You can create and manage campaigns, pull reports, set bids and more. All of these capabilities are exposed via a collection of SOAP-based Web Services that are easy to use and thoroughly documented."
+}

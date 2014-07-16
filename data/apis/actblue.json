@@ -1,0 +1,16 @@
+{
+  "id": "actblue",
+  "title": "Actblue",
+  "link": "https://secure.actblue.com/api",
+  "image": "https://d3hmj8emb846zc.cloudfront.net/assets/layout/actblue-5e406f842cdec293d2db577b75e2cb4c.png",
+  "author": {
+    "name": "Actblue"
+  },
+  "tags": [
+    "Organization",
+    "Committees",
+    "Platform",
+    "Enforce"
+  ],
+  "description": "ActBlue helps individuals and organizations raise money for Democratic candidates and committees across the country. Since 2004, thousands of ActBlue fundraisers have raised in excess of $100 million dollars using our unique platform. ActBlue maintains a directory of eligible candidates and committees, securely handles donor credit cards, enforces campaign finance limits and eligibility requirements in all 50 states, and provides campaigns with real-time access to donor information. "
+}

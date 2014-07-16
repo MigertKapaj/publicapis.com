@@ -1,0 +1,15 @@
+{
+  "id": "extended",
+  "title": "Extended",
+  "link": "http://wordpress.org/extend/plugins/extended-xml-rpc-api/",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress"
+  },
+  "tags": [
+    "Integrate",
+    "Functionality",
+    "External code"
+  ],
+  "description": "This plugin was made to make WordPress easier to integrate with external platforms and external code. While the existing WordPress XML-RPC API provides a lot of functionality, it does not provide everything. This plugin allows nearly every standard WordPress function to be called via API."
+}

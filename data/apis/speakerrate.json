@@ -1,0 +1,13 @@
+{
+  "id": "speakerrate",
+  "title": "SpeakerRate",
+  "link": "http://speakerrate.com/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ocq9YE_Z3aDPV7MBcb88NhFt6BRM6gpbN9pAlouloHieJv7D",
+  "author": {
+    "name": "SpeakerRate"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The SpeakerRate API is available for non-commercial use by outside developers. If you wish to make use of the API for commercial purposes,"
+}

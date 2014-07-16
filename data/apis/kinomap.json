@@ -1,0 +1,15 @@
+{
+  "id": "kinomap",
+  "title": "Kinomap",
+  "link": "http://v2.kinomap.com/#!api",
+  "image": "http://v2.kinomap.com/theme/kinomap/img/top_logo.png",
+  "author": {
+    "name": "Kinomap"
+  },
+  "tags": [
+    "Videos",
+    "iPhone",
+    "Geolocated"
+  ],
+  "description": "It's already possible to upload videos on http://www.kinomap.com using Kinomap Uploader for PC or Kinomap Maker for iPhone and Android. But you might want to upload geolocated videos from your own software.\n        "
+}

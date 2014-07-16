@@ -1,0 +1,16 @@
+{
+  "id": "merriam-websters-collegiater-dictionary-with-audio",
+  "title": "Merriam-Webster's Collegiate® Dictionary with Audio",
+  "link": "http://dictionaryapi.com/products/api-collegiate-dictionary.htm",
+  "image": "http://dictionaryapi.com/images/dev-center-logo-500x100.png",
+  "author": {
+    "name": "Merriam-Webster"
+  },
+  "tags": [
+    "Dictionary",
+    "Words",
+    "Meanings",
+    "Pronunciations"
+  ],
+  "description": "The Eleventh Edition of America's best-selling dictionary features more than 225,000 clear and precise definitions and newly added words and meanings. More than 100,000 audio pronunciations and 42,000 usage examples. Includes Foreign Words and Phrases, and Biographical Names and Geographical Names."
+}

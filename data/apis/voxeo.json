@@ -1,0 +1,16 @@
+{
+  "id": "voxeo",
+  "title": "Voxeo",
+  "link": "http://voxeo.com/developers/",
+  "image": "http://voxeo.com/wp-content/themes/voxeo/images/logo_voxeo_dark@2x.png",
+  "author": {
+    "name": "Voxeo"
+  },
+  "tags": [
+    "Ecosystem",
+    "Self- service",
+    "Application",
+    "Tasks"
+  ],
+  "description": "Voxeo Prophecy, CXP and our ecosystem of APIs (application programming interfaces) give you control of your entire self-service application lifecycle. Leverage APIs to enhance applications, streamline common tasks\n"
+}

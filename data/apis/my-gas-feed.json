@@ -1,0 +1,15 @@
+{
+  "id": "my-gas-feed",
+  "title": "My Gas Feed",
+  "link": "http://www.mygasfeed.com/keys/intro",
+  "image": "http://www.mygasfeed.com/img/header-logo.png",
+  "author": {
+    "name": "My GasFeed"
+  },
+  "tags": [
+    "Standards",
+    "Parameters",
+    "Jason"
+  ],
+  "description": "MyGasFeed api uses many of the same standards as other APIs you may be familiar with. All requests are simple GET or POST requests that return JSON responses. (Note that the request parameters are not JSON, they are standard HTTP keys and values.) Right now we are in the beta stages adding more urls and features to the API so you will be able to add more features as we finish the API properly. If you are in the middle of developing and need some customized URL requests please don't hesitate to contact us. \n\n"
+}

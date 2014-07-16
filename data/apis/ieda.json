@@ -1,0 +1,16 @@
+{
+  "id": "ieda",
+  "title": "IEDA",
+  "link": "http://www.iedadata.org/services/webservices",
+  "image": "http://www.iedadata.org/sites/www.iedadata.org/files/arthemia_logo.jpg",
+  "author": {
+    "name": "IEDA"
+  },
+  "tags": [
+    "Server",
+    "Sustain",
+    "Data",
+    "Service"
+  ],
+  "description": "IEDA is a community-based facility that serves to support, sustain, and advance the geosciences by providing data services for observational Geoscience data from the Ocean, Earth, and Polar Sciences."
+}

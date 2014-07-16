@@ -1,0 +1,15 @@
+{
+  "id": "mutalyzer",
+  "title": "Mutalyzer",
+  "link": "https://mutalyzer.nl/webservices",
+  "image": "https://mutalyzer.nl/base/images/mutalyzer_logo.png",
+  "author": {
+    "name": "Mutalyzer"
+  },
+  "tags": [
+    "Functionality",
+    "Interfaces",
+    "Service"
+  ],
+  "description": "Most Mutalyzer functionality is programmatically available through two interfaces: a SOAP web service and a HTTP/RPC+JSON web service. "
+}

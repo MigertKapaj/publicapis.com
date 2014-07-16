@@ -1,0 +1,16 @@
+{
+  "id": "issuu-search",
+  "title": "Issuu Search",
+  "link": "http://developers.issuu.com/api/",
+  "image": "http://developers.issuu.com/img/issuu_logo.png",
+  "author": {
+    "name": "Issuu"
+  },
+  "tags": [
+    "Integrate",
+    "Search",
+    "Online",
+    "Comments"
+  ],
+  "description": "Use the Issuu Search API to integrate Issuu powerful search with your own online application! Search all Issuu publications, comments, and users."
+}

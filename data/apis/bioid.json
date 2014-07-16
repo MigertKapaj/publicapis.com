@@ -1,0 +1,15 @@
+{
+  "id": "bioid",
+  "title": "BioID",
+  "link": "http://www.bioid.com/products/bws/apis.html",
+  "image": "http://www.bioid.com/assets/images/Logos/Logo-BioID-MV-sRGB-w-72-L.png",
+  "author": {
+    "name": "BioID"
+  },
+  "tags": [
+    "Detection",
+    "Provides",
+    "Detected"
+  ],
+  "description": "Performs a one-to-one comparison to verify a person is who he or she claims to be. This method supports optional live detection for face, to identify photo replay attacks. It also provides useful error information such as when no face or more than one face is detected."
+}

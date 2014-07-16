@@ -1,0 +1,17 @@
+{
+  "id": "tasks",
+  "title": "Tasks",
+  "link": "https://developers.google.com/google-apps/tasks/v1/reference/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Searching",
+    "Reading",
+    "Describes",
+    "Access",
+    "Data"
+  ],
+  "description": "The Google Google Tasks API provides developers with a powerful set of API endpoints for searching, reading, and updating Google Tasks content and metadata. This document describes how to use a RESTful calling style and client libraries for various programming languages (currently Java, Python, and PHP) to access and edit Google Tasks data."
+}

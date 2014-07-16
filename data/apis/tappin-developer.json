@@ -1,0 +1,15 @@
+{
+  "id": "tappin-developer",
+  "title": "TappIn Developer",
+  "link": "http://www.tappin.com/developer-api",
+  "image": "http://www.tappin.com//images/tappin-logo-new.jpg",
+  "author": {
+    "name": "Tappin"
+  },
+  "tags": [
+    "Device",
+    "Access",
+    "Instantly"
+  ],
+  "description": "Our goal is to create a single icon for your mobile device that you can use to remotely access virtually any place where you might have your digital files stored and then make those files available for you to instantly use or share with others. With a single touch, you can access all of your files without having to move them to one place!"
+}

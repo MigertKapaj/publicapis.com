@@ -1,0 +1,15 @@
+{
+  "id": "spil-games",
+  "title": "Spil Games",
+  "link": "http://www.spilgames.com/developers/",
+  "image": "http://www.spilgames.com/wp-content/themes/spilgames/img/logo.png",
+  "author": {
+    "name": "Spil Games"
+  },
+  "tags": [
+    "Social",
+    "Platforms",
+    "Devices"
+  ],
+  "description": "The Spil Games studios create casual and social games for all of our platforms and beyond. We’re currently developing in-browser games using HTML5, to be played on multiple devices."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "good-guide",
+  "title": "Good Guide",
+  "link": "http://developer.goodguide.com/docs",
+  "image": "http://developer.goodguide.com/public/Mashery/images/masherymade.png",
+  "author": {
+    "name": "Good Guide"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The GoodGuide API enables developers to access GoodGuide.com data through a REST-based interface.  Version 1.0 of the GoodGuide API currently supports one operation, search, that returns information and GoodGuide ratings about entities.  An entity as defined by the GoodGuide API is a product, company, brand, or product category for which there is a GoodGuide rating.  Through the API, you can find information about any entity currently available on GoodGuide.com."
+}

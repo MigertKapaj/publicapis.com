@@ -1,0 +1,15 @@
+{
+  "id": "wheres-it-up",
+  "title": "Where's It Up?",
+  "link": "http://api.wheresitup.com/docs/v1",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQjEBnJznkuggBADaPIUC-HMjqktuRW9n2A5M1W7m1bhH1fVgRFPQ",
+  "author": {
+    "name": "Where's It Up?"
+  },
+  "tags": [
+    "System",
+    "Server",
+    "Request"
+  ],
+  "description": "Our system is a rest-ish interface working primarily in JSON. Requests are POSTed to our server, which responds in JSON as well. Our system is a bit more picky than most, including extraneous variables with a request may result in an error."
+}

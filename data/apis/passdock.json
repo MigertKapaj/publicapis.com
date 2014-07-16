@@ -1,0 +1,16 @@
+{
+  "id": "passdock",
+  "title": "Passdock",
+  "link": "https://api.passdock.com/doc",
+  "image": "",
+  "author": {
+    "name": "Passdock"
+  },
+  "tags": [
+    "Create",
+    "manage",
+    "Organize",
+    "Digital passes"
+  ],
+  "description": "Passdock lets you create, manage, organize and distribute digital Passes to mobile devices."
+}

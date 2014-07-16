@@ -1,0 +1,15 @@
+{
+  "id": "chatbot",
+  "title": "Chatbot",
+  "link": "http://blog.program-o.com/chatbot-api/",
+  "image": "http://www.program-o.com/ns/wp-content/themes/program-o/programo_header.jpg",
+  "author": {
+    "name": "Program O"
+  },
+  "tags": [
+    "Website",
+    "Source",
+    "Project"
+  ],
+  "description": "Welcome to the Program O Project website This is the home of the Open Source PHP MySQL AIML Chatbot Project."
+}

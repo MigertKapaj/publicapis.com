@@ -1,0 +1,15 @@
+{
+  "id": "caval",
+  "title": "CAVAL",
+  "link": "http://caval.travel/",
+  "image": "http://caval.travel/caval_logo.png",
+  "author": {
+    "name": "CAVAL"
+  },
+  "tags": [
+    "Service",
+    "Providers",
+    "Online"
+  ],
+  "description": "This specification offers a vendor independent web services specification for interoperability between tour operators (traditional and IDS) and service providers (hotels, transfers and activities), focusing on online sales."
+}

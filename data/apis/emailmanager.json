@@ -1,0 +1,13 @@
+{
+  "id": "emailmanager",
+  "title": "emailmanager",
+  "link": "http://api.emailmanager.com/",
+  "image": "http://api.emailmanager.com/img/xlogo_api.jpg.pagespeed.ic.9fG3an-AWA.jpg",
+  "author": {
+    "name": "emailmanager"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Utilize a API do emailmanager para conectar-se à sua aplicação da web favorita!\nFaça como outros usuários do emailmanager que já estão usando nossa API para criar plugins que se conectam a blogs, carrinhos de compras do e-commerce, CMS e muito mais."
+}

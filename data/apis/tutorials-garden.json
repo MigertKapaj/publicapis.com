@@ -1,0 +1,16 @@
+{
+  "id": "tutorials-garden",
+  "title": "Tutorials Garden",
+  "link": "http://www.tutorialsgarden.com/developers/docs/categories/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRUy77tpUZuNue7OpQjry3VM7ogX4ROJRsPOfnYjgA3Q5Dx5VAG",
+  "author": {
+    "name": "Tutorials Garden"
+  },
+  "tags": [
+    "Program",
+    "Data",
+    "Methods",
+    "Perform"
+  ],
+  "description": "Tutorials Garden has an open Application Programming Interface (API for short). This means that anyone can write their own program to present public TG data (like categories, tutorials) in new and different ways. There's a list of API methods available to you to work with, and I am more than happy when someone uses them, so... go forward and perform experiments! "
+}

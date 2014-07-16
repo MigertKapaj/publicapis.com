@@ -1,0 +1,15 @@
+{
+  "id": "donor-tools",
+  "title": "Donor Tools",
+  "link": "http://www.donortools.com/userguide/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTI-bnkS8R3BnzIleD-pEafEZpDP3bcJXuq8h4u2vIzXVfpAai3",
+  "author": {
+    "name": "Donor Tools"
+  },
+  "tags": [
+    "Online",
+    "Managment",
+    "Outside"
+  ],
+  "description": "Donor Tools is the first online donor management system to offer a truly open, full-featured API. Just about anything that can be done in Donor Tools can also be done outside Donor Tools, using the API. The only difference is that you're dealing with XML instead of HTML. "
+}

@@ -1,0 +1,13 @@
+{
+  "id": "smartpeagrocerysalesapi",
+  "title": "SmartPeaGrocerySalesAPI",
+  "link": "https://www.mashape.com/smartpea/smartpeagrocerysalesapi",
+  "image": "",
+  "author": {
+    "name": "smartpea"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "SmartPea API is a RESTful API designed for developers who want to access to hyper-localized grocery deals data. We collect grocery deals information at real time from over 40 national retailers across US. \r\n\r\nTo query SmartPea API, simply query: http://api.smartpea.com/api/deal/?title={grocery item title}&zip={zipcode} \r\nE.g. to query juice deals within zip code 92116, just query http://api.smartpea.com/api/deal/?title=juice&zip=92116 \r\n\r\n\r\nFor each searched grocery item, we show the following information:\r\nTitle,\r\nRetailer's name,\r\nImage,\r\nDescription,\r\nDeal restriction,\r\nCurrent price,\r\nRegular price,\r\nSavings,\r\nNutritional facts: including calories, fat, cholesterol, sodium, potassium, sugar, fiber, carb, protein,\r\nNutrition rating,\r\nNutrition highlight: including whether the item includes ingredients that may pose a health concern,\r\nUser rating,\r\nUser comments.\r\n\r\nPlease contact us at contact@smartpea.com if you have any questions with regard to SmartPea API."
+}

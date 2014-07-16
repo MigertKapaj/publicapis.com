@@ -1,0 +1,16 @@
+{
+  "id": "ziptax",
+  "title": "ZipTax",
+  "link": "http://www.zip-tax.com/documentation",
+  "image": "http://www.zip-tax.com/assets/images/logo.png",
+  "author": {
+    "name": "ZipTax"
+  },
+  "tags": [
+    "Servers",
+    "Retrieve",
+    "Data",
+    "Desired"
+  ],
+  "description": "The Zip-Tax.com API is designed to allow programmers to submit a request to our servers from a website or application and retrieve response data from our databases. The format of the response can be returned as JSON or XML. Simply pass the desired format as part of the request. "
+}

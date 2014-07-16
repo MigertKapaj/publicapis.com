@@ -1,0 +1,16 @@
+{
+  "id": "subsonic",
+  "title": "Subsonic",
+  "link": "http://www.subsonic.org/pages/api.jsp",
+  "image": "http://www.subsonic.org/pages/inc/img/subsonic.png",
+  "author": {
+    "name": "Subsonic"
+  },
+  "tags": [
+    "Anyone",
+    "Programs",
+    "Server",
+    "Devices"
+  ],
+  "description": "The Subsonic API allows anyone to build their own programs using Subsonic as the media server, whether they're on the web, the desktop or on mobile devices. All the Subsonic apps are built using the Subsonic API. "
+}

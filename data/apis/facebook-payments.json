@@ -1,0 +1,16 @@
+{
+  "id": "facebook-payments",
+  "title": "Facebook Payments",
+  "link": "https://developers.facebook.com/docs/payments/",
+  "image": "https://m.ak.fbcdn.net/dragon.ak/hphotos-ak-prn1/t39.2178-6/851537_210767705764940_1522338888_n.png",
+  "author": {
+    "name": "Facebook"
+  },
+  "tags": [
+    "Accept",
+    "Payments",
+    "App",
+    "Game"
+  ],
+  "description": "Easily accept international payments in your app or game."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "message-delivery-service",
+  "title": "Message Delivery Service",
+  "link": "http://tel.gigahost.dk/docs/",
+  "image": "",
+  "author": {
+    "name": "Message Delivery Service"
+  },
+  "tags": [
+    "Delivery Service",
+    "Restful",
+    "Exensively"
+  ],
+  "description": "This document details how to use the Gigahost Message Delivery Service to deliver Short Messages to cellphones and other capable devices. It also details how to track the sent messages, along with other related operations. The API uses normal HTTP requests and is highly RESTful. XML is used extensively for responses."
+}

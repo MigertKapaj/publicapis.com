@@ -1,0 +1,16 @@
+{
+  "id": "online-ocr",
+  "title": "Online OCR",
+  "link": "http://ocrapiservice.com",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQC1CmIvZJAWJoPwTmT2wavHNv4WaoCGjmMrp3Gyoqd-PO3HdeK4w",
+  "author": {
+    "name": "Online OCR"
+  },
+  "tags": [
+    "Agile",
+    "Modern",
+    "Web",
+    "Services"
+  ],
+  "description": "This API is created for agile business using modern technologies and best practices. We avoided to use heavy web based on soap and xml. Our service uses an easy to use RESTful compliant API."
+}

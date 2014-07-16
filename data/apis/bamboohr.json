@@ -1,0 +1,15 @@
+{
+  "id": "bamboohr",
+  "title": "BambooHR",
+  "link": "http://www.bamboohr.com/api/documentation/",
+  "image": "http://static.bamboohr.com/img/b.png",
+  "author": {
+    "name": "BambooHR"
+  },
+  "tags": [
+    "Internet",
+    "Data",
+    "Several"
+  ],
+  "description": "The BambooHR API is a RESTful Internet protocol built around making semantically meaningful HTTPS requests to access or modify a resource (usually done by an employee). The API can be used to manipulate employee data and to generate reports in several formats."
+}

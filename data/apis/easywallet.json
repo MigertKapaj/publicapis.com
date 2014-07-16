@@ -1,0 +1,15 @@
+{
+  "id": "easywallet",
+  "title": "Easywallet",
+  "link": "https://easywallet.org/en/api",
+  "image": "https://easywallet.org/static/img/logo-medium.png",
+  "author": {
+    "name": "Easywallet"
+  },
+  "tags": [
+    "Interface",
+    "Service",
+    "Data"
+  ],
+  "description": "Easywallet.org provides an API, making it easy to interface with the service. API calls return JSON-encoded data."
+}

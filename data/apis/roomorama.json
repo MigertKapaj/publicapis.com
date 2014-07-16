@@ -1,0 +1,16 @@
+{
+  "id": "roomorama",
+  "title": "Roomorama",
+  "link": "https://www.roomorama.com/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR3Me6Ezi7ylaFcC4bzhvtq4bNRlLFPNtflNkqswHu6gpoIoaqDyg",
+  "author": {
+    "name": "Roomorama"
+  },
+  "tags": [
+    "Data",
+    "Developers",
+    "Document",
+    "Property"
+  ],
+  "description": "Roomorama exposes some of its site functionality and data through an application programming interface (API), so developers and property managers can interact with roomorama.com in an programmatic way. This document is the official reference documentation for this API."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "content-analysis",
+  "title": "Content Analysis",
+  "link": "https://www.mashape.com/enclout/content-analysis",
+  "image": "",
+  "author": {
+    "name": "enclout"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API performs a basic content analysis for a given domain. It extracts category, Language, URL, redirect URL, meta_keywords, meta_description, company, phone and email information"
+}

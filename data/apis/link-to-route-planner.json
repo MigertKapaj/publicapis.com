@@ -1,0 +1,16 @@
+{
+  "id": "link-to-route-planner",
+  "title": "Link to Route Planner",
+  "link": "http://www.mapquestapi.com/link-to-route-planner/",
+  "image": "http://www.mapquestapi.com/cdn/common/images/MQ_header_logo_DevNet.png",
+  "author": {
+    "name": "MapQuest"
+  },
+  "tags": [
+    "Connecting",
+    "Route",
+    "Prepopulate",
+    "Notes"
+  ],
+  "description": "Link to Route Planner supports four different methods of connecting to the Route Planner application. Using any of these methods you could have your website or application prepopulate the Route Planner application form with addresses and notes from your website or application.\n        "
+}

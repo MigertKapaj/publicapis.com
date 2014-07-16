@@ -1,0 +1,15 @@
+{
+  "id": "btcmine",
+  "title": "BTCMine",
+  "link": "http://btcmine.com/page/api/#jsonapi-balance",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9ryvLr0huGWcekqgkOjI5K8_Y0NHMWVBaZ-jntZG8FoI1sE4KEg",
+  "author": {
+    "name": "BTCMine"
+  },
+  "tags": [
+    "Server",
+    "Together",
+    "Reduce"
+  ],
+  "description": "BTCMine is a pooled Bitcoin mining server. Pooled mining allows many miners to work together and therefore reduce variance in their Bitcoin reward over time."
+}

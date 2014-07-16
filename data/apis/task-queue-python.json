@@ -1,0 +1,16 @@
+{
+  "id": "task-queue-python",
+  "title": "Task Queue Python",
+  "link": "https://developers.google.com/appengine/docs/python/taskqueue/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Perform",
+    "Background",
+    "Organize",
+    "Discreet"
+  ],
+  "description": "With the Task Queue API, applications can perform work outside of a user request, initiated by a user request. If an app needs to execute some background work, it can use the Task Queue API to organize that work into small, discrete units, called tasks. The app adds tasks to task queues to be executed later."
+}

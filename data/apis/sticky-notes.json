@@ -1,0 +1,15 @@
+{
+  "id": "sticky-notes",
+  "title": "Sticky Notes",
+  "link": "http://sayakb.github.io/sticky-notes/pages/api/",
+  "image": "",
+  "author": {
+    "name": "Sticky Notes"
+  },
+  "tags": [
+    "Defines",
+    "Depending",
+    "Response"
+  ],
+  "description": "This document defines the REST API specifications for Sticky Notes. The API has three main endpoints: create, show and list. For each endpoint, there are a set of mandatory and optional parameters and a standard output template depending upon the requested format for the response. "
+}

@@ -1,0 +1,14 @@
+{
+  "id": "pixlr",
+  "title": "Pixlr",
+  "link": "http://pixlr.com/developer/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQNvvNcuScOSbxVF-BbfhPWw5KhymPGS8Dpnr0jVAwvv7jOxetc",
+  "author": {
+    "name": "Pixlr"
+  },
+  "tags": [
+    "Web",
+    "Developer"
+  ],
+  "description": "The Pixlr API enables web developers to use Pixlr applications on their own site. Everything that is done on this site can be done on yours."
+}

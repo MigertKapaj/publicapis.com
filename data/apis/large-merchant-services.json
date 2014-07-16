@@ -1,0 +1,16 @@
+{
+  "id": "large-merchant-services",
+  "title": "Large Merchant Services",
+  "link": "https://www.x.com/developers/ebay/products/large-merchant-services",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "eBay"
+  },
+  "tags": [
+    "Large Merchant Sellers",
+    "SKU Managment",
+    "Inventory Managment",
+    "Order Fulfilment"
+  ],
+  "description": "Large Merchant Services (LMS) is a set of APIs designed to meet the \nintegration needs of Large Merchant sellers and ISVs. It is useful for \nenabling SKU management, inventory management, and order fulfillment. "
+}

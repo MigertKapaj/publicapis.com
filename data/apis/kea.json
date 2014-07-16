@@ -1,0 +1,15 @@
+{
+  "id": "kea",
+  "title": "KEA",
+  "link": "http://cmap.ihmc.us/xml/",
+  "image": "http://cmap.ihmc.us/images/AppIcons/AdminTool48px.gif",
+  "author": {
+    "name": "KEA"
+  },
+  "tags": [
+    "Service",
+    "Public",
+    "Address"
+  ],
+  "description": "A Cmap Server supporting web services is now available for testing by public users. The address of the server is cmapskea.ihmc.us. In CmapTools you will find it under the name IHMC KEA WebServices for Testing by Public Users."
+}

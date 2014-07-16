@@ -1,0 +1,15 @@
+{
+  "id": "findaa",
+  "title": "FindAA",
+  "link": "http://findaa.org/Home/Api",
+  "image": "http://findaa.org/Content/images/inscribed-triangle.png",
+  "author": {
+    "name": "FindAA"
+  },
+  "tags": [
+    "Information",
+    "Implemented",
+    "Service"
+  ],
+  "description": "FindAA has an application programming interface (API) to allow meeting information to be consumed for display on other web sites. It is implemented as a WCF service."
+}

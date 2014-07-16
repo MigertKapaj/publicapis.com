@@ -1,0 +1,16 @@
+{
+  "id": "the-tumbz",
+  "title": "The Tumbz",
+  "link": "http://tum.bz/api",
+  "image": "http://tum.bz/images/logo.png",
+  "author": {
+    "name": "Tumbz"
+  },
+  "tags": [
+    "Principles",
+    "Plan",
+    "Json",
+    "XML"
+  ],
+  "description": "The Tumbz API follows the basic REST principles. If you plan on building something and would need access to options that are not available right now, please let us know and we'll get in touch. Responses are sent in JSON format by default, but can be converted to XML simply by adding \".xml\" to the resource name your requesting in the url."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mytapelabels",
+  "title": "MyTapeLabels",
+  "link": "http://api.mytapelabels.com/",
+  "image": "http://api.mytapelabels.com/tapelabels.png",
+  "author": {
+    "name": "MyTapeLabels"
+  },
+  "tags": [
+    "Online",
+    "Corresponding",
+    "Interface"
+  ],
+  "description": "We are offering API keys to our online generator of Tape Barcode Labels in exchange of yearly subscriptions. These subscriptions, which can be cancelled at any time without cancelling the corresponding API keys, can be used by anyone either from our Web Interface, from our Command Line Interface or, for developers, from our XML-RPC API. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "merriam-websters-learners-dictionary-with-audio",
+  "title": "Merriam-Webster's Learner's Dictionary with Audio",
+  "link": "http://dictionaryapi.com/products/api-learners-dictionary.htm",
+  "image": "http://dictionaryapi.com/images/dev-center-logo-500x100.png",
+  "author": {
+    "name": "Merriam-Webster"
+  },
+  "tags": [
+    "Spoken",
+    "Written",
+    "Groundbreaking",
+    "Gramer"
+  ],
+  "description": "Designed to help advanced students master spoken and written English as it is actually used, this groundbreaking new dictionary provides in-depth and up-to-date coverage of basic English vocabulary, grammar, and usage. Outstanding features include nearly 100,000 words and phrases with 3,000 core vocabulary words identified. Includes more than 160,000 usage examples, more than 22,000 idioms, verbal collocations, and commonly used phrases. Perfect for ESL, EFL, ELL, and TEFL study and instruction."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sirsidynix-symphony",
+  "title": "SirsiDynix Symphony",
+  "link": "http://www.sirsidynix.com/api-web-services",
+  "image": "http://www.sirsidynix.com/sites/default/files/sd_logo.jpg",
+  "author": {
+    "name": "SirsiDynix"
+  },
+  "tags": [
+    "Libraries",
+    "Modify",
+    "Data",
+    "Facility"
+  ],
+  "description": "The SirsiDynix Symphony® API gives libraries the ability to modify, extract or update data to meet specific organizational needs – within the library facility itself, or for applications on the Web or otherwise."
+}

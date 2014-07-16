@@ -1,0 +1,16 @@
+{
+  "id": "digital-collections-http",
+  "title": "Digital Collections HTTP",
+  "link": "http://digital.library.unlv.edu/api/",
+  "image": "",
+  "author": {
+    "name": "Digital Collections"
+  },
+  "tags": [
+    "Character",
+    "Numeric",
+    "Message",
+    "Documented"
+  ],
+  "description": "The API returns all character data as UTF-8, and expects to receive it as UTF-8 as well. Clients should depend on the numeric HTTP status code only, not the result message. In addition to the documented status code below, clients should be prepared to handle unexpecte 500-level errors in response to any request.Content representations"
+}

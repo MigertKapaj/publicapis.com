@@ -1,0 +1,15 @@
+{
+  "id": "mygeoposition.com",
+  "title": "MyGeoPosition.com",
+  "link": "http://api.mygeoposition.com/geopicker/",
+  "image": "http://mygeoposition.com/images/logo.png",
+  "author": {
+    "name": "MyGeoPosition.com"
+  },
+  "tags": [
+    "Data",
+    "Clicked",
+    "Desired"
+  ],
+  "description": "Let your website users easily enter geographical data into your forms. Just add a button and some javascript - that's it. Once the button is clicked, a popup with a map is shown. The user can enter his desired location into a searchform and finetune the result by dragging & dropping a marker on the map."
+}

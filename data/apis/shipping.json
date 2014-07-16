@@ -1,0 +1,15 @@
+{
+  "id": "shipping",
+  "title": "Shipping",
+  "link": "http://www.ambercart.com/shipping",
+  "image": "http://www.ambercart.com/assets/pages/theme/logo-57cee473dc77802ca7f28dca93c35179.png",
+  "author": {
+    "name": "AmberCart"
+  },
+  "tags": [
+    "Website",
+    "Products",
+    "Interates"
+  ],
+  "description": "AmberCart seamlessly interates with your current website. Whether you have a blog or a complete website, you can now start selling your products by pasting one line of provided code into it. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "systemizer",
+  "title": "Systemizer",
+  "link": "http://systemizer.net/api",
+  "image": "http://systemizer.net/assets/images/logo-api.png",
+  "author": {
+    "name": "Systemizer"
+  },
+  "tags": [
+    "Automate",
+    "Workflow",
+    "Web",
+    "Events"
+  ],
+  "description": "Systemizer allows you to automate your online workflow by chaining all sorts of web-based events, actions and user interactions together."
+}

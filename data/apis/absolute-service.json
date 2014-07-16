@@ -1,0 +1,16 @@
+{
+  "id": "absolute-service",
+  "title": "Absolute Service",
+  "link": "http://extend.absolute.com/developer/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WXuYVUgEbfVMkRbsdXJtSTzpnAFmwhsz5q_pAC-Vs83LZ3yrcA",
+  "author": {
+    "name": "Absolute Service"
+  },
+  "tags": [
+    "Developers",
+    "Communicate",
+    "Web",
+    "Service"
+  ],
+  "description": "On this developer site, you will find the complete SOAP API reference as well as many examples of how to communicate directly with Absolute Service. There are many different ways to extend Absolute Service depending upon your needs. The most obvious way is through Web Services, but there are many other layers that maybe more appropriate which involve no coding at all."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pleiades-places",
+  "title": "Pleiades Places",
+  "link": "http://api.pleiades.stoa.org/",
+  "image": "",
+  "author": {
+    "name": "Pleiades Places"
+  },
+  "tags": [
+    "Data",
+    "Various",
+    "Sharing"
+  ],
+  "description": "Chunks of read-only data we use in various applications are available in JSON via HTTP. We're supporting Cross-Origin Resource Sharing but not JSONP."
+}

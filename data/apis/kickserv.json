@@ -1,0 +1,15 @@
+{
+  "id": "kickserv",
+  "title": "Kickserv",
+  "link": "http://www.kickserv.com/help/api",
+  "image": "http://www.kickserv.com/images/logo.png",
+  "author": {
+    "name": "Kickserv"
+  },
+  "tags": [
+    "Internal",
+    "Development",
+    "Assist"
+  ],
+  "description": "We provide our API for use by your own internal or external development team. Kickserv cannot assist with implementation or development of your applications."
+}

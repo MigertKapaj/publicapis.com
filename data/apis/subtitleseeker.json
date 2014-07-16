@@ -1,0 +1,15 @@
+{
+  "id": "subtitleseeker",
+  "title": "Subtitleseeker",
+  "link": "http://www.api.subtitleseeker.com/About/Api-Search/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQCQAPV2eFbnbAaFLXNFf9PpEUJncrKBiDp-i5Gxjt6_ZJoqWqs",
+  "author": {
+    "name": "Subtitleseeker"
+  },
+  "tags": [
+    "Designed",
+    "Subtitle",
+    "Returned"
+  ],
+  "description": "The API is designed for developers wanting either search or subtitle title results from the subtitleseeker database returned in an easy format. "
+}

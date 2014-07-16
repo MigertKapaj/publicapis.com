@@ -1,0 +1,15 @@
+{
+  "id": "bonanza",
+  "title": "Bonanza",
+  "link": "http://api.bonanza.com/docs/reference",
+  "image": "http://bonanzapublic.s3.amazonaws.com/images/bonapitit/bonapitit_logo.png?1394780367",
+  "author": {
+    "name": "Bonanza"
+  },
+  "tags": [
+    "Money",
+    "Growing",
+    "Whether"
+  ],
+  "description": "Here, you can write applications for Bonanza that make you money while they make users happy. You can also use our growing suite of tools to help optimize your listings whether you sell on Bonanza or elsewhere."
+}

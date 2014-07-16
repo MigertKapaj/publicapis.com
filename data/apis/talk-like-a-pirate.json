@@ -1,0 +1,14 @@
+{
+  "id": "talk-like-a-pirate",
+  "title": "Talk like a Pirate",
+  "link": "http://isithackday.com/arrpi.php",
+  "image": "",
+  "author": {
+    "name": "Talk like a Pirate"
+  },
+  "tags": [
+    "Text",
+    "Pirate"
+  ],
+  "description": "This API translates text to Pirate speak using Tom Croucher's excellent YQL table"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "insidesales.com",
+  "title": "InsideSales.com",
+  "link": "http://www.insidesales.com/developers",
+  "image": "http://www.insidesales.com/images/insidesales.com-logo-mark-2013.png",
+  "author": {
+    "name": "InsideSales.com"
+  },
+  "tags": [
+    "Services",
+    "Subdomain",
+    "Data",
+    "Mapping"
+  ],
+  "description": "To use the API, you will need a custom Web services specification document for your company's subdomain, which contains information about the data formatting and field mapping used for API functions."
+}

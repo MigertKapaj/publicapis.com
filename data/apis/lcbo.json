@@ -1,0 +1,15 @@
+{
+  "id": "lcbo",
+  "title": "LCBO",
+  "link": "http://lcboapi.com/docs/inventories",
+  "image": "http://lcboapi.com/assets/header-logo-d6c8580d002818eb17da93d0e2c5ad5b.png",
+  "author": {
+    "name": "LCBO"
+  },
+  "tags": [
+    "Developers",
+    "Advantage",
+    "Provider"
+  ],
+  "description": "The goal of LCBO API is to provide developers, hobbyists, and anyone who is interested with a way to create applications that take advantage of the unique benefits that come from having a single provider of alcoholic beverages in a large geographical area."
+}

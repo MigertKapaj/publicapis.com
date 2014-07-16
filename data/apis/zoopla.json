@@ -1,0 +1,16 @@
+{
+  "id": "zoopla",
+  "title": "Zoopla",
+  "link": "http://developer.zoopla.com/",
+  "image": "http://www.zoopla.co.uk/static/images/mashery/powered-by-zoopla.png",
+  "author": {
+    "name": "Zoopla"
+  },
+  "tags": [
+    "Pace",
+    "Media",
+    "Data",
+    "Property"
+  ],
+  "description": "Online information is now consumed at such a pace, across such a breadth of media that syndication of data, and the accessibility of that data to users and developers is more and more important. Zoopla is one of the UK's leading providers of property data for consumers and property professionals, giving free access to information on 27,000,000 homes, over 1,000,000 property listings and 15 years of sold prices data. We're now we're inviting developers to create new, exciting applications to distribute this content and change the landscape for those wishing to make more astute property decisions. "
+}

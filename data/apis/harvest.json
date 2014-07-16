@@ -1,0 +1,15 @@
+{
+  "id": "harvest",
+  "title": "Harvest",
+  "link": "https://github.com/harvesthq/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Serving",
+    "Manipulate",
+    "Provide"
+  ],
+  "description": "Harvest provides two API interfaces, serving two distinct roles. If you need to access and manipulate your daily timesheet the Time Tracking API fits the bill. Notable uses of the Time Tracking API are the widgets we provide for PC and Mac as well as other third party timesheet software integrations."
+}

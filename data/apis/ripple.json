@@ -1,0 +1,14 @@
+{
+  "id": "ripple",
+  "title": "Ripple",
+  "link": "https://ripple.com/wiki/API_Overview",
+  "image": "https://ripple.com/wiki/images/ripple.png",
+  "author": {
+    "name": "Ripple"
+  },
+  "tags": [
+    "Messages",
+    "Server"
+  ],
+  "description": "Business servers interact with the Ripple network by sending JSON formatted messages to their local rippled server. In reply rippled sends back JSON formatted responses. "
+}

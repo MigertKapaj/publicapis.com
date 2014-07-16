@@ -1,0 +1,13 @@
+{
+  "id": "face-recognition",
+  "title": "Face Recognition",
+  "link": "https://www.mashape.com/lambda/face-recognition",
+  "image": "",
+  "author": {
+    "name": "lambda"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Stephen here from Lambda Labs. For sample code and a graphical demo, check out http://api.lambdal.com/docs. Our API provides face recognition, facial detection, eye position, nose position, mouth position, and gender classification. If you have any questions ask! Just send an email to s@lambdal.com. Happy Hacking! -Stephen"
+}

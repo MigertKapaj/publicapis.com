@@ -1,0 +1,13 @@
+{
+  "id": "subtitle",
+  "title": "Subtitle",
+  "link": "https://www.mashape.com/warting/subtitle",
+  "image": "",
+  "author": {
+    "name": "warting"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Swedish subtitle API for movies. More languages coming soon..."
+}

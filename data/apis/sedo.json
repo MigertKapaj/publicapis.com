@@ -1,0 +1,15 @@
+{
+  "id": "sedo",
+  "title": "Sedo",
+  "link": "http://sedo.co.uk/api/apidocs/API_Member/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTGHvKKzfmsxpYkzuVXtVDh6tsJ_a-GcUJ_SbwnT9jOHvGR93Xq",
+  "author": {
+    "name": "Sedo"
+  },
+  "tags": [
+    "Access",
+    "Domain",
+    "Program"
+  ],
+  "description": "The Sedo API enables you to access the Sedo database from your own applications. For example, you can download your domain parking statistics and easily import them into your own analysis program / tools."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "zencoder",
+  "title": "Zencoder",
+  "link": "https://app.zencoder.com/docs/api",
+  "image": "https://a.zencdn.net/assets/logo-32ba4f831354365627dd0374d754961f.png",
+  "author": {
+    "name": "Zencoder"
+  },
+  "tags": [
+    "Connect",
+    "Encoding",
+    "Web",
+    "Libraries"
+  ],
+  "description": "Welcome to the Zencoder API Documentation. The Zencoder API allows you to connect your application to our encoding service and encode videos without going through the web interface. You may also benefit from one of our integration libraries for different languages."
+}

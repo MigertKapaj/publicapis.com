@@ -1,0 +1,16 @@
+{
+  "id": "routeshout",
+  "title": "RouteShout",
+  "link": "http://www.routeshout.com/main/api",
+  "image": "http://www.routeshout.com/images/web/logo.png",
+  "author": {
+    "name": "RouteShout"
+  },
+  "tags": [
+    "Developers",
+    "Request",
+    "Endpoint",
+    "Parameters"
+  ],
+  "description": "RouteShout exposes its data via an Application Programming Interface (API). The API is available for free for non-commercial use by outside developers. To perform an action using the API, you need to select a method and send a request to its endpoint with appropriate named parameters. Getting started with the RouteShout API is easy. "
+}

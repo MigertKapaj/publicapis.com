@@ -1,0 +1,15 @@
+{
+  "id": "silverrails",
+  "title": "SilverRail’s",
+  "link": "http://www.silverrailtech.com/solutions",
+  "image": "http://www.silverrailtech.com/sites/all/themes/silverrail/images/logo.png",
+  "author": {
+    "name": "SilverRail"
+  },
+  "tags": [
+    "Distribution",
+    "Travel",
+    "Beneficial"
+  ],
+  "description": "SilverCore is the world’s most comprehensive global rail distribution platform, efficiently bringing railways and travel retailers together in a beneficial relationship for all."
+}

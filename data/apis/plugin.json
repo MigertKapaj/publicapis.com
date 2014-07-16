@@ -1,0 +1,14 @@
+{
+  "id": "plugin",
+  "title": "Plugin",
+  "link": "http://codex.wordpress.org/Plugin_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Documents",
+    "Developers"
+  ],
+  "description": "This page documents the API (Application Programming Interface) hooks available to WordPress plugin developers, and how to use them. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "openei",
+  "title": "OpenEI",
+  "link": "http://en.openei.org/services/",
+  "image": "http://prod-http-80-800498448.us-east-1.elb.amazonaws.com/w/images/thumb/c/c5/OpenEI.Fact.Sheet.pdf/page1-180px-OpenEI.Fact.Sheet.pdf.jpg",
+  "author": {
+    "name": "OpenEI"
+  },
+  "tags": [
+    "Global",
+    "Analyses",
+    "Efficiency",
+    "Edit"
+  ],
+  "description": "OpenEI is growing into a global leader in the energy data realm - specifically analyses on renewable energy and energy efficiency.  The platform is a wiki, similar to Wikipedia’s Wiki, with which many people are already familiar.  Users can view, edit, and add data – and download data for free.  We invite you to join our user community and get involved."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "happy-grasshopper",
+  "title": "Happy Grasshopper",
+  "link": "http://happygrasshopper.com/hg-new/api.php",
+  "image": "http://happygrasshopper.com/hg-new/img/hg-logo-horizontal.png",
+  "author": {
+    "name": "Happy Grasshopper"
+  },
+  "tags": [
+    "Information",
+    "Policy",
+    "External"
+  ],
+  "description": "At Happy Grasshopper we are committed to safeguarding your information from any unauthorized use. Please be aware, however, that our privacy policy does not apply to any of the external sites you may visit from the links contained on any of our pages."
+}

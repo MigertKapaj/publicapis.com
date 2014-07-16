@@ -1,0 +1,15 @@
+{
+  "id": "we-the-people",
+  "title": "We the People",
+  "link": "https://petitions.whitehouse.gov/developers",
+  "image": "https://petitions.whitehouse.gov/profiles/petitions/themes/petitions44/img/bg-hdr-text.png",
+  "author": {
+    "name": "We the People"
+  },
+  "tags": [
+    "Data",
+    "Access",
+    "Gallary"
+  ],
+  "description": "The We the People API currently provides read-only access to data within We the People, the White House petitions system. This API provides access to data on all petitions that passed the 150 signature threshold required to become publicly-available on the site. We've also published a gallery of projects leveraging the We the People API, including links to live examples and GitHub repositories."
+}

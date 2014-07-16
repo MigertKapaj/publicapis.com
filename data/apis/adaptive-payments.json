@@ -1,0 +1,16 @@
+{
+  "id": "adaptive-payments",
+  "title": "Adaptive Payments",
+  "link": "https://www.x.com/developers/paypal/products/adaptive-payments",
+  "image": "https://www.paypalobjects.com/webstatic/developer/logo_paypal_developer.png",
+  "author": {
+    "name": "Paypal"
+  },
+  "tags": [
+    "Adaptive payments",
+    "Automated payments",
+    "Split payments",
+    "Guest payments"
+  ],
+  "description": "The Adaptive Payments API allows merchants and developers to pay almost anyone and set up automated payments. They can create applications that manage payments, payment preapprovals, and refunds. They can also send money peer-to-peer, split payments in both parallel and chained models, accept guest payments, and schedule disbursements. The Adaptive Payments API works on multiple platforms including the web and mobile environments. "
+}

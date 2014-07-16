@@ -1,0 +1,16 @@
+{
+  "id": "elastichosts",
+  "title": "elastichosts",
+  "link": "http://www.elastichosts.com/support/api/",
+  "image": "http://www.elastichosts.com/wp-content/uploads/2012/12/logo.png",
+  "author": {
+    "name": "elastichosts"
+  },
+  "tags": [
+    "Drive",
+    "Control",
+    "Server",
+    "Command"
+  ],
+  "description": "Our ReSTful HTTP cloud computing API allows users to create drives, upload and download drive images, and create and control virtual servers on our infrastructure. You can download our ready-made command line tools, or make direct calls to the API from your own scripts."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "webfaction",
+  "title": "WebFaction",
+  "link": "http://docs.webfaction.com/xmlrpc-api/",
+  "image": "http://www.webfaction.com/local_media/images/webfaction_logo_black.png",
+  "author": {
+    "name": "WebFaction"
+  },
+  "tags": [
+    "Interface",
+    "Control panel",
+    "Web Faction",
+    "Installation"
+  ],
+  "description": "The WebFaction API is a powerful XML-RPC interface for managing many control panel and account tasks. With the WebFaction API, you can automate application installation, email address configuration, and more."
+}

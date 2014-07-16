@@ -1,0 +1,16 @@
+{
+  "id": "readmill",
+  "title": "Readmill",
+  "link": "http://developers.readmill.com/",
+  "image": "http://developers.readmill.com/images/logo.png",
+  "author": {
+    "name": "Readmill"
+  },
+  "tags": [
+    "Reading",
+    "Exprience",
+    "Comments",
+    "Ebooks"
+  ],
+  "description": "Readmill’s API turns your reading app into a social experience with highlights, comments and book recommendations. You can also deliver ebooks with ease by using Send to Readmill on your store.\n    "
+}

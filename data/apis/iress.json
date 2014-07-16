@@ -1,0 +1,16 @@
+{
+  "id": "iress",
+  "title": "IRESS",
+  "link": "https://webservices.iress.com.au/",
+  "image": "",
+  "author": {
+    "name": "IRESS"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Integrate",
+    "Solution"
+  ],
+  "description": "IRESS provides web service access to various market data, order, and portfolio systems. Clients can integrate IRESS systems into their own SOA solutions. "
+}

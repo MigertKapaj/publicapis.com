@@ -1,0 +1,15 @@
+{
+  "id": "snoobis",
+  "title": "Snoobi's",
+  "link": "https://documentation.snoobi.com/",
+  "image": "https://reportimages.snoobi.com/apidoc/snoobi_green.png",
+  "author": {
+    "name": "Snoobi"
+  },
+  "tags": [
+    "Service",
+    "Reaching",
+    "Method"
+  ],
+  "description": "Snoobi's API is a Web Service that makes use of REST-style \narchitecture. If you are not familiar with REST (Representational state \ntransfer) a good place to start is, for example Wiki entry about REST.\nAll calls to REST API need to be done through https. The URL is \nconstructed from the URI part itself, service part and method part(s). \nURI stays always as https://rest.snoobi.com. The service part tells the \nAPI what part of Snoobi platform you are reaching and the method part tells what do you want to fetch.\n"
+}

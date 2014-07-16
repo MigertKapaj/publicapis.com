@@ -1,0 +1,15 @@
+{
+  "id": "sam",
+  "title": "Sam",
+  "link": "https://www.sam.gov/portal/public/SAM/?portal:componentId=212add51-936b-498e-8cb0-44cabcbae235&portal:type=action&navigationalstate=JBPNS_rO0ABXdcACJqYXZheC5mYWNlcy5wb3J0bGV0YnJpZGdlLlNUQVRFX0lEAAAAAQApdmlldzpiODUxMjVhZi02ZDYzLTRiZjgtOTE3Yy1iMTZmMjkwNjkwNjQAB19fRU9GX18*&interactionstate=JBPNS_rO0ABXdHABBfanNmQnJpZGdlVmlld0lkAAAAAQAmL2pzZi9nZW5lcmFsSW5mby9zYW1HZW5lcmFsSW5mb05hdi5qc3AAB19fRU9GX18*##11",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIkBdREnya2hQR4RBMqZWAZOG52al51F85ldJtDsVR6vlO4E6lfA",
+  "author": {
+    "name": "Sam"
+  },
+  "tags": [
+    "Systems",
+    "Catalog",
+    "Phases"
+  ],
+  "description": "The System for Award Management (SAM) is combining federal procurement systems and the Catalog of Federal Domestic Assistance into one new system. This consolidation is being done in phases."
+}

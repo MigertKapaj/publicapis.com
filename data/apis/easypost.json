@@ -1,0 +1,15 @@
+{
+  "id": "easypost",
+  "title": "Easypost",
+  "link": "https://www.easypost.com/docs/api",
+  "image": "https://easypost-static.s3.amazonaws.com/assets/easypost-logo-b877afa36439c8f8b6a6fab95a841b5b.png",
+  "author": {
+    "name": "Easypost"
+  },
+  "tags": [
+    "Production",
+    "Label",
+    "Reporting"
+  ],
+  "description": "EasyPost API keys come in two modes: test, and production. While you're using a test API key you will never be charged for labels and none of the requests will appear in your live mode reporting. "
+}

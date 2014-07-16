@@ -1,0 +1,16 @@
+{
+  "id": "about.me",
+  "title": "About.me",
+  "link": "http://about.me/developer/api/docs/",
+  "image": "http://about.me/developer/sdk/docs/_static/logo.png",
+  "author": {
+    "name": "About.me"
+  },
+  "tags": [
+    "Viewing",
+    "Depending",
+    "Data",
+    "Provide"
+  ],
+  "description": "Whether you are creating, editing, or viewing a user page, it is helpful to understand the fields displayed on the page. Depending on the API call, you may provide page data in the query string or view page data in the return value."
+}

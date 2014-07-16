@@ -1,0 +1,16 @@
+{
+  "id": "the-exchange",
+  "title": "The Exchange",
+  "link": "http://developer.ticketevolution.com/overview",
+  "image": "http://www.ticketevolution.com/wp-content/uploads/2014/03/logo.png",
+  "author": {
+    "name": "Ticket Evolution"
+  },
+  "tags": [
+    "State",
+    "Resource",
+    "HTTP",
+    "Fetch"
+  ],
+  "description": "The web service is based on Representational State Transfer, or REST. This simply means that each resource can be referenced by its own URL, and the actions performed on that resource correspond to HTTP methods. For instance, to fetch data you would issue a GET request for the desired resource with any options specified as query parameters.\n        "
+}

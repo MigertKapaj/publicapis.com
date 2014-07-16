@@ -1,0 +1,15 @@
+{
+  "id": "expensify",
+  "title": "Expensify",
+  "link": "https://www.expensify.com/api-services.html",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRxKraoH7ABuO4MhEXOa014hHrTrsFyqDSy365VVFFrHxQVXRqq4A",
+  "author": {
+    "name": "Expensify"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Specific"
+  ],
+  "description": "The Expensify Web Services API lets you query and manipulate Expensify from your own application. For example, you can use it to pull transaction data for a specific card or submit a picture of a receipt."
+}

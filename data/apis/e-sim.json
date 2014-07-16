@@ -1,0 +1,15 @@
+{
+  "id": "e-sim",
+  "title": "e-Sim",
+  "link": "http://www.cscpro.org/2013/12/welcome-esim-api-v3/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT3a8tuiCoFPmFHefsHmCifwcWMNhyfNmPB9xgGb6KxO6j9NdTq",
+  "author": {
+    "name": "cscpro"
+  },
+  "tags": [
+    "Format",
+    "Primera",
+    "Suna"
+  ],
+  "description": "This is an Unofficial API (Application Programming Interface) for e-Sim. Format only for json/jsonp/xml. We support Primera, Secura and even Suna server from now on."
+}

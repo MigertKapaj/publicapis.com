@@ -1,0 +1,16 @@
+{
+  "id": "oma-browser",
+  "title": "OMA Browser",
+  "link": "http://omabrowser.org/API.html",
+  "image": "http://omabrowser.org/OMAbrowser.gif",
+  "author": {
+    "name": "OMA Browser"
+  },
+  "tags": [
+    "Integrate",
+    "orthologs",
+    "Algorithm",
+    "Web."
+  ],
+  "description": "The OMA Browser API lets you integrate orthologs predictions from the OMA algorithm into your own programs or web services. The specification of the SOAP interface can be found here: http://omabrowser.org/omabrowser.wsdl"
+}

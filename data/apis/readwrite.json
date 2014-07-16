@@ -1,0 +1,15 @@
+{
+  "id": "readwrite",
+  "title": " Read/write",
+  "link": "http://dev.localwiki.org/API",
+  "image": "http://dev.localwiki.org/static//img/logo.png?v=1",
+  "author": {
+    "name": "LocalWiki"
+  },
+  "tags": [
+    "Read",
+    "Write",
+    "Documentation"
+  ],
+  "description": "LocalWiki provides a RESTful read/write API.  Check out the API documentation for more information.  "
+}

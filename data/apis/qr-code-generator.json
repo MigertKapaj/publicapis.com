@@ -1,0 +1,13 @@
+{
+  "id": "qr-code-generator",
+  "title": "QR code generator",
+  "link": "https://www.mashape.com/mutationevent/qr-code-generator",
+  "image": "",
+  "author": {
+    "name": "mutationevent"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The Mutationevent QR code generator is a simple API that lets users quickly create QR codes. Users can pass in content such as text, URL and SMS and specify image size and quality. The API returns a URL path of the generated image. It uses HTTP calls and responses are formatted in JSON."
+}

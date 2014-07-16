@@ -1,0 +1,15 @@
+{
+  "id": "merchants",
+  "title": "Merchants",
+  "link": "http://api-merchants.skimlinks.com/doc/",
+  "image": "https://skimlinks.com/img/logo.png",
+  "author": {
+    "name": "Skimlinks"
+  },
+  "tags": [
+    "Publishers",
+    "Network",
+    "Instance"
+  ],
+  "description": "The Merchants API is the main interface for publishers wishing to know statistics about the merchants on our network. The Merchants API returns all merchants that Skimlinks works with. All values should be url encoded. For instance, if you are searching for \"Best Buy\", the phrase \"Best Buy\" should be encoded to Best%20Buy."
+}

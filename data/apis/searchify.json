@@ -1,0 +1,16 @@
+{
+  "id": "searchify",
+  "title": "Searchify",
+  "link": "http://www.indextank.com",
+  "image": "http://www.searchify.com/_static/common/images/searchify-175-neg.png",
+  "author": {
+    "name": "Searchify"
+  },
+  "tags": [
+    "Manage",
+    "Delete",
+    "Functions",
+    "Searches"
+  ],
+  "description": "The API defines methods to manage indexes (create and delete them), operate on them (add and delete documents, functions, etc), perform searches, etc."
+}

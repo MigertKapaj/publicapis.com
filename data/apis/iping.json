@@ -1,0 +1,15 @@
+{
+  "id": "iping",
+  "title": "iPing",
+  "link": "http://www.iping.com/ipingv2/PutNotification.aspx#notes",
+  "image": "http://www.iping.com/ipingv2/images/ipinglogo.96x38.jpg",
+  "author": {
+    "name": "iPing"
+  },
+  "tags": [
+    "Services",
+    "Requests",
+    "Devices"
+  ],
+  "description": "Developers find it easy to create communication services that interact with cell phones and landline phones using iPing's easy to use Communications API. You can submit requests to trigger phone calls from your web applications. QueryStrings or XML documents can be dynamically constructed by your applications to schedule and trigger communications with landline/cellular phones, email and sms devices. "
+}

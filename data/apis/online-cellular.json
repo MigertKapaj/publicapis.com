@@ -1,0 +1,16 @@
+{
+  "id": "online-cellular",
+  "title": "Online cellular",
+  "link": "http://openbmap.org/api/openbmap_api.php5",
+  "image": "http://openbmap.org/images/logo_website_145.png",
+  "author": {
+    "name": "openBmap.org"
+  },
+  "tags": [
+    "Application",
+    "Photos",
+    "Google Earth",
+    "Shared."
+  ],
+  "description": "RealtimeBlog was the first windows mobile application to use and produce openBmap data. RealtimeBlog geo-positioned your photos (based on GPS or cellular position), generated kml files for Google Earth and shared these files with friends updating your Facebook mini-feed. "
+}

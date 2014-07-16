@@ -1,0 +1,15 @@
+{
+  "id": "iprental",
+  "title": "IPRental",
+  "link": "http://www.iprental.com/apidoc/",
+  "image": "http://www.iprental.com/images/IPRental-Logo.png",
+  "author": {
+    "name": "IPRental"
+  },
+  "tags": [
+    "Access",
+    "Advantage",
+    "Conjuction"
+  ],
+  "description": "The IPRental API (Application Programming Interface) allows software programs to access the IPRental network and take advantage of an enormous set of IP addresses that can be changed rapidly.  Each Ultimate account is supplied with an Ultimate Key Universally Unique Identifier (UUID) which works in conjunction with your standard IPRental password."
+}

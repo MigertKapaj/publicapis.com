@@ -1,0 +1,16 @@
+{
+  "id": "the-semantic",
+  "title": "The Semantic",
+  "link": "http://developer.nytimes.com/docs/read/semantic_API",
+  "image": "http://developer.nytimes.com/files/NYTDevLogo.png",
+  "author": {
+    "name": " Semantic"
+  },
+  "tags": [
+    "Semantic",
+    "Places",
+    "Oranizations",
+    "Locations"
+  ],
+  "description": "The Semantic API complements the Articles API.With the Semantic API, you get access to the long list of people, places, organizations and other locations, entities and descriptors that make up the controlled vocabulary used as metadata by The New York Times (sometimes referred to as Times Tags"
+}

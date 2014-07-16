@@ -1,0 +1,15 @@
+{
+  "id": "uniprot",
+  "title": "Uniprot",
+  "link": "http://www.uniprot.org/faq/28",
+  "image": "http://www.uniprot.org/images/logo_small.gif",
+  "author": {
+    "name": "Uniprot"
+  },
+  "tags": [
+    "Accessed",
+    "Retrieved",
+    "Programs"
+  ],
+  "description": "This document describes how this web site can be accessed with programs. All resources (individual entries as well as sets of entries retrieved by queries) are accessible using simple URLs (REST) that can be bookmarked, linked and used in programs."
+}

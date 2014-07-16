@@ -1,0 +1,14 @@
+{
+  "id": "bitdeli",
+  "title": "Bitdeli",
+  "link": "https://bitdeli.com/docs/",
+  "image": "https://bitdeli.com/static/img/header_logo_white.png",
+  "author": {
+    "name": "Bitdeli"
+  },
+  "tags": [
+    "Trending",
+    "Repository"
+  ],
+  "description": "The Bitdeli badge shows a trending indicator that tells instantly when your repository starts growing in popularity."
+}

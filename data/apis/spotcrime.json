@@ -1,0 +1,15 @@
+{
+  "id": "spotcrime",
+  "title": "SpotCrime",
+  "link": "http://www.spotcrime.com/",
+  "image": "http://s3.spotcrime.com/media/style/spotcrime/spotcrime-logo.jpg",
+  "author": {
+    "name": "SpotCrime"
+  },
+  "tags": [
+    "Data",
+    "Deliver",
+    "Multitude"
+  ],
+  "description": "SpotCrime is a crime data aggregator. We map the crime incidents, plot them on Google Maps, and deliver alerts via email, Facebook, Twitter, SMS, RSS and a multitude of other platforms. "
+}

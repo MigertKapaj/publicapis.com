@@ -1,0 +1,15 @@
+{
+  "id": "textmarketer",
+  "title": "Textmarketer",
+  "link": "http://www.textmarketer.co.uk/developers/",
+  "image": "http://www.textmarketer.co.uk/templates/jp_bloq_j25/images/logo.png",
+  "author": {
+    "name": "Textmarketer"
+  },
+  "tags": [
+    "Expanding",
+    "Products",
+    "Service"
+  ],
+  "description": "The API documentation and code examples are always expanding as we develop new products and SMS applications. We always make sure that we don't launch any new service unless the API documentation is in place first."
+}

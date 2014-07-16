@@ -1,0 +1,16 @@
+{
+  "id": "twirus",
+  "title": "Twirus",
+  "link": "http://en.twirus.com/details/blog/601/API",
+  "image": "http://en.twirus.com/mh/media_mhtw/img/Twirus_logo_horizontal.png",
+  "author": {
+    "name": "Twirus"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Free",
+    "Analysis"
+  ],
+  "description": "The data is available in XML and JSON format. The data can be freely used on your website or twitter client provided that you make attribution to Twirus, that your service is for free also, and without any garantee. For other purpuses, or if you would like to use the data for historical statistical analysis, please contact us to obtain a license."
+}

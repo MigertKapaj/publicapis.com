@@ -1,0 +1,16 @@
+{
+  "id": "datadog",
+  "title": "Datadog",
+  "link": "http://docs.datadoghq.com/api/",
+  "image": "http://docs.datadoghq.com/static/logo.png",
+  "author": {
+    "name": "Datadog"
+  },
+  "tags": [
+    "HTTP",
+    "Data",
+    "Status",
+    "Requests"
+  ],
+  "description": "This section details Datadog's HTTP API. It makes it easy to get data in and out of Datadog. The Datadog API uses resource-oriented URLs, uses status codes to indicate the success or failure of requests and returns JSON from all requests. \n      "
+}

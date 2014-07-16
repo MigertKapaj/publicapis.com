@@ -1,0 +1,16 @@
+{
+  "id": "avocado",
+  "title": "Avocado",
+  "link": "https://avocado.io/guacamole",
+  "image": "https://d1ndxe94khfc4e.cloudfront.net/imgs/guacamole-blueprint-v9647aa2b.png",
+  "author": {
+    "name": "Avocado"
+  },
+  "tags": [
+    "Reading",
+    "Activities",
+    "Media",
+    "Events"
+  ],
+  "description": "Imagine what you can build for a world of just two people. We've included the full API documentation for Avocado including the reading and writing of activities, lists, media, events, and settings."
+}

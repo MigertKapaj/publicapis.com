@@ -1,0 +1,15 @@
+{
+  "id": "agentrank",
+  "title": "AgentRank",
+  "link": "http://www.agentrank.com/api/",
+  "image": "",
+  "author": {
+    "name": "AgentRank"
+  },
+  "tags": [
+    "Data",
+    "Speaking",
+    "Described"
+  ],
+  "description": "This document will describe the data using terms based on XML Schema. Data can be grouped by namespace, with a schema document describing the elements and types of the namespace. Generally speaking, types define the structure of the data and elements are instances of a type. For example, elements are usually produced by (or consumed by) a REST endpoint, and the structure of each element is described by its type. "
+}

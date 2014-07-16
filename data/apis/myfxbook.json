@@ -1,0 +1,16 @@
+{
+  "id": "myfxbook",
+  "title": "Myfxbook",
+  "link": "http://www.myfxbook.com/api",
+  "image": "http://static.mfbcdn.net/images/logo.png",
+  "author": {
+    "name": "Myfxbook"
+  },
+  "tags": [
+    "Application",
+    "Data",
+    "Programmatically",
+    "Customized"
+  ],
+  "description": "Want to create an iPhone/Android application, or a Facebook widget? Now you can with the Myfxbook API. The API allows you to access your account's data programmatically and create your own customized applications.\n\n                                            \n"
+}

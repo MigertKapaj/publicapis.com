@@ -1,0 +1,15 @@
+{
+  "id": "cucupons.com",
+  "title": "Cucupons.com",
+  "link": "http://www.cucupons.com/page/api-instructions",
+  "image": "http://www.cucupons.com/img/cucupons.png",
+  "author": {
+    "name": "Cucupons.com"
+  },
+  "tags": [
+    "Directly",
+    "Aspects",
+    "Exposure"
+  ],
+  "description": "The goal of this API is to allow applications to directly interact with Cucupons.com via a REST API.  This document describes supported aspects of the API, focusing primarily on exposure of deal content based on geography."
+}

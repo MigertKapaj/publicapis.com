@@ -1,0 +1,15 @@
+{
+  "id": "americas-cup",
+  "title": "AMERICA’S CUP",
+  "link": "http://noticeboard.americascup.com/Race-Data/",
+  "image": "http://noticeboard.americascup.com/wp-content/themes/carbonize/images/logo_back.png",
+  "author": {
+    "name": "AMERICA’S CUP"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Information"
+  ],
+  "description": "The Americas Cup Data API allows programmers to access a live stream of race data. This data consists of various instrument readings from boats as well as live race information."
+}

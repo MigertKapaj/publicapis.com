@@ -1,0 +1,15 @@
+{
+  "id": "plifk",
+  "title": "Plifk",
+  "link": "http://www.plifk.com/api",
+  "image": "http://static.plifk.com/images/plifk.v2.png",
+  "author": {
+    "name": "Plifk"
+  },
+  "tags": [
+    "Beta",
+    "Straightforward",
+    "Pre-requisites"
+  ],
+  "description": "This API is in beta trial and is limited to a very small set of methods. This documentation also is very limited and assumes the developer has the know-how necessary to use it straightforward. If it is not the case, additional information (see Other sites with useful resources and information)might be necessary. Some methods are open to everyone and others require authentication by means of the OAuth protocol, in which case there are some pre-requisites:"
+}

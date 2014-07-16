@@ -1,0 +1,15 @@
+{
+  "id": "bintray",
+  "title": "Bintray",
+  "link": "https://bintray.com/docs/api.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMRWCV5HdxF4I4-Thby7V1I6VbndDdOCfRPYt8m-CCQ31665zNZA",
+  "author": {
+    "name": "Bintray"
+  },
+  "tags": [
+    "Applicative",
+    "Profile",
+    "Authenticated"
+  ],
+  "description": "The Bintray REST API requires an applicative API key. An API key can be obtained from the user profile page. Authentication is achieved using HTTP Basic Authentication with the user’s name as username and the API key as the password. Authenticated REST calls should only be used via HTTPs."
+}

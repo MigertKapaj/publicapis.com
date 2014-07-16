@@ -1,0 +1,16 @@
+{
+  "id": "steamwork",
+  "title": "Steamwork",
+  "link": "https://streamwork.com/developers",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS5R9DOWZdvFsF6mGi87zfIAfJWkZuRtJTKg4Im0GTCUhahgYRGrw",
+  "author": {
+    "name": "Steamwork"
+  },
+  "tags": [
+    "Service",
+    "Retrieve",
+    "Manipulated",
+    "Information"
+  ],
+  "description": "The SAP StreamWork Integration API is a REST based web service allowing web, desktop, and mobile applications to connect to and interact with SAP StreamWork. This web service API allows applications to do things like create new activities, invite participants, add and retrieve content. You can also monitor the progress of activities by retrieving their activities events. Being a RESTful web service, each activity or item can be manipulated by changing the verb passed through the HTTP header. For example, a [GET] request on an item can return the information about this item, whereas a [POST] will post new item."
+}

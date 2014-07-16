@@ -1,0 +1,16 @@
+{
+  "id": "imhuman",
+  "title": "ImHuman",
+  "link": "http://www.elxsy.com/imhuman/docs/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQa6_cpPRd3YtyEsBhxdyHF8YOeUeT-1SXO6YPatBo9uZTasWvJcA",
+  "author": {
+    "name": "ELXSY"
+  },
+  "tags": [
+    "Data",
+    "Meaning",
+    "Communication",
+    "Service"
+  ],
+  "description": "Browsing this page I guess you know what an API is, if you don't in short it is a common language to share data and information in our case. It is language independent, meaning that you can access the information with any web enabled language and method. Usually some big and control freak APIs needs several communication messages in order to service. But fortunately our simple one only needs one comminucation. Here is how it works in short."
+}

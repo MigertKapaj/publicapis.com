@@ -1,0 +1,15 @@
+{
+  "id": "emarketeer",
+  "title": "eMarketeer",
+  "link": "http://www.emarketeer.com/docs/API",
+  "image": "http://emarketeer.com/wiki/images/wikilogo.png",
+  "author": {
+    "name": "eMarketeer"
+  },
+  "tags": [
+    "Logging",
+    "Right",
+    "Authenticate"
+  ],
+  "description": "Get your API id by logging in to eMarketeer and click the Accounts link in the upper right corner. Your API id will be used to authenticate your API calls. "
+}

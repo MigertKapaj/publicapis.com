@@ -1,0 +1,16 @@
+{
+  "id": "publishers",
+  "title": "Publishers",
+  "link": "https://developers.google.com/doubleclick-publishers/docs/authentication",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Management",
+    "Designed",
+    "Publishers",
+    "Inventory"
+  ],
+  "description": "Google's DoubleClick for Publishers (DFP) ad management solution is designed to meet the growing needs of publishers. Developers can use the DFP API to build applications to manage inventory, create orders, pull reports, and more."
+}

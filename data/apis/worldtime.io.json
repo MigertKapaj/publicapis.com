@@ -1,0 +1,16 @@
+{
+  "id": "worldtime.io",
+  "title": "WorldTime.io",
+  "link": "http://worldtime.io/api/",
+  "image": "http://worldtime.io/r/images/xlogo.png.pagespeed.ic.EHP8YVGmK0.png",
+  "author": {
+    "name": "WorldTime.io"
+  },
+  "tags": [
+    "Accurate",
+    "Surface",
+    "WorldTime",
+    "Licensed"
+  ],
+  "description": "The WorldTime.io API is the premium resource for looking up the most accurate current local time for any place on the entire surface of the earth.Thousands of people rely on our services every day for their time related needs and now the WorldTime.io Local Time API Service™ enables licensed personal and commercial use of our time data for your own applications and services, subject to certain important terms (see below). The service enables you to access up to the minute live local world times for any place in the world and use them directly within your  application or service. On ordering our service you will receive instant access so you can be up and running immediately."
+}

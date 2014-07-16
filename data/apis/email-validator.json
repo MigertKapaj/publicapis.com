@@ -1,0 +1,13 @@
+{
+  "id": "email-validator",
+  "title": "Email Validator",
+  "link": "https://www.mashape.com/pozzad/email-validator-1",
+  "image": "",
+  "author": {
+    "name": "pozzad"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Checks for fake DNS as well as uses regex functions to check the email for the right length and accepted characters.\r\nFor example it will mark as valid an email like 'john@gmail.com' but it will recognize as a fake 'john@gmaill.com' (because of the not existing domain)"
+}

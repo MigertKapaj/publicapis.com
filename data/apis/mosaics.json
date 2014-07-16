@@ -1,0 +1,15 @@
+{
+  "id": "mosaics",
+  "title": "Mosaics",
+  "link": "https://www.printmosaic.com/api",
+  "image": "https://www.printmosaic.com/assets/printmosaic.icon.64x64-70dffb58e9b7aabd93bf93d4b74deb58.png",
+  "author": {
+    "name": "Printmosaic"
+  },
+  "tags": [
+    "Simple",
+    "Mosaics",
+    "Online"
+  ],
+  "description": "The API here is meant to be really simple and allows you to create mosaics with any online image. All calls below are POST"
+}

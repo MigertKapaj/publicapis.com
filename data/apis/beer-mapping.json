@@ -1,0 +1,15 @@
+{
+  "id": "beer-mapping",
+  "title": "Beer Mapping",
+  "link": "http://beermapping.com/api/examples/",
+  "image": "http://beermapping.com/wp-content/themes/beermapping3/images/logo.png",
+  "author": {
+    "name": "Beer Mapping"
+  },
+  "tags": [
+    "Data",
+    "Provides",
+    "Information"
+  ],
+  "description": "The Beer Mapping API lets you use Beer Mapping Locational Data on your own webpage. Our API provides a number of utilities for grabbing or aggregating our Brewpub, Brewery, Beer Bar or Beer Store information to do things like."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "strong-steam",
+  "title": "Strong steam",
+  "link": "http://strongsteam.com/",
+  "image": "http://strongsteam.com/images/strongsteam_logo.png",
+  "author": {
+    "name": "Strong steam"
+  },
+  "tags": [
+    "Upload",
+    "Videos",
+    "Download",
+    "Prototyping",
+    "Calling"
+  ],
+  "description": "Use our RESTful API (along with our language bindings) to easily upload images, video and audio and to call the tools and then download the results to your machine. This interface makes prototyping web, server-side and mobile applications as simple as calling a couple of URLs. You don't need to install anything, you can even test the building blocks without logging in."
+}

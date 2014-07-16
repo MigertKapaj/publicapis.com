@@ -1,0 +1,16 @@
+{
+  "id": "thomson-reuters-tick-history",
+  "title": "Thomson Reuters Tick History",
+  "link": "https://customers.reuters.com/developer/Kits/TRTH/trth.aspx",
+  "image": "https://customers.reuters.com/images/cz-site-name.gif",
+  "author": {
+    "name": "Customer Zone"
+  },
+  "tags": [
+    "Web",
+    "Operations",
+    "Instruments",
+    "Internal"
+  ],
+  "description": "RDTH API is a request-retrieve web service that provides access to a wide range of Thomson Reuters Tick History content. The TRTHApi Data Web Services consist of operations for build data dictionary constructs, searching for instruments, and requesting intra-day market data. This web service is both language and platform independent, allowing flexibility and easy integration of Reuters market data into your own internal systems."
+}

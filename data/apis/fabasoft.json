@@ -1,0 +1,15 @@
+{
+  "id": "fabasoft",
+  "title": "Fabasoft",
+  "link": "http://developer.fabasoft.com/en/api.html",
+  "image": "http://developer.fabasoft.com/developer/images/folio-cloud-logo.png",
+  "author": {
+    "name": "Fabasoft"
+  },
+  "tags": [
+    "Supports",
+    "Treasures",
+    "Standards"
+  ],
+  "description": "Fabasoft Folio Cloud supports APIs for CalDAV, WebDAV and CMIS.The access to your business data and private digital treasures is possible in Folio Cloud on the basis of open standards such as WebDAV, CalDAV and CMIS."
+}

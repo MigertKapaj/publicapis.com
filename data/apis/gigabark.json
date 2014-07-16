@@ -1,0 +1,16 @@
+{
+  "id": "gigabark",
+  "title": "Gigabark",
+  "link": "http://www.gigabark.com/api/",
+  "image": "http://www.gigabark.com/img/body/logo2013.png",
+  "author": {
+    "name": "gigabark"
+  },
+  "tags": [
+    "Programs",
+    "Surveys",
+    "Web",
+    "Interface"
+  ],
+  "description": "Because you (or your techie) can create programs that do much of the work for you, such as starting surveys or broadcasts or having users opt-out of your list. Your website or your application can automatically perform many of the tasks that are done through our web interface."
+}

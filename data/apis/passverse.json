@@ -1,0 +1,15 @@
+{
+  "id": "passverse",
+  "title": "Passverse",
+  "link": "http://www.passverse.com/documentation",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQFtymah7VeFJufmpXlOV-IhBgI8KXM8cuKRErSRLvUTBvxDqucrQ",
+  "author": {
+    "name": "Passverse"
+  },
+  "tags": [
+    "Rest",
+    "Predictable",
+    "Built in"
+  ],
+  "description": "The PassVerse API is organised around REST. The API is designed to have predictable, resource-oriented URLs and to use HTTP response codes to indicate API errors. We use built-in HTTP features, like HTTP authentication and HTTP verbs, which can be understood by off-the-shelf HTTP clients. JSON will be returned in all responses from the API, including errors"
+}

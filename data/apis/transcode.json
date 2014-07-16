@@ -1,0 +1,15 @@
+{
+  "id": "transcode",
+  "title": "Transcode",
+  "link": "http://msdn.microsoft.com/en-us/library/windows/desktop/ff485863(v=vs.85).aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Epx/Themes/Windows/Content/Windows_logo.png",
+  "author": {
+    "name": "Windows Dev Center Desktop"
+  },
+  "tags": [
+    "Describes",
+    "Media",
+    "Introduced"
+  ],
+  "description": "This section describes how to use the transcode API to re-encode media files. The transcode API was introduced in Windows 7."
+}

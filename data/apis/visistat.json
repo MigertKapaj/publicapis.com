@@ -1,0 +1,18 @@
+{
+  "id": "visistat",
+  "title": "VisiStat",
+  "link": "http://www.visistat.com/vs8-visistat-api.php",
+  "image": "http://www.visistat.com/img/vslogo.png",
+  "author": {
+    "name": "VisiStat"
+  },
+  "tags": [
+    "Platform",
+    "Complex",
+    "Data",
+    "Business",
+    "Enabling",
+    "Online"
+  ],
+  "description": "VisiStat is a cloud-based web analytics/customer intelligence platform that captures complex analytical data in real-time, and simplifies it specifically for small and medium-sized businesses enabling well-informed business decisions that maximize online marketing effectiveness and increase sales opportunities. "
+}

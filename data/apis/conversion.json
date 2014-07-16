@@ -1,0 +1,15 @@
+{
+  "id": "conversion",
+  "title": "Conversion",
+  "link": "http://www.cometdocs.com/conversionApiTools/apiDocumentation",
+  "image": "http://www.cometdocs.com/images/logo.png",
+  "author": {
+    "name": "Cometdocs"
+  },
+  "tags": [
+    "Developers",
+    "Possibility",
+    "Email"
+  ],
+  "description": "We offer a web-based API conversion solution enabling developers to integrate their applications with Cometdocs. Integration offers a possibility to perform conversions programmatically rather then through our websites or via entering email. "
+}

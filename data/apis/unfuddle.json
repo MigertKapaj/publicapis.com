@@ -1,0 +1,15 @@
+{
+  "id": "unfuddle",
+  "title": "Unfuddle",
+  "link": "https://unfuddle.com/support/docs/api",
+  "image": "https://d3tmybsmv3a8mf.cloudfront.net/images/logo_sm_white.62fc4892dcbd0e904a451898ebf2f00e.png",
+  "author": {
+    "name": "Unfuddle"
+  },
+  "tags": [
+    "Provides",
+    "Creating",
+    "Development"
+  ],
+  "description": "The Unfuddle API provides developers with a very simple medium for creating new Unfuddle-based applications or integrating Unfuddle with their existing development workflow."
+}

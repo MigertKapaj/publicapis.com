@@ -1,0 +1,15 @@
+{
+  "id": "smartpea",
+  "title": "SmartPea",
+  "link": "http://smartpea.com/SmartPeaAPI.htm",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSJMjf3qdfpJhf8loIwWKLNMzls99wOEBzSvnKUkq8QUF9ZSCCWeQ",
+  "author": {
+    "name": "SmartPea"
+  },
+  "tags": [
+    "Designed",
+    "Data",
+    "Across"
+  ],
+  "description": "SmartPea API is a RESTful API designed for developers who want to access to hyper-localized grocery deals data. We collect grocery deals information at real time from over 40 national retailers across US. For each searched grocery item, we show the following information."
+}

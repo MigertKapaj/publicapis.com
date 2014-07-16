@@ -1,0 +1,15 @@
+{
+  "id": "travelocity-connect",
+  "title": "Travelocity Connect",
+  "link": "http://connect.travelocity.com/",
+  "image": "http://connect.travelocity.com/files/travelocity_connect.png",
+  "author": {
+    "name": "Travelocity Connect"
+  },
+  "tags": [
+    "Connect",
+    "Accessing",
+    "Already"
+  ],
+  "description": "Travelocity Connect provides a fast, simple, and cost effective way for hotel companies to sell on Travelocity.com, lastminute.com, and Zuji.com, accessing millions of travelers around the world. The API’s can be used for Partners already working with Travelocity and New Partners alike!"
+}

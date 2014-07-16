@@ -1,0 +1,15 @@
+{
+  "id": "mediatemple",
+  "title": "MediaTemple",
+  "link": "https://www.mediatemple.net/api/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKQrmjqBtfuBqBg7ST6PxHa1_amMeNLYa9-4hRJ4KGn07EoM6XRg",
+  "author": {
+    "name": "MT"
+  },
+  "tags": [
+    "Network",
+    "Server",
+    "Performance"
+  ],
+  "description": "Our Content Delivery Network makes your static content fly. Global distribution delivers your sites faster, all while lowering server load and increasing performance."
+}

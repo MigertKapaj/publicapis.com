@@ -1,0 +1,15 @@
+{
+  "id": "icanlocalize",
+  "title": "ICanLocalize",
+  "link": "http://www.icanlocalize.com/site/api/",
+  "image": "http://www.icanlocalize.com/site/wp-content/themes/icanlocalize_new/images/logo.jpg",
+  "author": {
+    "name": "ICanLocalize"
+  },
+  "tags": [
+    "Professional",
+    "Translators",
+    "Projects"
+  ],
+  "description": "All translations are done by professional translators, writing in their native languages. ICanLocalize hires the translators and validates their translation qualifications. Clients can choose the translators who work on their projects from the translators in ICanLocalize’s pool."
+}

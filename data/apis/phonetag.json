@@ -1,0 +1,16 @@
+{
+  "id": "phonetag",
+  "title": "Phonetag",
+  "link": "https://www.phonetag.com/api/",
+  "image": "https://www.phonetag.com/wp-content/themes/twentyeleven/images/logo.png",
+  "author": {
+    "name": "Phonetag"
+  },
+  "tags": [
+    "Service",
+    "Delivering",
+    "Technology",
+    "Providers"
+  ],
+  "description": "PhoneTag teamed with Ditech Networks to provide the best in class V2T voice to text service to its users. Ditech is a leader in delivering voice solutions to the world. For over 15 years we’ve been experts in voice processing technology. Our solutions are deployed in wireline, mobile, and VoIP carrier networks around the world, processing literally hundreds of millions of calls a day. Ditech solutions deliver tangible business benefits with the reliability, robustness, and scalability service providers demand. Ditech provides solutions for voice quality, ensuring that service providers’ core revenue generator, voice, is delivered with the highest quality, while maintaining cost control."
+}

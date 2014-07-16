@@ -1,0 +1,15 @@
+{
+  "id": "ckan-brazil",
+  "title": "CKAN Brazil",
+  "link": "http://br.ckan.net/",
+  "image": "http://br.ckan.net/img/logo.png",
+  "author": {
+    "name": "CKAN Brazil"
+  },
+  "tags": [
+    "Data",
+    "Collect",
+    "Search"
+  ],
+  "description": "CKAN Brazil is a community-run catalogue of useful sets of data on the Internet. You can collect links here to data from around the web for yourself and others to use, or search for data that others have collected."
+}

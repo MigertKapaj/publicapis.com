@@ -1,0 +1,16 @@
+{
+  "id": "ijukebox",
+  "title": "iJukebox",
+  "link": "http://www.myijukebox.com/#api",
+  "image": "http://www.myijukebox.com/images/logo.jpg",
+  "author": {
+    "name": "iJukebox"
+  },
+  "tags": [
+    "Music",
+    "Offerings",
+    "Business",
+    "Services"
+  ],
+  "description": "iJukebox has a fully-documented API that allows brands and partners to seamlessly and easily integrate interactive music into their current offerings.Through the API, interactive music can be leveraged in ways that are most advantageous to your business. iJukebox provides the flexibility to allow your creativity in developing a fully-customizable interactive music service.  Partners may also white-label iJukebox to truly enable your brand to offer its own music service."
+}

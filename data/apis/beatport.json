@@ -1,0 +1,15 @@
+{
+  "id": "beatport",
+  "title": "Beatport",
+  "link": "https://oauth-api.beatport.com/",
+  "image": "https://oauth-api.beatport.com/images/logo-api.png",
+  "author": {
+    "name": "Beatport"
+  },
+  "tags": [
+    "Develop",
+    "Transition",
+    "Required"
+  ],
+  "description": "The Beatport API allows third parties to develop applications using the Beatport catalog. Beatport has begun to transition over to an OAUTH structure, therefore a key is required in order to make API requests."
+}

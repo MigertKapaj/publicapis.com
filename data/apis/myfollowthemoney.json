@@ -1,0 +1,16 @@
+{
+  "id": "myfollowthemoney",
+  "title": "myFollowTheMoney",
+  "link": "http://www.followthemoney.org/services/document.phtml",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS6SKUNau7CquD263787MhafMXz-tP0aMBwX1eZN4QFZa2dqElT",
+  "author": {
+    "name": "myFollowTheMoney"
+  },
+  "tags": [
+    "Data",
+    "Methods",
+    "Programming",
+    "Access"
+  ],
+  "description": "So if you want complete control of how our data interacts with your page, then this is the route for you. We have created many access points to our database, called methods. Sign up for an API account, find the method you need, or group of methods you need, write your programming code to work with the data, and you are done."
+}

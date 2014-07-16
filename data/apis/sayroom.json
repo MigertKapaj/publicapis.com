@@ -1,0 +1,15 @@
+{
+  "id": "sayroom",
+  "title": "Sayroom",
+  "link": "http://sayroom.com/developer",
+  "image": "http://sayroom.com/assets/images/sr_user.png",
+  "author": {
+    "name": "Sayroom"
+  },
+  "tags": [
+    "Data",
+    "Accessing",
+    "Several"
+  ],
+  "description": "Once you've registered your application, it's easy to start requesting data from Sayroom. We provide APIs for accessing sayroom audio messages left by users, or Say's. There are several ways that you can access Say's through our API."
+}

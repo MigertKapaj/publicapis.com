@@ -1,0 +1,15 @@
+{
+  "id": "climbing",
+  "title": "Climbing",
+  "link": "http://code.google.com/p/climbing-api/wiki/ClimbingSyndication",
+  "image": "http://www.gstatic.com/codesite/ph/images/defaultlogo.png",
+  "author": {
+    "name": "Climbing"
+  },
+  "tags": [
+    "Data",
+    "Printing",
+    "Finding"
+  ],
+  "description": "This project is an attempt at creating a set of standards for the exchange of climbing data, for example between climbing sites (eg batch importing a large number of routes) or between databases of climbs and clients of that data - such as xslt's to format it as a guidebook for printing, or a mobile application for live route finding while at the crag. "
+}

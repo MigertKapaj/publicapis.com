@@ -1,0 +1,15 @@
+{
+  "id": "traveler-information",
+  "title": "Traveler Information",
+  "link": "http://www.wsdot.wa.gov/traffic/api/",
+  "image": "http://www.wsdot.wa.gov/media/images/back/greenlogo.png",
+  "author": {
+    "name": "WSDOT"
+  },
+  "tags": [
+    "Programming",
+    "Designed",
+    "Data"
+  ],
+  "description": "The Traveler Information Application Programming Interface is designed to provide third parties with a single gateway to all of WSDOT's traveler information data."
+}

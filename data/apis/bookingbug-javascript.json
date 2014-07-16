@@ -1,0 +1,16 @@
+{
+  "id": "bookingbug-javascript",
+  "title": "BookingBug Javascript",
+  "link": "https://dev.bookingbug.com/javascript_api",
+  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/bookingbug/2445580329011/profiles/logos/large/bookingbug_single_line_800.png",
+  "author": {
+    "name": "BookingBug"
+  },
+  "tags": [
+    "Tools",
+    "Simple",
+    "Flexible",
+    "Powerful"
+  ],
+  "description": "The BookingBug Javascript API is a powerful set of tools that you can use in any web page that allows you to embed javascript.\nIt’s designed to be extremely simple to use, even for someone with only basic HTML skills and no Javascript experience. It’s also designed to be flexible \nand powerful enough to enable even the most dmeanding or sophisticated use cases."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "aws-security-token",
+  "title": "AWS Security Token",
+  "link": "http://awsdocs.s3.amazonaws.com/STS/20110615/sts-api-2011-06-15.pdf",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHhPwb0rfHDZ--CbLB8WYuT5p0yThtyi_Quqp3tcda72pSy2hW_g",
+  "author": {
+    "name": "AWS Security Token"
+  },
+  "tags": [
+    "Service",
+    "Identity",
+    "Access"
+  ],
+  "description": "The AWS Security Token Service (AWS STS) is a web service that enables you to request temporary,\nlimited-privilege credentials for AWS Identity and Access Management (AWS IAM) users or for users that\nyou authenticate (federated users)."
+}

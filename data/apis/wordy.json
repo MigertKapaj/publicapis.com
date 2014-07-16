@@ -1,0 +1,15 @@
+{
+  "id": "wordy",
+  "title": "Wordy",
+  "link": "https://wordy.com/api/1.0/docs/",
+  "image": "https://wordy.com/static/img/wordy-logo-alt.c9c86108f961.png",
+  "author": {
+    "name": "Wordy"
+  },
+  "tags": [
+    "Testing",
+    "Development",
+    "Functionality"
+  ],
+  "description": "The sandbox is a testing and development environment that replicates the functionality of Wordy's API. You can use the sandbox to develop and test applications or develop against new or changed API methods."
+}

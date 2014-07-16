@@ -1,0 +1,15 @@
+{
+  "id": "data.soe.com",
+  "title": "data.soe.com",
+  "link": "http://data.soe.com/",
+  "image": "",
+  "author": {
+    "name": "data.soe.com"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Directly"
+  ],
+  "description": "Welcome to the home of the SOE data service, a RESTful API to get information directly from the source. This is available using HTTP and HTTPS."
+}

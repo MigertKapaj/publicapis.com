@@ -1,0 +1,15 @@
+{
+  "id": "views",
+  "title": "Views",
+  "link": "http://www.views.coop/api/index.php/Rest_-_Admin_-_Programmes",
+  "image": "http://www.views.coop/sites/views.coop/files/viewscoop_logo.png",
+  "author": {
+    "name": "Views"
+  },
+  "tags": [
+    "Search",
+    "Pages",
+    "Related"
+  ],
+  "description": "There is currently no text in this page. You can search for this page title in other pages, or search the related logs. "
+}

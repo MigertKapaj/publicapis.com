@@ -1,0 +1,17 @@
+{
+  "id": "tidyclub",
+  "title": "TidyClub",
+  "link": "https://dev.tidyclub.com/",
+  "image": "https://dev.tidyclub.com/assets/welcome/logo.png",
+  "author": {
+    "name": "TidyClub"
+  },
+  "tags": [
+    "Provides",
+    "Read",
+    "Important",
+    "Tablets",
+    "Memberships"
+  ],
+  "description": "The TidyClub API allows you to include the power of TidyClub directly into your app. The API provides methods to read and write from TidyClub securely, so your users can bring all their important information with them to your app. Any changes they make will be updated in realtime to all of their computers, tablets and mobile phones. You'll also have access to powerful features such as contacts, events, memberships, finances, tasks and more."
+}

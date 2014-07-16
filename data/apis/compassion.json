@@ -1,0 +1,15 @@
+{
+  "id": "compassion",
+  "title": "Compassion",
+  "link": "http://developer.compassion.com/",
+  "image": "http://developer.compassion.com/files/logo.png",
+  "author": {
+    "name": "Compassion"
+  },
+  "tags": [
+    "Sponsors",
+    "Information",
+    "Standard"
+  ],
+  "description": "The Compassion International API enables sponsors to create applications to receive sponsored child information.Calls are available through a standard REST-based format."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "patlive",
+  "title": "PATLive",
+  "link": "https://my.patlive.com/help/library/api/#Authentication",
+  "image": "",
+  "author": {
+    "name": "PATLive"
+  },
+  "tags": [
+    "Access",
+    "Easy",
+    "Interact",
+    "Information"
+  ],
+  "description": "The PATLive API is another way to access your PATLive information — one that makes it easy for third-party tools to interact with the service. Our API makes it easy to access your information from the desktop, mobile devices, and web applications."
+}

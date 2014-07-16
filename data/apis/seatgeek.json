@@ -1,0 +1,13 @@
+{
+  "id": "seatgeek",
+  "title": "SeatGeek",
+  "link": "https://www.mashape.com/seatgeek/seatgeek",
+  "image": "",
+  "author": {
+    "name": "seatgeek"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "SeatGeek is a ticket search site that aggregates sports, concert, and theater ticket listings from over 60 ticketing sites -- including StubHub and TicketsNow.\r\n\r\nThe SeatGeek API provides developers with broad access to the company’s dataset of nearly 100,000 live events. The RESTful API returns requests in JSON, JSONP, and XML and can provide detailed information on venue lat/lon, average ticket price, seating location, and more. SeatGeek has a community portal that keeps a record of all support conversations and is a useful tool when looking to get questions answered. \r\n\r\nSites can also monetize their content with SeatGeek's API by registering in SeatGeek's Partner Program. Each time a partner sends a referral to SeatGeek and they purchase a ticket, SeatGeek will pay their partner 50% of the revenue earned on that transaction. Currently users are averaging $11 per sale generated."
+}

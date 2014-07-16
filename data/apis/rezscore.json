@@ -1,0 +1,15 @@
+{
+  "id": "rezscore",
+  "title": "RezScore",
+  "link": "http://rezscore.com/api",
+  "image": "http://rezscore.com/css/images/Logo-TM.png",
+  "author": {
+    "name": "RezScore"
+  },
+  "tags": [
+    "Access",
+    "Service",
+    "Biographies"
+  ],
+  "description": "The RezScore API gives you programmatic access to a powerful suite of services. Dissect and quantitatively analyze hiring documents like resumes, job descriptions, cover letters, biographies, etc."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "truecaller",
+  "title": "Truecaller",
+  "link": "https://dev.truecaller.com/docs",
+  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/truecaller/2013/07/25/truecaller-api-logo-94d19034affc099d.png?AWSAccessKeyId=AKIAIRYLTWBQ37ZNGBZA&Expires=1395995140&Signature=hRtbefXrELyZTwv0Ewm5SF7yg1Q%3D",
+  "author": {
+    "name": "Truecaller"
+  },
+  "tags": [
+    "Requests",
+    "Details",
+    "Associate",
+    "Server",
+    "Program"
+  ],
+  "description": "The one thing to keep in mind is that all requests to our API require authentication. For that, you will need to use a User Key (userKey) along with your requests. These access details basically associate, your server, script or program with a specific application. All requests to the API must be made over SSL (https:// not http://)."
+}

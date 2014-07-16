@@ -1,0 +1,16 @@
+{
+  "id": "gamesradar-developer",
+  "title": "GamesRadar Developer",
+  "link": "http://www.gamesradar.com/developer/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGVDG_A7kjuJsO8TCdPSf_iVq69iLeq9r8QmxYc1xrN6EO3RdF",
+  "author": {
+    "name": "GamesRadar"
+  },
+  "tags": [
+    "Data",
+    "Callable",
+    "parameters",
+    "Language"
+  ],
+  "description": "The GamesRadar API provides REST web services returning data in XML format. There are many callable methods all taking input parameters and requiring an API key. REST Web Services are easy to use with any programming language, in addition to being easy to use and test in a browser or at the command line."
+}

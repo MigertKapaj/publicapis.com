@@ -1,0 +1,16 @@
+{
+  "id": "the-printfection-platform-and-printfection",
+  "title": "The Printfection Platform and Printfection",
+  "link": "http://developers.printfection.com",
+  "image": "http://developers.printfection.com/storage/images/pfdc_logo.png",
+  "author": {
+    "name": "Printfection"
+  },
+  "tags": [
+    "Tools",
+    "Service",
+    "External",
+    "Printfection"
+  ],
+  "description": "The Printfection Platform is a set of application programming interfaces (APIs), tools, and services that provide a way for external applications to access Printfection content on behalf of Printfection users."
+}

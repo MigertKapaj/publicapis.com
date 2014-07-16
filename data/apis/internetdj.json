@@ -1,0 +1,15 @@
+{
+  "id": "internetdj",
+  "title": "InternetDJ",
+  "link": "http://www.internetdj.com/developers/",
+  "image": "http://www.internetdj.com/images/logo/internetdj_logo.png",
+  "author": {
+    "name": "InternetDJ"
+  },
+  "tags": [
+    "Developers",
+    "Data",
+    "Requires"
+  ],
+  "description": "The InternetDJ.com Developers portal allows you to integrate InternetDJ music, data and tools within your own platforms. Access to our APIs requires a key and queries are currently limited to 5000 per day. "
+}

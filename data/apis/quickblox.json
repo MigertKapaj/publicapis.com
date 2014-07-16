@@ -1,0 +1,15 @@
+{
+  "id": "quickblox",
+  "title": "QuickBlox",
+  "link": "http://quickblox.com/developers/Overview",
+  "image": "http://quickblox.com/developers/skins/alextheme/img/qb-logo.png",
+  "author": {
+    "name": "QuickBlox"
+  },
+  "tags": [
+    "Provides",
+    "Smooth",
+    "Plans"
+  ],
+  "description": "QuickBlox provides flexible mechanism for apps to get all endpoints (API, Chat etc.) to work with. This mechanism allows smooth migration between Plans. "
+}

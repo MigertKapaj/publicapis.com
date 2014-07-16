@@ -1,0 +1,16 @@
+{
+  "id": "miicard-identity-verification",
+  "title": "miiCard Identity Verification ",
+  "link": "http://www.miicard.com/for/developers",
+  "image": "http://www.miicard.com/sites/default/files/miicard_logo_0.png",
+  "author": {
+    "name": "miiCard"
+  },
+  "tags": [
+    "Identities",
+    "Customers",
+    "In-line",
+    "Level"
+  ],
+  "description": "miiCard is a purely online, real-time Identity Service (IDaaS) for when you need to know your customer really is who they say they are.The miiCard Identity Verification API lets you offer complete in-line sign-up for products and services that require high levels of trust andconfidence in the identities of your customers."
+}

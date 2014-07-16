@@ -1,0 +1,15 @@
+{
+  "id": "cipres-portal-web-server-rest",
+  "title": "Cipres Portal Web Server REST",
+  "link": "http://www.phylo.org/rest/rest_api.php",
+  "image": "http://www.phylo.org/img/logo_cipres.gif",
+  "author": {
+    "name": "Cipres"
+  },
+  "tags": [
+    "Web",
+    "Job",
+    "Programmatically"
+  ],
+  "description": "The REST API provides web services for end users to submit a job to the portal programmatically. Currently, only one job submission is allowed for each request. "
+}

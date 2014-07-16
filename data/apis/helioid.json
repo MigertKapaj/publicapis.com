@@ -1,0 +1,15 @@
+{
+  "id": "helioid",
+  "title": "Helioid",
+  "link": "http://api.helioid.com",
+  "image": "http://www.helioid.com/assets/logo-helioid-220x53-9b434c56ffedc5772f3e83349fc19d2b.png",
+  "author": {
+    "name": "Helioid"
+  },
+  "tags": [
+    "Engine",
+    "Results",
+    "Stuff"
+  ],
+  "description": "Helioid is a guided exploration engine — a new kind of search engine that shows you what’s hidden past the first page of results and helps you find stuff even when you’re not sure what you’re looking for."
+}

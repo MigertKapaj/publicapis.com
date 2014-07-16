@@ -1,0 +1,15 @@
+{
+  "id": "liveaddress",
+  "title": "LiveAddress",
+  "link": "http://smartystreets.com/kb/liveaddress-api",
+  "image": "http://d79i1fxsrar4t.cloudfront.net/logo-dark-sm--1cfca5ce279d27f36a4c841acc92a83b.png",
+  "author": {
+    "name": "SmartyStreets"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Mailing"
+  ],
+  "description": "SmartyStreets is CASS-Certified™ by the USPS, and LiveAddress API will always contain, valid and official data within its response. Our certification is renewed annually. However, to get mailing discounts, we recommend using our list service so that you can obtain the CASS™ Summary Report, which you will need to submit with your mailing. "
+}

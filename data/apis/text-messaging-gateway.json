@@ -1,0 +1,16 @@
+{
+  "id": "text-messaging-gateway",
+  "title": "text messaging gateway",
+  "link": "http://www.freesmsgateway.com/api",
+  "image": "http://www.freesmsgateway.com/images/logo.png",
+  "author": {
+    "name": "Free SMS Gateway"
+  },
+  "tags": [
+    "Massages",
+    "Contacts",
+    "Gateway",
+    "Web                                                                     "
+  ],
+  "description": "FreeSMSGateway.com has a simple HTTP POST API to easily send messages to your existing contacts or a custom list of contacts. You can choose to send a text message via the gateway to all your existing contacts that were entered via the web portal or provide an array of phone numbers via the API to send the text messages "
+}

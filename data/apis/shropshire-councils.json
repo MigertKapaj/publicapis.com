@@ -1,0 +1,16 @@
+{
+  "id": "shropshire-councils",
+  "title": "Shropshire Council's",
+  "link": "http://www.shropshire.gov.uk/api-docs/about",
+  "image": "http://images.static.shropshire.gov.uk/shropshire/v5.0.3/img/graphics/sclogo.jpg",
+  "author": {
+    "name": "Shropshire Council"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Developers",
+    "App"
+  ],
+  "description": "We are providing access to some of our systems with an Open Data API. This allows developers far and wide to build apps, sites or what ever they like using our data. "
+}

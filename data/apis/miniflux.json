@@ -1,0 +1,15 @@
+{
+  "id": "miniflux",
+  "title": "Miniflux",
+  "link": "http://miniflux.net/api.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-qT1GFeEs4g0UBeDRdI4p-egWwHHRrVIrrN0lS_4MMPCa5PHm",
+  "author": {
+    "name": "Miniflux"
+  },
+  "tags": [
+    "Interact",
+    "Bookmarks",
+    "Data"
+  ],
+  "description": "The Miniflux API is a way to interact programatically with your feeds, items, bookmarks and other data. "
+}

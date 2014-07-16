@@ -1,0 +1,16 @@
+{
+  "id": "vendor",
+  "title": "Vendor",
+  "link": "http://www.aladtec.com/vendor_api.php",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTOmgw4TWWyJoupqtvYViZI8_dtTHLzbQ-LVHPlPZcH8nTARmtO",
+  "author": {
+    "name": "aladtec"
+  },
+  "tags": [
+    "Developers",
+    "Data",
+    "App",
+    "Integrate"
+  ],
+  "description": "Aladtec's Vendor API (Application Programming Interface) provides approved third-party developers access to the data within your FIRE Manager, EMS Manager or Zanager system. This allows developers to build custom apps that leverage your data in unique ways, or to integrate our apps with other existing apps - allowing you to centralize and consolidate your information. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bundle",
+  "title": "Bundle",
+  "link": "http://www.bundle.com/api/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTHlXuEWP1YaglSz6a6qnkMsMnJSROuzWUKOlBtIJdHJ5fJMn0ooQ",
+  "author": {
+    "name": "Bundle"
+  },
+  "tags": [
+    "Powerful",
+    "Decisions",
+    "Send"
+  ],
+  "description": "Bundle analyzes the spending patterns of millions of households to create powerful tools designed to help our users make better spending and saving decisions. If you are interested, please send a brief note describing your application and how you would like to use our API to api@bundle.com."
+}

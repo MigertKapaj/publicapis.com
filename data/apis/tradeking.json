@@ -1,0 +1,15 @@
+{
+  "id": "tradeking",
+  "title": "TradeKing",
+  "link": "http://developers.tradeking.com",
+  "image": "https://static-investor.tradeking.com/Images/tradeking_logo.png",
+  "author": {
+    "name": "TradeKing"
+  },
+  "tags": [
+    "Trading",
+    "Analytical",
+    "Brokerage"
+  ],
+  "description": "Welcome to the TradeKing API.  We aim to provide an API that allows any developer to write fully featured trading  and analytical applications through their brokerage account.  If you’re new to working with APIs read through this document and check out the external resources we reference."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bacon-ipsum",
+  "title": "Bacon Ipsum",
+  "link": "http://baconipsum.com/api/",
+  "image": "http://cdn.baconipsum.com/theme/images/bacon-ipsum-banner1.jpg",
+  "author": {
+    "name": "Bacon Ipsum"
+  },
+  "tags": [
+    "Interface",
+    "String",
+    "Paragraphs"
+  ],
+  "description": "The baconipsum.com API is a REST interface that returns JSON. Pass in the following parameters using an HTTP GET and we’ll return a JSON string array of paragraphs."
+}

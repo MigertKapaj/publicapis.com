@@ -1,0 +1,16 @@
+{
+  "id": "dimple",
+  "title": "Dimple",
+  "link": "http://dimplejs.org/",
+  "image": "http://dimplejs.org/images/areas_horizontal_stacked_100pct.png",
+  "author": {
+    "name": "Dimple"
+  },
+  "tags": [
+    "Open",
+    "Analyst",
+    "Curve",
+    "Objects"
+  ],
+  "description": "The aim of dimple is to open up the power and flexibility of d3 to analysts. It aims to give a gentle learning curve and minimal code to achieve something productive. It also exposes the d3 objects so you can pick them up and run to create some really cool stuff.\n        "
+}

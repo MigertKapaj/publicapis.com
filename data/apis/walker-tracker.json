@@ -1,0 +1,16 @@
+{
+  "id": "walker-tracker",
+  "title": "Walker Tracker",
+  "link": "http://api.walkertracker.com/api/docs/",
+  "image": "http://api.walkertracker.com/images/shoe_icon_orange2.gif",
+  "author": {
+    "name": "Walker Tracker"
+  },
+  "tags": [
+    "Programmer",
+    "Developer",
+    "Data",
+    "Access"
+  ],
+  "description": "Hello! Welcome to the Walker Tracker API. This page is for you if you are a programmer / developer /tinkerer who would like to have access to Walker Tracker data in order to."
+}

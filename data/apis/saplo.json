@@ -1,0 +1,15 @@
+{
+  "id": "saplo",
+  "title": "Saplo",
+  "link": "http://developer.saplo.com/method/auth-accessToken",
+  "image": "http://developer.saplo.com/images/logotypes/saplo-92x30.png",
+  "author": {
+    "name": "Saplo"
+  },
+  "tags": [
+    "Service",
+    "Define",
+    "Demand"
+  ],
+  "description": "Through Saplo API it's possible to automatically extract entities found in text. This service can automatically define the meaning of words and identify each tag as a company, person or location. Support is implemented for English and Swedish texts though new languages can be added on demand."
+}

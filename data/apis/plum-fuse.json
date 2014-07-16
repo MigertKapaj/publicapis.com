@@ -1,0 +1,15 @@
+{
+  "id": "plum-fuse",
+  "title": "Plum Fuse",
+  "link": "http://quickfuseapps.com/docs/api/auth",
+  "image": "http://quickfuseapps.com/static/images/logo.png",
+  "author": {
+    "name": "Plum Fuse"
+  },
+  "tags": [
+    "Provide",
+    "Service",
+    "Process"
+  ],
+  "description": "Plum Fuse provides webservices so that you can fully integrate the powerful telephony capabilities of our platform with your business processes. "
+}

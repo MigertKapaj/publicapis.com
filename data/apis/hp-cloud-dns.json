@@ -1,0 +1,16 @@
+{
+  "id": "hp-cloud-dns",
+  "title": "HP Cloud DNS",
+  "link": "http://docs.hpcloud.com/api/dns/",
+  "image": "http://docs.hpcloud.com/images/hp-public-cloud-logo.png",
+  "author": {
+    "name": "HP Cloud "
+  },
+  "tags": [
+    "Service",
+    "Display",
+    "Creation",
+    "Modification"
+  ],
+  "description": "HP Cloud DNS is a service that includes a set of restful APIs for the display, creation, modification and deletion of DNS records. This service offers users the ability to manage their domains and have DNS servers to serve DNS queries worldwide using geographically distributed DNS servers."
+}

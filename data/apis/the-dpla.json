@@ -1,0 +1,15 @@
+{
+  "id": "the-dpla",
+  "title": "The DPLA",
+  "link": "http://dp.la/info/developers/codex/",
+  "image": "http://dp.la/info/wp-content/themes/berkman_custom_dpla/images/logo.png",
+  "author": {
+    "name": " DPLA"
+  },
+  "tags": [
+    "Authoritative",
+    "Resources",
+    "Documentation"
+  ],
+  "description": "Welcome to the DPLA API Codex! This is where you can find authoritative documentation for the DPLA API and resources you can use to make the most of it. We’re happy to have you. "
+}

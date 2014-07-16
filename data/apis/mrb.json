@@ -1,0 +1,16 @@
+{
+  "id": "mrb",
+  "title": "MRB",
+  "link": "http://bioit.fleming.gr/mrb/data.jsp",
+  "image": "http://bioit.fleming.gr/mrb/images/logo-top-.gif",
+  "author": {
+    "name": "MRB"
+  },
+  "tags": [
+    "Public",
+    "Data",
+    "Access",
+    "Service"
+  ],
+  "description": "The source code of MRB is available under the GNU general public licence at Sourceforge. All data in MRB are freely available to interested users through downloadable weekly database dumps. Programmatic access to some of MRB's data is feasible via MRB's SOAP web service. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "doris",
+  "title": "Doris",
+  "link": "http://beta.dorisapp.com/en/api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlfFllMWKjeozjN7ugGhLwiRlwhiQeg7Q137_a71OvsczW4WZFVw",
+  "author": {
+    "name": "Doris"
+  },
+  "tags": [
+    "Data",
+    "Implemented",
+    "Performed"
+  ],
+  "description": "The majority of Doris data and functionality are exposed via its Application Programming Interface (API). The API follows REST conventions and is implemented over standard HTTP requests. We use a \"light\" REST approach similar to that used by Delicious. Authentication is performed using HTTP Basic Authentication."
+}

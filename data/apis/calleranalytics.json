@@ -1,0 +1,14 @@
+{
+  "id": "calleranalytics",
+  "title": "Calleranalytics",
+  "link": "https://www.calleranalytics.com/developer/",
+  "image": "https://www.calleranalytics.com/static/images/caller-analytics-logo.png",
+  "author": {
+    "name": "Calleranalytics"
+  },
+  "tags": [
+    "Analytics",
+    "Phone"
+  ],
+  "description": "Caller Analytics provides a comprehensive analytics portal for your phone call activity by submitting call records in real-time through the API."
+}

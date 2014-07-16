@@ -1,0 +1,16 @@
+{
+  "id": "groksolutions",
+  "title": "Groksolutions",
+  "link": "https://www.groksolutions.com/devs/index.html",
+  "image": "https://www.groksolutions.com/static/grok-common/images/title_logo-44px.png",
+  "author": {
+    "name": "Grok"
+  },
+  "tags": [
+    "Directly",
+    "Reference",
+    "Documentation",
+    "Detailed"
+  ],
+  "description": "This tutorial will help you use Grok's RESTful API directly, with examples. If you have an API key, you can work along with this example (need an API key?). This tutorial will reference the official Grok REST API docs quite a bit. You should find extensive documentation on each endpoint there, as well as a detailed object schema."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ninja-blocks",
+  "title": "Ninja Blocks",
+  "link": "http://docs.ninja.is/rest/authentication.html",
+  "image": "http://cdn.shopify.com/s/files/1/0201/1862/t/2/assets/logo.png?1938",
+  "author": {
+    "name": "Ninja Blocks"
+  },
+  "tags": [
+    "Possible",
+    "Concepts",
+    "Objects"
+  ],
+  "description": "As much as possible we've tried to keep to standard REST concepts in this version of our API. You can find the list of high level objects on the left. "
+}

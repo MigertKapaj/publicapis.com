@@ -1,0 +1,16 @@
+{
+  "id": "clever",
+  "title": "Clever",
+  "link": "https://clever.com/developers/docs/#identity-api-oauth-overview-the-oauth-flow-section",
+  "image": "https://clever.com/images/logo.png",
+  "author": {
+    "name": "Clever"
+  },
+  "tags": [
+    "Data",
+    "Ensure",
+    "Production",
+    "Technical"
+  ],
+  "description": "Clever allows the creation of separate OAuth Client environments with distinct data. You can use this feature to ensure that during development you keep sample data separate from real data. For example, you could create two OAuth clients -- the Production environment would have access to real district data, and might be shared with the technical lead and the support or implementation team; the Development environment would have access to sample data and might be shared with the developers who built the integration."
+}

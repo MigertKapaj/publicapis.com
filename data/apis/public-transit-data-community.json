@@ -1,0 +1,16 @@
+{
+  "id": "public-transit-data-community",
+  "title": "Public Transit Data Community",
+  "link": "http://www.commuterapi.com/",
+  "image": "http://www.commuterapi.com/Content/logo-2.png",
+  "author": {
+    "name": "Public Transit Data Community"
+  },
+  "tags": [
+    "Combine",
+    "Data",
+    "Expose",
+    "Service"
+  ],
+  "description": "Public Transit Data Community has a goal to combine all the disparate transit data feeds from the agencies around the United State into normalized format and expose them as OData Service API to allow developers to build any type of applications around the data. "
+}

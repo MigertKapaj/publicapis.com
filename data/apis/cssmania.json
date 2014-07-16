@@ -1,0 +1,15 @@
+{
+  "id": "cssmania",
+  "title": "CSSMania",
+  "link": "http://www.cssmania.com/api/",
+  "image": "http://www.cssmania.com/wp-content/themes/cssmania/images/logo.png",
+  "author": {
+    "name": "CSSMania"
+  },
+  "tags": [
+    "Developed",
+    "Interests",
+    "Data"
+  ],
+  "description": "CSSMania’s API is a never ending developed API, and could change depending on our readers interests. Depending on our readers response we will continue working on future releases to parse more data in case it is needed."
+}

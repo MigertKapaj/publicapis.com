@@ -1,0 +1,15 @@
+{
+  "id": "gmd",
+  "title": "gmd",
+  "link": "http://gmd.mpimp-golm.mpg.de/webservices/",
+  "image": "http://gmd.mpimp-golm.mpg.de/images/mpimp-logo-de.png",
+  "author": {
+    "name": "gmd"
+  },
+  "tags": [
+    "Presented",
+    "Services",
+    "Reducing"
+  ],
+  "description": "All functionality presented on the ms analysis page is implemented using the web services given below. Although a direct communication to the database would save roundtrips to the webserver, hence increase performance by reducing server load and communication time, this pattern is used to demonstrate both flexibility and openess of this application."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "wisconsin-center-for-the-book",
+  "title": "Wisconsin Center for the Book",
+  "link": "http://wcb.uwm.edu/about/api",
+  "image": "http://wcb.uwm.edu/sites/default/files/wcb-logo.png",
+  "author": {
+    "name": "Wisconsin Center for the Book"
+  },
+  "tags": [
+    "Information",
+    "WI books",
+    "Authors"
+  ],
+  "description": "The Wisconsin Center for the Book API is a really simply way for developers to get information about WI Books and Authors."
+}

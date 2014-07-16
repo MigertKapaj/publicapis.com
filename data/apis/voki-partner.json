@@ -1,0 +1,16 @@
+{
+  "id": "voki-partner",
+  "title": "Voki Partner",
+  "link": "http://www.voki.com/partner.php",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS3cMcs9vaXYMEIlojI8d09VWjpmdRy0sSZ7TAkXm9eLCbDPVdD",
+  "author": {
+    "name": "Voki"
+  },
+  "tags": [
+    "Program",
+    "Speaking",
+    "Users",
+    "Scene"
+  ],
+  "description": "The Voki Partner Program allows partners to integrate speaking avatars into their site or\nproduct. This API allows a Partner to launch the Scene Editor to enable users to create a new\nVoki Scene, or edit an existing Scene, and save that Scene for use on the Partner site."
+}

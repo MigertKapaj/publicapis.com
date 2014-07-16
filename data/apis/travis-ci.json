@@ -1,0 +1,15 @@
+{
+  "id": "travis-ci",
+  "title": "Travis CI",
+  "link": "https://api.travis-ci.org/docs/",
+  "image": "http://docs.travis-ci.com/images/travisci-small.png",
+  "author": {
+    "name": "Travis "
+  },
+  "tags": [
+    "Official",
+    "Web",
+    ""
+  ],
+  "description": "Welcome to the Travis CI API documentation. This is the API used by the official Travis CI web interface, so everything the web ui is able to do can also be accomplished via the API."
+}

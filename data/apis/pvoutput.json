@@ -1,0 +1,15 @@
+{
+  "id": "pvoutput",
+  "title": "PVOutput",
+  "link": "http://pvoutput.org/help.html#teams-getting-started",
+  "image": "http://pvoutput.org/images/logo.png",
+  "author": {
+    "name": "PVOutput"
+  },
+  "tags": [
+    "Online",
+    "Service",
+    "Data"
+  ],
+  "description": "PVOutput is a free online service for sharing and comparing photovoltaic solar panel output data. It provides both manual and automatic data uploading facilities."
+}

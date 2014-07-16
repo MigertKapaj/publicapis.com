@@ -1,0 +1,15 @@
+{
+  "id": "google-desktop",
+  "title": "Google Desktop",
+  "link": "http://code.google.com/apis/desktop/",
+  "image": "https://developers.google.com/_static/b23c2cb352/images/developers-logo.svg",
+  "author": {
+    "name": "Google Developers"
+  },
+  "tags": [
+    "Discontinued",
+    "Download",
+    "Interest"
+  ],
+  "description": "Support for the Google Desktop APIs has been officially discontinued as of September 14, 2011. The Google Desktop SDK is no longer available for download. Thank you for your interest."
+}

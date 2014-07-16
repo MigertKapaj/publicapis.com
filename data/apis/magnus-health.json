@@ -1,0 +1,15 @@
+{
+  "id": "magnus-health",
+  "title": "Magnus Health",
+  "link": "http://magnushealth.com/services/api/",
+  "image": "http://magnushealth.com/wp-content/uploads/2013/04/Magnus_logo_web.png",
+  "author": {
+    "name": "Magnus Health"
+  },
+  "tags": [
+    "Facilitates",
+    "Information",
+    "System"
+  ],
+  "description": "Magnus Health’s robust application programming interface (API) facilitates interaction between your school’s information system and Magnus Health."
+}

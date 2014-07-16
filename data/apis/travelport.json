@@ -1,0 +1,16 @@
+{
+  "id": "travelport",
+  "title": "Travelport",
+  "link": "https://developer.travelport.com/",
+  "image": "https://developer.travelport.com/euf/assets/developer-network/images/travelport-logo.jpg",
+  "author": {
+    "name": "Travelport"
+  },
+  "tags": [
+    "Information",
+    "Schemas",
+    "Sample",
+    "Code"
+  ],
+  "description": "We want you to have quick, easy access to all the information you need to start using Travelport Universal API. From getting connected to schemas, sample code, and high-level workflows, you'll find helpful answers right here."
+}

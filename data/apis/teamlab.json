@@ -1,0 +1,15 @@
+{
+  "id": "teamlab",
+  "title": "Teamlab",
+  "link": "http://api.teamlab.com/2.0/",
+  "image": "http://api.teamlab.com/2.0/content/sprite/sprite.png",
+  "author": {
+    "name": "Teamlab"
+  },
+  "tags": [
+    "Resources",
+    "Designed",
+    "Isolation"
+  ],
+  "description": "The Teamlab API is implemented as REST over HTTP using GET/POST/PUT/DELETE. All the resources, like posts or comments, have their own URLs and are designed to be manipulated in isolation. "
+}

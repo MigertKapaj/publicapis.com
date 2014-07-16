@@ -1,0 +1,15 @@
+{
+  "id": "window-compositor",
+  "title": "Window Compositor",
+  "link": "http://msdn.microsoft.com/en-us/library/jj674852.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Support",
+    "Compositor",
+    "Surfaces"
+  ],
+  "description": "Window Compositor supports two graphics API libraries: graphics device interface (GDI) and OpenGL for Embedded Systems (OpenGL ES) 2.X. The system configuration determines the graphics API that Window Compositor uses to compose application back surfaces onto its own."
+}

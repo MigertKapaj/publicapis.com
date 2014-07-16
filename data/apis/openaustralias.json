@@ -1,0 +1,13 @@
+{
+  "id": "openaustralias",
+  "title": "OpenAustralia's",
+  "link": "http://www.openaustralia.org/api/",
+  "image": "http://www.openaustralia.org/images/openaustraliaorgbeta.gif",
+  "author": {
+    "name": "OpenAustralia's"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "OpenAustralia's API section, where you can learn how to query our database for information."
+}

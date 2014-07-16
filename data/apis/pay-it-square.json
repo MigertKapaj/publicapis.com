@@ -1,0 +1,16 @@
+{
+  "id": "pay-it-square",
+  "title": "Pay It Square",
+  "link": "http://www.payitsquare.com/api",
+  "image": "http://www.payitsquare.com/content/img/design/logo.png",
+  "author": {
+    "name": "Pay It Square"
+  },
+  "tags": [
+    "Rich",
+    "Allows",
+    "Developers",
+    "Manage"
+  ],
+  "description": "Pay It Square offers a rich API that allows third party developers access to everything an organizer needs to manage their Collect Pages. "
+}

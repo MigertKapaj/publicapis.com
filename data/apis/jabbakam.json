@@ -1,0 +1,16 @@
+{
+  "id": "jabbakam",
+  "title": "Jabbakam",
+  "link": "http://developers.jabbakam.com",
+  "image": "https://developers.jabbakam.com/static/images/jk_developer_logo.gif",
+  "author": {
+    "name": "Jabbakam"
+  },
+  "tags": [
+    "Build",
+    "Applications",
+    "Twitter",
+    "Mobile"
+  ],
+  "description": "The Jabbakam API allows you to build your own applications on top of our core system. These applications can be anything from a simple Twitter mash-up to full blown bespoke web or mobile application"
+}

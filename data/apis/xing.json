@@ -1,0 +1,16 @@
+{
+  "id": "xing",
+  "title": "XING",
+  "link": "https://dev.xing.com/docs",
+  "image": "https://x1.xingassets.com/assets/xws/dev/brand-b099c1759e0542ace5732f9783bf1a0d.svg",
+  "author": {
+    "name": "Xing"
+  },
+  "tags": [
+    "Provide",
+    "Access",
+    "Integration",
+    "Basis"
+  ],
+  "description": "The idea behind this is to provide public access to existing features of the XING platform to create the basis for new applications and enable integration with existing ones. "
+}

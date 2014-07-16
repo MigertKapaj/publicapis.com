@@ -1,0 +1,16 @@
+{
+  "id": "subscribe",
+  "title": "Subscribe",
+  "link": "https://developer.stubhub.com/store/apis/info?name=AccountManagementAPI&version=v1&provider=rujli&category=AccountManagement&api=AccountManagementAPI",
+  "image": "https://developer.stubhub.com/store/site/themes/fancy/subthemes/stubhub/images/logo_us.png",
+  "author": {
+    "name": "Stubhub"
+  },
+  "tags": [
+    "Application",
+    "Click",
+    "Already",
+    "Complete"
+  ],
+  "description": "To subscribe to all of the APIs, select an application and a tier and click Subscribe to ALL. If you've already subscribed to one or more of the APIs, this will complete your set of subscriptions. "
+}

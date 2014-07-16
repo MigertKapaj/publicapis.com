@@ -1,0 +1,16 @@
+{
+  "id": "open-gif",
+  "title": "Open Gif",
+  "link": "https://github.com/bryanstedman/open-gif-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Source",
+    "Actual",
+    "Using",
+    "Shoutout"
+  ],
+  "description": "This is an open source json API for searching for animated gifs. It pulls from gifapi.co, another open source project where anyone can add or edit gifs. You will not find any actual gifs here, just json files for you to do cool stuff with. If you do build something using the API let me know and I might give it a link or shoutout."
+}

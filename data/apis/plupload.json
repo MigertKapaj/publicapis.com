@@ -1,0 +1,16 @@
+{
+  "id": "plupload",
+  "title": "Plupload",
+  "link": "http://www.plupload.com/documentation.php",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6PH2N3LyYJSbs0MS11q_4LmhsW3varRg9q2wsIWL6jctj5O1EMA",
+  "author": {
+    "name": "Plupload"
+  },
+  "tags": [
+    "Pollyfills",
+    "Widgets",
+    "Bundled",
+    "Multiple"
+  ],
+  "description": "Plupload may be considered as consisting of three parts: low-level pollyfills, Plupload API and Widgets (UI and Queue). Initially, Widgets were meant only to serve as examples of the API, but quickly formed into fully-functional API implementations that now come bundled with the Plupload API. This has been a source for multiple misconceptions about the API as Widgets were easily mistaken for the Plupload itself."
+}

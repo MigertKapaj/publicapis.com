@@ -1,0 +1,14 @@
+{
+  "id": "desktopify",
+  "title": "Desktopify",
+  "link": "http://desktopify.com/apiuser/",
+  "image": "http://desktopify.com/img/logo_inner_brown.gif",
+  "author": {
+    "name": "Desktopify"
+  },
+  "tags": [
+    "Desktop",
+    "Widgets"
+  ],
+  "description": "Desktopify API allows you to create desktop widgets in your application."
+}

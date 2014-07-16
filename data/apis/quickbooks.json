@@ -1,0 +1,16 @@
+{
+  "id": "quickbooks",
+  "title": "QuickBooks",
+  "link": "https://developer.intuit.com/docs",
+  "image": "https://developer-static.intuit.com/03-17-2014_09-13/images/Intuit_Partner_Platform_logo_sm.png",
+  "author": {
+    "name": "QuickBooks"
+  },
+  "tags": [
+    "Online",
+    "Services",
+    "Data",
+    "Developer"
+  ],
+  "description": "QuickBooks Online API is a set of coding components and web services that enable an app to securely connect to your customers’ QuickBooks Online data. For a developer, this means with one-click, customers can connect to QuickBooks Online from a QuickBooks Online API enabled app, sign in with their Intuit Account, and instantly have QuickBooks Online data available to them."
+}

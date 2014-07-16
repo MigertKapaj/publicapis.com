@@ -1,0 +1,14 @@
+{
+  "id": "happenstand",
+  "title": "Happenstand",
+  "link": "http://api.happenstand.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTHUsslUuDZ5t63NzRd4VumHoWfo9ctjEFJP48HDlp5ClO5TEqB",
+  "author": {
+    "name": "Happenstand"
+  },
+  "tags": [
+    "Project",
+    "Supported"
+  ],
+  "description": "This API is no longer an active project or supported in any way."
+}

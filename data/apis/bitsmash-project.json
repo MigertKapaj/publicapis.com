@@ -1,0 +1,14 @@
+{
+  "id": "bitsmash-project",
+  "title": "Bitsmash project",
+  "link": "http://bitsmash.com/api/",
+  "image": "http://benguild.com/images/logo_8bit.png",
+  "author": {
+    "name": "Bitsmash project"
+  },
+  "tags": [
+    "Project",
+    "Technologies"
+  ],
+  "description": "My whole reason for starting any project is to fascinate people and/or make their lives easier. For this one, there just wasn’t that much interest. However, I did learn a lot more (as with any project) about various technologies that I usually never use, and therefore it was still worth my time, I feel."
+}

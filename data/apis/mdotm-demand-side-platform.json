@@ -1,0 +1,16 @@
+{
+  "id": "mdotm-demand-side-platform",
+  "title": "MdotM Demand Side Platform",
+  "link": "http://docs.mdotm.com/index.php/Main_Page",
+  "image": "http://docs.mdotm.com/skins/common/images/mdotmlogo.gif",
+  "author": {
+    "name": "MdotM"
+  },
+  "tags": [
+    "Advertisers",
+    "Web",
+    "App",
+    "History"
+  ],
+  "description": "Welcome to the MdotM Demand Side Platform API!  The MdotM API allows MdotM advertisers to programmatically: Track conversion events (mobile web, app installs, and post-install activity)  Get account history, campaign performance data, and conversion events by DeviceID, Get audience statistics (by geo, device, OS), Update campaign parameters (bids, targeting, caps)\n"
+}

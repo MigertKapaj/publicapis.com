@@ -1,0 +1,14 @@
+{
+  "id": "octopod",
+  "title": "Octopod",
+  "link": "http://octopod.com/platform",
+  "image": "http://octopod.com/sites/all/themes/octopod/logo.png",
+  "author": {
+    "name": "Octopod"
+  },
+  "tags": [
+    "Development",
+    "Processing"
+  ],
+  "description": "create Java application with servlet API support in your development frameworkcreate a servlet which will be responsible for processing of queries from applications and name it MainServlet."
+}

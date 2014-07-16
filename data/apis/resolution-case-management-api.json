@@ -1,0 +1,15 @@
+{
+  "id": "resolution-case-management-api",
+  "title": "Resolution Case Management API",
+  "link": "https://www.x.com/developers/ebay/products/resolution-case-management-api",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "ebay"
+  },
+  "tags": [
+    "Manage Disputes & Claims",
+    "Older Disputes",
+    "Unpaid Item Disputes"
+  ],
+  "description": "The Resolution Case Management API enables developers to manage disputes and claims. Resolution Case Management SOA services are intended to be consumed by sellers who are interested in retrieving, tracking, managing, and resolving all eBay Buyer Protection Item Not Received and Significantly Not As Described cases opened by buyers in the eBay Resolution Center. Older disputes, disputes created through PayPal, and Unpaid Item disputes created through the Trading API can only be retrieved with the Resolution Case Management API. To manage non-eBay Buyer Protection disputes programmatically, the Trading API dispute calls must be used."
+}

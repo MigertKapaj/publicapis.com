@@ -1,0 +1,15 @@
+{
+  "id": "etsy",
+  "title": "Etsy",
+  "link": "http://www.etsy.com/developers/documentation/getting_started/api_basics",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ0MMobY98FZ-XkrXMZB0LbN1Lz8a54bctMZXAokipILbOyns_n",
+  "author": {
+    "name": "Etsy"
+  },
+  "tags": [
+    "Production",
+    "Testing",
+    "Flagged"
+  ],
+  "description": "Developers are expected to test their Etsy API applications on production. There are a few risks to testing on production though, as some testing activity looks very similar to fraud. Here are some recommendations to help you avoid being unexpectedly flagged for fraud:"
+}

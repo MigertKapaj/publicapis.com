@@ -1,0 +1,15 @@
+{
+  "id": "chalkable",
+  "title": "Chalkable",
+  "link": "https://chalkable.com/Account/Developers",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTP-536QR40rWPaXw73mVWLkTJpmsqb0LkV445SQuem9MQ1BXTTxg",
+  "author": {
+    "name": "Chalkable"
+  },
+  "tags": [
+    "Oppurtunity",
+    "Leverage",
+    "Experience"
+  ],
+  "description": "Integrating your web app with Chalkable gives you the opportunity to be listed in the Chalkable App Store, collect payments, and deeply integrate into the core Chalkable experience. Using the API, your app will be able to leverage the Chalkable platform (user info, schedule, grading, attendance, discipline, messaging, notifications, etc) to help you deliver a great experience."
+}

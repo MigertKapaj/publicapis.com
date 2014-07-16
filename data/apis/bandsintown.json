@@ -1,0 +1,15 @@
+{
+  "id": "bandsintown",
+  "title": "Bandsintown",
+  "link": "http://www.bandsintown.com/api/responses#artist-json",
+  "image": "https://d38hmgjgf0kofx.cloudfront.net/images/new/logo_bit.png",
+  "author": {
+    "name": "Bandsintown"
+  },
+  "tags": [
+    "Designed",
+    "Platform",
+    "Provide"
+  ],
+  "description": "The Bandsintown version 2 API is designed for enterprise partners with websites, media players, and/or mobile applications that are part of the Facebook platform and would like to provide their users with the ability to RSVP to and share artist's real Facebook events - driving users back to their own website or application. "
+}

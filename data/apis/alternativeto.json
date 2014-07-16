@@ -1,0 +1,15 @@
+{
+  "id": "alternativeto",
+  "title": "AlternativeTo",
+  "link": "http://alternativeto.net/about/api/",
+  "image": "http://cdn.altrn.tv/static/gfx/logo.png",
+  "author": {
+    "name": "AlternativeTo"
+  },
+  "tags": [
+    "Moment",
+    "Specific",
+    "Questions"
+  ],
+  "description": "Our API is down at the moment. We do not have any specific plans on when / if we are going live with it again. Let us know if you have any questions hello@alternativeto.net."
+}

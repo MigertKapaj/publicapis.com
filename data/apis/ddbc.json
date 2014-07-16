@@ -1,0 +1,15 @@
+{
+  "id": "ddbc",
+  "title": "DDBC",
+  "link": "http://authority.ddbc.edu.tw/docs/services/",
+  "image": "http://authority.ddbc.edu.tw/images/logo_70x53.png",
+  "author": {
+    "name": "DDBC"
+  },
+  "tags": [
+    "Provide",
+    "Service",
+    "Connecting"
+  ],
+  "description": "In order to provide content from the DDBC authority database to other web applications, we have built up a web data-provider service, which allows other web applications to query our database without connecting directly to the database server."
+}

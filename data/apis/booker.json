@@ -1,0 +1,15 @@
+{
+  "id": "booker",
+  "title": "booker",
+  "link": "http://www.booker.com/partners/publishers",
+  "image": "http://www.booker.com/sites/booker/themes/booker/images/booker_logo.jpg",
+  "author": {
+    "name": "booker"
+  },
+  "tags": [
+    "Service",
+    "Online",
+    "Ordering"
+  ],
+  "description": "A major shift in service-based commerce is taking place right now. Consumers are coming to expect more and more services to be purchased and booked online - everything from movie tickets to ordering takeout. Today customers are discovering what they want at your site, but buying somewhere else. Let's change that. "
+}

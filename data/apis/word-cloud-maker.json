@@ -1,0 +1,13 @@
+{
+  "id": "word-cloud-maker",
+  "title": "Word Cloud Maker",
+  "link": "https://www.mashape.com/gatheringpoint/word-cloud-maker",
+  "image": "",
+  "author": {
+    "name": "gatheringpoint"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Generate Word Clouds from blocks of text.  Multi color and different sizes illustrate the frequency, and the \"vibe\" of the bigger text.  Try it with blog posts, article text, speeches, tweet histories, emails, or any other written word."
+}

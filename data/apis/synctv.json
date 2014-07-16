@@ -1,0 +1,13 @@
+{
+  "id": "synctv",
+  "title": "synctv",
+  "link": "http://api.synctv.com/v1/Rest/V1/AccountsController.html",
+  "image": "http://api.synctv.com/v1/images/header_background.png",
+  "author": {
+    "name": "synctv"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

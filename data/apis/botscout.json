@@ -1,0 +1,15 @@
+{
+  "id": "botscout",
+  "title": "BotScout",
+  "link": "http://botscout.com/api.htm",
+  "image": "http://botscout.com/image/bslogo.gif",
+  "author": {
+    "name": "BotScout"
+  },
+  "tags": [
+    "Designed",
+    "Implement",
+    "Requires"
+  ],
+  "description": "The BotScout API was designed to be simple to understand and easy to use. It's easy to implement in virtually any application and requires only a small amount of code."
+}

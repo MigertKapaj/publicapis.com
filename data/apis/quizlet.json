@@ -1,0 +1,15 @@
+{
+  "id": "quizlet",
+  "title": "Quizlet",
+  "link": "https://quizlet.com/api/2.0/docs/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ5F6uv2J7deXO1tQwU2m07ZsdoI9yJOt8FnFdA5XIoB3qPnQuN",
+  "author": {
+    "name": "Quizlet"
+  },
+  "tags": [
+    "Developers",
+    "Database",
+    "Flashcards"
+  ],
+  "description": "The Quizlet API lets developers interested in building study tools to interact with Quizlet's vast content database of over 1320 million flashcards. The Quizlet API lets you create, search, and modify flashcard sets and classes, and much more in your own application. "
+}

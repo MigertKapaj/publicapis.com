@@ -1,0 +1,15 @@
+{
+  "id": "freedomspeaks",
+  "title": "FREEDOMSPEAKS",
+  "link": "http://content.freedomspeaks.com/api.aspx",
+  "image": "http://cdn.freedomspeaks.com/Web/Images/FreedomSpeaks-Logo.gif",
+  "author": {
+    "name": "FREEDOMSPEAKS"
+  },
+  "tags": [
+    "Information",
+    "Currently",
+    "Politicians"
+  ],
+  "description": "We've developed a REST API (Application Programming Interface) for anyone who would like to use the information we've gathered and use in their own applications. We currently have over 40,000 profiles for all federal, state, county and city politicians. "
+}

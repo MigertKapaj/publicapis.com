@@ -1,0 +1,15 @@
+{
+  "id": "aorecipebook",
+  "title": "AORecipeBook",
+  "link": "http://aorecipebook.com/about/api-information",
+  "image": "http://aorecipebook.com/addons/shared_addons/themes/aorb/img/logo.png",
+  "author": {
+    "name": "AORecipeBook"
+  },
+  "tags": [
+    "Information",
+    "Website",
+    "Contained"
+  ],
+  "description": "Currently this website is here for information on how to use the bot and show it's features, On the next update there will be a search feature on the website as well that will be able to show you similar information that is contained on the bot."
+}

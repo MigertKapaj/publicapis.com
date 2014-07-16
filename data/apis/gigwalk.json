@@ -1,0 +1,15 @@
+{
+  "id": "gigwalk",
+  "title": "Gigwalk",
+  "link": "http://gigwalk.com/developers/overview-requestFormat",
+  "image": "http://gigwalk.com/images/gigwalk_logo.png",
+  "author": {
+    "name": "Gigwalk"
+  },
+  "tags": [
+    "Possible",
+    "Overloaded",
+    "Correct"
+  ],
+  "description": "The Gigwalk API uses proper HTTP Request Methods where possible, and some API calls are even overloaded. If you are having troubles with an API call, ensure that you are using the correct HTTP Method. "
+}

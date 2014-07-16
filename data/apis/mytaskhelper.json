@@ -1,0 +1,15 @@
+{
+  "id": "mytaskhelper",
+  "title": "MyTaskHelper",
+  "link": "http://mytaskhelper.com/api/index",
+  "image": "http://mytaskhelper.com/images/logo.png?1397116539",
+  "author": {
+    "name": "MTH"
+  },
+  "tags": [
+    "Designed",
+    "Data",
+    "Achieve"
+  ],
+  "description": "The MyTaskHelper REST API is designed to unlock the potential of the data stored within your MTH database. Using this API you can achieve more then currently offered by the default MTH UI. This way we giving you ability to do with your data everything you need and in the way you need."
+}

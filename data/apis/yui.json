@@ -1,0 +1,15 @@
+{
+  "id": "yui",
+  "title": "YUI",
+  "link": "http://yuilibrary.com/yui/docs/api/",
+  "image": "http://yuilibrary.com/img/yui-logo.png",
+  "author": {
+    "name": "YUI"
+  },
+  "tags": [
+    "Corresponding",
+    "Displayed",
+    "Currently"
+  ],
+  "description": "Select the modules you'd like to use on your page, from the list below. The corresponding includes for your page will be displayed below. NOTE: File size totals do not currently include the Skin CSS files."
+}

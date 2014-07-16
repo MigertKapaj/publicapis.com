@@ -1,0 +1,15 @@
+{
+  "id": "betaeasy",
+  "title": "BetaEasy",
+  "link": "http://www.betaeasy.com",
+  "image": "https://sites.google.com/a/magneticone.com/betaeasy/_/rsrc/1313057285068/config/customLogo.gif?revision=10",
+  "author": {
+    "name": "BetaEasy"
+  },
+  "tags": [
+    "Detailed",
+    "Service",
+    "Integrate"
+  ],
+  "description": "This chapter includes detailed API specification which allows technical engineers to integrate BetaEasy service."
+}

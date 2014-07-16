@@ -1,0 +1,17 @@
+{
+  "id": "the-boarding-pass",
+  "title": "The Boarding Pass",
+  "link": "https://www.developer.aero/Boarding-Pass-API/",
+  "image": "https://tlsnfcpoc.s3.amazonaws.com/dev.aero/css/images/logo.png",
+  "author": {
+    "name": "SITA Developer"
+  },
+  "tags": [
+    "Platform",
+    "Airlines",
+    "Branding",
+    "Management",
+    "Online"
+  ],
+  "description": "With secure access to their own partition on the SITA developers’ platform, airlines have full control over the branding, configuration and information management of online and mobile boarding passes using their own app development team or agency. The API integrates into the airline’s other systems, streamlining existing airline business processes and mobile strategies."
+}

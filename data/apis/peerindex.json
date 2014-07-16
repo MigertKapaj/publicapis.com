@@ -1,0 +1,16 @@
+{
+  "id": "peerindex",
+  "title": "PeerIndex",
+  "link": "https://developers.peerindex.com",
+  "image": "https://developers.peerindex.com/public/Mashery/images/clients/peerindex/logo.png",
+  "author": {
+    "name": "PeerIndex"
+  },
+  "tags": [
+    "Media",
+    "Topics",
+    "Provides",
+    "Data"
+  ],
+  "description": "PeerIndex is a social media analytics company that is building the Influence Graph: who influences whom in which topics across the social platforms. The PeerIndex API provides programmatic access to our data, allowing developers to integrate PeerIndex's Influence Graph into their applications and analytics platforms."
+}

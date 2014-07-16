@@ -1,0 +1,16 @@
+{
+  "id": "metro-publisher",
+  "title": "Metro Publisher",
+  "link": "https://api.metropublisher.com/doc/index.html",
+  "image": "https://api.metropublisher.com/doc/_static/vanguardistas_logo.png",
+  "author": {
+    "name": "Metro Publisher"
+  },
+  "tags": [
+    "Cloud",
+    "packed",
+    "media",
+    "Online"
+  ],
+  "description": "Metro Publisher is Cloud Computing / Software as a Service (SaaS). Packed with great features and at a price that no other CMS can beat, Metro Publisher is built to help media companies, regardless of their size, succeed online. It allows them to focus on their core competencies of growing audience, increasing revenue and building their brand online."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "text-to-speech",
+  "title": "Text-to-speech",
+  "link": "http://www.voicerss.org/api/documentation.aspx",
+  "image": "http://www.voicerss.org/images/logo.png",
+  "author": {
+    "name": "Voice RSS"
+  },
+  "tags": [
+    "Quality",
+    "Stream",
+    "Callbacks",
+    "Data"
+  ],
+  "description": "The Voice RSS Text-To-Speech API creates high quality audio stream. The API doesn’t support callbacks and it synchronously returns audio data or an error message in the same request."
+}

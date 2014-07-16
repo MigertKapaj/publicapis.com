@@ -1,0 +1,14 @@
+{
+  "id": "virta-pay",
+  "title": "Virta pay",
+  "link": "https://www.virtapay.com/api-access.php",
+  "image": "https://d1au2fplbcmd98.cloudfront.net/images/logo-304x51.png",
+  "author": {
+    "name": "VirtaPay"
+  },
+  "tags": [
+    "Payments",
+    "Integrate"
+  ],
+  "description": "The VirtaPay API (Application Programming Interface) provides a simple way for websites and web-based services to integrate VirtaPay payments."
+}

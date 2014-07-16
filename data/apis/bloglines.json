@@ -1,0 +1,15 @@
+{
+  "id": "bloglines",
+  "title": "Bloglines",
+  "link": "http://www.bloglines.com/about/index.html",
+  "image": "http://www.bloglines.com/images/blogo225x50.gif",
+  "author": {
+    "name": "Bloglines"
+  },
+  "tags": [
+    "Information",
+    "Contains",
+    "Publishes"
+  ],
+  "description": "The API Documentation contains information on accessing Bloglines account information. The Feeds section contains a list of the RSS feeds that Bloglines publishes. "
+}

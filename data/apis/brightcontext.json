@@ -1,0 +1,15 @@
+{
+  "id": "brightcontext",
+  "title": "BrightContext",
+  "link": "http://www.brightcontext.com/developers/docs/",
+  "image": "http://www.brightcontext.com/wp-content/themes/bcctheme2-viget/img/logo.png",
+  "author": {
+    "name": "BrightContext"
+  },
+  "tags": [
+    "Data",
+    "Started",
+    "Resource"
+  ],
+  "description": "PowerQuant Channels ingest, process and stream out data in real-time, but BrightContext’s ChannelWrite product allows you to write detailed message histories to one or more Data Stores. To get started with ChannelWrite, create a new ChannelWrite Data Store resource in your project."
+}

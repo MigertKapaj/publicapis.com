@@ -1,0 +1,16 @@
+{
+  "id": "onego-core",
+  "title": "OneGo Core",
+  "link": "https://developers.onego.com/docs/core",
+  "image": "https://assets.sandbox.onego.com/static/img/logo.png",
+  "author": {
+    "name": "OneGo"
+  },
+  "tags": [
+    "Design",
+    "Endpoint",
+    "Returned",
+    "Data"
+  ],
+  "description": "OneGo Core API shares it's design with other popular APIs currently available. Authentication is based on subset of OAuth 2, calls to endpoints are handled using simple GET, POST requests and returned data format is JSON. Note that request parameters in most cases are not JSON, but instead simple HTTP key/value pairs."
+}

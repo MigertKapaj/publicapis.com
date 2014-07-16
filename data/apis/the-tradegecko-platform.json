@@ -1,0 +1,16 @@
+{
+  "id": "the-tradegecko-platform",
+  "title": "The TradeGecko Platform",
+  "link": "http://developer.tradegecko.com/documentation",
+  "image": "",
+  "author": {
+    "name": "TradeGecko"
+  },
+  "tags": [
+    "Web",
+    "HTTP",
+    "Principles",
+    "Presented"
+  ],
+  "description": "The TradeGecko Platform API is a RESTful web API (RESTful web service) -implemented using HTTP and REST principles. We support the standard HTTP methods (e.g., GET, PUT, POST, or DELETE) and all data is presented in JSON format. The API can be understood by off-the-shelf HTTP clients, and we provide libraries for specific languages."
+}

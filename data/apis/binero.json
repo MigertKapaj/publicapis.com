@@ -1,0 +1,15 @@
+{
+  "id": "binero",
+  "title": "Binero",
+  "link": "http://api.externalip.net/",
+  "image": "https://webmail.binero.se/skins/logo.gif",
+  "author": {
+    "name": "Binero"
+  },
+  "tags": [
+    "Requests",
+    "Configured",
+    "Recently"
+  ],
+  "description": "This page is shown for requests to domainnames that have not yet been configured by all the of webservers in the cluster.\nIf you added your website recently it will show up here shortly."
+}

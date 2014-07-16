@@ -1,0 +1,16 @@
+{
+  "id": "mapmyuser",
+  "title": "Mapmyuser",
+  "link": "http://www.mapmyuser.com/API",
+  "image": "http://www.mapmyuser.com/logo.jpg",
+  "author": {
+    "name": "Mapmyuser"
+  },
+  "tags": [
+    "Analytic",
+    "Data",
+    "Application",
+    "Script"
+  ],
+  "description": "Mapmyuser   API provides access to analytic data available at Mapmyuser about any   website. You can use this API to develop applications or scripts to show   stats of any website."
+}

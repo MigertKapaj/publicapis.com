@@ -1,0 +1,15 @@
+{
+  "id": "httpblizzard.github.io",
+  "title": "http://blizzard.github.io",
+  "link": "http://blizzard.github.io/api-sc2-docs/",
+  "image": "",
+  "author": {
+    "name": "Blizzard"
+  },
+  "tags": [
+    "Provides",
+    "Data",
+    "Developers"
+  ],
+  "description": "The Blizzard Community Platform API provides a number of resources for developers and Sc2 enthusiasts to gather data about their profile and ladders. This documentation is primarily for developers and third parties."
+}

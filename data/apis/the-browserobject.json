@@ -1,0 +1,16 @@
+{
+  "id": "the-browserobject",
+  "title": "The BrowserObject",
+  "link": "http://www.fraudlabs.com/browserobject.aspx",
+  "image": "http://www.fraudlabs.com/images/fraudlabsbanner.gif",
+  "author": {
+    "name": "FraudLabs "
+  },
+  "tags": [
+    "Detection",
+    "Online",
+    "Understand",
+    "Web"
+  ],
+  "description": "The BrowserObject Browser Detection Web Service is a hosted, programmable XML Web Service that allows instant detection of online visitor's Web Browser information. The BrowserObject Browser Detection Web Service helps you to understand your visitors better, as well as preventing and minimizing Web site failures that are due to technical issues by detecting your visitor's Web Browser capabilities within a minute."
+}

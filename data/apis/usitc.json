@@ -1,0 +1,15 @@
+{
+  "id": "usitc",
+  "title": "USITC",
+  "link": "https://edis.usitc.gov/edis3-external/app",
+  "image": "https://edis.usitc.gov/edis3-external/media/www2_top_header.png",
+  "author": {
+    "name": "USITC"
+  },
+  "tags": [
+    "Proceed",
+    "Filing",
+    "Difficulty"
+  ],
+  "description": "Select a tab option above to proceed or login to access other EDIS functions, such as search or electronic filing. Please login using an EDIS user name and password. If you do not have one, please register via the link on the right. If you are having difficulty with your EDIS account, contact the EDIS Help Desk at (202) 205-EDIS (3347) or via email at the link below for assistance."
+}

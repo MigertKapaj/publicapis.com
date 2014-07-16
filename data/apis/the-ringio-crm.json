@@ -1,0 +1,16 @@
+{
+  "id": "the-ringio-crm",
+  "title": "The Ringio CRM",
+  "link": "http://dev.ringio.com",
+  "image": "http://dev.ringio.com/wp-content/themes/ringiodev/images/xlogo.jpg.pagespeed.ic.vfWFOg424H.jpg",
+  "author": {
+    "name": "Ringio "
+  },
+  "tags": [
+    "Read",
+    "Write",
+    "Data",
+    "Notes"
+  ],
+  "description": "The Ringio CRM API is a RESTful API that allows you to read and write Ringio data, such as contacts, notes, phone calls and users. With the API you can develop integrations with CRM systems, such that when Ringio users get phone calls, the callers can be identified from information stored in a CRM system. You can also enrich the CRM with data captured by Ringio, such as logging phone calls as interaction records in the CRM."
+}

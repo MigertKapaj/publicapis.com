@@ -1,0 +1,15 @@
+{
+  "id": "open-data",
+  "title": "Open Data",
+  "link": "http://api.uwaterloo.ca/",
+  "image": "http://api.uwaterloo.ca/static/logo-white.png",
+  "author": {
+    "name": "University Of Waterloo"
+  },
+  "tags": [
+    "Anyone",
+    "Programs",
+    "Data"
+  ],
+  "description": "The University of Waterloo Open Data API allows anyone to build their own programs and applications using data from the University of Waterloo websites."
+}

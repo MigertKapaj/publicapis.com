@@ -1,0 +1,13 @@
+{
+  "id": "pokelog",
+  "title": "Pokelog",
+  "link": "https://pokelog.com/api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWOzi6rAh5QGcBo_vu7I6UjXivzRyGJfob2LTO04je7O1okV3kEA",
+  "author": {
+    "name": "Pokelog"
+  },
+  "tags": [
+    "Track"
+  ],
+  "description": "Pokelog is a service that helps people to track their stuff."
+}

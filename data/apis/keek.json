@@ -1,0 +1,15 @@
+{
+  "id": "keek",
+  "title": "Keek",
+  "link": "https://developers.keek.com/api/user_authentication",
+  "image": "https://developers.keek.com/images/keek_logo_dev_v2.png",
+  "author": {
+    "name": "Keek"
+  },
+  "tags": [
+    "Requests",
+    "Authorized",
+    "Requiring"
+  ],
+  "description": "This level of authentication allows clients to make requests on behalf of users who have authorized the client application. API endpoints requiring this level of authentication will require signed requests which include a valid user access token."
+}

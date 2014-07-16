@@ -1,0 +1,16 @@
+{
+  "id": "avantlink",
+  "title": "AvantLink",
+  "link": "http://www.avantlink.com/api.php?help=1&module=ProductSearch",
+  "image": "http://www.avantlink.com/wordpress/wp-content/themes/avantlink/images/skin1/logo_b.png",
+  "author": {
+    "name": "AvantLink"
+  },
+  "tags": [
+    "Data",
+    "Members",
+    "Independent",
+    "Access"
+  ],
+  "description": "The AvantLink API provides advanced data input and retrieval functionality for members of the AvantLink network. The API framework itself is constructed in a REST-style architecture, so usage is entirely platform independent and open to development with any programming language. This is because all access to the API is made via specially formulated GET or POST http requests. "
+}

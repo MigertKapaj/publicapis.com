@@ -1,0 +1,15 @@
+{
+  "id": "lob",
+  "title": "Lob",
+  "link": "https://www.lob.com/docs",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ3BJOfHjbuYUk7Qcy6ruok346mgfbWsBYHWPF7cls-3usIJHPHA",
+  "author": {
+    "name": "Lob"
+  },
+  "tags": [
+    "Organized",
+    "Designed",
+    "Errors"
+  ],
+  "description": "The Lob API is organized around REST. Our API is designed to have predictable, resource-oriented URLs and uses HTTP response codes to indicate any API errors."
+}

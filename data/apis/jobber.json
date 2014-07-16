@@ -1,0 +1,16 @@
+{
+  "id": "jobber",
+  "title": "\n                \nJobber",
+  "link": "http://www.malvee.com/en_US/developer.html",
+  "image": "http://www.malvee.com/images/site/malvee/malvee_logo.png",
+  "author": {
+    "name": "Malvee"
+  },
+  "tags": [
+    "Data",
+    "Interfacing",
+    "Company",
+    "Employee"
+  ],
+  "description": "The API (Application Programmable Interface) can be used to embed Jobber in any application. This interface services the linking of our data to your application. Most actual embedded methods supply the interfacing of the most dominant models of our application: company, employee, user and group. These models cre ate the main part of our application and \nsupply in numbers of functions that can be used to rely on our infrastructure."
+}

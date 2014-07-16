@@ -1,0 +1,15 @@
+{
+  "id": "bing-ads",
+  "title": "Bing Ads",
+  "link": "http://msdn.microsoft.com/en-us/library/aa983013.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Advertising",
+    "Reporting",
+    "Service"
+  ],
+  "description": "The core features of the Bing Ads API allow advertisers to create advertising campaigns, track the performance of their campaigns with detailed reporting, and find ways to optimize campaigns using the Ad Intelligence service."
+}

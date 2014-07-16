@@ -1,0 +1,16 @@
+{
+  "id": "westfax",
+  "title": "WestFax",
+  "link": "http://www.westfax.com/fax-api.aspx",
+  "image": "http://www.westfax.com/images/global/westfax_logo.png",
+  "author": {
+    "name": "WestFax"
+  },
+  "tags": [
+    "Faxes",
+    "Expense",
+    "Hardware",
+    "Software"
+  ],
+  "description": "Seamlessly send faxes from within your applications without the expense of complicated custom hardware and software solutions."
+}

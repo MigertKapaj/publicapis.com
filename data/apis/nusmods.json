@@ -1,0 +1,16 @@
+{
+  "id": "nusmods",
+  "title": "NUSMods",
+  "link": "https://github.com/ahbeng/NUSModsAPI",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Integrated",
+    "Formats",
+    "App",
+    "Directly"
+  ],
+  "description": "The API is still in its infancy, and there are plenty more endpoints that could be integrated, and other formats that might be useful, like CSV. Suggestions are very welcome, and if you have any particular needs for your app, feel free to open an issue or pull request, or simply contact me directly. I'd be happy to deploy any additional tasks to the live API site as well."
+}

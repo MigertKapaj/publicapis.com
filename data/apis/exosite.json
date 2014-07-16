@@ -1,0 +1,16 @@
+{
+  "id": "exosite",
+  "title": "Exosite",
+  "link": "https://support.exosite.com/hc/en-us/articles/200455293-API-documentation-Libraries",
+  "image": "https://p2.zdassets.com/hc/settings_assets/54391/200003958/QWhSMpfEH1azGoEqcMEaIg-exosite_log_white1.png",
+  "author": {
+    "name": "Exosite"
+  },
+  "tags": [
+    "Documentation",
+    "Location",
+    "Updated",
+    "Development"
+  ],
+  "description": "Exosite's official API documentation can be found at this location, which is source controlled and updated by our development team.\n"
+}

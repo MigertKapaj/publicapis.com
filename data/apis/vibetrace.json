@@ -1,0 +1,15 @@
+{
+  "id": "vibetrace",
+  "title": "Vibetrace",
+  "link": "https://github.com/vibetrace/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Realtime",
+    "Requests",
+    "Errors"
+  ],
+  "description": "This document describes the Vibetrace API which offers clients realtime recommendations based on user events.\nPlease refer to this document for an up-to-date api documentation and submit your feature requests, bugs or errors in this repo's issue \ntracker."
+}

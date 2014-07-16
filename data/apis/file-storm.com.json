@@ -1,0 +1,15 @@
+{
+  "id": "file-storm.com",
+  "title": "file-storm.com",
+  "link": "http://file-storm.com/api/docs.php",
+  "image": "http://file-storm.com/templates/default/images/logo.gif",
+  "author": {
+    "name": "file-storm.com"
+  },
+  "tags": [
+    "Access",
+    "Interface",
+    "Premium"
+  ],
+  "description": "In order to access the API interface, you must have a working API key. You can get your API key here . To get your API key you must have a premium or free account. "
+}

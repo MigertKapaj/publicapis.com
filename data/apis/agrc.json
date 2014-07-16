@@ -1,0 +1,16 @@
+{
+  "id": "agrc",
+  "title": "AGRC",
+  "link": "http://developer.mapserv.utah.gov/StartupGuide",
+  "image": "http://gis.utah.gov/wp-content/uploads/agrc_badge_v111.png",
+  "author": {
+    "name": "UTAH AGRC"
+  },
+  "tags": [
+    "Developers",
+    "Service",
+    "Data",
+    "Accurate"
+  ],
+  "description": "The AGRC’s Web API allows for developers to leverage the data and services that AGRC maintains. You can query any data layer in our SGID or you can geocode addresses against the most accurate statewide roads data set to name a few highly popular uses."
+}

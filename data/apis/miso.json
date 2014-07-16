@@ -1,0 +1,14 @@
+{
+  "id": "miso",
+  "title": "Miso",
+  "link": "http://misoproject.com/dataset/api.html",
+  "image": "http://misoproject.com/images/logo.png",
+  "author": {
+    "name": "Miso"
+  },
+  "tags": [
+    "Object",
+    "Extends"
+  ],
+  "description": "Miso.Dataset is the main object you will instantiate to create a new dataset. A Miso.Dataset also extends from Miso.Dataset.DataView."
+}

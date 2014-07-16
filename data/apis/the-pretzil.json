@@ -1,0 +1,16 @@
+{
+  "id": "the-pretzil",
+  "title": "The Pretzil",
+  "link": "http://developer.pretzil.com/api",
+  "image": "http://assets.pretzil.com/img/developer/apiHead.png",
+  "author": {
+    "name": "Pretzil"
+  },
+  "tags": [
+    "Application",
+    "Data",
+    "Device",
+    "Ranking"
+  ],
+  "description": "The Pretzil API allows developers to send us a \"ping\" from their application about the time, location, device and app being used. We use this data to boost your app's rankings in our system and get you more exposure. We will also share this data in analytics, coming soon to a developer dashboard near you."
+}

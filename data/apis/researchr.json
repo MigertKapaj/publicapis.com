@@ -1,0 +1,15 @@
+{
+  "id": "researchr",
+  "title": "Researchr",
+  "link": "http://researchr.org/about/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSiEIqvwmM9PVcbbGnaqoG7W2wKC2rbL6dc0TjWgqxNBIZYedQo",
+  "author": {
+    "name": "Researchr"
+  },
+  "tags": [
+    "Provides",
+    "Data",
+    "Preferably"
+  ],
+  "description": "Researchr now provides a first simple version of a read-only web service API producing data in JSON. The API and the format of the JSON is subject to change. Feedback (including ideas for new features) is welcome, preferably via YellowGrass."
+}

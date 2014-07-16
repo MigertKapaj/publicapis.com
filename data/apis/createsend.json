@@ -1,0 +1,13 @@
+{
+  "id": "createsend",
+  "title": "createsend",
+  "link": "http://api.createsend.com/api/api.asmx?",
+  "image": "",
+  "author": {
+    "name": "createsend"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

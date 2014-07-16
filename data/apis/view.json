@@ -1,0 +1,15 @@
+{
+  "id": "view",
+  "title": "View",
+  "link": "http://api.view.co.uk/searchAPI",
+  "image": "http://api.view.co.uk/images/view_api_logo.gif",
+  "author": {
+    "name": "View"
+  },
+  "tags": [
+    "Data",
+    "Business",
+    "Parameters"
+  ],
+  "description": "This API enables you to search View®'s data for venues and reviews by location, business type as well as a number of other parameters."
+}

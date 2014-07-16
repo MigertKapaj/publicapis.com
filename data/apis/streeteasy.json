@@ -1,0 +1,16 @@
+{
+  "id": "streeteasy",
+  "title": "StreetEasy",
+  "link": "http://streeteasy.com/nyc/api/info",
+  "image": "http://streeteasy.com/images/streeteasy-logo@2x.png",
+  "author": {
+    "name": "StreetEasy"
+  },
+  "tags": [
+    "Parameter",
+    "Allowance",
+    "Criteria",
+    "References"
+  ],
+  "description": "All calls require a key parameter with your API key.Calls might return with status 403 (Forbidden) if you exceed 100 calls per hour. Contact us if you require a larger rate allowance.\nMany of our APIs accept sets of criteria. For more information, see the Sale Criteria and Rental Criteria references.\n    "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "noisetube",
+  "title": "NoiseTube",
+  "link": "http://noisetube.net/api_overview",
+  "image": "http://noisetube.net/images/noisetubelogo.png",
+  "author": {
+    "name": "NoiseTube"
+  },
+  "tags": [
+    "Data",
+    "Specified",
+    "Improved"
+  ],
+  "description": "We expose our data through the NoiseTube API, specified in this page. Note that the API will be actively improved over time. "
+}

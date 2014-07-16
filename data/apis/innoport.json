@@ -1,0 +1,16 @@
+{
+  "id": "innoport",
+  "title": "Innoport",
+  "link": "http://www.innoport.com/fax/fax_APIs/",
+  "image": "http://www.innoport.com/images/innoportLogo.jpg",
+  "author": {
+    "name": "Innoport"
+  },
+  "tags": [
+    "Designed",
+    "Demanding",
+    "Innoport",
+    "Software"
+  ],
+  "description": "With Innoport Fax API, you can start sending faxes from your applications within minutes. Integrate the Fax API in your web forms, custom applications or to build your own fax gateway. Designed to accommodate the most demanding enterprise faxing volume, Innoport Fax API achieves your faxing goals without the need for additional hardware, software or phone lines ... "
+}

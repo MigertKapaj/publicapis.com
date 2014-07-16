@@ -1,0 +1,15 @@
+{
+  "id": "rrpproxy",
+  "title": "RRPproxy",
+  "link": "https://wiki.rrpproxy.net/Claim_Notification",
+  "image": "https://wiki.rrpproxy.net/images/logo_rrpproxy.png",
+  "author": {
+    "name": "RRPproxy"
+  },
+  "tags": [
+    "Extensive",
+    "Commands",
+    "System"
+  ],
+  "description": "Our API Manual will give you an extensive overview of the commands which can be submitted to the system."
+}

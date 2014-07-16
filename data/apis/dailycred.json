@@ -1,0 +1,15 @@
+{
+  "id": "dailycred",
+  "title": "DailyCred",
+  "link": "https://www.dailycred.com/api",
+  "image": "https://d3b9owkrfo5lcv.cloudfront.net/dailycred-retina-01.png",
+  "author": {
+    "name": "Dailycred"
+  },
+  "tags": [
+    "Authentication",
+    "Apps",
+    "Server"
+  ],
+  "description": "Client-side authentication allows Web and Mobile apps to authenticate a user without the need for a server. It enables fully-javascript apps to authenticate with DailyCred."
+}

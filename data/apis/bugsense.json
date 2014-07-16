@@ -1,0 +1,15 @@
+{
+  "id": "bugsense",
+  "title": "Bugsense",
+  "link": "https://www.bugsense.com/docs",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSTHiC0bBFNhs2g5VbqI_ZAGh4DFhNoJXa6MmRUEVwi_PU41Fgq",
+  "author": {
+    "name": "Bugsense"
+  },
+  "tags": [
+    "Developers",
+    "Apps",
+    "Delivers"
+  ],
+  "description": "BugSense was created by developers for developers out of simple necessity: we wanted to monitor our apps in the wild and make sure they were always stable & fun to use. To meet this need, we came up with an app-monitoring solution that takes no more than 2 minutes to install, leaves a small footprint, and delivers huge value. "
+}

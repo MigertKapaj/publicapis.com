@@ -1,0 +1,16 @@
+{
+  "id": "orbis-trading",
+  "title": "Orbis trading",
+  "link": "http://www.orbisfn.com/api.os",
+  "image": "http://www.orbisfn.com/images/logo.png",
+  "author": {
+    "name": "Orbis System"
+  },
+  "tags": [
+    "Fast Trading",
+    "Traders",
+    "Managment",
+    "Progress"
+  ],
+  "description": "Orbis has developed a remarkably fast trading API (Application Programming Interface) for use by automated traders. The service provides real-time market access and direct fiber optic connections to market centers, allowing your system to execute trades at top speed. Our API includes customizable risk management tools to prevent over-buying and over-selling of shares, as well as a live monitoring feature that allows you to track the progress of you trades and get real-time P&L information. While you concentrate on fine-tuning your trading model, we'll handle the technology. "
+}

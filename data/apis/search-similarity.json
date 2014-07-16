@@ -1,0 +1,16 @@
+{
+  "id": "search-similarity",
+  "title": "Search Similarity",
+  "link": "http://developer.zappos.com/docs/api-search-similarity",
+  "image": "http://developer.zappos.com/sites/default/files/logo.png",
+  "author": {
+    "name": "Zappos"
+  },
+  "tags": [
+    "Beta",
+    "Recommendations",
+    "Site",
+    "Allgorithms"
+  ],
+  "description": "hese API's are very much in beta.  We actually use a different mechanism on our website to generate the recommendations you see there.  But we're excited about offering these APIs early and we'll be using them on parts of our site soon.  We'd love to hear your feedback on how good you feel the data is from these calls as we will constantly be enhancing our algorithms behind them."
+}

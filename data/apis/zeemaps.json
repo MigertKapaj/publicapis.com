@@ -1,0 +1,15 @@
+{
+  "id": "zeemaps",
+  "title": "ZeeMaps",
+  "link": "http://www.zeemaps.com/",
+  "image": "http://d3o96a3f9o7chl.cloudfront.net/images/base/logo.png",
+  "author": {
+    "name": "ZeeMaps"
+  },
+  "tags": [
+    "Service",
+    "Publish",
+    "Producting"
+  ],
+  "description": "ZeeMaps is an enterprise-class mapping service that allows you to easily create, publish, and share interactive maps. You can construct dynamic visualizations of geographic information, producing maps from your list of people or places."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ingesture",
+  "title": "Ingesture",
+  "link": "http://ingesture.com/apidocs/",
+  "image": "http://ingesture.com/_inc/imgs/logos/ingesture-logo.png",
+  "author": {
+    "name": "Ingesture"
+  },
+  "tags": [
+    "Service",
+    "Social",
+    "Data"
+  ],
+  "description": "The Ingesture API Project is an experiment by Michael Sullivan (@sull). The concept is to provide a web service that allows users to send light-weight social messages that generate socially semantic URLs as shared gestures that can contain associated metadata/annotations."
+}

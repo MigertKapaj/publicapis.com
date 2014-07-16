@@ -1,0 +1,15 @@
+{
+  "id": "streak",
+  "title": "Streak",
+  "link": "http://www.streak.com/api/#authentication",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT41xt_yAhEjXym46FPwb_p9zy2d7cYNb6INEDSoBKTzojG7Vp7",
+  "author": {
+    "name": "Streak"
+  },
+  "tags": [
+    "Accessing",
+    "Secret",
+    "Remember"
+  ],
+  "description": "Your API key has all the same privileges that you have while accessing Streak. Any pipelines you have access to in your Streak Gmail account will also be available from the API. Be sure to keep your API key secret and remember you can always regenerate your key if needed."
+}

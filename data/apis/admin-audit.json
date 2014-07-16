@@ -1,0 +1,16 @@
+{
+  "id": "admin-audit",
+  "title": "Admin Audit",
+  "link": "https://developers.google.com/google-apps/admin-audit/get_started",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Programmer",
+    "Lawful",
+    "Purposes",
+    "Activities"
+  ],
+  "description": "This document is intended for programmers who want to write client applications that, for lawful auditing purposes, can audit a Google Apps account's administrative activities. "
+}

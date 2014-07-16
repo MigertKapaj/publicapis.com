@@ -1,0 +1,15 @@
+{
+  "id": "alfresco-one",
+  "title": "Alfresco One",
+  "link": "https://www.alfresco.com/develop",
+  "image": "https://www.alfresco.com/sites/www/themes/alfrescodotcom/img/logo.svg",
+  "author": {
+    "name": "Alfresco"
+  },
+  "tags": [
+    "Provides",
+    "Workflow",
+    "Processes. Complex"
+  ],
+  "description": "Alfresco provides a fully configurable workflow engine to help manage your internal business processes. This could be a simple review and approval workflow or a more complex multi stage business process"
+}

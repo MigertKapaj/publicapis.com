@@ -1,0 +1,16 @@
+{
+  "id": "stopforumspam",
+  "title": "Stopforumspam",
+  "link": "http://www.stopforumspam.com/usage",
+  "image": "http://www.stopforumspam.com/img/logo.png",
+  "author": {
+    "name": "Stopforumspam"
+  },
+  "tags": [
+    "Experiment",
+    "Premade",
+    "Integrate",
+    "Members"
+  ],
+  "description": "You are welcome to experiment with and incorporate this API in your application. For premade scripts that probably integrate into your forum software, visit the members contributions page."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "amazon-cloudwatch",
+  "title": "Amazon CloudWatch",
+  "link": "http://aws.amazon.com/cloudwatch/",
+  "image": "http://docs.aws.amazon.com/general/latest/gr/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Provides",
+    "Developers",
+    "Metrics",
+    "Smoothly"
+  ],
+  "description": "Amazon CloudWatch provides monitoring for AWS cloud resources and the applications customers run on AWS. Developers and system administrators can use it to collect and track metrics, gain insight, and react immediately to keep their applications and businesses running smoothly."
+}

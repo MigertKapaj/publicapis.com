@@ -1,0 +1,16 @@
+{
+  "id": "safe-browsing",
+  "title": "Safe Browsing",
+  "link": "https://developers.google.com/safe-browsing/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Encrypted",
+    "Designed",
+    "Efficient",
+    "Service"
+  ],
+  "description": "The Safe Browsing API is an experimental API that enables applications to download an encrypted table for local, client-side lookups of URLs that you would like to check. In early 2010, we made a new version (v2) of the Safe Browsing API available. This v2 version is designed to be more efficient in terms of bandwidth usage, and to help us scale this service to support even more users. The v2 protocol is already in use by several browsers, including Google Chrome and Mozilla Firefox. You can start using the Safe Browsing API v2 now. "
+}

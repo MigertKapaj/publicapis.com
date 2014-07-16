@@ -1,0 +1,16 @@
+{
+  "id": "custom-search",
+  "title": "Custom Search",
+  "link": "https://developers.google.com/custom-search/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Engine",
+    "Explains",
+    "Search",
+    "Developer"
+  ],
+  "description": "Welcome to Google Custom Search! Creating a customized search engine is easy, and only takes a few minutes. This tutorial explains how to implement a simple custom search engine using a predefined javascript widget. For more fine-grained control over search results, see JSON and XML API in Developer Guide."
+}

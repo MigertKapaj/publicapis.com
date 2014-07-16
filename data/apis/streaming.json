@@ -1,0 +1,17 @@
+{
+  "id": "streaming",
+  "title": "Streaming",
+  "link": "https://dev.twitter.com/docs/streaming-apis",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTnkFW7EipdxVa6f_iJlsoI_o-LH9h_NvZJEXCEncaP2aGlqIJT",
+  "author": {
+    "name": "Twitter"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Streaming",
+    "Occurred",
+    "Polling"
+  ],
+  "description": "The set of streaming APIs offered by Twitter give developers low latency access to Twitter's global stream of Tweet data. A proper implementation of a streaming client will be pushed messages indicating Tweets and other events have occurred, without any of the overhead associated with polling a REST endpoint."
+}

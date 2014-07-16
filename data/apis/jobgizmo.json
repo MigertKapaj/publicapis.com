@@ -1,0 +1,16 @@
+{
+  "id": "jobgizmo",
+  "title": "JobGizmo",
+  "link": "http://jobgizmo.com/apidocs/",
+  "image": "http://jobgizmo.com/logo.png",
+  "author": {
+    "name": "JobGizmo"
+  },
+  "tags": [
+    "Developers",
+    "Utilized",
+    "Web",
+    "App"
+  ],
+  "description": "The JobGizmo API is intended to assist commissioned developers on how to properly \"tap\" in to the JobGizmo user database. It's really cool stuff and is utilized by the web app, browser widget and mobile app."
+}

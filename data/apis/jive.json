@@ -1,0 +1,15 @@
+{
+  "id": "jive",
+  "title": "Jive",
+  "link": "https://developers.jivesoftware.com/api/v3/cloud/rest/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMqwS2G1j6RCcnRDSTFfJe_Svr6NwCGhsqijxkcTy_xQPBPBBM",
+  "author": {
+    "name": "Jive"
+  },
+  "tags": [
+    "Provides",
+    "Powerful",
+    "Community"
+  ],
+  "description": "The Jive REST API provides comprehensive and powerful functionality for interacting with your Jive community."
+}

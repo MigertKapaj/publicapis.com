@@ -1,0 +1,15 @@
+{
+  "id": "plentymarkets",
+  "title": "plentymarkets",
+  "link": "http://man.plentymarkets.eu/en/soap-api/introduction/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTZP6pDo4154RBnirktQS0GUl8Liy4AJkPMw0ivmU5fFH156z_Z0A",
+  "author": {
+    "name": "plentymarkets"
+  },
+  "tags": [
+    "Data",
+    "External",
+    "Platform"
+  ],
+  "description": "The plentymarkets API is the central data interface for automatically exchanging data between external software solutions or platforms and plentymarkets."
+}

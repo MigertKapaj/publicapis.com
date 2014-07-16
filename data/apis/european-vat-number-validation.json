@@ -1,0 +1,15 @@
+{
+  "id": "european-vat-number-validation",
+  "title": "European VAT Number Validation",
+  "link": "http://isvat.appspot.com/",
+  "image": "",
+  "author": {
+    "name": "European VAT Number Validation"
+  },
+  "tags": [
+    "Service",
+    "Developer",
+    "Information"
+  ],
+  "description": "This service exists to help developers validate EU VAT numbers via a simple REST-based API. See the service details section for more information and disclaimers."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "smart-tribune",
+  "title": "Smart Tribune",
+  "link": "http://smart-tribune.com/api",
+  "image": "http://smart-tribune.com/redesign/img/header-logo.png",
+  "author": {
+    "name": "Smart Tribune"
+  },
+  "tags": [
+    "Database",
+    "Represents",
+    "System"
+  ],
+  "description": "You will want to store this access token in your database, attached to the user account in your system who is currently signed in to your application. This token represents the link between the user’s account on your system and on Smart Tribune."
+}

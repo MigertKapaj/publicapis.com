@@ -1,0 +1,15 @@
+{
+  "id": "core-reporting-api",
+  "title": "Core Reporting API",
+  "link": "https://developers.google.com/analytics/devguides/reporting/core/v3/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Report",
+    "Tabular",
+    "Data"
+  ],
+  "description": "The Core Reporting API provides access to the tabular data in Google Analytics standard and custom reports. To access data, you create a query that specifies:the view (profile), the start and end dates, and the dimensions and metrics that make up the column headers in the table. This query is sent to the Core Reporting API and The Core Reporting API returns all the data in the form of a table."
+}

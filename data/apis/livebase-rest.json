@@ -1,0 +1,15 @@
+{
+  "id": "livebase-rest",
+  "title": "Livebase REST",
+  "link": "http://www.fhoster.com/manuals/en/html/rest.html",
+  "image": "http://www.fhoster.com/img/logo.png",
+  "author": {
+    "name": "FHOSTER"
+  },
+  "tags": [
+    "Describes",
+    "Cloudlets",
+    "External"
+  ],
+  "description": "The Livebase REST API guide describes the Livebase REST API that enables the integration between your Cloudlets and external systems via REST calls. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "authy",
+  "title": "Authy",
+  "link": "https://www.authy.com/help/getting-started",
+  "image": "https://www.authy.com/assets/logo.png",
+  "author": {
+    "name": "Authy"
+  },
+  "tags": [
+    "Authentication",
+    "Resources",
+    "Libraries"
+  ],
+  "description": "Authy is a simple REST API that does all the heavy lifting,  so you can add two-factor authentication to your website or app\nin just a few hours. We have a number of resources, such as javascript helpers and API libraries for most languages.\nThis guide will make use of this resources as we build a simple web app using the Authy API.\n"
+}

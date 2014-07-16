@@ -1,0 +1,16 @@
+{
+  "id": "rfocus",
+  "title": "rFocus",
+  "link": "http://gis.rfocus.com/WebServices.aspx",
+  "image": "http://gis.rfocus.com/images/logo.gif",
+  "author": {
+    "name": "rFocus"
+  },
+  "tags": [
+    "Service",
+    "Public",
+    "Scope",
+    "Accuracy"
+  ],
+  "description": "rFocus Corporation currently makes a limited number of GIS (Geographic Information System) -related web services available to the public. Due to the costs involved with high-precision results, these free services are currently limited in their scope and accuracy."
+}

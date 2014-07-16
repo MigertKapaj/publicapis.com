@@ -1,0 +1,15 @@
+{
+  "id": "clickbank",
+  "title": "ClickBank",
+  "link": "https://support.clickbank.com/entries/22821303-clickbank-api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRdfNfNUOdiKLuZRn0LfPNokTL55JEB7tupixARxtlisMSZYbTG",
+  "author": {
+    "name": "ClickBank"
+  },
+  "tags": [
+    "Securely",
+    "Information",
+    "Owners"
+  ],
+  "description": "The ClickBank API makes it possible for a wide range of computer programs to securely access ClickBank account information on behalf of ClickBank account owners. Some of the functions available to users of the API include the ability to."
+}

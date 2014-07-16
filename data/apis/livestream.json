@@ -1,0 +1,15 @@
+{
+  "id": "livestream",
+  "title": "Livestream",
+  "link": "http://www.livestream.com/platform/developer",
+  "image": "http://www.livestream.com/images/new_channel/new_header/new_logo.png",
+  "author": {
+    "name": "Livestream"
+  },
+  "tags": [
+    "Functionality",
+    "Social networks",
+    "Integrete"
+  ],
+  "description": " We are dedicated to opening up our video streaming platform to the developer community. In addition to custom development work with our Partners, we are in the process of releasing a number of APIs designed to make core Livestream functionality, content and features available for you to integrete into websites, social networks, blogs and applications.\n                \n                "
+}

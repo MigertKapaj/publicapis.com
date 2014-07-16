@@ -1,0 +1,14 @@
+{
+  "id": "the-kantanmt",
+  "title": "The KantanMT",
+  "link": "http://docs.kantanmt.apiary.io/",
+  "image": "https://apiary.a.ssl.fastly.net/assets/images/apiary-app-logo-1x-136bf1f4d06a3c9e.png",
+  "author": {
+    "name": "KantanMT"
+  },
+  "tags": [
+    "Translation",
+    ""
+  ],
+  "description": "The KantanMT API allows customers to interact with the KantanMT translation facility as an on-demand web service. Users can submit individual segments or groups of segments for \ntranslation, and receive those translations immediately, in contrast to the browser-based KantanMT experience, which performs much larger translation volumes in a “batch” or “job-based” workflow. \n"
+}

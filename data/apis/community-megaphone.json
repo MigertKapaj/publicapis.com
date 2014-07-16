@@ -1,0 +1,15 @@
+{
+  "id": "community-megaphone",
+  "title": "Community Megaphone",
+  "link": "http://www.communitymegaphone.com/API.aspx",
+  "image": "http://www.communitymegaphone.com/images/CMPHeaderTitle.png",
+  "author": {
+    "name": "Community Megaphone"
+  },
+  "tags": [
+    "Developer",
+    "Discovery",
+    "Software"
+  ],
+  "description": "Community Megaphone was built by Microsoft Developer Evangelist G. Andrew Duthie (aka .NET DEvHammer) to facilitate sharing and discovery of events relating to software development."
+}

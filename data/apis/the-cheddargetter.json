@@ -1,0 +1,16 @@
+{
+  "id": "the-cheddargetter",
+  "title": "The CheddarGetter",
+  "link": "https://cheddargetter.com/developers",
+  "image": "https://cheddargetter.com/img/logo_CG_256x101.png",
+  "author": {
+    "name": "CheddarGetter"
+  },
+  "tags": [
+    "Integrate",
+    "Custom Code",
+    "Data",
+    "Identifier"
+  ],
+  "description": "While developing CheddarGetter, we made every attempt to make integrating with the CheddarGetter API as easy as possible. After all, we integrate applications with CheddarGetter all the time. One of the major conveniences we've introduced into the CheddarGetter API is the \"custom code\". All of the data items in CheddarGetter have a unique identifier that CheddarGetter uses internally to uniquely identify records but there's also this custom code. This is another unique identifier for your use for anything you like. The custom code is unique within your account and CheddarGetter makes sure of that. "
+}

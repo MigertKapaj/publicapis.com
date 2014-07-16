@@ -1,0 +1,15 @@
+{
+  "id": "addshoppers",
+  "title": "AddShoppers",
+  "link": "http://api.addshoppers.com/docs/1.0/",
+  "image": "http://api.addshoppers.com/docs/1.0/_static/admin_sprite.png",
+  "author": {
+    "name": "AddShoppers"
+  },
+  "tags": [
+    "Configure",
+    "Object",
+    "Social"
+  ],
+  "description": "You can use the optional AddShoppersTracking object to configure global widget settings and override product details (especially if you are not using Product Schema). You can put this object anywhere on any page that has our Social Analytics app installed."
+}

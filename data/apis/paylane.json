@@ -1,0 +1,16 @@
+{
+  "id": "paylane",
+  "title": "PayLane",
+  "link": "http://devzone.paylane.com/",
+  "image": "http://devzone.paylane.com/wp-content/themes/devzone-en/img/logo_paylane.png",
+  "author": {
+    "name": "PayLane"
+  },
+  "tags": [
+    "Payments",
+    "Integrate",
+    "Programming",
+    "Features"
+  ],
+  "description": "API allows you to accept payments directly on your website – PayLane stays invisible from the customer’s point of view. You can integrate with PHP, Python, Ruby or any other programming language. You’ll also be able to use some more advanced features."
+}

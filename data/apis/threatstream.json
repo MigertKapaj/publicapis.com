@@ -1,0 +1,15 @@
+{
+  "id": "threatstream",
+  "title": "ThreatStream",
+  "link": "http://www.threatstream.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTAB0qtjfD3UzIgr13I-hoRSoDWfu-mChNWdqlg65G_sXLfiJl",
+  "author": {
+    "name": "ThreatStream"
+  },
+  "tags": [
+    "Data",
+    "Adversaries",
+    "Defenses"
+  ],
+  "description": "ThreatStream’s approach is simple: leverage data science to map out the relationships between adversaries and targets in real-time. This creates a feed of actionable intelligence that can be fed back to existing security defenses, providing real-time awareness of the external threat landscape."
+}

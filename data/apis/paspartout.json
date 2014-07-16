@@ -1,0 +1,15 @@
+{
+  "id": "paspartout",
+  "title": "Paspartout",
+  "link": "http://api.paspartout.com/",
+  "image": "http://api.paspartout.com/images/infos/logo.png?1389031913",
+  "author": {
+    "name": "Paspartout"
+  },
+  "tags": [
+    "Developers",
+    "Public",
+    "Data"
+  ],
+  "description": "The Paspartout API is meant for developers or Paspartout site owners who want to create widgets, use public Paspartout data externally or extend behavior."
+}

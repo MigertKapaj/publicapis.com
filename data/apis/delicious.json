@@ -1,0 +1,17 @@
+{
+  "id": "delicious",
+  "title": "Delicious",
+  "link": "http://developer.yahoo.com/delicious/",
+  "image": "https://s.yimg.com/zz/combo?a/i/ydn/sst/44/delicious.gif",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Bookmarking",
+    "Service",
+    "Save",
+    "Share",
+    "Read"
+  ],
+  "description": "Delicious is a Social Bookmarking service that allows users to save their bookmarks online, share them with other people, and see what other people are bookmarking. The API provides Read/Write access to Delicious bookmarks and tags."
+}

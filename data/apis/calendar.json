@@ -1,0 +1,16 @@
+{
+  "id": "calendar",
+  "title": "Calendar",
+  "link": "https://developers.google.com/google-apps/calendar/v3/reference/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Events",
+    "Delete",
+    "Search",
+    "Data"
+  ],
+  "description": "The Google Calendar API lets you develop client applications that create new events, edit or delete existing events, and search for events. This document describes how to use RESTful calling style and client libraries for various programming languages (currently Java, Python, PHP, .NET and Ruby) to access and edit Google Calendar data."
+}

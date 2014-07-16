@@ -1,0 +1,16 @@
+{
+  "id": "fantasydata",
+  "title": "FantasyData",
+  "link": "http://developer.fantasydata.com/",
+  "image": "https://apiphanynfldata.blob.core.windows.net/media/Default/HtmlWidget/Contents/Item/Display/3/logo.png",
+  "author": {
+    "name": "FantasyData"
+  },
+  "tags": [
+    "Developer",
+    "Purchased",
+    "Conisedering",
+    "Solution"
+  ],
+  "description": " The FantasyData.com Developer Portal! If you’ve purchased or are considering a subscription to one of our API solutions, you’ll find a wealth of information here."
+}

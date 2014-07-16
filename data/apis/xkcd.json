@@ -1,0 +1,15 @@
+{
+  "id": "xkcd",
+  "title": "xkcd",
+  "link": "http://xkcd.com/json.html",
+  "image": "",
+  "author": {
+    "name": "xkcd"
+  },
+  "tags": [
+    "Parsed",
+    "Titles",
+    "Metadata"
+  ],
+  "description": "Those files contain, in a plaintext and easily-parsed format: comic titles, URLs, post dates, transcripts (when available), and other metadata."
+}

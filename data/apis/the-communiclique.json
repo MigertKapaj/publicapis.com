@@ -1,0 +1,13 @@
+{
+  "id": "the-communiclique",
+  "title": "The Communiclique",
+  "link": "http://developer.communiclique.com/",
+  "image": "http://developer.communiclique.com/files/logosm.png",
+  "author": {
+    "name": "Communiclique"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This is the place to come for the technical details you will need to empower your applications with the easy voice and video conferencing available through the Communiclique API. Each page of our documentation offers a commenting feature that you can use to share your thoughts and suggestions about our documentation. We welcome the chance to collaborate with you on our technical documentation"
+}

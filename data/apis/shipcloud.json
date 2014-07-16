@@ -1,0 +1,15 @@
+{
+  "id": "shipcloud",
+  "title": "shipcloud",
+  "link": "http://docs.shipcloud.apiary.io/",
+  "image": "https://apiary.a.ssl.fastly.net/assets/images/apiary-app-logo-1x-136bf1f4d06a3c9e.png",
+  "author": {
+    "name": "shipcloud"
+  },
+  "tags": [
+    "Implementing",
+    "Architectural",
+    "Oriented"
+  ],
+  "description": "To make it easier for you the developer, we've created the Shipcloud API deliberately using the RESTful architectural style. This means if you're familiar with REST and using RESTful services, you will have no problems using our API. As it's common when implementing a REST-API we're using resource-oriented URLs and HTTP authentication."
+}

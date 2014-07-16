@@ -1,0 +1,15 @@
+{
+  "id": "clerk",
+  "title": "Clerk",
+  "link": "http://www.clerkhotel.com/blog/category/api/statistics/",
+  "image": "http://www.clerkhotel.com/wp-content/themes/clerk/imag/sprite.png",
+  "author": {
+    "name": "Clerk"
+  },
+  "tags": [
+    "Program",
+    "Operations",
+    "Account"
+  ],
+  "description": "Clerk data API allows a program to perform many of the operations offered on a Clerk hotel account."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pagely",
+  "title": "Pagely",
+  "link": "https://docs-api.pagely.com/details/",
+  "image": "https://docs-api.pagely.com/wp-content/themes/pagely12/img/pagely-header-logo.png",
+  "author": {
+    "name": "Pagely"
+  },
+  "tags": [
+    "System",
+    "Adding",
+    "Account",
+    "Ready"
+  ],
+  "description": "The API is for partners to integrate pagely into their existing system. A typical scenario would be a plugin company adding hosting as an option at checkout. Through the API and our system, a hosting account would be created for that user, with the chosen plugin enabled and ready to go at login."
+}

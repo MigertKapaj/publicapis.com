@@ -1,0 +1,13 @@
+{
+  "id": "texas-hold-em",
+  "title": "Texas Hold Em",
+  "link": "https://www.mashape.com/vincy/texas-hold-em",
+  "image": "",
+  "author": {
+    "name": "vincy"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "With this API you can easily develop a poker texas holdem game, just design the graphic."
+}

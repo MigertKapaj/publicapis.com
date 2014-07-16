@@ -1,0 +1,16 @@
+{
+  "id": "eligibles",
+  "title": "Eligible's",
+  "link": "https://eligibleapi.com/",
+  "image": "https://eligibleapi.com/assets/common/logo.png",
+  "author": {
+    "name": "Eligible"
+  },
+  "tags": [
+    "Diagnostic",
+    "Imaging",
+    "Across",
+    "Dealing"
+  ],
+  "description": "Mobile imaging center Quality Imaging delivers digital X-rays, diagnostic ultrasounds, EKGS, and more to thousands of locations across the country. They use Eligible's REST API to avoid dealing with legacy EDI."
+}

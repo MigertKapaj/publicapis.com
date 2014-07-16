@@ -1,0 +1,15 @@
+{
+  "id": "dealerrater",
+  "title": "Dealerrater",
+  "link": "http://api.dealerrater.com/docs/",
+  "image": "http://api.dealerrater.com/images/logo.gif",
+  "author": {
+    "name": "Dealerrater"
+  },
+  "tags": [
+    "Dealers",
+    "Access",
+    "Manage"
+  ],
+  "description": "The Dealerrater API has been developed to help dealers and authorized partners access a variety of content sourced on the DealerRater website, as well as allowing dealers and their agents to access and manage their reviews and dealer information."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "younity",
+  "title": "younity",
+  "link": "http://www.getyounity.com/developers.html",
+  "image": "http://www.getyounity.com/images/Younity_logo.png",
+  "author": {
+    "name": "younity"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Desktops",
+    "Drives"
+  ],
+  "description": "With the younity API, there’s finally an easy way to access local data stored across a users desktops, laptops and external drives."
+}

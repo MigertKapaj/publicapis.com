@@ -1,0 +1,15 @@
+{
+  "id": "bart",
+  "title": "BART",
+  "link": "http://bart.gov/schedules/developers/index.aspx",
+  "image": "http://www.bart.gov/sites/all/themes/bart_desktop/logo.png",
+  "author": {
+    "name": "BART"
+  },
+  "tags": [
+    "Schedues",
+    "Practically",
+    "Planning"
+  ],
+  "description": "We've got your basic GTFS schedues and a simple Real Time ETD feed, too. But they're soooo 2007! Step up to The Real BART API. You'll get practically everything we use for BART trip planning."
+}

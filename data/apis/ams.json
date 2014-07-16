@@ -1,0 +1,15 @@
+{
+  "id": "ams",
+  "title": "AMS",
+  "link": "http://wiki.kinrossgroup.com/display/DEV/Home",
+  "image": "http://wiki.kinrossgroup.com/download/attachments/5111809/global.logo?version=2&modificationDate=1301432868157",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "Web",
+    "Messages",
+    "Administration "
+  ],
+  "description": "The AMS Developer API is provided as a web service in both SOAP 1.2 and REST styles. Methods are provided for sending and receiving messages as well as performing administration tasks such as adding new message boxes."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "widen-web-service",
+  "title": "Widen Web Service",
+  "link": "http://www.widen.com/api/",
+  "image": "http://www.widen.com/wp-content/uploads/widen-logo@2x.png",
+  "author": {
+    "name": "Widen"
+  },
+  "tags": [
+    "Integration",
+    "Separate",
+    "Displaying"
+  ],
+  "description": "The REST API uses OAuth 2.0. This is best used for integration between two web applications where users have separate usernames and passwords. An example would be displaying all the newly added product images and videos to your Dealers on their Dealer portal."
+}

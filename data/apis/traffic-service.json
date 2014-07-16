@@ -1,0 +1,13 @@
+{
+  "id": "traffic-service",
+  "title": "Traffic Service",
+  "link": "http://www.mapquestapi.com/traffic/",
+  "image": "http://www.mapquestapi.com/cdn/common/images/MQ_header_logo_DevNet.png",
+  "author": {
+    "name": "MapQuest"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This is your source for information and resources available for the MapQuest Flash Maps API. Download the component, visit our forum, and explore samples written in AS3 and Flex using the Flash Maps API. If you're looking for another language, please visit the Licensed Data APIs page."
+}

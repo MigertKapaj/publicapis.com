@@ -1,0 +1,16 @@
+{
+  "id": "rdio",
+  "title": "Rdio",
+  "link": "http://www.rdio.com/developers/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ-alXFIOveV8jqqshgzDpgpaSgq3D7_dtnPkS1-jl-PcEcSl7s6Q",
+  "author": {
+    "name": "Rdio"
+  },
+  "tags": [
+    "Easy",
+    "Legal",
+    "Music",
+    "Ways"
+  ],
+  "description": "Welcome to the Rdio API, an easy and legal way to add music to your applications. We encourage you to build great new ways for people to discover, collect, share and play music."
+}

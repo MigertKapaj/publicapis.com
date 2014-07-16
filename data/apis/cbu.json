@@ -1,0 +1,15 @@
+{
+  "id": "cbu",
+  "title": "CBU",
+  "link": "http://api.bioinfo.no/wsdl/JasparDB.wsdl",
+  "image": "",
+  "author": {
+    "name": "CBU"
+  },
+  "tags": [
+    "Service",
+    "Contain",
+    "Position"
+  ],
+  "description": "This is a Web service interface to the Jaspar database which contain profiles of transcription factor binding sites. \nProfiles can be fetched as Position Frequency Matrices (PFM), Position Weight Matrices (PWM), or\nInformation Content Matrices (ICM).\n"
+}

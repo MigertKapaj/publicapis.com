@@ -1,0 +1,15 @@
+{
+  "id": "tracking-notification",
+  "title": "Tracking Notification",
+  "link": "http://www.nzpost.co.nz/products-services/iphone-apps-apis/how-the-tracking-notification-api-works",
+  "image": "http://www.nzpost.co.nz/sites/all/themes/nzpost/logo.png",
+  "author": {
+    "name": "New Zealand Post"
+  },
+  "tags": [
+    "Capability",
+    "Services",
+    "Designed"
+  ],
+  "description": "This API introduces a push capability for monitoring the delivery status of packages using New Zealand Post’s services. The system has been designed to allow additional channels to be easily added in the future."
+}

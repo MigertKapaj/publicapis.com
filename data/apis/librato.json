@@ -1,0 +1,16 @@
+{
+  "id": "librato",
+  "title": "Librato",
+  "link": "http://dev.librato.com/v1",
+  "image": "",
+  "author": {
+    "name": "Librato"
+  },
+  "tags": [
+    "Manage",
+    "Service",
+    "Line",
+    ""
+  ],
+  "description": "Librato is committed to enabling our user community to manage their services configurations through first-class REST APIs. Librato's own clients (web, command line, etc) are built upon these APIs. Detailed documentation for authentication and each individual API call can be accessed through the menu at the right. We invite suggestions, feature requests or problem reports at our support forum."
+}

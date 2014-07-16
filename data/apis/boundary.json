@@ -1,0 +1,15 @@
+{
+  "id": "boundary",
+  "title": "Boundary",
+  "link": "http://boundary.com/product/overview/#sdi",
+  "image": "http://boundary.com/wp-content/themes/boundary/images/logo-for-light-bg.png",
+  "author": {
+    "name": "Boundary"
+  },
+  "tags": [
+    "Modem",
+    "Words",
+    "Managed"
+  ],
+  "description": "IT operations is changing. Cloud infrastructures and modern, internet-scale application architectures are no longer buzz words floating out in the potential future. They’re here, now, needing to be managed."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hospital-compare",
+  "title": "Hospital Compare",
+  "link": "http://www.hospitals.ocom.pl",
+  "image": "http://karol.xon.pl/icHospitals/images/main.jpg",
+  "author": {
+    "name": "Hospital compare"
+  },
+  "tags": [
+    "Mortality",
+    "Average",
+    "Numbers",
+    "Data"
+  ],
+  "description": "API allows us to get various hospital information like mortality rates, average payments for operations, addresses, phone numbers and much more!\nUse it and get data from more than 4500 hospitals in the USA!"
+}

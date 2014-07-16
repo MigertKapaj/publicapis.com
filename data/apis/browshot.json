@@ -1,0 +1,15 @@
+{
+  "id": "browshot",
+  "title": "Browshot",
+  "link": "http://browshot.com/api/documentation",
+  "image": "http://browshot.com/static/images/logo_324x98-tr.png?1",
+  "author": {
+    "name": "Browshot"
+  },
+  "tags": [
+    "Requires",
+    "Dashboard",
+    "Account"
+  ],
+  "description": "Use of the API requires authentication with your API key. Your key is displayed in the right column in your dashboard. If you do not yet have an account, please register for a free account."
+}

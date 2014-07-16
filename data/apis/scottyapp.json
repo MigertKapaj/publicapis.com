@@ -1,0 +1,14 @@
+{
+  "id": "scottyapp",
+  "title": "ScottyApp",
+  "link": "http://scottyapp.com/developers",
+  "image": "http://assets.scottyapp.com/assets/v2/media/scottyapp_logo-48b6040011235475f76bdc2b353d1f05.png",
+  "author": {
+    "name": "ScottyApp"
+  },
+  "tags": [
+    "Access",
+    "Commercial"
+  ],
+  "description": "ScottyApp provides you with a REST API. Access to the API is free for commercial and non-commercial use within certain usage limits. "
+}

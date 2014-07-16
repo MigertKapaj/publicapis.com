@@ -1,0 +1,15 @@
+{
+  "id": "bronto",
+  "title": "Bronto",
+  "link": "http://dev.bronto.com/api/v4/how-access-api",
+  "image": "http://dev.bronto.com/sites/default/files/site-name-gr.jpg",
+  "author": {
+    "name": "Bronto"
+  },
+  "tags": [
+    "Designed",
+    "Exposes",
+    "Interface"
+  ],
+  "description": "Bronto's API is designed for developers who would like to interact with the Bronto application in a programmatic way. The API exposes nearly all of the capabilities presented in the graphical user interface."
+}

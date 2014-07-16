@@ -1,0 +1,13 @@
+{
+  "id": "dns",
+  "title": "DNS",
+  "link": "https://www.mashape.com/enclout/dns",
+  "image": "",
+  "author": {
+    "name": "enclout"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API takes a URL or domain as input and returns back DNS data"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "siteleaf",
+  "title": "Siteleaf",
+  "link": "https://github.com/siteleaf/siteleaf-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Secret",
+    "Endpoint",
+    "Password"
+  ],
+  "description": "Siteleaf uses Basic Auth of the user's API key and secret to authenticate each request. To retrieve a user's API key and secret, use the POST /v1/auth endpoint, passing the user's email and password authenticated with Basic Auth."
+}

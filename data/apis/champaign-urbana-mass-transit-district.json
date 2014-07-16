@@ -1,0 +1,16 @@
+{
+  "id": "champaign-urbana-mass-transit-district",
+  "title": "Champaign-Urbana Mass Transit District",
+  "link": "http://developer.cumtd.com/",
+  "image": "https://developer.cumtd.com/content/images/logo.svg",
+  "author": {
+    "name": "Champaign-Urbana Mass Transit District"
+  },
+  "tags": [
+    "Technology",
+    "Geographic",
+    "Development",
+    "Talented"
+  ],
+  "description": "The Champaign-Urbana Mass Transit District is committed to utilizing the most progressive technology. The openly-provided developer resources available here are simply a continuation of MTD’s commitment to opportunity and innovation. Real-time bus departure data combined with geographic information substantially improves the rider experience. We believe that the talented, resourceful, and creative development community will find ways to use this data to create tools of real value in surprising and wonderful ways."
+}

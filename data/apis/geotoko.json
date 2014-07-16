@@ -1,0 +1,15 @@
+{
+  "id": "geotoko",
+  "title": "Geotoko",
+  "link": "http://geotoko.com/about",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsJgEUAbhzRrSXXV50uMHzI6NjBGE8xjuqNeHDEIBhSkEtd335Rw",
+  "author": {
+    "name": "Geotoko"
+  },
+  "tags": [
+    "Data",
+    "Metrics",
+    "Present"
+  ],
+  "description": "Geotoko then aggregates in-depth, real-time data across all the geo-social networks to deliver meaningful metrics, actionable insights and present a comprehensive view of real-world consumer behavior."
+}

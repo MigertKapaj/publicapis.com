@@ -1,0 +1,15 @@
+{
+  "id": "newsman",
+  "title": "Newsman",
+  "link": "http://kb.newsmanapp.com/api/",
+  "image": "http://kb.newsmanapp.com/wp-content/themes/decohelp/images/logo.png",
+  "author": {
+    "name": "Newsman"
+  },
+  "tags": [
+    "Entire",
+    "Email",
+    "Media"
+  ],
+  "description": "Newsman Team dedicates it's entire time to help you reach your customers via Email and Social Media."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "wepow",
+  "title": "WePow",
+  "link": "https://api.wepowapp.com/docs/",
+  "image": "",
+  "author": {
+    "name": "WePow"
+  },
+  "tags": [
+    "Resources",
+    "Constraint"
+  ],
+  "description": "The WePow API can be considered \"RESTful\"-ish. If you've worked with APIs that model state as resources, and use HTTP verbs to denote actions on said resources, you won't find much difference. We only add one more constraint, which is HATEOAS."
+}

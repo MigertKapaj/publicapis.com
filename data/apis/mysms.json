@@ -1,0 +1,14 @@
+{
+  "id": "mysms",
+  "title": "mysms",
+  "link": "http://api.mysms.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQyqKr8K2oVdaUcWYJZapiSpnhx844x7SWbvq68kafm9YpkT795",
+  "author": {
+    "name": "mysms"
+  },
+  "tags": [
+    "Supports",
+    "Accessing"
+  ],
+  "description": "This API supports a Representational State Transfer (REST) model for accessing a set of resources through a fixed set of operations."
+}

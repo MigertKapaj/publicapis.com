@@ -1,0 +1,16 @@
+{
+  "id": "share-online.biz",
+  "title": "SHARE-ONLINE.biz",
+  "link": "http://www.share-online.biz/uploadapi/",
+  "image": "http://www.share-online.biz/template/v3dark/images/logo.gif",
+  "author": {
+    "name": "SHARE-ONLINE"
+  },
+  "tags": [
+    "Progress",
+    "Function",
+    "Resume",
+    "Incompleted"
+  ],
+  "description": "The API supports the upload progress from a single file or by chunk-upload with up to 8191 single parts.                                   A resume function is included, but this works of cause only for the chunk-upload. By using this feature you have to resume within 30min or the incompleted files will be removed."
+}

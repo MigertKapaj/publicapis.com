@@ -1,0 +1,15 @@
+{
+  "id": "big-world-data",
+  "title": "Big World Data",
+  "link": "http://bigworlddata.org/what.php",
+  "image": "http://bigworlddata.org/logo_invert.png",
+  "author": {
+    "name": "Big World Data"
+  },
+  "tags": [
+    "Data",
+    "Accessing",
+    "Collected"
+  ],
+  "description": "Our goal is to give worldwide access to a data set going back over a decade collected every 2 days by satellite and available for each kilometer square of our planet. Detailed documentation on accessing the API from any language people wish to use, PHP, Javascript, ASP.Net, Perl to Python and beyond."
+}

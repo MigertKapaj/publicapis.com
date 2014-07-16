@@ -1,0 +1,15 @@
+{
+  "id": "tringme",
+  "title": "TringMe",
+  "link": "http://tringme.com/developers.html",
+  "image": "http://tringme.com/images/tringmelogo.png",
+  "author": {
+    "name": "TringMe"
+  },
+  "tags": [
+    "Voice",
+    "Development",
+    "Lifecycle"
+  ],
+  "description": "TringMe APIs allow you to create powerful voice-enabled applications by using all the TringMe features in your application. TringMe's complete platform capabilities are exposed as well-defined, easy-to-use APIs which simplifies the entire development lifecycle - infact, with TringMe's APIs, your first voice application can go live in less than an hour"
+}

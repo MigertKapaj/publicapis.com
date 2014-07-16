@@ -1,0 +1,17 @@
+{
+  "id": "quantopian",
+  "title": "Quantopian",
+  "link": "https://www.quantopian.com/help#api-doco",
+  "image": "https://d186u94n5bd9bg.cloudfront.net/assets/logo_header.png",
+  "author": {
+    "name": "Quantopian"
+  },
+  "tags": [
+    "Developing",
+    "Algorithms",
+    "Data",
+    "Infrastructure",
+    "Investment"
+  ],
+  "description": "Quantopian is a platform for developing and testing quantitative trading algorithms. Our goal is to handle all the infrastructure, data, and setup tasks so that you can focus on developing and testing your investment ideas. Live trading of your algorithms is in a pilot program."
+}

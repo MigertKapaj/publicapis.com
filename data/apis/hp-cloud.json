@@ -1,0 +1,15 @@
+{
+  "id": "hp-cloud",
+  "title": "HP Cloud",
+  "link": "https://docs.hpcloud.com/api/v13/block-storage/",
+  "image": "https://docs.hpcloud.com/images/hp-public-cloud-logo.png",
+  "author": {
+    "name": "HP Public Cloud"
+  },
+  "tags": [
+    "Addition",
+    "Private",
+    "Beta"
+  ],
+  "description": "We offer a number of HP Cloud APIs both for HP Cloud version 13.5 and version 12.12. In addition, we have some public beta and private beta APIs that you can put to use, so please give them a try."
+}

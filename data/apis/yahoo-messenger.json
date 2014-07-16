@@ -1,0 +1,16 @@
+{
+  "id": "yahoo-messenger",
+  "title": "Yahoo Messenger",
+  "link": "http://developer.yahoo.com/messenger/",
+  "image": "https://s.yimg.com/zz/combo?a/i/ydn/sst/44/messenger.gif",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Messaging",
+    "Desktop",
+    "Manage",
+    "Real-time"
+  ],
+  "description": "Yahoo Messenger is the premier instant messaging (IM) platform, used on a wide variety of desktop and mobile clients. The SDK offers developers a trusted platform to manage contact and group lists, presence information, real-time instant communications, and data transfer to and from clients instantly throughout the world."
+}

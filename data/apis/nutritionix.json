@@ -1,0 +1,15 @@
+{
+  "id": "nutritionix",
+  "title": "Nutritionix",
+  "link": "https://developer.nutritionix.com/docs/v1_1",
+  "image": "https://developer.nutritionix.com/assets/nutritionix_api.png",
+  "author": {
+    "name": "Nutritionix"
+  },
+  "tags": [
+    "Extension",
+    "Response",
+    "Address"
+  ],
+  "description": "We recommend you install the JSONView Chrome Extension to format the JSON response, then paste this example query into your Chrome address bar."
+}

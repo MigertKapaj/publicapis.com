@@ -1,0 +1,16 @@
+{
+  "id": "kanbanery",
+  "title": "Kanbanery",
+  "link": "https://kanbanery.com/features",
+  "image": "https://kanbanery.com/assets/landing/logo-b968e06a42774dd4e3870e79e5fbe033.png",
+  "author": {
+    "name": "Kanbanery"
+  },
+  "tags": [
+    "Developer",
+    "Creative",
+    "Platform",
+    "Imagination"
+  ],
+  "description": "With our well-documented and full-featured API, developers around the world are contributing creative and useful tools to extend the functionality of Kanbanery to embrace the Android platform, to bug-tracking tools, Chrome extensions, and other applications we hadn’t dreamed of. If you’re a developer, we welcome you to let your imagination run wild."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "plurk",
+  "title": "Plurk",
+  "link": "http://www.plurk.com/API",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHy_PEGsHWxEqlxY4UDbzIm8km4F33AA4QrKuph91yf0I1anxc",
+  "author": {
+    "name": "Plurk"
+  },
+  "tags": [
+    "Privacy",
+    "Accessing",
+    "Timeline",
+    "Data"
+  ],
+  "description": "Plurk API 2.0 introduces OAuth 1.0a to protect user's privacy. It provides a standard way of accessing and implementing applications on top of the Plurk platform. With OAuth, application can access user's timeline and post plurks on behalf of user without keeping user's password. All applications wishing to access user's data are encouraged to migrate to Plurk API 2.0 (OAuth) as soon as possible.\n        "
+}

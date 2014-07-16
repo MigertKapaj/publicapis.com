@@ -1,0 +1,16 @@
+{
+  "id": "the-story",
+  "title": "The Story ",
+  "link": "http://dev.npr.org/",
+  "image": "http://dev.npr.org/img/npr.jpg",
+  "author": {
+    "name": "NPR"
+  },
+  "tags": [
+    "Stories",
+    "Air",
+    "Workhorse",
+    "Mobile"
+  ],
+  "description": "The Story API was NPR’s first – and still most popular – API. The Story API returns stories from NPR’s on-air programs and NPR.org. The Story API is the workhorse that sends NPR’s stories to mobile devices, connected cars, and NPR member station sites."
+}

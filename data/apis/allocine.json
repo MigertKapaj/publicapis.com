@@ -1,0 +1,13 @@
+{
+  "id": "allocine",
+  "title": "AlloCiné",
+  "link": "http://wiki.gromez.fr/dev/api/allocine_v3",
+  "image": "http://wiki.gromez.fr/lib/tpl/growiki/images/header.png",
+  "author": {
+    "name": "Growiki"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "AlloCiné a mis à jour il y a quelques temps ses APIs. Je vais tenter de les expliquer sur cette nouvelle page.\n"
+}

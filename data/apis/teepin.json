@@ -1,0 +1,14 @@
+{
+  "id": "teepin",
+  "title": "Teepin",
+  "link": "https://www.teepin.com/api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPxZlyQLySK8xIZBQoZvS0z6VkYkggFT00AYJsyZ-xJEr0pKjBhQ",
+  "author": {
+    "name": "Teepin"
+  },
+  "tags": [
+    "Data",
+    "Programme"
+  ],
+  "description": "Our API allows for an authorized person to access Teepin's data \nprogramatically. Currently we support REST, SOAP, JSON and XML-RPC. To access it, you must first ask for an access key, by sending us an \nemail. Every single request to the API will have to use the key assigned to you."
+}

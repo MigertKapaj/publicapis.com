@@ -1,0 +1,15 @@
+{
+  "id": "leanpub",
+  "title": "Leanpub",
+  "link": "https://leanpub.com/help/api",
+  "image": "https://leanpub.com/assets/sprites/lean-s76820777fc-e9e341c0388a84065bd3a2ffb1f19265.png",
+  "author": {
+    "name": "Leanpub"
+  },
+  "tags": [
+    "Database",
+    "Search",
+    "Section"
+  ],
+  "description": "You need to get an API key to start using the API. Go to your dashboard, click on the \"Account tab\" and search for the API key section near the bottom (it will only be visible if you are signed up as an author)."
+}

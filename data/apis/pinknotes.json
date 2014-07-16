@@ -1,0 +1,15 @@
+{
+  "id": "pinknotes",
+  "title": "Pinknotes",
+  "link": "https://www.pinknotes.com/developers.php",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRn4H6gFzzMcHq_6tWOraxLtwxXT2ZU_nFOOdwsfNIB0Sum0KnZ",
+  "author": {
+    "name": "Pinknotes"
+  },
+  "tags": [
+    "Developers",
+    "Platform",
+    "Information"
+  ],
+  "description": "The PinkNotes® API allows 3rd party developers their software with PinkNotes® in order to accomplish popular tasks on the PinkNotes® messaging platform. Such tasks include sending & receiving of PinkNotes®, the retrieval of live user information, and much more!"
+}

@@ -1,0 +1,13 @@
+{
+  "id": "porn-filter",
+  "title": "Porn Filter",
+  "link": "https://www.mashape.com/nsure-io/porn-filter",
+  "image": "",
+  "author": {
+    "name": "nsure.io"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Scan images and image URLs to determine if they contain inappropriate content.  Send us an image, and we will tell you if it's likely to be porn.\r\n\r\nA note about scanning for porn:  Nothing in this world is perfect.  Our API looks at skin tones, shapes and other cues to identify images that are likely to be inappropriate, but nothing is ever going to be perfect.  Just like virus scanning, spam filters and other things, some false positives and missed hits will occur."
+}

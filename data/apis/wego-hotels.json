@@ -1,0 +1,16 @@
+{
+  "id": "wego-hotels",
+  "title": "Wego Hotels",
+  "link": "http://www.wego.com/api/hotels/docs",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS0j1x7Gp6KI2kGXoXZ-pSFdlNX2-06lRPdoBnTVo0Ao5R1Rpq7",
+  "author": {
+    "name": "Wego"
+  },
+  "tags": [
+    "Developer",
+    "Programmatically",
+    "Requests",
+    "Unless"
+  ],
+  "description": "The Wego Hotels API allows developers to interact with the Hotels product of Wego.com programmatically via HTTP requests. All API methods are HTTP requests and responses are in JSON format unless otherwise stated."
+}

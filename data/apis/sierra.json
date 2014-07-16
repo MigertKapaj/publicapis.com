@@ -1,0 +1,14 @@
+{
+  "id": "sierra",
+  "title": "Sierra",
+  "link": "http://sierra.iii.com/",
+  "image": "http://www.iii.com/sites/default/files/logo-header_2.png",
+  "author": {
+    "name": "Innovative"
+  },
+  "tags": [
+    "Integration",
+    "Corporate"
+  ],
+  "description": "Whether it’s Sierra’s open API integrations, Encore’s deep content presentations, SkyRiver’s shelf-ready cataloging, or INN-Reach’s eMaterials options, Innovative’s strategic corporate partnerships have been made for your libraries."
+}

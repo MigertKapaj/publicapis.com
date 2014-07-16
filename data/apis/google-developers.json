@@ -1,0 +1,15 @@
+{
+  "id": "google-developers",
+  "title": "Google Developers",
+  "link": "http://code.google.com/",
+  "image": "http://code.google.com/images/gd-logo.png",
+  "author": {
+    "name": "Google"
+  },
+  "tags": [
+    "Resources",
+    "Events",
+    "Products"
+  ],
+  "description": "Google Developers is now the place to find all Google developer documentation, resources, events, and products."
+}

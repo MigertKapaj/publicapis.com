@@ -1,0 +1,15 @@
+{
+  "id": "bittrust",
+  "title": "BitTrust",
+  "link": "http://www.bittrust.org/",
+  "image": "http://bittrust.org/assets/img/BTLogo.png",
+  "author": {
+    "name": "BitTrust"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Compiling"
+  ],
+  "description": "BitTrust hopes to aid in bringing Bitcoin closer to legitimacy. By providing data on Bitcoin services as well as compiling reviews, we hope to allow consumers to make an informed choice when they use their Bitcoins."
+}

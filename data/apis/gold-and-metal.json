@@ -1,0 +1,16 @@
+{
+  "id": "gold-and-metal",
+  "title": "Gold & Metal",
+  "link": "http://www.xignite.com/product/gold-metal/api/ListMetals/",
+  "image": "http://www.xignite.com/img/global/logo-text.png",
+  "author": {
+    "name": "Xignite"
+  },
+  "tags": [
+    "Service",
+    "Historical",
+    "Charts",
+    "Metal"
+  ],
+  "description": "This API offers real time prices and quotes for metals including Gold, Silver, Palladium, Platinum and other base metals. In addition to real time precious metals prices, the service provides daily London Fixing prices, gold coin prices, and delayed NYMEX and COMEX Future precious metal prices as well as historical precious metal prices, charts and metal news"
+}

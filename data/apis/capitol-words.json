@@ -1,0 +1,15 @@
+{
+  "id": "capitol-words",
+  "title": "Capitol Words",
+  "link": "http://sunlightlabs.github.io/Capitol-Words/",
+  "image": "http://assets.sunlightfoundation.com/sfapp/static/img/sfapp_logo.png",
+  "author": {
+    "name": "Capitol Words"
+  },
+  "tags": [
+    "Documentation",
+    "Version",
+    "actively"
+  ],
+  "description": "This documentation is for Version 1 of the Capitol Words API. Version 1 is currently the only version, and is actively maintained."
+}

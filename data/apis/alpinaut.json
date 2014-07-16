@@ -1,0 +1,16 @@
+{
+  "id": "alpinaut",
+  "title": "Alpinaut",
+  "link": "http://www.alpinaut.com/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTc9pBeQ_CO3yUzVVGkZ7riRvzeqF_EPcLjx4uwNTSLWMa3-xr-6w",
+  "author": {
+    "name": "Alpinaut"
+  },
+  "tags": [
+    "Interest",
+    "Longitude",
+    "Web",
+    "Category"
+  ],
+  "description": "Alpinaut is a new concept of a adventure sports points of interest search engine.\nNow, you can view the nearest points by a latitude and longitude coordinates, amd include this information in your web site easily\nYou can place this points over your maps, or list your names, distance, interest, category, etc."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "financial-reports-gds",
+  "title": "Financial Reports GDS",
+  "link": "http://developers.odesk.com/w/page/25401066/Financial%20Reports%20GDS%20API",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Financial",
+    "Vehicle",
+    "Transaction"
+  ],
+  "description": "The financial reports API enables calls to the Financial Reports of any user who authorizes the call. A vehicle which allows users to access their financial transactions from our system."
+}

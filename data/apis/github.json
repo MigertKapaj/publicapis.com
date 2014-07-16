@@ -1,0 +1,15 @@
+{
+  "id": "github",
+  "title": "GitHub",
+  "link": "http://developer.github.com/",
+  "image": "https://developer.github.com/images/logo_developer.png",
+  "author": {
+    "name": "GitHub"
+  },
+  "tags": [
+    "Descibes",
+    "Resources",
+    "Problems"
+  ],
+  "description": "This describes the resources that make up the official GitHub API v3. If you have any problems or requests"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "server-density",
+  "title": "Server Density",
+  "link": "https://apidocs.serverdensity.com/Authentication/Getting_a_token_via_the_API",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRrQXzLAW2S-JJrUPLsWsbrOFhtSG_p1UKqh87lI98Didm4VMHo5w",
+  "author": {
+    "name": "Server Density"
+  },
+  "tags": [
+    "Generate",
+    "Request",
+    "Performed"
+  ],
+  "description": "If you need to generate tokens programmatically, you can request a token through the API with your username and password. All future requests can then be performed using the returned token."
+}

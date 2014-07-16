@@ -1,0 +1,16 @@
+{
+  "id": "tourcms",
+  "title": "TourCMS",
+  "link": "http://www.tourcms.com/support/api/mp/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSD3DBpNnKMuwBheIJDaa16TMVUtpaoGEC6MrSQzbEAdrtCXqAC0w",
+  "author": {
+    "name": "TourCMS"
+  },
+  "tags": [
+    "Booking",
+    "Data",
+    "Agents",
+    "Access"
+  ],
+  "description": "These API calls are to access your live product, booking and customer data in realtime. They can be used by TourCMS Marketplace agents to access content from multiple TourCMS accounts. These APIs can also be used by individual account owners to access their own data."
+}

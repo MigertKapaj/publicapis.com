@@ -1,0 +1,15 @@
+{
+  "id": "theport",
+  "title": "ThePort",
+  "link": "http://community.theport.com/rest_apis",
+  "image": "http://community.theport.com/custom/theportcommunity/images/support_community_logo_v3.jpg",
+  "author": {
+    "name": "ThePort"
+  },
+  "tags": [
+    "Contain",
+    "Intention",
+    "Transactions"
+  ],
+  "description": "Version 1.0 of ThePort's RESTful APIs will contain basic GET and POST verbs. (note: the DELETE verb will not be supported until a later release). Note that ThePort has no intention of supporting the PUT HTTP verb. We will be using POST for all insert / update transactions."
+}

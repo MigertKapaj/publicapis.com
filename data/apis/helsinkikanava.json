@@ -1,0 +1,16 @@
+{
+  "id": "helsinkikanava",
+  "title": "Helsinkikanava",
+  "link": "http://open.helsinkikanava.fi/technical.html",
+  "image": "http://open.helsinkikanava.fi/_static/helsinkikanava-logo.png",
+  "author": {
+    "name": "Helsinkikanava"
+  },
+  "tags": [
+    "Resources",
+    "Metadata",
+    "Data",
+    "Semantics."
+  ],
+  "description": "The API consists of three types of resources. The information in the index page and the metadata for the meetings is encoded using the JSON data-interchange format. Please refer to\nthe sections below for the structure and semantics of the particular resources. The HTTP resources support also JSONP for making cross-domain requests."
+}

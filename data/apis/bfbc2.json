@@ -1,0 +1,15 @@
+{
+  "id": "bfbc2",
+  "title": "BFBC2",
+  "link": "http://bfbcs.com/api",
+  "image": "http://files.bfbcs.com/img/bfbcs/logo.png",
+  "author": {
+    "name": "BFBC2"
+  },
+  "tags": [
+    "Data",
+    "Software",
+    "Integrate"
+  ],
+  "description": "bfbcs.com offers an API for fetching all BFBC2 Stats data from our database.\nThis API can be used by software engineers to integrate BFBC2 Stats into their software."
+}

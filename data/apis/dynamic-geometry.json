@@ -1,0 +1,15 @@
+{
+  "id": "dynamic-geometry",
+  "title": "Dynamic Geometry",
+  "link": "http://www.dyngeometry.com/web/Developer.aspx",
+  "image": "http://www.dyngeometry.com/web/images/img11.jpg",
+  "author": {
+    "name": "DynamicGeometry"
+  },
+  "tags": [
+    "Service",
+    "Web",
+    "Adding"
+  ],
+  "description": "The Dynamic Geometry Web Service lets you embed Dynamic Geometry functions in your own web pages with WSDL or JSON. The Dynamic Geometry Web Service API provides a number of utilities for manipulating maps and adding content to the map through a variety of services on your website."
+}

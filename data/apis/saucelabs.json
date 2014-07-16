@@ -1,0 +1,14 @@
+{
+  "id": "saucelabs",
+  "title": "Saucelabs",
+  "link": "https://saucelabs.com/docs/rest",
+  "image": "https://saucelabs.com/images/sauce-labs-logo.png",
+  "author": {
+    "name": "Saucelabs"
+  },
+  "tags": [
+    "Information",
+    "Subacounts"
+  ],
+  "description": "Sauce REST allows customers to retrieve information about Sauce Labs resources programmatically over HTTP using JSON.\nUsers can create subaccounts, retrieve account information, retrieve job information, video replays of tests, selenium logs of \ntests, start and stop Sauce Connect tunnel endpoints."
+}

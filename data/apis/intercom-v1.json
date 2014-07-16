@@ -1,0 +1,16 @@
+{
+  "id": "intercom-v1",
+  "title": "Intercom V1",
+  "link": "http://docs.intercom.io/api",
+  "image": "http://doc.intercom.io/api/v1/images/logo.png",
+  "author": {
+    "name": "Intercom V1"
+  },
+  "tags": [
+    "Curl",
+    "Ruby",
+    "Code",
+    "Programming"
+  ],
+  "description": "Welcome to the Intercom V1 API documentation, currently the production default. Within the docs, we provide examples in Curl and Ruby. You can view code examples in the area to the right, and you can switch the programming language of the examples with the tabs in the top right."
+}

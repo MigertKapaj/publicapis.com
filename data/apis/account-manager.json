@@ -1,0 +1,15 @@
+{
+  "id": "account-manager",
+  "title": "Account Manager",
+  "link": "https://account.boomtestuitgevers.nl/api.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD4504FZaQ7jW8dAbGDIh6QIL_5W6jA5cWrUJFRE5qfIWrt18E",
+  "author": {
+    "name": "Boom test uitgevers "
+  },
+  "tags": [
+    "Service",
+    "Creating",
+    "Command"
+  ],
+  "description": "The Boom Account Manager API is a REST web service for managing Boom test uitgevers user accounts and creating purchases. The following tutorial uses curl on the command line to show you how it works."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "wikimapia",
+  "title": "Wikimapia",
+  "link": "http://wikimapia.org/api/",
+  "image": "http://wikimapia.org/img/labs/logo.gif",
+  "author": {
+    "name": "Wikimapia"
+  },
+  "tags": [
+    "System",
+    "Data",
+    "Maps",
+    "Geo"
+  ],
+  "description": "Wikimapia Api is a system that allows you to receive data from our maps.You can easily integrate Wikimapia Geo Data into your external application or web site."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "mixpanel",
+  "title": "Mixpanel",
+  "link": "https://mixpanel.com/",
+  "image": "https://cdn.mxpnl.com/cache/f67735c42ab9a36b4e7249d55cbb8ac5/images/static/logo_gray_117px.png",
+  "author": {
+    "name": "Mixpanel"
+  },
+  "tags": [
+    "Data",
+    "Products",
+    "Scaling",
+    "Design",
+    "Making"
+  ],
+  "description": "Mixpanel's mission is to help the world learn from its data. We help companies learn how people use their products and applications so they can grow their business. Every day we face and solve new challenges with scaling, reliability, design, and making our customers happy. "
+}

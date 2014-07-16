@@ -1,0 +1,15 @@
+{
+  "id": "openkit",
+  "title": "OpenKit",
+  "link": "http://openkit.io/",
+  "image": "http://openkit.io/images/logo.png",
+  "author": {
+    "name": "OpenKit"
+  },
+  "tags": [
+    "Service",
+    "Social",
+    "Integrate"
+  ],
+  "description": "OpenKit is a set of cross-platform services for game developers. OpenKit makes it easy to integrate social features into your games, such as: Social Leaderboards, Social Challenges (via push notifications), and Smart Invites."
+}

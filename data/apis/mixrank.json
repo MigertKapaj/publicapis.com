@@ -1,0 +1,15 @@
+{
+  "id": "mixrank",
+  "title": "MixRank",
+  "link": "http://mixrank.com/api",
+  "image": "http://mixrank.com/static/images/logo.png?123",
+  "author": {
+    "name": "MixRank"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Publishers"
+  ],
+  "description": "The MixRank API offers complete programmatic access to all of the historical advertising data available on MixRank.com, including ads, keywords, advertisers, and publishers."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "paddle",
+  "title": "Paddle",
+  "link": "http://www.usepaddle.com/developers/promocodes.php",
+  "image": "http://www.usepaddle.com/img/paddle_web_logo.png",
+  "author": {
+    "name": "Paddle"
+  },
+  "tags": [
+    "Payments",
+    "Simple",
+    "Integrating",
+    "Environments"
+  ],
+  "description": "Paddle's mission is to make payments as simple and easy as possible. We've carried this ethos into our APIs and have made integrating Paddle with your existing e-commerce environments as straightforward as possible."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rcsb-pdb",
+  "title": "RCSB PDB",
+  "link": "http://www.rcsb.org/pdb/software/rest.do",
+  "image": "http://www.rcsb.org/pdb/skins/web20/default/images/pdbLogo.png",
+  "author": {
+    "name": "PDB"
+  },
+  "tags": [
+    "Web",
+    "Data",
+    "Services",
+    "Implement"
+  ],
+  "description": "The RCSB PDB supports RESTful (REpresentational State Transfer) Web Services to make accessing data easier. \nPlease use these services instead of screen-scraping. Generally we are trying to implement two types of services for our RESTful interface"
+}

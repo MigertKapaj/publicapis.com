@@ -1,0 +1,15 @@
+{
+  "id": "opensnp",
+  "title": "openSNP",
+  "link": "http://opensnp.org/faq#api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9xtP4gduJd6DLOWvpRQV6JI2Sepwc21O661QjsxfuxXKlwZlG",
+  "author": {
+    "name": "openSNP"
+  },
+  "tags": [
+    "Data",
+    "Implementing",
+    "Easier"
+  ],
+  "description": "We provide some methods to make it easier to get data back from openSNP. Currently we are implementing some JavaScript Object Notation (short: JSON) methods that will make it easier to code some awesome openSNP-utilizing stuff."
+}

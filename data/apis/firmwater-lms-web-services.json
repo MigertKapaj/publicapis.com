@@ -1,0 +1,16 @@
+{
+  "id": "firmwater-lms-web-services",
+  "title": "Firmwater LMS Web Services",
+  "link": "http://docs.firmwater.com/api",
+  "image": "http://docs.firmwater.com/_/rsrc/1227651683491/config/app/images/customLogo/customLogo.gif?revision=2",
+  "author": {
+    "name": "Firmwater"
+  },
+  "tags": [
+    "Programmatic",
+    "LMS",
+    "Simple",
+    "Powerful"
+  ],
+  "description": "The Web Services API provides programmatic access to the LMS's information using a simple, powerful, and secure application programming interface (API)."
+}

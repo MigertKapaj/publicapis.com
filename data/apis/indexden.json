@@ -1,0 +1,14 @@
+{
+  "id": "indexden",
+  "title": "IndexDen",
+  "link": "http://www.indexden.com/documentation",
+  "image": "http://www.indexden.com/assets/img/logo.png",
+  "author": {
+    "name": "IndexDen"
+  },
+  "tags": [
+    "Manage",
+    "Searches"
+  ],
+  "description": "The API defines methods to manage indexes (create and delete them), operate on them (add and delete documents, functions, etc), perform searches, etc."
+}

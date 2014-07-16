@@ -1,0 +1,16 @@
+{
+  "id": "soch",
+  "title": "SOCH",
+  "link": "http://www.ksamsok.se/in-english/api/#sochapi",
+  "image": "http://www.ksamsok.se/wp-content/themes/ksamsok/images/k-samsok-rost.jpg",
+  "author": {
+    "name": "ksamsok"
+  },
+  "tags": [
+    "Enable",
+    "Advanced",
+    "Method",
+    "Statistics"
+  ],
+  "description": "This SOCH API is developed to enable the easy creation of advanced search applications. It contains, apart from the standard search method, methods for doing advanced statistic searches and methods for faceting"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ensembl",
+  "title": "Ensembl",
+  "link": "http://beta.rest.ensembl.org/documentation/info/archive_id",
+  "image": "http://asia.ensembl.org/i/mirrors/this-mirror.png",
+  "author": {
+    "name": "Ensembl"
+  },
+  "tags": [
+    "Project",
+    "Completed",
+    "Access",
+    "Data"
+  ],
+  "description": "The Ensembl project was started in 1999, some years before the draft human genome was completed. Even at that early stage it was clear that manual annotation of 3 billion base pairs of sequence would not be able to offer researchers timely access to the latest data. "
+}

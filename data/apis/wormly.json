@@ -1,0 +1,14 @@
+{
+  "id": "wormly",
+  "title": "Wormly",
+  "link": "https://www.wormly.com/developers",
+  "image": "https://www.wormly.com/images/logo-hdpi.2.png",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "Server Monitoring Product",
+    "Uptime product"
+  ],
+  "description": "Wormly's uptime & server monitoring product was launched in 2006 after 12 months of development. It has evolved dramatically since then, driven by feedback from enthusiastic customers. In 2012, Wormly serves thousands of users daily, in more than 100 countries worldwide."
+}

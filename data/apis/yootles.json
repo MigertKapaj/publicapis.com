@@ -1,0 +1,15 @@
+{
+  "id": "yootles",
+  "title": "Yootles",
+  "link": "http://yootles.com/api.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTv5utBiMiles5s9RNejR28v7OTCqLIcmHL4WMPP2ckOkg9OL9J",
+  "author": {
+    "name": "Yootles"
+  },
+  "tags": [
+    "Specifies",
+    "Behalf",
+    "Trusted"
+  ],
+  "description": "Yootles API calls are made either by a specific Yootles user who specifies their Yootles username and (hashed, salted) password with each call, or on behalf of a specific Yootles user by a trusted application that provides an application-specific user alias and a (hashed, salted) application key with every call. "
+}

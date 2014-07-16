@@ -1,0 +1,15 @@
+{
+  "id": "amazon-swf",
+  "title": "Amazon SWF",
+  "link": "http://aws.amazon.com/swf/",
+  "image": "http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Service",
+    "Complex",
+    "Unique"
+  ],
+  "description": "Amazon Simple Workflow (Amazon SWF) is a task coordination and state management service for cloud applications. With Amazon SWF, you can stop writing complex glue-code and state machinery and invest more in the business logic that makes your applications unique. "
+}

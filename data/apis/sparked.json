@@ -1,0 +1,16 @@
+{
+  "id": "sparked",
+  "title": "Sparked",
+  "link": "http://www.sparked.com/content/api",
+  "image": "http://www.sparked.com/images/s4c/sfchange.png",
+  "author": {
+    "name": "Skills For Change"
+  },
+  "tags": [
+    "Search",
+    "Pulls",
+    "Challenge",
+    "Sorting"
+  ],
+  "description": "The volunteer opportunity search site, All for Good, now sports a handy new \"Micro\" category. This category pulls opportunities from the Sparked challenge feed. It allows you to do all kinds of neat searching and sorting."
+}

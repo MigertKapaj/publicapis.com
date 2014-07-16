@@ -1,0 +1,16 @@
+{
+  "id": "nutribu",
+  "title": "Nutribu",
+  "link": "http://developer.nutribu.com/",
+  "image": "http://developer.nutribu.com/img/logo.png",
+  "author": {
+    "name": "Nutribu"
+  },
+  "tags": [
+    "Collecting",
+    "Nutritional",
+    "Developing",
+    "Application"
+  ],
+  "description": "We know that collecting food data and nutritional information is a pain when you are developing your applications.Nutribu takes care of all your data so that you can build your killer application without any added headaches."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "coolstreaming",
+  "title": "CoolStreaming",
+  "link": "http://www.coolstreaming.us/dev/",
+  "image": "http://www.coolstreaming.us/images/layout/logo.png",
+  "author": {
+    "name": "CoolStreaming"
+  },
+  "tags": [
+    "Repository",
+    "Interface",
+    "Videos"
+  ],
+  "description": "CoolStreaming offers open access to key parts of the CoolStreaming Tv/Video repository and user community, via an open API interface. Using our APIs, you can easily integrate online Tv/videos from CoolStreaming's rapidly growing repository of Tv/videos into your application.\n              "
+}

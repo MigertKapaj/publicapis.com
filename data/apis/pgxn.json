@@ -1,0 +1,16 @@
+{
+  "id": "pgxn",
+  "title": "PGXN",
+  "link": "https://github.com/pgxn/pgxn-api/wiki",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Creating",
+    "Managing",
+    "Network",
+    "Designed"
+  ],
+  "description": "PGXN is a set of infrastructure tools for creating and managing a lightweight, distributed network of source code releases. It's modeled on Perl's CPAN and was originally designed for distributing PostgreSQL extensions on pgxn.org."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "rackspace",
+  "title": "Rackspace",
+  "link": "http://docs.rackspace.com/servers/api/v2/cs-gettingstarted/content/overview.html",
+  "image": "http://docs.rackspace.com/cdb-v1.0-cdb-devguide/common/images/rackspace-logo.png",
+  "author": {
+    "name": "Rackspace"
+  },
+  "tags": [
+    "Database",
+    "Service",
+    "Virtual",
+    "Developer"
+  ],
+  "description": "Rackspace Cloud Databases is an OpenStack-based MySQL relational database service that allows Rackspace customers to easily provision database instances of varying virtual resource sizes without the need to maintain and/or update MySQL. Interactions with Cloud Databases occur programmatically via the Cloud Databases API as described in this developer guide."
+}

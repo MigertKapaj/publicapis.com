@@ -1,0 +1,15 @@
+{
+  "id": "litmus",
+  "title": "Litmus",
+  "link": "http://litmus.com/api",
+  "image": "http://litmus.com/images/logo.png?1",
+  "author": {
+    "name": "Litmus"
+  },
+  "tags": [
+    "Connection",
+    "Services",
+    "Testing"
+  ],
+  "description": "Our Reseller API is optimized for high volume usage by providing a direct connection to our testing grid. It is fully licensed for resale, so you can sell our testing services direct to your own customers under your own brand."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "btexty",
+  "title": "Btexty",
+  "link": "http://developers.btexty.com/",
+  "image": "http://developers.btexty.com/_/rsrc/1236624501050/config/app/images/customLogo/customLogo.gif?revision=1",
+  "author": {
+    "name": "Btexty"
+  },
+  "tags": [
+    "Functionalities",
+    "Third party",
+    "Post ",
+    "Specified"
+  ],
+  "description": "The btexty API exposes some of btexty functionalities via a REST interface. Third-party applications can invoke btexty method via HTTP requests to btexty servers using GET and POST methods. The bexty API methods can return XML or JSON responses, as specified in the method URL.\n"
+}

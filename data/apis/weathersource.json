@@ -1,0 +1,16 @@
+{
+  "id": "weathersource",
+  "title": "Weathersource",
+  "link": "https://developer.weathersource.com/documentation/rest/",
+  "image": "https://developer.weathersource.com/wp-content/themes/weather-source-original/gfx/logos/ws-logo-2.png",
+  "author": {
+    "name": "Weathersource"
+  },
+  "tags": [
+    "Uniformly",
+    "Resource",
+    "Decided",
+    "Maintain"
+  ],
+  "description": "This API is designed to pragmatically conform to RESTful principles. We use the word pragmatically as this API is not uniformly RESTful. For example, including an API version number in a resource URI is contrary to REST. Yet, we have decided to version API. This allows us to grow the API as needed (even if it changes core functionality) and maintain legacy code for existing applications."
+}

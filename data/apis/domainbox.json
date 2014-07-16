@@ -1,0 +1,15 @@
+{
+  "id": "domainbox",
+  "title": "Domainbox",
+  "link": "http://www.domainbox.com/domain-api/",
+  "image": "http://www.domainbox.com/images/domainbox-logo.png",
+  "author": {
+    "name": "Domainbox"
+  },
+  "tags": [
+    "Integration",
+    "Control",
+    "Reselling"
+  ],
+  "description": "This robust custom solution offers full and easy integration to your own website or existing systems. The Domainbox API enables complete control and functionality for the reselling of domain names, hosting and email no matter how big or small your business."
+}

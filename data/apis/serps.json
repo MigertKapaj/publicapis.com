@@ -1,0 +1,15 @@
+{
+  "id": "serps",
+  "title": "SERPs",
+  "link": "http://api-dev.serps.com/docs/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQdN2xY27-HzeIBtbhINL3oxPUiiwyyRS7kcx46Tm85J15F8YmFNA",
+  "author": {
+    "name": "SERPs"
+  },
+  "tags": [
+    "Wrappers",
+    "Documentation",
+    "Apps"
+  ],
+  "description": "While the easiest way to get stared using the API is to use one of the wrappers, we provide a complete set of documentation for you to build your own apps. Make sure you have your API Key before you get going!"
+}

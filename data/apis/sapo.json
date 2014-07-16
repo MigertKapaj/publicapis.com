@@ -1,0 +1,15 @@
+{
+  "id": "sapo",
+  "title": "Sapo",
+  "link": "https://store.services.sapo.pt/en/Catalog/poi",
+  "image": "https://store.services.sapo.pt/Content/Img/logoServices.png",
+  "author": {
+    "name": "Sapo"
+  },
+  "tags": [
+    "Service",
+    "Contents",
+    "Creation"
+  ],
+  "description": "SAPO Services is a marketplace branded by SAPO where users can buy Web services and contents in a SOA (Service-Oriented Architecture) enviromnent. These services can be bought and modulated by SAPO users, allowing greater flexibility in the creation of new multi-platform applications."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "debitoor",
+  "title": "Debitoor",
+  "link": "https://github.com/e-conomic/debitoor-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Recommend",
+    "Additionally",
+    "Experimenting"
+  ],
+  "description": "If you want to test your API calls we recommend using curl. Additionally the API is CORS-enabled, so you can also use your browser as a sandbox for experimenting."
+}

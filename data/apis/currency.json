@@ -1,0 +1,16 @@
+{
+  "id": "currency",
+  "title": "currency",
+  "link": "http://www.xchangeonline.com/tour.php",
+  "image": "http://www.xchangeonline.com/images/logo.png",
+  "author": {
+    "name": "Xchangeonline"
+  },
+  "tags": [
+    "Service",
+    "Conversion",
+    "Data",
+    "Realized"
+  ],
+  "description": "This service is a result of our need to have an easy way to do currency conversion ourselves. We were struggling on another project to use a data feed of one of our competitors and we realized it was extremely difficult."
+}

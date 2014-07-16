@@ -1,0 +1,15 @@
+{
+  "id": "saasu",
+  "title": "Saasu",
+  "link": "http://help.saasu.com/api/",
+  "image": "http://help.saasu.com/images/new-saasu-logo-full.gif",
+  "author": {
+    "name": "Saasu"
+  },
+  "tags": [
+    "Software",
+    "Creating",
+    "Deleting"
+  ],
+  "description": "Saasu’s comprehensive application programming interface (API) allows other software and web applications to interact with Saasu. Just as humans do by creating, reading, updating and deleting transactions."
+}

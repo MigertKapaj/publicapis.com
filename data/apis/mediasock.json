@@ -1,0 +1,16 @@
+{
+  "id": "mediasock",
+  "title": "MediaSock",
+  "link": "http://code.google.com/p/mediasock/",
+  "image": "http://code.google.com/p/mediasock/logo?cct=1252057259",
+  "author": {
+    "name": "MediaSock"
+  },
+  "tags": [
+    "Intended",
+    "Connecting",
+    "Media",
+    "Service"
+  ],
+  "description": "MediaSock was originally started in early 2006. It was intended as a solution for developers of applications connecting to (or amongst), the burgeoning number of web applications offering media sharing and hosting functionality, and having disparate web-service APIs."
+}

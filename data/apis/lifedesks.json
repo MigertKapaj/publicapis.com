@@ -1,0 +1,15 @@
+{
+  "id": "lifedesks",
+  "title": "lifedesks",
+  "link": "http://www.lifedesks.org/apis/",
+  "image": "http://www.lifedesks.org/images/logo.png",
+  "author": {
+    "name": "lifedesks"
+  },
+  "tags": [
+    "RSS",
+    "OPML",
+    "Documents"
+  ],
+  "description": "This is a preliminary list of Application Programming Interfaces (APIs), RSS feeds, and OPML (Outline Processor Markup Language) documents across all LifeDesks."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hostbill",
+  "title": "HostBill",
+  "link": "http://api.hostbillapp.com/general/getAPIMethods/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyA-Hm6R8ry2ApBMSsSsBTVbAkpNvmVL-1t9aU5UkxfeEfQcCA",
+  "author": {
+    "name": "HostBill"
+  },
+  "tags": [
+    "Function",
+    "Service",
+    "Directly",
+    "Data"
+  ],
+  "description": "HostBill API enables you to create your own applications based on HostBill inner function you can call remotely via HTTP protocol, or call internally from HostBill modules. While you can write your own code to access the HTTP HostBill API service, we recommend using our free handy PHP HBWrapper class where you can call methods directly w/o taking care of proper data transport and session handling."
+}

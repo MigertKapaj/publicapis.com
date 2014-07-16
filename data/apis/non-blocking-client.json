@@ -1,0 +1,15 @@
+{
+  "id": "non-blocking-client",
+  "title": "Non-Blocking Client",
+  "link": "http://markdelany.github.com/Pluton/1.0/index.html#Documentation",
+  "image": "http://markdelany.github.io/Pluton/1.0/images/pluto-charon.jpg",
+  "author": {
+    "name": "The Pluton Framework"
+  },
+  "tags": [
+    "Designed",
+    "Programs",
+    "Complex"
+  ],
+  "description": "The blocking client API is designed for simple, procedural programs that want to gain the benefits of parallel processing without having to resort to threads, I/O events, asynchronous I/O or other complex programming techniques. "
+}

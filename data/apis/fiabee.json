@@ -1,0 +1,15 @@
+{
+  "id": "fiabee",
+  "title": "Fiabee",
+  "link": "https://www.fiabee.com/developers/restapi/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSi-47DZNDSw48WIz4z5zQtDXRG2_2UavizqLYYOfNr5Vk-cjYgcA",
+  "author": {
+    "name": "Fiabee"
+  },
+  "tags": [
+    "Designed",
+    "Service",
+    "Processes"
+  ],
+  "description": "Our REST API has been specially designed for Corporations and Businesses that are willing to deploy cross platform apps (mobile, HTML5 or web) using the Fiabee platform and sync-share services with the objective to mobilize business processes either for its internal users or for its customer base, or for both."
+}

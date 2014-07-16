@@ -1,0 +1,13 @@
+{
+  "id": "cloud-storage-get-file",
+  "title": "Cloud Storage GET file",
+  "link": "https://www.mashape.com/memopal/cloud-storage-get-file",
+  "image": "",
+  "author": {
+    "name": "memopal"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Fast and inexpensive cloud storage. Great alternative to Amazon S3.  3GB for free, 200GB for $49/year. Requires a Memopal account. You can create one downloading the Memopal client from www.memopal.com"
+}

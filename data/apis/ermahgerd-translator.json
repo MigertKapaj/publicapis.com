@@ -1,0 +1,13 @@
+{
+  "id": "ermahgerd-translator",
+  "title": "ERMAHGERD Translator",
+  "link": "https://www.mashape.com/jmillerdesign/ermahgerd-translator",
+  "image": "",
+  "author": {
+    "name": "jmillerdesign"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This translates text to ERMAHGERD. See demo: http://ermahgerd.jmillerdesign.com/"
+}

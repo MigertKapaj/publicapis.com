@@ -1,0 +1,16 @@
+{
+  "id": "stocktwits",
+  "title": "StockTwits",
+  "link": "http://stocktwits.com/developers",
+  "image": "http://upload.wikimedia.org/wikipedia/en/a/a0/StockTwits_Logo.png",
+  "author": {
+    "name": "StockTwits"
+  },
+  "tags": [
+    "Leverage",
+    "Content",
+    "Streams",
+    "Integrate"
+  ],
+  "description": "The StockTwits RESTful API allows you to leverage the user base, social graph and content network that drive the StockTwits community. Your application and your users can access the StockTwits social graph, display curated data streams, integrate watch lists, and easily share messages, links and charts directly from your application. The StockTwits API is perfect for financial applications/websites/apps that want or need a social layer.\n"
+}

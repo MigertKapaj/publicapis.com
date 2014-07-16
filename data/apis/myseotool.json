@@ -1,0 +1,15 @@
+{
+  "id": "myseotool",
+  "title": "Myseotool",
+  "link": "http://www.myseotool.com/API/",
+  "image": "http://www.myseotool.com/images/logo.png",
+  "author": {
+    "name": "Myseotool"
+  },
+  "tags": [
+    "Simple",
+    "Predictable",
+    "Light-weight"
+  ],
+  "description": "We have created a simple REST API. It is designed to be simple, predictable and light-weight. All output is returned in JSON. \n\n\n"
+}

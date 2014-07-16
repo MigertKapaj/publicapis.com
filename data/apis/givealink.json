@@ -1,0 +1,16 @@
+{
+  "id": "givealink",
+  "title": "Givealink",
+  "link": "http://givealink.org/api_doc/specs",
+  "image": "http://givealink.org/images/givealink_logo_new.png",
+  "author": {
+    "name": "Givealink"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Secure",
+    "Publish"
+  ],
+  "description": "The Givealink API allows developers to implement their own applications that access to Givealink data through a set of REST style web services. Givealink adopts OAuth protocol to publish a secure API that makes available user's protected data to web-based and desktop/mobile applications. "
+}

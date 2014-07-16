@@ -1,0 +1,16 @@
+{
+  "id": "open-elevation-service",
+  "title": "Open Elevation Service",
+  "link": "http://open.mapquestapi.com/elevation/",
+  "image": "http://open.mapquest.co.uk/cdn/dotcom3/images/logos/logo_beta.png",
+  "author": {
+    "name": "MapQuest Open"
+  },
+  "tags": [
+    "Information",
+    "Pair",
+    "Accumulated",
+    "Distance.\n"
+  ],
+  "description": "The Open Elevation Service provides elevation profile information such as elevation and distance given a lat/lng pair in JSON or XML formats. Here Distance refers to the accumulated distance along the path specified by the lat/lng collection. Each elevation/distance pair in response is then mapped to the corresponding lat/lng in the request."
+}

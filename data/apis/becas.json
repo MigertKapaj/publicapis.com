@@ -1,0 +1,15 @@
+{
+  "id": "becas",
+  "title": "becas",
+  "link": "http://bioinformatics.ua.pt/becas/#!/api",
+  "image": "http://bioinformatics.ua.pt/becas/assets/img/becas-logo.small.png",
+  "author": {
+    "name": "becas"
+  },
+  "tags": [
+    "Integrate",
+    "Annotate",
+    "Concepts"
+  ],
+  "description": "The becas API is the programming interface to becas. You can use the API to integrate your app or website with becas. This allows you to programmatically annotate text or PubMed abstracts with biomedical concepts on the fly. "
+}

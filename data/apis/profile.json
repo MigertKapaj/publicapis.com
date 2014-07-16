@@ -1,0 +1,14 @@
+{
+  "id": "profile",
+  "title": "Profile",
+  "link": "https://coderbits.com/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTJyN_0YxD_nO4VlnxwNgS1uzqc0jvd9iAoHZWnQx4CwFlbqU6anQ",
+  "author": {
+    "name": "Coderbits"
+  },
+  "tags": [
+    "Widget",
+    "Website"
+  ],
+  "description": "oderbits provides a profile widget you can include on your website or blog. To use it simply follow the directions in the gist below."
+}

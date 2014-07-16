@@ -1,0 +1,16 @@
+{
+  "id": "highrise",
+  "title": "Highrise",
+  "link": "https://github.com/37signals/highrise-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Resource",
+    "Deal",
+    "Party",
+    "Principle"
+  ],
+  "description": "The Highrise API is implemented as vanilla XML over HTTP using all four verbs (GET/POST/PUT/DELETE). Every resource, like Person, Deal, or Party, has their own URL and are manipulated in isolation. In other words, we've tried to make the API follow the REST principles as much as we can."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "markerly",
+  "title": "Markerly",
+  "link": "http://www.markerly.com/docs",
+  "image": "http://www.markerly.com/assets/images/logo_sprite.png",
+  "author": {
+    "name": "Markerly"
+  },
+  "tags": [
+    "Analytics-sharing",
+    "Widget",
+    "Quickly",
+    "Efficiently"
+  ],
+  "description": "The documentation below outlines all of the different sharing widget settings we offer. By default–when you install Markerly Analytics–sharing is disabled. If you'd like our standard sharing widget you can build one here We suggest that you add your code to a header or footer since those tend to be included in your other site's pages.  It's a way to add Markerly to your entire site quickly and efficiently."
+}

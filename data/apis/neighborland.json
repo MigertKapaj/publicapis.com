@@ -1,0 +1,14 @@
+{
+  "id": "neighborland",
+  "title": "Neighborland",
+  "link": "https://neighborland.com/docs",
+  "image": "",
+  "author": {
+    "name": "Neighborland"
+  },
+  "tags": [
+    "Encoding",
+    "Access"
+  ],
+  "description": "Developers are invited to build apps using our API.\nThe Neighborland API uses SSL, RESTful resources, JSON, and UTF-8 encoding.\nRead-only access to the API does not require an account or authentication.\nTo get write access the API, you must first sign in with a Neighborland user account.\n\n\n\n\n"
+}

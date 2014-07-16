@@ -1,0 +1,13 @@
+{
+  "id": "qrme",
+  "title": "QRme",
+  "link": "https://www.mashape.com/serek/qrme",
+  "image": "",
+  "author": {
+    "name": "serek"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This api lets you generate qr code for every page you need."
+}

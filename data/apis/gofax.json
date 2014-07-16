@@ -1,0 +1,15 @@
+{
+  "id": "gofax",
+  "title": "Gofax",
+  "link": "https://www.gofax.com.au/web_SMS_API",
+  "image": "https://www.gofax.com.au/images/GofaxLogo.jpg",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "Program",
+    "Application",
+    "Service"
+  ],
+  "description": "Using the GoFax® Fax API businesses can automate the sending or receiving of faxes into almost any program or application which can make web calls. GoFax® offers a true business grade fax service, is 100% Australian owned and operated with local service and support, and free access to our fax API. "
+}

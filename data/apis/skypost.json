@@ -1,0 +1,15 @@
+{
+  "id": "skypost",
+  "title": "Skypost",
+  "link": "http://skypost.it/webservice.php",
+  "image": "http://skypost.it/Skypost.gif",
+  "author": {
+    "name": "Skypost"
+  },
+  "tags": [
+    "Service",
+    "Software",
+    "Protocol"
+  ],
+  "description": "Skypost ha deciso di utilizzare i WebServices per permettere l'integrazione dei propri sistemi di comunicazione all'interno di altri software. I WebServices sono attualmente fruibili dai maggiori linguaggi di programmazione, utilizzando il canale HTTP (Hyper Text Transfer Protocol) o HTTPS (Hyper Text Transfer Protocol Secure) per il trasferimento dei dati, e l'XML (eXtensible Markup Language) per la codifica dei dati in input e output. "
+}

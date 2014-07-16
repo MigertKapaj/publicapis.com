@@ -1,0 +1,16 @@
+{
+  "id": "planning-center",
+  "title": "Planning Center",
+  "link": "http://get.planningcenteronline.com/api/organization/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw70hgg3yK8N7-4ghArmKO7cpz4SjTpMgDX6a7NwK0n18ykpRe",
+  "author": {
+    "name": "Planning Center"
+  },
+  "tags": [
+    "Handle",
+    "Element",
+    "Specific",
+    "Consume"
+  ],
+  "description": "This API is final, but we will most likely add more fields so please make sure your code can handle those changes. Also, if you see an element that is in the result but not in our documentation please ask us before you rely on it, it might be something very specific to one of our applications that consume this API. "
+}

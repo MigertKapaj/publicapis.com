@@ -1,0 +1,15 @@
+{
+  "id": "ua.pt-bioinformation",
+  "title": "UA.PT Bioinformation",
+  "link": "http://bioinformatics.ua.pt/software/gens/",
+  "image": "http://bioinformatics.ua.pt/wp-content/themes/portal/images/logo.png",
+  "author": {
+    "name": "UA.PT Bioinformation"
+  },
+  "tags": [
+    "Data",
+    "Achieve",
+    "Provide"
+  ],
+  "description": "The integration of heterogeneous data sources has been a fundamental problem in database research over the last two decades. The goal is to achieve better methods to combine data residing at different sources, under different schemas and with different formats in order to provide the user with a unified view of the data."
+}

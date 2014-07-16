@@ -1,0 +1,17 @@
+{
+  "id": "facebooks-ads",
+  "title": "Facebook's Ads",
+  "link": "http://developers.facebook.com/docs/reference/ads-api/",
+  "image": "https://m.ak.fbcdn.net/dragon.ak/hphotos-ak-ash3/t39.2178-6/851559_474876275936988_316624341_n.png",
+  "author": {
+    "name": "Facebook"
+  },
+  "tags": [
+    "Create",
+    "Start",
+    "Groups",
+    "Bid",
+    "Tragating"
+  ],
+  "description": "A Facebook User can create an Ad Account to start running ads. Within your ad account you can organize your ads by ad campaign. Each campaign contains individual ad groups, which contain the bid, targeting, and ad creative. The ad creative defines the visual attributes of the ad."
+}

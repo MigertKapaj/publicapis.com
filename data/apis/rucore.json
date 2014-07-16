@@ -1,0 +1,15 @@
+{
+  "id": "rucore",
+  "title": "RUcore",
+  "link": "https://rucore.libraries.rutgers.edu/api/?api=oai-pmh",
+  "image": "https://rucore.libraries.rutgers.edu/img/fnt-logo.png",
+  "author": {
+    "name": "RUcore"
+  },
+  "tags": [
+    "Developing",
+    "Service",
+    "Interact"
+  ],
+  "description": "RUcore has been developing web services that allow software applications to easily interact with our repository framework of services."
+}

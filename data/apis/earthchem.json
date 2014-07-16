@@ -1,0 +1,16 @@
+{
+  "id": "earthchem",
+  "title": "EarthChem",
+  "link": "http://www.earthchem.org/developers",
+  "image": "http://www.earthchem.org/sites/earthchem.org/files/images/earthchem.jpg",
+  "author": {
+    "name": "EarthChem"
+  },
+  "tags": [
+    "Services",
+    "Data",
+    "Reference",
+    "Controlled"
+  ],
+  "description": "The EarthChem Portal serves PetDB data published in a standard XML and served via XML-based web services.\nAn XML schema has been developed as part of the EarthChem project to publish Geochemical data. The schema includes metadata such as location, reference, etc., chemical data, and controlled vocabularies (ontologies) for validation. More information is avaliable at the following links."
+}

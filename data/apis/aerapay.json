@@ -1,0 +1,14 @@
+{
+  "id": "aerapay",
+  "title": "Aerapay",
+  "link": "http://beta.aerapay.com/developers/api.php",
+  "image": "http://beta.aerapay.com/img/aerapay_web_logo.png",
+  "author": {
+    "name": "Aerapay"
+  },
+  "tags": [
+    "Reference",
+    "Integration"
+  ],
+  "description": "The reference documentation below should be all that is needed to enable the integration of aerapay into your application or web page."
+}

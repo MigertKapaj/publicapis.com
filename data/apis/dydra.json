@@ -1,0 +1,15 @@
+{
+  "id": "dydra",
+  "title": "Dydra",
+  "link": "http://docs.dydra.com/api/rest",
+  "image": "https://s3.amazonaws.com/public.dydra.com/images/logo.png?1302472718",
+  "author": {
+    "name": "Dydra"
+  },
+  "tags": [
+    "Account",
+    "Repository",
+    "Standard"
+  ],
+  "description": "You can perform most account and repository functions on Dydra.com via a standard REST API."
+}

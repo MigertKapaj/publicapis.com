@@ -1,0 +1,15 @@
+{
+  "id": "sharpbox",
+  "title": "SharpBox",
+  "link": "http://sharpbox.codeplex.com/documentation",
+  "image": "http://download-codeplex.sec.s-msft.com/Download?ProjectName=sharpbox&DownloadId=239189&Build=20885",
+  "author": {
+    "name": "SharpBox"
+  },
+  "tags": [
+    "Contains",
+    "Information",
+    "Detail"
+  ],
+  "description": "This document contains detailed information about the SharpBox API and explains every detail of the library."
+}

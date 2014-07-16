@@ -1,0 +1,16 @@
+{
+  "id": "twishort",
+  "title": "Twishort",
+  "link": "http://twishort.com/page/api/",
+  "image": "",
+  "author": {
+    "name": "Twishort"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Post",
+    "Message"
+  ],
+  "description": "Twishort API allows you to post data to the Twishort service before sending the post to Twitter. It can be used by Twitter applications to post the long text t Twishort, and receive a tweet-sized message with a link to the complete post.\n    "
+}

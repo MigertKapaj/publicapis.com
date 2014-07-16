@@ -1,0 +1,16 @@
+{
+  "id": "beta",
+  "title": "beta",
+  "link": "https://developers.facebook.com/docs/app-notifications/",
+  "image": "",
+  "author": {
+    "name": "F Developers"
+  },
+  "tags": [
+    "Relevant",
+    "Adjust",
+    "Developers",
+    "Experience"
+  ],
+  "description": "The Notifications API is currently in beta. Notifications work well when they deliver relevant, useful information to people using your app. Over time, we will continue to adjust how these notifications appear to ensure people see relevant notifications and developers have an optimized experience."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "daily-deal",
+  "title": "Daily Deal",
+  "link": "http://savvr.com/api/",
+  "image": "http://savvr.com/wp-content/uploads/2011/10/savvr-new.png",
+  "author": {
+    "name": "Savvr"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Looking to add daily deals to your application? Now you can leverage Savvr’s deal data to enhance your efforts. Whether you’re building a mobile application, custom widgets or a deal aggregation site, we can help. You can source our data by deal provider, state, city, category and more. Savvr also offers a flexible API that can easily be integrated into any application."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "hitask",
+  "title": "HiTask",
+  "link": "https://github.com/HiTask/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Integrate",
+    "Infrastructure",
+    "Perform",
+    "Regularly"
+  ],
+  "description": "API is public and is available to everyone. This API allows you to build a hiTask client app or integrate hiTask with your infrastructure. API allows you to perform all the operations you can do in hiTask regularly."
+}

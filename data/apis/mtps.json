@@ -1,0 +1,15 @@
+{
+  "id": "mtps",
+  "title": "MTPS",
+  "link": "http://services.msdn.microsoft.com/ContentServices/ContentService.asmx",
+  "image": "",
+  "author": {
+    "name": "MSDN"
+  },
+  "tags": [
+    "Developers",
+    "Provides",
+    "Access."
+  ],
+  "description": "The MTPS Content Service is an XML web service that provides access to the content stored in MTPS. This includes, for example, the content available at http://msdn2.microsoft.com/library. Using the MTPS Content Service, developers can integrate documentation, technical articles, whitepapers, images and the other content available from the MTPS system into their own applications. "
+}

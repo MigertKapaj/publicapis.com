@@ -1,0 +1,15 @@
+{
+  "id": "fastspring",
+  "title": "FastSpring",
+  "link": "https://github.com/FastSpring/fastspring-api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Activation",
+    "Typical",
+    "Information"
+  ],
+  "description": "In addition to the REST APIs, there are also \"push\" notifications / IPN postback's available for subscription activation and deactivation. It is typical to use both the rest API and push notifications for a complete solution. Please see the notification documentation for more information."
+}

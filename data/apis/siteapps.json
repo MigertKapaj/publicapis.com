@@ -1,0 +1,15 @@
+{
+  "id": "siteapps",
+  "title": "SiteApps",
+  "link": "http://siteapps.com/web/what_is",
+  "image": "http://siteapps.com/img/site/global-sprites.png",
+  "author": {
+    "name": "SiteApps"
+  },
+  "tags": [
+    "Web",
+    "Necessarily",
+    "Progress"
+  ],
+  "description": "The whole definition of \"web site manager\" changes: today the role of manager falls in the hands of the techie, who is not necessarily the most business-oriented person in the organization. With SiteApps, finally the people most interested on the progress of the web site will be responsible for change."
+}

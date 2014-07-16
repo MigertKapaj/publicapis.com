@@ -1,0 +1,16 @@
+{
+  "id": "hotwire",
+  "title": "Hotwire",
+  "link": "http://developer.hotwire.com/docs",
+  "image": "http://developer.hotwire.com/public/Mashery/images/clients/hotwire/hotwire.gif",
+  "author": {
+    "name": "Hotwire"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Service",
+    "Travel"
+  ],
+  "description": "Hotwire's APIs provide access to specified Hotwire.com data and services, and can be used as building blocks to develop a variety of applications of interest to travel shoppers and travel planners.\n"
+}

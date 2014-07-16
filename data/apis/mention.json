@@ -1,0 +1,15 @@
+{
+  "id": "mention",
+  "title": "mention",
+  "link": "https://dev.mention.net/",
+  "image": "https://dev.mention.com/v/n31uq4/bundles/mentionweb/v3/img/logo-mention.svg",
+  "author": {
+    "name": "mention"
+  },
+  "tags": [
+    "Resource",
+    "parameters",
+    "Unchanged"
+  ],
+  "description": "This API is design so that a resource obtained via GET or POST can be sent back in a PUT request unchanged. So when sending a PUT request the additional parameters are ignored (e.g. created_at, updated_at, id, etc). Since these parameters could stop being ignored in the future, it is recommended to either not send them, or to take care of sending them unchanged."
+}

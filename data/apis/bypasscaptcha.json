@@ -1,0 +1,15 @@
+{
+  "id": "bypasscaptcha",
+  "title": "bypasscaptcha",
+  "link": "http://bypasscaptcha.com/faq.php",
+  "image": "http://bypasscaptcha.com/logo.gif",
+  "author": {
+    "name": "bypasscaptcha"
+  },
+  "tags": [
+    "Support",
+    "Requirement",
+    "Feature"
+  ],
+  "description": "By default, we will not decode captchas in Case-Sensitive way. But however, we support that. If you need that to be done, you need to contact us and tell us your key and requirement, we will enable your key for that feature."
+}

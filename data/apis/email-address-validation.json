@@ -1,0 +1,15 @@
+{
+  "id": "email-address-validation",
+  "title": "Email address validation",
+  "link": "http://isemail.info/help",
+  "image": "http://isemail.info/logo.png",
+  "author": {
+    "name": "Email address validation"
+  },
+  "tags": [
+    "Service",
+    "Address",
+    "Internet"
+  ],
+  "description": "This web service tests any email address to see if it complies with the standards set out in the internet RFCs."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "linode",
+  "title": "Linode",
+  "link": "https://www.linode.com/api/",
+  "image": "https://www.linode.com/images/linode_logo_2011.png",
+  "author": {
+    "name": "Linode"
+  },
+  "tags": [
+    "Programmatic",
+    "Expanded",
+    "Creation",
+    "Control",
+    "Deletion"
+  ],
+  "description": "The Linode API is a programmatic interface into many of the Linode Manager's features. The API has been expanded to include not only DNS Manager functions, but also Linode creation, control, and deletion. "
+}

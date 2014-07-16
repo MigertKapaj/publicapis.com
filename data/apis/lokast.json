@@ -1,0 +1,16 @@
+{
+  "id": "lokast",
+  "title": " LoKast",
+  "link": "http://www.lokast.com/premium/",
+  "image": "http://www.lokast.com/wp-content/themes/lokast/images/title_lokast.png",
+  "author": {
+    "name": " LoKast"
+  },
+  "tags": [
+    "Platform",
+    "Media",
+    "Group",
+    "Cloud"
+  ],
+  "description": "LoKast is a mobile app platform for instant messaging and rich media sharing around activities, events, and other settings. LoKast is 100% real-time, supports a best-in-class real-time media sharing experience, and is great for group and 1-on-1 use. LoKast is made by NearVerse, powering mobile apps with the most real-time, rich functionality cloud service, custom-made around mobile needs."
+}

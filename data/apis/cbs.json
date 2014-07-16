@@ -1,0 +1,16 @@
+{
+  "id": "cbs",
+  "title": "CBS",
+  "link": "http://www.cbs.dtu.dk/ws/ws.php?entry=TMHMM",
+  "image": "http://www.cbs.dtu.dk/images/m_logo.gif",
+  "author": {
+    "name": "CBS"
+  },
+  "tags": [
+    "Methods",
+    "Managment",
+    "Research",
+    "Organisms"
+  ],
+  "description": "Bioinformatics is the term used to refer to the combination of methods in biology, computation, and information management, which are necessary to advance research relating to all aspects of living systems - from individual molecules, cells, and organs to entire organisms. "
+}

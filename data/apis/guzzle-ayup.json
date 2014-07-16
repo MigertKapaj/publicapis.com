@@ -1,0 +1,15 @@
+{
+  "id": "guzzle-ayup",
+  "title": "Guzzle Ayup",
+  "link": "http://ayup.us/documentation",
+  "image": "http://static-0.hub.ayup.us/images/logo.png",
+  "author": {
+    "name": "Guzzle Ayup"
+  },
+  "tags": [
+    "Publishers",
+    "Content",
+    "Entries"
+  ],
+  "description": "Guzzle Ayup! is a PubSubHubbub Hub. Publishers can notify the Guzzle Ayup! hub that new content is available on their feeds, in turn Guzzle Ayup! hub will notify all Subscribers that the feeds they subscribed to just got updated, by directly pushing the new entries to them."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "elsevier",
+  "title": "Elsevier ",
+  "link": "http://www.developers.elsevier.com/cms/index",
+  "image": "http://www.developers.elsevier.com/static/image/ElsevierDevelopers.png",
+  "author": {
+    "name": "Elsevier "
+  },
+  "tags": [
+    "Cases",
+    "Science",
+    "Pointers",
+    "Documentation"
+  ],
+  "description": "Look at some of the common use cases for integrating with the ScienceDirect and Scopus APIs, listed below to see if yours is included. Each use case has pointers to specific documentation and policies.If your use case is not listed, you can find our policy overview here and general technical API documentation here.Register for API access on the My Projects pages."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pixlinq",
+  "title": "pixlinQ",
+  "link": "http://www.pixlinq.com/docs/api/searchimage",
+  "image": "http://www.pixlinq.com/sites/all/themes/pixlinq_sky/logo.png",
+  "author": {
+    "name": "pixlinQ searchimage"
+  },
+  "tags": [
+    "Devopers",
+    "Visual",
+    "Database",
+    "Images"
+  ],
+  "description": "The pixlinQ searchimage API allows developers to integrate visual search functionality into their applications using an API key and database of images they have created with the pixlinQ CMS. Below you will find information on how to use the pixlinQ searchimage API."
+}

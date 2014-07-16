@@ -1,0 +1,15 @@
+{
+  "id": "popyoular",
+  "title": "Popyoular",
+  "link": "http://docs.popyoular.se/",
+  "image": "http://static.squarespace.com/static/5137b70be4b0988e47dcf97f/t/514187fee4b0d6e2ee8859d9/1390831525355/?format=1500w",
+  "author": {
+    "name": "Popyoular"
+  },
+  "tags": [
+    "Designed",
+    "Simple",
+    "Basic"
+  ],
+  "description": "the Popyoular API is designed to be simple and straightforward, please take the time to familiarizeyourself with the basic concepts of the Popyoular API are lookup, collectionsand mapping."
+}

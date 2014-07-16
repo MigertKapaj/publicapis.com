@@ -1,0 +1,16 @@
+{
+  "id": "proxy",
+  "title": "Proxy",
+  "link": "http://sogeoapi.com",
+  "image": "http://pagead2.googlesyndication.com/simgad/5598032587533218867",
+  "author": {
+    "name": "Proxy"
+  },
+  "tags": [
+    "Internet",
+    "Web",
+    "Location",
+    "Protect"
+  ],
+  "description": "Proxy services are a useful  for internet users who have a need for anonymity during web surfing.  The user will appear (via the IP address) to be not at his or her actual location, but at the location of the proxy.  Identifying information can be stripped and substituted to protect the identity of the user. In addition, proxies enable internet users to visit blocked web pages by substituting the proxy IP for the IP of the blocked site."
+}

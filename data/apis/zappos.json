@@ -1,0 +1,16 @@
+{
+  "id": "zappos",
+  "title": "Zappos ",
+  "link": "http://developer.zappos.com",
+  "image": "http://developer.zappos.com/sites/default/files/logo.png",
+  "author": {
+    "name": "Zappos "
+  },
+  "tags": [
+    "Noticed",
+    "Broken",
+    "External",
+    "Wanted"
+  ],
+  "description": "As many of you may have noticed, the developer portal has been broken for a while now. This was partially due to an effort to keep the number of external API keys to a minimum, and to ensure that only those developers who truly wanted/needed a key got one. Today, I need to announce another change as well."
+}

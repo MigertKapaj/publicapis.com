@@ -1,0 +1,15 @@
+{
+  "id": "european-schoolnet-vocabulary-bank-for-education",
+  "title": "European Schoolnet Vocabulary Bank for Education",
+  "link": "http://aspect.vocman.com/vbe/api",
+  "image": "http://aspect.vocman.com/vbe/images/header_vbe.jpg",
+  "author": {
+    "name": "European Schoolnet Vocabulary Bank for Education"
+  },
+  "tags": [
+    "Provides",
+    "Terminology",
+    "Interfaces"
+  ],
+  "description": "The European Schoolnet Vocabulary Bank for Education (VBE) provides both a browsable and searchable web application for users to locate, view and download terminology, as well as standards-based machine to machine interfaces (please view documentation for more details about the REST API ). "
+}

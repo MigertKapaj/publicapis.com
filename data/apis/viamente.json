@@ -1,0 +1,16 @@
+{
+  "id": "viamente",
+  "title": "Viamente",
+  "link": "https://www.viamente.com/api/",
+  "image": "https://www.viamente.com/wp-content/themes/via/images/viamente_logo_header.png",
+  "author": {
+    "name": "Viamente"
+  },
+  "tags": [
+    "Software",
+    "Fleet managment",
+    "Routing",
+    "Workforce"
+  ],
+  "description": "The Viamente Route Planner is an intuitive web-based Routing Optimization Software for Fleet Management, Field Service Management, Mobile Workforce Management and Pickup/Collection and Delivery companies."
+}

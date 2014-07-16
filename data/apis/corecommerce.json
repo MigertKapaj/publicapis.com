@@ -1,0 +1,15 @@
+{
+  "id": "corecommerce",
+  "title": "CoreCommerce",
+  "link": "http://www.corecommerce.com/api",
+  "image": "https://6fb524bd8cce61e96408-b9016b9d7bcab1f0971b69462b42667f.ssl.cf2.rackcdn.com/logo-new.png",
+  "author": {
+    "name": "CoreCommerce"
+  },
+  "tags": [
+    "Content",
+    "Service",
+    "Inventory"
+  ],
+  "description": "Have a need to update CoreCommerce with content from another service? Take advantage of the API to update CoreCommerce. You can update things like product info, inventory, or order statuses."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "premailer",
+  "title": "Premailer",
+  "link": "http://premailer.dialect.ca/api",
+  "image": "http://dialect.ca/inc/sprites.png",
+  "author": {
+    "name": "Premailer"
+  },
+  "tags": [
+    "Ideally",
+    "Service",
+    "Web"
+  ],
+  "description": "We're still working out the best model for this API going forward. Ideally we'd like to run it by donation. In the longterm, if ever we decide to discontinue the service we will give 30 days notice and post the complete source code for the web interface at that time. Hopefully that makes your future planning a little easier."
+}

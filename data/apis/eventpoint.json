@@ -1,0 +1,16 @@
+{
+  "id": "eventpoint",
+  "title": "EventPoint",
+  "link": "https://api.eventpoint.com/2.1/Home/REST",
+  "image": "http://www.eventpoint.com/images/eplogo.jpg",
+  "author": {
+    "name": "EventPoint"
+  },
+  "tags": [
+    "Planner",
+    "Business",
+    "Solutions",
+    "Robust"
+  ],
+  "description": "The EventPoint platform makes it easy for the event planner to increase the ROI for attendees and business stakeholders. We give you entry points to quickly deploy solutions for sessions, speakers, meetings, expo, surveys, and more. All modules are supported by the EventPoint Core Services which includes robust reporting (seriously - it's awesome), mobile versions of everything, 2 flavors of web api, a business intelligence data feed, and of course your own website. "
+}

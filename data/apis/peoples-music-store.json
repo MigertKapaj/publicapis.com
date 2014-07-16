@@ -1,0 +1,15 @@
+{
+  "id": "peoples-music-store",
+  "title": "People’s Music Store",
+  "link": "https://github.com/peoplesmusicstore/api/wiki",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Provides"
+  ],
+  "description": "Returns either a track or a product object. You can access these from either the People’s Music Store catalogue, or a specific store’s catalogue. The data set is the same, but the latter provides the data in the store’s context."
+}

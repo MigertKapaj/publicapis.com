@@ -1,0 +1,15 @@
+{
+  "id": "eaupen",
+  "title": "Eaupen",
+  "link": "http://api.eaupen.net/",
+  "image": "",
+  "author": {
+    "name": "Eaupen"
+  },
+  "tags": [
+    "Closest",
+    "Points",
+    "Coordinates"
+  ],
+  "description": "With this API you can query the closest free drinking water points in Paris by giving your LAT and LON coordinates."
+}

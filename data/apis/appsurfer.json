@@ -1,0 +1,15 @@
+{
+  "id": "appsurfer",
+  "title": "AppSurfer",
+  "link": "https://github.com/RainingClouds/AppSurferApi",
+  "image": "http://www.appsurfer.com/assets/main_landing/appSurferLogo-cabb363e22e98e1b6b974fca7d7bda5a.jpg",
+  "author": {
+    "name": "AppSurfer"
+  },
+  "tags": [
+    "Developer",
+    "Provides",
+    "Codes"
+  ],
+  "description": "AppSurfer REST API can be used by deveopers to push new apps to AppSurfer. It also provides code for customised widget code to embed as well as SurfIt button embed codes."
+}

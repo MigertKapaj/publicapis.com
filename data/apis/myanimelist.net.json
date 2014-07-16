@@ -1,0 +1,14 @@
+{
+  "id": "myanimelist.net",
+  "title": "MyAnimeList.net",
+  "link": "http://myanimelist.net/modules.php?go=api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtQbMK52-i6PnLpudvkgRAkkISmFGFz5d5jM5W1suir71T16FH",
+  "author": {
+    "name": "MyAnimeList"
+  },
+  "tags": [
+    "Revolves",
+    "Accepted"
+  ],
+  "description": "The MyAnimeList.net API revolves around a REST interface. Currently, all REST requests are accepted via HTTP auth. "
+}

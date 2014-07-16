@@ -1,0 +1,14 @@
+{
+  "id": "sindice",
+  "title": "Sindice",
+  "link": "http://sindice.com/developers/searchapiv3",
+  "image": "http://sindice.com/images/logo.png",
+  "author": {
+    "name": "Sindice"
+  },
+  "tags": [
+    "Access",
+    "Capabilities"
+  ],
+  "description": "The Sindice API provides programmatic access to its search capabilities."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "miri",
+  "title": "Miri",
+  "link": "http://www.ducis.net/Miri/Ddr",
+  "image": "http://www.ducis.net/Images/miri_logo.png",
+  "author": {
+    "name": "Miri"
+  },
+  "tags": [
+    "Restriction",
+    "Abuses",
+    "Queries",
+    "Strongly"
+  ],
+  "description": "The DDR API is available without restriction, although we will be monitoring activity to avoid obvious abuses. In case of large loads on the server restrictions in the number of queries per second or minute may apply. If you have high volume traffic we strongly urge you to contact us at miri at ducis dot net. "
+}

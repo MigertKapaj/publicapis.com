@@ -1,0 +1,15 @@
+{
+  "id": "socialcrawlytics",
+  "title": "Socialcrawlytics",
+  "link": "https://socialcrawlytics.com/docs/api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4NQQqzv8KfvXv8EboPmnUeI3X1eo66aFslk_NdUbW_SquXk9H",
+  "author": {
+    "name": "Socialcrawlytics"
+  },
+  "tags": [
+    "Sessions",
+    "Logging",
+    "Manage"
+  ],
+  "description": "Our API is stateless, meaning there's no sessions or cookies to manage, you just need to supply your account token and key with each API request you make. You can find your API credentials by logging into Social Crawlytics and looking under the \"Dashboard tab\" for \"API Credentials\", or you can click here. "
+}

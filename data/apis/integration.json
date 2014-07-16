@@ -1,0 +1,16 @@
+{
+  "id": "integration",
+  "title": "Integration",
+  "link": "http://www.micropoll.com/developers/",
+  "image": "http://www.micropoll.com/images/micropoll/common/logo.png",
+  "author": {
+    "name": " MicroPoll"
+  },
+  "tags": [
+    "Survey",
+    "Integration",
+    "HTTP",
+    "Tools"
+  ],
+  "description": "MicroPoll's Integration Platform is an on-demand framework that powers the Survey Software. The Integration API allows developers to write integration applications through a single set of object-oriented interfaces. Built on platform independent technologies like Java, XML, HTTP and XML-RPC, integration partners can pick and choose their development tools to integrate with MicroPoll.\n\n\n\n  \n    \n      \n        \n          "
+}

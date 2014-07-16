@@ -1,0 +1,16 @@
+{
+  "id": "thinknum",
+  "title": "Thinknum",
+  "link": "http://www.thinknum.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSeWhup8Dye5ioO10Nh0BISlY38JvFSS1ToHdpxfmLnBlpt7g4m8w",
+  "author": {
+    "name": "Thinknum Beta"
+  },
+  "tags": [
+    "Data",
+    "Accessible",
+    "Provided",
+    "Response"
+  ],
+  "description": "This article describes how to get Thinknum data in a machine-readable format. If you are unfamiliar with Thinknum please refer to our user documentation. All API methods are accessible via simple HTTP calls. All query results are returned as JSON. Simply POST requests to the provided URLs with their respective parameters, and a simple JSON response is returned. The HTTP status code reflects any metadata that you need to know. "
+}

@@ -1,0 +1,13 @@
+{
+  "id": "advice-slip",
+  "title": "Advice Slip",
+  "link": "http://api.adviceslip.com/",
+  "image": "http://api.adviceslip.com/assets/img/littleprinter-photo.png",
+  "author": {
+    "name": "Advice Slip"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

@@ -1,0 +1,16 @@
+{
+  "id": "resighting",
+  "title": "Resighting",
+  "link": "http://www.resighting.com/developers",
+  "image": "http://www.resighting.com/images/title.png",
+  "author": {
+    "name": "Resighting"
+  },
+  "tags": [
+    "Identifying",
+    "Purpose",
+    "Date",
+    "Request"
+  ],
+  "description": "Like most website operators, Resighting collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type and the date and time of each visitor request. Resighting's purpose in collecting non-personally identifying information is to better understand how Resighting's visitors use resighting.com. "
+}

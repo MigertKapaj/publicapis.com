@@ -1,0 +1,15 @@
+{
+  "id": "tgels",
+  "title": "tgels",
+  "link": "http://www.tgels.com/tapi/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTntaokiaTMAbFzXYLAIApIq3Z4ALWHzKKZrZH-E76lP7LQ0Y4mAA",
+  "author": {
+    "name": "tgels"
+  },
+  "tags": [
+    "Service",
+    "Identifier",
+    "Provide"
+  ],
+  "description": "A REST WebService uses a state and identifier to access a resource and change states. The identifier is usually a noun. A state is a snapshot of something. A state can lead to other states which provide snapshot of things. The snapshot can be filtered by applying criteria in the form of parameters. Similarly an entity can be created, deleted or updated. The entity values are supplied as parameters. A REST WebService uses the http protocol."
+}

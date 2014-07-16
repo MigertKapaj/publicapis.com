@@ -1,0 +1,16 @@
+{
+  "id": "the-bagtrac",
+  "title": "The BagTrac",
+  "link": "https://www.developer.aero/Bag-Trac-API/",
+  "image": "https://tlsnfcpoc.s3.amazonaws.com/dev.aero/css/images/logo.png",
+  "author": {
+    "name": "Bag-Trac"
+  },
+  "tags": [
+    "Access",
+    "Platform",
+    "Service",
+    "Processes"
+  ],
+  "description": "With secure access to its own partition on the SITA developers’ platform, the API can easily integrate into the airline’s customer self service and other handling systems, streamlining baggage tracing and reporting functionality into existing mobile and web based processes."
+}

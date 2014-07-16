@@ -1,0 +1,16 @@
+{
+  "id": "miso-developers",
+  "title": "Miso Developers",
+  "link": "http://gomiso.com/developers/endpoints",
+  "image": "http://assets0.gomiso.com/REV_5c70f9afac95353016d0ad437143552db8169dfe/images/rework/miso_top_logo.png",
+  "author": {
+    "name": "Miso Developers"
+  },
+  "tags": [
+    "Access",
+    "Movies",
+    "Service",
+    "Provided"
+  ],
+  "description": "Miso's REST API enables developers to access relevant information in real time about shows, movies, users, checkins and more from your consumer website or mobile application provided that you follow our API Terms of Service. "
+}

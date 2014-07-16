@@ -1,0 +1,16 @@
+{
+  "id": "actual-reports",
+  "title": "Actual Reports",
+  "link": "http://actualreports.com/docs",
+  "image": "http://actualreports.com/gfx/logo_200x200.png",
+  "author": {
+    "name": "Actual Reports"
+  },
+  "tags": [
+    "Manage",
+    "Editor",
+    "Merge",
+    "Data"
+  ],
+  "description": "With Actual Reports platform your users can easily create and manage different document templates with an easy-to-use browser based document editor. And, you can use simple RESTful API calls to merge the templates with data from your own software to generate PDF and HTML documents."
+}

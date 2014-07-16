@@ -1,0 +1,15 @@
+{
+  "id": "avatrader",
+  "title": "AvaTrader",
+  "link": "http://www.avafx.com/api-trading/",
+  "image": "http://www.avatrade.com/education/trading-a-z/~/media/images/main-page/AvaTrade_logo_neg.ashx",
+  "author": {
+    "name": "AvaTrade"
+  },
+  "tags": [
+    "Communication",
+    "Transparency",
+    "Security"
+  ],
+  "description": "The API links your computer, via encrypted communication channels, to the AvaTrader servers during trading hours – giving you immediate executions with full price transparency and the highest level of security."
+}

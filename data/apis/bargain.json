@@ -1,0 +1,16 @@
+{
+  "id": "bargain",
+  "title": "Bargain",
+  "link": "http://blog.ineedabargain.com/api.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThljKi8F-I8-sZZIGvppcq3Pd2JT3zXXSr6yqMrz5XwSmrUJiP",
+  "author": {
+    "name": "INAB"
+  },
+  "tags": [
+    "App",
+    "Requests",
+    "Access",
+    "Information"
+  ],
+  "description": "Are you thinking of integrating something you see on INeedABargain.com (INAB) into your website or mobile app? INAB aggregates shopping deals from numerous bargain sources. The REST API lets you interact with INAB bargain database by sending our server HTTP requests, allowing your customers to access discount shopping information right from within your web or mobile app."
+}

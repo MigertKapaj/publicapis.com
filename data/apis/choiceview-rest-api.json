@@ -1,0 +1,16 @@
+{
+  "id": "choiceview-rest-api",
+  "title": "ChoiceView Rest API",
+  "link": "http://www.radishsystems.com/for-developers/",
+  "image": "http://www.radishsystems.com/wp-content/themes/radish/images/radish_logo.png",
+  "author": {
+    "name": "Radish"
+  },
+  "tags": [
+    "System",
+    "New",
+    "Existing",
+    "Operation"
+  ],
+  "description": "nteractive Voice Response (IVR) systems are everywhere. Now with the ChoiceView Rest API, you can easily upgrade virtually any IVR — new or existing or premises or cloud-based — to provide visual operations. It requires only a script change in the IVR, and your callers benefit from a greatly improved user interface without aggravating voice-only phone trees."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "code-converter",
+  "title": "Code Converter",
+  "link": "http://codeconverter.sharpdevelop.net/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQrh8tTNPZd-X5GAfPrRjwDcAnrstY4MWq7yT6OTWvWvpoMvLa4Mw",
+  "author": {
+    "name": "Code Converter"
+  },
+  "tags": [
+    "Online",
+    "Facility",
+    "Layer"
+  ],
+  "description": "The online code conversion facility is currently using version 4.3.0.9390 of the NRefactory parser layer of SharpDevelop. "
+}

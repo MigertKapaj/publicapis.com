@@ -1,0 +1,16 @@
+{
+  "id": "connectyard",
+  "title": "ConnectYard",
+  "link": "http://www1.connectyard.com/cy-api",
+  "image": "http://www1.connectyard.com/sites/all/themes/connectyard/images/logo.png",
+  "author": {
+    "name": "ConnectYard"
+  },
+  "tags": [
+    "Social",
+    "Accounts",
+    "Enabling",
+    "Communication"
+  ],
+  "description": "The ConnectYard API enables developers to easily send direct messages to users via social media accounts, including Facebook, Twitter and LinkedIn, in addition to SMS and email, enabling them to more easily reach and engage their users with time-sensitive communications."
+}

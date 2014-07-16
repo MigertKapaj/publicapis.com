@@ -1,0 +1,15 @@
+{
+  "id": "webshots",
+  "title": "Webshots",
+  "link": "http://www.webshots.com/html/services.html",
+  "image": "http://www.webshots.com/img/logo.png",
+  "author": {
+    "name": "Webshots"
+  },
+  "tags": [
+    "Software",
+    "Decorate",
+    "Around"
+  ],
+  "description": "The company began as a popular screensaver and wallpaper software that gave people the ability to decorate their computer desktops with stunning imagery from around the world, hand-selected from professional photographers."
+}

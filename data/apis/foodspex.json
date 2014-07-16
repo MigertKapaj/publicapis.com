@@ -1,0 +1,15 @@
+{
+  "id": "foodspex",
+  "title": "foodspex",
+  "link": "http://www.foodspex.com/API.aspx",
+  "image": "http://www.foodspex.com/img/FS_logo_xs.png",
+  "author": {
+    "name": "foodspex"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Connect"
+  ],
+  "description": "This is the documentation page about the foodspex API. Here you can find everything you'll need to know to connect with the web service and fetch data from it."
+}

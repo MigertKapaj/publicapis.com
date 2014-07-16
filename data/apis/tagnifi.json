@@ -1,0 +1,16 @@
+{
+  "id": "tagnifi",
+  "title": "TagniFi",
+  "link": "http://www.tagnifi.com/help/api-reference/",
+  "image": "http://tangifidemo.flywheelsites.com/wp-content/uploads/2013/10/tagnifi_dark.gif",
+  "author": {
+    "name": "TagniFi"
+  },
+  "tags": [
+    "Deliver",
+    "Accurate",
+    "Data",
+    "Achieve"
+  ],
+  "description": "Our API’s sole purpose is to deliver highly-accessible, accurate and timely financial data; enabling you to build the next-generation of financial applications.  To achieve this our API adheres to the following set of core tenets."
+}

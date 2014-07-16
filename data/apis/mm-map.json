@@ -1,0 +1,16 @@
+{
+  "id": "mm-map",
+  "title": "MM Map",
+  "link": "http://map.longdo.com/api",
+  "image": "http://map.longdo.com/themes/longdo/logo.png",
+  "author": {
+    "name": "Longdo Map"
+  },
+  "tags": [
+    "Accessible",
+    "Charge",
+    "Data",
+    "Measured"
+  ],
+  "description": "The API can be used free of charge for your services that are accessible to consumers, freely or restricted, with or without charge, provided that the amount of data served and measured by MM servers to your services does not exceed the MM Map API Free Usage Threshold, which is currently set to 5 GB per month."
+}

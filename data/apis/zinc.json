@@ -1,0 +1,16 @@
+{
+  "id": "zinc",
+  "title": "Zinc",
+  "link": "https://zinc.io/docs",
+  "image": "",
+  "author": {
+    "name": "Zinc"
+  },
+  "tags": [
+    "online retailer",
+    "online discount",
+    "online auctions",
+    "retail sales"
+  ],
+  "description": "Zinc makes it easy for your application to purchase physical products\n from online retailers. Zinc is not a seller or a store, but a bridge \nbetween your application and common online stores. Get ready to write \nsome very powerful code. \n      "
+}

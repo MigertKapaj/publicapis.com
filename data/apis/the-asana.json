@@ -1,0 +1,16 @@
+{
+  "id": "the-asana",
+  "title": "The Asana",
+  "link": "http://developer.asana.com/documentation/",
+  "image": "http://asana_static.s3.amazonaws.com/images/asana_logo.png",
+  "author": {
+    "name": " Asana"
+  },
+  "tags": [
+    "Providing",
+    "Predictable",
+    "Enviroments",
+    "Browser"
+  ],
+  "description": "The Asana API is a RESTful interface, providing programmatic access to much of the data in the system It provides predictable URLs for accessing resources, and uses built-in HTTP features to receive commands and return responses. This makes it easy to communicate with from a wide variety of environments, from command-line utilities to gadgets to the browser URL bar itself.\n      "
+}

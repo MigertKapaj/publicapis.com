@@ -1,0 +1,15 @@
+{
+  "id": "dwolla",
+  "title": "Dwolla",
+  "link": "https://developers.dwolla.com/",
+  "image": "https://www.dwolla.com/Content/images/icons/dwolla.png",
+  "author": {
+    "name": "Dwolla"
+  },
+  "tags": [
+    "Move",
+    "Access",
+    "Network"
+  ],
+  "description": "A safer, easier and faster way to move, access and earn money starts here. Welcome to the Dwolla network."
+}

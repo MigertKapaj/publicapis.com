@@ -1,0 +1,16 @@
+{
+  "id": "un",
+  "title": "un",
+  "link": "http://unapi.info/",
+  "image": "",
+  "author": {
+    "name": "un"
+  },
+  "tags": [
+    "Web",
+    "Protocols",
+    "Syndicating",
+    "Services"
+  ],
+  "description": "unAPI is a tiny HTTP API for the few basic operations necessary to  copy discrete, identified content from any kind of web application. There are already many cool APIs and protocols for syndicating, searching, harvesting, and linking from diverse services on the web.  They're great,and they're widely used, but they're all different, for different reasons.  unAPI only provides the few basic operations necessary to perform simple clipboard-like copy of content objects across all sites.  It can be quickly implemented, consistently used, and easily layered over other well-known APIs.\n            "
+}

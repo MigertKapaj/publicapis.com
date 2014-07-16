@@ -1,0 +1,14 @@
+{
+  "id": "samurai",
+  "title": "Samurai",
+  "link": "https://samurai.feefighters.com/developers/api_reference#overview",
+  "image": "https://samurai.feefighters.com/assets/base/logo-ondark-3eec083f4d0b64d66baeaadd63f0b995.png",
+  "author": {
+    "name": "Samurai"
+  },
+  "tags": [
+    "payloads",
+    "Authentication"
+  ],
+  "description": "The Samurai API uses simple XML payloads transmitted over 256-bit encrypted HTTPS POST with Basic Authentication."
+}

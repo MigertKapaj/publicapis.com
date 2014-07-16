@@ -1,0 +1,15 @@
+{
+  "id": "wirecard",
+  "title": "Wirecard",
+  "link": "http://www.wirecard.com/e-commerce/",
+  "image": "http://www.wirecard.com/fileadmin/templates/images/wirecard-logo.png",
+  "author": {
+    "name": "Wirecard"
+  },
+  "tags": [
+    "Processing",
+    "Success",
+    "Payment"
+  ],
+  "description": "Electronic payment processing is the heart of e-Commerce. Ensure the lasting success of your e-shop by offering a wide range of payment methods. "
+}

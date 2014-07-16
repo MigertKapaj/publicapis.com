@@ -1,0 +1,16 @@
+{
+  "id": "sponsored-tweets",
+  "title": "Sponsored Tweets",
+  "link": "http://sponsoredtweets.com/partners/api/",
+  "image": "http://sponsoredtweets.com/wp-content/themes/sponsoredtweets/img/logo.png",
+  "author": {
+    "name": "Sponsored Tweets"
+  },
+  "tags": [
+    "Monetize",
+    "Signup",
+    "Earning",
+    "Transaction"
+  ],
+  "description": "Sponsored Tweets has a full-featured API designed to help developers monetize their Twitter Applications. The API is tied into the Sponsored Tweets referral system. Every time you sign up a new Advertiser or Tweeter to SponsoredTweets.com you will become their referrer, earning income for every transaction they make in the system for a period of two years."
+}

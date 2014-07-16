@@ -1,0 +1,16 @@
+{
+  "id": "dovico",
+  "title": "Dovico",
+  "link": "http://apideveloper.dovico.com/API+Overview",
+  "image": "http://www.dovico.com/images/logo-dovico-20-years.png",
+  "author": {
+    "name": "Dovico"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Cloud",
+    "Application"
+  ],
+  "description": "The Dovico Hosted Services API is a REST API for accessing Dovico Hosted Services account data using HTTP and XML. This API allows your Dovico Services to be integrated with on-premise applications, other cloud services and third party applications "
+}

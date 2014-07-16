@@ -1,0 +1,15 @@
+{
+  "id": "tropo",
+  "title": "Tropo",
+  "link": "https://www.tropo.com/docs/",
+  "image": "https://www.tropo.com/static/images/logo.png",
+  "author": {
+    "name": "Tropo"
+  },
+  "tags": [
+    "Script",
+    "Communication",
+    "Server."
+  ],
+  "description": "Tropo provides an easy-to-learn, easy-to-implement scripting environment designed for creating a wide variety of communications applications. Your script runs on our servers, very similar to the way a web application runs on a web server. Instead of interacting with the user via a web browser, however, a Tropo application interacts with the user via voice (using a standard telephone or Voice Over IP/SIP) or text (SMS)."
+}

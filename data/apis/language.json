@@ -1,0 +1,13 @@
+{
+  "id": "language",
+  "title": "Language",
+  "link": "https://www.mashape.com/nsure-io/language",
+  "image": "",
+  "author": {
+    "name": "nsure.io"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "You give us some text, and we will tell you the  language.  We know about 50 or so languages, and are over 90% accurate when we have more than 20 words of text to scan.  With short text, use the probability result to get a better sense of what language(s) you could be seeing."
+}

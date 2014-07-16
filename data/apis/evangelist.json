@@ -1,0 +1,15 @@
+{
+  "id": "evangelist",
+  "title": "Evangelist",
+  "link": "https://apievangelist.3scale.net/",
+  "image": "https://s3.amazonaws.com/enterprise-multitenant.3scale.net.3scale.net/api-evangelist/2445580000782/profiles/logos/large/api-evangelist-logo-400.png",
+  "author": {
+    "name": "Evangelist"
+  },
+  "tags": [
+    "Access",
+    "Research",
+    "Network"
+  ],
+  "description": "Welcome to the API for API Evangelist. You can access all the writing and research from my platform here, as well as any APIs I've deployed as part of my network."
+}

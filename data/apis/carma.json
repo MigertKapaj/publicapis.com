@@ -1,0 +1,15 @@
+{
+  "id": "carma",
+  "title": "CARMA",
+  "link": "http://carma.org/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQDziiRhjRn8kAsVgzIuGsR0iwZ6m9iH-zpyFRxGuTJ0vqpSR5n",
+  "author": {
+    "name": "CARMA"
+  },
+  "tags": [
+    "Provides",
+    "Access",
+    "Data"
+  ],
+  "description": "The CARMA API provides REST-based access to data available on the CARMA site."
+}

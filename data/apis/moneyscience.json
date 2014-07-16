@@ -1,0 +1,15 @@
+{
+  "id": "moneyscience",
+  "title": "MoneyScience",
+  "link": "http://www.moneyscience.com/pg/studio/",
+  "image": "http://www.moneyscience.com/pg/studio/",
+  "author": {
+    "name": "MoneyScience"
+  },
+  "tags": [
+    "Data",
+    "Widget",
+    "Service"
+  ],
+  "description": "Studio environments provide a more rich content delivery in the form of visulisations, data processing and data than those provided elsewhere on the site. The Widget studio enables you to contribute your own constructed widgets for deployment into the profile and/or dashboard. The Service studio enables you to describe data services (raw data such as reference data or data processing/derived data such as analytics) which can be accessed on the platform by widgets or other services or off of the platform using our API. Like all other content on the platform these are subject to your access control settings and thus can be shared with a limited audience or the world. "
+}

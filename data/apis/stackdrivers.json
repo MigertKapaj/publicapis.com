@@ -1,0 +1,16 @@
+{
+  "id": "stackdrivers",
+  "title": "Stackdriver’s",
+  "link": "http://www.stackdriver.com/pricing/",
+  "image": "http://www.stackdriver.com/wp-content/themes/sensitive/images/logo-horizontal.png",
+  "author": {
+    "name": "Stackdriver"
+  },
+  "tags": [
+    "Companies",
+    "Helping",
+    "Products",
+    "Operations"
+  ],
+  "description": "Stackdriver was founded with a mission of helping cloud-powered SaaS companies spend more time building their products and less time dealing with infrastructure complexity and operations."
+}

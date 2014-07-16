@@ -1,0 +1,15 @@
+{
+  "id": "keyword-tool",
+  "title": "Keyword Tool",
+  "link": "http://www.wordstream.com/keyword-tool-api",
+  "image": "http://www.wordstream.com/sites/default/files/qc_ws_logo.png",
+  "author": {
+    "name": "WordStream"
+  },
+  "tags": [
+    "Retired",
+    "Research",
+    "Policy"
+  ],
+  "description": "The Keyword Tool API was retired alongside with some of our Infographic research due to Google's API policy change."
+}

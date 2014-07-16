@@ -1,0 +1,14 @@
+{
+  "id": "chargebee",
+  "title": "Chargebee",
+  "link": "https://apidocs.chargebee.com/docs/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKsc0T5_4pgePr2ogK3A3x5QcK8kiH0-Ry5ZdGhfpBQA-HgRY5Xg",
+  "author": {
+    "name": "Chargebee"
+  },
+  "tags": [
+    "Essence",
+    "Client"
+  ],
+  "description": "Chargebee provides HTTP based API which follows the essence of REST*. The HTTP protocol's rules are followed thereby enabling simple HTTP client tools like \"curl\" to be used. "
+}

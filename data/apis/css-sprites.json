@@ -1,0 +1,14 @@
+{
+  "id": "css-sprites",
+  "title": "CSS Sprites",
+  "link": "http://css.spritegen.com/api.php?help",
+  "image": "",
+  "author": {
+    "name": "CSS Sprites"
+  },
+  "tags": [
+    "Simply",
+    "Requests"
+  ],
+  "description": "The CSS Sprites Generator uses a very simple HTTP API. Simply send GET or POST requests (file uploads have to be POST of course) to this URL. "
+}

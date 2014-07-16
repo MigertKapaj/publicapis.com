@@ -1,0 +1,15 @@
+{
+  "id": "derpibooru",
+  "title": "Derpibooru",
+  "link": "http://derpibooru.org/api",
+  "image": "",
+  "author": {
+    "name": "Derpibooru"
+  },
+  "tags": [
+    "Provides",
+    "Produce",
+    "Data"
+  ],
+  "description": "Derpibooru provides a JSON API for major site functionality, which can be freely used by anyone wanting to produce tools for the site or other webapps that use the data provided within Derpibooru. "
+}

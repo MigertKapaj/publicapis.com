@@ -1,0 +1,13 @@
+{
+  "id": "gilt-groupe",
+  "title": "Gilt Groupe",
+  "link": "https://dev.gilt.com/documentation/resources.html",
+  "image": "",
+  "author": {
+    "name": "GILT Developer"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The Gilt Groupe APIs give outside developers with the ability to build applications that display information about Gilt Groupe's upcoming sales and the products available in those sales."
+}

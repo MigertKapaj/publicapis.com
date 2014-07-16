@@ -1,0 +1,17 @@
+{
+  "id": "edatasourc",
+  "title": "eDataSourc",
+  "link": "http://developers.emaildatasource.com/",
+  "image": "http://developers.emaildatasource.com/public/Mashery/images/clients/eds/eds.gif",
+  "author": {
+    "name": "eDataSourc"
+  },
+  "tags": [
+    "Account",
+    "Emil",
+    "Developer",
+    "Contact",
+    ""
+  ],
+  "description": "Register for a user account.  You will be asked to confirm your email address.Apply for an API key.  With your API key you can begin using the Developer API.Browse the documentation for guidance on developing your application.Join a discussion in the forums.Contact us to discuss your ongoing use of the API."
+}

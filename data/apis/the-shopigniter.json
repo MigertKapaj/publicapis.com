@@ -1,0 +1,13 @@
+{
+  "id": "the-shopigniter",
+  "title": "The ShopIgniter",
+  "link": "http://developers.shopigniter.com/",
+  "image": "",
+  "author": {
+    "name": "ShopIgniter"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The ShopIgniter API Framework is based on a RESTful architecture and consists of endpoints for all of it’s resources. GET, POST, PUT, PATCH and DELETE HTTP requests to these endpoints are used to manipulate the state of these resources."
+}

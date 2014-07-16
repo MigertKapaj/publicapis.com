@@ -1,0 +1,17 @@
+{
+  "id": "map",
+  "title": "Map",
+  "link": "https://developers.google.com/places/documentation/index",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Service",
+    "Information",
+    "Geographic",
+    "Prominent",
+    "Coordinate"
+  ],
+  "description": "The Google Places API is a service that returns information about Places — defined within this API as establishments, geographic locations, or prominent points of interest — using HTTP requests. Place requests specify locations as latitude/longitude coordinates."
+}

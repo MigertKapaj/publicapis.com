@@ -1,0 +1,15 @@
+{
+  "id": "rewrite",
+  "title": "Rewrite",
+  "link": "http://codex.wordpress.org/Rewrite_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Developers",
+    "Functions",
+    "Mostly"
+  ],
+  "description": "WordPress allows theme and plugin developers to programmatically specify new, custom rewrite rules. The following functions (which are mostly aliases for WP_Rewrite methods) can be used to achieve this. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "sentiment-analysis",
+  "title": "Sentiment Analysis",
+  "link": "http://www.semanticengines.com/OpinionCrawl_API_Documentation.pdf",
+  "image": "http://www.opinioncrawl.com/OClogo.PNG",
+  "author": {
+    "name": "Sentiment Analysis"
+  },
+  "tags": [
+    "Webpage",
+    "Extracts",
+    "Mining",
+    "Content"
+  ],
+  "description": "Semantic API analyzes a webpage on-the-fly and extracts key concepts from it. It uses text mining and semantic analysis to understand the content of the page."
+}

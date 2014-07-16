@@ -1,0 +1,15 @@
+{
+  "id": "goodrx",
+  "title": "GoodRx",
+  "link": "http://www.goodrx.com/developer/documentation",
+  "image": "https://d4fuqqd5l3dbz.cloudfront.net/static/img/goodrx-logos-4.22.15.gz.svg",
+  "author": {
+    "name": "GoodRx"
+  },
+  "tags": [
+    "Responses",
+    "Success",
+    "Defining"
+  ],
+  "description": "All responses from the GoodRx API will include two parameters, errors and success, defining the response state. The HTTP Status header will reflect the information within the content. "
+}

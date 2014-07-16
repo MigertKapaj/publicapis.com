@@ -1,0 +1,16 @@
+{
+  "id": "black-book-online",
+  "title": "Black Book Online",
+  "link": "http://www.blackbookonline.info/api-documentation.aspx",
+  "image": "http://www.blackbookonline.info/images/logo_sml.gif",
+  "author": {
+    "name": "Black Book Online.info"
+  },
+  "tags": [
+    "Online",
+    "Searches",
+    "Website",
+    "App"
+  ],
+  "description": "The Black Book Online API will allow you to integrate Black Book Online into your applications. This integration will allow you to do searches such as Property Ownership or Sex Offenders and integrate the search results into your website or app. The first thing you should do is register for a free API key."
+}

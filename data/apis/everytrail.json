@@ -1,0 +1,14 @@
+{
+  "id": "everytrail",
+  "title": "EveryTrail",
+  "link": "http://www.everytrail.com/developer",
+  "image": "http://www.everytrail.com/images/ETlogo.png",
+  "author": {
+    "name": "EveryTrail"
+  },
+  "tags": [
+    "Platform",
+    "Creating"
+  ],
+  "description": "Here you can learn about the EveryTrail API and all of the cool applications you can build using the EveryTrail platform. When you are ready to start creating an application using the API, request an API key and read the API documentation."
+}

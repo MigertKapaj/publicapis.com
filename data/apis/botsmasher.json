@@ -1,0 +1,15 @@
+{
+  "id": "botsmasher",
+  "title": "Botsmasher",
+  "link": "https://www.botsmasher.com/docs.php",
+  "image": "https://www.botsmasher.com/images/logo-web-header.png",
+  "author": {
+    "name": "BotSmasher"
+  },
+  "tags": [
+    "Determine",
+    "Information",
+    "Particularly"
+  ],
+  "description": "BotSmasher API allows site owners a means of automatically checking IP addresses, email addresses, and names to determine if those pieces of information match the information of alleged bots or otherwise fraudulent users of web systems. This can be used to protect against comment spam, forum spam, fraudulent registrations and other illegitimate actions - particularly in cases where forms are in use."
+}

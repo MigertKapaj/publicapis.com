@@ -1,0 +1,16 @@
+{
+  "id": "tagoo-xml",
+  "title": "Tagoo XML",
+  "link": "http://tagoo.ru/en/webmaster.php?mode=xml_api",
+  "image": "http://tagoo.ru/images/logo_big.gif",
+  "author": {
+    "name": "Tagoo"
+  },
+  "tags": [
+    "Queries",
+    "Offer",
+    "Partner",
+    "Search"
+  ],
+  "description": "Attention, Tagoo XML API usage is possible under the following terms: 1000 queries to our API cost 0.15 USD. If you have something else to offer, please contact us.Partner should have Tagoo account and partner key.Partner should register their servers IP, from which XML queries would be sent.We absolutely do not allow caching of search results.Any actions the aim of which is to form your own base of links to content using Tagoo API are prohibited."
+}

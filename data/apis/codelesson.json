@@ -1,0 +1,15 @@
+{
+  "id": "codelesson",
+  "title": "CodeLesson",
+  "link": "http://api.codelesson.com/",
+  "image": "http://api.codelesson.com/CodeLesson%20-%20Instructor-led%20online%20technology%20learning_files/cl_logo.png",
+  "author": {
+    "name": "CodeLesson"
+  },
+  "tags": [
+    "Connect",
+    "Instructors",
+    "Programming"
+  ],
+  "description": "It's been our pleasure to connect lifelong learners and instructors, sharing our knowledge and love of programming."
+}

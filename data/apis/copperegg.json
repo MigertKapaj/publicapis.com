@@ -1,0 +1,15 @@
+{
+  "id": "copperegg",
+  "title": "CopperEgg",
+  "link": "http://dev.copperegg.com/alerts/definitions.html",
+  "image": "http://dev.copperegg.com/assets/img/copperegg.png",
+  "author": {
+    "name": "CopperEgg"
+  },
+  "tags": [
+    "Communicate",
+    "Inception",
+    "Designed"
+  ],
+  "description": "The CopperEgg real-time architecture has used an API to communicate between the various layers of the application from its inception. We use our own API to communicate from the browser based UI we have designed, back into our hosted SaaS application."
+}

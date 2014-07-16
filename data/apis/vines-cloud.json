@@ -1,0 +1,16 @@
+{
+  "id": "vines-cloud",
+  "title": "Vines Cloud",
+  "link": "http://www.getvines.com/docs/rest/",
+  "image": "http://www.getvines.com/images/logo.png",
+  "author": {
+    "name": "Vines"
+  },
+  "tags": [
+    "Programming",
+    "Connectors",
+    "Wrap",
+    "Library"
+  ],
+  "description": "The REST API exposes Vines Cloud’s features to any programming language that can speak HTTP. We provide open source iOS, Android, and JavaScript client connectors, but they simply wrap this REST API in an easy to use library."
+}

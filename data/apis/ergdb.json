@@ -1,0 +1,14 @@
+{
+  "id": "ergdb",
+  "title": "ErgDB",
+  "link": "http://www.73summits.com/ergdb/api.php",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBwHcgzPQKxTow9T881jKR_ngGBEy4m1DkA7hxItUjc3yOyv_4Tw",
+  "author": {
+    "name": "ErgDB"
+  },
+  "tags": [
+    "Search",
+    "Exported"
+  ],
+  "description": "ErgDB has opened up a basic API to search and export workouts.  Right \nnow, workouts can only be exported in .erg format, but Multi-Rider and \nPowerAgent will be added soon.  Below are sample calls.       "
+}

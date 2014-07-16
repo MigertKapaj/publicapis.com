@@ -1,0 +1,16 @@
+{
+  "id": "site-explorer",
+  "title": " Site Explorer",
+  "link": "http://developer.yahoo.com/search/siteexplorer/",
+  "image": "https://s.yimg.com/oo/ydn-footer-sprite/sprite-footer.png",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Traffic",
+    "Pages",
+    "Grasp",
+    "Spammed"
+  ],
+  "description": "These APIs help you better understand your traffic and usage -- querying for the pages in the Yahoo! index and the sites linking into a site.  They will be useful to anyone looking for a good grasp of who is linking to you and to create an effective alternative to easily-spammed trackbacks."
+}

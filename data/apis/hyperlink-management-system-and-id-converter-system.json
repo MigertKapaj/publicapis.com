@@ -1,0 +1,15 @@
+{
+  "id": "hyperlink-management-system-and-id-converter-system",
+  "title": "Hyperlink management system and ID converter system",
+  "link": "http://biodb.jp/help/ws_en.html",
+  "image": "http://biodb.jp/help/img/logo_hms_s.png",
+  "author": {
+    "name": "Hyperlink management system and ID converter system"
+  },
+  "tags": [
+    "Provides",
+    "Specifies",
+    "Data"
+  ],
+  "description": "API provides \"convert\" and \"entry\" methods. \"convert\" method provides that does the batch conversion to ID of the form that specifies the input ID list and that extracts the relation with ID of the data base besides ID of a certain database."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "the-twicsy",
+  "title": "The Twicsy",
+  "link": "http://twicsy.com/s/api.html",
+  "image": "https://s3.amazonaws.com/twicsystatic/images/icon-t-dark.png",
+  "author": {
+    "name": "Twicsy"
+  },
+  "tags": [
+    "Precious",
+    "Email",
+    "Intrest"
+  ],
+  "description": "We just didn't have enough interest, and it is taking up precious resources, so we have retired the API for now. If you are really distraught about it, please email us. If we have enough interest we may bring it back. Sorry folks!\n                                                        "
+}

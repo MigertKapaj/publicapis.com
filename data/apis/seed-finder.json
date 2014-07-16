@@ -1,0 +1,16 @@
+{
+  "id": "seed-finder",
+  "title": "Seed finder",
+  "link": "http://en.seedfinder.eu/api/",
+  "image": "http://en.seedfinder.eu/pics/banner/flydutch_en.jpg",
+  "author": {
+    "name": "Seed finder"
+  },
+  "tags": [
+    "Interface",
+    "Clients",
+    "Stored",
+    "Simple"
+  ],
+  "description": "Our JSON-based API provides an interface for client developers to interact with content stored on SeedFinder, and to build new applications on top of SeedFinder's infrastructure. The JSON-Files you can get and use very simple with a URL GET or POST request and a little bit JavaScript, PHP"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "spitcast",
+  "title": "Spitcast",
+  "link": "http://www.spitcast.com/api/docs/",
+  "image": "",
+  "author": {
+    "name": "Spitcast Surf Forecast"
+  },
+  "tags": [
+    "Apps",
+    "Accurate",
+    "Prediction",
+    "Projects"
+  ],
+  "description": "Spitcast has an open API. This means you can code your own surf apps by leveraging Spitcast's trusted and accurate surf prediction algorithm. Drop me a note if you are planning to use the Spitcast API. I love hearing about interesting projects. "
+}

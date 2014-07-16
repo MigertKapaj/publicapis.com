@@ -1,0 +1,16 @@
+{
+  "id": "faxem",
+  "title": "Faxem",
+  "link": "http://www.faxem.com.au/api/email_api_started.php",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRBRB1408nkk8Z_8oiKFDNyPuq0CQtVpRz2Omw6ltWFdCl9mRVT",
+  "author": {
+    "name": "faxem"
+  },
+  "tags": [
+    "Send",
+    "System",
+    "Operations",
+    "Adding"
+  ],
+  "description": "Methods send and respond to requests sent from third party systems, automate repetitive operations, or directly perform other operations on objects in your system, such as adding and deleting."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "the-signal",
+  "title": "The Signal",
+  "link": "http://dev.signalhq.com/",
+  "image": "",
+  "author": {
+    "name": " Signal"
+  },
+  "tags": [
+    "Tenants",
+    "Endponit"
+  ],
+  "description": "Getting started with the Signal APIThis pages outlines some of the basic tenants in working with the Signal API. You can find specific API endpoints in the APIs section."
+}

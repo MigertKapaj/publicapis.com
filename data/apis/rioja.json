@@ -1,0 +1,16 @@
+{
+  "id": "rioja",
+  "title": "RIOJA",
+  "link": "http://cosmologist.info/xml/APIs.html",
+  "image": "",
+  "author": {
+    "name": "RIOJA"
+  },
+  "tags": [
+    "Described",
+    "Data",
+    "Repositories",
+    "Additional"
+  ],
+  "description": "This page described XML-base APIs for the exchange of data between digital repositories and journals to facilitate overlaying of academic journals on separate digital repositories. The repository is assumed to provide the registration, awareness and archiving functions of a journal. The journal is assumed to provide only the certification (peer review) and additional awareness functions."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "crypto",
+  "title": "Crypto",
+  "link": "http://crypto.setgetgo.com/",
+  "image": "",
+  "author": {
+    "name": "Crypto"
+  },
+  "tags": [
+    "Request",
+    "Encoded",
+    "Vector"
+  ],
+  "description": "Simply fire a GET request, specifying plaintext as a parameter that will be encrypted. In return you will get the base64 encoded ciphertext along with the key and initialization vector that was used (generated randomly every time). "
+}

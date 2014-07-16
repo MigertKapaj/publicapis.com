@@ -1,0 +1,14 @@
+{
+  "id": "taskk",
+  "title": "Taskk",
+  "link": "https://api.taskk.it/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRwdvUxoUnQzGadcK6usVfY7c-UGfufXd_wyTUrxv7qTA3XZ-hl",
+  "author": {
+    "name": "Taskk"
+  },
+  "tags": [
+    "Access",
+    "Contact"
+  ],
+  "description": "This describes how to access the official Taskk API. Please contact us if you need any assistance. "
+}

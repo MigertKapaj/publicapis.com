@@ -1,0 +1,15 @@
+{
+  "id": "toodledo",
+  "title": "Toodledo",
+  "link": "http://www.toodledo.com/info/api_doc.php",
+  "image": "http://static.toodledo.com/images/logo150.png",
+  "author": {
+    "name": "Toodledo"
+  },
+  "tags": [
+    "Developers",
+    "Tasks",
+    "Interesting"
+  ],
+  "description": "The Toodledo API makes it easy for developers to interact with their tasks and make new and interesting applications."
+}

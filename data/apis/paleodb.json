@@ -1,0 +1,15 @@
+{
+  "id": "paleodb",
+  "title": "PaleoDB",
+  "link": "https://www.nescent.org/wg_evoinfo/PaleoDB",
+  "image": "https://www.nescent.org/wg/evoinfo/images/evoinfo_logo.jpg",
+  "author": {
+    "name": "Nescent"
+  },
+  "tags": [
+    "Records",
+    "Stratigraphic",
+    "Data"
+  ],
+  "description": "The Paleobiology primarily records fossil occurrences (a organism [or distinctive part of an organism] found at a point in space and time). As a result we are also a rich source of taxonomic, stratigraphic, geologic and geochronological data. "
+}

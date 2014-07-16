@@ -1,0 +1,16 @@
+{
+  "id": "financial-sentiment",
+  "title": "Financial Sentiment",
+  "link": "http://www.sntmnt.com/products/",
+  "image": "http://static.sntmnt.com/static/img/logo.png",
+  "author": {
+    "name": "SNTMNT"
+  },
+  "tags": [
+    "Brokers",
+    "Managers",
+    "Terminals",
+    "Solutions"
+  ],
+  "description": "Our clients include financial institutions like brokers, banks, asset managers and hedge funds.\nWe deliver our analytics through our API, (custom) monitoring terminals or complete solutions."
+}

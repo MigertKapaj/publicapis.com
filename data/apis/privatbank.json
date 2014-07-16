@@ -1,0 +1,13 @@
+{
+  "id": "privatbank",
+  "title": "PrivatBank",
+  "link": "https://api.privatbank.ua/p24api/",
+  "image": "",
+  "author": {
+    "name": "PrivatBank"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

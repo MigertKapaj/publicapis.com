@@ -1,0 +1,15 @@
+{
+  "id": "xowi",
+  "title": "XOWi",
+  "link": "http://xowi.me/developers.php",
+  "image": "http://xowi.me/images/logo2.png",
+  "author": {
+    "name": "XOWi"
+  },
+  "tags": [
+    "Delivery",
+    "Interactions",
+    "Necessary"
+  ],
+  "description": "XOWi is first and foremost an experience delivery platform: its core value is its interface, which has been optimized for quick voice interactions. But in and of itself, the interface is only a necessary starting point. What is needed next to make XOWi a must-have in our daily life is the set of things that XOWi can do for you."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "viewbook",
+  "title": "Viewbook",
+  "link": "http://www.viewbook.com/api/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQfOOFcdyU2A-uv7rh083vrmTpe_CazhLUSXFhYzCl9WiBZ8I_cww",
+  "author": {
+    "name": "Viewbook"
+  },
+  "tags": [
+    "Requests",
+    "Responses",
+    "Implement"
+  ],
+  "description": "Viewbook uses Flickr's REST implementation. Requests and responses are the same (with a few minor differences, see below), so you can follow the documentation at Flickr to implement the Viewbook API."
+}

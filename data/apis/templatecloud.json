@@ -1,0 +1,13 @@
+{
+  "id": "templatecloud",
+  "title": "Templatecloud",
+  "link": "https://www.mashape.com/templatecloud/templatecloud",
+  "image": "",
+  "author": {
+    "name": "templatecloud"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API connects you to the Templatecloud.com platform"
+}

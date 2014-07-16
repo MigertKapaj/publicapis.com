@@ -1,0 +1,14 @@
+{
+  "id": "pearson-correlation",
+  "title": "Pearson Correlation",
+  "link": "http://pearsoncorrelation.com/",
+  "image": "",
+  "author": {
+    "name": "Pearson Correlation"
+  },
+  "tags": [
+    "Simple",
+    "Calculate"
+  ],
+  "description": "pearsoncorrelation.com has a simple API to calculate the Pearson correlation coefficient."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "gengo",
+  "title": "Gengo",
+  "link": "http://gengo.com/developers/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS7ug4MFlNBKBEIqzUDjwiWTOrpyYw1Uf-k5fjp1ICEuqtZEFwZ",
+  "author": {
+    "name": "Gengo"
+  },
+  "tags": [
+    "Translation",
+    "Video",
+    "Makers"
+  ],
+  "description": "Gengo’s API integration allowed YouTube to offer video translation straight from their UI. With over 70% of YouTube’s users outside the USA, Gengo gives video owners and makers an option to share their content worldwide."
+}

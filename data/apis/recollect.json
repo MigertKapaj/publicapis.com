@@ -1,0 +1,14 @@
+{
+  "id": "recollect",
+  "title": "Recollect",
+  "link": "https://recollect.net/api.html",
+  "image": "https://recollect.a.ssl.fastly.net/0.11.1395181456/images/anaconda/logos/recollect_white.png",
+  "author": {
+    "name": "ReCollect"
+  },
+  "tags": [
+    "Issues",
+    "Resolve"
+  ],
+  "description": "ReCollect is built entirely in-house. This means we troubleshoot issues personally and resolve them immediately. It also means we get clients up and running in days, not weeks or months. When you hire ReCollect you work directly with the people responsible."
+}

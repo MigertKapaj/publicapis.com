@@ -1,0 +1,15 @@
+{
+  "id": "hockeystreams",
+  "title": "HockeyStreams",
+  "link": "https://www.hockeystreams.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRYaGIb_ir8vaIRJfmQGcT25wEVeKzIZJx7zjw0zAKaweaHcIpefQ",
+  "author": {
+    "name": "HockeyStreams.com"
+  },
+  "tags": [
+    "Users",
+    "Retrieve",
+    "Streams"
+  ],
+  "description": "The HockeyStreams REST API allows your application to authenticate users, and retrieve live and on-demand streams. "
+}

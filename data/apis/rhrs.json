@@ -1,0 +1,15 @@
+{
+  "id": "rhrs",
+  "title": "RHRS",
+  "link": "http://www.randomhouse.biz/webservices/rest/",
+  "image": "http://www.randomhouse.biz/images/rhbiz_logo.gif",
+  "author": {
+    "name": "The Random House"
+  },
+  "tags": [
+    "Data",
+    "Formats",
+    "Type"
+  ],
+  "description": "The RHRS API can return data in one of three formats depending on the content type that is supplied as part of the request.\napplication/xmlapplication/jsonimage."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q-pulse",
+  "title": "Q-Pulse",
+  "link": "http://www.q-pulse.com/integration",
+  "image": "http://www.q-pulse.com/q-pulse/images/qpulse_logo.png",
+  "author": {
+    "name": "Q-Pulse"
+  },
+  "tags": [
+    "Potential",
+    "Integrating",
+    "Software",
+    "Interact"
+  ],
+  "description": "The APIs offer tremendous potential for integrating your QMS with other business systems, such as ERP/MRP as well as CRM and corporate intranets. The APIs provide the capability to increase the reach and flexibility of data capture within your QMS software and allows other systems to interact with a variety of areas and features of the solution."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "the-invoice-machine",
+  "title": "The Invoice Machine",
+  "link": "http://invoicemachine.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjC639Me2hpkJ1o5X3hVdzWm9-Iwy9KZM9YJgd_OOK_NBQ8uVc",
+  "author": {
+    "name": "The Invoice Machine"
+  },
+  "tags": [
+    "Possible",
+    "Receive",
+    "Data"
+  ],
+  "description": "The Invoice Machine API (Application Programming Interface) makes it possible for you to send, receive and remove data from your account via HTTP POST calls."
+}

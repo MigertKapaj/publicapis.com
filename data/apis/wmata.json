@@ -1,0 +1,16 @@
+{
+  "id": "wmata",
+  "title": "WMATA",
+  "link": "http://developer.wmata.com/",
+  "image": "http://developer.wmata.com/files/logo.jpg",
+  "author": {
+    "name": "WMATA"
+  },
+  "tags": [
+    "Data",
+    "Application",
+    "Mobile",
+    "Devices"
+  ],
+  "description": "The collection of data offered here allows developers to create new and innovative applications for the web or mobile devices. We encourage you to integrate Metro data into your applications and mashups to help get people the information they want about getting around. Use of our APIs and other data is free of charge, you have two options, for new developers who want to try out the WMATA API but are not ready for production, and you can use our demonstration key, without having to register.The demonstration key is available on our API Explorer page."
+}

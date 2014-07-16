@@ -1,0 +1,15 @@
+{
+  "id": "mta-bus-time",
+  "title": "MTA Bus Time",
+  "link": "http://bustime.mta.info/wiki/Developers/Index",
+  "image": "http://bustime.mta.info/css/img/agency_logo.gif",
+  "author": {
+    "name": "MTA.info"
+  },
+  "tags": [
+    "Developers",
+    "Solution",
+    "Web"
+  ],
+  "description": "Transit developers, web developers, hobbyists, hackers, or anyone who uses mass transit and has a bit of tech skills - you are part of the solution.  MTA Bus Time is built with a real-time developer API that anyone can use for free."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "ailun",
+  "title": "AILUN",
+  "link": "http://ailun.stanford.edu/webservice.php",
+  "image": "http://ailun.stanford.edu/images/righttdtopimg.jpg",
+  "author": {
+    "name": "AILUN"
+  },
+  "tags": [
+    "Service",
+    "Access",
+    "Data",
+    "Communication"
+  ],
+  "description": "The AILUN Web service is a web program that enables developers to access AILUN functionalities via the Simple Object Access Protocol (SOAP). Web service is a collection of protocols and standards used for exchanging data between applications. Software applications written in various programming languages and running on various platforms can use web services to exchange data over computer networks like the Internet, in a manner similar to inter-process communication on a single computer."
+}

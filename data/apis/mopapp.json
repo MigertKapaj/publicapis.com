@@ -1,0 +1,13 @@
+{
+  "id": "mopapp",
+  "title": "Mopapp",
+  "link": "https://www.mashape.com/mopapp/mopapp",
+  "image": "",
+  "author": {
+    "name": "mopapp"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Mopapp tracks & analyzes the sales and downloads of your mobile apps. It automatically integrates with iTunes App Store, Android Market, WP7 Markerplace, BlackBerry App World, Amazon Appstore, GetJar, Handango, and MobiHand. This API can be used to programmatically export sales (to be analyzed in your own systems), or to insert new ones."
+}

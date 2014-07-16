@@ -1,0 +1,16 @@
+{
+  "id": "fotki",
+  "title": "Fotki",
+  "link": "http://about.fotki.com/fotki-public-api/",
+  "image": "http://images.fotki.com/navigation/logo1.png",
+  "author": {
+    "name": "Fotki"
+  },
+  "tags": [
+    "Sharing",
+    "Delivers",
+    "Products",
+    "Professional"
+  ],
+  "description": "Fotki the organic, fat-free photo and video sharing site, which uses steroids only on its technology, delivers state of the art yummy photo products and prints, and grows healthy professional photographers’ business without cruelty to eyes, wallets and customers."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "search",
+  "title": "Search",
+  "link": "https://www.mashape.com/webknox/search",
+  "image": "",
+  "author": {
+    "name": "webknox"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The WebKnox search API lets you search the WebKnox Web index and news results."
+}

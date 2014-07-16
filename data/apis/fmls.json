@@ -1,0 +1,15 @@
+{
+  "id": "fmls",
+  "title": "FMLs",
+  "link": "http://www.fmylife.com/api/home",
+  "image": "http://betacie.cachefly.net/fmylife/images/toplogo.en.png",
+  "author": {
+    "name": "FML"
+  },
+  "tags": [
+    "Accepted",
+    "Innovative",
+    "Generate"
+  ],
+  "description": "For your project to be accepted by our team, it needs to be available to its users for free, innovative and doesn't generate revenue via advertising."
+}

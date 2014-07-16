@@ -1,0 +1,15 @@
+{
+  "id": "heap",
+  "title": "Heap",
+  "link": "https://heapanalytics.com/docs/installation",
+  "image": "https://heapanalytics.com/img/logoSprite.png",
+  "author": {
+    "name": "Heap"
+  },
+  "tags": [
+    "Analytics",
+    "Data",
+    "Muddle"
+  ],
+  "description": "Heap is a modern take on analytics. There's no need to ship event tracking code, no need to wait days or weeks for data to accumulate, no need to muddle your codebase, and no need to fumble with rigid reports."
+}

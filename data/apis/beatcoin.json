@@ -1,0 +1,15 @@
+{
+  "id": "beatcoin",
+  "title": "Beatcoin",
+  "link": "https://github.com/beatcoin/beatcoin",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Song",
+    "Entertain",
+    "Selection"
+  ],
+  "description": "A jukebox running on Bitcoin. Access a venue's jukebox page, select a song by sending Bitcoins and entertain the crowd. Skip the playlist queue by sending extra Bitcoins to the address of your or someone else's selection. Make your song heard! \\o/"
+}

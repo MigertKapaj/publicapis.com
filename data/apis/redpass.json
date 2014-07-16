@@ -1,0 +1,16 @@
+{
+  "id": "redpass",
+  "title": "RedPass",
+  "link": "https://www.redpass.com/developers-api/",
+  "image": "https://www.redpass.com/images/bbox_02.png",
+  "author": {
+    "name": "RedPass"
+  },
+  "tags": [
+    "Signup",
+    "Accounts",
+    "Promotion",
+    "models"
+  ],
+  "description": "RedPass Business Accounts can utilize the API function “signuplink” to simplify the signup process for its partners. This can be helpful to open multiple accounts for affiliates or models without confirming their email address prior to the signup. It is possible to connect a promotion to the signup process. For example if the RedPass Business Account have 50 promo codes these promo codes can be added to the accounts on signup. "
+}

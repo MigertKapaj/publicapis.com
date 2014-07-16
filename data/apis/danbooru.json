@@ -1,0 +1,15 @@
+{
+  "id": "danbooru",
+  "title": "Danbooru",
+  "link": "http://danbooru.donmai.us/help/api",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQNqOex7tk5Aizaf2eECP49Etkm_XJLZ4VGRIDh0Yq5W2wEIM8zWQ",
+  "author": {
+    "name": "Danbooru"
+  },
+  "tags": [
+    "Scripting",
+    "Responses",
+    "Format"
+  ],
+  "description": "Danbooru offers a REST-like API to make scripting easy. All you need is a way to GET, POST, PUT and DELETE to URLs. Responses are given in either XML or JSON format."
+}

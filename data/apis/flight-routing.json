@@ -1,0 +1,13 @@
+{
+  "id": "flight-routing",
+  "title": "Flight Routing",
+  "link": "https://www.mashape.com/laiello/flight-routing",
+  "image": "",
+  "author": {
+    "name": "laiello"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Get flight routing options (currently covers European and US airspace). For European airspace, retrieve both CFMU validated (time sensitive) and older (now invalid) routing options.\r\n\r\nDisclaimer: This should not be used as the sole flight routing verification without confirming with the necessary authorities or manually with actual charts."
+}

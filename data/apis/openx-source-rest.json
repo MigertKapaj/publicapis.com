@@ -1,0 +1,16 @@
+{
+  "id": "openx-source-rest",
+  "title": "OpenX Source REST",
+  "link": "http://www.openxsourcerestapi.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSnyeF2UYkroDmc-zrXf1jVL8tv4iMc7OvxBXV4vzaQu8mNtNVp1g",
+  "author": {
+    "name": "OpenX Source"
+  },
+  "tags": [
+    "Wrapper",
+    "Revive",
+    "Remote",
+    "Architecture"
+  ],
+  "description": "OpenX Source REST API is a REST based API wrapper for the OpenX Source Ad Server and Revive Adserver. It provides remote communication for any application with OpenX Source or Revive Adserver using a REST architecture. REST is very light, fast and easy to use."
+}

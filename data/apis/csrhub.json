@@ -1,0 +1,15 @@
+{
+  "id": "csrhub",
+  "title": "CSRHub",
+  "link": "http://www.csrhub.com/content/api-methods/",
+  "image": "http://csrhub-static.s3.amazonaws.com/sites/all/themes/ekohub/2012/images/logo.jpg",
+  "author": {
+    "name": "CSRHub"
+  },
+  "tags": [
+    "Developer",
+    "Request",
+    "Ratings"
+  ],
+  "description": "The CSRHub Specification for REST Access (CSRA) API offers a simple way to request information from the CSRHub database.  A developer can easily write code that requests CSRHub overall, category or subcategory ratings.  Applications can also use the CSRA API to."
+}

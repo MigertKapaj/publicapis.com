@@ -1,0 +1,16 @@
+{
+  "id": "opengovernment",
+  "title": "OpenGovernment",
+  "link": "http://opengovernment.org/pages/api",
+  "image": "http://d20tbjzc77cxpv.cloudfront.net/r-94fc0d4/images/opengovernment.png?1315447376",
+  "author": {
+    "name": "OpenGovernment"
+  },
+  "tags": [
+    "Resource",
+    "Website",
+    "State",
+    "Local"
+  ],
+  "description": "OpenGovernment is a free and open-source public resource website for government transparency and civic engagement at the state and local levels. The site is a non-partisan joint project of two 501(c)3 non-profit organizations, the Participatory Politics Foundation and the Sunlight Foundation. OpenGovernment is independent from any government entity, candidate for office, or political party. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "maplarge",
+  "title": "MapLarge",
+  "link": "http://maplarge.com/api",
+  "image": "http://maplarge.com/sites/default/files/maplargelogo3_0.png",
+  "author": {
+    "name": "MapLarge"
+  },
+  "tags": [
+    "Interactive",
+    "Website",
+    "Developement"
+  ],
+  "description": "MapLarge offers an API to embed interactive maps on your website, blog or news story. Web editors can save months of development time. Installation only requires a few lines of code. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "guardly-platform",
+  "title": "Guardly Platform",
+  "link": "https://www.guardly.com/technology/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgjxA5Fw-PKDdoavDMQjoUDVAp0uIHC7p5qZ1xM69zm0jwz9Fm0Q",
+  "author": {
+    "name": "Guardly"
+  },
+  "tags": [
+    "Software",
+    "Integrate",
+    "Response",
+    "Service"
+  ],
+  "description": "The Guardly API is an ideal solution for hardware and software providers aiming to integrate a robust emergency response notification and collaboration platform into their own products and services."
+}

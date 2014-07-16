@@ -1,0 +1,16 @@
+{
+  "id": "goodzer",
+  "title": "Goodzer",
+  "link": "http://developer.goodzer.com/",
+  "image": "http://developer.goodzer.com/static/img/developer/splash.jpg",
+  "author": {
+    "name": "Goodzer"
+  },
+  "tags": [
+    "Included",
+    "Parameter",
+    "Subject",
+    ""
+  ],
+  "description": "To begin using the Goodzer API, first you need to sign up for an API key. It is free and will take only a couple of minutes. Your API key must be included in every API request as a query parameter named apiKey. The usage of the API is subject to daily limits."
+}

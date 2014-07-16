@@ -1,0 +1,16 @@
+{
+  "id": "editme",
+  "title": "EditMe",
+  "link": "http://wiki.editme.com/JavaScriptAPI",
+  "image": "http://wiki.editme.com/files/WikiCSS/wiki_header.jpg",
+  "author": {
+    "name": "EditMe"
+  },
+  "tags": [
+    "Listing",
+    "Comments",
+    "Login",
+    "Users"
+  ],
+  "description": "EditMe's Layouts and Scripted Pages use a combination of layout commands and JavaScript to provide dynamic behavior, such as listing the comments on a page, or only showing a login form for anonymous users."
+}

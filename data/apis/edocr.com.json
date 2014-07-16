@@ -1,0 +1,15 @@
+{
+  "id": "edocr.com",
+  "title": "edocr.com",
+  "link": "http://www.edocr.com/api/documentation/methods-need-authorization",
+  "image": "http://www.edocr.com/sites/www.edocr.com/themes/edocr/images/header/new-logo.png",
+  "author": {
+    "name": "edocr"
+  },
+  "tags": [
+    "Develop",
+    "Public",
+    "Hootsuite"
+  ],
+  "description": "edocr.com has a public API allowing any third parties to develop applications. Applications developed by third parties using edocr API includes, Tweetdoc by Martin Rue, and Hootsuite by Cazoomi, Inc. "
+}

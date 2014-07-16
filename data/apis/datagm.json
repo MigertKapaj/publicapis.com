@@ -1,0 +1,15 @@
+{
+  "id": "datagm",
+  "title": "DataGM",
+  "link": "http://datagm.org.uk/accessibility",
+  "image": "http://datagm.org.uk/logo.png",
+  "author": {
+    "name": "DataGM"
+  },
+  "tags": [
+    "Public",
+    "Release",
+    "Data"
+  ],
+  "description": "DataGM has been created by public sector organisations in Greater Manchester, to release and bring together in one place as much data as possible."
+}

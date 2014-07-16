@@ -1,0 +1,15 @@
+{
+  "id": "streamster",
+  "title": "Streamster",
+  "link": "http://www.agea.com/index.ncre?page=api",
+  "image": "http://www.agea.com/images/ENG_logo.png",
+  "author": {
+    "name": "AGEA"
+  },
+  "tags": [
+    "Describe",
+    "Data",
+    "Positions"
+  ],
+  "description": "The pages referenced below describe how to use the Streamster API to create applications that interface with the Streamster trading platform. Applications using the Streamster API can retrieve various data from the platform, execute and modify orders and positions, and perform a variety of related actions. "
+}

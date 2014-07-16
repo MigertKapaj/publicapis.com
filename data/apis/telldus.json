@@ -1,0 +1,13 @@
+{
+  "id": "telldus",
+  "title": "Telldus",
+  "link": "https://www.mashape.com/warting/telldus",
+  "image": "",
+  "author": {
+    "name": "warting"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This is the telldus API to manage your tellstick live device to manage your devices and turn on and off lights from the web."
+}

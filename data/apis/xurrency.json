@@ -1,0 +1,16 @@
+{
+  "id": "xurrency",
+  "title": "Xurrency",
+  "link": "http://xurrency.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTYnVL_JK_xRvtUu4pFUtGqdEkAQiV2BUDOf-4OnCZVMonTC-GE",
+  "author": {
+    "name": "Xurrency"
+  },
+  "tags": [
+    "Developers",
+    "Access",
+    "Integrate",
+    "Data"
+  ],
+  "description": "Xurrency provides developers with direct access to exchange rate information. Now you can integrate the data into your site directly from Xurrency or allow people to query the exchange rate. The API is based in JSON, a simple machine-readable data-interchange format."
+}

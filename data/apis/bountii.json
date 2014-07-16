@@ -1,0 +1,17 @@
+{
+  "id": "bountii",
+  "title": "Bountii",
+  "link": "https://bountii.com/apidocs.php",
+  "image": "https://bountii.com/images/blogo_v2_nobg5.png",
+  "author": {
+    "name": "Bountii"
+  },
+  "tags": [
+    "Developers",
+    "Informations",
+    "Internet",
+    "Widgets",
+    "Mashups"
+  ],
+  "description": "The Bountii API allows developers to query our index of pricing information on electronics from top internet retailers and incorporate the results into their applications, widgets and mashups. Below, you'll find documentation and sample code to help you begin using the Bountii API."
+}

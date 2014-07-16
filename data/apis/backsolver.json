@@ -1,0 +1,16 @@
+{
+  "id": "backsolver",
+  "title": "BackSolver",
+  "link": "http://doc.backsolver.com/api/index.html",
+  "image": "",
+  "author": {
+    "name": "BackSolver"
+  },
+  "tags": [
+    "Problems",
+    "Computation",
+    "Retrieve",
+    "Solultion"
+  ],
+  "description": "This APIs set is used to submit problems to BackSolver, to check computation status and to retrieve the solutions."
+}

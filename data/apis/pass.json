@@ -1,0 +1,16 @@
+{
+  "id": "pass",
+  "title": "PaSS",
+  "link": "http://www.ibt4im.com/?guid=20040331142828",
+  "image": "",
+  "author": {
+    "name": "iBLOGthere4iM"
+  },
+  "tags": [
+    "Abstract",
+    "Comments",
+    "Introduce",
+    "Receive"
+  ],
+  "description": "Here's the WSDL, C# and an abstract implementation w/ documentation for PaSSAPI. This is a Request For Comments in order to first introduce and receive feedback for making this a great API."
+}

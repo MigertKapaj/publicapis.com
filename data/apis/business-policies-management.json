@@ -1,0 +1,16 @@
+{
+  "id": "business-policies-management",
+  "title": " Business Policies Management",
+  "link": "http://developer.ebay.com/Devzone/business-policies/CallRef/index.html",
+  "image": "http://developer.ebay.com/Devzone/business-policies/assets/eBayDevLogo_sm.gif",
+  "author": {
+    "name": "eBay "
+  },
+  "tags": [
+    "Reference",
+    "Elements",
+    "Business",
+    "Policy"
+  ],
+  "description": "This API Reference describes the elements and attributes for each call in the Business Policies Management API.\n"
+}

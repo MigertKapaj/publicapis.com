@@ -1,0 +1,15 @@
+{
+  "id": "the-figo",
+  "title": "The figo",
+  "link": "http://developer.figo.me/",
+  "image": "http://figo.me/wp-content/uploads/2013/05/figo_logo.jpg?59ac40",
+  "author": {
+    "name": "figo"
+  },
+  "tags": [
+    "Access",
+    "Registered",
+    "Generate"
+  ],
+  "description": "Applications that want to access the figo Connect must be registered beforehand. If you’d like to create a partner application, please email us. We will generate a client identifier and client secret for your application."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "sogou",
+  "title": "Sogou",
+  "link": "http://apihome.sogou.com/english/index_en.jsp",
+  "image": "http://apihome.sogou.com/images/logo.jpg",
+  "author": {
+    "name": "Sogou"
+  },
+  "tags": [
+    "Interface",
+    "Service",
+    "Developers"
+  ],
+  "description": "API is the English abbreviation of Application Programming Interface. Sogou Search Marketing Service API is an open platform with an arrange of APIs, allowing developers to interact with Sogou servers directly by calling API."
+}

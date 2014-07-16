@@ -1,0 +1,15 @@
+{
+  "id": "nsidc",
+  "title": "NSIDC",
+  "link": "http://nsidc.org/data/atlas/ogc_services.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR6ubt6H8xLX6zCioB673FFmInb8JWqz17I3PPFSKPaHk3KRDUe",
+  "author": {
+    "name": "NSIDC"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Available"
+  ],
+  "description": "NSIDC offers a series of Application Programming Interfaces (APIs) that allow programmers to build NSIDC data and metadata services into their applications. Thus, the following tables list the APIs available from NSIDC."
+}

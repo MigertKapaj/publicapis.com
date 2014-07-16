@@ -1,0 +1,14 @@
+{
+  "id": "open-game",
+  "title": "Open Game",
+  "link": "http://opengamedatabase.com/api/videogame-prefix.htm",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT67MFu2Tu3h-qNlEoLm-Uxzh0dAfDCXD-ZmbIWf7G43i8hCg0UjQ",
+  "author": {
+    "name": "Open Game"
+  },
+  "tags": [
+    "Developers",
+    "Details"
+  ],
+  "description": "The API allows application developers to download details about thousands of games on our database."
+}

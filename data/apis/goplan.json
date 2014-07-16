@@ -1,0 +1,15 @@
+{
+  "id": "goplan",
+  "title": "Goplan",
+  "link": "http://goplanapp.com",
+  "image": "http://assets1.goplanapp.com/images/homepage/logo_small.png",
+  "author": {
+    "name": "Goplan"
+  },
+  "tags": [
+    "Projects",
+    "Securely",
+    "Interface"
+  ],
+  "description": "Goplan lets you keep track of your projects and collaborate with your colleagues securely through an intuitive user interface."
+}

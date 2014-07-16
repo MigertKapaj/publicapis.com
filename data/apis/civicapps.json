@@ -1,0 +1,15 @@
+{
+  "id": "civicapps",
+  "title": "CivicApps",
+  "link": "http://api.civicapps.org/",
+  "image": "",
+  "author": {
+    "name": "CivicApps"
+  },
+  "tags": [
+    "Datasets",
+    "Website",
+    "Developers"
+  ],
+  "description": "The CivicApps API makes a variety of datasets, available through the CivicApps website, easily accessible to developers."
+}

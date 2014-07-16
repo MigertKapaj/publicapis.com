@@ -1,0 +1,15 @@
+{
+  "id": "ridepsta-api",
+  "title": "RidePSTA API",
+  "link": "http://www.psta.net/developers/ridepsta_API.php",
+  "image": "http://www.psta.net/images/RidePSTA-API-1.jpg",
+  "author": {
+    "name": "PSTA Developer Resources"
+  },
+  "tags": [
+    "Developer",
+    "Incorporate",
+    "InformationOnline"
+  ],
+  "description": "The API makes it easy for developers to get specific information from RidePSTA.net to incorporate estimated arrivals and location information into innovative apps--mobile, online, or at locations."
+}

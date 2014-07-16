@@ -1,0 +1,16 @@
+{
+  "id": "securesocial",
+  "title": "Securesocial",
+  "link": "https://service.securesocial.net/api",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcREG9yTcg-u44PAO027knNGGkLfVOXCK56hYBMJJVWh-k7Ca6ZX",
+  "author": {
+    "name": "Securesocial"
+  },
+  "tags": [
+    "Service",
+    "Designed",
+    "Extensible",
+    "Developers"
+  ],
+  "description": "SecureSocial.net service is designed to be easily extensible by third-party developers. There are two levels where this can be done - Platform and App."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "single-sign-on",
+  "title": "Single Sign-On",
+  "link": "http://support.google.com/a/bin/answer.py?hl=en&answer=60224",
+  "image": "https://ssl.gstatic.com/gb/images/v1_b444d4f7.png",
+  "author": {
+    "name": "Google Apps"
+  },
+  "tags": [
+    "Business",
+    "Education",
+    "Redirect",
+    "Networking protocol"
+  ],
+  "description": "Google Apps offers a Single Sign-On (SSO) service to customers using Google Apps for Business, Education, or ISPs. SSO lets users access all of their Google Apps (including the Admin console) after signing in to an SSO sign-in page just once. Google redirects users to the SSO sign-in page when they try to sign in to the Admin console or another Google service. Google provides a SAML-based SSO API that you can use to integrate into your LDAP, or other SSO system. LDAP (Lightweight Directory Access \nProtocol) is a networking protocol for querying and modifying directory services running over TCP/IP."
+}

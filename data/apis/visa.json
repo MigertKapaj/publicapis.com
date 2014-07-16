@@ -1,0 +1,15 @@
+{
+  "id": "visa",
+  "title": "Visa",
+  "link": "https://developer.visa.com/#var",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY1eD4-mSjpegUQYx465NI0x5Xj1-J7ZueRTT6BGEyxtYb8W-Y",
+  "author": {
+    "name": "Visa"
+  },
+  "tags": [
+    "Online",
+    "Service",
+    "Participating"
+  ],
+  "description": "The Visa Developer Program is an online resource center for developers to integrate with Visa’s various web services. Developers must register with the program before applying and participating in the Visa Global ATM Locator API. During registration, you will choose an email address as your username as well as a password."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "highstock",
+  "title": "Highstock",
+  "link": "http://api.highcharts.com/highstock",
+  "image": "http://api.highcharts.com/resources/images/Highcharts-icon-160px.png",
+  "author": {
+    "name": "Highstock"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

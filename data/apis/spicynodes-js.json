@@ -1,0 +1,15 @@
+{
+  "id": "spicynodes-js",
+  "title": "Spicynodes JS",
+  "link": "http://www.spicynodes.org/developers-js.html",
+  "image": "http://www.spicynodes.org/interface/screen/images/spicynodes_logo.gif",
+  "author": {
+    "name": "Spicynodes"
+  },
+  "tags": [
+    "Contained",
+    "Object",
+    "Importantly"
+  ],
+  "description": "Everything is contained in one file (packed version about 10k). After including it on page new Javascript object becomes available – Spicynodes, which most importantly is used as a container for nodes."
+}

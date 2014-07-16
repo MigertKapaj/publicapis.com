@@ -1,0 +1,16 @@
+{
+  "id": "the-ean",
+  "title": " The EAN",
+  "link": "http://developer.ean.com/",
+  "image": "http://developer.ean.com/assets/img/logo@2x.png",
+  "author": {
+    "name": "Expedia"
+  },
+  "tags": [
+    "Business",
+    "Control",
+    "Brand",
+    "Template"
+  ],
+  "description": "Organize and style content to suit your own business modelFull design control and the ability to brand content as your ownBuild a site that is fully API-dependent or a combination of API and pre-programmed affiliate template pages"
+}

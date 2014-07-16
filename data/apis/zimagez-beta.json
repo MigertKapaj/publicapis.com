@@ -1,0 +1,15 @@
+{
+  "id": "zimagez-beta",
+  "title": "ZimageZ Beta",
+  "link": "http://www.zimagez.com/api.php",
+  "image": "http://www.zimagez.com/images/logo-beta.gif",
+  "author": {
+    "name": "ZimageZ Beta"
+  },
+  "tags": [
+    "Permettre",
+    "Propres",
+    "Utilisant"
+  ],
+  "description": "Afin de permettre aux développeurs de créer leurs propres applications utilisant la technologie ZimageZ. ZimageZ met à dispositions un API XML-RPC."
+}

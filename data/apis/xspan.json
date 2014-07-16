@@ -1,0 +1,15 @@
+{
+  "id": "xspan",
+  "title": "XSPAN",
+  "link": "http://www.xspan.org/interfaces.html",
+  "image": "http://www.xspan.org/index_files/xspan.jpg",
+  "author": {
+    "name": "XSPAN"
+  },
+  "tags": [
+    "Services",
+    "Access",
+    "Displayed"
+  ],
+  "description": "The XSPAN GUI is at the centre of the services provided by the XSPAN Project. The WebService used by the GUI to access the databse is also made available for use by third parties. Details of the WebService and a full list of the ontologies displayed are available on the web site."
+}

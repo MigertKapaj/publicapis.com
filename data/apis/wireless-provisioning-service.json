@@ -1,0 +1,14 @@
+{
+  "id": "wireless-provisioning-service",
+  "title": "Wireless Provisioning Service",
+  "link": "http://msdn.microsoft.com/en-us/library/ms940173(v=winembedded.5).aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Service",
+    "Private"
+  ],
+  "description": "The Wireless Provisioning Service (WPS) API allows you to add a wireless profile to the wireless preferred list for private networks that do not provide a subscription service."
+}

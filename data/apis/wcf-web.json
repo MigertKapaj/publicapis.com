@@ -1,0 +1,15 @@
+{
+  "id": "wcf-web",
+  "title": "WCF Web",
+  "link": "http://wcf.codeplex.com/wikipage?title=WCF%20HTTP",
+  "image": "http://download-codeplex.sec.s-msft.com/Download?ProjectName=wcf&DownloadId=156977&Build=20885",
+  "author": {
+    "name": "CodePlex"
+  },
+  "tags": [
+    "Social service",
+    "Desktop applications",
+    "Infrastructure"
+  ],
+  "description": "Applications are continually evolving to expose their functionality over the web for example social services likeFlickr, Twitter andFacebook. Aside from social applications, organizations are also looking to surface their core enterprise business functionality to an ever expanding array of client platforms. WCF Web API allows developers to expose their applications, data and services to the web directly over HTTP. This allows developers to fully harness the richness of the HTTP as an application layer protocol. Applications can communicate with a very broad set of clients whether they be browsers, mobile devices, desktop applications or other backend services. They can also take advantage of the caching and proxy infrastructure of the web through providing proper control and entity headers. We are designing specifically to support applications built with a RESTful architecture style though it does not force developers to use REST. The benefits of REST for your applications include discoverability, evolvability and scalability."
+}

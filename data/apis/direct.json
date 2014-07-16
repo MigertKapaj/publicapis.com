@@ -1,0 +1,15 @@
+{
+  "id": "direct",
+  "title": "Direct",
+  "link": "http://api.yandex.com/direct/doc/concepts/JSON.xml",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3DngKXlxGhX8MbX-007X-A0taahawi488QRQ9P9O1oCgmiEb4",
+  "author": {
+    "name": "Yandex"
+  },
+  "tags": [
+    "Service",
+    "Describes",
+    "Campaigns"
+  ],
+  "description": "This document describes the programming interface of the Yandex.Direct service (further referred to as “the API”). External applications use the API to add and edit campaigns, ads and phrases, set bids, and get impression statistics."
+}

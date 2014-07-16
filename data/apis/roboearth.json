@@ -1,0 +1,15 @@
+{
+  "id": "roboearth",
+  "title": "RoboEarth",
+  "link": "http://api.roboearth.org/documentation/dev",
+  "image": "http://api.roboearth.org/img/RoboEarth.org_logo.png",
+  "author": {
+    "name": "RoboEarth"
+  },
+  "tags": [
+    "Description",
+    "Version",
+    "Data"
+  ],
+  "description": "This is a short description of the REST-style API of the RoboEarth development version. You need an RoboEarth Account to use the API, except for Downloading existing data. "
+}

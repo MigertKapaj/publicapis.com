@@ -1,0 +1,16 @@
+{
+  "id": "the-web",
+  "title": "The Web",
+  "link": "https://jscrambler.com/en/help/webapi/documentation",
+  "image": "https://jscrambler.com/jscrambler-3.5/img/logo.png",
+  "author": {
+    "name": "JScrambler"
+  },
+  "tags": [
+    "Necessary",
+    "Obfuscation",
+    "Project",
+    "Necessary"
+  ],
+  "description": "The Web API offers all the necessary functionality to request for JavaScript project obfuscation, delete projects, download obfuscated projects and get the information necessary to manage all your obfuscated project versions."
+}

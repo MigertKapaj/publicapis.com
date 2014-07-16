@@ -1,0 +1,15 @@
+{
+  "id": "crowdin",
+  "title": "Crowdin",
+  "link": "https://crowdin.net/page/api/authentication",
+  "image": "https://d1ztvzf22lmr1j.cloudfront.net/images/crowdin-logo.png",
+  "author": {
+    "name": "Crowdin"
+  },
+  "tags": [
+    "Started",
+    "Project",
+    "Management"
+  ],
+  "description": "The pages below give all the information needed to get started with Crowdin API. There is documentation with examples of project, file, workflow management and other using simple REST calls. "
+}

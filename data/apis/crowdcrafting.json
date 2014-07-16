@@ -1,0 +1,15 @@
+{
+  "id": "crowdcrafting",
+  "title": "crowdcrafting",
+  "link": "http://crowdcrafting.org/help/api",
+  "image": "http://crowdcrafting.org/static/img/logo.png",
+  "author": {
+    "name": "crowdcrafting"
+  },
+  "tags": [
+    "Source",
+    "General",
+    "Version"
+  ],
+  "description": "crowdcrafting uses the free and open source framework PyBossa which is released under the GNU Affero general public license version 3.0. "
+}

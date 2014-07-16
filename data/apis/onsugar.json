@@ -1,0 +1,13 @@
+{
+  "id": "onsugar",
+  "title": "OnSugar",
+  "link": "http://www.onsugar.com/api/doc",
+  "image": "",
+  "author": {
+    "name": "OnSugar"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Fetching content from OnSugar is easy: just append the API call to http://[sitename].onsugar.com/ and you'll get a structured version of your content in either JSON or XML. When using JSON the output will be sent as a Javascript object assigned to a variable named onsugar_api. To access private methods you will need to authenticate your request by posting two additional arguments - login and password. Additionally, POST methods take an optional parameter callback which will return the response in either XML or JSON."
+}

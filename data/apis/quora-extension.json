@@ -1,0 +1,16 @@
+{
+  "id": "quora-extension",
+  "title": "Quora Extension",
+  "link": "http://www.quora.com/Edmond-Lau/Slipping-into-Reverie/Quora-Extension-API",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1s1VSvfkc20yTW89TCu_PbyUXegbh7yY69Yk7XuXvA0tunXmD",
+  "author": {
+    "name": "Quora"
+  },
+  "tags": [
+    "Tools",
+    "Engagement",
+    "Chrome",
+    "Firefox"
+  ],
+  "description": "We're happy that Quora users are building tools to improve engagement with the site.  Recently, Andrew Brown released a Quora Chrome extension, and Jason Wiener released a Quora Firefox extension soon afterwards.  To support these extension-building efforts."
+}

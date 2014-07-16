@@ -1,0 +1,15 @@
+{
+  "id": "camera",
+  "title": "Camera+",
+  "link": "http://api.camerapl.us/",
+  "image": "http://campl.us/static/api/headerlogo.png",
+  "author": {
+    "name": "Camera+"
+  },
+  "tags": [
+    "Several",
+    "Integrate",
+    "Services"
+  ],
+  "description": "With several million users around the world, Camera+ is one of the most popular apps ever. And now you can integrate Camera+ functionality right into your apps and web services with our comprehensive APIs."
+}

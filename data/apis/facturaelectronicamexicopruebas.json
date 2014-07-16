@@ -1,0 +1,13 @@
+{
+  "id": "facturaelectronicamexicopruebas",
+  "title": "FacturaElectronicaMexicoPruebas",
+  "link": "https://www.mashape.com/socializando/facturaelectronicamexicopruebas",
+  "image": "",
+  "author": {
+    "name": "socializando"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Obtén todos los servicios relacionados con la factura electrónica mexicana, desde comprar facturas, realizar facturación, revender facturas, validar las mismas, etc.\r\n\r\nNota: este Api es de prueba utilízalo para desarrollar cuando ya lo tengas funcionando, deberás utilizar el otro Api (Producción) para comenzar a facturar."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mapfluence",
+  "title": "Mapfluence",
+  "link": "http://developer.urbanmapping.com/",
+  "image": "http://developer.mapfluence.com/images/umi_dev_center.png",
+  "author": {
+    "name": "Urban Mapping Developing Centre"
+  },
+  "tags": [
+    "Geospatial",
+    "Data",
+    "Queried",
+    "Map"
+  ],
+  "description": "Mapfluence is a geospatial platform. It hosts curated data that can be queried spatially, and serves custom map tiles that can be incorporated into any web (or non-web) application."
+}

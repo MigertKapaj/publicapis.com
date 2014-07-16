@@ -1,0 +1,16 @@
+{
+  "id": "enthuse",
+  "title": "Enthuse",
+  "link": "http://enthu.se/sports.html",
+  "image": "http://www.enthuse.com/sportsv2/img/header_logo.png",
+  "author": {
+    "name": "Enthuse"
+  },
+  "tags": [
+    "Starts",
+    "Tools",
+    "Power",
+    "Fan"
+  ],
+  "description": "Stats, scores, and schedules are a good start, but your fans deserve more!  Our API tools and SDK make it easy for you to power your app with points for fan engagement & to offer rewards.\n                                                \n                                        \n                                \n                        \n                        \n                                "
+}

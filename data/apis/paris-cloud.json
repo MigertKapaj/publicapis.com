@@ -1,0 +1,16 @@
+{
+  "id": "paris-cloud",
+  "title": "Paris Cloud",
+  "link": "http://www.integrapark.com/Whats_NewB.htm",
+  "image": "http://www.integrapark.com/graphics/header.jpg",
+  "author": {
+    "name": "IntegraPark"
+  },
+  "tags": [
+    "Information",
+    "Developers",
+    "Retrieve",
+    "Service"
+  ],
+  "description": "PARIS can now automatically store monthly parker information to a cloud service, so that developers of mobile applications can retrieve this information using Permit Number or License Plate and a free programming interface."
+}

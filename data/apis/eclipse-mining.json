@@ -1,0 +1,16 @@
+{
+  "id": "eclipse-mining",
+  "title": "Eclipse Mining",
+  "link": "https://eclipsemc.com/api_info.php",
+  "image": "https://eclipsemc.com/eps/images/logo.png",
+  "author": {
+    "name": "Eclipse Mining"
+  },
+  "tags": [
+    "Generated",
+    "Password",
+    "Account",
+    "Secure"
+  ],
+  "description": "Your API key is randomly generated when you create your account and can be viewed from the Account page. However, if you wish to change your API key, you may do so from the same page. While you can change the key to anything you want, you should treat your API key like a password, as anyone with that key will be able to view information about your account, workers and various pool statistics. Choosing a secure API key and keeping it secret is important."
+}

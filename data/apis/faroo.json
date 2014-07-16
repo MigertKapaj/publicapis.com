@@ -1,0 +1,16 @@
+{
+  "id": "faroo",
+  "title": "FAROO",
+  "link": "http://www.faroo.com/hp/api/api.html#json",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRSoFBrJObR4CJOg0aMI1nFzBtd_Jud0s11_esvRY2dwpmraai-",
+  "author": {
+    "name": "FAROO"
+  },
+  "tags": [
+    "Clipping",
+    "Reputation",
+    "Detection",
+    "Search"
+  ],
+  "description": "Build your own mobile news & search app, news clipping, trend monitoring, competitive intelligence, reputation management, brand monitoring, search engine optimization, plagiarism detection, alternative search engine, research project and more! Materialize & test your idea in weeks instead of years."
+}

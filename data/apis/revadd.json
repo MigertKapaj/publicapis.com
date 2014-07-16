@@ -1,0 +1,15 @@
+{
+  "id": "revadd",
+  "title": "revAdd",
+  "link": "http://revadd.com/developers",
+  "image": "http://revadd.com/public/images/site/revAdd.jpg",
+  "author": {
+    "name": "revAdd"
+  },
+  "tags": [
+    "Developer",
+    "Integrate",
+    "Designed"
+  ],
+  "description": "revAdd aims to make life easy for developers. We've all spent hours poring through documentation trying to figure out how to integrate with a 3rd party API. Thatâ€™s why we designed our RESTful API to be super simple to use."
+}

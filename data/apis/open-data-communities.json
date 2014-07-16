@@ -1,0 +1,14 @@
+{
+  "id": "open-data-communities",
+  "title": "Open Data Communities",
+  "link": "http://opendatacommunities.org/docs",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQA2sVX16vRnwWeneuOJSg5990CIRxz28B9S_PF7ifi99ArGPiFsw",
+  "author": {
+    "name": "Open Data Communities"
+  },
+  "tags": [
+    "Production",
+    "Compatible"
+  ],
+  "description": "This page describes the current version of our production API, which was deployed on 26th of June 2013. This release included only backward-compatible changes. See our Change Log for more details of what changed."
+}

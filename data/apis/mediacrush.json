@@ -1,0 +1,16 @@
+{
+  "id": "mediacrush",
+  "title": "MediaCrush",
+  "link": "https://mediacru.sh/docs/API",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRInABpWYFUzqrXgrGSYw1V1xxrwjDxEmxuZN6HeoZ-UV6gsi-rCA",
+  "author": {
+    "name": "Mediacrush"
+  },
+  "tags": [
+    "Developer",
+    "Retrieve",
+    "Server",
+    "Donation"
+  ],
+  "description": "MediaCrush offers a free API to developers that allows you to upload media and retrieve information on files on our servers. This API is completely free, but we appreciate a donation if you plan to use it, since we don't get any ad views from API users. We would also appreciate a donation if you hotlink to us often."
+}

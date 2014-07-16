@@ -1,0 +1,15 @@
+{
+  "id": "buzzboot",
+  "title": "Buzzboot",
+  "link": "http://www.buzzboot.cz/en/buzzboot-api/",
+  "image": "http://www.buzzboot.cz/i/Buzzboot-logow-s.png",
+  "author": {
+    "name": "Buzzboot"
+  },
+  "tags": [
+    "Data",
+    "Designed",
+    "Implementation"
+  ],
+  "description": "Thanks to our application programming interface (API) you can maximize data mining extraction. The Buzzboot API has been designed with an emphasis on easy implementation and part of that is its clear and understandable documentation. "
+}

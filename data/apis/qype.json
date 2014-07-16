@@ -1,0 +1,16 @@
+{
+  "id": "qype",
+  "title": "Qype",
+  "link": "http://apidocs.qype.com/authentication_overview",
+  "image": "",
+  "author": {
+    "name": "Qype"
+  },
+  "tags": [
+    "Access",
+    "Verified",
+    "Receive",
+    "Accessing"
+  ],
+  "description": "The Qype API provides access to the core functionality of Qype. To use the API you need to have a verified Qype account and register your application. You can register multiple applications and for each of them you will receive a API consumer key for accessing the API resources. "
+}

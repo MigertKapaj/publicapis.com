@@ -1,0 +1,15 @@
+{
+  "id": "tiny-geocoder",
+  "title": "Tiny Geocoder",
+  "link": "http://tinygeocoder.com",
+  "image": "http://tinygeocoder.com/images/logo3.png",
+  "author": {
+    "name": "Tiny Geocoder"
+  },
+  "tags": [
+    "Simple",
+    "Painless",
+    "nameable."
+  ],
+  "description": "Tiny GeoCoder exists to make geocoding and reverse-geocoding simple and painless. It does both with a simple call to a URL. What’s returned is either a comma delimited (good for use in Google Maps as-is) latitude/longitude pair. If you’re reverse-geocoding it will take a set of lat/long coordinates and return the closest nameable point "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "citysdk",
+  "title": "CitySDK",
+  "link": "http://citysdk.waag.org/",
+  "image": "http://citysdk.waag.org/img/citysdk.png",
+  "author": {
+    "name": "CitySDK"
+  },
+  "tags": [
+    "Data",
+    "Platform",
+    "Component"
+  ],
+  "description": "The CitySDK Linked Data API is a linked data distribution platform. Developed by Waag Society, the distribution API is a component of the CitySDK toolkit. "
+}

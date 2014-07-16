@@ -1,0 +1,15 @@
+{
+  "id": "carpoolworld",
+  "title": "Carpoolworld",
+  "link": "http://www.carpoolworld.com/documentation/trip_create.html",
+  "image": "http://www.carpoolworld.com/images/top_carpoolworld_logo.png",
+  "author": {
+    "name": "Carpoolworld"
+  },
+  "tags": [
+    "Engine",
+    "Developers",
+    "Potential"
+  ],
+  "description": "Carpoolworld brings people together for ridesharing, using a pioneering search engine that matches individuals based on their trip origins and destinations, anywhere on the planet. The Carpoolworld API gives developers access to the web site's essential functions to create trips, find matches, and contact potential travel partners. The API is developed using the RESTful style. Responses are formatted in XML."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pocketvillage",
+  "title": "pocketvillage",
+  "link": "http://blog.pocketvillage.com/api/",
+  "image": "http://blog.pocketvillage.com/wp-content/themes/pocketvillage/images/logo.png",
+  "author": {
+    "name": "pocketvillage"
+  },
+  "tags": [
+    "Provider",
+    "Services",
+    "Improve"
+  ],
+  "description": "pocketvillage is a technology solutions provider for the travel industry. Our services help you reach out to new customers, streamline your processes and improve your productivity."
+}

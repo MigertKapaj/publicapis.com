@@ -1,0 +1,13 @@
+{
+  "id": "placeengine",
+  "title": "PlaceEngine",
+  "link": "http://www.placeengine.com/doce/tutl",
+  "image": "http://www.placeengine.com/images/logo_placeengine.gif",
+  "author": {
+    "name": "PlaceEngine"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "we provide details on how to interface a local application running on a client device (not a web service) to PlaceEngine. Currently, we do not distribute libraries to provide this functionality. We will show code in this page in Java, but it should be straightforward and applicable to any other programming language. "
+}

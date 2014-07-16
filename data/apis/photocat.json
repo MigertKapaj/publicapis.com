@@ -1,0 +1,16 @@
+{
+  "id": "photocat",
+  "title": "\n        \n        \n          PhotoCat",
+  "link": "http://developers.photocat.com/",
+  "image": "http://source.photocat.com/api/images/logo_api.png",
+  "author": {
+    "name": "\n        \n        \n          PhotoCat"
+  },
+  "tags": [
+    "Editor",
+    "Portraits",
+    "Web",
+    "Free"
+  ],
+  "description": "PhotoCat is a fun all-in-one photo editor allowing users to easilyl edit their photos, enhance portraits, create collages and share their work. PhotoCat API enables Web developers to integrate PhotoCat into their own site, and it’s completely free to use our API."
+}

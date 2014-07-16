@@ -1,0 +1,15 @@
+{
+  "id": "strands-recommender",
+  "title": "Strands Recommender",
+  "link": "http://recommender.strands.com/developers/",
+  "image": "http://recommender.strands.com/wp-content/themes/strands_2013/images/logo.png",
+  "author": {
+    "name": "Resorces & How To"
+  },
+  "tags": [
+    "Configuration",
+    "Important",
+    "Interact"
+  ],
+  "description": "This document is a write up on the Strands Recommender Javascript Library configuration and usage. The library is intended to facilitate the integration of the recommender by automatically handling important concepts like the user management and by offering a broad set of functions to interact with the recommendations API. "
+}

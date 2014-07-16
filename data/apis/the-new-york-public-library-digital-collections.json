@@ -1,0 +1,15 @@
+{
+  "id": "the-new-york-public-library-digital-collections",
+  "title": "The New York Public Library Digital Collections",
+  "link": "http://api.repo.nypl.org/#api_params_doc",
+  "image": "",
+  "author": {
+    "name": "The New York Public Library Digital Collections"
+  },
+  "tags": [
+    "Amassed",
+    "Material",
+    "Covering"
+  ],
+  "description": "For more than a century, The New York Public Library has amassed an extraordinary trove of rare and unique material covering the full spectrum of recorded knowledge. "
+}

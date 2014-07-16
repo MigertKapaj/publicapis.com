@@ -1,0 +1,15 @@
+{
+  "id": "finding-api",
+  "title": "Finding API ",
+  "link": "https://www.x.com/developers/ebay/products/finding-api",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "eBay"
+  },
+  "tags": [
+    "Next Generation Finding platform",
+    "Buying Applications",
+    ""
+  ],
+  "description": "The Finding API enables developers to access eBay's next generation search capabilities. The Finding API enables developers to search for items using eBay's next generation Finding Platform. Buying applications can build search and browse experiences using the powerful search and search refinement capabilities offered by the Finding APIs."
+}

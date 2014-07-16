@@ -1,0 +1,13 @@
+{
+  "id": "infusionsoft",
+  "title": "Infusionsoft",
+  "link": "https://www.mashape.com/thedrake/infusionsoft",
+  "image": "",
+  "author": {
+    "name": "thedrake"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Connects to Infusionsoft Application"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tick",
+  "title": "Tick",
+  "link": "http://www.tickspot.com/api/",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQn141eBN8WTmzjIq_ccomZKBYIQn-DcNK88vjlJ5PLgiGEd7J_bg",
+  "author": {
+    "name": "Tick"
+  },
+  "tags": [
+    "Intended",
+    "Wishing",
+    "Online",
+    "Service"
+  ],
+  "description": "This document is intended for 3rd parties wishing to integrate their applications with Tick's online services."
+}

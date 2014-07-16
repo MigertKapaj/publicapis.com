@@ -1,0 +1,15 @@
+{
+  "id": "daxtra",
+  "title": "Daxtra",
+  "link": "http://cvx.daxtra.com/cvts/soap/index.html",
+  "image": "",
+  "author": {
+    "name": "Daxtra"
+  },
+  "tags": [
+    "Description",
+    "Provides",
+    "Processing"
+  ],
+  "description": "This document is a brief, informal description of the operations that this web service provides. They are mostly related to CV (resume) or vacancy (job order) document processing. "
+}

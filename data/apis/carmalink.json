@@ -1,0 +1,15 @@
+{
+  "id": "carmalink",
+  "title": "CarmaLink",
+  "link": "http://carmalink.com/developers",
+  "image": "http://static.squarespace.com/static/51cb5238e4b0f734d223b4e9/t/51fac429e4b0cc5aa44f6375/1395071943534/?format=400w",
+  "author": {
+    "name": "CarmaLink"
+  },
+  "tags": [
+    "Technology",
+    "Data",
+    "Desktop"
+  ],
+  "description": "CarmaLink.API is the fusion of cloud technology with our vehicle telematics hardware.  It allows for rapid integration of live vehicle data (driver behavior analytics, maintenance information, seatbelt usage, GPS data) into new or existing cloud, web, mobile or desktop applications."
+}

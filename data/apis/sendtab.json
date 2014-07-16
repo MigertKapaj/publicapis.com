@@ -1,0 +1,15 @@
+{
+  "id": "sendtab",
+  "title": "SendTab",
+  "link": "http://sendtab.com/api",
+  "image": "http://sendtab.com/images/LOGO.png",
+  "author": {
+    "name": "SendTab"
+  },
+  "tags": [
+    "Developer",
+    "Application",
+    "Simply"
+  ],
+  "description": "The super simple SendTab API allows developers to build SendTab functionality into third party applications. Send and receive tabs like a pro. SendTab uses a RESTful API style - to execute a command, simply load the appropriate URL."
+}

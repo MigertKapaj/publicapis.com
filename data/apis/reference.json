@@ -1,0 +1,15 @@
+{
+  "id": "reference",
+  "title": "Reference",
+  "link": "https://developers.google.com/chart/interactive/docs/reference",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Provides",
+    "Data",
+    "Website"
+  ],
+  "description": "Google Charts provides a perfect way to visualize data on your website. From simple line charts to complex hierarchical tree maps, the chart gallery provides a large number of ready-to-use chart types."
+}

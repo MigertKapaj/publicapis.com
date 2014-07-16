@@ -1,0 +1,15 @@
+{
+  "id": "appglu",
+  "title": "AppGlu",
+  "link": "http://appglu.com/platform/resources/",
+  "image": "http://appglu.com/wp-content/uploads/2014/03/AppGlu-logo-340x1561.png",
+  "author": {
+    "name": "AppGlu"
+  },
+  "tags": [
+    "Requiring",
+    "Development",
+    "Languages"
+  ],
+  "description": "AppGlu helps developers build apps faster and launch sooner… without requiring any new frameworks or proprietary development tools, or rearchitecting how your app is built. Unlike other mobile application development platforms, with AppGlu you have the freedom to continue using your favorite native development tools, languages and frameworks."
+}

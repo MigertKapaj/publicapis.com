@@ -1,0 +1,15 @@
+{
+  "id": "bankimport",
+  "title": "Bankimport",
+  "link": "https://www.bankimport.com/docs/rest_api",
+  "image": "https://www.bankimport.com/assets/logo_light-ed9967787be43abde78a25f036b32007.png",
+  "author": {
+    "name": "Bankimport"
+  },
+  "tags": [
+    "Direct",
+    "Access",
+    "Transactions"
+  ],
+  "description": "Use our REST API if you need direct access to all of your transactions, bank accounts and settings."
+}

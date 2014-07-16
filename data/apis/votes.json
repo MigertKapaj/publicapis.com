@@ -1,0 +1,16 @@
+{
+  "id": "votes",
+  "title": "Votes",
+  "link": "http://votesapi.com/documentation.aspx",
+  "image": "http://votesapi.com/images/logo_cutout.gif",
+  "author": {
+    "name": "Votes"
+  },
+  "tags": [
+    "Web",
+    "HTTP",
+    "SOAP messages",
+    "PHP"
+  ],
+  "description": "The API makes data available from a web service via standard Web protocols. These are SOAP, XML and HTTP. Consumers of the web service need not align platforms, object models or programming languages with the web service.  Accessing the service only requires the ability to send and receive SOAP messages (with HTTP and XML).  The sample code page describes interacting with the web service with PHP.\n        "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "twitter-counter",
+  "title": "Twitter Counter ",
+  "link": "http://twittercounter.com/pages/api",
+  "image": "http://www.programmableweb.com/images/apis/at1356.png",
+  "author": {
+    "name": "Twitter Counter "
+  },
+  "tags": [
+    "Rest",
+    "Retrieve",
+    "Certain"
+  ],
+  "description": "The Twitter Counter API allows you to retrieve everything Twitter Counter knows about a certain Twitter username. It uses a simple REST API"
+}

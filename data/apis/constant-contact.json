@@ -1,0 +1,15 @@
+{
+  "id": "constant-contact",
+  "title": "Constant Contact",
+  "link": "http://developer.constantcontact.com/",
+  "image": "http://imgssl.constantcontact.com/lp/images/standard/bv2/site/devportal/logo_developer.png",
+  "author": {
+    "name": "Constant Contact"
+  },
+  "tags": [
+    "Support",
+    "Optimized",
+    "Interchange"
+  ],
+  "description": "The Constant Contact API v2 is based on Representational State Transfer  (REST) design principles and supports JavaScript Object Notation (JSON)  data-interchange format in the payload and response. Our REST API is simple to use, direct and concise, lightweight and optimized. Using our APIs, you can link your application or website to Constant Contact without having your users log into Constant Contact."
+}

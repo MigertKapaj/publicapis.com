@@ -1,0 +1,15 @@
+{
+  "id": "itascan",
+  "title": "ItaScan",
+  "link": "http://api.itascan.info/",
+  "image": "",
+  "author": {
+    "name": "ItaScan"
+  },
+  "tags": [
+    "Informations",
+    "Images",
+    "Format"
+  ],
+  "description": "You can get all the informations of chapters, of manga and download the images in the zip format with our API. Every information is sent in JSON format."
+}

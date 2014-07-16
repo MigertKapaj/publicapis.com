@@ -1,0 +1,15 @@
+{
+  "id": "recaptcha",
+  "title": "reCAPTCHA",
+  "link": "https://developers.google.com/recaptcha/docs/mailhideapi",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Increasing",
+    "Websites",
+    "Designed"
+  ],
+  "description": "If your website displays the email address of your users, you may be increasing the amount of spam they get by allowing email harvesters to find a path to their inbox. Some websites use obfuscation methods such as \"johndoe at example dot com\", however many email harvesters have been designed to circumvent such tricks."
+}

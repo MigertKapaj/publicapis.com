@@ -1,0 +1,13 @@
+{
+  "id": "c24-validation-service",
+  "title": "C24 Validation Service",
+  "link": "https://www.mashape.com/c24-biz/c24-validation-service",
+  "image": "",
+  "author": {
+    "name": "c24.biz"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "With this API you can validate SWIFT message.\r\n\r\nSpecify the appropriate SWIFT Standard to use and the message to validate. You will get the validation result, and the eventual parsing or validation errors."
+}

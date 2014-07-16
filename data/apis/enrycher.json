@@ -1,0 +1,15 @@
+{
+  "id": "enrycher",
+  "title": "Enrycher",
+  "link": "http://ailab.ijs.si/tools/enrycher/",
+  "image": "http://ailab.ijs.si/wp-content/uploads/2011/04/Ai_200x42.png",
+  "author": {
+    "name": "AILab"
+  },
+  "tags": [
+    "Service",
+    "Processing",
+    "Document"
+  ],
+  "description": "Enrycher is a service-oriented system, providing shallow as well as deep text processing functionality at the text document level."
+}

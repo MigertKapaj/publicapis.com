@@ -1,0 +1,15 @@
+{
+  "id": "wpseek.com",
+  "title": "wpseek.com",
+  "link": "http://wpseek.com/api/",
+  "image": "",
+  "author": {
+    "name": "wpseek.com"
+  },
+  "tags": [
+    " Seaking",
+    "Package",
+    "Arguments"
+  ],
+  "description": "Generally speaking, you will send a method parameter expressed as 'package.method' along with method specific arguments to the URL http://api.wpseek.com/."
+}

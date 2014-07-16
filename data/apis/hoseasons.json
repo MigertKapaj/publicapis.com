@@ -1,0 +1,13 @@
+{
+  "id": "hoseasons",
+  "title": "hoseasons",
+  "link": "http://api.hoseasons.co.uk/HoseasonsAPI.asmx?op=Booking",
+  "image": "",
+  "author": {
+    "name": "hoseasons"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

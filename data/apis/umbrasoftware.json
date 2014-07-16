@@ -1,0 +1,16 @@
+{
+  "id": "umbrasoftware",
+  "title": "Umbrasoftware",
+  "link": "https://umbrasoftware.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0E5-EmndS2t86ZlW-P9YDbdxYsrPzkTxTLumHnDk-ihLAnlr1",
+  "author": {
+    "name": "Umbrasoftware"
+  },
+  "tags": [
+    "Technology",
+    "Culling",
+    "Rendering",
+    "Provides"
+  ],
+  "description": "Umbra Software Ltd. is a graphics software technology company founded in 2007 at good old, Helsinki, Finland. Umbra Software specializes in occlusion culling, visibility and rendering optimization technology and provides middleware for videogames running on console, PC and other hardware platforms."
+}

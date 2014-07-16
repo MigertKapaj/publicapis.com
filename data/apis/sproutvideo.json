@@ -1,0 +1,16 @@
+{
+  "id": "sproutvideo",
+  "title": "SproutVideo",
+  "link": "http://sproutvideo.com/docs/api.html",
+  "image": "http://c.sproutvideo.com/sproutvideo.jpeg",
+  "author": {
+    "name": "SproutVideo"
+  },
+  "tags": [
+    "Intrect",
+    "Upload",
+    "Video",
+    "Create"
+  ],
+  "description": "The SproutVideo API allows you to interact with your SproutVideo account with a RESTful API. With it, you can upload, list, modify, and delete videos, create, modify and delete tags, and create, modify, and delete playlists.\n"
+}

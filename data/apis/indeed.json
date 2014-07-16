@@ -1,0 +1,15 @@
+{
+  "id": "indeed",
+  "title": "Indeed",
+  "link": "http://www.indeed.com/jsp/apiinfo.jsp",
+  "image": "https://ads.indeed.com/jobroll/images/indeed.gif;jsessionid=0021FA8DE660847EBEF4670D76451111.pub_aus-web45",
+  "author": {
+    "name": "Indeed"
+  },
+  "tags": [
+    "Publisher",
+    "Solution",
+    "Enrolled"
+  ],
+  "description": "You may also use our publisher XML API to develop your own custom job search solutions. The XML feeds tab is activated upon request after you have enrolled in the publisher program."
+}

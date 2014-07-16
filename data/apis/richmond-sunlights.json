@@ -1,0 +1,15 @@
+{
+  "id": "richmond-sunlights",
+  "title": "Richmond Sunlight’s",
+  "link": "http://www.richmondsunlight.com/about/api/",
+  "image": "http://www.richmondsunlight.com/images/templates/new/richmond-sunlight-logo.gif.pagespeed.ce.2XSS6rwB-f.gif",
+  "author": {
+    "name": "Richmond Sunlight"
+  },
+  "tags": [
+    "Subscription",
+    "Address",
+    "Activate"
+  ],
+  "description": "There are four types of data that can be subscribed to on Richmond Sunlight using an aggregator. Links to activate these subscriptions are embedded within the page—your RSS reader should detect them. (If not, you can provide your RSS reader with the website address for the page to which you want to subscribe—e.g., a bill’s page or a legislator’s page—and it’ll figure it out.)"
+}

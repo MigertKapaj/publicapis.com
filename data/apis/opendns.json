@@ -1,0 +1,15 @@
+{
+  "id": "opendns",
+  "title": "OpenDNS",
+  "link": "http://baconfile.com/api/",
+  "image": "http://d295hzzivaok4k.cloudfront.net/wp-content/themes/opendns/img/logo-opendns.png?1384995988",
+  "author": {
+    "name": "OpenDNS"
+  },
+  "tags": [
+    "Networks",
+    "Connect",
+    "Internet"
+  ],
+  "description": "OpenDNS secures the networks used by more than 50 million people to connect to the Internet. Across all continents, in Fortune 50 enterprises and small businesses alike, at one in every three U.S. schools and hundreds of thousands of homes."
+}

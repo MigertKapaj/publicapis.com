@@ -1,0 +1,15 @@
+{
+  "id": "moodpanda",
+  "title": " MoodPanda",
+  "link": "http://www.moodpanda.com/api/",
+  "image": "http://www.moodpanda.com/images/v3/logo.png",
+  "author": {
+    "name": " MoodPanda"
+  },
+  "tags": [
+    "Beta",
+    "Communicate",
+    "Warning"
+  ],
+  "description": "We are really excited about this new feature, that we will be building upon for the foreseeable futureThe MoodPanda API is incomplete and in Beta, and features are currently very limited but we hope that there is enough to play with. Access to this API may be repealed at any time with no warning, but we will try to communicate fully if this is the case"
+}

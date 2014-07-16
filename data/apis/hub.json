@@ -1,0 +1,15 @@
+{
+  "id": "hub",
+  "title": "Hub",
+  "link": "https://api.hub.jhu.edu/docs",
+  "image": "",
+  "author": {
+    "name": "Hub"
+  },
+  "tags": [
+    "version",
+    "Option",
+    "String"
+  ],
+  "description": "All requests to the API are required to provide a version number. In the example above, the X-API-VERSION HTTP header was passed with the request, but this is not the only option. The same result can be achieved by using the v query string paramter."
+}

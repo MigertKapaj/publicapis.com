@@ -1,0 +1,15 @@
+{
+  "id": "geocode-dataflow",
+  "title": "Geocode Dataflow",
+  "link": "http://msdn.microsoft.com/en-us/library/ff701733.aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Data",
+    "Provides",
+    "Response"
+  ],
+  "description": "There are two versions of the input and output data schema for this API. The latest data schema (version 2.0) provides additional geocoding information in the response,"
+}

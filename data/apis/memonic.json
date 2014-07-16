@@ -1,0 +1,15 @@
+{
+  "id": "memonic",
+  "title": "Memonic",
+  "link": "http://www.memonic.com/developers/api/",
+  "image": "",
+  "author": {
+    "name": "Memonic"
+  },
+  "tags": [
+    "Access",
+    "Funcitionality",
+    "Non- commercial"
+  ],
+  "description": "We offer a REST API that provides access to some of the Memonic functionality. Using this API is completely free for non-commercial use."
+}

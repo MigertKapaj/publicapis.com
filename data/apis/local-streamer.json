@@ -1,0 +1,13 @@
+{
+  "id": "local-streamer",
+  "title": "Local Streamer",
+  "link": "https://www.mashape.com/orfeomorello/local-streamer",
+  "image": "",
+  "author": {
+    "name": "orfeomorello"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Localstreamer.com is a geolocation system that collects informations by searching facebook statuses and twitter updates. The system offers to the developers some free api to work with features in LBS (Location-Based Services)."
+}

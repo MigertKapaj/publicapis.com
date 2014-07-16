@@ -1,0 +1,15 @@
+{
+  "id": "gigulate",
+  "title": "Gigulate",
+  "link": "http://gigulate.com/api/",
+  "image": "http://gigulate.com/_images/logo.png",
+  "author": {
+    "name": "Gigulate"
+  },
+  "tags": [
+    "Data",
+    "Listings",
+    "App"
+  ],
+  "description": "Whatever you want to hack, Gigulate's huge wealth of data - hundreds of thousands of music news, blog posts and (UK for now) gig listings are all available for you to build into your next app."
+}

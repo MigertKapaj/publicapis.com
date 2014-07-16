@@ -1,0 +1,16 @@
+{
+  "id": "ad-server-solutions",
+  "title": "Ad Server Solutions",
+  "link": "http://adserversolutions.com/api/",
+  "image": "http://www.adservingsolutions.com/images/blast.gif",
+  "author": {
+    "name": "AdServer Solutions"
+  },
+  "tags": [
+    "Essential",
+    "Access",
+    "Data",
+    "Defined"
+  ],
+  "description": "Ad Server Solutions Advertising API \"Application Programming Interface\" is the essential gateway to the inner workings of the software. By using the advertising api, you can access delivery data, campaign data, advertiser data, forecasting algorithms, specific targeting as defined by key values, etc."
+}

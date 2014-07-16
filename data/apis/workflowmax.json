@@ -1,0 +1,16 @@
+{
+  "id": "workflowmax",
+  "title": "WorkflowMax",
+  "link": "http://www.workflowmax.com/api-overview.aspx",
+  "image": "http://www.workflowmax.com/images/2011/logo2.png",
+  "author": {
+    "name": "WorkflowMax"
+  },
+  "tags": [
+    "Organised",
+    "Resource",
+    "Specify",
+    "Perform"
+  ],
+  "description": "The WorkflowMax API is organised around RESTful principles - each resource has a unique URI and HTTP verbs are used to specify the action to perform on that resource."
+}

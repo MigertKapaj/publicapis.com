@@ -1,0 +1,16 @@
+{
+  "id": "ipernity",
+  "title": "ipernity",
+  "link": "http://www.ipernity.com/help/api/start.html",
+  "image": "http://s.ipernity.com/T/L/sprite.v2.main.png?v38725",
+  "author": {
+    "name": "ipernity"
+  },
+  "tags": [
+    "Designed",
+    "Imagination",
+    "Useful",
+    "Innovative"
+  ],
+  "description": "ipernity is designed to allow you to share all kinds of media. With the ipernity API you can put all the ipernity possibilities in your own web site or applications. Exercise your imagination and propose innovative and useful applications. You'll make the ipernitians happy! "
+}

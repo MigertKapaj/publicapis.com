@@ -1,0 +1,15 @@
+{
+  "id": "finotec",
+  "title": "Finotec",
+  "link": "https://www.finotec.com/api.php",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz5dXfldECxx8UVM_cnt7fbXuztCwCqjv9gVuiUqBAJfq-xyaI",
+  "author": {
+    "name": "Finotec"
+  },
+  "tags": [
+    "Aggregated",
+    "Connect",
+    "System"
+  ],
+  "description": "Get the whole aggregated liquidity by API with Finotec FIX API. You can connect any algorithmic trading system, or trading platform to ours."
+}

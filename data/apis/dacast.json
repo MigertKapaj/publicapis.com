@@ -1,0 +1,15 @@
+{
+  "id": "dacast",
+  "title": "DaCast",
+  "link": "http://www.dacast.com",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuO-EUdeuM8-8FLp2Wdtp9phsGnQkLMYeMrpUrQCB8Um4TJItE",
+  "author": {
+    "name": "DaCast"
+  },
+  "tags": [
+    "Service",
+    "Website",
+    "Technology"
+  ],
+  "description": "DaCast Streaming as a Service is a white label platform for streaming video content. Using our public APIs (Application Programming Interface), broadcasters can create dynamic interfaces on their website to control the video streaming technology or use the Player APIs to use your own player or a JW Player or Flowplayer."
+}

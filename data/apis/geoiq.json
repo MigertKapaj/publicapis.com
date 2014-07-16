@@ -1,0 +1,15 @@
+{
+  "id": "geoiq",
+  "title": "GeoIQ",
+  "link": "http://developer.geoiq.com/api/",
+  "image": "http://developer.geoiq.com/api/images/geoiq_developer_banner_logo.png",
+  "author": {
+    "name": "GeoIQ"
+  },
+  "tags": [
+    "Community",
+    "Developers",
+    "Specifice"
+  ],
+  "description": "GeoIQ is the engine that powers the GeoCommons Community.  GeoIQ includes a full Application Programming Interface (API) that allows developers to build unique and powerful domain specific applications. The API provides capability for uploading and download data, searching for data and maps, building, embedding, and theming maps or charts, as well as general user, group, and permissions management."
+}

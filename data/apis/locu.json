@@ -1,0 +1,16 @@
+{
+  "id": "locu",
+  "title": "Locu",
+  "link": "https://dev.locu.com/documentation/",
+  "image": "https://dev.locu.com/static/images/dev/poweredby-color@2x.png",
+  "author": {
+    "name": "Locu"
+  },
+  "tags": [
+    "Data",
+    "Widget",
+    "Business",
+    "Websites"
+  ],
+  "description": "Locu APIs are accessible through a RESTful interface, and all data is returned in JSON format.\nWe also offer a Widget API, for dynamically embedding clean, readable versions of our business information into websites and applications."
+}

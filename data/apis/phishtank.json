@@ -1,0 +1,16 @@
+{
+  "id": "phishtank",
+  "title": "Phishtank",
+  "link": "http://www.phishtank.com/developer_info.php",
+  "image": "http://www.phishtank.com/images/logo_with_tagline.gif",
+  "author": {
+    "name": "Phishtank"
+  },
+  "tags": [
+    "Data",
+    "Formats",
+    "Easy",
+    "Implement"
+  ],
+  "description": "The data is available in a variety of formats to make it as easy as possible for you to implement. We're always open to suggestions for additional formats we could provide, so if you have any thoughts."
+}

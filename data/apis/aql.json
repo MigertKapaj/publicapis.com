@@ -1,0 +1,15 @@
+{
+  "id": "aql",
+  "title": "aql",
+  "link": "http://www.aql.com/sms/network-lookup/developers/",
+  "image": "http://www.aql.com/images/logo.png",
+  "author": {
+    "name": "aql"
+  },
+  "tags": [
+    "Communication",
+    "Processes",
+    "Services"
+  ],
+  "description": "aql provide a wide variety of communication APIs to allow businesses to seamlessly intergrate their processes with the services we offer."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "macroglossa",
+  "title": "Macroglossa",
+  "link": "https://www.macroglossa.com/api.html",
+  "image": "https://www.macroglossa.com/image/macrologo_alpha.gif",
+  "author": {
+    "name": "Macroglossa"
+  },
+  "tags": [
+    "Developers",
+    "Technology",
+    "Obtain"
+  ],
+  "description": "Myglossa allows developers and users to test our visual recognition technology, giving the opportunity to load a set of small target images and make the comparison tests independently in order to assess and obtain any support or cooperation of the Macroglossa Staff to realize your idea and go in production!"
+}

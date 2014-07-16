@@ -1,0 +1,15 @@
+{
+  "id": "printful",
+  "title": "Printful",
+  "link": "https://www.theprintful.com/api",
+  "image": "https://www.theprintful.com/static/images/layout/logo.png",
+  "author": {
+    "name": "Printful"
+  },
+  "tags": [
+    "Communication",
+    "HTTP",
+    "POST"
+  ],
+  "description": "The Printful API is a RESTful API, that uses a HTTP protocol for communication. HTTP GET, POST, PUT and DELETE methods are used to access the API. "
+}

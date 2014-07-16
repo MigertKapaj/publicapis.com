@@ -1,0 +1,15 @@
+{
+  "id": "file-header",
+  "title": "File Header",
+  "link": "http://codex.wordpress.org/File_Header_API",
+  "image": "http://s.w.org/style/images/wp-header-logo.png?1",
+  "author": {
+    "name": "WordPress.org"
+  },
+  "tags": [
+    "Consists",
+    "Information",
+    "Concrete"
+  ],
+  "description": "The File Header API consists of all functions and hooks that are part of the WordPress API regarding the use of File Headers. In WordPress Themes and Plugins consist of one or more files of which one has (Drop-Ins, Must-Use-Plugins: can have) so called File Headers containing meta-information (Name, Version, Author, ...) regarding the concrete Theme or Plugin. "
+}

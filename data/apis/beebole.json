@@ -1,0 +1,15 @@
+{
+  "id": "beebole",
+  "title": "BeeBole",
+  "link": "http://beebole.com/api/",
+  "image": "http://beebole.com/img/sprites.png",
+  "author": {
+    "name": "BeeBole"
+  },
+  "tags": [
+    "Data",
+    "Integrate",
+    "Services"
+  ],
+  "description": "The goal of the API is to open the data associated with your account and give you the possibility to integrate with or to build custom applications (time entry gadget, reports, ...). The API provides a full set of services allowing you to create, update, list and delete time entries in your timesheet."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "brightkite",
+  "title": "Brightkite",
+  "link": "http://groups.google.com/group/brightkite-api",
+  "image": "https://ssl.gstatic.com/gb/images/v1_b444d4f7.png",
+  "author": {
+    "name": "Google"
+  },
+  "tags": [
+    "Folders",
+    "Favourites"
+  ],
+  "description": "Organise with favourites and folders, choose to follow along via email and find unread posts quickly. "
+}

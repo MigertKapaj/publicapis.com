@@ -1,0 +1,16 @@
+{
+  "id": "chebi",
+  "title": "ChEBI",
+  "link": "http://www.ebi.ac.uk/chebi/webServices.do",
+  "image": "http://www.ebi.ac.uk/web_guidelines/images/logos/EMBL-EBI/EMBL_EBI_Logo_white.png",
+  "author": {
+    "name": "EMBL-EBI"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Response",
+    "Purposes"
+  ],
+  "description": "The ChEBI Web Services contains four main operations with which developers can access data. An example invocation of the SOAP response can be seen by filling in the forms and submitting them. These forms are only for demonstration purposes and should not be used for any production purposes. "
+}

@@ -1,0 +1,17 @@
+{
+  "id": "geolocation",
+  "title": "Geolocation",
+  "link": "https://developers.google.com/maps/documentation/business/geolocation/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Accuracy",
+    "Information",
+    "Describes",
+    "Data",
+    "Response"
+  ],
+  "description": "The Google Maps Geolocation API returns a location and accuracy radius based on information about cell towers and WiFi nodes that the mobile client can detect. This document describes the protocol used to send this data to the server and to return a response to the client."
+}

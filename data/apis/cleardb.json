@@ -1,0 +1,15 @@
+{
+  "id": "cleardb",
+  "title": "ClearDB",
+  "link": "http://www.cleardb.com/developers",
+  "image": "http://www.cleardb.com/images/ID_clearDB.gif",
+  "author": {
+    "name": "ClearDB"
+  },
+  "tags": [
+    "Database",
+    "Require",
+    "Connect"
+  ],
+  "description": "ClearDB is a great way to get your database into the cloud without having to worry about things like fault tolerance, database updates, etc. This section of our website is dedicated to ensuring that you have the tools and information required in order to properly connect to and use ClearDB with your MySQL powered applications."
+}

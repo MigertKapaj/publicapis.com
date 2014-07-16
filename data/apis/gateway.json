@@ -1,0 +1,16 @@
+{
+  "id": "gateway",
+  "title": "gateway ",
+  "link": "http://wiki.usaepay.com/developer/transactionapi",
+  "image": "http://wiki.usaepay.com/lib/tpl/usaepay/images/logo.png",
+  "author": {
+    "name": "USAePay"
+  },
+  "tags": [
+    "Server Side",
+    "Client Side",
+    "Safer",
+    "Background."
+  ],
+  "description": "The gateway API can be accessed in two ways, server-side or client-side, depending on the capabilities of your scripting/cgi platform. The server-side method is safer but requires that your CGI make an SSL connection to the CGI in the background. "
+}

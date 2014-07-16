@@ -1,0 +1,15 @@
+{
+  "id": "developer",
+  "title": "Developer",
+  "link": "http://api.yes.com/",
+  "image": "http://api.yes.com/logo.jpg",
+  "author": {
+    "name": "YES"
+  },
+  "tags": [
+    "Common",
+    "Attributes",
+    "Specific"
+  ],
+  "description": "The response is always an object in either JSON or XML, common to every object is one attribute/element \"yes\" that has the string value of the call name, all other attributes/elements are specific to the call."
+}

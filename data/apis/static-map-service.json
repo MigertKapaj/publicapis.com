@@ -1,0 +1,16 @@
+{
+  "id": "static-map-service",
+  "title": "Static Map Service ",
+  "link": "http://www.mapquestapi.com/staticmap/",
+  "image": "http://www.mapquestapi.com/cdn/common/images/MQ_header_logo_DevNet.png",
+  "author": {
+    "name": "MapQuest"
+  },
+  "tags": [
+    "Latitude",
+    "Longitude",
+    "Image",
+    "Map"
+  ],
+  "description": "Generating a static map image is as easy as just sending in a center point and a zoom level.  The method \"getmap\" takes a latitude/longitude pair and will center the static map image over that center point. It can also take a latitude/longitude pair as an upper left corner and one for a lower right corner and will then create the map based on those bounds."
+}

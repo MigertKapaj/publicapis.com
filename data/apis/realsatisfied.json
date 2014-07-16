@@ -1,0 +1,15 @@
+{
+  "id": "realsatisfied",
+  "title": "RealSatisfied",
+  "link": "http://www.realsatisfied.com/developer",
+  "image": "http://www.realsatisfied.com/version/13.10/images/logo_on_black.jpg",
+  "author": {
+    "name": "RealSatisfied"
+  },
+  "tags": [
+    "Integrate",
+    "Detailed",
+    "Running"
+  ],
+  "description": "Here you'll find the information you need to integrate your applications with RealSatisfied. With detailed API documentation including a developers sandbox, you'll be up and running in no time."
+}

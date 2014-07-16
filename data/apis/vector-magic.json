@@ -1,0 +1,16 @@
+{
+  "id": "vector-magic",
+  "title": "Vector Magic",
+  "link": "http://vectormagic.com/developer",
+  "image": "http://d1rbqnaysk8x0m.cloudfront.net/images/v3/logo-fp-55bdba63635fd1654fc8190c70fbca11.png",
+  "author": {
+    "name": "Vector Magic"
+  },
+  "tags": [
+    "Images",
+    "Customs",
+    "Vector",
+    ""
+  ],
+  "description": " Vector Magic offers an online API that allows third parties to process images programmatically. This is very useful for websites where you want to enable your users to create custom products, but your production workflow requires vector files. Since most users are not familiar with vector files, requiring vector input creates a hurdle for them to use your service. \n        "
+}

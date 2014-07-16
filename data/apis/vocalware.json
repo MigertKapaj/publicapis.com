@@ -1,0 +1,15 @@
+{
+  "id": "vocalware",
+  "title": "Vocalware",
+  "link": "https://www.vocalware.com/support/reference",
+  "image": "https://www.vocalware.com/images/lg_vocalware.gif",
+  "author": {
+    "name": "Vocalware"
+  },
+  "tags": [
+    "Web Pages",
+    "Flash Widget",
+    "Native Code"
+  ],
+  "description": "The Vocalware API enables you to use our cloud based Text-To-Speech service, to generate & play audio in real-time within your online application. By the term “online application” we refer to any online program, including: web pages, Flash widget, or native code apps on either desktop or mobile device. The only requirement is that your application has access to an internet connection fast enough to stream 48kbps audio."
+}

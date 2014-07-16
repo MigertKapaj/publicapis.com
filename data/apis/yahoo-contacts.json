@@ -1,0 +1,16 @@
+{
+  "id": "yahoo-contacts",
+  "title": "Yahoo Contacts",
+  "link": "http://developer.yahoo.com/social/contacts/",
+  "image": "https://s.yimg.com/zz/combo?a/i/ydn/sst/44/contacts.gif",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Relationships",
+    "Book",
+    "Network",
+    "Application"
+  ],
+  "description": "Contacts are relationships that exist in your Yahoo address book, such as those entered from across the Yahoo Network like Yahoo Mail and Yahoo  Messenger. The API enables your application to leverage those relationships by reading a user's Contacts information safely and securely, respecting that user's privacy and permission settings."
+}

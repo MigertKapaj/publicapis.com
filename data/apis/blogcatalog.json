@@ -1,0 +1,15 @@
+{
+  "id": "blogcatalog",
+  "title": "BlogCatalog",
+  "link": "http://www.blogcatalog.com/api/",
+  "image": "http://www.blogcatalog.com/css/images/new/blogcatalog_logo.png",
+  "author": {
+    "name": "BlogCatalog"
+  },
+  "tags": [
+    "Data",
+    "Outlines",
+    "Executed"
+  ],
+  "description": "The BlogCatalog REST (REpresentational State Transfer) API allows the retrieval of public user and blog data based on a set of input parameters. This page outlines the various types of requests that can be executed and provides example requests and responses."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "yahoo-boss-geo",
+  "title": "Yahoo Boss Geo\n                                                                        ",
+  "link": "http://developer.yahoo.com/boss/geo/",
+  "image": "https://s.yimg.com/zz/combo?dh/ap/default/130913/yahoo_boss.png",
+  "author": {
+    "name": "Yahoo Boss Geo "
+  },
+  "tags": [
+    "Services",
+    "Primary",
+    "PlaceSpotter",
+    "Location"
+  ],
+  "description": "Yahoo BOSS is a suite of services that provides Developers premium API's that can support Search and Geo applications. BOSS Geo services include two primary offerings today, Placefinder and PlaceSpotter, which allows developers to geo-enrich their applications and make them more location aware. Learn more about the offerings below."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "topica",
+  "title": "Topica",
+  "link": "http://www.topica.com/services/",
+  "image": "",
+  "author": {
+    "name": "Topica"
+  },
+  "tags": [
+    "Access",
+    "Functions",
+    "Messages"
+  ],
+  "description": "Topica offers SOAP-based access to certain functions of the Topica system. SOAP provides a method of access via HTTP by sending TopicaAction messages to the Topica web server. "
+}

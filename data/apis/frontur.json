@@ -1,0 +1,13 @@
+{
+  "id": "frontur",
+  "title": "Frontur",
+  "link": "http://babyworld.net/dev/",
+  "image": "",
+  "author": {
+    "name": "Frontur"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Bland API gefur þér aðgang að kerfinu sem vefir Bland keyra á, hægt er að skoða, breyta og bæta við efni."
+}

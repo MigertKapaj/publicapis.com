@@ -1,0 +1,15 @@
+{
+  "id": "teamsnap",
+  "title": "teamSNAP",
+  "link": "http://www.weplay.com/developers/api-docs",
+  "image": "http://www.teamsnap.com/_images/new/logo.png",
+  "author": {
+    "name": "teamSNAP"
+  },
+  "tags": [
+    "Manage",
+    "Provide",
+    "Duties"
+  ],
+  "description": "TeamSnap is the smartest and easiest way to manage your team because we provide a platform of easy-to-use features that enable managers to carry out their duties from home or on the field. "
+}

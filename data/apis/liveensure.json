@@ -1,0 +1,15 @@
+{
+  "id": "liveensure",
+  "title": "LiveEnsure",
+  "link": "http://www.liveensure.com",
+  "image": "http://www.liveensure.com/rw_common/images/liveensure_logo_2014g.png",
+  "author": {
+    "name": "LiveEnsure"
+  },
+  "tags": [
+    "Site",
+    "Code",
+    "Poll"
+  ],
+  "description": "LiveEnsure® API integration is simple. As a developer, you need a published site or app with a login form or SSO. Sign up, get your API keys and mashup the code with your login form. Just call the API when the user logs in, present the code and poll for status"
+}

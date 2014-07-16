@@ -1,0 +1,16 @@
+{
+  "id": "google-apps-script",
+  "title": "Google Apps Script",
+  "link": "https://developers.google.com/apps-script/guides/services/external",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Systems",
+    "Random",
+    "Constants",
+    "Methods"
+  ],
+  "description": "Google Apps Script provides more than 30 built-in services for interacting with user data, other Google systems, and external systems. These services are provided as global objects akin to JavaScript's standard Math object. For example, just as Math offers methods like random() and constants like PI, Apps Script's Spreadsheet service offers methods like openById(id), classes (child objects) like Range, and enums"
+}

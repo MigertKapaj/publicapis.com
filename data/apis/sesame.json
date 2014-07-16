@@ -1,0 +1,15 @@
+{
+  "id": "sesame",
+  "title": "Sesame",
+  "link": "http://cds.u-strasbg.fr/cgi-bin/Sesame",
+  "image": "http://cds.u-strasbg.fr/vizier/simbad_icon.gif",
+  "author": {
+    "name": "Sesame"
+  },
+  "tags": [
+    "Service",
+    "System",
+    "Displays"
+  ],
+  "description": "The Sesame Service queries several databases from the name of an astronomical object (outside the Solar System bodies), and displays some fundamental parameters (type of object, J2000 position). "
+}

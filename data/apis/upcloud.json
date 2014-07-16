@@ -1,0 +1,16 @@
+{
+  "id": "upcloud",
+  "title": "UpCloud",
+  "link": "http://en.upcloud.com/customers/api",
+  "image": "http://en.upcloud.com/images/area_customers.jpg",
+  "author": {
+    "name": "UpCloud"
+  },
+  "tags": [
+    "Control",
+    "Mobile",
+    "Common",
+    "Sophesticated"
+  ],
+  "description": "UpCloud enables server resource management in several ways, for instance using our UpCloud Control Panel or a mobile phone app. These management methods are well suited to the most common purposes. However, if you want more sophisticated and automated resource management, traditional UIs are ill-suited. In this case, it is much easier to use our API."
+}

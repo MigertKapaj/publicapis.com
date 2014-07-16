@@ -1,0 +1,13 @@
+{
+  "id": "yahoo-address-book",
+  "title": "Yahoo! Address Book",
+  "link": "http://developer.yahoo.com/addressbook/",
+  "image": "https://s.yimg.com/oo/ydn-footer-sprite/sprite-footer.png",
+  "author": {
+    "name": "iNTERFACE, Web service, Look up, Emails"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The Yahoo! Address Book (AB) API is a JSON/XML interface for accessing and updating the Yahoo! Address Book using a web service. It can be used to look up addresses for auto-completion of emails, to add addresses for future shipping information, to obtain unique identifiers for network invites, or to sync with another address book."
+}

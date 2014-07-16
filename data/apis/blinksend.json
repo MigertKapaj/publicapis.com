@@ -1,0 +1,16 @@
+{
+  "id": "blinksend",
+  "title": "Blinksend",
+  "link": "https://www.blinksend.com/api",
+  "image": "https://www.blinksend.com/static/images/v1/logoWhite4.png",
+  "author": {
+    "name": "Blinksend"
+  },
+  "tags": [
+    "Marketing",
+    "Comments",
+    "Sales",
+    "Dynamically"
+  ],
+  "description": "Any sales minded company or individual looking to distribute marketing materials would love to be able to see who saw it, how long, and what comments they had. Then they would have it via mobile to dynamically alter sales priorities and follow up. Our free API would allow you to plug this in quickly as an added benefit to the existing app."
+}

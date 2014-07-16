@@ -1,0 +1,15 @@
+{
+  "id": "apiomat",
+  "title": "ApiOmat",
+  "link": "http://apiomat.org/apidocs/index.html#!/web/addFile_post_0",
+  "image": "http://www.apiomat.com/wp-content/themes/apiomateins/images/logo_apiomat.png",
+  "author": {
+    "name": "ApiOmat"
+  },
+  "tags": [
+    "Applications",
+    "Provide",
+    "Furthermore"
+  ],
+  "description": "An application means a customers backend, whilist a customer may own many applications. A customer may provide a name for a applications which will be then the \"application display name\". A unique applications name is automatically generated when creating a backend/app and must be used for REST requests furthermore."
+}

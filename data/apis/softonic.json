@@ -1,0 +1,15 @@
+{
+  "id": "softonic",
+  "title": "Softonic",
+  "link": "http://api2.softonic.com/docs/transition",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLOUf8DrIQZzjI8Z7swimhfTe3W19S3McsuhzhQd08nv8s2-Hh",
+  "author": {
+    "name": "Softonic"
+  },
+  "tags": [
+    "Services",
+    "System",
+    "Programmer"
+  ],
+  "description": "An application programming interface (API) is an interface defining the ways by which an application program may request services from libraries and/or operating systems. An API determines the vocabulary and calling conventions the programmer should employ to use the services."
+}

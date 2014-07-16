@@ -1,0 +1,16 @@
+{
+  "id": "conversant",
+  "title": "Conversant",
+  "link": "http://xmlrpc.free-conversant.com/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcReBaFsKg0hUV7TYU88zKHuI6u4vgo8PCYfMtAhT1_GHoJgSg0rKw",
+  "author": {
+    "name": "Conversant"
+  },
+  "tags": [
+    "Procedure",
+    "Parameter",
+    "Containing",
+    "Required"
+  ],
+  "description": "All XML-RPC calls to Conversant flow through a single procedure, named \"Conversant.call\" on the Conversant server. This procedure takes a single parameter, which is a struct type, containing the values required authenticate the user, locate the appropriate method, and evoke it. "
+}

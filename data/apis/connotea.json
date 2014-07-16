@@ -1,0 +1,13 @@
+{
+  "id": "connotea",
+  "title": "Connotea",
+  "link": "http://www.connotea.org/wiki/WebAPI",
+  "image": "http://www.connotea.org/images/connotea_logo.gif",
+  "author": {
+    "name": "Connotea"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Connotea discontinued service on March 12, 2013. We apologize for any inconvenience caused."
+}

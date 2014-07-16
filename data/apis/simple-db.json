@@ -1,0 +1,14 @@
+{
+  "id": "simple-db",
+  "title": "Simple DB",
+  "link": "http://simpledb.appspot.com/",
+  "image": "",
+  "author": {
+    "name": "Simple DB"
+  },
+  "tags": [
+    "Data",
+    "Store"
+  ],
+  "description": "Simple DB is a nice and easy way to store temporary data of your mashup / javascript application. You send GET and POST requests to store and read your data. "
+}

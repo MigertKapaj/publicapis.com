@@ -1,0 +1,15 @@
+{
+  "id": "consensuspathdb",
+  "title": "ConsensusPathDB",
+  "link": "http://cpdb.molgen.mpg.de/",
+  "image": "http://cpdb.molgen.mpg.de/CPDB/images/cpdblogo.png",
+  "author": {
+    "name": "ConsensusPathDB"
+  },
+  "tags": [
+    "Integrates",
+    "Proteins",
+    "Assemble"
+  ],
+  "description": "ConsensusPathDB is a database that integrates different types of functional interactions between physical entities in the cell like genes, RNA, proteins, protein complexes and metabolites in order to assemble a more complete and a less biased picture of cellular biology."
+}

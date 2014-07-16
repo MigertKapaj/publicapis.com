@@ -1,0 +1,15 @@
+{
+  "id": "hon-statistics",
+  "title": "HoN Statistics",
+  "link": "http://api.heroesofnewerth.com/readme.php",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdoEKtMqG74nqv25rwtPaNNiBpzpKQazqay_nlvWBqYAUJTdytGA",
+  "author": {
+    "name": "HoN Statistics"
+  },
+  "tags": [
+    "Providing",
+    "Web",
+    "Requires"
+  ],
+  "description": "S2 Games is committed to providing the necessary information to help you build a great statistical web tool for your readers. To use the Statistics API requires that you first have a unique token keyed to your IP address."
+}

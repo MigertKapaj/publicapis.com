@@ -1,0 +1,16 @@
+{
+  "id": "rakuten-ichiba",
+  "title": "Rakuten Ichiba",
+  "link": "http://webservice.rakuten.co.jp/",
+  "image": "",
+  "author": {
+    "name": "Rakuten Ichiba"
+  },
+  "tags": [
+    "Listed",
+    "Auction",
+    "Genere",
+    "Shop"
+  ],
+  "description": "The Rakuten Item Search API can retrieve data from items listed on Rakuten Ichiba. Excluded items include those co-listed, listed in auctions, listed in flea markets, or listed in customer to customer auctions (C2C). Developers can begin searching by keyword and then limit the results by shop or genre information. "
+}

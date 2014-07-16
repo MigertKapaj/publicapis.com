@@ -1,0 +1,15 @@
+{
+  "id": "archive",
+  "title": "Archive",
+  "link": "http://api.archive.vg/2.0/formats.php",
+  "image": "http://api.archive.vg/2.0/images/logo.png",
+  "author": {
+    "name": "Archive"
+  },
+  "tags": [
+    "Designed",
+    "Developers",
+    "Media"
+  ],
+  "description": "Welcome to the Archive API documentation. This API is designed to be incredibly easy to use, while at the same time enabling developers to implement media rich information into their projects."
+}

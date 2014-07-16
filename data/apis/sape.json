@@ -1,0 +1,13 @@
+{
+  "id": "sape",
+  "title": "SAPE",
+  "link": "http://www.sape.ru/api_xmlrpc.php",
+  "image": "http://static.sape.ru/www/img/logo.gif",
+  "author": {
+    "name": "SAPE"
+  },
+  "tags": [
+    ""
+  ],
+  "description": ""
+}

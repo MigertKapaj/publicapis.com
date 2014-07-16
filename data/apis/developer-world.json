@@ -1,0 +1,15 @@
+{
+  "id": "developer-world",
+  "title": "Developer World",
+  "link": "http://camera.developer.sony.com/",
+  "image": "https://developer.sony.com/wp-content/themes/onesonydev/images/dw-logo.png",
+  "author": {
+    "name": "Developer World"
+  },
+  "tags": [
+    "Devices",
+    "Access",
+    "Control"
+  ],
+  "description": "Sony’s Google TV devices include innovative APIs which will let you your Google TV app access the sensors and gestures of the Sony Google TV remote controls."
+}

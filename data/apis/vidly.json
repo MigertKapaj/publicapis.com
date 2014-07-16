@@ -1,0 +1,16 @@
+{
+  "id": "vidly",
+  "title": "Vidly",
+  "link": "http://api.vid.ly/",
+  "image": "http://s.vid.ly/m.vid.ly/0f1e2a9-stable/images/2012/vidly-logo.png",
+  "author": {
+    "name": "Vidly"
+  },
+  "tags": [
+    "System",
+    "Request",
+    "Stored",
+    "Notified"
+  ],
+  "description": "With the Vid.ly API you can easily plug a powerful, high volume video system directly into your website, application or CMS. Using a single API request, you tell us where the source video is stored (HTTP, FTP, Amazon S3, Cloud Files, Microsoft Azure, or DropBox) and how you want to be notified (email or XML post)."
+}

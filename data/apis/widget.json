@@ -1,0 +1,16 @@
+{
+  "id": "widget",
+  "title": "Widget",
+  "link": "http://developers.soundcloud.com/docs/api/html5-widget",
+  "image": "http://developers.soundcloud.com/assets/sc_sbs_white_header@1x.png",
+  "author": {
+    "name": "Soundclouds"
+  },
+  "tags": [
+    "HTML",
+    "Script",
+    "Exposes",
+    "Functions"
+  ],
+  "description": "In order to access the JavaScript object which provides the SoundCloud Widget API, add this script to your html page. This script exposes the SC.Widget(/*iframeElement|iframeElementID*/) function to the global scope. It allows you to control the widget from the parent page (the page the widget is inserted into). SC.Widget accepts the reference to the iframe element or its id."
+}

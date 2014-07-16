@@ -1,0 +1,16 @@
+{
+  "id": "piryx",
+  "title": "Piryx ",
+  "link": "http://www.piryx.com/developers/",
+  "image": "http://www.piryx.com/images-v3/piryx_logo.png",
+  "author": {
+    "name": "Piryx "
+  },
+  "tags": [
+    "Developers",
+    "Access",
+    "Services",
+    "Technology"
+  ],
+  "description": "The Piryx platform offers an open API that allows developers to access data within authorized Piryx accounts, and integrate it with other services, products, and build new apps. As a member of the Piryx App Developer Network, you will have access to the Piryx API code base and the Piryx technology team"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "stampr",
+  "title": "stampr",
+  "link": "http://stampr.github.io/stampr-api/",
+  "image": "https://stam.pr/assets/img/logo-lg-centered.png",
+  "author": {
+    "name": "stampr"
+  },
+  "tags": [
+    "Postal",
+    "Restful",
+    "Mail"
+  ],
+  "description": "Send real postal mail online using the RESTful stampr api"
+}

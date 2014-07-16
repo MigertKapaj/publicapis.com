@@ -1,0 +1,16 @@
+{
+  "id": "featurepics",
+  "title": "FeaturePics",
+  "link": "http://www.featurepics.com/API/ImageDetailsJSON.aspx",
+  "image": "http://www.featurepics.com/i/featurepicslogo.gif",
+  "author": {
+    "name": "FeaturePics"
+  },
+  "tags": [
+    "Service",
+    "Retrieving",
+    "Showing",
+    "Design"
+  ],
+  "description": "FeaturePics Web services provides programmatic access to the FeaturePics Image Collection.                                        You can enhance your web site by retrieving images from FeaturePics \nImage Collection by subject and showing them in layouts suitable for your site design."
+}

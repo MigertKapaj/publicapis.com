@@ -1,0 +1,16 @@
+{
+  "id": "time-reports",
+  "title": "Time Reports",
+  "link": "http://developers.odesk.com/w/page/12364017/Time%20Reports%20API",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Language",
+    "Reports",
+    "Company",
+    "Details"
+  ],
+  "description": "The Time Reports API uses the Google Visualization APIs query language to run detailed reports on a user's team, company, as well as \nprovider specific detail. In order to use the Reports API you need to understand the data model accessible as well as the supported Google query language elements."
+}

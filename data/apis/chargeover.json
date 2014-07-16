@@ -1,0 +1,14 @@
+{
+  "id": "chargeover",
+  "title": "ChargeOver",
+  "link": "http://chargeover.com/docs/rest-api.html",
+  "image": "http://chargeover.com/docs/_static/chargeover-logo.png",
+  "author": {
+    "name": "ChargeOver"
+  },
+  "tags": [
+    "Interface",
+    "Functionality"
+  ],
+  "description": "In addition to our easy-to-use interface, a large amount of ChargeOver functionality is exposed via a REST JSON API."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "keepcon",
+  "title": "Keepcon",
+  "link": "http://keepcon.com/integrations/",
+  "image": "http://keepcon.com/wp-content/themes/keepcon/images/logo.png",
+  "author": {
+    "name": "Keepcon"
+  },
+  "tags": [
+    "Integrating",
+    "Disqus",
+    "Wordpress"
+  ],
+  "description": "Integrating with Keepcon is very simple. You can do it through our APIs Rest, Java, PHP or through plugins for Facebook, Disqus, Youtube and WordPress."
+}

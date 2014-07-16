@@ -1,0 +1,16 @@
+{
+  "id": "xively",
+  "title": "Xively",
+  "link": "https://xively.com/dev/docs/api/",
+  "image": "https://d292py4aavmows.cloudfront.net/assets/header-logo.png",
+  "author": {
+    "name": "Xively"
+  },
+  "tags": [
+    "Service",
+    "Internet",
+    "Data",
+    "Experience"
+  ],
+  "description": "Xively is a Platform as a Service (PaaS) for the Internet of Things. Xively simplifies the interconnection of devices, data, people and places, accelerating the creation of compelling solutions that transform how people experience their world."
+}

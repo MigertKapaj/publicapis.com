@@ -1,0 +1,15 @@
+{
+  "id": "telapi",
+  "title": "TelAPI",
+  "link": "http://www.telapi.com/docs/api/rest/",
+  "image": "http://www.telapi.com/assets/img/footer-logo.png",
+  "author": {
+    "name": "TelAPI"
+  },
+  "tags": [
+    "Interacting",
+    "Website",
+    "Definitely"
+  ],
+  "description": "TelAPI is a REST API. What that means for you is that interacting with TelAPI to perform all of your telephony needs is almost as simple as visiting a website. Deeper knowledge regarding REST is useful when developing with TelAPI but definitely not required."
+}

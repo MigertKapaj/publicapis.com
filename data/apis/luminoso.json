@@ -1,0 +1,13 @@
+{
+  "id": "luminoso",
+  "title": "luminoso",
+  "link": "https://api.luminoso.com/v4/",
+  "image": "",
+  "author": {
+    "name": "luminoso"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API supports the following methods. Unless otherwise specified, all of them return a JSON object with two keys, \"error\" and \"result\". If there is no\nerror, \"error\" will be null and \"result\" will be what the \"Result\" lines below indicate. If there is an error, \"result\" will be null; \"error\" will be a\nJSON object with \"code\" (a basic error code) and \"message\" (a human-readable error message)."
+}

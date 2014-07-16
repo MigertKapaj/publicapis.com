@@ -1,0 +1,16 @@
+{
+  "id": "upside-wireless",
+  "title": "Upside Wireless",
+  "link": "http://www.upsidewireless.com/api.htm",
+  "image": "http://www.upsidewireless.com/files/logo.gif",
+  "author": {
+    "name": "Upside Wireless"
+  },
+  "tags": [
+    "Enterprise",
+    "Corporate",
+    "Convenience",
+    "Quickly"
+  ],
+  "description": "Upside's flexible two-way SMS platform enables enterprise customers to efficiently connect existing corporate applications to the global text messaging network. For your convenience, we offer three connectivity options: SOAP, HTTP and SMTP. With available sample code for Java, PHP, C++ and Visual Basic, you will be able to complete the integration task quickly and easily. For technical details please see here. "
+}

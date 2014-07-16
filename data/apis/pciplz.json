@@ -1,0 +1,15 @@
+{
+  "id": "pciplz",
+  "title": "Pciplz",
+  "link": "https://sites.google.com/site/picplzapi/api-methods",
+  "image": "https://sites.google.com/site/picplzapi/_/rsrc/1295907309443/home/LOGOLOGO.jpg",
+  "author": {
+    "name": "Pciplz"
+  },
+  "tags": [
+    "Support",
+    "Parameter",
+    "Function"
+  ],
+  "description": "All the read API calls support JSONP. If you want to see an in-depth look at JSONP see wikipedia. In short, if you pass a query parameter called callback and the picplz API will return JSON wrapped in a function call."
+}

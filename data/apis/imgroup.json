@@ -1,0 +1,15 @@
+{
+  "id": "imgroup",
+  "title": "imGroup",
+  "link": "http://api.imwww.co.uk/",
+  "image": "http://api.imwww.co.uk/images/logo.png",
+  "author": {
+    "name": "imGroup"
+  },
+  "tags": [
+    "Connect",
+    "System",
+    "Construction"
+  ],
+  "description": "This API provides any authenticated user to connect and request specific information. The system runs off a restful architecture and allows for simple URL construction with results being returned in XML."
+}

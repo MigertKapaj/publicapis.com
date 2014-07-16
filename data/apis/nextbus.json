@@ -1,0 +1,14 @@
+{
+  "id": "nextbus",
+  "title": "Nextbus",
+  "link": "http://api.rutgers.edu/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT2uw2Xexqp06n7vpwqQh5Px2XfFk203iBJlhXI8u6tMTAr9DcO",
+  "author": {
+    "name": "Nextbus"
+  },
+  "tags": [
+    "Query",
+    "Vehicle"
+  ],
+  "description": "Nextbus has an API which allows you to query for stops, routes, and vehicle locations."
+}

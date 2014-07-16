@@ -1,0 +1,15 @@
+{
+  "id": "oreilly-labs",
+  "title": "O'Reilly Labs",
+  "link": "http://labs.oreilly.com/opmi.html",
+  "image": "http://cdn.oreilly.com/images/sitewide-headers/ml-header-labs.png",
+  "author": {
+    "name": "O'Reilly Labs"
+  },
+  "tags": [
+    "Knowledge",
+    "Technology",
+    "Books"
+  ],
+  "description": "O'Reilly spreads the knowledge of innovators through its technology books, online services, magazines, research, and tech conferences"
+}

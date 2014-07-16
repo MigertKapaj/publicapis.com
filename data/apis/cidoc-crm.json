@@ -1,0 +1,15 @@
+{
+  "id": "cidoc-crm",
+  "title": "CIDOC CRM",
+  "link": "http://collection.britishmuseum.org/licensing.html",
+  "image": "http://www.britishmuseum.org/images/v2/sprites/headerLogo.gif",
+  "author": {
+    "name": "The British Museum"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Online"
+  ],
+  "description": "Welcome to this Linked Data and SPARQL service. It provides access to the same collection records available through the Museum's web presented Collection Online, but in a computer readable format."
+}

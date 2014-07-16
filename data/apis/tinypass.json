@@ -1,0 +1,16 @@
+{
+  "id": "tinypass",
+  "title": "Tinypass",
+  "link": "http://developer.tinypass.com/",
+  "image": "https://dashboard.tinypass.com/images2/logo-tinypass-header.png",
+  "author": {
+    "name": "Tinypass"
+  },
+  "tags": [
+    "Manage",
+    "Sites",
+    "Monetize",
+    "Charge"
+  ],
+  "description": "Tinypass is a simple, flexible tool that allows web publishers to manage access to their premium content without changing their site’s existing structure. Our flexible platform can be used to monetize your digital content in a way that makes sense for your site and your audience. Charge for access to one piece of content or an entire section, set prices as low as two-cents, and easily adjust your approach based on audience response.  \n"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "scrazzl",
+  "title": "Scrazzl",
+  "link": "http://developers.scrazzl.com/",
+  "image": "http://developers.scrazzl.com/images/navbar-logo.png",
+  "author": {
+    "name": "Scrazzl"
+  },
+  "tags": [
+    "Research",
+    "Records",
+    "Tools",
+    "Web"
+  ],
+  "description": "Access millions of research product records through our API. Using our developer tools, our partners can easily add related product information to their websites and web applications\n"
+}

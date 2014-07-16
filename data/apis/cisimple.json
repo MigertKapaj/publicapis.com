@@ -1,0 +1,14 @@
+{
+  "id": "cisimple",
+  "title": "Cisimple",
+  "link": "https://www.cisimple.com/api",
+  "image": "https://www.cisimple.com/assets/logo-with-name-5d4d9e70cbf1c987699ab3c9742ec0ed.png",
+  "author": {
+    "name": "Cisimple"
+  },
+  "tags": [
+    "Versions",
+    "Specific"
+  ],
+  "description": "As we improve and make changes to the cisimple API, we will release new versions. To protect your application from potentially breaking changes in future versions we strongly recommend specifying a specific version number in your API calls."
+}

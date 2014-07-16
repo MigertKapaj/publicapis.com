@@ -1,0 +1,16 @@
+{
+  "id": "census",
+  "title": "census",
+  "link": "http://www.cdyne.com/developers/",
+  "image": "http://www.cdyne.com/images/master/logo_cdyneb.gif",
+  "author": {
+    "name": "CDYNE"
+  },
+  "tags": [
+    "Delivers",
+    "Data",
+    "Service",
+    "Designed"
+  ],
+  "description": "CDYNE Demographics API, a full featured statistical resource, delivers neighborhood level data so fast it feels like the database is on your own computer. CDYNE has taken vast amounts of census data, enhanced it, and created a rich repository of information. This service can also easily be built into your sales, marketing, or even collection and accounts receivable management software applications. CDYNE provides code samples and access to development information designed to get your project up and running in no time."
+}

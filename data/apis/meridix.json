@@ -1,0 +1,14 @@
+{
+  "id": "meridix",
+  "title": "Meridix",
+  "link": "http://api.meridix.com/",
+  "image": "http://www.meridix.com/images/logo.jpg",
+  "author": {
+    "name": "Meridix"
+  },
+  "tags": [
+    "Data",
+    "Applications"
+  ],
+  "description": "Welcome to the Meridix API, which allows you to take data from Meridix and use it on your site, in your applications."
+}

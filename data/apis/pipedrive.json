@@ -1,0 +1,15 @@
+{
+  "id": "pipedrive",
+  "title": "Pipedrive",
+  "link": "https://developers.pipedrive.com/v1",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT5yWXcy-klhk62loNIQL074ngVSFNeIxmxOBC5oGCsEE3t6FeT",
+  "author": {
+    "name": "Pipedrive"
+  },
+  "tags": [
+    "Implement",
+    "Resource",
+    "Requests"
+  ],
+  "description": "This documentation helps you implement the RESTful Pipedrive API v1. This API uses a JSON format for output and is capable of handling CORS (Cross-Origin Resource Sharing) requests. The API is stateless – all requests are validated against an API token."
+}

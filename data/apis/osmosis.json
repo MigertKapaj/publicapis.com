@@ -1,0 +1,16 @@
+{
+  "id": "osmosis",
+  "title": "Osmosis",
+  "link": "https://www.getosmosis.com/api-doc",
+  "image": "https://www.getosmosis.com/content/img/logo-large.png",
+  "author": {
+    "name": "Osmosis"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Connect",
+    "Preferences"
+  ],
+  "description": "You can access your data via our simple RESTful API. We are still adding new resources to this API so be careful. The main goal of this API is to connect with other applications so your data can be exchanged based on your preferences. "
+}

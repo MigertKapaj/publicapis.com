@@ -1,0 +1,16 @@
+{
+  "id": "zapier",
+  "title": "Zapier",
+  "link": "https://zapier.com/developer/",
+  "image": "https://zapier.cachefly.net/static/CpnpLl/images/widget-logo.png",
+  "author": {
+    "name": "Zapier"
+  },
+  "tags": [
+    "office web apps",
+    "word web app",
+    "onenote web app",
+    "mobile web app"
+  ],
+  "description": "There's a secret language that lets web apps (Evernote, Dropbox, \nGmail...) talk to each other. The terrible tragedy is that this language\n is only spoken by an elite few who posess technical superpowers.\n Zapier bestows these superpowers upon you."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "beanstalk",
+  "title": "Beanstalk",
+  "link": "http://api.beanstalkapp.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsK6eSo0BKzpFGMiDjPWOC3JwFGyUN-AUfnTJjhD7CKt8mYDwY",
+  "author": {
+    "name": "Beanstalk"
+  },
+  "tags": [
+    "Service",
+    "Information",
+    "Access"
+  ],
+  "description": "The API can be used to build tools or services around Beanstalk account information. You can enable API access in your account settings. You need to be an account owner to do so."
+}

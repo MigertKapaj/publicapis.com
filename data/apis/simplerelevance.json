@@ -1,0 +1,15 @@
+{
+  "id": "simplerelevance",
+  "title": "SimpleRelevance",
+  "link": "https://www.simplerelevance.com/api_doc/",
+  "image": "https://www.simplerelevance.com/static/portal-v3/images/logo.png",
+  "author": {
+    "name": "Simplerelevance"
+  },
+  "tags": [
+    "Profile",
+    "Customer",
+    "predicts"
+  ],
+  "description": "SimpleRelevance builds a complete profile of each customer and predicts what your customers are likely to buy. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "cloud-cma",
+  "title": "Cloud CMA",
+  "link": "http://cloudcma.com/developers",
+  "image": "http://cloudcma.com/assets/logo.gif",
+  "author": {
+    "name": "Cloud CMA"
+  },
+  "tags": [
+    "Create",
+    "Enable",
+    "Web",
+    "Publicly"
+  ],
+  "description": "Cloud CMA allows real estate agents to easily create custom CMA, Buyer Tour, and Property Reports. In order to enable this functionality to be embedded in other web sites, especially MLS sites, we have made an API publicly available."
+}

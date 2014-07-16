@@ -1,0 +1,17 @@
+{
+  "id": "iframe",
+  "title": "IFrame",
+  "link": "https://developers.google.com/youtube/iframe_api_reference",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Play",
+    "Pause",
+    "Information",
+    "Execute",
+    "Quality"
+  ],
+  "description": "Using the API's JavaScript functions, you can queue videos for playback; play, pause, or stop those videos; adjust the player volume; or retrieve information about the video being played. You can also add event listeners that will execute in response to certain player events, such as a player state change or a video playback quality change."
+}

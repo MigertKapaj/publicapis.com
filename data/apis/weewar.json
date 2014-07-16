@@ -1,0 +1,16 @@
+{
+  "id": "weewar",
+  "title": "Weewar",
+  "link": "http://weewar.com/api",
+  "image": "http://weewar.wikispaces.com/space/showlogo/1301801060/logo.gif",
+  "author": {
+    "name": "Weewar"
+  },
+  "tags": [
+    "Notifier",
+    "Bot",
+    "Games",
+    "Tools"
+  ],
+  "description": "The API allows you to create anything from simple notifiers to fully featured bots playing their own games. A selection of applications using the API is listed in our tools section."
+}

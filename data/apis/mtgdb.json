@@ -1,0 +1,15 @@
+{
+  "id": "mtgdb",
+  "title": "M:tgDb",
+  "link": "http://api.mtgdb.info/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW3hgOGNA1CgLreiMjveqSSfTUoYmJGzHYjm75U8BWXjN30HH1gw",
+  "author": {
+    "name": "M:tgDb"
+  },
+  "tags": [
+    "Simple",
+    "Database",
+    "Supports"
+  ],
+  "description": "A card database API for \"Magic: The Gathering\". Ultra simple. Open source. JSON API to create your own \"Magic: the gathering database\". Supports http and https."
+}

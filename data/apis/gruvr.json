@@ -1,0 +1,15 @@
+{
+  "id": "gruvr",
+  "title": "grüvr",
+  "link": "http://gruvr.com/developers/",
+  "image": "http://tickets.gruvr.com/concert-tickets.gif",
+  "author": {
+    "name": "grüvr"
+  },
+  "tags": [
+    "Simple",
+    "Concerts",
+    "Together"
+  ],
+  "description": "We offer a very simple query API that lets you invoke a band's current tour map or concerts in any city by simply whacking together a URL. "
+}

@@ -1,0 +1,13 @@
+{
+  "id": "timezonedb-find-local-time-zone-by-coordinate-or-name",
+  "title": "TimeZoneDB - Find Local Time Zone by Coordinate or Name",
+  "link": "https://www.mashape.com/seikan/timezonedb-find-local-time-zone-by-coordinate-or-name",
+  "image": "",
+  "author": {
+    "name": "seikan"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "TimeZoneDB finds you the local time zone of a place by latitude & longitude, or by the time zone name such as \"Europe/London\". You get local time in Unix timestamp, with GMT offset, daylight saving, and country code."
+}

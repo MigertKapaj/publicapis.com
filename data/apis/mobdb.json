@@ -1,0 +1,15 @@
+{
+  "id": "mobdb",
+  "title": "Mobdb",
+  "link": "https://www.mobdb.net/",
+  "image": "https://www.mobdb.net/images/logo.jpg",
+  "author": {
+    "name": "Mobdb"
+  },
+  "tags": [
+    "Interface",
+    "Data",
+    "Edit"
+  ],
+  "description": "mobDB provides web interface for backend, so as soon as your app send's data to mobDB you'll be able to view and edit your data in real time."
+}

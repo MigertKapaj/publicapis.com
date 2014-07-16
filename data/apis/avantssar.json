@@ -1,0 +1,15 @@
+{
+  "id": "avantssar",
+  "title": "AVANTSSAR",
+  "link": "http://satmc.ai.dist.unige.it/avantssar/",
+  "image": "http://satmc.ai.dist.unige.it/avantssar/images/logo_avantssar.jpg",
+  "author": {
+    "name": "AVANTSSAR"
+  },
+  "tags": [
+    "Platform",
+    "Architecture",
+    "Web"
+  ],
+  "description": "The AVANTSSAR Validation Platform is implemented as a Service-Oriented Architecture (SOA), where each component service is offered as a Web Service (WS)."
+}

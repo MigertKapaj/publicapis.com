@@ -1,0 +1,16 @@
+{
+  "id": "launchkey",
+  "title": "LaunchKey",
+  "link": "https://launchkey.com/docs/api/authentication-flow/",
+  "image": "https://launchkey.com/images/navbar-logo.png",
+  "author": {
+    "name": "Lunchkey"
+  },
+  "tags": [
+    "Authentication",
+    "Existing",
+    "Adding",
+    "Factor"
+  ],
+  "description": "Whether you want to replace your current authentication system with LaunchKey or you simply want to use LaunchKey as an additional factor of authentication on top of an existing auth system, these docs will assist you in adding LaunchKey's passwordless multi-factor authentication to your application."
+}

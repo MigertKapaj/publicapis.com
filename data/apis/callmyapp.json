@@ -1,0 +1,15 @@
+{
+  "id": "callmyapp",
+  "title": "CallMyApp",
+  "link": "http://callmyapp.com/documentation/api/create-callback",
+  "image": "http://callmyapp.com/images/logo2.png",
+  "author": {
+    "name": "CallMyApp"
+  },
+  "tags": [
+    "Online",
+    "Service",
+    "Developer"
+  ],
+  "description": "CallMyApp is a simple free online time-based 'callback' service written to be used by 3rd party application developers. You can think of it as simply an online 'cron' service."
+}

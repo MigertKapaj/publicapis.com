@@ -1,0 +1,15 @@
+{
+  "id": "cngnow",
+  "title": "CNGnow",
+  "link": "http://www.cngnow.com/stations/pages/api.aspx",
+  "image": "http://www.cngnow.com/Style%20Library/images/now-screenLogo.png",
+  "author": {
+    "name": "CNGnow"
+  },
+  "tags": [
+    "Data",
+    "Developer",
+    "Service"
+  ],
+  "description": "The CNGnow Station Data Developer API allows you to easily pull crowdsourced CNG station data into your application or other service."
+}

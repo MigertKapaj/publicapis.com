@@ -1,0 +1,16 @@
+{
+  "id": "mashable",
+  "title": "Mashable",
+  "link": "http://www.blippr.com/api",
+  "image": "http://rack.1.mshcdn.com/assets/header_logo.v2-30574d105ad07318345ec8f1a85a3efa.png",
+  "author": {
+    "name": "Mashable"
+  },
+  "tags": [
+    "Source",
+    "Generation",
+    "Digital",
+    "Empowers"
+  ],
+  "description": "Mashable is a leading source for news, information & resources for the Connected Generation. Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world."
+}

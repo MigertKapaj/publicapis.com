@@ -1,0 +1,15 @@
+{
+  "id": "bitmarket.eu",
+  "title": "BitMarket.eu",
+  "link": "https://bitmarket.eu/api",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlNB7-QoE8ed5celti2VnSYSDsQ13-UVLC5nMG-IIV7mgnBCuWjg",
+  "author": {
+    "name": "BitMarket.eu"
+  },
+  "tags": [
+    "Service",
+    "Functionality",
+    "Market"
+  ],
+  "description": "API is a way for a service to provide some of its functionality to other services or applications. At Bitmarket.eu, we provide a set of APIs to let you get information about current state of the market."
+}

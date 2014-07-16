@@ -1,0 +1,15 @@
+{
+  "id": "umls",
+  "title": "Umls",
+  "link": "https://uts.nlm.nih.gov//home.html#apidocumentation",
+  "image": "https://uts.nlm.nih.gov//images/umls_tree_sm.jpg",
+  "author": {
+    "name": "Umls"
+  },
+  "tags": [
+    "Service",
+    "Network",
+    "Data"
+  ],
+  "description": "The UTS Web service API provides developers with functions for retrieving Metathesaurus, Semantic Network, and SPECIALIST Lexicon data from the UTS."
+}

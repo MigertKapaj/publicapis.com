@@ -1,0 +1,18 @@
+{
+  "id": "ravelry",
+  "title": "Ravelry",
+  "link": "https://www.ravelry.com/account/login",
+  "image": "https://www.ravelry.com/images/splash/ravelry-logo-81r-300x.png",
+  "author": {
+    "name": "Ravelry"
+  },
+  "tags": [
+    "Knitters",
+    "Crocheters",
+    "Designers",
+    "Spinners",
+    "Weavers",
+    "Dyers"
+  ],
+  "description": "Ravelry is a place for knitters, crocheters, designers, spinners, weavers and dyers to keep track of their yarn, tools, project and pattern information, and look to others for ideas and inspiration. The content here is all user- driven; we as a community make the site what it is. Ravelry is a great place for you to keep notes about your projects, see what other people are making, find the perfect pattern and connect with people who love to play with yarn from all over the world in our forums."
+}

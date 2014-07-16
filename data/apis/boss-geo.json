@@ -1,0 +1,16 @@
+{
+  "id": "boss-geo",
+  "title": "BOSS Geo",
+  "link": "http://developer.yahoo.com/maps/rest/V1/geocode.html",
+  "image": "https://developer.yahoo.com/boss/geo/API_Update_Graphic_BOSS.png",
+  "author": {
+    "name": "Yahoo"
+  },
+  "tags": [
+    "Geocoding",
+    "Street address",
+    "Coordinates",
+    "Discovery"
+  ],
+  "description": "Yahoo PlaceFinder is a geocoding Web service that helps developers make their applications location-aware by converting street addresses or place names intogeographic coordinates (and vice versa). PlaceFinder recognizes a large number of place formats and returns rich geographic data about each result, including geographic coordinates, address components, and Where Yahoo's GeoPlanet™* API for further geographic enrichment and discovery."
+}

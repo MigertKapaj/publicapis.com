@@ -1,0 +1,15 @@
+{
+  "id": "charts",
+  "title": "Charts",
+  "link": "http://access.motime.com/docs/charts_api/",
+  "image": "http://s.motime.com/img/wl/webstore_openmotime/sprite/headers.png",
+  "author": {
+    "name": "motime"
+  },
+  "tags": [
+    "Details",
+    "Response",
+    "Examples"
+  ],
+  "description": "Here you will find detailed documentation on the request and response formats for our APIs. We will send you your API Key and Track ID so you can implement the examples."
+}

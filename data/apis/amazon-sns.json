@@ -1,0 +1,15 @@
+{
+  "id": "amazon-sns",
+  "title": "Amazon SNS",
+  "link": "http://docs.aws.amazon.com/sns/latest/api/Welcome.html",
+  "image": "http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/images/documentation_logo200x29.png",
+  "author": {
+    "name": "Amazon Web Service"
+  },
+  "tags": [
+    "Service",
+    "Internet",
+    "Pushing"
+  ],
+  "description": "Amazon Simple Notification Service (Amazon SNS) is a fast, flexible, fully managed push messaging service. Amazon SNS makes it simple and cost-effective to push to mobile devices such as iPhone, iPad, Android, Kindle Fire, and internet connected smart devices, as well as pushing to other distributed services."
+}

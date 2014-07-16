@@ -1,0 +1,15 @@
+{
+  "id": "callme",
+  "title": "CallME",
+  "link": "http://www.callme-click-to-call.com/api.php",
+  "image": "http://www.clicktocall.eu/callme-logo-animation-270x70.gif",
+  "author": {
+    "name": "CallME"
+  },
+  "tags": [
+    "Connect",
+    "Methods",
+    "Directory"
+  ],
+  "description": "The CallME! API allows you to connect any phone number to any phone number using some easy to use methods. The CallME! API integrates click-to-call into your web application or on-line directory."
+}

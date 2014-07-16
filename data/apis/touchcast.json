@@ -1,0 +1,16 @@
+{
+  "id": "touchcast",
+  "title": "TouchCast",
+  "link": "http://www.touchcast.com/developer/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRUU9K4ipOdbK73e18FB0W-YCm5Or9A-9_btx2RY1igXFwZnn0k",
+  "author": {
+    "name": "TouchCast"
+  },
+  "tags": [
+    "Interactive",
+    "Web",
+    "Adding",
+    "Displayed"
+  ],
+  "description": "TouchCast vApps are actually just interactive web pages added on top of video. Usually, videos exist in their own box on web pages. vApps reverse this: they are little boxes of the web inside a video. When you add a vApp to a TouchCast video, you are really adding a viewport in which a web page is displayed."
+}

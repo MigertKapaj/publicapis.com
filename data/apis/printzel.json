@@ -1,0 +1,16 @@
+{
+  "id": "printzel",
+  "title": "Printzel",
+  "link": "https://printzel.it/developer/docs/api#overview",
+  "image": "https://printzel.it/assets/img/app/header_logo.png",
+  "author": {
+    "name": "Printzel"
+  },
+  "tags": [
+    "Developers",
+    "Interface",
+    "Manner",
+    "Convention"
+  ],
+  "description": "Printzel's REST API allows developers, fullfillment partners & print vendors to interface with the Printzel platform in a controlled & uniform manner. If you are new to REST implementations you may like to read more on RESTful URL Conventions. If you are an app developer you might like to check out our SDK."
+}

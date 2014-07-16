@@ -1,0 +1,15 @@
+{
+  "id": "scholarometer",
+  "title": "Scholarometer",
+  "link": "http://scholarometer.indiana.edu/data.html",
+  "image": "http://scholarometer.indiana.edu/html/images/headerimage.jpg",
+  "author": {
+    "name": "Scholarometer"
+  },
+  "tags": [
+    "Web",
+    "Developer",
+    "Data"
+  ],
+  "description": "Scholarometer provides a RESTful web API so that other developers can make use of our crowdsourced data. Select the method on the left panel to see corresponding documentation."
+}

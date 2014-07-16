@@ -1,0 +1,15 @@
+{
+  "id": "snipcart",
+  "title": "Snipcart",
+  "link": "http://docs.snipcart.com/api",
+  "image": "http://docs.snipcart.com/img/snipcart-logo.svg",
+  "author": {
+    "name": "Snipcart"
+  },
+  "tags": [
+    "Authentication",
+    "Response",
+    "Restful"
+  ],
+  "description": "We have built a complete RESTful API that lets you manage your data the way you need. We used HTTP features such as authentication, verbs and response codes to make it easy to use."
+}

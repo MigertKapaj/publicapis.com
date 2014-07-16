@@ -1,0 +1,15 @@
+{
+  "id": "nymbol",
+  "title": "Nymbol",
+  "link": "http://nymbol.co.uk/develop/guides/collections-and-assets/",
+  "image": "https://nymbol.co.uk/static/img/logo.png",
+  "author": {
+    "name": "Nymbol"
+  },
+  "tags": [
+    "Consuming",
+    "Specific",
+    "Website"
+  ],
+  "description": "These guides will help you setup an app on Nymbol and get started consuming and creating content. They don't focus on specific platforms, but rather cover the REST API and steps you need to take on the Nymbol website."
+}

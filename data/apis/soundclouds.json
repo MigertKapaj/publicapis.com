@@ -1,0 +1,16 @@
+{
+  "id": "soundclouds",
+  "title": "Soundclouds",
+  "link": "http://developers.soundcloud.com",
+  "image": "http://developers.soundcloud.com/assets/sc_sbs_white_header@1x.png",
+  "author": {
+    "name": "Soundclouds"
+  },
+  "tags": [
+    "Credit",
+    "Work",
+    "Data",
+    "Community"
+  ],
+  "description": "It's always nice to give people credit for their work. If you're building an app that uses data provided by SoundCloud and our community  it's best to give attribution."
+}

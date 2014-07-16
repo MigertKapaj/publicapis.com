@@ -1,0 +1,15 @@
+{
+  "id": "cloudhub-rest",
+  "title": "CloudHub REST",
+  "link": "http://www.mulesoft.org/documentation/display/CLOUDHUB/API",
+  "image": "https://www.mulesoft.org/sites/all/themes/mulesoft_community/logo.png",
+  "author": {
+    "name": "MuleSoft"
+  },
+  "tags": [
+    "Create",
+    "Change",
+    "Statistics"
+  ],
+  "description": "he CloudHub REST API provides a way for you to programmatically access much of CloudHub's functionality. It allows you to:Create applicationsChange application properties, including the number of workers and environment variablesDeploy a new version of your applicationDelete your applicationGet statistics about your application"
+}

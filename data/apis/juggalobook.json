@@ -1,0 +1,15 @@
+{
+  "id": "juggalobook",
+  "title": "JuggaloBook",
+  "link": "http://juggalobook.com/apps/developer/",
+  "image": "http://juggalobook.com/img/logo-jb-home.png",
+  "author": {
+    "name": "JuggaloBook"
+  },
+  "tags": [
+    "Developer",
+    "Existing",
+    "Server"
+  ],
+  "description": "As a developer you can create applications and add them to JuggaloBook, taking advantage of the existing user base. You host the application, which means that you are in full control of your server specifications. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "acquia-cloud",
+  "title": "Acquia Cloud",
+  "link": "https://cloudapi.acquia.com/",
+  "image": "",
+  "author": {
+    "name": "Cloud"
+  },
+  "tags": [
+    "Developers",
+    "Customize",
+    "Control",
+    "Executes"
+  ],
+  "description": "The Acquia Cloud API allows developers to extend, enhance, and customize Acquia Cloud.\nThere are two major components to Cloud API:                                                                                                                                                                                                         A RESTful web interface that allows direct control of Acquia Cloud sites.Complete documentation for the Cloud API web interface is below. Cloud Hooks, which are scripts in your code repository that Acquia Cloud executes on your behalf when a triggering action, including certain Cloud API functions, occur. "
+}

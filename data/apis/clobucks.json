@@ -1,0 +1,13 @@
+{
+  "id": "clobucks",
+  "title": "Clobucks",
+  "link": "http://api.clobucks.com/docs1.0",
+  "image": "http://api.clobucks.com/img/sprite.png",
+  "author": {
+    "name": "Clobucks"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "Добро пожаловать на страницу документации API партнерской программы Clobucks.com. С помощью наших API Вы можете реализовать собственный, не зависящий от нас интернет магазин."
+}

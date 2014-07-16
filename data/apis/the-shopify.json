@@ -1,0 +1,15 @@
+{
+  "id": "the-shopify",
+  "title": "The Shopify",
+  "link": "http://docs.shopify.com/api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQvDD8I_RjeNpXDCAUxPEJufOMFU4WHa-qztJdRpL4QEFcKwsWT",
+  "author": {
+    "name": " Shopify"
+  },
+  "tags": [
+    "Unlimited",
+    "Web App",
+    "Software"
+  ],
+  "description": "The Shopify API allows for an almost unlimited set of possibilities for interfacing the Shopify platform with your favorite CMS, web app, or other third party software."
+}

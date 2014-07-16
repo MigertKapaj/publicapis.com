@@ -1,0 +1,16 @@
+{
+  "id": "geneprof",
+  "title": "GeneProf",
+  "link": "http://www.geneprof.org/GeneProf/webapi.jsp",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcStqfbFrP_iQiI8_gGMxnl7HJcq7HoAkx4JegbscYSimrS7hc_l",
+  "author": {
+    "name": "GeneProf"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Analysed",
+    "Resource"
+  ],
+  "description": "The GeneProf Web Services enable programmatic access to the public data stored in GeneProf's databases via a simple web service API. GeneProf is a web-based data analysis for RNA-seq and ChIP-seq experiments that is coupled with a database of ready-analysed experiments. As such, GeneProf constitutes a rich and growing, high-quality resource for information about gene expression and regulation and the GeneProf web services further allow computational biologists and software developers to utilise these data from external software and websites. "
+}

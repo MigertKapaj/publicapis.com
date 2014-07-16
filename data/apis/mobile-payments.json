@@ -1,0 +1,15 @@
+{
+  "id": "mobile-payments",
+  "title": "Mobile Payments",
+  "link": "http://developers.fortumo.com/sms-test-api/",
+  "image": "http://developers.fortumo.com/wp-content/themes/wordpress-bootstrap/images/fortumo_developers.png",
+  "author": {
+    "name": "Fortumo Developers"
+  },
+  "tags": [
+    "Service",
+    "Payment",
+    "Server"
+  ],
+  "description": "Mobile Payments API is the most flexible service type in Fortumo. It allows you to create any payment service that you could think of, but it requires some programming skills and a web-server where you could host your program (for example as a PHP-script)."
+}

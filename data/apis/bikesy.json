@@ -1,0 +1,14 @@
+{
+  "id": "bikesy",
+  "title": "Bikesy",
+  "link": "http://blog.bikesy.com/api/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaAJatVAzARhi3OXQxaZPretjbeGupPLZngGtR_jk3ztRXLWWN",
+  "author": {
+    "name": "Bikesy Blog"
+  },
+  "tags": [
+    "Available",
+    "Change"
+  ],
+  "description": "Bikesy’s bike routes are available via an API. This is still in beta and could change at any time. "
+}

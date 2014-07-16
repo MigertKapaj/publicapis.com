@@ -1,0 +1,16 @@
+{
+  "id": "xmlstats",
+  "title": "Xmlstats",
+  "link": "http://erikberg.com/api",
+  "image": "https://erikberg.com/images/logos-203x26-crushed.png",
+  "author": {
+    "name": "Xmlstats"
+  },
+  "tags": [
+    "Verbose",
+    "Text",
+    "Reduce",
+    "Gzip"
+  ],
+  "description": "Although XML files can be verbose, plain text compresses very well. XML and JSON file sizes are dramatically reduced when compressed. If your client advertises that it can accept gzip, files will be delivered compressed. This is quicker for you and for me and is strongly encouraged. Chances are, the library you are using already has wide support for compression and this can be enabled easily. Please take a minute to look if you have not enabled compression already."
+}

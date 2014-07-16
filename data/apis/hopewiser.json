@@ -1,0 +1,15 @@
+{
+  "id": "hopewiser",
+  "title": "Hopewiser",
+  "link": "http://services.hopewiser.com/",
+  "image": "http://services.hopewiser.com/uploads/hpw/logo.png",
+  "author": {
+    "name": "Hopewiser"
+  },
+  "tags": [
+    "Function",
+    "Data",
+    "Retrieve"
+  ],
+  "description": "It provides postcode and address search functions, with the added ability to customise label formatting and retrieve extra data."
+}

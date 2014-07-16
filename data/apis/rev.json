@@ -1,0 +1,16 @@
+{
+  "id": "rev",
+  "title": "Rev",
+  "link": "http://www.rev.com/api/docs",
+  "image": "http://www.rev.com/content/img/rev/rev_logo_colored_top.png",
+  "author": {
+    "name": "Rev"
+  },
+  "tags": [
+    "Network",
+    "Service",
+    "Secure",
+    "Questions"
+  ],
+  "description": "The Rev API allows you to tap our extensive network of professionals with no manual steps. Deliver added value to your clients by allowing them to place orders as part your service. Our RESTful API is extensively documented, secure and easy to incorporate into any product. Our engineering team is ready to help should you have questions. "
+}

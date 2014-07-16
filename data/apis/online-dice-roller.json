@@ -1,0 +1,15 @@
+{
+  "id": "online-dice-roller",
+  "title": "Online Dice Roller",
+  "link": "http://rolz.org/?p=api",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSKblAzDdeJFIL0GzoYeWdM8FCnDp9qEJQQ8Ff4S5cG3Y8z7QA",
+  "author": {
+    "name": "Online Dice Roller"
+  },
+  "tags": [
+    "Tool",
+    "Roleplaying",
+    "Games."
+  ],
+  "description": "Dice Roller is a free tool for, well, rolling dice for roleplaying games. We also have an API that you can call from your applications: Dice Roller API."
+}

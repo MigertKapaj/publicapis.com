@@ -1,0 +1,13 @@
+{
+  "id": "instant-pdf",
+  "title": "instant PDF",
+  "link": "https://www.mashape.com/yogthos/instant-pdf",
+  "image": "",
+  "author": {
+    "name": "yogthos"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API allows generating PDFs using JSON markup. The API accepts HTTP POST requests and returns PDF documents. \r\n\r\nFurther documentation is available at https://github.com/yogthos/instant-pdf"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "legiscan",
+  "title": "LegiScan",
+  "link": "http://legiscan.com/legiscan",
+  "image": "http://acme.legiscan.com/images/logo.png",
+  "author": {
+    "name": "LegiScan"
+  },
+  "tags": [
+    "Data",
+    "Service",
+    "Interface"
+  ],
+  "description": "The LegiScan API is the nation's first data service providing structured XML or JSON real-time information for legislation in all 50 states and Congress in a RESTful web interface."
+}

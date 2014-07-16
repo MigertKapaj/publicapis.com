@@ -1,0 +1,14 @@
+{
+  "id": "usc-map",
+  "title": "USC Map",
+  "link": "http://web-app.usc.edu/ws/uscmap/help",
+  "image": "http://www.usc.edu/usc/img/01/usc-name-white-cardinal.gif",
+  "author": {
+    "name": "University of Southern California"
+  },
+  "tags": [
+    "Locations. Building code",
+    "Photo"
+  ],
+  "description": "Search for locations based on scanning map name, full name and building codeThe ability to get a location list with addition fields (e.g. lat, lng for latitude and longitude; building_code; building_no; map_name; full_name; keywords; short_description; description; photo; lg_photo; suggested_parking; hours; accessibility; disability_access; \naddress; url; campus)JSONP result sets using callback optionRestrict results to type of location (e.g. Buildings, Park/Plaza)Get locations by campus location"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "wine-searcher",
+  "title": "Wine-Searcher",
+  "link": "http://www.wine-searcher.com/ws-api-terms-of-use.lml",
+  "image": "http://sr5.wine-searcher.net/images/sprites.12.png",
+  "author": {
+    "name": "Wine-Searcher"
+  },
+  "tags": [
+    "Developer",
+    "Information",
+    "Online"
+  ],
+  "description": "This page is intended for IT developers or programmers. If you have consulted the information below and are happy to comply with our API Terms of Use please complete this simple online form. "
+}

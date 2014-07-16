@@ -1,0 +1,17 @@
+{
+  "id": "picmonkey",
+  "title": "PicMonkey",
+  "link": "http://www.picmonkey.com/help/articles/1017782-api-documentation",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTFnXmiOIR3wywHuOyOfAb0cGTd1rUyQMU3tTXUTw0SIglWfJPW4w",
+  "author": {
+    "name": "PicMonkey"
+  },
+  "tags": [
+    "User",
+    "Editing",
+    "Safe",
+    "Integrate",
+    "Website"
+  ],
+  "description": "you know it’s cold out there! Why send your users packing when you can take care of their photo editing needs safe and warm, at home with you? The PicMonkey API lets you integrate the PicMonkey editing experience directly into your Web site, with just a few lines of code."
+}

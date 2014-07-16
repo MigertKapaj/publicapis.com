@@ -1,0 +1,15 @@
+{
+  "id": "profanity-filter",
+  "title": "Profanity Filter",
+  "link": "http://www.webpurify.com/documentation/endpoints/",
+  "image": "http://www.webpurify.com/images/logo.png",
+  "author": {
+    "name": "WebPurify"
+  },
+  "tags": [
+    "Implement",
+    "Service",
+    "Documentation"
+  ],
+  "description": "WebPurify is very simple to implement for anyone that has experience using HTTP web services. After reading our documentation, if you have any questions please email support@webpurify.com and we will be happy to help!"
+}

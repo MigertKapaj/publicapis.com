@@ -1,0 +1,14 @@
+{
+  "id": "pincode",
+  "title": "PINCode",
+  "link": "http://pin-codes.in/api-details",
+  "image": "",
+  "author": {
+    "name": "PINCode"
+  },
+  "tags": [
+    "Developers",
+    "Details"
+  ],
+  "description": "PINCode API allows developers to get details (Post Office, District, State) of PIN Codes of India."
+}

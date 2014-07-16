@@ -1,0 +1,16 @@
+{
+  "id": "silanis",
+  "title": "Silanis",
+  "link": "http://developers.silanis.com/",
+  "image": "http://www.developers.silanis.com/resources/default/default/img/logoDeveloper.gif",
+  "author": {
+    "name": "Silanis"
+  },
+  "tags": [
+    "Electronics",
+    "Silanis",
+    "Documents",
+    "Service"
+  ],
+  "description": "e‐SignLive is a cloud-based electronic-signature service from Silanis. It enables organizations and individuals to invite others (e.g., customers, partners, suppliers) to sign documents instantly over the Web. The e‐SignLive™ service can be accessed either through its GUI or programmatically through its API. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "doctape",
+  "title": "doctape",
+  "link": "https://developer.doctape.com/introduction",
+  "image": "https://developer.doctape.com/img/dtdev-logo.png",
+  "author": {
+    "name": "doctape"
+  },
+  "tags": [
+    "Protocol",
+    "Access",
+    "Token",
+    "Detailed"
+  ],
+  "description": "The doctape API uses a subset of the OAuth 2.0 protocol for authentication. To get started, log in to create your first application right away. To gain an access token, be sure to have a look at the detailed Authentication Guide first."
+}

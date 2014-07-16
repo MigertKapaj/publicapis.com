@@ -1,0 +1,15 @@
+{
+  "id": "sifter",
+  "title": "Sifter",
+  "link": "https://sifterapp.com/developer",
+  "image": "https://assets.sifterapp.com/assets/public/Logo@2x-802f5fcdc2a9f4fdf29284a48d9dc10f.png",
+  "author": {
+    "name": "Sifterapp"
+  },
+  "tags": [
+    "Community",
+    "Possible",
+    "Concessions"
+  ],
+  "description": "The API is in beta. We want to make it awesome, but we feel like we need community feedback for that to happen. We can't imagine all of the possible ways that everyone wants to use it, so we felt that getting a limited API in your hands now was better than a perfect API. As a result, we've made some concessions so we could ship it."
+}

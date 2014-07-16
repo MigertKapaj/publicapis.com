@@ -1,0 +1,15 @@
+{
+  "id": "marketing-email",
+  "title": "Marketing Email",
+  "link": "http://sendgrid.com/docs/API_Reference/Marketing_Emails_API/index.html",
+  "image": "http://sendgrid.com/docs/images/sendgrid-logo.png?embed=true",
+  "author": {
+    "name": "SendGrid"
+  },
+  "tags": [
+    "Developer",
+    "Handling",
+    "Message"
+  ],
+  "description": "The Marketing Email API provides developers with the ability to manage marketing emails, lists, identities, and schedule delivery events. This can be very useful in allowing development teams to propagate data in and out of the web based Marketing Email App that can be easily used by members of the company with little or no programming expertise."
+}

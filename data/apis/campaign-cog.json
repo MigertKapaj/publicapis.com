@@ -1,0 +1,16 @@
+{
+  "id": "campaign-cog",
+  "title": "Campaign Cog",
+  "link": "http://campaigncog.com/faq",
+  "image": "http://campaigncog.com/docs/_media//cc-title.png",
+  "author": {
+    "name": "Campaign Cog"
+  },
+  "tags": [
+    "Service",
+    "Performance",
+    "Access",
+    "Data"
+  ],
+  "description": "Campaign Cog is a service that will allow you to simply check the performance of your email campaigns. You'll get the usual open rate but you'll also get access to behavioural data that you've never had before!"
+}

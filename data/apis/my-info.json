@@ -1,0 +1,16 @@
+{
+  "id": "my-info",
+  "title": "My Info",
+  "link": "http://developers.odesk.com/w/page/47632383/My%20Info",
+  "image": "http://developers.odesk.com/f/1348717467/odeskdeveloper_logo.png",
+  "author": {
+    "name": "Odeskdevelopers"
+  },
+  "tags": [
+    "Return",
+    "Info",
+    "Authenticated",
+    "Profile"
+  ],
+  "description": "This API call will return detailed info about current authenticated user and some data from his/her profile."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "cloudability",
+  "title": "cloudability",
+  "link": "https://cloudability.com/features/",
+  "image": "https://cloudability.com/images/logo.png",
+  "author": {
+    "name": "cloudability"
+  },
+  "tags": [
+    "Data",
+    "Spent",
+    "Spending"
+  ],
+  "description": "Explore all of your AWS billing, usage and tagging data in one analytics tool to see what's being spent, who's spending it and where you could be spending less."
+}

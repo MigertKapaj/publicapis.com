@@ -1,0 +1,15 @@
+{
+  "id": "brightidea",
+  "title": "Brightidea",
+  "link": "http://www.brightidea.com/API.bix",
+  "image": "http://www.brightidea.com/ideaimages/universal/brightidealogo.png",
+  "author": {
+    "name": "Brightidea"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Advanced"
+  ],
+  "description": "The Brightidea Application Programming Interface (API) allows you to access your data that was created using Brightidea On Demand Products. The API can be used for creating advanced reports to creating and updating user profiles."
+}

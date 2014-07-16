@@ -1,0 +1,14 @@
+{
+  "id": "scrumy",
+  "title": "Scrumy",
+  "link": "http://apidoc.scrumy.com/wiki/show/REST+API",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTPpe1QsXCB-e-IfWJFahXwT8nIXCEzuWL_iQo5E78DydjHOCES",
+  "author": {
+    "name": "Scrumy"
+  },
+  "tags": [
+    "Complete",
+    "Methods"
+  ],
+  "description": "This documentation is currently not complete, but as of writing, all of the available methods are at least mentioned."
+}

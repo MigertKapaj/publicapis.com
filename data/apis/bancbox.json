@@ -1,0 +1,15 @@
+{
+  "id": "bancbox",
+  "title": "BancBox",
+  "link": "http://www.bancbox.com/api/view/31",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7etxgDsjJhuTOOyhOGS7wQZIKxzBykbl8dGVVdAzmj3DiCVSh",
+  "author": {
+    "name": "bancbox"
+  },
+  "tags": [
+    "Execute",
+    "Verification",
+    "Perform"
+  ],
+  "description": "While createClient will not fail if you do not provide the DOB and SSN, you will not be able to execute openAccount for that client until you provide correct information for these fields, and subsequently, use the verifyClient API to perform identity verification necessary for opening a bank account."
+}

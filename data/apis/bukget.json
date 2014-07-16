@@ -1,0 +1,15 @@
+{
+  "id": "bukget",
+  "title": "BukGet",
+  "link": "http://bukget.org/documentation",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwwws9f8EdTRNzEmuNK_GnuJwQjHoO8DqWUy_UXyiiioiOAmT6RQ",
+  "author": {
+    "name": "BukGet"
+  },
+  "tags": [
+    "Data",
+    "System",
+    "Developer"
+  ],
+  "description": "BukGet is an API for getting data about bukkit plugins. The system parses BukkitDev every 6 hours and looks for new changes in the data to update. All of this is automatic and happens without any developer intervention."
+}

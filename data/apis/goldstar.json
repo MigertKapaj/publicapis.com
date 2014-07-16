@@ -1,0 +1,16 @@
+{
+  "id": "goldstar",
+  "title": "Goldstar",
+  "link": "https://github.com/goldstar/apidocs/wiki",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Functionality",
+    "Exposed",
+    "Progress",
+    "Suggestion"
+  ],
+  "description": "The Goldstar API enables developers to build functionality on top of Goldstar. Only a small amount of functionality is exposed through these APIs. They are works in progress. Your feedback, input and suggestions are welcomed."
+}

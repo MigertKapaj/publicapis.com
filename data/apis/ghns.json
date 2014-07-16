@@ -1,0 +1,15 @@
+{
+  "id": "ghns",
+  "title": "GHNS",
+  "link": "http://ghns.freedesktop.org/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQh7q74NMV-yAZrFWNRnzZMr2Kr2MsMnh54cooYkQRkFBpoyiZd",
+  "author": {
+    "name": "GHNS Project"
+  },
+  "tags": [
+    "Internet",
+    "Scripts",
+    "Provide"
+  ],
+  "description": "Free desktops empower their users to work together over the internet, and share their ideas, artwork, scripts and files. The missions of GHNS is to provide the necessary infrastructure on the client, the server and the protocols in between. "
+}

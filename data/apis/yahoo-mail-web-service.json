@@ -1,0 +1,16 @@
+{
+  "id": "yahoo-mail-web-service",
+  "title": "Yahoo Mail Web Service",
+  "link": "http://developer.yahoo.com/mail/",
+  "image": "https://s.yimg.com/zz/combo?a/i/ydn/sst/44/mail.gif",
+  "author": {
+    "name": "Yahoo Mail Web Service"
+  },
+  "tags": [
+    "Web-based",
+    "Information",
+    "Parse message",
+    "Compose"
+  ],
+  "description": "Yahoo Mail is a free, web-based email service. With the Mail API, you can build applications that display message summary information, parse message contents, manage folders, and even compose and send messages.                            \n\n                            \n                            \n     "
+}

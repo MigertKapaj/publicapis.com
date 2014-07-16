@@ -1,0 +1,15 @@
+{
+  "id": "ortc",
+  "title": "ORTC",
+  "link": "http://messaging-public.realtime.co/documentation/starting-guide/overview.html",
+  "image": "http://www.realtime.co/img/logo-realtimeco.png",
+  "author": {
+    "name": "Realtime.co"
+  },
+  "tags": [
+    "Messaging",
+    "Receivers",
+    "Publishers"
+  ],
+  "description": "Realtime Cloud Messaging uses the Pub/Sub (publish/subscribe) messaging pattern, where senders of messages, called publishers, do not program the messages to be sent directly to specific receivers, called subscribers."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "question-answering",
+  "title": "Question-Answering",
+  "link": "https://www.mashape.com/webknox/question-answering",
+  "image": "",
+  "author": {
+    "name": "webknox"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "The WebKnox question-answering API allows you to find answers to natural language questions. These questions can be factual such as \"What is the capital of Australia\" or more complex."
+}

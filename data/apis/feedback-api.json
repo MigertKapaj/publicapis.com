@@ -1,0 +1,16 @@
+{
+  "id": "feedback-api",
+  "title": "Feedback API ",
+  "link": "https://www.x.com/developers/ebay/products/feedback-api",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "ebay"
+  },
+  "tags": [
+    "Account level Feedback",
+    "DSR Based Reports",
+    "DSR Scores",
+    "DSE Data"
+  ],
+  "description": "eBay Feedback DSR APIs provide an easy way to manage account-level Feedback data, specifically Detailed Seller Ratings (DSRs). Use the Feedback API to develop DSR-based reports and tools that offer insight into how specific business practices contribute to a seller's DSR scores. DSR data can help sellers understand particular strengths and weaknesses in their business model as well as possible areas for improvement. For example, a particular shipping service may consistently deliver high DSRs, while a items listed in a particular category contribute to most of the lower ratings."
+}

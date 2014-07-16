@@ -1,0 +1,16 @@
+{
+  "id": "don-best-sports",
+  "title": "Don Best Sports",
+  "link": "http://dbs-web-api.wikidot.com/web-api-home",
+  "image": "",
+  "author": {
+    "name": "Don Best Sports"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Obtain",
+    "Visiting"
+  ],
+  "description": "The SOAP web services allow you to access the data remotely. In order to access the data through the web service you need to have a SOAP client. The simplest way to create a SOAP client is through the WSDL file. You can obtain the WSDL file for each of the services Don Best offers by visiting a service page listed on the left."
+}

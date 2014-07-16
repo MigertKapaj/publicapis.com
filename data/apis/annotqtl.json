@@ -1,0 +1,15 @@
+{
+  "id": "annotqtl",
+  "title": "AnnotQTL",
+  "link": "http://annotqtl.genouest.org/tutorial#tuto_7",
+  "image": "",
+  "author": {
+    "name": "AnnotQTL"
+  },
+  "tags": [
+    "Designed",
+    "Specific",
+    "Candidate"
+  ],
+  "description": "As mentioned, the AnnotQTL tool was designed to provide the most complete annotation of a specific chromosomal region to help in the selection of the best candidate genes."
+}

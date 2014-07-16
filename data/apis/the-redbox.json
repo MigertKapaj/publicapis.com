@@ -1,0 +1,16 @@
+{
+  "id": "the-redbox",
+  "title": "The Redbox",
+  "link": "http://developer.redbox.com/",
+  "image": "http://developer.redbox.com/sites/all/themes/redbox/redbox_logo.png",
+  "author": {
+    "name": " Redbox"
+  },
+  "tags": [
+    "Products",
+    "Inventory",
+    "Interface",
+    "Stores"
+  ],
+  "description": "The Redbox API consists of three resources: Products, Stores and Inventory  These resources will give you the power to create a compelling Redbox experience through an easy-to-use interface.  The Redbox API provides a simple RESTful interface with easy-to-parse XML, JSON and JSONP responses. "
+}

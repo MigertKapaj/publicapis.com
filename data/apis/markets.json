@@ -1,0 +1,15 @@
+{
+  "id": "markets",
+  "title": "Markets",
+  "link": "http://bitcoincharts.com/about/markets-api/",
+  "image": "http://bitcoincharts.com/static/chartslogo.png",
+  "author": {
+    "name": "Bitcoin Charts"
+  },
+  "tags": [
+    "Data",
+    "Apps",
+    "Remember"
+  ],
+  "description": "Bitcoincharts provides a simple API to most of its data. You can use this API to include markets data in your websites, mobile apps or desktop applets. Please remember to add a link to Bitcoincharts!"
+}

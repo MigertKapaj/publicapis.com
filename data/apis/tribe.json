@@ -1,0 +1,16 @@
+{
+  "id": "tribe",
+  "title": "Tribe",
+  "link": "http://tribe.openjawtech.com/",
+  "image": "http://tribe.openjawtech.com/wp-content/uploads/2013/05/tribe-web-banner-940-x-312.png",
+  "author": {
+    "name": "Tribe"
+  },
+  "tags": [
+    "Storefront",
+    "Multiple",
+    "Retailing plateform",
+    "Tool"
+  ],
+  "description": "Tribe reduces time-to-market and empowers development of storefront services across multiple channels, by allowing developers access to OpenJaw’s complete travel retailing platform, the t-Retail Platform. By providing a complete framework of tools and resources, Tribe simplifies integration with the t-Retail Platform, allowing developers to focus on exciting User Experiences and commercial potential in their front-end applications."
+}

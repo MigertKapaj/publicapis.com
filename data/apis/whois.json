@@ -1,0 +1,13 @@
+{
+  "id": "whois",
+  "title": "Whois",
+  "link": "https://www.mashape.com/enclout/whois-1",
+  "image": "",
+  "author": {
+    "name": "enclout"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "This API takes a URL or domain as input and return back whois data."
+}

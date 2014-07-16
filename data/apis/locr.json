@@ -1,0 +1,16 @@
+{
+  "id": "locr",
+  "title": "Locr",
+  "link": "http://www.locr.com/api-tools",
+  "image": "http://www.locr.com/gfx/gif/transparent.gif",
+  "author": {
+    "name": "Locr"
+  },
+  "tags": [
+    "Intergrate",
+    "Technical",
+    "JavaScript",
+    "Languages"
+  ],
+  "description": "In the locr API and tools section you will find useful stuff to integrate locr content in your website and/or programs. This section is intended for a technical experienced audience so you should be familiar with JavaScript, REST, XML, JSON and maybe other programming languages and protocols.This section will be constantly extended regularily to get the most out of our content .So stay tuned. In fact, its´ not our content - it's your content, the content of the locr community - and so we will give it back to you"
+}

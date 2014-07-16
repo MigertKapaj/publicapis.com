@@ -1,0 +1,15 @@
+{
+  "id": "kickfolio",
+  "title": "Kickfolio",
+  "link": "https://github.com/Kickfolio/ApiDocs",
+  "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQdOjXhq-mPhusvUNpqnNU5gvumIftcfFrQpwz7U3cJovvgg1-",
+  "author": {
+    "name": "Github"
+  },
+  "tags": [
+    "Versions",
+    "Commenting",
+    "Generally"
+  ],
+  "description": "Our API allows you to create and manage your Apps, including uploading new Versions, removing Versions, and commenting on Versions. All responses are in JSON format, and the URL structure generally tries to follow RFC-2616."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "ndf-rt",
+  "title": "NDF-RT",
+  "link": "http://rxnav.nlm.nih.gov/NdfrtAPIREST.html",
+  "image": "http://rxnav.nlm.nih.gov/css/images/rxnav_logo.gif",
+  "author": {
+    "name": "RxNAV"
+  },
+  "tags": [
+    "Service",
+    "Data",
+    "Web"
+  ],
+  "description": "The NDF-RT API is a web service for accessing the current National Drug File - Reference Terminology (NDF-RT) data set."
+}

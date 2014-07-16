@@ -1,0 +1,16 @@
+{
+  "id": "wordreference",
+  "title": "WordReference",
+  "link": "http://www.wordreference.com/docs/api.aspx",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4c6zk8xXJMLqPy86BXvz6_nsMM8vYLsPkijzPmpFxG5XhZTEgLg",
+  "author": {
+    "name": "WordReference"
+  },
+  "tags": [
+    "Developer",
+    "Innovative",
+    "Understand",
+    "Words"
+  ],
+  "description": "We are happy to provide an API to be used by developers and are looking forward to seeing what innovative and useful tools might result.  For those accustomed to Google Translate's API, please understand that this is very different.  WordReference offers dictionary translations of words and phrases, not machine translation of sentences."
+}

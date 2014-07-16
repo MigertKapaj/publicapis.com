@@ -1,0 +1,16 @@
+{
+  "id": "giant-bomb",
+  "title": "Giant Bomb",
+  "link": "http://www.giantbomb.com/api/",
+  "image": "http://static.giantbomb.com/bundles/phoenixsite/images/core/loose/logo-gb.png",
+  "author": {
+    "name": "GiantBomb"
+  },
+  "tags": [
+    "Access",
+    "Data",
+    "Specific",
+    "Individually"
+  ],
+  "description": "These APIs provide full access to our structured-wiki content data in XML and JSON formats. It does not provide data specific to our userbase. You must sign up for a unique api key for each site individually. "
+}

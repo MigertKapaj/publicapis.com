@@ -1,0 +1,17 @@
+{
+  "id": "nationstates",
+  "title": "NationStates",
+  "link": "http://www.nationstates.net/pages/api.html",
+  "image": "",
+  "author": {
+    "name": "NationStates"
+  },
+  "tags": [
+    "External",
+    "Data",
+    "Game",
+    "Reports",
+    ""
+  ],
+  "description": "The NationStates API allows external sites to collect data about the game world. You can access it via your own scripts to gather information\n and produce extended reports or analysis.\n\n"
+}

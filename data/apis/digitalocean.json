@@ -1,0 +1,15 @@
+{
+  "id": "digitalocean",
+  "title": "DigitalOcean",
+  "link": "https://developers.digitalocean.com/",
+  "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS8ICCwg-BZLtIwOyRXpzRVnrRb74I3PiPEMv9jMEDoRlaHId6d",
+  "author": {
+    "name": "DigitalOcean"
+  },
+  "tags": [
+    "Support",
+    "Actions",
+    "Interface"
+  ],
+  "description": "All of the functionality that you find in our web control panel will be made available via the API. Today we support all of the major Droplet actions allowing you to build your own control interface using our API."
+}

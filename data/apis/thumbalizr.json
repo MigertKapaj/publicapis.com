@@ -1,0 +1,16 @@
+{
+  "id": "thumbalizr",
+  "title": "thumbalizr",
+  "link": "http://www.thumbalizr.com/apitools.php",
+  "image": "http://www.thumbalizr.com/gfx/thumbalizr_logo.png",
+  "author": {
+    "name": "thumbalizr"
+  },
+  "tags": [
+    "Interface",
+    "Improved",
+    "Features",
+    "Data"
+  ],
+  "description": "Online and API interfaces have been improved with some new features and better data handling."
+}

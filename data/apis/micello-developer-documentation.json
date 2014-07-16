@@ -1,0 +1,16 @@
+{
+  "id": "micello-developer-documentation",
+  "title": "Micello Developer Documentation",
+  "link": "http://www.micello.com/developer/docs",
+  "image": "http://www.micello.com/sites/default/themes/micelloV3/images/logo.gif",
+  "author": {
+    "name": "Micello"
+  },
+  "tags": [
+    "Place",
+    "Ananotate",
+    "Intract",
+    "Tutorials"
+  ],
+  "description": "The Javascript Map API includes four main sections which describes how to place, annotate, interact and override the map on the Web page. In addition, there are tutorials and code samples for how to explicitly utilize these features."
+}

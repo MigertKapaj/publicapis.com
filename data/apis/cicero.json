@@ -1,0 +1,16 @@
+{
+  "id": "cicero",
+  "title": "Cicero",
+  "link": "http://www.azavea.com/products/cicero/api/api-documentation/rest-api/",
+  "image": "http://auto1.cdn.azavea.com/themes/Cicero/images/cicero-logo.png+button-black.png+pricing_logo_groundwire.png+pricing_logo_salsa.png+pricing_logo_techsoup.png+pricing-check.png+pricing-uncheck.png+azavea-logo-product-of.png.pagespeed.is.G68FnfdpsP.png",
+  "author": {
+    "name": "Cicero"
+  },
+  "tags": [
+    "Official",
+    "Data",
+    "Website",
+    "district"
+  ],
+  "description": "The Cicero API matches your addresses to their legislative districts and gives you back a wealth of elected official contact information. Whether you want to populate constituent records in your database or provide an elected official lookup tool on your website, use the Cicero API for rapid and highly accurate district matching and data population."
+}

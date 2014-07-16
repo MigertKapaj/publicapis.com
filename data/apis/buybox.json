@@ -1,0 +1,15 @@
+{
+  "id": "buybox",
+  "title": "BuyBox",
+  "link": "http://www.buybox.net/fr/buybox-api.html",
+  "image": "https://www.buybox.net/fr/images/buybox_logo_180x100.png",
+  "author": {
+    "name": "BuyBox"
+  },
+  "tags": [
+    "Applications",
+    "Social",
+    "Financiers"
+  ],
+  "description": "BuyBox API est une porte d'entrée pour créer vos propres applications en utilisant les fonctionnalités de Social Payment. Notre API s'adapte au sens large à de nombreux modèles financiers et architectures de flux."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "bigcommerce-stores",
+  "title": "Bigcommerce Stores",
+  "link": "https://developer.bigcommerce.com/api/authentication",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sPztLTjUP0mZQNOx_QLlclewRhvYZrF32L_prjdbUuK4G0WYbA",
+  "author": {
+    "name": "Bigcommerce"
+  },
+  "tags": [
+    "Interface",
+    "Resources",
+    "Represent"
+  ],
+  "description": "The Bigcommerce Stores API is a uniform interface to the resources and events that represent the activity of merchant stores on our platform."
+}

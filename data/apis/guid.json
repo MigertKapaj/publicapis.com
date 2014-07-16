@@ -1,0 +1,15 @@
+{
+  "id": "guid",
+  "title": "GUID",
+  "link": "http://guid.setgetgo.com/",
+  "image": "",
+  "author": {
+    "name": "GUID"
+  },
+  "tags": [
+    "Across",
+    "Networks",
+    "Required"
+  ],
+  "description": "A GUID is a 128-bit integer that can be used across all computers and networks wherever a unique identifier is required."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "surechem",
+  "title": "Surechem",
+  "link": "https://www.surechem.com/products/direct",
+  "image": "https://www.surechem.com/assets/images/logo-white.png",
+  "author": {
+    "name": "Surechem"
+  },
+  "tags": [
+    "Extraction",
+    "Patents",
+    "Database",
+    "Research"
+  ],
+  "description": "Enterprise users need a solution that provides easy extraction of large volumes of chemistry from patents, eliminates the lag time between publication of patents and chemisty indexing and gives them the ability to merge it into existing applications - including Pipeline Pilot - and databases. SureChemDirect is an API-based product that lets you easily plug patent chemistry into your organisation's research workflow."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "remind",
+  "title": "Remind",
+  "link": "http://betwext.com/api/remind",
+  "image": "http://betwext.com/public/i/betwext_developer_center_logo.gif",
+  "author": {
+    "name": "Betwext"
+  },
+  "tags": [
+    "Creating",
+    "Supports",
+    "Resources"
+  ],
+  "description": "Because the API is based on RESTful principles, creating applications that utilize the API is quite easy. You can use just about any language that supports HTTP to interact with the Remind API, and can even view many resources in a standard web browser."
+}

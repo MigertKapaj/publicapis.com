@@ -1,0 +1,15 @@
+{
+  "id": "bitcoins",
+  "title": "Bitcoins",
+  "link": "http://coincard.ndrix.com/api.html",
+  "image": "http://coincard.ndrix.com/logo.png",
+  "author": {
+    "name": "B CoinCard"
+  },
+  "tags": [
+    "Possible",
+    "Errors",
+    "Production"
+  ],
+  "description": "It's also possible to get errors about specific API fields. These errors only happen when you have a malformed request. Since they shouldn't happen once your code is in production, error codes are not included. "
+}

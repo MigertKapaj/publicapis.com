@@ -1,0 +1,16 @@
+{
+  "id": "easycron",
+  "title": "EasyCron",
+  "link": "http://www.easycron.com/document",
+  "image": "http://www.easycron.com/assets/img/easycron-logo.png",
+  "author": {
+    "name": "EasyCron"
+  },
+  "tags": [
+    "Manage",
+    "jobs",
+    "Sections",
+    "Described"
+  ],
+  "description": "All registered users of EasyCron can utilize our API to manage their cron jobs without logging in easycron.com.\nWe implemented a REST API which is very easy to use. Below sections described how to use it."
+}

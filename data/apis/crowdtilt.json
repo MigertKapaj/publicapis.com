@@ -1,0 +1,15 @@
+{
+  "id": "crowdtilt",
+  "title": "Crowdtilt",
+  "link": "https://github.com/Crowdtilt/crowdtilt-api-spec/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxREdxJ1dE6O2rL9MDq0WcxrraTRCGEdGTNTI9zzw18k-3_2usA",
+  "author": {
+    "name": "Crowdtilt"
+  },
+  "tags": [
+    "Developer",
+    "Payment",
+    "Lockitron"
+  ],
+  "description": "The Crowdtilt API opens up the opportunity for developers to:\nOffer a group payments option in their applications.Offer a pre-sales commerce option in their applications.Develop a crowdfunding application (i.e., single project model like Lockitron\nor multi-project model like Kickstarter).Develop a social fundraising application.Enable the collaboration around these styles of commerce."
+}

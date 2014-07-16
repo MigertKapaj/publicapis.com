@@ -1,0 +1,15 @@
+{
+  "id": "tubemogul",
+  "title": "TubeMogul",
+  "link": "http://www.tubemogul.com/api/v3/doc",
+  "image": "http://www.tubemogul.com/static/img/logo-tubemogul-internal.png",
+  "author": {
+    "name": "TubeMogul"
+  },
+  "tags": [
+    "Developers",
+    "Distribution",
+    "Capabilities"
+  ],
+  "description": "The TubeMogul API allows developers to create customized applications that leverage the distribution and analytics capabilities available on the TubeMogul Web site. "
+}

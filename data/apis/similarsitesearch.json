@@ -1,0 +1,17 @@
+{
+  "id": "similarsitesearch",
+  "title": "SimilarSitesearch",
+  "link": "http://www.similarsitesearch.com/api.html",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbmmyHRJHs4uY7Y5peiB0w_hwa7-wNnc7iHQnlLxVX2s_wf4Z6",
+  "author": {
+    "name": "SimilarSitesearch"
+  },
+  "tags": [
+    "Requests",
+    "Service",
+    "Contacting",
+    "Abused",
+    "Terminate"
+  ],
+  "description": "The anonymous API only allows limited number of requests per day. If you want to use more requests, please apply for the API key. We provide free service to API key holders. However, you need to send us your reasons for using this service by contacting us. When approved, we will send you a link to the new API. If our service is being abused, we will terminate the account without notice."
+}

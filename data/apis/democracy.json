@@ -1,0 +1,15 @@
+{
+  "id": "democracy",
+  "title": "Democracy",
+  "link": "http://api.democratiespel.nl/api/v0/doc/",
+  "image": "",
+  "author": {
+    "name": "DemocratieSpel"
+  },
+  "tags": [
+    "Developers",
+    "Designed",
+    "Inteface"
+  ],
+  "description": "The Democracy API enables developers to interact with the Democracy web site programmatically. It's designed to make it possible for anyone to improve Democracy or integrate Democracy into other applications. You can develop a Democracy interface for a mobile phone, build a Democracy widget for your blog, or develop an application that makes it easy to post photos to your feed from your iPhone."
+}

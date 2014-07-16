@@ -1,0 +1,16 @@
+{
+  "id": "sociocast-core-rest",
+  "title": "Sociocast Core REST",
+  "link": "http://sociocast.github.io/",
+  "image": "http://sociocast.github.io/images/logo_small.jpg",
+  "author": {
+    "name": "Sociocast Core REST"
+  },
+  "tags": [
+    "Librarirs",
+    "Web services",
+    "Additionally",
+    "Utilize"
+  ],
+  "description": "This area is for application developers who want detailed information about the Sociocast REST API, in order to better understand the various methods and/or plan on building custom libraries against the API. This section is targeted for developers who have an understanding of RESTful web services and basic understanding of HTTP request/response frameworks. Additionally, many of the examples utilize cURL and JSON, so knowledge of these two are important."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "whoishostingthis",
+  "title": "WhoIsHostingThis",
+  "link": "http://www.whoishostingthis.com/our-api/",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS5R0UptqYUgkhvoEN7NBALfVLOL5sdAwpSGooiAtiB4QLSPOeHgw",
+  "author": {
+    "name": "WhoIsHostingThis"
+  },
+  "tags": [
+    "Information",
+    "Data",
+    "Protection"
+  ],
+  "description": "We hope it goes without saying that we will only use the information that we collect about you lawfully and in accordance with the UK Data Protection Act 1998. Above and beyond that, we will endeavour to use this information in a way that benefits you as a user."
+}

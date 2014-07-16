@@ -1,0 +1,13 @@
+{
+  "id": "terminal-information-rest-method",
+  "title": "Terminal Information - REST Method",
+  "link": "https://www.mashape.com/flightlookup/terminal-information-rest-method-1",
+  "image": "",
+  "author": {
+    "name": "flightlookup"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "FlightLookup Terminal Info - Answer the most frequently asked question by frequent travelers – “what terminal do I go to?” *Returns Terminal Information, *Flight Number, Arrival Terminal, Depart Terminal, Operating Carrier"
+}

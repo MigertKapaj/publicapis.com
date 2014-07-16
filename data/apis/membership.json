@@ -1,0 +1,16 @@
+{
+  "id": "membership",
+  "title": "Membership",
+  "link": "http://www.warwicksu.com/membershipapi/about/",
+  "image": "http://www.warwicksu.com/stylesheet/Athena/header_logo.png",
+  "author": {
+    "name": "Warwicksu.com"
+  },
+  "tags": [
+    "Secure",
+    "Validating",
+    "Members",
+    "Organsiation"
+  ],
+  "description": "The membership API allows you to secure your own website by validating that members of your club, society or other organsiation are who they say they are."
+}

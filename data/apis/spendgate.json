@@ -1,0 +1,16 @@
+{
+  "id": "spendgate",
+  "title": "Spendgate",
+  "link": "http://spendgate.com/developers/api/",
+  "image": "http://spendgate.com/wp/wp-content/uploads/Spendgate-Small.png",
+  "author": {
+    "name": "Spendgate"
+  },
+  "tags": [
+    "Exposed",
+    "Restful",
+    "Web",
+    "Exchange"
+  ],
+  "description": "The API is exposed as RESTful HTTPS web service calls using JSON exchange format."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "adsense-management",
+  "title": "AdSense Management",
+  "link": "https://developers.google.com/adsense/management/v1.4/reference/",
+  "image": "https://developers.google.com/_static/b4a960ba35/images/developers-logo.svg",
+  "author": {
+    "name": "Goggle Developers"
+  },
+  "tags": [
+    "Individual",
+    "Developer",
+    "manage"
+  ],
+  "description": "The AdSense Management API is intended for individual developers who want to get reports on AdSense earnings and manage AdSense inventory."
+}

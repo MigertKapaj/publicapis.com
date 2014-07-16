@@ -1,0 +1,16 @@
+{
+  "id": "karmadata",
+  "title": "karmadata",
+  "link": "http://www.karmadata.com/API",
+  "image": "http://www.karmadata.com/Content/Images/base/logo.png",
+  "author": {
+    "name": "karmadata"
+  },
+  "tags": [
+    "Developers",
+    "Data",
+    "Return",
+    "App"
+  ],
+  "description": "The market is inundated with brilliant app developers with great ideas for making a data driven app. Unfortunately, many of those app developers are shut out of access to the high quality data that they need to build their app. The karmadata API makes it easy and affordable for app developers to make calls that return XML or JSON. "
+}

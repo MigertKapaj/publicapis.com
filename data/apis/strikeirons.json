@@ -1,0 +1,16 @@
+{
+  "id": "strikeirons",
+  "title": "StrikeIron’s",
+  "link": "http://www.strikeiron.com",
+  "image": "http://www.strikeiron.com/wp-content/themes/strikeiron/img/StrikeIron-Logo.png",
+  "author": {
+    "name": "StrikeIron"
+  },
+  "tags": [
+    "Capabilities",
+    "Reports",
+    "Consultation",
+    "Testing"
+  ],
+  "description": "StrikeIron provides customers with a set of API Management capabilities, full-stack delivery infrastructure, reports and analytics, monitoring, and out-of-the-box API monetization mechanisms via our standard IronCloud platform offering. But that’s just part of the story. We will also provide consultation throughout the entire API onboarding process and beyond, from planning and design, testing, deployment and driving adoption of your IronCloud-published APIs."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "nifty-cloud",
+  "title": "Nifty Cloud",
+  "link": "http://cloud.nifty.com/api/",
+  "image": "http://cloud.nifty.com/images/cloud_logo.gif",
+  "author": {
+    "name": "Nifty Cloud"
+  },
+  "tags": [
+    ""
+  ],
+  "description": "現在公開中のニフティクラウドAPI 旧バージョンにつきまして、2013年11月より順次終了させていただくこととなりました。 ご利用中のお客様にはご迷惑をおかけすることになり誠に申し訳ございませんが、何卒ご理解のほどよろしくお願いいたします。"
+}

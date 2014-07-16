@@ -1,0 +1,16 @@
+{
+  "id": "web",
+  "title": "web",
+  "link": "http://blog.idealo.co.uk/tag/web-api",
+  "image": "http://blog.idealo.co.uk/wp-content/themes/idealo-b2b/images/logos/logo_co.uk.png",
+  "author": {
+    "name": "blog.idealo.co.uk"
+  },
+  "tags": [
+    "Product",
+    "Data",
+    "Present",
+    "Service"
+  ],
+  "description": "In the previous posts of this series on product data feeds, we discussed important data elements of a data feed and the most common errors found in submitted data files. In this post, we will present two alternatives to the CSV format for exporting your product offer data into our price comparison: XML files & the Idealo Web Service Interface (API)."
+}

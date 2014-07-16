@@ -1,0 +1,14 @@
+{
+  "id": "easy-text-message",
+  "title": "Easy Text Message",
+  "link": "http://www.clockworksms.com/doc/",
+  "image": "http://www.clockworksms.com/wp-content/themes/clockwork/images/logo.png",
+  "author": {
+    "name": "Clockwork"
+  },
+  "tags": [
+    "Running",
+    "Language"
+  ],
+  "description": "Be up and running in minutes regardless of what language or interface you use."
+}

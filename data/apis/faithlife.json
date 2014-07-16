@@ -1,0 +1,16 @@
+{
+  "id": "faithlife",
+  "title": "Faithlife",
+  "link": "https://developer.faithlife.com/",
+  "image": "https://faithlife.com/Content/images/logo-beta.png?v1",
+  "author": {
+    "name": "Faithlife"
+  },
+  "tags": [
+    "Accounts",
+    "Community",
+    "Data",
+    "Social"
+  ],
+  "description": "The Faithlife API is separated into two sections: Accounts and Community. The Accounts API encompasses user and group data, such as creating a group or user or determining what groups a user is a member of. The Community API encompasses all social interaction between accounts, such as commenting and creating notes. "
+}

@@ -1,0 +1,15 @@
+{
+  "id": "request-payment",
+  "title": "Request payment",
+  "link": "https://groosker.com/docs/rest_documentation",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqB7qNapuY-FvQZHkZMybHpGDtQ3qqhzPFG5n_K1yTW4dRVU94PQ",
+  "author": {
+    "name": "Groosker"
+  },
+  "tags": [
+    "Information",
+    "Purchase",
+    "Optionally"
+  ],
+  "description": "When the user scans the QR code he will be given information about the purchase. The price, information about the merchant (you) and optionally shipping information."
+}

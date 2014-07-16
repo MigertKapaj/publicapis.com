@@ -1,0 +1,15 @@
+{
+  "id": "cooltrade",
+  "title": "CoolTrade",
+  "link": "https://www.cool-trade.com/partners/api.asp",
+  "image": "https://www.cool-trade.com/Images/cooltrad_robotic.jpg",
+  "author": {
+    "name": "CoolTrade"
+  },
+  "tags": [
+    "Developer",
+    "Directly",
+    "Connect"
+  ],
+  "description": "Whether you're a commercial software developer, automated trader, individual investor, or black-box quant developer, you can connect directly to your CoolTrade Robotic Trader through our powerful Application Programming Interface (API). The CoolTrade API allows developers to enable their own programs to connect and interact with the CoolTrade Robotic Trader."
+}

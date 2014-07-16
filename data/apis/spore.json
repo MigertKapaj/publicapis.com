@@ -1,0 +1,16 @@
+{
+  "id": "spore",
+  "title": "Spore",
+  "link": "http://www.spore.com/comm/samples",
+  "image": "http://www.spore.com/static/war/images/header/NewLogoGreen.png",
+  "author": {
+    "name": "Spore"
+  },
+  "tags": [
+    "Platform",
+    "Data",
+    "Samples",
+    "Popular"
+  ],
+  "description": " The Spore API is cross platform. You can develop an application using Spore data in the environment of your choice. We have some libraries and samples for popular platforms to get you started. Click on the icons to to get going!"
+}

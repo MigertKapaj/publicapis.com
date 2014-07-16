@@ -1,0 +1,15 @@
+{
+  "id": "buzzstream",
+  "title": "BuzzStream",
+  "link": "https://api.buzzstream.com/",
+  "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVvUGwKS6pAh8-KCS-yreWPJ7ZubC-aDmHaHQKdMe70uRe-aBoQ",
+  "author": {
+    "name": "Buzzstream"
+  },
+  "tags": [
+    "Multiple",
+    "Paginator",
+    "Access"
+  ],
+  "description": "All API responses are JSON. Responses for GET requests on resources which could potentially yield multiple results are wrapped in a Paginator object. GET requests for subresources that yield multiple results are returned as a simple list. All requests to the BuzzStream API must be authenticated. In order to authenticate you must have access to a BuzzStream account. "
+}

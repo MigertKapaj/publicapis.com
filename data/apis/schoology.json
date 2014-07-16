@@ -1,0 +1,15 @@
+{
+  "id": "schoology",
+  "title": "Schoology",
+  "link": "https://developers.schoology.com/api-documentation/rest-api-v1",
+  "image": "https://developers.schoology.com/sites/developers.schoology.com/themes/schoology_developers/images/logo-developers.png",
+  "author": {
+    "name": "Schoology"
+  },
+  "tags": [
+    "Describes",
+    "Response",
+    "Authenticate"
+  ],
+  "description": "The Design and Architecture page describes the anatomy of a request/response pair as well as how the API uses OAuth to authenticate users. "
+}

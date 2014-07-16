@@ -1,0 +1,16 @@
+{
+  "id": "batchgeo",
+  "title": "BatchGeo",
+  "link": "http://batchgeo.com/",
+  "image": "http://batchgeo.com/images/logo-batchgeo.png",
+  "author": {
+    "name": "BatchGeo"
+  },
+  "tags": [
+    "Fastest",
+    "Data",
+    "Accepts",
+    "Postal"
+  ],
+  "description": "We love maps, and we think they should be easy to make - that's why we made BatchGeo. It's the fastest way to create google maps from your data. It accepts addresses, intersections, cities, states, and postal codes."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "zypr",
+  "title": "Zypr",
+  "link": "https://www.zypr.net/documentation/",
+  "image": "https://zypr-uploads.s3.amazonaws.com/uploads/2011/10/logo.jpg",
+  "author": {
+    "name": ""
+  },
+  "tags": [
+    "internet service providers",
+    "internet services",
+    ""
+  ],
+  "description": "Pioneer Corporation is a leading global manufacturer of consumer and business-use electronics \nproducts such as audio, video and car electronics. In January 2010, \nPioneer announced the Zypr platform for the aggregation of Internet \nservices using the code name PAIS. Zypr is a cloud based API that acts \nas a device portal to normalize the interface between the myriad of \nInternet services and connected devices."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "best-match-item-details-api",
+  "title": "Best Match Item Details API",
+  "link": "https://www.x.com/developers/ebay/products/best-match-api",
+  "image": "https://go.developer.ebay.com/sites/default/files/developersprogram_horz_header.png",
+  "author": {
+    "name": "ebay"
+  },
+  "tags": [
+    "Listing Analytic Tool"
+  ],
+  "description": "Beginning January 1, 2013, the Best Match Item Details API will no longer be available.  eBay sellers will continue to have access to information about listing performance via the eBay Listing Analytics tool.  If you are currently using the Best Match API, please make the appropriate plans to transition to the Listing Analytics tool."
+}

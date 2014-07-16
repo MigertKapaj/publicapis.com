@@ -1,0 +1,15 @@
+{
+  "id": "the-eventbrite",
+  "title": "The Eventbrite",
+  "link": "http://developer.eventbrite.com/",
+  "image": "http://eb-blog-developer.s3.amazonaws.com/wp-content/qa-uploads/2014/01/carousel-bg-01.png",
+  "author": {
+    "name": " Eventbrite"
+  },
+  "tags": [
+    "Authentication",
+    "Protocol",
+    "Specified"
+  ],
+  "description": "The Eventbrite API uses OAuth2 for authentication; while it’s a reasonably simple protocol, it’s also not very strongly specified, so make sure you read the documentation below to make sure you’re using it correctly."
+}

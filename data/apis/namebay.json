@@ -1,0 +1,15 @@
+{
+  "id": "namebay",
+  "title": "namebay",
+  "link": "http://api.namebay.com/",
+  "image": "http://api.namebay.com/img/logo-namebay-api.png",
+  "author": {
+    "name": "namebay"
+  },
+  "tags": [
+    "Domaine",
+    "Connexion",
+    "Techniques"
+  ],
+  "description": "Retrouvez sur ce site, entièrement dédié à notre API de nom de domaine, tous les paramètres de connexion en production, ainsi que sur notre plateforme de test, et tous les détails techniques sur l'implémentation de l'ensemble de nos commandes API. "
+}

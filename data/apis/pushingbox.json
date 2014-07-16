@@ -1,0 +1,16 @@
+{
+  "id": "pushingbox",
+  "title": "PushingBox ",
+  "link": "http://www.pushingbox.com/api.php",
+  "image": "http://www.pushingbox.com/img/logo50x213.png",
+  "author": {
+    "name": "PushingBox "
+  },
+  "tags": [
+    "Simple",
+    "Interface",
+    "Devid",
+    "Device"
+  ],
+  "description": "Our API is very simple, your can interface PushingBox using HTTP GET or POST method.\nSet the required DeviceID of your scenario with the parameter \"devid\".\nYou can found the DeviceID on the Scenario page. "
+}

@@ -1,0 +1,16 @@
+{
+  "id": "docmail-physical-mail",
+  "title": "Docmail physical mail",
+  "link": "http://www.cfhdocmail.com/webservice_v2.html",
+  "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQomsxyZDIL4GVh7iIJd01nWuMFH2JDue_t3edw0XpB526hS26-",
+  "author": {
+    "name": "Docmail"
+  },
+  "tags": [
+    "Webservice",
+    "Orders",
+    "Documents",
+    "Adresses"
+  ],
+  "description": "The API is a SOAP-based webservice allowing the creation, proofing and confirmation of orders for mailings, single letters, postcards and greeting cards. Documents (PDF, RTF or Word files) are submitted as files or selected by name from your account. Address lists may be selected by name, submitted as a file (CSV, XLS, XLSX, Tab delimited, fixed length fields etc.) or added as individual addresses using the AddAddress call."
+}

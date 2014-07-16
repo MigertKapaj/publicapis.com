@@ -1,0 +1,15 @@
+{
+  "id": "drivr",
+  "title": "Drivr ",
+  "link": "http://docs.clickataxi.com/",
+  "image": "",
+  "author": {
+    "name": "Drivr "
+  },
+  "tags": [
+    "Provides",
+    "Retrieve",
+    "Information"
+  ],
+  "description": "The Drivr API provides the ability to create and retrieve required information in order to book taxis globally."
+}

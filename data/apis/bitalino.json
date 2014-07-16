@@ -1,0 +1,16 @@
+{
+  "id": "bitalino",
+  "title": "BITalino",
+  "link": "http://www.bitalino.com/anatomy-bitalino/",
+  "image": "http://d9hhrg4mnvzow.cloudfront.net/www.bitalino.com/ji6v3s-bitalino-logo.png",
+  "author": {
+    "name": "bitalino"
+  },
+  "tags": [
+    "Modular",
+    "Sensor",
+    "Quicker",
+    "Tracker"
+  ],
+  "description": "BITalino as a low cost, modular bio-signal sensor kit that makes it quicker & easier to build medical devices & health tracker apps"
+}

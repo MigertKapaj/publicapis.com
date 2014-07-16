@@ -1,0 +1,15 @@
+{
+  "id": "servercyde",
+  "title": "ServerCyde",
+  "link": "http://www.servercyde.com/docs/",
+  "image": "http://www.servercyde.com/a/img/logo.png",
+  "author": {
+    "name": "ServerCyde"
+  },
+  "tags": [
+    "Tailored",
+    "Database",
+    "Create"
+  ],
+  "description": "The script tag that you will put on your page is tailored to have the database call that you create just for your site, so create a new site, add the details and then you will get a script tag to place in your source."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "linkup",
+  "title": " LinkUp",
+  "link": "http://www.linkup.com/developers/",
+  "image": "http://www.linkup.com/images/linkup-logo-header-no-arrows.png",
+  "author": {
+    "name": " LinkUp"
+  },
+  "tags": [
+    "Tools",
+    "Strategies",
+    "Search box",
+    "Banner ads"
+  ],
+  "description": "Add LinkUp's job content to your website or blog. We have a variety of helpful tools that will add value to your online strategies, including job search boxes, banner ads, blog widgets and direct API access."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "billingorchard",
+  "title": "BillingOrchard",
+  "link": "http://billingorchard.com/developers/api-documentation.cfm",
+  "image": "http://billingorchard.com/assets/img/bo_logo.png",
+  "author": {
+    "name": "BillingOrchard"
+  },
+  "tags": [
+    "Desktop",
+    "Account",
+    "System"
+  ],
+  "description": "We're excited to announce the new public API. The API makes it easy to create web and desktop applications that integrate with your account and systems. Simple! We're talking basic HTML here, not rocket science."
+}

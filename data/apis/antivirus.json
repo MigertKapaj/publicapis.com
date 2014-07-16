@@ -1,0 +1,15 @@
+{
+  "id": "antivirus",
+  "title": "Antivirus",
+  "link": "http://msdn.microsoft.com/en-us/library/ms537365(v=vs.85).aspx",
+  "image": "http://i.msdn.microsoft.com/Areas/Centers/Themes/StandardDevCenter/Content/Images/microsoftLogoForHeader.png",
+  "author": {
+    "name": "Microsoft Developer Network"
+  },
+  "tags": [
+    "Software",
+    "Design",
+    "Application"
+  ],
+  "description": "The Antivirus API enables software vendors to design and implement antivirus applications that interface with host applications such as Microsoft Office 2000 and Microsoft Internet Explorer 5."
+}

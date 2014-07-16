@@ -1,0 +1,16 @@
+{
+  "id": "votigo",
+  "title": "Votigo",
+  "link": "http://www.votigo.com/solutions/developer.php",
+  "image": "http://www.votigo.com/img/corp/votigo-header-icon.png?v=1",
+  "author": {
+    "name": "Votigo"
+  },
+  "tags": [
+    "Development",
+    "Custom",
+    "Integrate",
+    "Database"
+  ],
+  "description": "Leverage your in-house talent while saving valuable development time with the Votigo contest API. Easy to follow API documentation allows you to create a custom front end or integrate with your back-end, your database, or a mobile application."
+}

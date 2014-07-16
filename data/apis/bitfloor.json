@@ -1,0 +1,15 @@
+{
+  "id": "bitfloor",
+  "title": "bitfloor",
+  "link": "https://bitfloor.com/docs/api",
+  "image": "https://bitfloor.com/img/logo.png",
+  "author": {
+    "name": "bitfloor"
+  },
+  "tags": [
+    "Market Data",
+    "Information",
+    ""
+  ],
+  "description": "There are two components to the API: market data and order entry. If you just want to collect information on Bitfloor trading for analysis or visualization, read the Market Data docs. To place orders and trade on Bitfloor, consult the Order Entry documentation."
+}

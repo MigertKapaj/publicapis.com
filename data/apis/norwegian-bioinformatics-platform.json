@@ -1,0 +1,16 @@
+{
+  "id": "norwegian-bioinformatics-platform",
+  "title": "Norwegian Bioinformatics Platform",
+  "link": "http://api.bioinfo.no/",
+  "image": "http://www.bioinfo.no/++resource++bioinfo.theme.images/logo2013.png",
+  "author": {
+    "name": "Norwegian Bioinformatics Platform"
+  },
+  "tags": [
+    "Coordinated",
+    "Receives",
+    "Program",
+    "Supported"
+  ],
+  "description": "The ELIXIR.NO project is coordinated by the University of Bergen and includes the Universities in Oslo, Trondheim, Tromso and Aas. It receives funding from the Research Council of Norway through its research infrastructure program and is also supported by the participating institutions."
+}
