@@ -1,0 +1,4 @@
+Hacker version of publicAPIs.com
+
+1) git clone -b hacker --single-branch git@github.com:Mashape/publicapis.com.git
+2) npm start
