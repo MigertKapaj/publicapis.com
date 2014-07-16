@@ -1,0 +1,98 @@
+<html>
+<head>
+<title>Urban Mapping</title>
+<meta name="description" content="Urban Mapping is the premier provider of embedded geographic technology, enhanced mapping capabilities, and custom geographic data.">
+<meta name="keywords" content="urban mapping, urban mapping website, embedded geographic technology, web mapping, online mapping, custom geodata, custom geographic data">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="google-site-verification" content="tsdJb1B0PdgUpnCdzPLERduTPUt1KA8UYnbqXN2wAMU" />
+
+<link rel="apple-touch-icon-precomposed" href="images/apple-touch-icon-114x114-precomposed.png"/>
+<link rel="icon" sizes="196x196" href="images/android-196x196.png">
+<link rel="shortcut icon" href="images/favicon.ico" type="image/vnd.microsoft.icon"/>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,700' rel='stylesheet' type='text/css'>
+<link href='css/style.css' rel='stylesheet' type='text/css'>
+<link href='css/desktops.css' rel='stylesheet' type='text/css'>
+<link href='css/tablets.css' rel='stylesheet' type='text/css'>
+<link href='css/phones.css' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/menu.js"></script>
+<script type="text/javascript" src="js/demo-gallery.js"></script>
+<script type="text/javascript">
+    // Google Analytics snippet
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-673320-8', 'urbanmapping.com');
+    ga('send', 'pageview');
+</script>
+
+</head>
+ 
+<body>
+ 
+   <div id="header" class="header">
+    <span id="header-left" class="header-left"></span>
+    <a href="/" class="home-link"></a>
+
+    <span id="dimensions"></di>
+
+    <div id="main-menu" class="main-menu"></div>
+
+    <span id="header-tablet" class="header-tablet" onclick="umi.loadMobileMenu();"></span>
+
+    <span id="header-mobile" class="header-mobile" onclick="umi.loadMobileMenu();"></span>
+
+    <div id="main-menu" class="main-menu"></div>
+
+    <div id="mobile-menu" class="mobile-menu menu-hidden"></div>
+
+    <div id="mobile-submenu" class="mobile-submenu menu-hidden"></div>
+
+   </div>
+   <div id="white-space" class="white-space" style="display:none;"></div>
+
+   <div id="content" class="content">
+
+        <span class="main-block home-block-1" id="home" name="home">
+         <h5>&nbsp;</h5>
+         <p class="home-block-content first-element-only">Data to enrich interactive applications.  Learn about our <a href="neighborhood-boundaries.html">neighborhood boundaries</a>, <a href="public-transit.html">public transportation data</a> or <a href="#custom">custom data services.</a></p>
+        </span>
+<!-- 
+        <span class="main-block home-block-2" id="hoods" name="hoods">
+           <h5>Neighborhood Boundary Data</h5>
+           <p class="home-block-content">
+            Since collecting data in 2006, Urban Mapping neighborhood boundary data has grown to over 100,000 neighborhoods in more than thirty countries.  Because neighborhoods recognize informally-defined spaces, they behave differently from postal codes or other well-known geography, yet their value in local, mobile, and social interactive media is unquestioned.  Learn about our approach, view coverage and <a href="neighborhood-boundaries.html">evaluate sample data</a>.
+           </p>
+        </span> -->
+
+        <span class="main-block home-block-4" id="custom" name="custom">
+           <h5>Custom Data Services</h5>
+           <p class="home-block-content">
+            Leverage Urban Mapping's experience in delivering high-quality geospatial data solutions for your business needs.  Our data sourcing expertise spans ETL (custom and off the shelf tools, such as Refine), data normalization, crowdsourcing (Mechanical Turk), remote sensing and other techniques.  Contact us today at info (at) urbanmapping.com and let us know how we can help.
+           </p>
+        </span>
+
+        <span class="main-block home-block-5" id="contact" name="contact">
+           <h5>Contact us</h5>
+           <p class="home-block-content">
+            Please contact us with any questions at info (at) urbanmapping.com. If you are interested in eval neighborhood data, please complete the <a href="contact.html">request form</a>.
+          </p>
+        </span>
+
+   </div>
+
+   <div id="page-progress" class="page-progress"></div>
+
+   <script type="text/javascript">
+    // Load content to the page.
+    $( document ).ready(function() {
+      umi.setHomeScroller();  
+    });
+   </script>
+
+</body>  
+</html>

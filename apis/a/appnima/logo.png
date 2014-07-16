@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Designing Mobile User Experiences." />
+    <meta name="keywords" content="html5, css3, javascript, mobile, apple, iphone, ipad, android, tablet, apps, applications, ajax, tapquo, ui, design, interacion, ux, webdesign, icons, marketing, geo, lungo, quojs, html5, javascript, library, framework, gestures, micro, spain, bilbao, apple, iphone, ipad, android, tablet, apps, applications, ajax, tapquo, jquery, zepto" />
+    <meta name="robots" content="follow"/>
+    <meta name="googlebot" content="follow"/>
+    <meta name="author" content="Tapquo S.L. | hello@tapquo.com"/>
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta itemprop="image" content="assets/images/favicon.png">
+    <!-- TITLE -->
+    <title>App/nima</title>
+    <!-- STYLESHEETs -->
+    <link rel="icon" href="/img/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="/css/tapquo.site.css">
+    <link rel="stylesheet" href="/css/tapquo.site.theme.css">
+</head>
+
+<body data-stellar-background-ratio="0.6" data-page="index" data-product="appnima">
+    <!-- HEADER -->
+    <header id="#home">
+        <div class="row">
+            <nav class="column_8">
+                <a href="/" class="logo"></a>
+                <a href="https://github.com/tapquo/appnima.docs" target="_blank">Documentation</a>
+                <a href="http://tapquo.com/forum/appnima" target="_blank">Community</a>
+                <a href="#company">Company</a>
+            </nav>
+            <nav class="column_4 align right">
+                <a href="http://tapquo.com/store/appnima" target="_blank" class="margin_right">Store</a>
+                <a href="http://tapquo.com/store/appnima" target="_blank" class="button">Get Started</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- SLOGAN -->
+    <section class="landing bck bg-2" data-stellar-background-ratio="0.6" data-stellar-ratio="0.5">
+        <div class="overlay">
+            <div class="row">
+                <div class="column_8 offset_2 align center">
+                    <h2>Find out how to add a soul to your applications..</h2>
+                    <h5 class="margin-top margin-bottom">... using OAuth2, NodeJS, MondoDB, Redis and more.</h5 class="text normal">
+                    <a href="http://tapquo.com/store/appnima#download" class="button download">Get Started - It's free</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- INFO -->
+    <section id="appnima" class="bck dark">
+        <div class="row">
+            <div class="column_10 offset_1">
+                <h1 class="color appnima">Adding soul to your apps</h1>
+                <p>
+                    A bit of history, 3 years ago in <a href="http://tapquo.com">Tapquo</a> we found a common problem in the development area, it was that each new product we create made us to repeat the same basic functionalities every time. App/nima borns from the need of being more efficient and the desire to develop only the business features of our new product and no more the horizontal logic.
+                    <ul class="margin square">
+                        <li>OAuth 2 services for authentication</li>
+                        <li>User management</li>
+                        <li>User social network</li>
+                        <li>Messaging service to send emails, SMS, calls and private messages</li>
+                        <li>Find/geolocate places</li>
+                        <li>Find/geolocate other users</li>
+                        <li>Real-time communications via sockets</li>
+                        <li>Push notifications for ioS, Android and Blackberry</li>
+                        <li>Support platform for our users</li>
+                        <li>Email Newsletter platform</li>
+                        <li>Get our users' behaviour</li>
+                    </ul>
+                </p>
+                <p>
+                    If sometime you have had to develop some of this functionalities in any project, you are welcome to our platform because App/nima is thougth to help you as a developer. We want to give you a platform made to ease your life, we love software as much as you and we seek being better. Use App/nima.
+                </p>
+
+                <h2 class="color appnima margin-top text thin">Architecture</h2>
+                <p>
+                    Probably now you have doubts of how App/nima can help you in being more efficient, but calm down we are going to explain you how it works. App/nima is completely based in the authentication protocol Oauth2 and in the serialization via REST-style with JSOn objects. If you have never used this paradigm don't worry, we are explaining step by step how to connect to the platform and will offer you explicit tools such as <a href="https://github.com/tapquo/appnima.docs/blob/master/EN/appnimajs.md" target="_blank">AppnimaJS</a> that will ease you the connection process.
+                </p>
+                <p class="margin-top">
+                    All the backend is deployed around the world using platforms such as Amazon or Google Cloud Engine, the ones which give us the ability to give allways the best response quality for our users. Don't worry, you won't have to be a <i>Jedi SysAdmin</i> because you will only have to communicate with our REST. The scalability is our duty, you will only have to worry about creating the best project and us in providing every day the best platform.
+                </p>
+                <p class="margin-top">
+                    In summary, App/nima is a platform in a REST API way that provide you with the logical services of your projects, and depending the nature of your project maybe you won't need your own backend. Each logical service is hosted in different servers to obtain the biggest independent scalability, along the documentation we will watch the routes of each service.
+                </p>
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER -->
+    <section id="company" data-stellar-background-ratio="0.6" data-stellars-ratio="0.5" class="bck bg-3">
+      <div class="overlay dark">
+        <div class="row no-padding-bottom">
+          <div class="offset_1 column_5">
+            <h1 class="color appnima">About us</h1>
+            <a href="https://twitter.com/tapquo" class="twitter-follow-button" data-show-count="true">Follow</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+          </div>
+        </div>
+        <div class="row no-padding-bottom padding-top-middle">
+          <div class="offset_1 column_5">
+            <p>Tapquo is a smart company who thinks, designs and builds products with a amazing user experience. Founded in 2011, since then we’ve launched products for developers around the world. Fueled by creativity, the people that make up tapquo are the type of folks you'd pick first for a recess kickball game. </p>
+          </div>
+          <div class="column_5">
+            <p>
+                In our code tribe are six developers, three in frontend, two in backend, one craftsman and all are passionated with the 'clean-code'. "Share and enjoy", we love working with other startups and studios. We want to collaborate with you and make your clients smile.
+            </p>
+          </div>
+        </div>
+        <nav class="avatars"><div><img src="/img/team/team_girls.jpg" class="responsive"></div><div><img src="/img/team/team_boy_tablet.jpg" class="responsive"></div><div><img src="/img/team/team_r2d2.jpg" class="responsive"></div><div><img src="/img/team/team_boy.jpg" class="responsive"></div><div><img src="/img/team/team_girl.jpg" class="responsive"></div></nav>
+        <footer id="footer">
+          <div class="row links">
+            <div class="offset_1 column_2">
+                <a href="http://tapquo.com">
+                    <strong>Tapquo</strong>
+                </a>
+                <span>Campo Volantin, 17</span>
+                <span>48007, Bilbao</span>
+                <span>SPAIN</span>
+            </div>
+            <div class="column_2">
+                <strong>About</strong>
+                <a href="https://github.com/tapquo/appnima.docs" target="_blank">Documentation</a>
+                <a href="http://tapquo.com/forum/appnima">Community</a>
+                <a href="https://github.com/tapquo/appnima.js">Github</a>
+            </div>
+            <div class="column_2">
+                <strong>Products</strong>
+                <a href="http://atoms.tapquo.com">Atoms</a>
+                <a href="http://lungo.tapquo.com">Lungo</a>
+                <a href="http://yoi.tapquo.com">Yoi</a>
+            </div>
+            <div class="column_2">
+                <strong>&nbsp;</strong>
+                <a href="http://quojs.tapquo.com">QuoJS</a>
+                <a href="http://monocle.tapquo.com">Monocle</a>
+                <a href="http://tuktuk.tapquo.com">TukTuk</a>
+            </div>
+            <div class="column_2 align right">
+                <strong>&nbsp;</strong>
+                <span>Handcrafted with love.</span>
+                <span>©2014 Copyright.</span>
+            </div>
+          </div>
+        </footer>
+      </div>
+    </section>
+
+    <script src="/js/tapquo.site.components.js"></script>
+    <script src="/js/tapquo.site.js"></script>
+</body>
+</html>

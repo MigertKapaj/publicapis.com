@@ -1,0 +1,2896 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="application-name" content="FindAA.org" />
+    <title>FindAA.org - Find AA Meetings Near You</title>
+    <link href="/Content/css?v=3Fc_ydAmabTcrO0u8IROdyEA8A1NLcdQJPXdtaio3x41" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+    <!-- Google tracking info -->
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-32799171-1', 'auto');
+        ga('send', 'pageview');
+
+    </script>
+</head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="/">FindAA</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/Home/About">About</a></li>
+                    <li><a href="/Home/Contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container body-content">
+        
+
+
+<h2 data-bind="text: name"></h2>
+
+<div>
+    <img src="/Content/touch.png" alt="" height="30" width="24" />
+    <span>Tap phone number to dial</span>
+</div>
+
+<div data-bind="foreach: countries">
+    <h3 data-bind="text: name"></h3>
+    <div class="region-accordion" data-bind="foreach: regions">
+        <h4 data-bind="text: name"></h4>
+        <div data-bind="foreach: contacts">               
+            <p class="contact-pad-bottom-5">
+                <strong data-bind="text: city"></strong><br />
+                <span data-bind="if: hasName">
+                    <span data-bind="text: name"></span><br />
+                </span>
+                <a class="phone-number" data-bind="attr: { href: phoneNumberLink }">
+                    <span data-bind="text: phoneNumberDisplay"></span>
+                </a>
+                <br />
+                <span data-bind="if: hasUri">
+                    <a data-bind="attr: { href: uri }"><span data-bind="text: uri"></span></a>
+                </span>
+            </p>
+        </div>
+    </div>
+</div>
+
+
+    </div>
+
+    <script src="/bundles/jquery?v=FVs3ACwOLIVInrAl5sdzR2jrCDmVOWFbZMY6g6Q0ulE1"></script>
+
+    <script src="/bundles/jqueryui?v=u_HDvZSywNe2saSMvGgGi7MmXFZbXdXwo8V9yCoZZZA1"></script>
+
+    <script src="/bundles/bootstrap?v=2Fz3B0iizV2NnnamQFrx-NbYJNTFeBJ2GM05SilbtQU1"></script>
+
+    <script src="/bundles/knockout?v=XURngE0Enfi-Y5ufzhvtnLmt09_3l3wWQ_85RP3_mzg1"></script>
+
+    
+    <script type="text/javascript">
+
+        var vm = null;
+        $(function() {
+            var model = {
+  "Name": "A.A. Meetings",
+  "Countries": [
+    {
+      "Name": "United States",
+      "Regions": [
+        {
+          "Name": "Alabama",
+          "Contacts": [
+            {
+              "City": "Auburn/Opelika",
+              "Name": "Auburn Opelika Intergroup",
+              "PhoneNumber": "3347458405",
+              "Uri": ""
+            },
+            {
+              "City": "Baldwin County",
+              "Name": "Baldwin County Answering Service",
+              "PhoneNumber": "8004771104",
+              "Uri": "http://www.gulfcoastaa.org"
+            },
+            {
+              "City": "Birmingham",
+              "Name": "Birmingham Intergroup",
+              "PhoneNumber": "2052900060",
+              "Uri": "http://www.birminghamaa.org"
+            },
+            {
+              "City": "Dothan",
+              "Name": "Wiregrass Intergroup",
+              "PhoneNumber": "3347923422",
+              "Uri": ""
+            },
+            {
+              "City": "Hartselle",
+              "Name": "North Central Dist 2 Intergroup",
+              "PhoneNumber": "8006587576",
+              "Uri": "http://www.aaaldis2.org"
+            },
+            {
+              "City": "Huntsville",
+              "Name": "Huntsville Intergroup",
+              "PhoneNumber": "2568850323",
+              "Uri": "http://www.aahuntsvilleal.org"
+            },
+            {
+              "City": "Mobile",
+              "Name": "Southwest Alabama Central Office, Inc.",
+              "PhoneNumber": "2514799994",
+              "Uri": "http://www.mobileaa.org"
+            },
+            {
+              "City": "Montgomery",
+              "Name": "Montgomery Area Intergroup",
+              "PhoneNumber": "3342644122",
+              "Uri": "http://www.centralalaa.org"
+            },
+            {
+              "City": "Muscle Shoals",
+              "Name": "Northwest Alabama Intergroup",
+              "PhoneNumber": "2563860663",
+              "Uri": "http://www.shoalsaa.org"
+            }
+          ]
+        },
+        {
+          "Name": "Alaska",
+          "Contacts": [
+            {
+              "City": "Anchorage",
+              "Name": "Anchorage Intergroup Office",
+              "PhoneNumber": "9072722312",
+              "Uri": "http://www.anchorageaa.org"
+            },
+            {
+              "City": "Fairbanks",
+              "Name": "Fairbanks Intergroup Office",
+              "PhoneNumber": "9074567501",
+              "Uri": "http://www.fairbanksaa.org"
+            },
+            {
+              "City": "Juneau",
+              "Name": "Juneau Answering Service",
+              "PhoneNumber": "9075861161",
+              "Uri": ""
+            },
+            {
+              "City": "Ketchikan",
+              "Name": "Ketchikan Intergroup",
+              "PhoneNumber": "9072255154",
+              "Uri": ""
+            },
+            {
+              "City": "Sitka",
+              "Name": "Sitka Intergroup",
+              "PhoneNumber": "9077478866",
+              "Uri": ""
+            },
+            {
+              "City": "Wasilla",
+              "Name": "MatSu Intergroup Office",
+              "PhoneNumber": "9073764777",
+              "Uri": "http://www.matsuaa.org"
+            }
+          ]
+        },
+        {
+          "Name": "Arizona",
+          "Contacts": [
+            {
+              "City": "Bullhead City",
+              "Name": "River Cities Central Office",
+              "PhoneNumber": "9287634499",
+              "Uri": "http://www.rccoaa.org"
+            },
+            {
+              "City": "Cottonwood",
+              "Name": "Central Mountain Intergroup",
+              "PhoneNumber": "9286469428",
+              "Uri": "http://www.centralmountain.org"
+            },
+            {
+              "City": "Flagstaff",
+              "Name": "Flagstaff Intergroup Central Office",
+              "PhoneNumber": "9287793569",
+              "Uri": "http://www.flagstaffaa.org"
+            },
+            {
+              "City": "Kingman",
+              "Name": "Kingman Intergroup",
+              "PhoneNumber": "8008641606",
+              "Uri": ""
+            },
+            {
+              "City": "Lake Havasu City",
+              "Name": "Lake Havasu City Intergroup",
+              "PhoneNumber": "8776529005",
+              "Uri": "http://www.havasuaa.com"
+            },
+            {
+              "City": "Mesa",
+              "Name": "East Valley Intergroup Inc.",
+              "PhoneNumber": "4808349033",
+              "Uri": "http://www.aamesaaz.org"
+            },
+            {
+              "City": "Payson",
+              "Name": "Rim Country Intergroup",
+              "PhoneNumber": "9284743620",
+              "Uri": "http://www.paysonaa.com"
+            },
+            {
+              "City": "Peoria",
+              "Name": "Agua Fria Intergroup",
+              "PhoneNumber": "6239377770",
+              "Uri": "http://www.aawestphoenix.org"
+            },
+            {
+              "City": "Phoenix",
+              "Name": "Salt River Intergroup,Inc.",
+              "PhoneNumber": "6022641341",
+              "Uri": "http://www.aaphoenix.org"
+            },
+            {
+              "City": "Prescott",
+              "Name": "Prescott Area Intergroup Association",
+              "PhoneNumber": "9284458691",
+              "Uri": "http://www.prescottaa.org"
+            },
+            {
+              "City": "Sierra Vista",
+              "Name": "Cochise County Dist 02200 Answering Svc",
+              "PhoneNumber": "8667809758",
+              "Uri": "http://www.aacochisecounty.org"
+            },
+            {
+              "City": "Tucson",
+              "Name": "Oficina Intergrupal",
+              "PhoneNumber": "5206225112",
+              "Uri": ""
+            },
+            {
+              "City": "Tucson",
+              "Name": "Tuscon Area Intergroup Inc.",
+              "PhoneNumber": "5206244183",
+              "Uri": "http://www.aatucson.org"
+            },
+            {
+              "City": "Yuma",
+              "Name": "Yuma Intergroup",
+              "PhoneNumber": "9287822605",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Arkansas",
+          "Contacts": [
+            {
+              "City": "Ft. Smith",
+              "Name": "Ft. Smith Area Intergroup/Central Office",
+              "PhoneNumber": "5017830123",
+              "Uri": "http://www.aa-fort-smith-arkansas.org"
+            },
+            {
+              "City": "Hot Springs",
+              "Name": " Intergroup Council of West-Central",
+              "PhoneNumber": "5016236328",
+              "Uri": "http://www.intergroupwcark.org"
+            },
+            {
+              "City": "Little Rock",
+              "Name": "Arkansas Central Service Office",
+              "PhoneNumber": "5016647303",
+              "Uri": "http://www.arkansascentraloffice.org"
+            }
+          ]
+        },
+        {
+          "Name": "California",
+          "Contacts": [
+            {
+              "City": "Apple Valley",
+              "Name": "Victor Valley Intergroup Central Office Inc.",
+              "PhoneNumber": "7602429292",
+              "Uri": "http://www.victorvalleyaa.org"
+            },
+            {
+              "City": "Bakersfield",
+              "Name": "A.A. Central Office Of Kern County",
+              "PhoneNumber": "6613224025",
+              "Uri": "http://www.kernaa.org"
+            },
+            {
+              "City": "Bakersfield",
+              "Name": "Oficina Intergrupal Hispana Del Condado De Kern",
+              "PhoneNumber": "6612050296",
+              "Uri": ""
+            },
+            {
+              "City": "Benicia",
+              "Name": "So. Solano County Central Office",
+              "PhoneNumber": "7077458822",
+              "Uri": "http://www.aasolanosouth.org"
+            },
+            {
+              "City": "Cathedral City",
+              "Name": "Central Intergroup Office Of The Desert",
+              "PhoneNumber": "7603244880",
+              "Uri": "http://www.aainthedesert.org"
+            },
+            {
+              "City": "Chico",
+              "Name": "North Valley Central Office",
+              "PhoneNumber": "5303425756",
+              "Uri": "http://www.aabutte-glenn.org"
+            },
+            {
+              "City": "Chino",
+              "Name": "24 Hour Answering Service",
+              "PhoneNumber": "9096284428",
+              "Uri": ""
+            },
+            {
+              "City": "Chula Vista",
+              "Name": "Oficina Intergrupal",
+              "PhoneNumber": "6194760288",
+              "Uri": ""
+            },
+            {
+              "City": "Colton",
+              "Name": "Inland Empire Central Office",
+              "PhoneNumber": "9098254700",
+              "Uri": "http://www.inlandempireaa.org"
+            },
+            {
+              "City": "Crescent City",
+              "Name": "Del Norte Intergroup",
+              "PhoneNumber": "7074643411",
+              "Uri": "http://www.aahumboldtdelnorte.net"
+            },
+            {
+              "City": "Davis",
+              "Name": "24 Hour Answering Service",
+              "PhoneNumber": "8009709040",
+              "Uri": ""
+            },
+            {
+              "City": "Dublin",
+              "Name": "Valley Service Center",
+              "PhoneNumber": "925829-0666",
+              "Uri": "http://www.valleyservicecenter.org"
+            },
+            {
+              "City": "El Cajon",
+              "Name": "East County Intergroup",
+              "PhoneNumber": "8779932422",
+              "Uri": "http://www.eastcountyaa.org"
+            },
+            {
+              "City": "El Monte",
+              "Name": "Oficina Central Hispana",
+              "PhoneNumber": "6264530226",
+              "Uri": ""
+            },
+            {
+              "City": "Eureka",
+              "Name": "Humboldt County Intergroup",
+              "PhoneNumber": "8444420711",
+              "Uri": "http://www.aahotlinehumboldt.org"
+            },
+            {
+              "City": "Exeter",
+              "Name": "Tulare County Central Office",
+              "PhoneNumber": "5595926999",
+              "Uri": "http://www.aa-tulareco.org"
+            },
+            {
+              "City": "Fresno",
+              "Name": "Central Service Office Of Fresno",
+              "PhoneNumber": "5592216907",
+              "Uri": "http://www.fresnoaa.org"
+            },
+            {
+              "City": "Fresno",
+              "Name": "Oficina Intergrupal Hispana",
+              "PhoneNumber": "5592666752",
+              "Uri": ""
+            },
+            {
+              "City": "Ft. Bragg",
+              "Name": "Mendocino Coast Intergroup",
+              "PhoneNumber": "8775469286",
+              "Uri": "http://www.mendocinocoastaa.com"
+            },
+            {
+              "City": "Fullerton",
+              "Name": "North Orange County Central Office",
+              "PhoneNumber": "7147734357",
+              "Uri": "http://www.aanoc.com"
+            },
+            {
+              "City": "Gardena",
+              "Name": "Oficina Intergrupal Hispana Su",
+              "PhoneNumber": "3105168626",
+              "Uri": ""
+            },
+            {
+              "City": "Glendora",
+              "Name": "San Gabriel/Pomona Valley Central Office",
+              "PhoneNumber": "6269141861",
+              "Uri": "http://www.aasgvco.org"
+            },
+            {
+              "City": "Indio",
+              "Name": "Oficina Intergrupal Hispana Del Valle De Coachella",
+              "PhoneNumber": "7606259018",
+              "Uri": "http://www.aaintcoachella.org"
+            },
+            {
+              "City": "Lancaster",
+              "Name": "Antelope Valley Intergroup",
+              "PhoneNumber": "6619455757",
+              "Uri": "http://www.avcentraloffice.org"
+            },
+            {
+              "City": "Littlerock",
+              "Name": "Oficina Intergrupal Valle Del Antelope",
+              "PhoneNumber": "6619445147",
+              "Uri": ""
+            },
+            {
+              "City": "Lodi",
+              "Name": "Lodi 24 Hour Teleservice",
+              "PhoneNumber": "2093391201",
+              "Uri": ""
+            },
+            {
+              "City": "Long Beach",
+              "Name": "Harbor Area Central Office",
+              "PhoneNumber": "5629897697",
+              "Uri": "http://www.hacoaa.org"
+            },
+            {
+              "City": "Los Angeles",
+              "Name": "Los Angeles Central Office",
+              "PhoneNumber": "8009238722",
+              "Uri": "http://www.LACOAA.org"
+            },
+            {
+              "City": "Los Angeles",
+              "Name": "Oficina Central Hispana",
+              "PhoneNumber": "3237502039",
+              "Uri": ""
+            },
+            {
+              "City": "Los Angeles",
+              "Name": "Oficina Hispana Del Este De La",
+              "PhoneNumber": "3237224175",
+              "Uri": ""
+            },
+            {
+              "City": "Los Angeles",
+              "Name": "Westwood Central Office",
+              "PhoneNumber": "3104747339",
+              "Uri": ""
+            },
+            {
+              "City": "Lower Lake",
+              "Name": "Lake County Intergroup",
+              "PhoneNumber": "7079953316",
+              "Uri": ""
+            },
+            {
+              "City": "Modesto",
+              "Name": "Central Valley Intergroup",
+              "PhoneNumber": "2095722970",
+              "Uri": "http://www.cviaa.org"
+            },
+            {
+              "City": "Monterey",
+              "Name": "Monterey Bay Area Intergroup",
+              "PhoneNumber": "8313733713",
+              "Uri": "http://www.aamonterey.org"
+            },
+            {
+              "City": "Mountainview",
+              "Name": "Oficina Intergrupal Hispana del Area de San Mateo",
+              "PhoneNumber": "6506792374",
+              "Uri": ""
+            },
+            {
+              "City": "Napa",
+              "Name": "Napa County Intergroup",
+              "PhoneNumber": "7075007001",
+              "Uri": "http://www.aanapa.org"
+            },
+            {
+              "City": "Oakhurst",
+              "Name": "Oakhurst Fellowship Answering Service",
+              "PhoneNumber": "5596831662",
+              "Uri": ""
+            },
+            {
+              "City": "Oakland",
+              "Name": "Eastbay Intergroup Central Office",
+              "PhoneNumber": "5108398900",
+              "Uri": "http://www.eastbayaa.org"
+            },
+            {
+              "City": "Oxnard",
+              "Name": "Oficina Intergrupal Condado Ventura",
+              "PhoneNumber": "8059880329",
+              "Uri": "http://www.aaventuracountry.org"
+            },
+            {
+              "City": "Paradise",
+              "Name": "Paradise Intergroup",
+              "PhoneNumber": "5303425756",
+              "Uri": "http://www.aabutte-glenn.org"
+            },
+            {
+              "City": "Placerville",
+              "Name": "Western Slope Intergroup",
+              "PhoneNumber": "5306223500",
+              "Uri": "http://www.westernsloped22.org"
+            },
+            {
+              "City": "Pomona",
+              "Name": "Oficina Intergrupo De Chino",
+              "PhoneNumber": "9096290493",
+              "Uri": ""
+            },
+            {
+              "City": "Redding",
+              "Name": "No. California Intergroup",
+              "PhoneNumber": "5302258955",
+              "Uri": "http://www.aanorcal.org"
+            },
+            {
+              "City": "Riverside",
+              "Name": "Oficina Central de Riverside",
+              "PhoneNumber": "9516877090",
+              "Uri": ""
+            },
+            {
+              "City": "Sacramento",
+              "Name": "Central California Fellowship",
+              "PhoneNumber": "9164541100",
+              "Uri": "http://www.aasacramento.org"
+            },
+            {
+              "City": "Salinas",
+              "Name": "Oficina Central Hispana Intergrupal",
+              "PhoneNumber": "8317578518",
+              "Uri": ""
+            },
+            {
+              "City": "Salinas",
+              "Name": "Salinas Valley Area Intergroup",
+              "PhoneNumber": "8314249874",
+              "Uri": "http://www.aasalinas.org"
+            },
+            {
+              "City": "San Diego",
+              "Name": "Oficina Central Hispana",
+              "PhoneNumber": "6192807224",
+              "Uri": ""
+            },
+            {
+              "City": "San Diego",
+              "Name": "San Diego Central Office",
+              "PhoneNumber": "6192658762",
+              "Uri": "http://www.aasandiego.org"
+            },
+            {
+              "City": "San Francisco",
+              "Name": "Intercounty Fellowship Of A.A.",
+              "PhoneNumber": "4156741821",
+              "Uri": "http://www.aasf.org"
+            },
+            {
+              "City": "San Francisco",
+              "Name": "Oficina Central Hispana",
+              "PhoneNumber": "4158241834",
+              "Uri": ""
+            },
+            {
+              "City": "San Jose",
+              "Name": "Oficina Central Hispana Costa Norte",
+              "PhoneNumber": "4082877205",
+              "Uri": ""
+            },
+            {
+              "City": "San Jose",
+              "Name": "Oficina Intergrupal Hispana De Alcoholicos Anonimos Del Area de Santa Clara",
+              "PhoneNumber": "4089312002",
+              "Uri": "http://www.aaespanolsanjoseca.org"
+            },
+            {
+              "City": "San Jose/Campbell",
+              "Name": "Santa Clara County Intergroup C.O.",
+              "PhoneNumber": "4083748511",
+              "Uri": "http://www.aasanjose.org"
+            },
+            {
+              "City": "San Luis Obispo",
+              "Name": "Central Coast Central Office Intergroup",
+              "PhoneNumber": "8055413211",
+              "Uri": "http://www.sloaa.org"
+            },
+            {
+              "City": "San Mateo",
+              "Name": "San Mateo CO Fellowship Of A.A.",
+              "PhoneNumber": "6505771310",
+              "Uri": "http://www.aa-san-mateo.org"
+            },
+            {
+              "City": "Santa Ana",
+              "Name": "Oficina Intergrupal De Orange",
+              "PhoneNumber": "7145417225",
+              "Uri": "http://oc-intsuraa.org"
+            },
+            {
+              "City": "Santa Ana",
+              "Name": "Orange County Central Office",
+              "PhoneNumber": "7145564555",
+              "Uri": "http://www.oc-aa.org"
+            },
+            {
+              "City": "Santa Barbara",
+              "Name": "Santa Barbara Central Office",
+              "PhoneNumber": "8059623332",
+              "Uri": "http://www.santabarbaraaa.com"
+            },
+            {
+              "City": "Santa Clarita",
+              "Name": "SCV Central Office Of A.A.",
+              "PhoneNumber": "6612509922",
+              "Uri": "http://www.aascv.org"
+            },
+            {
+              "City": "Santa Maria",
+              "Name": "52nd District Alcoholics Anonymous Central Office",
+              "PhoneNumber": "8059253782",
+              "Uri": "http://www.aa52centraloffice.org"
+            },
+            {
+              "City": "Santa Paula",
+              "Name": "Oficina Intergrupal Sureste De Ventura",
+              "PhoneNumber": "8055256140",
+              "Uri": ""
+            },
+            {
+              "City": "Santa Rosa",
+              "Name": "Oficina Central Norte",
+              "PhoneNumber": "7076236702",
+              "Uri": "http://www.sonomacountyaa.org"
+            },
+            {
+              "City": "Santa Rosa",
+              "Name": "Sonoma County Intergroup",
+              "PhoneNumber": "7075441300",
+              "Uri": "http://www.sonomacountyaa.org"
+            },
+            {
+              "City": "Soquel",
+              "Name": "Santa Cruz County Intergroup  Inc.",
+              "PhoneNumber": "8314755782",
+              "Uri": "http://www.aasantacruz.org"
+            },
+            {
+              "City": "Stockton",
+              "Name": "Delta Central Office",
+              "PhoneNumber": "2094641509",
+              "Uri": "http://www.aadelta.org"
+            },
+            {
+              "City": "Susanville",
+              "Name": "Intergroup Answering Service",
+              "PhoneNumber": "5302572880",
+              "Uri": ""
+            },
+            {
+              "City": "Temecula",
+              "Name": "Southwestern Riverside County Central Service Office Inc.",
+              "PhoneNumber": "9516951535",
+              "Uri": "http://www.temeculacentraloffice.org"
+            },
+            {
+              "City": "Thousand Oaks",
+              "Name": "24 Hour Answering Service",
+              "PhoneNumber": "8054951111",
+              "Uri": ""
+            },
+            {
+              "City": "Torrance",
+              "Name": "All South Bay Central Office",
+              "PhoneNumber": "3106181180",
+              "Uri": "http://www.southbayaa.org"
+            },
+            {
+              "City": "Twain Harte",
+              "Name": "24 Hour Answering Service",
+              "PhoneNumber": "2095331134",
+              "Uri": ""
+            },
+            {
+              "City": "Ukiah",
+              "Name": "Mendocino Inland Intergroup",
+              "PhoneNumber": "7074627123",
+              "Uri": "http://www.aaukiah.org"
+            },
+            {
+              "City": "Vacaville",
+              "Name": "North Solano Intergroup",
+              "PhoneNumber": "7074462244",
+              "Uri": "http://www.aasolanonorth.org"
+            },
+            {
+              "City": "Van Nuys",
+              "Name": "A.A. San Fernando Valley C.O.",
+              "PhoneNumber": "8189883001",
+              "Uri": "http://www.sfvaa.org"
+            },
+            {
+              "City": "Ventura City/Camarillo",
+              "Name": "Ventura County Central Service Office",
+              "PhoneNumber": "8053891444",
+              "Uri": "http://www.aaventuracounty.org"
+            },
+            {
+              "City": "Victorville",
+              "Name": "Oficina Intergrupal del Alto Desierto de Victor Valley",
+              "PhoneNumber": "7602455600",
+              "Uri": ""
+            },
+            {
+              "City": "Vista",
+              "Name": "No. San Diego Co. Central Office",
+              "PhoneNumber": "7607582514",
+              "Uri": "http://www.nosdco-aa.org"
+            },
+            {
+              "City": "Vista",
+              "Name": "Oficina Intergrupal Hispana De",
+              "PhoneNumber": "7607586905",
+              "Uri": ""
+            },
+            {
+              "City": "Walnut Creek",
+              "Name": "Contra Costa Service Center",
+              "PhoneNumber": "9259394155",
+              "Uri": "http://www.contracostaaa.org"
+            },
+            {
+              "City": "Watsonville",
+              "Name": "Oficina Intergrupal",
+              "PhoneNumber": "8317689597",
+              "Uri": "http://www.aacostacentral.com"
+            },
+            {
+              "City": "Western Nevada County",
+              "Name": "Grass Valley, Nevada City, Penn Valley and Surrounding Areas",
+              "PhoneNumber": "5302726287",
+              "Uri": "http://www.dist20aa.org"
+            },
+            {
+              "City": "Yuba City",
+              "Name": "24 Hour Answering Service",
+              "PhoneNumber": "9164541100",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Colorado",
+          "Contacts": [
+            {
+              "City": "Boulder",
+              "Name": "Boulder County Central Office",
+              "PhoneNumber": "3034478201",
+              "Uri": "http://www.bouldercountyaa.org"
+            },
+            {
+              "City": "Colorado Springs",
+              "Name": "Colorado Springs Area Service Office",
+              "PhoneNumber": "7195735020",
+              "Uri": "http://www.coloradospringsaa.org"
+            },
+            {
+              "City": "Denver",
+              "Name": "Denver Area Central Office",
+              "PhoneNumber": "3033224440",
+              "Uri": "http://www.daccaa.org"
+            },
+            {
+              "City": "Denver",
+              "Name": "Oficina Intergrupal Hispana De A.A. De Co",
+              "PhoneNumber": "3034332080",
+              "Uri": ""
+            },
+            {
+              "City": "Ft. Collins",
+              "Name": "Northern Colorado Intergroup Inc.",
+              "PhoneNumber": "9702243552",
+              "Uri": "http://www.northcoloradoaa.org"
+            },
+            {
+              "City": "Glenwood Springs",
+              "Name": "Central Office Of Western Colorado Answering Service",
+              "PhoneNumber": "9702459649",
+              "Uri": "http://www.coaadistrict14.org"
+            },
+            {
+              "City": "Grand Junction",
+              "Name": "Central Office Of Western Colorado",
+              "PhoneNumber": "9702459649",
+              "Uri": "http://www.aa-westerncolorado.org"
+            },
+            {
+              "City": "Pueblo",
+              "Name": "Central Service Office Of South Colorado",
+              "PhoneNumber": "7195461173",
+              "Uri": "http://www.puebloaa.org"
+            }
+          ]
+        },
+        {
+          "Name": "Connecticut",
+          "Contacts": [
+            {
+              "City": "Danbury",
+              "Name": "",
+              "PhoneNumber": "2037786777",
+              "Uri": ""
+            },
+            {
+              "City": "Hartford",
+              "Name": "",
+              "PhoneNumber": "8602327837",
+              "Uri": ""
+            },
+            {
+              "City": "Manchester",
+              "Name": "",
+              "PhoneNumber": "8606462355",
+              "Uri": ""
+            },
+            {
+              "City": "Meriden",
+              "Name": "",
+              "PhoneNumber": "2306860090",
+              "Uri": ""
+            },
+            {
+              "City": "Middletown",
+              "Name": "",
+              "PhoneNumber": "8602675857",
+              "Uri": ""
+            },
+            {
+              "City": "New Haven",
+              "Name": "",
+              "PhoneNumber": "2036246063",
+              "Uri": ""
+            },
+            {
+              "City": "New London",
+              "Name": "",
+              "PhoneNumber": "8608856151",
+              "Uri": ""
+            },
+            {
+              "City": "New Milford",
+              "Name": "",
+              "PhoneNumber": "8603549843",
+              "Uri": ""
+            },
+            {
+              "City": "Norwalk/Darien",
+              "Name": "Intergroup Association Of Fairfield County",
+              "PhoneNumber": "2038550075",
+              "Uri": "http://www.fairfieldcountyintergroup.com"
+            },
+            {
+              "City": "Stratford",
+              "Name": "Southwest Intergroup",
+              "PhoneNumber": "2037552124",
+              "Uri": ""
+            },
+            {
+              "City": "Torrington",
+              "Name": "",
+              "PhoneNumber": "8604821214",
+              "Uri": ""
+            },
+            {
+              "City": "Trumball",
+              "Name": "AA Helpline Call Center (AAHCC)",
+              "PhoneNumber": "8667837712",
+              "Uri": "http://www.aahelplinecallcenter.com"
+            },
+            {
+              "City": "Waterbury",
+              "Name": "",
+              "PhoneNumber": "2037552124",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Delaware",
+          "Contacts": [
+            {
+              "City": "Dover",
+              "Name": "Central Delaware Intergroup",
+              "PhoneNumber": "3027361567",
+              "Uri": "http://centraldelawareintergroupaa.org"
+            },
+            {
+              "City": "Millsboro",
+              "Name": "Southern Delaware Intergroup",
+              "PhoneNumber": "3028566452",
+              "Uri": "http://www.sussexcountyaa.org"
+            },
+            {
+              "City": "Wilmington",
+              "Name": "Northern Delaware Intergroup",
+              "PhoneNumber": "3026555113",
+              "Uri": "http://www.ndiaa.org"
+            }
+          ]
+        },
+        {
+          "Name": "Florida",
+          "Contacts": [
+            {
+              "City": "Casselberry",
+              "Name": "Central Florida Intergroup Service (Orlando Area)",
+              "PhoneNumber": "4072605822",
+              "Uri": "http://www.cflintergroup.org"
+            },
+            {
+              "City": "Delray Beach",
+              "Name": "South Palm Beach County Intergroup",
+              "PhoneNumber": "5612764581",
+              "Uri": "http://www.aainpalmbeach.org"
+            },
+            {
+              "City": "Ft. Lauderdale",
+              "Name": "Broward County A.A. Intergroup",
+              "PhoneNumber": "9544620265",
+              "Uri": "http://www.aabroward.org"
+            },
+            {
+              "City": "Ft. Myers",
+              "Name": "Lee County Area Intergroup",
+              "PhoneNumber": "2392755111",
+              "Uri": "http://www.leecountyaa.org"
+            },
+            {
+              "City": "Ft. Walton Beach",
+              "Name": "Intergroup Comm Of District 14",
+              "PhoneNumber": "8502442421",
+              "Uri": "http://www.fwb-area-aa.org"
+            },
+            {
+              "City": "Gainesville",
+              "Name": "North Central Florida Intergroup",
+              "PhoneNumber": "3523728091",
+              "Uri": "http://www.northcentralflaa.org"
+            },
+            {
+              "City": "Hollywood",
+              "Name": "Intergroupe Francais De Fla (French)",
+              "PhoneNumber": "9543801961",
+              "Uri": ""
+            },
+            {
+              "City": "Jacksonville",
+              "Name": "Northeast Florida Intergroup",
+              "PhoneNumber": "9043998535",
+              "Uri": "http://www.neflaa.org"
+            },
+            {
+              "City": "Jupiter/Melbourne",
+              "Name": "Oficina Intergrupal Hispana",
+              "PhoneNumber": "5617487122",
+              "Uri": ""
+            },
+            {
+              "City": "Key Largo/Tavernier",
+              "Name": "Upper Keys FL Intergroup",
+              "PhoneNumber": "3058526186",
+              "Uri": "http://www.upperflkeysaa.org"
+            },
+            {
+              "City": "Key West",
+              "Name": "Key West Intergroup",
+              "PhoneNumber": "3052968654",
+              "Uri": "http://www.aafloridakeys.org"
+            },
+            {
+              "City": "Kissimmee",
+              "Name": "Osceola County Intergroup",
+              "PhoneNumber": "4078708282",
+              "Uri": "http://www.osceolaintergroup.org"
+            },
+            {
+              "City": "Lake City",
+              "Name": "Helpline",
+              "PhoneNumber": "3867584283",
+              "Uri": ""
+            },
+            {
+              "City": "Lakeland",
+              "Name": "Heartland Intergroup A.A. Inc",
+              "PhoneNumber": "8636879275",
+              "Uri": "http://www.heartlandintergroup.org"
+            },
+            {
+              "City": "Leesburg",
+              "Name": "Lake Sumter Intergroup",
+              "PhoneNumber": "3523600960",
+              "Uri": "http://www.aalakesumter.com"
+            },
+            {
+              "City": "Levy, Gilchrist, Dixie Counties",
+              "Name": "District 27 Answering Service",
+              "PhoneNumber": "3529492239",
+              "Uri": "http://district27aa.org"
+            },
+            {
+              "City": "Melbourne",
+              "Name": "Brevard Intergroup",
+              "PhoneNumber": "3217242247",
+              "Uri": "http://www.aaspacecoast.org"
+            },
+            {
+              "City": "Miami",
+              "Name": "Oficina Intergrupal Hispana Del Sur",
+              "PhoneNumber": "7864162076",
+              "Uri": ""
+            },
+            {
+              "City": "Miami/Coral Gables",
+              "Name": "Miami-Dade Intergroup",
+              "PhoneNumber": "3054612425",
+              "Uri": "http://www.aamiamidade.org"
+            },
+            {
+              "City": "Naples",
+              "Name": "Naples Area Intergroup",
+              "PhoneNumber": "2392626535",
+              "Uri": "http://www.aanaples.org"
+            },
+            {
+              "City": "New Port Richey",
+              "Name": "Central Office Of West Pasco",
+              "PhoneNumber": "7278470777",
+              "Uri": "http://www.wptsaa.org"
+            },
+            {
+              "City": "North Port",
+              "Name": "Intergroup Service Comm Of The 5th Dist",
+              "PhoneNumber": "9414267723",
+              "Uri": "http://www.aadistrict5.org"
+            },
+            {
+              "City": "Ocala",
+              "Name": "Intergroup 17",
+              "PhoneNumber": "3528670660",
+              "Uri": "http://www.aaocalamarion.org"
+            },
+            {
+              "City": "Orlando",
+              "Name": "Oficina Intergrupal de Orlando",
+              "PhoneNumber": "4072401181",
+              "Uri": "http://aaintergrupalhispana.com"
+            },
+            {
+              "City": "Palm Coast",
+              "Name": "Flagler County Intergroup",
+              "PhoneNumber": "3864454357",
+              "Uri": "http://www.aaflagler.org"
+            },
+            {
+              "City": "Panama City",
+              "Name": "District 15 Intergroup",
+              "PhoneNumber": "8507847431",
+              "Uri": "http://www.panamacityaa.org"
+            },
+            {
+              "City": "Pensacola",
+              "Name": "Tri-District Intergroup",
+              "PhoneNumber": "8504334191",
+              "Uri": "http://www.aapensacola.org"
+            },
+            {
+              "City": "Port St. Lucie",
+              "Name": "St. Lucie County Intergroup Association",
+              "PhoneNumber": "7728739299",
+              "Uri": "http://www.aastlucieintergroup.com"
+            },
+            {
+              "City": "Sarasota",
+              "Name": "Central Office Of Sara-Mana Inc",
+              "PhoneNumber": "9419516810",
+              "Uri": "http://www.aasrq.org"
+            },
+            {
+              "City": "South Daytona",
+              "Name": "Volusia County Intergroup",
+              "PhoneNumber": "3867562930",
+              "Uri": "http://www.aadaytona.org"
+            },
+            {
+              "City": "Spring Hill",
+              "Name": "Hernando County Intergroup",
+              "PhoneNumber": "3526834597",
+              "Uri": "http://www.aahernandocounty.com"
+            },
+            {
+              "City": "St. Petersburg/Largo",
+              "Name": "Pinellas Co. Intergroup",
+              "PhoneNumber": "7275300415",
+              "Uri": "http://www.aapinellas.org"
+            },
+            {
+              "City": "Stuart",
+              "Name": "Intergroup Of Martin County",
+              "PhoneNumber": "7722839337",
+              "Uri": "http://www.martincountyaa.org"
+            },
+            {
+              "City": "Sunrise",
+              "Name": "Oficina Intergrupal Hispana de A.A. Broward",
+              "PhoneNumber": "9545130300",
+              "Uri": "http://www.aahispanabroward.org"
+            },
+            {
+              "City": "Tallahassee",
+              "Name": "Intergroup 5",
+              "PhoneNumber": "8502241818",
+              "Uri": "http://www.intergroup5.org"
+            },
+            {
+              "City": "Tampa",
+              "Name": "Oficina Intergrupal De Tampa-Bay",
+              "PhoneNumber": "8138428444",
+              "Uri": "http://aaintergrupotampa.com"
+            },
+            {
+              "City": "Tampa",
+              "Name": "Tri-County Central Office",
+              "PhoneNumber": "8139339123",
+              "Uri": "http://www.aatampa-area.org"
+            },
+            {
+              "City": "Vero Beach",
+              "Name": "Indian River Central Office",
+              "PhoneNumber": "7725621114",
+              "Uri": "http://www.indianriveraa.org"
+            },
+            {
+              "City": "West Palm Beach",
+              "Name": "Palm Beach County Intergroup",
+              "PhoneNumber": "5616555700",
+              "Uri": "http://www.aa-palmbeachcounty.org"
+            }
+          ]
+        },
+        {
+          "Name": "Georgia",
+          "Contacts": [
+            {
+              "City": "Athens",
+              "Name": "Athens Area Answering Service",
+              "PhoneNumber": "7065430436",
+              "Uri": ""
+            },
+            {
+              "City": "Atlanta",
+              "Name": "Central Office",
+              "PhoneNumber": "4045253178",
+              "Uri": "http://www.atlantaaa.org"
+            },
+            {
+              "City": "Augusta",
+              "Name": "12th District Central Office",
+              "PhoneNumber": "7068608331",
+              "Uri": "http://www.augustaaa.org"
+            },
+            {
+              "City": "Brunswick",
+              "Name": "Golden Isles Intergroup",
+              "PhoneNumber": "9122650892",
+              "Uri": "http://www.geocities.ws/goldenislesaa"
+            },
+            {
+              "City": "Chamblee",
+              "Name": "Oficina Intergrupal Hispana",
+              "PhoneNumber": "7704520059",
+              "Uri": ""
+            },
+            {
+              "City": "Macon",
+              "Name": "Dist 07A 24 Hr Answering Service",
+              "PhoneNumber": "4787466652",
+              "Uri": ""
+            },
+            {
+              "City": "Macon",
+              "Name": "Georgia Service Assembly",
+              "PhoneNumber": "4787452588",
+              "Uri": "http://www.aageorgia.org"
+            },
+            {
+              "City": "Savannah",
+              "Name": "Savannah Intergroup Association",
+              "PhoneNumber": "9123563688",
+              "Uri": "http://www.savannahaa.com"
+            },
+            {
+              "City": "Tifton",
+              "Name": "Dist 02A-B Tifton-Valdosta",
+              "PhoneNumber": "8008781829",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Hawaii",
+          "Contacts": [
+            {
+              "City": "Hilo",
+              "Name": "East Hawaii Intergroup",
+              "PhoneNumber": "8089616133",
+              "Uri": "http://www.hawaiiaa.org"
+            },
+            {
+              "City": "Honolulu",
+              "Name": "Oahu A.A. Intergroup Of Hawaii",
+              "PhoneNumber": "8089461438",
+              "Uri": "http://www.oahucentraloffice.com"
+            },
+            {
+              "City": "Kailua Kona",
+              "Name": "West Hawaii A.A. Intergroup",
+              "PhoneNumber": "8083291212",
+              "Uri": "http://www.westhawaiiaa.org"
+            },
+            {
+              "City": "Lihue",
+              "Name": "Kauai Intergroup",
+              "PhoneNumber": "8082456677",
+              "Uri": "http://www.kauaiaa.org"
+            },
+            {
+              "City": "Wailuku",
+              "Name": "Maui Central Office",
+              "PhoneNumber": "8082449673",
+              "Uri": "http://www.aamaui.org"
+            }
+          ]
+        },
+        {
+          "Name": "Idaho",
+          "Contacts": [
+            {
+              "City": "Boise",
+              "Name": "Treasure Valley Central Office",
+              "PhoneNumber": "2083446611",
+              "Uri": "http://www.tvico.org"
+            },
+            {
+              "City": "Bonners Ferry",
+              "Name": "District 14 Office",
+              "PhoneNumber": "8003262164",
+              "Uri": "http://district14-aa.org"
+            },
+            {
+              "City": "Coeur D'Alene",
+              "Name": "Central Office Of North Idaho",
+              "PhoneNumber": "2086674633",
+              "Uri": ""
+            },
+            {
+              "City": "Idaho Falls",
+              "Name": "Idaho Falls Intergroup Council",
+              "PhoneNumber": "2085247729",
+              "Uri": "http://idahoarea18aa.org"
+            },
+            {
+              "City": "Lewiston",
+              "Name": "North Central Idaho Answering Service",
+              "PhoneNumber": "2088821597",
+              "Uri": ""
+            },
+            {
+              "City": "Pocatello",
+              "Name": "Dist. 01 Answering Service",
+              "PhoneNumber": "2082351444",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Illinois",
+          "Contacts": [
+            {
+              "City": "Alton",
+              "Name": "Dist. 18 Answering Service",
+              "PhoneNumber": "8003076600",
+              "Uri": ""
+            },
+            {
+              "City": "Antioch",
+              "Name": "Dist. 10 Answering Service",
+              "PhoneNumber": "8473955988",
+              "Uri": ""
+            },
+            {
+              "City": "Aurora",
+              "Name": "Dist. 60,62,63,64 Answering Service",
+              "PhoneNumber": "6308592444",
+              "Uri": ""
+            },
+            {
+              "City": "Barrington",
+              "Name": "Dist. 28 Answering Service",
+              "PhoneNumber": "8473824455",
+              "Uri": ""
+            },
+            {
+              "City": "Bartlett",
+              "Name": "Dist 23 Answering Service",
+              "PhoneNumber": "6308306091",
+              "Uri": ""
+            },
+            {
+              "City": "Bloomington",
+              "Name": "Bloomington/Normal Answering Service",
+              "PhoneNumber": "3098287092",
+              "Uri": ""
+            },
+            {
+              "City": "Blue Island",
+              "Name": "Oficina Intergrupal Sureste",
+              "PhoneNumber": "7082395640",
+              "Uri": ""
+            },
+            {
+              "City": "Carbondale",
+              "Name": "Carbondale Helpline",
+              "PhoneNumber": "8003076600",
+              "Uri": "http://www.southernillinoisaa.org"
+            },
+            {
+              "City": "Champaign",
+              "Name": "Dist 12 Answering Service",
+              "PhoneNumber": "2173734200",
+              "Uri": ""
+            },
+            {
+              "City": "Chicago",
+              "Name": "Chicago Area Service Office",
+              "PhoneNumber": "3123461475",
+              "Uri": "http://www.chicagoaa.org"
+            },
+            {
+              "City": "Chicago",
+              "Name": "Oficina Intergrupal De Chicago",
+              "PhoneNumber": "7734896438",
+              "Uri": ""
+            },
+            {
+              "City": "Chicago",
+              "Name": "Oficina Intergrupal Del Sur De Chicago",
+              "PhoneNumber": "7738474843",
+              "Uri": ""
+            },
+            {
+              "City": "Crystal Lake",
+              "Name": "Dist. 11 Answering Service",
+              "PhoneNumber": "8154553311",
+              "Uri": ""
+            },
+            {
+              "City": "De Kalb",
+              "Name": "Dist 71 Answering Service",
+              "PhoneNumber": "8004527990",
+              "Uri": ""
+            },
+            {
+              "City": "Dixon",
+              "Name": "Dist. 73 Answering Service",
+              "PhoneNumber": "8004527990",
+              "Uri": ""
+            },
+            {
+              "City": "Downers Grove",
+              "Name": "Dist. 42 Answering Service",
+              "PhoneNumber": "6308878671",
+              "Uri": ""
+            },
+            {
+              "City": "Elgin",
+              "Name": "Dist. 22 Answering Service",
+              "PhoneNumber": "8477427870",
+              "Uri": ""
+            },
+            {
+              "City": "Elgin",
+              "Name": "Intergrupal Noroeste",
+              "PhoneNumber": "8476959123",
+              "Uri": ""
+            },
+            {
+              "City": "Elmhurst",
+              "Name": "Dist. 41 Answering Service",
+              "PhoneNumber": "6308337897",
+              "Uri": ""
+            },
+            {
+              "City": "Freeport",
+              "Name": "Dist. 72 Answering Service",
+              "PhoneNumber": "8004527990",
+              "Uri": ""
+            },
+            {
+              "City": "Galesburg",
+              "Name": "Dist. 91 Central Office",
+              "PhoneNumber": "3093431530",
+              "Uri": ""
+            },
+            {
+              "City": "Glen Ellyn",
+              "Name": "Dist. 40 Answering Service",
+              "PhoneNumber": "6306536556",
+              "Uri": ""
+            },
+            {
+              "City": "Harrisburg",
+              "Name": "Illinois District 16 Hotline",
+              "PhoneNumber": "8003076600",
+              "Uri": "http://www.aasoutheasternillinois.org"
+            },
+            {
+              "City": "Joliet",
+              "Name": "Dist. 51 Answering Service",
+              "PhoneNumber": "8157416637",
+              "Uri": "http://www.aadistrict51.org"
+            },
+            {
+              "City": "Kankakee",
+              "Name": "Dist. 52 Answering Service",
+              "PhoneNumber": "8159394996",
+              "Uri": ""
+            },
+            {
+              "City": "Libertyville",
+              "Name": "Dist. 10 Answering Service",
+              "PhoneNumber": "8473621811",
+              "Uri": ""
+            },
+            {
+              "City": "Mt. Vernon",
+              "Name": "Mt. Vernon Helpline",
+              "PhoneNumber": "8003076600",
+              "Uri": "http://www.southernillinoisaa.org"
+            },
+            {
+              "City": "Naperville",
+              "Name": "Dist. 43 Answering Service",
+              "PhoneNumber": "6303552622",
+              "Uri": ""
+            },
+            {
+              "City": "Palatine",
+              "Name": "Dist. 21 Answering Service",
+              "PhoneNumber": "8473593311",
+              "Uri": ""
+            },
+            {
+              "City": "Peoria",
+              "Name": "Peoria Area Intergroup Association",
+              "PhoneNumber": "3096871329",
+              "Uri": "http://www.aapeoria.org"
+            },
+            {
+              "City": "Princeton",
+              "Name": "Dist. 80 Answering Service",
+              "PhoneNumber": "8158754279",
+              "Uri": ""
+            },
+            {
+              "City": "Rockford",
+              "Name": "Rockford Area Intergroup",
+              "PhoneNumber": "8159680333",
+              "Uri": "http://www.rockfordaa.org"
+            },
+            {
+              "City": "South Roxana",
+              "Name": "Southern Illinois Central Service Office",
+              "PhoneNumber": "6182514000",
+              "Uri": ""
+            },
+            {
+              "City": "St. Charles",
+              "Name": "Dist. 61 Answering Service",
+              "PhoneNumber": "6303776610",
+              "Uri": ""
+            },
+            {
+              "City": "Waukegan",
+              "Name": "Dist. 12 Hilltop Answering Service",
+              "PhoneNumber": "8476239660",
+              "Uri": ""
+            },
+            {
+              "City": "West Frankfort",
+              "Name": "Dist. 17 Helpline",
+              "PhoneNumber": "8003076600",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Indiana",
+          "Contacts": [
+            {
+              "City": "Anderson",
+              "Name": "Madison County Intergroup",
+              "PhoneNumber": "7656443212",
+              "Uri": "http://www.madisoncountyintergroup.org"
+            },
+            {
+              "City": "Angola",
+              "Name": "Tri-State Intergroup",
+              "PhoneNumber": "8666083793",
+              "Uri": "http://www.aaangola.org"
+            },
+            {
+              "City": "Columbus",
+              "Name": "Southeastern Indiana Intergroup",
+              "PhoneNumber": "8123508949",
+              "Uri": "http://www.seig-aa.org"
+            },
+            {
+              "City": "Elkhart",
+              "Name": "Central Service Office",
+              "PhoneNumber": "5742958188",
+              "Uri": "http://www.aaelkhart.com"
+            },
+            {
+              "City": "Evansville",
+              "Name": "Southwestern Indiana Central",
+              "PhoneNumber": "8002665584",
+              "Uri": "http://www.southwesternindianaaa.org"
+            },
+            {
+              "City": "Ft. Wayne",
+              "Name": "Fort Wayne Area Intergroup",
+              "PhoneNumber": "2604716262",
+              "Uri": "http://www.aaftwayne.org"
+            },
+            {
+              "City": "Hammond",
+              "Name": "Calumet Area Intergroup",
+              "PhoneNumber": "2196600867",
+              "Uri": ""
+            },
+            {
+              "City": "Indianapolis",
+              "Name": "Indianapolis Intergroup",
+              "PhoneNumber": "3176327864",
+              "Uri": "http://www.indyaa.org"
+            },
+            {
+              "City": "Indianapolis",
+              "Name": "Oficina Intergrupal Hispana",
+              "PhoneNumber": "3176315099",
+              "Uri": ""
+            },
+            {
+              "City": "Muncie",
+              "Name": "Muncie Tri-District 85,87,89, Intergroup",
+              "PhoneNumber": "7652842515",
+              "Uri": "http://www.aamuncie.org"
+            },
+            {
+              "City": "Richmond",
+              "Name": "Richmond Indiana Answering Service",
+              "PhoneNumber": "7659651800",
+              "Uri": ""
+            },
+            {
+              "City": "South Bend",
+              "Name": "Michiana Central Service Office",
+              "PhoneNumber": "5742347007",
+              "Uri": "http://www.michianasober.org"
+            },
+            {
+              "City": "Terre Haute",
+              "Name": "Wabash Valley Intergroup",
+              "PhoneNumber": "8122357263",
+              "Uri": "http://www.terrehauteaa.com"
+            },
+            {
+              "City": "West Lafayette",
+              "Name": "Lafayette Area Districts 49 & 51",
+              "PhoneNumber": "7657421666",
+              "Uri": "http://www.aalafayette.org"
+            }
+          ]
+        },
+        {
+          "Name": "Iowa",
+          "Contacts": [
+            {
+              "City": "Ames",
+              "Name": "Ames Intergroup",
+              "PhoneNumber": "5152328642",
+              "Uri": "http://www.amesaa.org"
+            },
+            {
+              "City": "Cedar Rapids",
+              "Name": "",
+              "PhoneNumber": "3193655955",
+              "Uri": ""
+            },
+            {
+              "City": "Davenport",
+              "Name": "",
+              "PhoneNumber": "3097641016",
+              "Uri": ""
+            },
+            {
+              "City": "Davenport",
+              "Name": "AA Iowa Intergroup",
+              "PhoneNumber": "3097641016",
+              "Uri": "http://www.aaquadcities.com"
+            },
+            {
+              "City": "Des Moines",
+              "Name": "Central Office/Intergroup",
+              "PhoneNumber": "5152828550",
+              "Uri": "http://www.aadesmoines.org"
+            },
+            {
+              "City": "Dubuque",
+              "Name": "Dubuque Area Intergroup",
+              "PhoneNumber": "5635579196",
+              "Uri": "http://www.dubuqueaa.org"
+            },
+            {
+              "City": "Iowa City",
+              "Name": "Dist. 13 Intergroup",
+              "PhoneNumber": "3193389111",
+              "Uri": "http://www.aa-ic.org"
+            },
+            {
+              "City": "Sioux City",
+              "Name": "Siouxland Intergroup",
+              "PhoneNumber": "7122521333",
+              "Uri": "http://www.aasiouxcity.org"
+            }
+          ]
+        },
+        {
+          "Name": "Kansas",
+          "Contacts": [
+            {
+              "City": "Salina",
+              "Name": "Kansas Area Assembly Central Office",
+              "PhoneNumber": "7858233058",
+              "Uri": "http://www.kansas-aa.org"
+            },
+            {
+              "City": "Shawnee",
+              "Name": "Oficina Intergrupal Hispano",
+              "PhoneNumber": "9133713376",
+              "Uri": ""
+            },
+            {
+              "City": "Topeka",
+              "Name": "Topeka Area Answering Service",
+              "PhoneNumber": "7852352226",
+              "Uri": "http://www.aatopeka.org"
+            },
+            {
+              "City": "Wichita",
+              "Name": "Central Office",
+              "PhoneNumber": "3166843661",
+              "Uri": "http://www.aawichita.org"
+            },
+            {
+              "City": "Witchita",
+              "Name": "Oficina Intergrupal Hispana Witchita Kansas",
+              "PhoneNumber": "3168711599",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Kentucky",
+          "Contacts": [
+            {
+              "City": "Bowling Green",
+              "Name": "Bowling Green Central Office",
+              "PhoneNumber": "2707825267",
+              "Uri": ""
+            },
+            {
+              "City": "Covington",
+              "Name": "No. Kentucky Central Office",
+              "PhoneNumber": "8594917181",
+              "Uri": "http://home.fuse.net/nkyaa"
+            },
+            {
+              "City": "Gilbertsville",
+              "Name": "Western Kentucky Intergroup",
+              "PhoneNumber": "8006066047",
+              "Uri": ""
+            },
+            {
+              "City": "Lexington",
+              "Name": "Bluegrass Intergroup",
+              "PhoneNumber": "8592251212",
+              "Uri": ""
+            },
+            {
+              "City": "Louisville",
+              "Name": "Greater Louisville Intergroup",
+              "PhoneNumber": "5025821849",
+              "Uri": "http://www.louisvilleaa.org"
+            },
+            {
+              "City": "Owensboro",
+              "Name": "Intergroup 17",
+              "PhoneNumber": "2706830371",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Louisiana",
+          "Contacts": [
+            {
+              "City": "Baton Rouge",
+              "Name": "Greater Baton Rouge AA Central Office",
+              "PhoneNumber": "2259300026",
+              "Uri": "http://www.aa-batonrouge.org"
+            },
+            {
+              "City": "Houma",
+              "Name": "17th District Intergroup",
+              "PhoneNumber": "8002853989",
+              "Uri": ""
+            },
+            {
+              "City": "Kenner/Metairie",
+              "Name": "Oficina Intergrupo De New Orleans",
+              "PhoneNumber": "5044442677",
+              "Uri": ""
+            },
+            {
+              "City": "Lafayette",
+              "Name": "Acadiana Area Central Office",
+              "PhoneNumber": "3379910830",
+              "Uri": "http://www.aa-acadiana.org"
+            },
+            {
+              "City": "Metairie",
+              "Name": "Greater New Orleans Area Central Office",
+              "PhoneNumber": "5048383399",
+              "Uri": "http://www.aaneworleans.org"
+            },
+            {
+              "City": "Shreveport",
+              "Name": "Central Office",
+              "PhoneNumber": "3188652172",
+              "Uri": "http://www.aacentraloffice.us"
+            }
+          ]
+        },
+        {
+          "Name": "Maine",
+          "Contacts": [
+            {
+              "City": "Ellsworth",
+              "Name": "Down East Intergroup",
+              "PhoneNumber": "2074791779",
+              "Uri": "http://www.downeastintergroup.org"
+            },
+            {
+              "City": "Portland",
+              "Name": "Central Service Office",
+              "PhoneNumber": "2077744335",
+              "Uri": "http://www.csoaamaine.org"
+            }
+          ]
+        },
+        {
+          "Name": "Maryland",
+          "Contacts": [
+            {
+              "City": "Aberdeen",
+              "Name": "Northeastern Maryland Intergroup",
+              "PhoneNumber": "4102724150",
+              "Uri": "http://www.nemdaa.org"
+            },
+            {
+              "City": "Annapolis",
+              "Name": "Annapolis Area Intergroup",
+              "PhoneNumber": "4102685441",
+              "Uri": "http://www.annapolisareaintergroup.org"
+            },
+            {
+              "City": "Baltimore",
+              "Name": "Baltimore Intergroup Council Of A.A.",
+              "PhoneNumber": "4106631922",
+              "Uri": "http://www.baltimoreaa.org"
+            },
+            {
+              "City": "Charlotte Hall",
+              "Name": "Southern Maryland Intergroup",
+              "PhoneNumber": "8004920209",
+              "Uri": "http://www.somdintergroup.org"
+            },
+            {
+              "City": "Cumberland",
+              "Name": "Western Maryland Intergroup",
+              "PhoneNumber": "8667226110",
+              "Uri": ""
+            },
+            {
+              "City": "Easton",
+              "Name": "Midshore Intergroup",
+              "PhoneNumber": "4108224226",
+              "Uri": "http://www.midshoreintergroup.org"
+            },
+            {
+              "City": "Frederick",
+              "Name": "West/Central Intergroup Of Maryland",
+              "PhoneNumber": "3016620544",
+              "Uri": "http://www.westcentralaa.org"
+            },
+            {
+              "City": "Hagerstown",
+              "Name": "Hagerstown Area Intergroup",
+              "PhoneNumber": "3017331109",
+              "Uri": "http://www.hagerstownaa.org"
+            },
+            {
+              "City": "Ocean City",
+              "Name": "Ocean City Fellowship Intergroup",
+              "PhoneNumber": "8003398811",
+              "Uri": "http://www.ocaa.org"
+            },
+            {
+              "City": "Salisbury",
+              "Name": "Lower Shore Intergroup",
+              "PhoneNumber": "4105432266",
+              "Uri": "http://www.lsiaa.org"
+            },
+            {
+              "City": "Silver Spring",
+              "Name": "Oficina Intergrupal Hispana",
+              "PhoneNumber": "3015876191",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Massachusetts",
+          "Contacts": [
+            {
+              "City": "Boston",
+              "Name": "Boston Central Service",
+              "PhoneNumber": "6174269444",
+              "Uri": "http://www.aaboston.org"
+            },
+            {
+              "City": "Holyoke",
+              "Name": "Western Mass Intergroup Office",
+              "PhoneNumber": "4135322111",
+              "Uri": "http://www.westernmassaa.org"
+            },
+            {
+              "City": "Hyannis",
+              "Name": "Cape Cod Intergroup",
+              "PhoneNumber": "5087757060",
+              "Uri": "http://www.capecodaa.net"
+            },
+            {
+              "City": "Lowell",
+              "Name": "Lowell Dist. 21 Answering Service",
+              "PhoneNumber": "9789574690",
+              "Uri": "http://www.aaemassd21.org"
+            },
+            {
+              "City": "Nantucket",
+              "Name": "Nantucket Intergroup",
+              "PhoneNumber": "5082282334",
+              "Uri": ""
+            },
+            {
+              "City": "Oaks Bluff",
+              "Name": "Martha's Vineyard Answering Service",
+              "PhoneNumber": "5086277084",
+              "Uri": "http://www.aaonmv.org"
+            },
+            {
+              "City": "Pittsfield",
+              "Name": "Berkshire Intergroup Office",
+              "PhoneNumber": "4134430212",
+              "Uri": "http://www.westernmassaa.org"
+            },
+            {
+              "City": "Springfield",
+              "Name": "Western Mass De Habla Hispana",
+              "PhoneNumber": "4137347500",
+              "Uri": ""
+            },
+            {
+              "City": "Worcester",
+              "Name": "Worcester Area Intergroup",
+              "PhoneNumber": "5087529000",
+              "Uri": "http://www.aaworcester.org"
+            }
+          ]
+        },
+        {
+          "Name": "Michigan",
+          "Contacts": [
+            {
+              "City": "Adrian",
+              "Name": "Lenawee Intergroup",
+              "PhoneNumber": "5172653590",
+              "Uri": ""
+            },
+            {
+              "City": "Alpena",
+              "Name": "District 28 Unity Council Answering Service",
+              "PhoneNumber": "9893542728",
+              "Uri": "http://www.cmia32.org"
+            },
+            {
+              "City": "Battle Creek",
+              "Name": "24 Hour Hotline",
+              "PhoneNumber": "2699647577",
+              "Uri": "http://www.westmidistrict5aa.org"
+            },
+            {
+              "City": "Bay City",
+              "Name": "Bay County Unity Intergroup",
+              "PhoneNumber": "9898941949",
+              "Uri": ""
+            },
+            {
+              "City": "Detroit",
+              "Name": "Detroit & Wayne County Office",
+              "PhoneNumber": "3138315550",
+              "Uri": ""
+            },
+            {
+              "City": "Durand",
+              "Name": "Dist. 10 Intergroup",
+              "PhoneNumber": "9897235711",
+              "Uri": "http://www.shiacoaa.org"
+            },
+            {
+              "City": "Ferndale",
+              "Name": "A.A. Of Greater Detroit",
+              "PhoneNumber": "8773370611",
+              "Uri": ""
+            },
+            {
+              "City": "Flint",
+              "Name": "Flint Area Unity Council 24",
+              "PhoneNumber": "8102340815",
+              "Uri": "http://geneseecountyaa.org"
+            },
+            {
+              "City": "Gaylord",
+              "Name": "Dist. 12 Of Area 34 Answering Service",
+              "PhoneNumber": "8663369588",
+              "Uri": "http://www.area34district12.org"
+            },
+            {
+              "City": "Grand Rapids",
+              "Name": "Kent County Central Office",
+              "PhoneNumber": "6169139149",
+              "Uri": "http://www.grandrapidsaa.org"
+            },
+            {
+              "City": "Houghton Lake",
+              "Name": "District 26 Unity Council Answering Service",
+              "PhoneNumber": "8662270015",
+              "Uri": "http://www.dist26aa.org"
+            },
+            {
+              "City": "Jackson",
+              "Name": "Jackson Area Answering Service",
+              "PhoneNumber": "5177898883",
+              "Uri": ""
+            },
+            {
+              "City": "Lansing",
+              "Name": "Lansing Central Office",
+              "PhoneNumber": "5173771444",
+              "Uri": "http://www.aalansingmi.org"
+            },
+            {
+              "City": "Marquette",
+              "Name": "Dist. 18 Answering Service",
+              "PhoneNumber": "9062494430",
+              "Uri": "http://www.aa-marquettecounty.org"
+            },
+            {
+              "City": "Midland",
+              "Name": "King Communication Answering Service",
+              "PhoneNumber": "9896982975",
+              "Uri": "http://midlandaa.org"
+            },
+            {
+              "City": "Monroe",
+              "Name": "Monroe Intergroup",
+              "PhoneNumber": "7342404844",
+              "Uri": "http://intergroup.monroeaa.org"
+            },
+            {
+              "City": "Newaygo",
+              "Name": "Newaygo County Central Office",
+              "PhoneNumber": "6166525574",
+              "Uri": ""
+            },
+            {
+              "City": "Owosso",
+              "Name": "Dist. 10 Answering Service",
+              "PhoneNumber": "9897235711",
+              "Uri": ""
+            },
+            {
+              "City": "Pigeon",
+              "Name": "Thumb Area Unity Council Intergroup",
+              "PhoneNumber": "9896704996",
+              "Uri": "http://www.tauc.ws"
+            },
+            {
+              "City": "Pontiac",
+              "Name": "AA Of Oakland County",
+              "PhoneNumber": "2483323521",
+              "Uri": "http://www.aaoaklandcountymi.org"
+            },
+            {
+              "City": "Portage",
+              "Name": "Kalamazoo Area Intergroup",
+              "PhoneNumber": "2693825244",
+              "Uri": "http://www.aakalamazoo.org"
+            },
+            {
+              "City": "Riverdale",
+              "Name": "Dist. 16 Answering Service",
+              "PhoneNumber": "8008213014",
+              "Uri": ""
+            },
+            {
+              "City": "Saginaw",
+              "Name": "Saginaw Valley Answering Service",
+              "PhoneNumber": "9897761241",
+              "Uri": ""
+            },
+            {
+              "City": "Stevensville",
+              "Name": "Area 34 District 1 Answering Service-Berrien & Cass County",
+              "PhoneNumber": "8008374247",
+              "Uri": ""
+            },
+            {
+              "City": "Sturgis",
+              "Name": "Southwest Central Intergroup",
+              "PhoneNumber": "6164671107",
+              "Uri": ""
+            },
+            {
+              "City": "Traverse City",
+              "Name": "Dist. 11 Central Office",
+              "PhoneNumber": "2319468823",
+              "Uri": "http://www.district11-aa.org"
+            },
+            {
+              "City": "Ypsilanti",
+              "Name": "Huron Valley Intergroup",
+              "PhoneNumber": "7344825700",
+              "Uri": "http://www.hvai.org"
+            }
+          ]
+        },
+        {
+          "Name": "Minnesota",
+          "Contacts": [
+            {
+              "City": "Albert Lea",
+              "Name": "Answering Service",
+              "PhoneNumber": "5073737307",
+              "Uri": ""
+            },
+            {
+              "City": "Austin",
+              "Name": "Answering Service",
+              "PhoneNumber": "5074373797",
+              "Uri": ""
+            },
+            {
+              "City": "Brainerd",
+              "Name": "Central Lakes A.A. Phone Line",
+              "PhoneNumber": "2188293740",
+              "Uri": "http://www.aacentrallakes.org"
+            },
+            {
+              "City": "Duluth",
+              "Name": "Twin Ports Area Intergroup",
+              "PhoneNumber": "2187278117",
+              "Uri": ""
+            },
+            {
+              "City": "Minneapolis",
+              "Name": "Intergroup Northeast",
+              "PhoneNumber": "7637815102",
+              "Uri": "http://www.aamine.com"
+            },
+            {
+              "City": "Minneapolis/St. Louis Park",
+              "Name": "Greater Minneapolis Intergroup",
+              "PhoneNumber": "9529220880",
+              "Uri": "http://www.aaminneapolis.org"
+            },
+            {
+              "City": "Rochester",
+              "Name": "A.A. District 1/Area 36",
+              "PhoneNumber": "5072811747",
+              "Uri": "http://www.aadistrict1.org"
+            },
+            {
+              "City": "St. Cloud",
+              "Name": "A.A. Assistance Line",
+              "PhoneNumber": "3202021895",
+              "Uri": ""
+            },
+            {
+              "City": "St. Paul",
+              "Name": "St. Paul Intergroup Central Office",
+              "PhoneNumber": "6512275502",
+              "Uri": "http://www.aastpaul.org"
+            }
+          ]
+        },
+        {
+          "Name": "Mississippi",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Missouri",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Montana",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            },
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            },
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            },
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            },
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            },
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            },
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            },
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            },
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Nebraska",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Nevada",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "New Hampshire",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "New Jersey",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "New Mexico",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "New York",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "North Carolina",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "North Dakota",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Ohio",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Oklahoma",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Oregon",
+          "Contacts": [
+            {
+              "City": "Beaverton",
+              "Name": "Oficina Intergrupal Hispana",
+              "PhoneNumber": "5038480102",
+              "Uri": ""
+            },
+            {
+              "City": "Eugene",
+              "Name": "Emerald Valley Intergroup",
+              "PhoneNumber": "5413424113",
+              "Uri": "http://www.eviaa.org"
+            },
+            {
+              "City": "Grants Pass",
+              "Name": "Central Office Of Southern Ore",
+              "PhoneNumber": "5414740782",
+              "Uri": "http://www.grantspassaa.com"
+            },
+            {
+              "City": "Hermiston",
+              "Name": "District 3 A.A. Hotline Answering Service",
+              "PhoneNumber": "8777701670",
+              "Uri": ""
+            },
+            {
+              "City": "Klamath Falls",
+              "Name": "Klamath Lake Intergroup",
+              "PhoneNumber": "5418834970",
+              "Uri": "http://www.klciaa.org"
+            },
+            {
+              "City": "McMinnville",
+              "Name": "Yamhill County Intergroup",
+              "PhoneNumber": "5034721172",
+              "Uri": ""
+            },
+            {
+              "City": "Medford",
+              "Name": "A.A. Jackson County Central Office",
+              "PhoneNumber": "5417321850",
+              "Uri": "http://www.aa-oregon.org"
+            },
+            {
+              "City": "Portland",
+              "Name": "Portland Area Intergroup",
+              "PhoneNumber": "5032238569",
+              "Uri": "http://www.pdxaa.com"
+            },
+            {
+              "City": "Portland",
+              "Name": "Westside Central Office",
+              "PhoneNumber": "5036840415",
+              "Uri": "http://www.westsidecentraloffice.com"
+            },
+            {
+              "City": "Redmond",
+              "Name": "Central Oregon Intergroup",
+              "PhoneNumber": "5415480440",
+              "Uri": "http://www.coigaa.org"
+            },
+            {
+              "City": "Salem",
+              "Name": "Oficina Intergrupal Hispana De Salem",
+              "PhoneNumber": "5038992652",
+              "Uri": ""
+            },
+            {
+              "City": "Salem",
+              "Name": "Willamette Valley Intergroup",
+              "PhoneNumber": "5033990599",
+              "Uri": "http://www.aa-salem.com"
+            }
+          ]
+        },
+        {
+          "Name": "Pennsylvania",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Rhode Island",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "South Carolina",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "South Dakota",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Tennessee",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Texas",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Utah",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Vermont",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Virginia",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Washington",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "West Virginia",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Wisconsin",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Wyoming",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "District of Columbia",
+          "Contacts": [
+            {
+              "City": "Washington",
+              "Name": "Oficina Intergrupal Hispana De Washington D.C.",
+              "PhoneNumber": "2025451050",
+              "Uri": ""
+            },
+            {
+              "City": "Washington",
+              "Name": "Washington Area Intergroup Association",
+              "PhoneNumber": "2029669115",
+              "Uri": "http://www.aa-dc.org"
+            }
+          ]
+        },
+        {
+          "Name": "Puerto Rico",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Virgin Islands",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Canada",
+      "Regions": [
+        {
+          "Name": "Alberta",
+          "Contacts": [
+            {
+              "City": "Calgary",
+              "Name": "Central Service Office Of A.A.",
+              "PhoneNumber": "4037771212",
+              "Uri": "http://www.calgaryaa.org"
+            },
+            {
+              "City": "Edmonton",
+              "Name": "A.A. Central Office",
+              "PhoneNumber": "7804245900",
+              "Uri": "http://www.edmontonaa.org"
+            },
+            {
+              "City": "Edmonton",
+              "Name": "Red Deer Area 78",
+              "PhoneNumber": "4033478650",
+              "Uri": "http://www.area78.org"
+            },
+            {
+              "City": "Grande Prairie",
+              "Name": "Grande Prairie Intergroup",
+              "PhoneNumber": "7805321772",
+              "Uri": ""
+            },
+            {
+              "City": "Lethbridge",
+              "Name": "South Alberta Intergroup",
+              "PhoneNumber": "4033278049",
+              "Uri": ""
+            },
+            {
+              "City": "Lloydminister",
+              "Name": "Lloydminister AA Answering Service",
+              "PhoneNumber": "7808753571",
+              "Uri": ""
+            },
+            {
+              "City": "Medicine Hat",
+              "Name": "Intergroup Medicine Hat",
+              "PhoneNumber": "4035272065",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "British Columbia",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Manitoba",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "New Brunswick",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Newfoundland and Labrador",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Northwest Territories",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Nova Scotia",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Ontario",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Prince Edward Island",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Quebec",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Saskatchewan",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        },
+        {
+          "Name": "Yukon Territory",
+          "Contacts": [
+            {
+              "City": "",
+              "Name": "",
+              "PhoneNumber": "",
+              "Uri": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+};
+            vm = new ViewModel(model);
+            ko.applyBindings(vm);
+            $(".region-accordion").accordion({
+                heightStyle: "content",
+                collapsible: true,
+                active: false
+            });
+        });
+
+        function ViewModel(model) {
+            var self = this;
+            self.name = ko.observable(model.Name);
+            self.countries = ko.observableArray([]);
+            $.each(model.Countries, function(i, val) {
+                var country = new Country(val.Name, val.Regions);
+                self.countries.push(country);
+            });
+        }
+
+        function Country(name, regions) {
+            var self = this;
+            self.name = ko.observable(name);
+            self.regions = ko.observableArray([]);
+            $.each(regions, function(i, val) {
+                var region = new Region(val.Name, val.Contacts);
+                self.regions.push(region);
+            });
+        }
+
+        function Region(name, contacts) {
+            var self = this;
+            self.name = ko.observable(name);
+            self.contacts = ko.observableArray([]);
+            $.each(contacts, function(i, val) {
+                var contact = new Contact(val.City, val.Name, val.PhoneNumber, val.Uri);
+                self.contacts.push(contact);
+            });
+        }
+
+        function Contact(city, name, phoneNumber, uri) {
+            this.city = ko.observable(city);
+            this.name = ko.observable(name);
+            this.phoneNumber = ko.observable(phoneNumber);
+            this.uri = ko.observable(uri);
+
+            this.hasUri = ko.computed(function() {
+                return (uri.length > 0);
+            }, this);
+
+            this.hasName = ko.computed(function() {
+                return (name.length > 0);
+            }, this);
+
+            this.phoneNumberDisplay = ko.computed(function() {
+                return phoneFormat(phoneNumber);
+            }, this);
+
+            this.phoneNumberLink = ko.computed(function() {
+                return "tel:" + phoneNumber;
+            }, this);
+        }
+
+        /* Created by http://liljosh.com
+           Formats a phone number to be in (555) 555-5555 format */
+        function phoneFormat(phone) {
+            phone = phone.replace(/[^0-9]/g, '');
+            phone = phone.replace(/(\d{3})(\d{3})(\d{4})/, "($1) $2-$3");
+            return phone;
+        }
+
+    </script>
+
+</body>
+</html>

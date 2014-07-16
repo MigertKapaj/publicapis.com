@@ -1,0 +1,781 @@
+
+
+
+
+
+<!DOCTYPE html>
+<html class="   ">
+  <head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# object: http://ogp.me/ns/object# article: http://ogp.me/ns/article# profile: http://ogp.me/ns/profile#">
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
+    
+    <title>Shoeboxed/api · GitHub</title>
+    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub" />
+    <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png" />
+    <meta property="fb:app_id" content="1401488693436528"/>
+
+      <meta content="@github" name="twitter:site" /><meta content="summary" name="twitter:card" /><meta content="Shoeboxed/api" name="twitter:title" /><meta content="api - Official API documentation for integrating with Shoeboxed https://www.shoeboxed.com" name="twitter:description" /><meta content="https://avatars3.githubusercontent.com/u/976486?s=400" name="twitter:image:src" />
+<meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="https://avatars3.githubusercontent.com/u/976486?s=400" property="og:image" /><meta content="Shoeboxed/api" property="og:title" /><meta content="https://github.com/Shoeboxed/api" property="og:url" /><meta content="api - Official API documentation for integrating with Shoeboxed https://www.shoeboxed.com" property="og:description" />
+
+    <link rel="assets" href="https://assets-cdn.github.com/">
+    <link rel="conduit-xhr" href="https://ghconduit.com:25035">
+    
+
+    <meta name="msapplication-TileImage" content="/windows-tile.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="selected-link" value="repo_source" data-pjax-transient />
+      <meta name="google-analytics" content="UA-3769691-2">
+
+    <meta content="collector.githubapp.com" name="octolytics-host" /><meta content="collector-cdn.github.com" name="octolytics-script-host" /><meta content="github" name="octolytics-app-id" /><meta content="C000BD58:1162:E661528:53C58E66" name="octolytics-dimension-request_id" />
+    
+
+    
+    
+    <link rel="icon" type="image/x-icon" href="https://assets-cdn.github.com/favicon.ico" />
+
+
+    <meta content="authenticity_token" name="csrf-param" />
+<meta content="1moI8a8fyUJQ9RpMSIGXs6nZSQYb/WYfyZAefk1qpyKWX4pQR7kzXzsQp37SYlhzPu1/7Yv+YJ3k0w4rC/CDjA==" name="csrf-token" />
+
+    <link href="https://assets-cdn.github.com/assets/github-c534ad575b5bb8c3cc3dce9c571df7aa7400dbe9.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="https://assets-cdn.github.com/assets/github2-7b12c21d4e47b20b15995e9a0f5f66d737e23334.css" media="all" rel="stylesheet" type="text/css" />
+    
+
+
+    <meta http-equiv="x-pjax-version" content="ef2e8ad48b4c98b3a1a0065370258ac2">
+
+      
+  <meta name="description" content="api - Official API documentation for integrating with Shoeboxed https://www.shoeboxed.com" />
+
+
+  <meta content="976486" name="octolytics-dimension-user_id" /><meta content="Shoeboxed" name="octolytics-dimension-user_login" /><meta content="20077505" name="octolytics-dimension-repository_id" /><meta content="Shoeboxed/api" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="20077505" name="octolytics-dimension-repository_network_root_id" /><meta content="Shoeboxed/api" name="octolytics-dimension-repository_network_root_nwo" />
+
+  <link href="https://github.com/Shoeboxed/api/commits/master.atom" rel="alternate" title="Recent Commits to api:master" type="application/atom+xml" />
+
+  </head>
+
+
+  <body class="logged_out  env-production  vis-public">
+    <a href="#start-of-content" tabindex="1" class="accessibility-aid js-skip-to-content">Skip to content</a>
+    <div class="wrapper">
+      
+      
+      
+      
+
+
+      
+      <div class="header header-logged-out">
+  <div class="container clearfix">
+
+    <a class="header-logo-wordmark" href="https://github.com/">
+      <span class="mega-octicon octicon-logo-github"></span>
+    </a>
+
+    <div class="header-actions">
+        <a class="button primary" href="/join">Sign up</a>
+      <a class="button signin" href="/login?return_to=%2FShoeboxed%2Fapi">Sign in</a>
+    </div>
+
+    <div class="command-bar js-command-bar  in-repository">
+
+      <ul class="top-nav">
+          <li class="explore"><a href="/explore">Explore</a></li>
+          <li class="features"><a href="/features">Features</a></li>
+          <li class="enterprise"><a href="https://enterprise.github.com/">Enterprise</a></li>
+          <li class="blog"><a href="/blog">Blog</a></li>
+      </ul>
+        <form accept-charset="UTF-8" action="/search" class="command-bar-form" id="top_search_form" method="get">
+
+<div class="commandbar">
+  <span class="message"></span>
+  <input type="text" data-hotkey="s, /" name="q" id="js-command-bar-field" placeholder="Search or type a command" tabindex="1" autocapitalize="off"
+    
+    
+    data-repo="Shoeboxed/api"
+  >
+  <div class="display hidden"></div>
+</div>
+
+    <input type="hidden" name="nwo" value="Shoeboxed/api" />
+
+    <div class="select-menu js-menu-container js-select-menu search-context-select-menu">
+      <span class="minibutton select-menu-button js-menu-target" role="button" aria-haspopup="true">
+        <span class="js-select-button">This repository</span>
+      </span>
+
+      <div class="select-menu-modal-holder js-menu-content js-navigation-container" aria-hidden="true">
+        <div class="select-menu-modal">
+
+          <div class="select-menu-item js-navigation-item js-this-repository-navigation-item selected">
+            <span class="select-menu-item-icon octicon octicon-check"></span>
+            <input type="radio" class="js-search-this-repository" name="search_target" value="repository" checked="checked" />
+            <div class="select-menu-item-text js-select-button-text">This repository</div>
+          </div> <!-- /.select-menu-item -->
+
+          <div class="select-menu-item js-navigation-item js-all-repositories-navigation-item">
+            <span class="select-menu-item-icon octicon octicon-check"></span>
+            <input type="radio" name="search_target" value="global" />
+            <div class="select-menu-item-text js-select-button-text">All repositories</div>
+          </div> <!-- /.select-menu-item -->
+
+        </div>
+      </div>
+    </div>
+
+  <span class="help tooltipped tooltipped-s" aria-label="Show command bar help">
+    <span class="octicon octicon-question"></span>
+  </span>
+
+
+  <input type="hidden" name="ref" value="cmdform">
+
+</form>
+    </div>
+
+  </div>
+</div>
+
+
+
+      <div id="start-of-content" class="accessibility-aid"></div>
+          <div class="site" itemscope itemtype="http://schema.org/WebPage">
+    <div id="js-flash-container">
+      
+    </div>
+    <div class="pagehead repohead instapaper_ignore readability-menu">
+      <div class="container">
+        
+<ul class="pagehead-actions">
+
+
+  <li>
+      <a href="/login?return_to=%2FShoeboxed%2Fapi"
+    class="minibutton with-count star-button tooltipped tooltipped-n"
+    aria-label="You must be signed in to star a repository" rel="nofollow">
+    <span class="octicon octicon-star"></span>
+    Star
+  </a>
+
+    <a class="social-count js-social-count" href="/Shoeboxed/api/stargazers">
+      4
+    </a>
+
+  </li>
+
+    <li>
+      <a href="/login?return_to=%2FShoeboxed%2Fapi"
+        class="minibutton with-count js-toggler-target fork-button tooltipped tooltipped-n"
+        aria-label="You must be signed in to fork a repository" rel="nofollow">
+        <span class="octicon octicon-repo-forked"></span>
+        Fork
+      </a>
+      <a href="/Shoeboxed/api/network" class="social-count">
+        0
+      </a>
+    </li>
+</ul>
+
+        <h1 itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="entry-title public">
+          <span class="repo-label"><span>public</span></span>
+          <span class="mega-octicon octicon-repo"></span>
+          <span class="author"><a href="/Shoeboxed" class="url fn" itemprop="url" rel="author"><span itemprop="title">Shoeboxed</span></a></span><!--
+       --><span class="path-divider">/</span><!--
+       --><strong><a href="/Shoeboxed/api" class="js-current-repository js-repo-home-link">api</a></strong>
+
+          <span class="page-context-loader">
+            <img alt="" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+          </span>
+
+        </h1>
+      </div><!-- /.container -->
+    </div><!-- /.repohead -->
+
+    <div class="container">
+      <div class="repository-with-sidebar repo-container new-discussion-timeline js-new-discussion-timeline with-full-navigation ">
+        <div class="repository-sidebar clearfix">
+            
+
+<div class="sunken-menu vertical-right repo-nav js-repo-nav js-repository-container-pjax js-octicon-loaders">
+  <div class="sunken-menu-contents">
+    <ul class="sunken-menu-group">
+      <li class="tooltipped tooltipped-w" aria-label="Code">
+        <a href="/Shoeboxed/api" aria-label="Code" class="selected js-selected-navigation-item sunken-menu-item" data-hotkey="g c" data-pjax="true" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /Shoeboxed/api">
+          <span class="octicon octicon-code"></span> <span class="full-word">Code</span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+        <li class="tooltipped tooltipped-w" aria-label="Issues">
+          <a href="/Shoeboxed/api/issues" aria-label="Issues" class="js-selected-navigation-item sunken-menu-item js-disable-pjax" data-hotkey="g i" data-selected-links="repo_issues /Shoeboxed/api/issues">
+            <span class="octicon octicon-issue-opened"></span> <span class="full-word">Issues</span>
+            <span class='counter'>7</span>
+            <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>        </li>
+
+      <li class="tooltipped tooltipped-w" aria-label="Pull Requests">
+        <a href="/Shoeboxed/api/pulls" aria-label="Pull Requests" class="js-selected-navigation-item sunken-menu-item js-disable-pjax" data-hotkey="g p" data-selected-links="repo_pulls /Shoeboxed/api/pulls">
+            <span class="octicon octicon-git-pull-request"></span> <span class="full-word">Pull Requests</span>
+            <span class='counter'>0</span>
+            <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+
+    </ul>
+    <div class="sunken-menu-separator"></div>
+    <ul class="sunken-menu-group">
+
+      <li class="tooltipped tooltipped-w" aria-label="Pulse">
+        <a href="/Shoeboxed/api/pulse" aria-label="Pulse" class="js-selected-navigation-item sunken-menu-item" data-pjax="true" data-selected-links="pulse /Shoeboxed/api/pulse">
+          <span class="octicon octicon-pulse"></span> <span class="full-word">Pulse</span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+      <li class="tooltipped tooltipped-w" aria-label="Graphs">
+        <a href="/Shoeboxed/api/graphs" aria-label="Graphs" class="js-selected-navigation-item sunken-menu-item" data-pjax="true" data-selected-links="repo_graphs repo_contributors /Shoeboxed/api/graphs">
+          <span class="octicon octicon-graph"></span> <span class="full-word">Graphs</span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+
+      <li class="tooltipped tooltipped-w" aria-label="Network">
+        <a href="/Shoeboxed/api/network" aria-label="Network" class="js-selected-navigation-item sunken-menu-item js-disable-pjax" data-selected-links="repo_network /Shoeboxed/api/network">
+          <span class="octicon octicon-repo-forked"></span> <span class="full-word">Network</span>
+          <img alt="" class="mini-loader" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+</a>      </li>
+    </ul>
+
+
+  </div>
+</div>
+
+              <div class="only-with-full-nav">
+                
+
+  
+
+<div class="clone-url open"
+  data-protocol-type="http"
+  data-url="/users/set_protocol?protocol_selector=http&amp;protocol_type=clone">
+  <h3><strong>HTTPS</strong> clone URL</h3>
+  <div class="clone-url-box">
+    <input type="text" class="clone js-url-field"
+           value="https://github.com/Shoeboxed/api.git" readonly="readonly">
+    <span class="url-box-clippy">
+    <button aria-label="Copy to clipboard" class="js-zeroclipboard minibutton zeroclipboard-button" data-clipboard-text="https://github.com/Shoeboxed/api.git" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+  
+
+<div class="clone-url "
+  data-protocol-type="subversion"
+  data-url="/users/set_protocol?protocol_selector=subversion&amp;protocol_type=clone">
+  <h3><strong>Subversion</strong> checkout URL</h3>
+  <div class="clone-url-box">
+    <input type="text" class="clone js-url-field"
+           value="https://github.com/Shoeboxed/api" readonly="readonly">
+    <span class="url-box-clippy">
+    <button aria-label="Copy to clipboard" class="js-zeroclipboard minibutton zeroclipboard-button" data-clipboard-text="https://github.com/Shoeboxed/api" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+    </span>
+  </div>
+</div>
+
+
+<p class="clone-options">You can clone with
+      <a href="#" class="js-clone-selector" data-protocol="http">HTTPS</a>
+      or <a href="#" class="js-clone-selector" data-protocol="subversion">Subversion</a>.
+  <a href="https://help.github.com/articles/which-remote-url-should-i-use" class="help tooltipped tooltipped-n" aria-label="Get help on which URL is right for you.">
+    <span class="octicon octicon-question"></span>
+  </a>
+</p>
+
+
+
+                <a href="/Shoeboxed/api/archive/master.zip"
+                   class="minibutton sidebar-button"
+                   aria-label="Download Shoeboxed/api as a zip file"
+                   title="Download Shoeboxed/api as a zip file"
+                   rel="nofollow">
+                  <span class="octicon octicon-cloud-download"></span>
+                  Download ZIP
+                </a>
+              </div>
+        </div><!-- /.repository-sidebar -->
+
+        <div id="js-repo-pjax-container" class="repository-content context-loader-container" data-pjax-container>
+          
+
+<span id="js-show-full-navigation"></span>
+
+<div class="repository-meta js-details-container ">
+    <div class="repository-description js-details-show">
+      <p>Official API documentation for integrating with Shoeboxed <a href="https://www.shoeboxed.com">https://www.shoeboxed.com</a></p>
+    </div>
+
+
+
+</div>
+
+<div class="capped-box overall-summary without-lang-stats">
+
+  <div class="stats-switcher-viewport js-stats-switcher-viewport">
+    <div class="stats-switcher-wrapper">
+    <ul class="numbers-summary">
+      <li class="commits">
+        <a data-pjax href="/Shoeboxed/api/commits/master">
+            <span class="num">
+              <span class="octicon octicon-history"></span>
+              39
+            </span>
+            commits
+        </a>
+      </li>
+      <li>
+        <a data-pjax href="/Shoeboxed/api/branches">
+          <span class="num">
+            <span class="octicon octicon-git-branch"></span>
+            1
+          </span>
+          branch
+        </a>
+      </li>
+
+      <li>
+        <a data-pjax href="/Shoeboxed/api/releases">
+          <span class="num">
+            <span class="octicon octicon-tag"></span>
+            0
+          </span>
+          releases
+        </a>
+      </li>
+
+      <li>
+        
+  <a href="/Shoeboxed/api/graphs/contributors">
+    <span class="num">
+      <span class="octicon octicon-organization"></span>
+      3
+    </span>
+    contributors
+  </a>
+      </li>
+    </ul>
+
+    </div>
+  </div>
+
+</div>
+
+
+
+
+<div class="file-navigation in-mid-page">
+  <a href="/Shoeboxed/api/find/master"
+        class="js-show-file-finder minibutton empty-icon tooltipped tooltipped-s right"
+        data-pjax
+        data-hotkey="t"
+        aria-label="Quickly jump between files">
+    <span class="octicon octicon-list-unordered"></span>
+  </a>
+    <a href="/Shoeboxed/api/compare" aria-label="Compare, review, create a pull request" class="minibutton compact primary tooltipped tooltipped-s" aria-label="Compare &amp; review" data-pjax>
+      <span class="octicon octicon-git-compare"></span>
+    </a>
+
+  
+
+<div class="select-menu js-menu-container js-select-menu" >
+  <span class="minibutton select-menu-button js-menu-target css-truncate" data-hotkey="w"
+    data-master-branch="master"
+    data-ref="master"
+    title="master"
+    role="button" aria-label="Switch branches or tags" tabindex="0" aria-haspopup="true">
+    <span class="octicon octicon-git-branch"></span>
+    <i>branch:</i>
+    <span class="js-select-button css-truncate-target">master</span>
+  </span>
+
+  <div class="select-menu-modal-holder js-menu-content js-navigation-container" data-pjax aria-hidden="true">
+
+    <div class="select-menu-modal">
+      <div class="select-menu-header">
+        <span class="select-menu-title">Switch branches/tags</span>
+        <span class="octicon octicon-x js-menu-close"></span>
+      </div> <!-- /.select-menu-header -->
+
+      <div class="select-menu-filters">
+        <div class="select-menu-text-filter">
+          <input type="text" aria-label="Filter branches/tags" id="context-commitish-filter-field" class="js-filterable-field js-navigation-enable" placeholder="Filter branches/tags">
+        </div>
+        <div class="select-menu-tabs">
+          <ul>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="branches" class="js-select-menu-tab">Branches</a>
+            </li>
+            <li class="select-menu-tab">
+              <a href="#" data-tab-filter="tags" class="js-select-menu-tab">Tags</a>
+            </li>
+          </ul>
+        </div><!-- /.select-menu-tabs -->
+      </div><!-- /.select-menu-filters -->
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="branches">
+
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+            <div class="select-menu-item js-navigation-item selected">
+              <span class="select-menu-item-icon octicon octicon-check"></span>
+              <a href="/Shoeboxed/api/tree/master"
+                 data-name="master"
+                 data-skip-pjax="true"
+                 rel="nofollow"
+                 class="js-navigation-open select-menu-item-text css-truncate-target"
+                 title="master">master</a>
+            </div> <!-- /.select-menu-item -->
+        </div>
+
+          <div class="select-menu-no-results">Nothing to show</div>
+      </div> <!-- /.select-menu-list -->
+
+      <div class="select-menu-list select-menu-tab-bucket js-select-menu-tab-bucket" data-tab-filter="tags">
+        <div data-filterable-for="context-commitish-filter-field" data-filterable-type="substring">
+
+
+        </div>
+
+        <div class="select-menu-no-results">Nothing to show</div>
+      </div> <!-- /.select-menu-list -->
+
+    </div> <!-- /.select-menu-modal -->
+  </div> <!-- /.select-menu-modal-holder -->
+</div> <!-- /.select-menu -->
+
+
+
+  <div class="breadcrumb"><span class='repo-root js-repo-root'><span itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/Shoeboxed/api" data-branch="master" data-direction="back" data-pjax="true" itemscope="url"><span itemprop="title">api</span></a></span></span><span class="separator"> / </span><form action="/login?return_to=%2FShoeboxed%2Fapi" aria-label="Sign in to make or propose changes" class="js-new-blob-form tooltipped tooltipped-e new-file-link" method="post"><span aria-label="Sign in to make or propose changes" class="js-new-blob-submit octicon octicon-plus" data-test-id="create-new-git-file" role="button"></span></form></div>
+</div>
+
+
+
+
+  
+  <div class="commit commit-tease js-details-container" >
+    <p class="commit-title ">
+        <a href="/Shoeboxed/api/commit/fbaecd52c725089083fb7f8eabaacc926d500b65" class="message" data-pjax="true" title="Merge pull request #10 from Shoeboxed/alex/webhook
+
+add info about new webhooks feature">Merge pull request</a> <a href="https://github.com/Shoeboxed/api/pull/10" class="issue-link" title="add info about new webhooks feature">#10</a> <a href="/Shoeboxed/api/commit/fbaecd52c725089083fb7f8eabaacc926d500b65" class="message" data-pjax="true" title="Merge pull request #10 from Shoeboxed/alex/webhook
+
+add info about new webhooks feature">from Shoeboxed/alex/webhook</a>
+        <span class="hidden-text-expander inline"><a href="#" class="js-details-target">…</a></span>
+    </p>
+      <div class="commit-desc"><pre>add info about new webhooks feature</pre></div>
+    <div class="commit-meta">
+      <button aria-label="Copy SHA" class="js-zeroclipboard zeroclipboard-link" data-clipboard-text="fbaecd52c725089083fb7f8eabaacc926d500b65" data-copied-hint="Copied!" type="button"><span class="octicon octicon-clippy"></span></button>
+      <a href="/Shoeboxed/api/commit/fbaecd52c725089083fb7f8eabaacc926d500b65" class="sha-block" data-pjax>latest commit <span class="sha">fbaecd52c7</span></a>
+
+      <div class="authorship">
+        <img alt="Taylor Mingos" class="gravatar js-avatar" data-user="54285" height="20" src="https://avatars1.githubusercontent.com/u/54285?s=140" width="20" />
+        <span class="author-name"><a href="/tmingos" rel="contributor">tmingos</a></span>
+        authored <time class="updated" datetime="2014-07-10T15:23:38-04:00" is="relative-time">July 10, 2014</time>
+
+      </div>
+    </div>
+  </div>
+
+  <div class="file-wrap">
+    <table class="files" data-pjax>
+
+      
+<tbody class=""
+  data-url="/Shoeboxed/api/file-list/master"
+  data-deferred-content-error="Failed to load latest commit information.">
+
+    <tr>
+      <td class="icon">
+        <span class="octicon octicon-file-directory"></span>
+        <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+      </td>
+      <td class="content">
+        <span class="css-truncate css-truncate-target"><a href="/Shoeboxed/api/tree/master/sections" class="js-directory-link" id="ff4dee88db82e98f0e0d524d965b9aa7-cf2db918f53bce603d8bacdad90e258cef063b59" title="sections">sections</a></span>
+      </td>
+      <td class="message">
+        <span class="css-truncate css-truncate-target ">
+          <a href="/Shoeboxed/api/commit/989aad5813b224ce22b4b3c009a7ea88b1e01162" class="message" data-pjax="true" title="update terms.md
+
+remove section about API request limit since we do not currently throttle or limit requests">update terms.md</a>
+        </span>
+      </td>
+      <td class="age">
+        <span class="css-truncate css-truncate-target"><time datetime="2014-07-03T17:22:37Z" is="time-ago">July 03, 2014</time></span>
+      </td>
+    </tr>
+    <tr>
+      <td class="icon">
+        <span class="octicon octicon-file-text"></span>
+        <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+      </td>
+      <td class="content">
+        <span class="css-truncate css-truncate-target"><a href="/Shoeboxed/api/blob/master/README.md" class="js-directory-link" id="04c6e90faac2675aa89e2176d2eec7d8-f9bdb149035277c06d2406acb055c18ddf291121" title="README.md">README.md</a></span>
+      </td>
+      <td class="message">
+        <span class="css-truncate css-truncate-target ">
+          <a href="/Shoeboxed/api/commit/754812d5f01e23289c79e9452b2ab4a202271c6c" class="message" data-pjax="true" title="Changes case of webhook notification properties">Changes case of webhook notification properties</a>
+        </span>
+      </td>
+      <td class="age">
+        <span class="css-truncate css-truncate-target"><time datetime="2014-07-09T13:46:39Z" is="time-ago">July 09, 2014</time></span>
+      </td>
+    </tr>
+    <tr>
+      <td class="icon">
+        <span class="octicon octicon-file-text"></span>
+        <img alt="" class="spinner" height="16" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-32.gif" width="16" />
+      </td>
+      <td class="content">
+        <span class="css-truncate css-truncate-target"><a href="/Shoeboxed/api/blob/master/changelog.md" class="js-directory-link" id="42ba1d994f4fa8c6ad17a7efae7936cc-7d7792899430896ad343dac1cadd61495dcd169c" title="changelog.md">changelog.md</a></span>
+      </td>
+      <td class="message">
+        <span class="css-truncate css-truncate-target ">
+          <a href="/Shoeboxed/api/commit/b1006e7b7d6bc6451108076732febfe2af9bb219" class="message" data-pjax="true" title="extend migration deadline to August 10th">extend migration deadline to August 10th</a>
+        </span>
+      </td>
+      <td class="age">
+        <span class="css-truncate css-truncate-target"><time datetime="2014-07-10T17:27:08Z" is="time-ago">July 10, 2014</time></span>
+      </td>
+    </tr>
+</tbody>
+
+    </table>
+  </div>
+
+
+  <div id="readme" class="clearfix announce instapaper_body md">
+    <span class="name">
+      <span class="octicon octicon-book"></span>
+      README.md
+    </span>
+
+    <article class="markdown-body entry-content" itemprop="mainContentOfPage"><h1>
+<a name="user-content-shoeboxed-api-v2-beta" class="anchor" href="#shoeboxed-api-v2-beta" aria-hidden="true"><span class="octicon octicon-link"></span></a>Shoeboxed Api v2 (beta)</h1>
+
+<p><strong>The new Shoeboxed API is a full-featured RESTful web service that uses OAuth 2.0 for authentication.</strong></p>
+
+<p>Everything is self-serve: All you need is a free Shoeboxed account to get started!</p>
+
+<p>The Shoeboxed v2 API empowers developers to:</p>
+
+<ul class="task-list">
+<li>securely integrate Shoeboxed user data seamlessly into your web, mobile or desktop application</li>
+<li>extend Shoeboxed's core functionality</li>
+<li>leverage Shoeboxed's receipt data and/or OCR for your product</li>
+<li>whitelabel or build on top of our receipt and document processing system (some business conditions apply)</li>
+<li>create new ways for Shoeboxed users to add receipts, business cards, or documents</li>
+<li>.. and much more!</li>
+</ul><h2>
+<a name="user-content-libraries" class="anchor" href="#libraries" aria-hidden="true"><span class="octicon octicon-link"></span></a>Libraries</h2>
+
+<p>Our API is only offered at this time as a HTTP web service. We do not provide native libraries or wrappers. </p>
+
+<p>If you write a library for our API, we'd love to add a link! Please email the repo url to <a href="mailto:api@team.shoeboxed.com">api@team.shoeboxed.com</a></p>
+
+<h2>
+<a name="user-content-is-this-api-production-ready" class="anchor" href="#is-this-api-production-ready" aria-hidden="true"><span class="octicon octicon-link"></span></a>Is this api production ready?</h2>
+
+<p>This API is in <strong>public beta</strong>. In other words, please use at your own risk and absolutely no warranties or guarantees are expressed or implied.</p>
+
+<p>We are 'dogfooding' this API. All new Shoeboxed functionality is built by our developers using this API, so it is in <em>everyone's</em> interests to minimize breaking changes.</p>
+
+<p>Shoeboxed is currently using this API in production for the following products and features:</p>
+
+<ul class="task-list">
+<li>Gmail Receipt Sync</li>
+<li>All new user registration</li>
+<li>In all new screens in our web application, including:
+
+<ul class="task-list">
+<li>Web-based receipt &amp; document uploader</li>
+<li>Account Settings</li>
+<li>User Settings</li>
+<li>New Receipt Tables</li>
+</ul>
+</li>
+<li>(expected June 2014) relaunched iOS 7 app</li>
+<li>Shoeboxed Web Clipper</li>
+</ul><p>We recommend that you 'Watch' this GitHub repository so that you're automatically notified when this documentation is updated.</p>
+
+<h1>
+<a name="user-content-getting-started" class="anchor" href="#getting-started" aria-hidden="true"><span class="octicon octicon-link"></span></a>Getting Started</h1>
+
+<h2>
+<a name="user-content-authentication" class="anchor" href="#authentication" aria-hidden="true"><span class="octicon octicon-link"></span></a>Authentication</h2>
+
+<p>We use OAuth 2 to authenticate all API requests. To get started, generate an OAuth 2.0 client_id and client_secret for your app:</p>
+
+<ol class="task-list">
+<li>Sign up for Shoeboxed if you don't have an account
+
+<ul class="task-list">
+<li><strong>A paid Shoeboxed account is not required</strong></li>
+<li>Sign up for Shoeboxed <a href="https://register.shoeboxed.com/">here</a>. <strong>Tip:</strong> <em>For a free DIY account, click the 'Maybe Later' button when you reach the pricing page</em>
+</li>
+</ul>
+</li>
+<li>
+<a href="https://app.shoeboxed.com/member/v2/user-settings#api">Generate Your OAuth 2 Credentials</a> Once finished, be sure to copy your client_id and client_secret and store them somewhere secure.</li>
+</ol><p>Now that you have your own credentials, you may either:</p>
+
+<ul class="task-list">
+<li>use any OAuth 2.0 client library to authenticate requests to our API <a href="/Shoeboxed/api/blob/master/sections/authentication.md">View OAuth Urls and Supported Grant Types</a>
+</li>
+<li>or, manually run through the OAuth 2.0 flow <a href="/Shoeboxed/api/blob/master/sections/authentication.md">View Step-by-Step Guide</a> </li>
+</ul><p>If you want to get started as fast as possible making calls against our API, check out <a href="/Shoeboxed/api/blob/master/sections/authentication.md">Step-by-Step OAuth 2.0 Guide</a></p>
+
+<h2>
+<a name="user-content-api-endpoints" class="anchor" href="#api-endpoints" aria-hidden="true"><span class="octicon octicon-link"></span></a>API endpoints</h2>
+
+<p>We use Swagger to provide an interactive API explorer that both documents the functionality of our API and allows you to make test calls directly from your browser. </p>
+
+<p><a href="https://api.shoeboxed.com/v2/explorer/index.html">Browse API Endpoints (you will leave GitHub)</a></p>
+
+<p><strong>Tip:</strong> Plug in a valid OAuth access token to make calls to our API from the documentation without leaving your browser.</p>
+
+<h2>
+<a name="user-content-webhook-notifications" class="anchor" href="#webhook-notifications" aria-hidden="true"><span class="octicon octicon-link"></span></a>Webhook notifications</h2>
+
+<p>We provide notifications for documents as they go through Shoeboxed processing.
+Fill in a desired notification URL for your <a href="https://app.shoeboxed.com/member/v2/user-settings#api">API client</a>,
+and any documents that belong to Shoeboxed users who have granted access to your
+application will trigger notifications of its status changes as it moves through
+the processing pipeline.</p>
+
+<p>The notifications look like this:</p>
+
+<div class="highlight highlight-json"><pre><span class="p">{</span>
+    <span class="nt">"documentId"</span><span class="p">:</span> <span class="s2">"5319ef30e4b0aeb0ce0da7b0"</span><span class="p">,</span>
+    <span class="nt">"event"</span><span class="p">:</span> <span class="s2">"processed"</span><span class="p">,</span>
+    <span class="nt">"token"</span><span class="p">:</span> <span class="s2">"XWGAsFADpPjHg70GTIvhB7EpoOjsWIduMMoc8j8vhG94bJEAam"</span><span class="p">,</span>
+    <span class="nt">"signature"</span><span class="p">:</span> <span class="s2">"miUJlR4KROB9GNfDpjIfR1Yje9qNXlK9yPkk4SMHsvU="</span>
+<span class="p">}</span>
+</pre></div>
+
+<p><code>Event</code> is one of <code>created</code> or <code>processed</code>.</p>
+
+<p><code>Token</code> is a 50-character random alphanumeric string; <code>Signature</code> is the HMAC
+of the token, using SHA-256 as the hash function and your API client secret as
+the key, and finally base64-encoded. This serves to verify that the notification
+is from Shoeboxed.</p>
+
+<p>An example of computing the signature using the token and client secret using
+Python 2.7:</p>
+
+<div class="highlight highlight-python"><pre><span class="kn">import</span> <span class="nn">hashlib</span><span class="o">,</span> <span class="nn">hmac</span><span class="o">,</span> <span class="nn">base64</span>
+
+<span class="n">token</span> <span class="o">=</span> <span class="n">b</span><span class="s">'provided token here'</span>
+<span class="n">secret</span> <span class="o">=</span> <span class="n">b</span><span class="s">'api client secret here'</span>
+<span class="n">signature</span> <span class="o">=</span> <span class="n">base64</span><span class="o">.</span><span class="n">b64encode</span><span class="p">(</span><span class="n">hmac</span><span class="o">.</span><span class="n">new</span><span class="p">(</span><span class="n">secret</span><span class="p">,</span> <span class="n">token</span><span class="p">,</span> <span class="n">digestmod</span><span class="o">=</span><span class="n">hashlib</span><span class="o">.</span><span class="n">sha256</span><span class="p">)</span><span class="o">.</span><span class="n">digest</span><span class="p">())</span>
+<span class="k">print</span><span class="p">(</span><span class="n">signature</span><span class="p">)</span>
+</pre></div>
+
+<p>Your application that receives the notification must return a status code in the
+200s. If it does not, or if we encounter any other network error, then we will
+retry the notification up to 10 times, in increasing intervals. The exact times
+at which we will retry the notification are <code>2^n * 90</code>, where <code>n</code> is the number
+of retries between 1 and 10; the resulting number is the number of seconds after
+the original notification at which we will attempt to retry.</p>
+
+<h1>
+<a name="user-content-support" class="anchor" href="#support" aria-hidden="true"><span class="octicon octicon-link"></span></a>Support</h1>
+
+<p>Feature requests? Bugs? Please file a Github issue.</p>
+
+<p>We are also available over email: <a href="mailto:api@team.shoeboxed.com">api@team.shoeboxed.com</a></p>
+
+<h1>
+<a name="user-content-api-terms-of-service" class="anchor" href="#api-terms-of-service" aria-hidden="true"><span class="octicon octicon-link"></span></a>API Terms of Service</h1>
+
+<p><a href="/Shoeboxed/api/blob/master/sections/terms.md">View API Terms of Service</a></p>
+
+<h2>
+<a name="user-content-legacy-v1-api-support" class="anchor" href="#legacy-v1-api-support" aria-hidden="true"><span class="octicon octicon-link"></span></a>Legacy (v1) API Support</h2>
+
+<p>Warning: A .zip archive of the old, legacy API docs is provided for <em>existing</em> users of the legacy API. We strongly recommend you migrate to API v2 as soon as possible. Please email us at <a href="mailto:api@team.shoeboxed.com">api@team.shoeboxed.com</a> with any questions or concerns. <a href="/Shoeboxed/api/blob/master/sections/legacy-v1-api-documentation.zip">OLD API docs archive. Right Click to Download.</a></p></article>
+  </div>
+
+
+        </div>
+
+      </div><!-- /.repo-container -->
+      <div class="modal-backdrop"></div>
+    </div><!-- /.container -->
+  </div><!-- /.site -->
+
+
+    </div><!-- /.wrapper -->
+
+      <div class="container">
+  <div class="site-footer">
+    <ul class="site-footer-links right">
+      <li><a href="https://status.github.com/">Status</a></li>
+      <li><a href="http://developer.github.com">API</a></li>
+      <li><a href="http://training.github.com">Training</a></li>
+      <li><a href="http://shop.github.com">Shop</a></li>
+      <li><a href="/blog">Blog</a></li>
+      <li><a href="/about">About</a></li>
+
+    </ul>
+
+    <a href="/">
+      <span class="mega-octicon octicon-mark-github" title="GitHub"></span>
+    </a>
+
+    <ul class="site-footer-links">
+      <li>&copy; 2014 <span title="0.04019s from github-fe131-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+        <li><a href="/site/terms">Terms</a></li>
+        <li><a href="/site/privacy">Privacy</a></li>
+        <li><a href="/security">Security</a></li>
+        <li><a href="/contact">Contact</a></li>
+    </ul>
+  </div><!-- /.site-footer -->
+</div><!-- /.container -->
+
+
+    <div class="fullscreen-overlay js-fullscreen-overlay" id="fullscreen_overlay">
+  <div class="fullscreen-container js-fullscreen-container">
+    <div class="textarea-wrap">
+      <textarea name="fullscreen-contents" id="fullscreen-contents" class="fullscreen-contents js-fullscreen-contents" placeholder="" data-suggester="fullscreen_suggester"></textarea>
+    </div>
+  </div>
+  <div class="fullscreen-sidebar">
+    <a href="#" class="exit-fullscreen js-exit-fullscreen tooltipped tooltipped-w" aria-label="Exit Zen Mode">
+      <span class="mega-octicon octicon-screen-normal"></span>
+    </a>
+    <a href="#" class="theme-switcher js-theme-switcher tooltipped tooltipped-w"
+      aria-label="Switch themes">
+      <span class="octicon octicon-color-mode"></span>
+    </a>
+  </div>
+</div>
+
+
+
+    <div id="ajax-error-message" class="flash flash-error">
+      <span class="octicon octicon-alert"></span>
+      <a href="#" class="octicon octicon-x close js-ajax-error-dismiss" aria-label="Dismiss error"></a>
+      Something went wrong with that request. Please try again.
+    </div>
+
+
+      <script crossorigin="anonymous" src="https://assets-cdn.github.com/assets/frameworks-df9e4beac80276ed3dfa56be0d97b536d0f5ee12.js" type="text/javascript"></script>
+      <script async="async" crossorigin="anonymous" src="https://assets-cdn.github.com/assets/github-534eef699bbadaf1454b432e14a2ab0a68c7ddf4.js" type="text/javascript"></script>
+      
+      
+        <script async src="https://www.google-analytics.com/analytics.js"></script>
+  </body>
+</html>
+

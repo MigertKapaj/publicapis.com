@@ -1,0 +1,1146 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) | !(IE 8) ]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]--><head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Ericsson Research Blog | Welcome to our new blog site. Here we share some of the early research results and innovative ideas we’re working on at Ericsson Research. As of June 19, we have moved from the Ericsson Labs site where we started back in 2008. You&#039;ll find all earlier blog posts here as well, and soon we will make available SW downloads too.Ericsson Research Blog | Welcome to our new blog site. Here we share some of the early research results and innovative ideas we’re working on at Ericsson Research. As of June 19, we have moved from the Ericsson Labs site where we started back in 2008. You&#039;ll find all earlier blog posts here as well, and soon we will make available SW downloads too.</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11"> 
+    <link rel="stylesheet" type="text/css" media="all" href="http://www.ericsson.com/research-blog/wp-content/themes/ericsson-research-blog/css/microsite.css" />
+    <link rel="stylesheet" type="text/css" media="all" href="http://www.ericsson.com/research-blog/wp-content/themes/ericsson-research-blog/style.css" />
+	<link rel="pingback" href="http://www.ericsson.com/research-blog/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.ericsson.com/research-blog/wp-content/themes/ericsson-research-blog/js/html5.js"></script>
+	<![endif]-->
+    
+    <!--[if lt IE 10]>
+        <link rel="stylesheet" type="text/css" href="http://www.ericsson.com/research-blog/wp-content/themes/ericsson-research-blog/css/style-ie-9-down.css" />
+    <![endif]-->
+    
+    <!--[if lt IE 9]>
+        <link rel="stylesheet" type="text/css" href="http://www.ericsson.com/research-blog/wp-content/themes/ericsson-research-blog/css/style-ie-8-down.css" />
+    <![endif]-->
+    
+    <!--[if lt IE 8]>
+        <link rel="stylesheet" type="text/css" href="http://www.ericsson.com/research-blog/wp-content/themes/ericsson-research-blog/css/style-ie-7-down.css" />
+    <![endif]-->
+    
+    <!--[if gte IE 9]>
+      <style type="text/css">
+        .gradient {
+           filter: none;
+        }
+      </style>
+    <![endif]-->
+    
+	<!-- Static file: 2013-12-02 -->
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/shared/eipa/css/eiehacks.css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" type="text/css" href="/shared/eipa/css/eie6hacks.css" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" type="text/css" href="/shared/eipa/css/eie7hacks.css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="/shared/eipa/css/eie8hacks.css" /><![endif]-->
+    
+    <!-- Cookie law -->
+    <script src=http://www.ericsson.com/cookie_consent/responsive type="text/javascript"></script>
+    <link rel="stylesheet" type="text/css" href="http://www.ericsson.com/shared/eipa/css/cookie_consent.css" />
+    <link rel="stylesheet" type="text/css" href="http://www.ericsson.com/shared/eipa/css/cookie_consent_extended.css" />
+    
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.ericsson.com/research-blog/" />
+<link rel="next" href="http://www.ericsson.com/research-blog/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Ericsson Research Blog - Welcome to our new blog site. Here we share some of the early research results and innovative ideas we’re working on at Ericsson Research. As of June 19, we have moved from the Ericsson Labs site where we started back in 2008. You&#039;ll find all earlier blog posts here as well, and soon we will make available SW downloads too." />
+<meta property="og:url" content="http://www.ericsson.com/research-blog/" />
+<meta property="og:site_name" content="Ericsson Research Blog" />
+<!-- / Yoast WordPress SEO plugin. -->
+
+<script type='text/javascript' src='http://www.ericsson.com/research-blog/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://www.ericsson.com/research-blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://www.ericsson.com/research-blog/wp-content/themes/ericsson-research-blog/js/modernizr.js?ver=3.9.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ericsson.com/research-blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.ericsson.com/research-blog/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 3.9.1" />
+</head>
+
+<body class="home blog gradient">
+<div id="eCookieConsentDialogHolder"></div>
+<div class="ePageWrapper">
+<div id="eHeaderContainer"  class="eInnerWrapper eGB clearfix">
+<div id="eHead">
+<div class="eWrapContainer">
+<div id="eHeadNavigation">
+<p class="eLogoContainer">
+<a id="eHeaderLogo" title="Ericsson Home" href="/"><img src="/shared/eipa/images/elogo.png" alt="Ericsson" /></a>
+</p>
+<div id="mobile-controls">
+<a class="navigation-button" href="#">
+<span></span>
+</a>
+</div>
+<div id="eHeadRT">
+<ul id="eHeaderToolMenu" class="eStructural">
+<li><a title="Ericsson in Social Media" class="e-social-media-hub-link" href="/social-media">Ericsson in Social Media</a></li>
+<li>
+<div id="eCountrySelect">
+<a id="eCountryLink" href="/local-sites">
+<span class="eSmallFlags eSmallFlagGlobal"></span>
+								Your Local Web sites
+</a>
+<div class="eTabs" id="eCountrySelectTabs" style="visibility: hidden">
+<a class="eClose" href="#"><span class="eHide">Close</span></a>
+<div id="eBoxEdge"></div>
+<div class="eBox3">
+<div class="eBoxTop"></div>
+<div class="eBoxBody">
+<h2 class="eLeft">
+									Your Local Ericsson Web Sites
+</h2>
+<a href="/" id="eGlobalLink" title="Ericsson Global"> <span class="eSmallFlags eSmallFlagGlobal"></span> Go to Ericsson Global</a>
+<ul class="eHorizontal eTabNav">
+<li><a class="eTabButton" data-continent="AF" href="#"><span></span>Africa<span></span></a></li>
+<li><a class="eTabButton" data-continent="AS" href="#"><span></span>Asia Pacific<span></span></a></li>
+<li><a class="eTabButton" data-continent="EU" href="#"><span></span>Europe<span></span></a></li>
+<li><a class="eTabButton" data-continent="NA" href="#"><span></span>North America<span></span></a></li>
+<li><a class="eTabButton" data-continent="SA" href="#"><span></span>South America<span></span></a></li>
+</ul>
+<div class="eTabColumnWrapper">
+<div class="eTabColumn eTabColumnReg AF">
+<div><a title="Angola" href="/ao"><span class="eSmallFlags eSmallFlag_ao"></span> Angola</a></div>
+<div><a title="Burkina Faso" href="/bf"><span class="eSmallFlags eSmallFlag_bf"></span> Burkina Faso</a></div>
+<div><a title="Burundi" href="/bi"><span class="eSmallFlags eSmallFlag_bi"></span> Burundi</a></div>
+<div><a title="Bénin" href="/bj"><span class="eSmallFlags eSmallFlag_bj"></span> Bénin</a></div>
+<div><a title="Botswana" href="/bw"><span class="eSmallFlags eSmallFlag_bw"></span> Botswana</a></div>
+<div><a title="Congo, République démocratique du" href="/cd"><span class="eSmallFlags eSmallFlag_cd"></span> Congo, République démocratique du</a></div>
+<div><a title="République centrafricaine" href="/cf"><span class="eSmallFlags eSmallFlag_cf"></span> République centrafricaine</a></div>
+<div><a title="Côte-d'Ivoire" href="/ci"><span class="eSmallFlags eSmallFlag_ci"></span> Côte-d'Ivoire</a></div>
+<div><a title="Cameroun" href="/cm"><span class="eSmallFlags eSmallFlag_cm"></span> Cameroun</a></div>
+<div><a title="Cap vert" href="/cv"><span class="eSmallFlags eSmallFlag_cv"></span> Cap vert</a></div>
+<div><a title="Djibouti" href="/dj"><span class="eSmallFlags eSmallFlag_dj"></span> Djibouti</a></div>
+<div><a title="Algérie" href="/dz"><span class="eSmallFlags eSmallFlag_dz"></span> Algérie</a></div>
+<div><a title="Egypt" href="/eg"><span class="eSmallFlags eSmallFlag_eg"></span> Egypt</a></div>
+<div><a title="Eritrea" href="/er"><span class="eSmallFlags eSmallFlag_er"></span> Eritrea</a></div>
+<div><a title="Ethiopia" href="/et"><span class="eSmallFlags eSmallFlag_et"></span> Ethiopia</a></div>
+<div><a title="Gabon" href="/ga"><span class="eSmallFlags eSmallFlag_ga"></span> Gabon</a></div>
+<div><a title="Ghana" href="/gh"><span class="eSmallFlags eSmallFlag_gh"></span> Ghana</a></div>
+<div><a title="Gambia" href="/gm"><span class="eSmallFlags eSmallFlag_gm"></span> Gambia</a></div>
+<div><a title="Guinée" href="/gn"><span class="eSmallFlags eSmallFlag_gn"></span> Guinée</a></div>
+<div><a title="Guinée équatoriale" href="/gq"><span class="eSmallFlags eSmallFlag_gq"></span> Guinée équatoriale</a></div>
+<div><a title="Guinea-Bissau" href="/gw"><span class="eSmallFlags eSmallFlag_gw"></span> Guinea-Bissau</a></div>
+<div><a title="Kenya" href="/ke"><span class="eSmallFlags eSmallFlag_ke"></span> Kenya</a></div>
+<div><a title="Comores" href="/km"><span class="eSmallFlags eSmallFlag_km"></span> Comores</a></div>
+<div><a title="Liberia" href="/lr"><span class="eSmallFlags eSmallFlag_lr"></span> Liberia</a></div>
+<div><a title="Lesotho" href="/ls"><span class="eSmallFlags eSmallFlag_ls"></span> Lesotho</a></div>
+<div><a title="Libya" href="/ly"><span class="eSmallFlags eSmallFlag_ly"></span> Libya</a></div>
+<div><a title="Maroc" href="/ma"><span class="eSmallFlags eSmallFlag_ma"></span> Maroc</a></div>
+<div><a title="Madagascar" href="/mg"><span class="eSmallFlags eSmallFlag_mg"></span> Madagascar</a></div>
+<div><a title="Mali" href="/ml"><span class="eSmallFlags eSmallFlag_ml"></span> Mali</a></div>
+<div><a title="Mauritania" href="/mr"><span class="eSmallFlags eSmallFlag_mr"></span> Mauritania</a></div>
+<div><a title="Maurice" href="/mu"><span class="eSmallFlags eSmallFlag_mu"></span> Maurice</a></div>
+<div><a title="Malawi" href="/mw"><span class="eSmallFlags eSmallFlag_mw"></span> Malawi</a></div>
+<div><a title="Mozambique" href="/mz"><span class="eSmallFlags eSmallFlag_mz"></span> Mozambique</a></div>
+<div><a title="Namibia" href="/na"><span class="eSmallFlags eSmallFlag_na"></span> Namibia</a></div>
+<div><a title="Niger" href="/ne"><span class="eSmallFlags eSmallFlag_ne"></span> Niger</a></div>
+<div><a title="Nigeria" href="/ng"><span class="eSmallFlags eSmallFlag_ng"></span> Nigeria</a></div>
+<div><a title="Rwanda" href="/rw"><span class="eSmallFlags eSmallFlag_rw"></span> Rwanda</a></div>
+<div><a title="Seychelles" href="/sc"><span class="eSmallFlags eSmallFlag_sc"></span> Seychelles</a></div>
+<div><a title="Sierra Leone" href="/sl"><span class="eSmallFlags eSmallFlag_sl"></span> Sierra Leone</a></div>
+<div><a title="Sénégal" href="/sn"><span class="eSmallFlags eSmallFlag_sn"></span> Sénégal</a></div>
+<div><a title="Somalia" href="/so"><span class="eSmallFlags eSmallFlag_so"></span> Somalia</a></div>
+<div><a title="Sao Tome &amp; Principe" href="/st"><span class="eSmallFlags eSmallFlag_st"></span> Sao Tome & Principe</a></div>
+<div><a title="Swaziland" href="/sz"><span class="eSmallFlags eSmallFlag_sz"></span> Swaziland</a></div>
+<div><a title="Tchad" href="/td"><span class="eSmallFlags eSmallFlag_td"></span> Tchad</a></div>
+<div><a title="Togo" href="/tg"><span class="eSmallFlags eSmallFlag_tg"></span> Togo</a></div>
+<div><a title="Tunisie" href="/tn"><span class="eSmallFlags eSmallFlag_tn"></span> Tunisie</a></div>
+<div><a title="Tanzania" href="/tz"><span class="eSmallFlags eSmallFlag_tz"></span> Tanzania</a></div>
+<div><a title="Uganda" href="/ug"><span class="eSmallFlags eSmallFlag_ug"></span> Uganda</a></div>
+<div><a title="South Africa" href="/za"><span class="eSmallFlags eSmallFlag_za"></span> South Africa</a></div>
+<div><a title="Zambia" href="/zm"><span class="eSmallFlags eSmallFlag_zm"></span> Zambia</a></div>
+<div><a title="Zimbabwe" href="/zw"><span class="eSmallFlags eSmallFlag_zw"></span> Zimbabwe</a></div>
+</div>
+<div class="eTabColumn eTabColumnReg AS">
+<div><a title="United Arab Emirates" href="/ae"><span class="eSmallFlags eSmallFlag_ae"></span> United Arab Emirates</a></div>
+<div><a title="Afghanistan" href="/af"><span class="eSmallFlags eSmallFlag_af"></span> Afghanistan</a></div>
+<div><a title="Armenia" href="/am"><span class="eSmallFlags eSmallFlag_am"></span> Armenia</a></div>
+<div><a title="Australia" href="/au"><span class="eSmallFlags eSmallFlag_au"></span> Australia</a></div>
+<div><a title="Azerbaijan" href="/az"><span class="eSmallFlags eSmallFlag_az"></span> Azerbaijan</a></div>
+<div><a title="Bangladesh" href="/bd"><span class="eSmallFlags eSmallFlag_bd"></span> Bangladesh</a></div>
+<div><a title="Bahrain" href="/bh"><span class="eSmallFlags eSmallFlag_bh"></span> Bahrain</a></div>
+<div><a title="Brunei Darussalam" href="/bn"><span class="eSmallFlags eSmallFlag_bn"></span> Brunei Darussalam</a></div>
+<div><a title="Bhutan" href="/bt"><span class="eSmallFlags eSmallFlag_bt"></span> Bhutan</a></div>
+<div><a title="中国" href="/cn"><span class="eSmallFlags eSmallFlag_cn"></span> 中国  - 简体中文</a></div>
+<div><a title="Cyprus" href="/cy"><span class="eSmallFlags eSmallFlag_cy"></span> Cyprus</a></div>
+<div><a title="Fiji" href="/fj"><span class="eSmallFlags eSmallFlag_fj"></span> Fiji</a></div>
+<div><a title="Micronesia" href="/fm"><span class="eSmallFlags eSmallFlag_fm"></span> Micronesia</a></div>
+<div><a title="Georgia" href="/ge"><span class="eSmallFlags eSmallFlag_ge"></span> Georgia</a></div>
+<div><a title="Hong Kong" href="/hk"><span class="eSmallFlags eSmallFlag_hk"></span> Hong Kong  - English</a></div>
+<div><a title="Indonesia" href="/id"><span class="eSmallFlags eSmallFlag_id"></span> Indonesia</a></div>
+<div><a title="Israel" href="/il"><span class="eSmallFlags eSmallFlag_il"></span> Israel</a></div>
+<div><a title="India" href="/in"><span class="eSmallFlags eSmallFlag_in"></span> India</a></div>
+<div><a title="Iraq" href="/iq"><span class="eSmallFlags eSmallFlag_iq"></span> Iraq</a></div>
+<div><a title="Jordan" href="/jo"><span class="eSmallFlags eSmallFlag_jo"></span> Jordan</a></div>
+<div><a title="日本" href="/jp"><span class="eSmallFlags eSmallFlag_jp"></span> 日本</a></div>
+<div><a title="Kyrgyzstan" href="/kg"><span class="eSmallFlags eSmallFlag_kg"></span> Kyrgyzstan</a></div>
+<div><a title="Cambodia" href="/kh"><span class="eSmallFlags eSmallFlag_kh"></span> Cambodia</a></div>
+<div><a title="Kiribati" href="/ki"><span class="eSmallFlags eSmallFlag_ki"></span> Kiribati</a></div>
+<div><a title="South Korea" href="/kr"><span class="eSmallFlags eSmallFlag_kr"></span> South Korea</a></div>
+<div><a title="Kuwait" href="/kw"><span class="eSmallFlags eSmallFlag_kw"></span> Kuwait</a></div>
+<div><a title="Казахстан" href="/kz"><span class="eSmallFlags eSmallFlag_kz"></span> Казахстан</a></div>
+<div><a title="Laos" href="/la"><span class="eSmallFlags eSmallFlag_la"></span> Laos</a></div>
+<div><a title="Lebanon" href="/lb"><span class="eSmallFlags eSmallFlag_lb"></span> Lebanon</a></div>
+<div><a title="Sri Lanka" href="/lk"><span class="eSmallFlags eSmallFlag_lk"></span> Sri Lanka</a></div>
+<div><a title="Marshall Islands" href="/mh"><span class="eSmallFlags eSmallFlag_mh"></span> Marshall Islands</a></div>
+<div><a title="Myanmar" href="/mm"><span class="eSmallFlags eSmallFlag_mm"></span> Myanmar</a></div>
+<div><a title="Mongolia" href="/mn"><span class="eSmallFlags eSmallFlag_mn"></span> Mongolia</a></div>
+<div><a title="Maldives" href="/mv"><span class="eSmallFlags eSmallFlag_mv"></span> Maldives</a></div>
+<div><a title="Malaysia" href="/my"><span class="eSmallFlags eSmallFlag_my"></span> Malaysia</a></div>
+<div><a title="Nepal" href="/np"><span class="eSmallFlags eSmallFlag_np"></span> Nepal</a></div>
+<div><a title="Nauru" href="/nr"><span class="eSmallFlags eSmallFlag_nr"></span> Nauru</a></div>
+<div><a title="New Zealand" href="/nz"><span class="eSmallFlags eSmallFlag_nz"></span> New Zealand</a></div>
+<div><a title="Oman" href="/om"><span class="eSmallFlags eSmallFlag_om"></span> Oman</a></div>
+<div><a title="Papua New Guinea" href="/pg"><span class="eSmallFlags eSmallFlag_pg"></span> Papua New Guinea</a></div>
+<div><a title="Philippines" href="/ph"><span class="eSmallFlags eSmallFlag_ph"></span> Philippines</a></div>
+<div><a title="Pakistan" href="/pk"><span class="eSmallFlags eSmallFlag_pk"></span> Pakistan</a></div>
+<div><a title="Palau" href="/pw"><span class="eSmallFlags eSmallFlag_pw"></span> Palau</a></div>
+<div><a title="Qatar" href="/qa"><span class="eSmallFlags eSmallFlag_qa"></span> Qatar</a></div>
+<div><a title="Saudi Arabia" href="/sa"><span class="eSmallFlags eSmallFlag_sa"></span> Saudi Arabia</a></div>
+<div><a title="Solomon Islands" href="/sb"><span class="eSmallFlags eSmallFlag_sb"></span> Solomon Islands</a></div>
+<div><a title="Singapore" href="/sg"><span class="eSmallFlags eSmallFlag_sg"></span> Singapore</a></div>
+<div><a title="Thailand" href="/th"><span class="eSmallFlags eSmallFlag_th"></span> Thailand</a></div>
+<div><a title="Tajikistan" href="/tj"><span class="eSmallFlags eSmallFlag_tj"></span> Tajikistan</a></div>
+<div><a title="Timor-Leste" href="/tl"><span class="eSmallFlags eSmallFlag_tl"></span> Timor-Leste</a></div>
+<div><a title="Turkmenistan" href="/tm"><span class="eSmallFlags eSmallFlag_tm"></span> Turkmenistan</a></div>
+<div><a title="Tonga" href="/to"><span class="eSmallFlags eSmallFlag_to"></span> Tonga</a></div>
+<div><a title="Turkey" href="/tr"><span class="eSmallFlags eSmallFlag_tr"></span> Turkey</a></div>
+<div><a title="Tuvalu" href="/tv"><span class="eSmallFlags eSmallFlag_tv"></span> Tuvalu</a></div>
+<div><a title="台灣" href="/tw"><span class="eSmallFlags eSmallFlag_tw"></span> 台灣  - 繁體中文</a></div>
+<div><a title="Uzbekistan" href="/uz"><span class="eSmallFlags eSmallFlag_uz"></span> Uzbekistan</a></div>
+<div><a title="Viet Nam" href="/vn"><span class="eSmallFlags eSmallFlag_vn"></span> Viet Nam</a></div>
+<div><a title="Vanuatu" href="/vu"><span class="eSmallFlags eSmallFlag_vu"></span> Vanuatu</a></div>
+<div><a title="Samoa" href="/ws"><span class="eSmallFlags eSmallFlag_ws"></span> Samoa</a></div>
+<div><a title="Yemen" href="/ye"><span class="eSmallFlags eSmallFlag_ye"></span> Yemen</a></div>
+</div>
+<div class="eTabColumn eTabColumnReg EU">
+<div><a title="Andorra" href="/ad"><span class="eSmallFlags eSmallFlag_ad"></span> Andorra</a></div>
+<div><a title="Albania" href="/al"><span class="eSmallFlags eSmallFlag_al"></span> Albania</a></div>
+<div><a title="Österreich" href="/at"><span class="eSmallFlags eSmallFlag_at"></span> Österreich</a></div>
+<div><a title="Bosnia &amp; Herzegovina" href="/ba"><span class="eSmallFlags eSmallFlag_ba"></span> Bosnia & Herzegovina</a></div>
+<div><a title="Belgium" href="/be"><span class="eSmallFlags eSmallFlag_be"></span> Belgium</a></div>
+<div><a title="Bulgaria" href="/bg"><span class="eSmallFlags eSmallFlag_bg"></span> Bulgaria</a></div>
+<div><a title="Belarus" href="/by"><span class="eSmallFlags eSmallFlag_by"></span> Belarus</a></div>
+<div><a title="Schweiz" href="/ch"><span class="eSmallFlags eSmallFlag_ch"></span> Schweiz</a></div>
+<div><a title="Cyprus" href="/cy"><span class="eSmallFlags eSmallFlag_cy"></span> Cyprus</a></div>
+<div><a title="Czech Republic" href="/cz"><span class="eSmallFlags eSmallFlag_cz"></span> Czech Republic</a></div>
+<div><a title="Deutschland" href="/de"><span class="eSmallFlags eSmallFlag_de"></span> Deutschland</a></div>
+<div><a title="Denmark" href="/dk"><span class="eSmallFlags eSmallFlag_dk"></span> Denmark</a></div>
+<div><a title="Estonia" href="/ee"><span class="eSmallFlags eSmallFlag_ee"></span> Estonia</a></div>
+<div><a title="España" href="/es"><span class="eSmallFlags eSmallFlag_es"></span> España</a></div>
+<div><a title="Suomi" href="/fi"><span class="eSmallFlags eSmallFlag_fi"></span> Suomi</a></div>
+<div><a title="France" href="/fr"><span class="eSmallFlags eSmallFlag_fr"></span> France</a></div>
+<div><a title="Greece" href="/gr"><span class="eSmallFlags eSmallFlag_gr"></span> Greece</a></div>
+<div><a title="Croatia" href="/hr"><span class="eSmallFlags eSmallFlag_hr"></span> Croatia</a></div>
+<div><a title="Hungary" href="/hu"><span class="eSmallFlags eSmallFlag_hu"></span> Hungary</a></div>
+<div><a title="Ireland" href="/ie"><span class="eSmallFlags eSmallFlag_ie"></span> Ireland</a></div>
+<div><a title="Iceland" href="/is"><span class="eSmallFlags eSmallFlag_is"></span> Iceland</a></div>
+<div><a title="Italia" href="/it"><span class="eSmallFlags eSmallFlag_it"></span> Italia</a></div>
+<div><a title="Liechtenstein" href="/li"><span class="eSmallFlags eSmallFlag_li"></span> Liechtenstein</a></div>
+<div><a title="Lithuania" href="/lt"><span class="eSmallFlags eSmallFlag_lt"></span> Lithuania</a></div>
+<div><a title="Luxembourg" href="/lu"><span class="eSmallFlags eSmallFlag_lu"></span> Luxembourg</a></div>
+<div><a title="Latvia" href="/lv"><span class="eSmallFlags eSmallFlag_lv"></span> Latvia</a></div>
+<div><a title="Monaco" href="/mc"><span class="eSmallFlags eSmallFlag_mc"></span> Monaco</a></div>
+<div><a title="Moldova" href="/md"><span class="eSmallFlags eSmallFlag_md"></span> Moldova</a></div>
+<div><a title="Montenegro" href="/me"><span class="eSmallFlags eSmallFlag_me"></span> Montenegro</a></div>
+<div><a title="Macedonia" href="/mk"><span class="eSmallFlags eSmallFlag_mk"></span> Macedonia</a></div>
+<div><a title="Malta" href="/mt"><span class="eSmallFlags eSmallFlag_mt"></span> Malta</a></div>
+<div><a title="Netherlands" href="/nl"><span class="eSmallFlags eSmallFlag_nl"></span> Netherlands</a></div>
+<div><a title="Norway" href="/no"><span class="eSmallFlags eSmallFlag_no"></span> Norway</a></div>
+<div><a title="Polska" href="/pl"><span class="eSmallFlags eSmallFlag_pl"></span> Polska</a></div>
+<div><a title="Portugal" href="/pt"><span class="eSmallFlags eSmallFlag_pt"></span> Portugal</a></div>
+<div><a title="Romania" href="/ro"><span class="eSmallFlags eSmallFlag_ro"></span> Romania</a></div>
+<div><a title="Serbia" href="/rs"><span class="eSmallFlags eSmallFlag_rs"></span> Serbia</a></div>
+<div><a title="Россия" href="/ru"><span class="eSmallFlags eSmallFlag_ru"></span> Россия</a></div>
+<div><a title="Sverige" href="/se"><span class="eSmallFlags eSmallFlag_se"></span> Sverige</a></div>
+<div><a title="Slovenia" href="/si"><span class="eSmallFlags eSmallFlag_si"></span> Slovenia</a></div>
+<div><a title="Slovakia" href="/sk"><span class="eSmallFlags eSmallFlag_sk"></span> Slovakia</a></div>
+<div><a title="San Marino" href="/sm"><span class="eSmallFlags eSmallFlag_sm"></span> San Marino</a></div>
+<div><a title="Украина" href="/ua"><span class="eSmallFlags eSmallFlag_ua"></span> Украина</a></div>
+<div><a title="United Kingdom" href="/uk"><span class="eSmallFlags eSmallFlag_uk"></span> United Kingdom</a></div>
+</div>
+<div class="eTabColumn eTabColumnReg NA">
+<div><a title="Antigua &amp; Barbuda" href="/ag"><span class="eSmallFlags eSmallFlag_ag"></span> Antigua & Barbuda</a></div>
+<div><a title="Barbados" href="/bb"><span class="eSmallFlags eSmallFlag_bb"></span> Barbados</a></div>
+<div><a title="Bahamas" href="/bs"><span class="eSmallFlags eSmallFlag_bs"></span> Bahamas</a></div>
+<div><a title="Belize" href="/bz"><span class="eSmallFlags eSmallFlag_bz"></span> Belize</a></div>
+<div><a title="Canada" href="/ca"><span class="eSmallFlags eSmallFlag_ca"></span> Canada  - English</a></div><div><a title="Canada" href="/ca/fr"><span class="eSmallFlags eSmallFlag_ca"></span> Canada  - Français</a></div>
+<div><a title="Costa Rica" href="/cr"><span class="eSmallFlags eSmallFlag_cr"></span> Costa Rica</a></div>
+<div><a title="Dominica" href="/dm"><span class="eSmallFlags eSmallFlag_dm"></span> Dominica</a></div>
+<div><a title="República Dominicana" href="/do"><span class="eSmallFlags eSmallFlag_do"></span> República Dominicana</a></div>
+<div><a title="Grenada" href="/gd"><span class="eSmallFlags eSmallFlag_gd"></span> Grenada</a></div>
+<div><a title="Guatemala" href="/gt"><span class="eSmallFlags eSmallFlag_gt"></span> Guatemala</a></div>
+<div><a title="Honduras" href="/hn"><span class="eSmallFlags eSmallFlag_hn"></span> Honduras</a></div>
+<div><a title="Haiti" href="/ht"><span class="eSmallFlags eSmallFlag_ht"></span> Haiti</a></div>
+<div><a title="Jamaica" href="/jm"><span class="eSmallFlags eSmallFlag_jm"></span> Jamaica</a></div>
+<div><a title="St Kitts &amp; Nevis" href="/kn"><span class="eSmallFlags eSmallFlag_kn"></span> St Kitts & Nevis</a></div>
+<div><a title="St Lucia" href="/lc"><span class="eSmallFlags eSmallFlag_lc"></span> St Lucia</a></div>
+<div><a title="México" href="/mx"><span class="eSmallFlags eSmallFlag_mx"></span> México</a></div>
+<div><a title="Nicaragua" href="/ni"><span class="eSmallFlags eSmallFlag_ni"></span> Nicaragua</a></div>
+<div><a title="Panamá" href="/pa"><span class="eSmallFlags eSmallFlag_pa"></span> Panamá</a></div>
+<div><a title="Puerto Rico" href="/pr"><span class="eSmallFlags eSmallFlag_pr"></span> Puerto Rico</a></div>
+<div><a title="El Salvador" href="/sv"><span class="eSmallFlags eSmallFlag_sv"></span> El Salvador</a></div>
+<div><a title="Trinidad &amp; Tobago" href="/tt"><span class="eSmallFlags eSmallFlag_tt"></span> Trinidad & Tobago</a></div>
+<div class="eActive"><a title="United States" href="/us"><span class="eSmallFlags eSmallFlag_us"></span> United States</a></div>
+<div><a title="St Vincent &amp; The Grenadines" href="/vc"><span class="eSmallFlags eSmallFlag_vc"></span> St Vincent & The Grenadines</a></div>
+</div>
+<div class="eTabColumn eTabColumnReg SA">
+<div><a title="Argentina" href="/ar"><span class="eSmallFlags eSmallFlag_ar"></span> Argentina</a></div>
+<div><a title="Bolivia" href="/bo"><span class="eSmallFlags eSmallFlag_bo"></span> Bolivia</a></div>
+<div><a title="Brasil" href="/br"><span class="eSmallFlags eSmallFlag_br"></span> Brasil</a></div>
+<div><a title="Chile" href="/cl"><span class="eSmallFlags eSmallFlag_cl"></span> Chile</a></div>
+<div><a title="Colombia" href="/co"><span class="eSmallFlags eSmallFlag_co"></span> Colombia</a></div>
+<div><a title="Ecuador" href="/ec"><span class="eSmallFlags eSmallFlag_ec"></span> Ecuador</a></div>
+<div><a title="Guyana" href="/gy"><span class="eSmallFlags eSmallFlag_gy"></span> Guyana</a></div>
+<div><a title="Perú" href="/pe"><span class="eSmallFlags eSmallFlag_pe"></span> Perú</a></div>
+<div><a title="Paraguay" href="/py"><span class="eSmallFlags eSmallFlag_py"></span> Paraguay</a></div>
+<div><a title="Suriname" href="/sr"><span class="eSmallFlags eSmallFlag_sr"></span> Suriname</a></div>
+<div><a title="Uruguay" href="/uy"><span class="eSmallFlags eSmallFlag_uy"></span> Uruguay</a></div>
+<div><a title="Venezuela" href="/ve"><span class="eSmallFlags eSmallFlag_ve"></span> Venezuela</a></div>
+</div>
+</div>
+</div>
+<div class="eBoxBottom"></div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a id="eLoginLink" title="Log in" href="/login">Log in</a></li>
+<li>
+<form action="/nsearch" method="get" class="eFormSearch">
+<fieldset>
+<input type="text" class="eSearchFormInput" name="query" placeholder="" value="" />
+<input type="hidden" name="isSearchPageView" value="false" />
+<input type="button" class="eSearchFormSubmit" value="" />
+</fieldset>
+</form>
+</li>
+</ul>
+</div>
+<div id="eHeadRB">
+<ul id="eGlobalMenu">
+<li id="eMenu0" class="eMenuLi eHasMenu">
+<a id="eMenu0Link" class="eMenuLink " href="/thecompany">The Company<span></span></a>
+<div id="eMenu0Box" class="eBox3">
+<div class="eBoxTop"><span id="eMenu0Top" class="eI7Fix"></span></div>
+<div class="eBoxBody">
+<ul class="eGlobalMenuGroup">
+<li><a title="Company Facts" href="/thecompany/company_facts">Company Facts</a></li>
+<li><a title="Corporate Governance" href="/thecompany/corporate_governance">Corporate Governance</a></li>
+<li><a title="Sustainability and Corporate Responsibility" href="/thecompany/sustainability-corporateresponsibility">Sustainability and Corporate Responsibility</a></li>
+<li><a title="Press" href="/thecompany/press">Press</a></li>
+<li class="eNoBorder"><a title="Investors" href="/thecompany/investors">Investors</a></li>
+</ul>
+<ul class="eGlobalMenuGroup">
+<li><a title="Industry Analysts" href="/thecompany/industry-analysts">Industry Analysts</a></li>
+<li><a title="Ericsson Channel Partners" href="/thecompany/channel-partner">Ericsson Channel Partners</a></li>
+<li><a title="Suppliers" href="/thecompany/suppliers">Suppliers</a></li>
+<li><a title="Events" href="/thecompany/events">Events</a></li>
+<li class="eNoBorder"><a title="Publications" href="/thecompany/our_publications">Publications</a></li>
+</ul>
+<!-- BEGIN: Render the small image to the right in the rich menu -->
+<ul class="eGlobalMenuSpot">
+<li><a title="The Company" href="/thecompany/"><img src="/res/images/2011/thecompany_180x90.png" alt="The Company"/></a></li>
+<li><h6><a title="The Company" href="/thecompany/">The Company</a></h6></li>
+<li class="eGlobalMenuText">Ericsson is shaping the way the world communicates. Read on to discover more about our company, its history and vision.</li>
+</ul>
+<!-- END: Render the small image to the right in the rich menu -->
+</div>
+<div class="eBoxBottom"></div>
+</div>
+</li>
+<li id="eMenu1" class="eMenuLi eHasMenu">
+<a id="eMenu1Link" class="eMenuLink " href="/thinkingahead">Thinking Ahead<span></span></a>
+<div id="eMenu1Box" class="eBox3">
+<div class="eBoxTop"><span id="eMenu1Top" class="eI7Fix"></span></div>
+<div class="eBoxBody">
+<ul class="eGlobalMenuGroup">
+<li><a title="Networked Society" href="/thinkingahead/networked_society">Networked Society</a></li>
+<li><a title="Technology and Research Insights" href="/thinkingahead/technology_insights">Technology and Research Insights</a></li>
+<li><a title="Ericsson ConsumerLab Insights" href="/thinkingahead/consumerlab">Ericsson ConsumerLab Insights</a></li>
+<li class="eNoBorder"><a title="Visionary ideas" href="/thinkingahead/visionary-ideas">Visionary ideas</a></li>
+</ul>
+<!-- BEGIN: Render the small image to the right in the rich menu -->
+<ul class="eGlobalMenuSpot">
+<li><a title="Networked Society" href="/thinkingahead/networked_society"><img src="/res/images/2014/networked-society-180x90.jpg" alt="Networked Society"/></a></li>
+<li><h6><a title="Networked Society" href="/thinkingahead/networked_society">Networked Society</a></h6></li>
+<li class="eGlobalMenuText">We are on the brink of an extraordinary revolution. A world connected in real time will place many new requirements on all of us while opening up opportunities beyond our imagination. Our Networked Society section explores the emerging possibilities of a connected world.</li>
+</ul>
+<ul class="eGlobalMenuSpot">
+<li><a title="Thinking Ahead" href="/thinkingahead"><img src="/res/images/2011/thinkingahead_180x90.png" alt="Thinking Ahead"/></a></li>
+<li><h6><a title="Thinking Ahead" href="/thinkingahead">Thinking Ahead</a></h6></li>
+<li class="eGlobalMenuText">All our insights, research, and discussions are here in one place. Use them for Thinking Ahead.</li>
+</ul>
+<!-- END: Render the small image to the right in the rich menu -->
+</div>
+<div class="eBoxBottom"></div>
+</div>
+</li>
+<li id="eMenu2" class="eMenuLi eHasMenu">
+<a id="eMenu2Link" class="eMenuLink " href="/spotlight">Spotlight<span></span></a>
+<div id="eMenu2Box" class="eBox3">
+<div class="eBoxTop"><span id="eMenu2Top" class="eI7Fix"></span></div>
+<div class="eBoxBody">
+<ul class="eGlobalMenuGroup">
+<li><a title="Services – Get the whole picture" href="/spotlight/services">Services – Get the whole picture</a></li>
+<li><a title="OSS/BSS – Meet the agile operator" href="/spotlight/../../oss-bss/">OSS/BSS – Meet the agile operator</a></li>
+<li><a title="Real Performance" href="/spotlight/../../real-performance">Real Performance</a></li>
+<li><a title="TV &amp; Media – It's time to play" href="/spotlight/../../televisionary/">TV &amp; Media – It&#039;s time to play</a></li>
+<li><a title="Cloud evolution" href="/spotlight/cloud-evolution">Cloud evolution</a></li>
+<li class="eNoBorder"><a title="M-Commerce – Open money" href="/spotlight/../../m-commerce/">M-Commerce – Open money</a></li>
+</ul>
+<!-- BEGIN: Render the small image to the right in the rich menu -->
+<ul class="eGlobalMenuSpot">
+<li><a title="Services - Get the whole picture" href="../../spotlight/services"><img src="/res/spotlight/images/2014/services-180x90.jpg" alt="Services - Get the whole picture"/></a></li>
+<li><h6><a title="Services - Get the whole picture" href="../../spotlight/services">Services – Get the whole picture</a></h6></li>
+<li class="eGlobalMenuText">Everything is getting connected, and business gets complex. To survive, look at your business, IT and networks as one. To thrive, see how they connect and affect each other. To stay ahead? You need to get the whole picture.</li>
+</ul>
+<!-- END: Render the small image to the right in the rich menu -->
+</div>
+<div class="eBoxBottom"></div>
+</div>
+</li>
+<li id="eMenu3" class="eMenuLi eHasMenu">
+<a id="eMenu3Link" class="eMenuLink " href="/ourportfolio">Our Portfolio<span></span></a>
+<div id="eMenu3Box" class="eBox3">
+<div class="eBoxTop"><span id="eMenu3Top" class="eI7Fix"></span></div>
+<div class="eBoxBody">
+<span>Solutions for:</span>
+<ul class="eGlobalMenuGroup ourPortfolio">
+<li>
+<a href="/ourportfolio/telecom-operators">Telecom Operators</a>
+<ul>
+<li>
+<a href="/ourportfolio/telecom-operators/mobile-broadband">Mobile Broadband</a>
+</li>
+<li>
+<a href="/ourportfolio/telecom-operators/communication-services">Communication Services</a>
+</li>
+<li>
+<a href="/ourportfolio/telecom-operators/fixed-broadband-and-convergence">Fixed Broadband and Convergence</a>
+</li>
+<li>
+<a href="/ourportfolio/telecom-operators/managed-services">Managed Services</a>
+</li>
+<li>
+<a href="/ourportfolio/telecom-operators/operations-and-business-support-systems">Operations and Business Support Systems</a>
+</li>
+<li>
+<a href="/ourportfolio/telecom-operators/television-and-media-management">Television and Media Management</a>
+</li>
+</ul>
+</li>
+<li><a href="/ourportfolio/government">Government</a></li>
+<li><a href="/ourportfolio/media-industry">Media Industry</a></li>
+<li><a href="/ourportfolio/transport-and-automotive-industry">Transport and Automotive Industry</a></li>
+<li><a href="/ourportfolio/energy-and-utilities-industry">Energy and Utilities Industry</a></li>
+</ul>
+<ul class="eGlobalMenuGroup ourPortfolio">
+<li class="eNoBorder"><a href="/ourportfolio/products">Products</a>
+<ul>
+<li><a href="/ourportfolio/products/application-enablement">Application Enablement</a></li>
+<li><a href="/ourportfolio/products/communication-core">Communication Core</a></li>
+<li><a href="/ourportfolio/products/infrastructure-and-components">Infrastructure and Components</a></li>
+<li><a href="/ourportfolio/products/ip-network-and-transport">IP Network and Transport</a></li>
+<li><a href="/ourportfolio/products/modems">Modems</a></li>
+<li><a href="/ourportfolio/products/operations-and-business-support">Operations and Business Support</a></li>
+<li><a href="/ourportfolio/products/radio-access">Radio Access</a></li>
+<li><a href="/ourportfolio/products/television-and-video">Television and Video</a></li>
+</ul>
+</li>
+</ul>
+<ul class="eGlobalMenuGroup ourPortfolio">
+<li><a href="/ourportfolio/services">Services</a>
+<ul>
+<li><a href="/ourportfolio/services/managed-services-1">Managed Services</a></li>
+<li><a href="/ourportfolio/services/consulting-and-transformation">Consulting and Transformation</a></li>
+<li><a href="/ourportfolio/services/learning-services">Learning Services</a></li>
+<li><a href="/ourportfolio/services/network-design-and-optimization">Network Design and Optimization</a></li>
+<li><a href="/ourportfolio/services/network-roll-out">Network Roll-Out</a></li>
+<li><a href="/ourportfolio/services/support">Support</a></li>
+<li><a href="/ourportfolio/services/systems-integration">Systems Integration</a></li>
+</ul>
+</li>
+<li><a href="/ourportfolio/licensing">Patent and Technology Licensing</a>
+<ul>
+<li><a href="/ourportfolio/licensing/patent-licensing">Patent Licensing</a></li>
+<li><a href="/ourportfolio/licensing/technology-licensing">Technology Licensing</a></li>
+</ul>
+</li>
+<li class="eNoBorder"><a href="/ourportfolio/a-to-z">Portfolio A-Z</a></li>
+</ul>
+<!-- BEGIN: Render the small image to the right in the rich menu -->
+<!-- END: Render the small image to the right in the rich menu -->
+</div>
+<div class="eBoxBottom"></div>
+</div>
+</li>
+<li id="eMenu4" class="eMenuLi eHasMenu">
+<a id="eMenu4Link" class="eMenuLinkLast " href="/careers">Careers<span></span></a>
+<div id="eMenu4Box" class="eBox3">
+<div class="eBoxTop"><span id="eMenu4Top" class="eI7Fix"></span></div>
+<div class="eBoxBody">
+<ul class="eGlobalMenuGroup">
+<li><a title="Our people" href="/careers/ourpeople">Our people</a></li>
+<li><a title="What We Do" href="/careers/whatwedo">What We Do</a></li>
+<li><a title="Our Future Together" href="/careers/ourfuturetogether">Our Future Together</a></li>
+<li class="eNoBorder"><a title="Life at Ericsson" href="/careers/lifeatericsson">Life at Ericsson</a></li>
+</ul>
+<ul class="eGlobalMenuGroup">
+<li><a title="Students and Young Professionals" href="/careers/student">Students and Young Professionals</a></li>
+<li><a title="Job Opportunities" href="/careers/jobopenings">Job Opportunities</a></li>
+<li class="eNoBorder"><a title="Recruitment at Ericsson" href="/careers/recruitment">Recruitment at Ericsson</a></li>
+</ul>
+<!-- BEGIN: Render the small image to the right in the rich menu -->
+<ul class="eGlobalMenuSpot">
+<li><a title="Careers" href="/careers/"><img src="/res/images/2011/careers_180x90.png" alt="Careers"/></a></li>
+<li><h6><a title="Careers" href="/careers/">Careers</a></h6></li>
+<li class="eGlobalMenuText">A career with Ericsson offers outstanding opportunities for professional and personal development in a truly global organization.</li>
+</ul>
+<!-- END: Render the small image to the right in the rich menu -->
+</div>
+<div class="eBoxBottom"></div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<!-- Content of Ericsson Research Blog -->
+<div class="clear-fix"></div>
+<div class="color-wrapper gradient clear-fix">
+<div id="blog-wrapper" class="clear-fix">
+<div class="eBreadCrumbsBlog clear-fix"><ol class="eBreadCrumbsBlog"><li class="eBreadCrumbsBlogFirst"><div><a href="/">Home</a></div></li><li><div>
+		<span prefix="v: http://rdf.data-vocabulary.org/#">
+			<span typeof="v:Breadcrumb"><span class="breadcrumb_last" property="v:title">Research Blog</span></span>
+		</span></div></li></ol></div><header id="main-head" class="clear-fix">
+	<h1 class="main-blog-headline"><a href="http://www.ericsson.com/research-blog/" title="Ericsson Research Blog" rel="home">Ericsson Research Blog</a></h1>
+</header>
+<aside id="mobile-sidebar">
+	<ul>
+	<li id="categories-4" class="widget-1 widget-first widget-last widget-odd widget widget_categories"><h3 class="widget-title">Research Topics</h3><select name='cat' id='cat' class='postform' >
+	<option value='-1'>Select Category</option>
+	<option class="level-0" value="29">5G</option>
+	<option class="level-0" value="37">Cloud</option>
+	<option class="level-0" value="87">Context Aware Communication</option>
+	<option class="level-0" value="81">Data &amp; Knowledge</option>
+	<option class="level-0" value="44">Internet of Things</option>
+	<option class="level-0" value="27">LTE</option>
+	<option class="level-0" value="149">Media Coding</option>
+	<option class="level-0" value="73">Security</option>
+	<option class="level-0" value="49">Smart Cities</option>
+	<option class="level-0" value="1">Uncategorized</option>
+</select>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://www.ericsson.com/research-blog/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+
+</li>    </ul>
+</aside>
+<div id="blog-content">
+			
+								          			<article id="post-845" class="post-845 post type-post status-publish format-standard has-post-thumbnail hentry category-5g category-lte tag-5g tag-d2d tag-device-to-device tag-lte tag-radio-technology tag-rel-12">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.ericsson.com/research-blog/lte/device-device-communications/" rel="bookmark">Device to Device Communications &#8211; What is it?</a>
+		</h1>
+		        <div class="entry-meta">
+            <span class="entry-by">By <a href="http://www.ericsson.com/research-blog/author/stefano-sorrentino/" title="Posts by Stefano Sorrentino" rel="author">Stefano Sorrentino</a></span>
+            <span class="entry-date" title="Posted date">Jul 10, 2014</span>
+            <span class="entry-cat" title="Research topic"><a href="http://www.ericsson.com/research-blog/category/5g/" title="View all posts in 5G" rel="category tag">5G</a>, <a href="http://www.ericsson.com/research-blog/category/lte/" title="View all posts in LTE" rel="category tag">LTE</a></span>
+        </div><!-- #entry-meta -->
+
+	</header><!-- .entry-header -->
+	    <div class="entry-thumbnail">
+        <img width="800" height="533" src="http://www.ericsson.com/research-blog/wp-content/uploads/2014/07/Rio-Sky_web.jpg" class="attachment-post-thumbnail wp-post-image" alt="Rio - Sky_web" />    </div>
+    
+		<div class="entry-content">
+		<p>Device to Device, D2D, is currently being specified by 3GPP in LTE Rel-12. D2D is also recognized as one of the technology components of the evolving 5G architecture. So, what is D2D? <a href="http://www.ericsson.com/research-blog/lte/device-device-communications/#more-845" class="more-link">Continue reading</a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta clear-fix">
+		        
+        <div class="entry-meta">
+			<span class="entry-tags"><a href="http://www.ericsson.com/research-blog/tag/5g/" rel="tag">5G</a>, <a href="http://www.ericsson.com/research-blog/tag/d2d/" rel="tag">D2D</a>, <a href="http://www.ericsson.com/research-blog/tag/device-to-device/" rel="tag">Device to Device</a>, <a href="http://www.ericsson.com/research-blog/tag/lte/" rel="tag">LTE</a>, <a href="http://www.ericsson.com/research-blog/tag/radio-technology/" rel="tag">radio technology</a>, <a href="http://www.ericsson.com/research-blog/tag/rel-12/" rel="tag">Rel-12</a></span>		</div><!-- .entry-meta -->
+	</footer><!-- .entry-meta -->
+</article><!-- #post -->				          			<article id="post-833" class="post-833 post type-post status-publish format-standard has-post-thumbnail hentry category-internet-of-things tag-ierc tag-internet-of-things tag-iot tag-iot-week tag-london tag-london-technology-week tag-sensors">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.ericsson.com/research-blog/internet-of-things/london-calling-iot-week/" rel="bookmark">London Calling – It’s IoT Week!</a>
+		</h1>
+		        <div class="entry-meta">
+            <span class="entry-by">By <a href="http://www.ericsson.com/research-blog/author/jan-holler/" title="Posts by Jan Höller" rel="author">Jan Höller</a></span>
+            <span class="entry-date" title="Posted date">Jul 8, 2014</span>
+            <span class="entry-cat" title="Research topic"><a href="http://www.ericsson.com/research-blog/category/internet-of-things/" title="View all posts in Internet of Things" rel="category tag">Internet of Things</a></span>
+        </div><!-- #entry-meta -->
+
+	</header><!-- .entry-header -->
+	    <div class="entry-thumbnail">
+        <img width="5955" height="3260" src="http://www.ericsson.com/research-blog/wp-content/uploads/2014/07/london.jpg" class="attachment-post-thumbnail wp-post-image" alt="london" />    </div>
+    
+		<div class="entry-content">
+		<p>Last week was Midsummer, sacred among Swedes and about the biggest holiday of the year, still <a href="http://iot-week.eu/" target="_blank">IoT Week</a> is held annually that very week.  <a href="http://www.ericsson.com/research-blog/internet-of-things/london-calling-iot-week/#more-833" class="more-link">Continue reading</a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta clear-fix">
+		        
+        <div class="entry-meta">
+			<span class="entry-tags"><a href="http://www.ericsson.com/research-blog/tag/ierc/" rel="tag">IERC</a>, <a href="http://www.ericsson.com/research-blog/tag/internet-of-things/" rel="tag">Internet of Things</a>, <a href="http://www.ericsson.com/research-blog/tag/iot/" rel="tag">IoT</a>, <a href="http://www.ericsson.com/research-blog/tag/iot-week/" rel="tag">IoT Week</a>, <a href="http://www.ericsson.com/research-blog/tag/london/" rel="tag">London</a>, <a href="http://www.ericsson.com/research-blog/tag/london-technology-week/" rel="tag">London Technology Week</a>, <a href="http://www.ericsson.com/research-blog/tag/sensors/" rel="tag">sensors</a></span>		</div><!-- .entry-meta -->
+	</footer><!-- .entry-meta -->
+</article><!-- #post -->				          			<article id="post-662" class="post-662 post type-post status-publish format-standard has-post-thumbnail hentry category-lte tag-3gpp tag-lte tag-lte-broadcast tag-mbms tag-mobile-networks tag-rel-9 tag-video-traffic">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.ericsson.com/research-blog/lte/lte-broadcast-tv-distribution/" rel="bookmark">LTE Broadcast for TV distribution</a>
+		</h1>
+		        <div class="entry-meta">
+            <span class="entry-by">By <a href="http://www.ericsson.com/research-blog/author/joerg-huschke/" title="Posts by Joerg Huschke" rel="author">Joerg Huschke</a></span>
+            <span class="entry-date" title="Posted date">Jul 2, 2014</span>
+            <span class="entry-cat" title="Research topic"><a href="http://www.ericsson.com/research-blog/category/lte/" title="View all posts in LTE" rel="category tag">LTE</a></span>
+        </div><!-- #entry-meta -->
+
+	</header><!-- .entry-header -->
+	    <div class="entry-thumbnail">
+        <img width="800" height="533" src="http://www.ericsson.com/research-blog/wp-content/uploads/2014/07/family.jpg" class="attachment-post-thumbnail wp-post-image" alt="family" />    </div>
+    
+		<div class="entry-content">
+		<p>We believe LTE will play a major role in TV distribution in the near future. LTE can give service providers the flexibility to alter between broadcast and unicast, depending on how many people want to watch at a particular time. This way, they can offer consumers personalized mobile TV with good quality in an efficient way. <a href="http://www.ericsson.com/research-blog/lte/lte-broadcast-tv-distribution/#more-662" class="more-link">Continue reading</a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta clear-fix">
+		        
+        <div class="entry-meta">
+			<span class="entry-tags"><a href="http://www.ericsson.com/research-blog/tag/3gpp/" rel="tag">3GPP</a>, <a href="http://www.ericsson.com/research-blog/tag/lte/" rel="tag">LTE</a>, <a href="http://www.ericsson.com/research-blog/tag/lte-broadcast/" rel="tag">LTE Broadcast</a>, <a href="http://www.ericsson.com/research-blog/tag/mbms/" rel="tag">MBMS</a>, <a href="http://www.ericsson.com/research-blog/tag/mobile-networks/" rel="tag">Mobile Networks</a>, <a href="http://www.ericsson.com/research-blog/tag/rel-9/" rel="tag">Rel-9</a>, <a href="http://www.ericsson.com/research-blog/tag/video-traffic/" rel="tag">Video Traffic</a></span>		</div><!-- .entry-meta -->
+	</footer><!-- .entry-meta -->
+</article><!-- #post -->				          			<article id="post-589" class="post-589 post type-post status-publish format-standard has-post-thumbnail hentry category-5g tag-5g tag-5gbps tag-att tag-docomo tag-ericsson-research">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.ericsson.com/research-blog/5g/ericsson-research-hits-5gbps-5g-labs-demo/" rel="bookmark">Ericsson hits 5 Gbps in 5G labs demo</a>
+		</h1>
+		        <div class="entry-meta">
+            <span class="entry-by">By <a href="http://www.ericsson.com/research-blog/author/johan-furuskog/" title="Posts by Johan Furuskog" rel="author">Johan Furuskog</a></span>
+            <span class="entry-date" title="Posted date">Jul 2, 2014</span>
+            <span class="entry-cat" title="Research topic"><a href="http://www.ericsson.com/research-blog/category/5g/" title="View all posts in 5G" rel="category tag">5G</a></span>
+        </div><!-- #entry-meta -->
+
+	</header><!-- .entry-header -->
+	    <div class="entry-thumbnail">
+        <img width="800" height="531" src="http://www.ericsson.com/research-blog/wp-content/uploads/2014/07/tokyo3.jpg" class="attachment-post-thumbnail wp-post-image" alt="tokyo3" />    </div>
+    
+		<div class="entry-content">
+		<p>Yes it is true! Ericsson has already achieved speeds of 5 Gbps in live, over-the-air demonstrations of our pre-standard 5G network technology. <a href="http://www.ericsson.com/research-blog/5g/ericsson-research-hits-5gbps-5g-labs-demo/#more-589" class="more-link">Continue reading</a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta clear-fix">
+		        
+        <div class="entry-meta">
+			<span class="entry-tags"><a href="http://www.ericsson.com/research-blog/tag/5g/" rel="tag">5G</a>, <a href="http://www.ericsson.com/research-blog/tag/5gbps/" rel="tag">5Gbps</a>, <a href="http://www.ericsson.com/research-blog/tag/att/" rel="tag">AT&amp;T</a>, <a href="http://www.ericsson.com/research-blog/tag/docomo/" rel="tag">DOCOMO</a>, <a href="http://www.ericsson.com/research-blog/tag/ericsson-research/" rel="tag">Ericsson Research</a></span>		</div><!-- .entry-meta -->
+	</footer><!-- .entry-meta -->
+</article><!-- #post -->				          			<article id="post-357" class="post-357 post type-post status-publish format-standard has-post-thumbnail hentry category-context-aware-communication tag-ericsson-research tag-google-glass tag-webrtc">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.ericsson.com/research-blog/context-aware-communication/field-service-support-google-glass-webrtc/" rel="bookmark">Field Service Support with Google Glass and WebRTC</a>
+		</h1>
+		        <div class="entry-meta">
+            <span class="entry-by">By <a href="http://www.ericsson.com/research-blog/author/patrik-oldsberg/" title="Posts by Patrik Oldsberg" rel="author">Patrik Oldsberg</a></span>
+            <span class="entry-date" title="Posted date">Jun 24, 2014</span>
+            <span class="entry-cat" title="Research topic"><a href="http://www.ericsson.com/research-blog/category/context-aware-communication/" title="View all posts in Context Aware Communication" rel="category tag">Context Aware Communication</a></span>
+        </div><!-- #entry-meta -->
+
+	</header><!-- .entry-header -->
+	    <div class="entry-thumbnail">
+        <img width="3687" height="1927" src="http://www.ericsson.com/research-blog/wp-content/uploads/2014/06/googleglass.jpg" class="attachment-post-thumbnail wp-post-image" alt="googleglass" />    </div>
+    
+		<div class="entry-content">
+		<p>In the past few months I did a thesis at Ericsson Research on the topic contextual communication, in which I investigated the use of Google Glass for field service support.</p>
+<p> <a href="http://www.ericsson.com/research-blog/context-aware-communication/field-service-support-google-glass-webrtc/#more-357" class="more-link">Continue reading</a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta clear-fix">
+		        
+        <div class="entry-meta">
+			<span class="entry-tags"><a href="http://www.ericsson.com/research-blog/tag/ericsson-research/" rel="tag">Ericsson Research</a>, <a href="http://www.ericsson.com/research-blog/tag/google-glass/" rel="tag">Google Glass</a>, <a href="http://www.ericsson.com/research-blog/tag/webrtc/" rel="tag">WebRTC</a></span>		</div><!-- .entry-meta -->
+	</footer><!-- .entry-meta -->
+</article><!-- #post -->				          			<article id="post-329" class="post-329 post type-post status-publish format-standard has-post-thumbnail hentry category-smart-cities tag-ericsson-research tag-green-city tag-ict tag-sustainability tag-the-new-cities-summit">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.ericsson.com/research-blog/smart-cities/ict-enabler-green-city/" rel="bookmark">ICT as enabler of the Green City</a>
+		</h1>
+		        <div class="entry-meta">
+            <span class="entry-by">By <a href="http://www.ericsson.com/research-blog/author/craig-donovan/" title="Posts by Craig Donovan" rel="author">Craig Donovan</a></span>
+            <span class="entry-date" title="Posted date">Jun 19, 2014</span>
+            <span class="entry-cat" title="Research topic"><a href="http://www.ericsson.com/research-blog/category/smart-cities/" title="View all posts in Smart Cities" rel="category tag">Smart Cities</a></span>
+        </div><!-- #entry-meta -->
+
+	</header><!-- .entry-header -->
+	    <div class="entry-thumbnail">
+        <img width="500" height="250" src="http://www.ericsson.com/research-blog/wp-content/uploads/2014/06/sustainable-growth-path-in-johannesburg_500x250.jpg" class="attachment-post-thumbnail wp-post-image" alt="sustainable-growth-path-in-johannesburg_500x250" />    </div>
+    
+		<div class="entry-content">
+		<p>How do we define the “Green City” and what role can ICT play in creating them?<br />
+ <a href="http://www.ericsson.com/research-blog/smart-cities/ict-enabler-green-city/#more-329" class="more-link">Continue reading</a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta clear-fix">
+		        
+        <div class="entry-meta">
+			<span class="entry-tags"><a href="http://www.ericsson.com/research-blog/tag/ericsson-research/" rel="tag">Ericsson Research</a>, <a href="http://www.ericsson.com/research-blog/tag/green-city/" rel="tag">Green City</a>, <a href="http://www.ericsson.com/research-blog/tag/ict/" rel="tag">ICT</a>, <a href="http://www.ericsson.com/research-blog/tag/sustainability/" rel="tag">Sustainability</a>, <a href="http://www.ericsson.com/research-blog/tag/the-new-cities-summit/" rel="tag">The New Cities Summit</a></span>		</div><!-- .entry-meta -->
+	</footer><!-- .entry-meta -->
+</article><!-- #post -->				          			<article id="post-85" class="post-85 post type-post status-publish format-standard has-post-thumbnail hentry category-lte tag-big-data tag-lte">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.ericsson.com/research-blog/lte/award-winning-paper-2/" rel="bookmark">Award Winning Paper!</a>
+		</h1>
+		        <div class="entry-meta">
+            <span class="entry-by">By <a href="http://www.ericsson.com/research-blog/author/fredrik-gunnarsson/" title="Posts by Fredrik Gunnarsson" rel="author">Fredrik Gunnarsson</a></span>
+            <span class="entry-date" title="Posted date">Jun 3, 2014</span>
+            <span class="entry-cat" title="Research topic"><a href="http://www.ericsson.com/research-blog/category/lte/" title="View all posts in LTE" rel="category tag">LTE</a></span>
+        </div><!-- #entry-meta -->
+
+	</header><!-- .entry-header -->
+	    <div class="entry-thumbnail">
+        <img width="800" height="533" src="http://www.ericsson.com/research-blog/wp-content/uploads/2014/06/fredrik-hero.jpg" class="attachment-post-thumbnail wp-post-image" alt="fredrik hero" />    </div>
+    
+		<div class="entry-content">
+		<p>At this year&#8217;s Data Fusion and Target Tracking conference, the paper &#8220;Particle filtering for network-based positioning in terrestrial radio networks” received the best paper award!<br />
+ <a href="http://www.ericsson.com/research-blog/lte/award-winning-paper-2/#more-85" class="more-link">Continue reading</a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta clear-fix">
+		        
+        <div class="entry-meta">
+			<span class="entry-tags"><a href="http://www.ericsson.com/research-blog/tag/big-data/" rel="tag">Big Data</a>, <a href="http://www.ericsson.com/research-blog/tag/lte/" rel="tag">LTE</a></span>		</div><!-- .entry-meta -->
+	</footer><!-- .entry-meta -->
+</article><!-- #post -->				          			<article id="post-101" class="post-101 post type-post status-publish format-standard has-post-thumbnail hentry category-5g tag-5g tag-5g-wifi tag-ericsson-research tag-johannesberg-summit tag-ntt-docomo">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.ericsson.com/research-blog/5g/5g-early-concepts-advanced-gbps-test-beds/" rel="bookmark">5G: From early concepts to advanced Gbps test beds</a>
+		</h1>
+		        <div class="entry-meta">
+            <span class="entry-by">By <a href="http://www.ericsson.com/research-blog/author/sara-mazur/" title="Posts by Sara Mazur" rel="author">Sara Mazur</a></span>
+            <span class="entry-date" title="Posted date">May 27, 2014</span>
+            <span class="entry-cat" title="Research topic"><a href="http://www.ericsson.com/research-blog/category/5g/" title="View all posts in 5G" rel="category tag">5G</a></span>
+        </div><!-- #entry-meta -->
+
+	</header><!-- .entry-header -->
+	    <div class="entry-thumbnail">
+        <img width="623" height="404" src="http://www.ericsson.com/research-blog/wp-content/uploads/2014/06/Sara-new-Johannesburg.jpg" class="attachment-post-thumbnail wp-post-image" alt="Sara new Johannesburg" />    </div>
+    
+		<div class="entry-content">
+		<p>The Johannesberg Summit confirms that the momentum of Wireless and Mobile ICT and 5G has increased significantly.<br />
+ <a href="http://www.ericsson.com/research-blog/5g/5g-early-concepts-advanced-gbps-test-beds/#more-101" class="more-link">Continue reading</a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta clear-fix">
+		        
+        <div class="entry-meta">
+			<span class="entry-tags"><a href="http://www.ericsson.com/research-blog/tag/5g/" rel="tag">5G</a>, <a href="http://www.ericsson.com/research-blog/tag/5g-wifi/" rel="tag">5G WiFi</a>, <a href="http://www.ericsson.com/research-blog/tag/ericsson-research/" rel="tag">Ericsson Research</a>, <a href="http://www.ericsson.com/research-blog/tag/johannesberg-summit/" rel="tag">Johannesberg Summit</a>, <a href="http://www.ericsson.com/research-blog/tag/ntt-docomo/" rel="tag">NTT DoCoMo</a></span>		</div><!-- .entry-meta -->
+	</footer><!-- .entry-meta -->
+</article><!-- #post -->				          			<article id="post-118" class="post-118 post type-post status-publish format-standard has-post-thumbnail hentry category-lte tag-bmwi tag-comgreen tag-comp tag-energy-efficiency tag-ericsson-research tag-it2green">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.ericsson.com/research-blog/lte/118/" rel="bookmark">Ericsson Research and the ComGreen project</a>
+		</h1>
+		        <div class="entry-meta">
+            <span class="entry-by">By <a href="http://www.ericsson.com/research-blog/author/laetitia-falconetti/" title="Posts by Laetitia Falconetti" rel="author">Laetitia Falconetti</a></span>
+            <span class="entry-date" title="Posted date">May 20, 2014</span>
+            <span class="entry-cat" title="Research topic"><a href="http://www.ericsson.com/research-blog/category/lte/" title="View all posts in LTE" rel="category tag">LTE</a></span>
+        </div><!-- #entry-meta -->
+
+	</header><!-- .entry-header -->
+	    <div class="entry-thumbnail">
+        <img width="640" height="471" src="http://www.ericsson.com/research-blog/wp-content/uploads/2014/06/IT2Green-photo.jpg" class="attachment-post-thumbnail wp-post-image" alt="IT2Green-photo" />    </div>
+    
+		<div class="entry-content">
+		<p>On May 8 Ericsson Research and the other ComGreen partners presented the results obtained within the ComGreen research project at the German Ministry for Economy and Energy (BMWi).<br />
+ <a href="http://www.ericsson.com/research-blog/lte/118/#more-118" class="more-link">Continue reading</a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta clear-fix">
+		        
+        <div class="entry-meta">
+			<span class="entry-tags"><a href="http://www.ericsson.com/research-blog/tag/bmwi/" rel="tag">BMWi</a>, <a href="http://www.ericsson.com/research-blog/tag/comgreen/" rel="tag">ComGreen</a>, <a href="http://www.ericsson.com/research-blog/tag/comp/" rel="tag">CoMP</a>, <a href="http://www.ericsson.com/research-blog/tag/energy-efficiency/" rel="tag">energy efficiency</a>, <a href="http://www.ericsson.com/research-blog/tag/ericsson-research/" rel="tag">Ericsson Research</a>, <a href="http://www.ericsson.com/research-blog/tag/it2green/" rel="tag">IT2Green</a></span>		</div><!-- .entry-meta -->
+	</footer><!-- .entry-meta -->
+</article><!-- #post -->				    <script type="text/javascript">
+    // <![CDATA[
+        var disqus_shortname = 'ericssonresearchblog';
+        (function () {
+            var nodes = document.getElementsByTagName('span');
+            for (var i = 0, url; i < nodes.length; i++) {
+                if (nodes[i].className.indexOf('dsq-postid') != -1) {
+                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('rel'));
+                    url = nodes[i].parentNode.href.split('#', 1);
+                    if (url.length == 1) { url = url[0]; }
+                    else { url = url[1]; }
+                    nodes[i].parentNode.href = url + '#disqus_thread';
+                }
+            }
+            var s = document.createElement('script'); s.async = true;
+            s.type = 'text/javascript';
+            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+        }());
+    //]]>
+    </script>
+	<nav class="navigation paging-navigation" role="navigation">
+		<h1 class="assistive-text">Posts navigation</h1>
+		<div class="pagination loop-pagination">
+			<span class='page-numbers current'>1</span>
+<a class='page-numbers' href='http://www.ericsson.com/research-blog/page/2/'>2</a>
+<a class='page-numbers' href='http://www.ericsson.com/research-blog/page/3/'>3</a>
+<a class='page-numbers' href='http://www.ericsson.com/research-blog/page/4/'>4</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='http://www.ericsson.com/research-blog/page/14/'>14</a>
+<a class="next page-numbers" href="http://www.ericsson.com/research-blog/page/2/">next &raquo;</a>		</div><!-- .pagination -->
+	</nav><!-- .navigation -->
+	</div><!-- end #blog-content -->
+<aside id="sidebar">
+	<ul>
+	<li id="text-2" class="widget-1 widget-first widget-odd widget widget_text"><h3 class="widget-title">About the blog</h3>			<div class="textwidget"><p>Welcome to our new blog site. Here we will share some of the early research results and innovative ideas we’re working on at Ericsson Research. </p>
+<p>We have left the Ericsson Labs site which was our home from 2008 until now. We brought our archive of blog posts with us to this new site. Very soon, you will also be able to find some resources for download here as well. </p>
+</div>
+		</li><li id="categories-3" class="widget-2 widget-even widget widget_categories"><h3 class="widget-title">Research Topics</h3>		<ul>
+	<li class="cat-item cat-item-29"><a href="http://www.ericsson.com/research-blog/category/5g/" title="View all posts filed under 5G">5G</a> (18)
+</li>
+	<li class="cat-item cat-item-37"><a href="http://www.ericsson.com/research-blog/category/cloud/" title="View all posts filed under Cloud">Cloud</a> (10)
+</li>
+	<li class="cat-item cat-item-87"><a href="http://www.ericsson.com/research-blog/category/context-aware-communication/" title="View all posts filed under Context Aware Communication">Context Aware Communication</a> (26)
+</li>
+	<li class="cat-item cat-item-81"><a href="http://www.ericsson.com/research-blog/category/data-knowledge/" title="View all posts filed under Data &amp; Knowledge">Data &amp; Knowledge</a> (26)
+</li>
+	<li class="cat-item cat-item-44"><a href="http://www.ericsson.com/research-blog/category/internet-of-things/" title="View all posts filed under Internet of Things">Internet of Things</a> (23)
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.ericsson.com/research-blog/category/lte/" title="View all posts filed under LTE">LTE</a> (15)
+</li>
+	<li class="cat-item cat-item-149"><a href="http://www.ericsson.com/research-blog/category/media-coding/" title="View all posts filed under Media Coding">Media Coding</a> (6)
+</li>
+	<li class="cat-item cat-item-73"><a href="http://www.ericsson.com/research-blog/category/security/" title="View all posts filed under Security">Security</a> (12)
+</li>
+	<li class="cat-item cat-item-49"><a href="http://www.ericsson.com/research-blog/category/smart-cities/" title="View all posts filed under Smart Cities">Smart Cities</a> (19)
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.ericsson.com/research-blog/category/uncategorized/" title="View all posts filed under Uncategorized">Uncategorized</a> (6)
+</li>
+		</ul>
+</li><li id="tag_cloud-2" class="widget-3 widget-odd widget widget_tag_cloud"><h3 class="widget-title">Tags</h3><div class="tagcloud"><a href='http://www.ericsson.com/research-blog/tag/3gpp/' class='tag-link-48' title='8 topics' style='font-size: 16.311926605505px;'>3GPP</a>
+<a href='http://www.ericsson.com/research-blog/tag/4g/' class='tag-link-59' title='7 topics' style='font-size: 15.853211009174px;'>4G</a>
+<a href='http://www.ericsson.com/research-blog/tag/5g/' class='tag-link-29' title='19 topics' style='font-size: 19.522935779817px;'>5G</a>
+<a href='http://www.ericsson.com/research-blog/tag/5g-wifi/' class='tag-link-30' title='2 topics' style='font-size: 12px;'>5G WiFi</a>
+<a href='http://www.ericsson.com/research-blog/tag/applications/' class='tag-link-133' title='3 topics' style='font-size: 13.100917431193px;'>Applications</a>
+<a href='http://www.ericsson.com/research-blog/tag/big-data/' class='tag-link-28' title='14 topics' style='font-size: 18.422018348624px;'>Big Data</a>
+<a href='http://www.ericsson.com/research-blog/tag/bmwi/' class='tag-link-69' title='2 topics' style='font-size: 12px;'>BMWi</a>
+<a href='http://www.ericsson.com/research-blog/tag/bowser/' class='tag-link-114' title='3 topics' style='font-size: 13.100917431193px;'>Bowser</a>
+<a href='http://www.ericsson.com/research-blog/tag/cloud-2/' class='tag-link-38' title='9 topics' style='font-size: 16.770642201835px;'>cloud</a>
+<a href='http://www.ericsson.com/research-blog/tag/comgreen/' class='tag-link-34' title='2 topics' style='font-size: 12px;'>ComGreen</a>
+<a href='http://www.ericsson.com/research-blog/tag/coordination-center/' class='tag-link-98' title='3 topics' style='font-size: 13.100917431193px;'>Coordination Center</a>
+<a href='http://www.ericsson.com/research-blog/tag/docomo/' class='tag-link-53' title='3 topics' style='font-size: 13.100917431193px;'>DOCOMO</a>
+<a href='http://www.ericsson.com/research-blog/tag/energy-efficiency/' class='tag-link-33' title='3 topics' style='font-size: 13.100917431193px;'>energy efficiency</a>
+<a href='http://www.ericsson.com/research-blog/tag/ericsson-research/' class='tag-link-32' title='36 topics' style='font-size: 22px;'>Ericsson Research</a>
+<a href='http://www.ericsson.com/research-blog/tag/hadoop/' class='tag-link-140' title='4 topics' style='font-size: 14.018348623853px;'>Hadoop</a>
+<a href='http://www.ericsson.com/research-blog/tag/hbase/' class='tag-link-138' title='3 topics' style='font-size: 13.100917431193px;'>HBase</a>
+<a href='http://www.ericsson.com/research-blog/tag/hevc/' class='tag-link-128' title='3 topics' style='font-size: 13.100917431193px;'>HEVC</a>
+<a href='http://www.ericsson.com/research-blog/tag/html5/' class='tag-link-157' title='14 topics' style='font-size: 18.422018348624px;'>HTML5</a>
+<a href='http://www.ericsson.com/research-blog/tag/internet-of-things/' class='tag-link-44' title='22 topics' style='font-size: 20.073394495413px;'>Internet of Things</a>
+<a href='http://www.ericsson.com/research-blog/tag/iot/' class='tag-link-45' title='19 topics' style='font-size: 19.522935779817px;'>IoT</a>
+<a href='http://www.ericsson.com/research-blog/tag/ipv6/' class='tag-link-187' title='4 topics' style='font-size: 14.018348623853px;'>IPv6</a>
+<a href='http://www.ericsson.com/research-blog/tag/johannesberg-summit/' class='tag-link-54' title='2 topics' style='font-size: 12px;'>Johannesberg Summit</a>
+<a href='http://www.ericsson.com/research-blog/tag/lte/' class='tag-link-27' title='15 topics' style='font-size: 18.605504587156px;'>LTE</a>
+<a href='http://www.ericsson.com/research-blog/tag/m2m/' class='tag-link-46' title='10 topics' style='font-size: 17.137614678899px;'>M2M</a>
+<a href='http://www.ericsson.com/research-blog/tag/machine-learning/' class='tag-link-153' title='4 topics' style='font-size: 14.018348623853px;'>Machine Learning</a>
+<a href='http://www.ericsson.com/research-blog/tag/mega-cities/' class='tag-link-164' title='6 topics' style='font-size: 15.394495412844px;'>Mega Cities</a>
+<a href='http://www.ericsson.com/research-blog/tag/micro-weather/' class='tag-link-82' title='3 topics' style='font-size: 13.100917431193px;'>Micro Weather</a>
+<a href='http://www.ericsson.com/research-blog/tag/mobile-broadband/' class='tag-link-84' title='2 topics' style='font-size: 12px;'>Mobile Broadband</a>
+<a href='http://www.ericsson.com/research-blog/tag/mobile-networks/' class='tag-link-85' title='2 topics' style='font-size: 12px;'>Mobile Networks</a>
+<a href='http://www.ericsson.com/research-blog/tag/mobile-world-congress/' class='tag-link-72' title='7 topics' style='font-size: 15.853211009174px;'>Mobile World Congress</a>
+<a href='http://www.ericsson.com/research-blog/tag/mwc/' class='tag-link-71' title='6 topics' style='font-size: 15.394495412844px;'>MWC</a>
+<a href='http://www.ericsson.com/research-blog/tag/networked-society/' class='tag-link-135' title='9 topics' style='font-size: 16.770642201835px;'>networked society</a>
+<a href='http://www.ericsson.com/research-blog/tag/ntt-docomo/' class='tag-link-31' title='3 topics' style='font-size: 13.100917431193px;'>NTT DoCoMo</a>
+<a href='http://www.ericsson.com/research-blog/tag/openstack/' class='tag-link-39' title='3 topics' style='font-size: 13.100917431193px;'>OpenStack</a>
+<a href='http://www.ericsson.com/research-blog/tag/privacy/' class='tag-link-86' title='3 topics' style='font-size: 13.100917431193px;'>privacy</a>
+<a href='http://www.ericsson.com/research-blog/tag/real-time-communication/' class='tag-link-90' title='4 topics' style='font-size: 14.018348623853px;'>Real-Time Communication</a>
+<a href='http://www.ericsson.com/research-blog/tag/rel-12/' class='tag-link-63' title='4 topics' style='font-size: 14.018348623853px;'>Rel-12</a>
+<a href='http://www.ericsson.com/research-blog/tag/rtcweb/' class='tag-link-175' title='5 topics' style='font-size: 14.752293577982px;'>RTCWeb</a>
+<a href='http://www.ericsson.com/research-blog/tag/sdn/' class='tag-link-40' title='4 topics' style='font-size: 14.018348623853px;'>SDN</a>
+<a href='http://www.ericsson.com/research-blog/tag/security/' class='tag-link-73' title='12 topics' style='font-size: 17.779816513761px;'>Security</a>
+<a href='http://www.ericsson.com/research-blog/tag/sensors/' class='tag-link-95' title='4 topics' style='font-size: 14.018348623853px;'>sensors</a>
+<a href='http://www.ericsson.com/research-blog/tag/smart-cities/' class='tag-link-49' title='16 topics' style='font-size: 18.880733944954px;'>Smart Cities</a>
+<a href='http://www.ericsson.com/research-blog/tag/smartphone-security/' class='tag-link-113' title='3 topics' style='font-size: 13.100917431193px;'>smartphone security</a>
+<a href='http://www.ericsson.com/research-blog/tag/user-experience/' class='tag-link-88' title='3 topics' style='font-size: 13.100917431193px;'>User Experience</a>
+<a href='http://www.ericsson.com/research-blog/tag/webrtc/' class='tag-link-92' title='15 topics' style='font-size: 18.605504587156px;'>WebRTC</a></div>
+</li><li id="text-3" class="widget-4 widget-even banner-widget widget widget_text">			<div class="textwidget"></div>
+		</li><li id="text-4" class="widget-5 widget-last widget-odd widget widget_text"><h3 class="widget-title">Follow us</h3>			<div class="textwidget"><a href="https://twitter.com/EricssonLabs" class="followUsTwitter" rel="nofollow" title="Follow us on Twitter">Twitter</a>
+<a href="http://www.slideshare.net/EricssonLabs" class="followUsSlideShare" rel="nofollow" title="Follow us on SlideShare">SlideShare</a>
+<a href="http://www.ericsson.com/research-blog/feed/" class="followUsRss" title="Subscribe to our RSS-feed">RSS</a>
+<!--
+<a href="" class="followUsFacebook" rel="nofollow" title="Join us on Facebook">Facebook</a>
+<a href="‎" class="followUsGooglePlus" rel="nofollow" title="Join us on Google+">Google+</a>
+--></div>
+		</li>    </ul>
+</aside>
+</div><!-- end #blog-wrapper -->
+</div><!-- end .color-wrapper -->
+
+<!-- End of Content of Ericsson Research Blog -->
+<div id="eFoot" class="eInnerWrapper eGB">
+<div class="eWrapContainer eGB">
+<div id="eFootLeft">
+<p id="eFootLogoContainer">
+<a id="eFooterLogo" title="Ericsson Home" href="/">&nbsp;</a>
+</p>
+</div><!-- //eFootLeft -->
+<div id="eFootRightT">
+<div class="eFootGroup">
+<h3>This is Ericsson </h3>
+<ul>
+<li><a title="The Company" href="/thecompany">The Company</a></li>
+<li><a title="Thinking Ahead" href="/thinkingahead">Thinking Ahead</a></li>
+<li><a title="Spotlight" href="/spotlight">Spotlight</a></li>
+<li><a title="Our Portfolio" href="/ourportfolio">Our Portfolio</a></li>
+<li><a title="Careers" href="/careers">Careers</a></li>
+</ul>
+</div>
+<div class="eFootGroup">
+<h3>Ericsson for</h3>
+<ul>
+<li>
+<a title="Ericsson Channel Partners" href="/thecompany/channel-partner">Ericsson Channel Partners</a>
+</li>
+<li>
+<a title="Equipment manufacturer" href="/yourbusiness/equipment_manufacturer">Equipment manufacturer</a>
+</li>
+<li>
+<a title="Government" href="/yourbusiness/governments">Government</a>
+</li>
+<li>
+<a title="Industry Analysts" href="/thecompany/industry-analysts">Industry Analysts</a>
+</li>
+<li>
+<a title="Investors" href="/thecompany/investors">Investors</a>
+</li>
+<li>
+<a title="Press" href="/thecompany/press">Press</a>
+</li>
+<li>
+<a title="Students and Young Professionals" href="/careers/student">Students and Young Professionals</a>
+</li>
+<li>
+<a title="Suppliers" href="/thecompany/suppliers">Suppliers</a>
+</li>
+<li>
+<a title="Telecom Operators" href="/yourbusiness/telecom_operators">Telecom Operators</a>
+</li>
+<li>
+<a title="Transport Industry " href="/yourbusiness/transport-and-automotive">Transport Industry</a>
+</li>
+<li>
+<a title="Energy and Utilities Industry" href="/yourbusiness/utilities">Energy and Utilities Industry</a>
+</li>
+</ul>
+</div>
+<div class="eFootGroup">
+<h3>What&#039;s on</h3>
+<ul>
+<li>
+<a title="Events" href="/thecompany/events">Events</a>
+</li>
+<li>
+<a title="News Center" href="/news">News Center</a>
+</li>
+<li>
+<a title="Press Releases " href="/thecompany/press/releases">Press Releases</a>
+</li>
+<li>
+<a title="Sustainability" href="/thecompany/sustainability_corporateresponsibility">Sustainability</a>
+</li>
+</ul>
+</div>
+<div class="eFootGroup">
+<h3>General</h3>
+<ul>
+<li><a title="Contact Us" href="/contact">Contact Us</a></li>
+<li><a title="Cookies on www.ericsson.com" href="/cookies">Cookies on www.ericsson.com</a></li>
+<li><a title="Commenting Rules" href="/commentingrules">Commenting Rules</a></li>
+<li><a title="Ericsson RSS Feeds" href="/rss">Ericsson RSS Feeds</a></li>
+<li><a title="Ericsson Enables" href="/ericssonenables">Ericsson Enables</a></li>
+<li><a title="Frequently asked questions" href="/faq">Frequently asked questions</a></li>
+<li><a title="Legal" href="/legal">Legal</a></li>
+<li><a title="Privacy" href="/privacy">Privacy</a></li>
+<li><a title="Local Web Sites" href="/local-sites">Local Web Sites</a></li>
+<li><a title="Questions and Feedback" href="/feedback">Questions and Feedback</a></li>
+<li><a title="Recommended Browsers" href="/recommended-browsers">Recommended Browsers</a></li>
+<li><a title="Suppliers" href="/sourcing">Suppliers</a></li>
+</ul>
+</div>
+<div class="eFootGroup">
+<h3>Related sites </h3>
+<ul>
+<li><a title="Ericsson Research blog" class="eIcon eLinkExt" rel="external" href="http://www.ericsson.com/research-blog/">Ericsson Research blog</a></li>
+<li><a title="Ericsson-LG" class="eIcon eLinkExt" rel="external" href="http://www.ericssonlg.com/">Ericsson-LG</a></li>
+</ul>
+</div>
+</div><!-- //eFootRightT -->
+<div id="eFootRightB">
+<!-- EsiTag(china_cdn) begin -->
+
+<!-- EsiTag(china_cdn) end -->
+</div><!-- //eFootRightB -->
+</div>
+</div></div><!-- end ePageWrapper -->
+<!-- Static file: 2013-12-02 -->
+<div id="eMobileMenu">
+    <div class="mobile-menu" id="level1">
+        <ul>
+            <li class="search-box">
+               <form action="http://www.ericsson.com/nsearch" method="get" class="eFormSearch widget_site_search">
+                              <fieldset>
+                                             <input type="text" class="eSearchFormInput" name="query" placeholder="Search" value="">
+                                             <input type="hidden" name="isSearchPageView" value="">
+                                             <input type="button" class="eSearchFormSubmit" value=" " />
+                              </fieldset>
+               </form>
+            </li>
+        </ul>                                                                  
+    </div>
+    <div class="eMenuDump"></div>
+</div>
+<!-- Static file: 2013-12-02 -->
+<script>
+	//Global decalration for geo variable
+	var geo = {continent: "EU",countryCode: "SE"};
+
+	var isResponsive = true;
+	
+	// Global function for aquiring localized strings
+	var l = function (key) {
+		return eResourceBundle[key];
+	}
+			
+	// Global function for aquiring url for jsonfeeds
+	var getLocalizedUrl = function(globalUrl) {
+		if(globalUrl.indexOf('/') === 0) {
+			globalUrl = globalUrl.substr(1);	
+		}
+		return  $('#eHeaderLogo').attr('href') + globalUrl;
+	}
+			
+	var isT = function() {
+		var touch_val = (('ontouchstart' in window) || (navigator.msMaxTouchPoints > 0)),
+			isMobile = (typeof touch_val === "undefined") ? false: touch_val;
+		return isMobile;
+	}
+			
+	var isMSIE8 = function() {
+		var status = false;
+		if($.browser.msie && parseInt($.browser.version) < 9){
+			status = true;
+		} 
+		return status;			
+	}
+</script>
+<script src="http://www.ericsson.com/shared/eipa/js/jmvc/steal/steal.production.js"></script>
+<script src="http://www.ericsson.com/micrositeframework/javascript/body/production.js"></script> 
+<script src="http://www.ericsson.com/shared/eipa/js/jmvc/ericsson/resources/polyfill/respond.min.js"></script>
+<script src="http://www.ericsson.com/resourcebundle.js"></script>
+<script src="http://www.ericsson.com/cookie_consent_responsive.js"></script>
+
+
+				
+					<script type="text/javascript">
+						var addthis_config = {
+							data_track_addressba: true,
+							data_ga_property: 'UA-15166137-5',
+							data_ga_social : true
+						};
+					</script>
+				
+  			                <script src=" http://www.ericsson.com/shared/eipa/js/webtrends/webtrends.js" type="text/javascript"></script> 
+
+					<!-- START OF SmartSource Data Collector TAG -->
+					<!-- Copyright (c) 1996-2012 Webtrends Inc.  All rights reserved. -->
+					<!-- Version: 9.4.0 -->
+					<!-- Tag Builder Version: 4.1  -->
+					<!-- Created: 9/18/2012 9:06:45 AM -->
+					<script>
+						if (navigator.userAgent.match(/\b(GomezAgent|KTXN)\b/) === null) {
+							var _tag=new WebTrends();
+							_tag.dcsGetId();
+							_tag.dcsCollect();
+						}
+					</script>
+
+					<noscript>
+						<div>
+							<img alt="DCSIMG" id="DCSIMG" width="1" height="1"
+								src="//webtrends-com.ericsson.net/dcsrftdicme5tdblqnprqdfcv_8r3j/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.ericsson.com" />
+						</div>
+					</noscript>
+
+					<!-- Google Analytics -->
+					<script type="text/javascript">
+					
+						if( window.eCookieConsent && eCookieConsent.isUseGoogleAnalyticsForSite() ) {
+							var _gaq = _gaq || [];
+						    _gaq.push(['_setAccount', 'UA-15166137-15']);
+						    _gaq.push (['_gat._anonymizeIp']);
+						    _gaq.push(['_trackPageview']);
+						}    
+					    (function() {
+					    	if( window.eCookieConsent &&  eCookieConsent.isUseGoogleAnalyticsForSite() ) {
+					        	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+					        	ga.src = ('https:' == document.location.protocol ? ' https://ssl' : ' http://www') + '.google-analytics.com/ga.js';
+					        	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+					    	}
+					    })();
+						
+					</script>
+					
+					<!-- START OF SmartSource Data Collector TAG v10.4.11 -->
+					<!-- Copyright (c) 2013 Webtrends Inc.  All rights reserved. -->
+					<script type="text/javascript" src="/shared/webtrends/js/webtrends.load.js"></script>
+		
+				
+
+<script>
+	$(window).load(function () {
+		if (window.eCookieConsent && typeof eCookieConsent.checkIfUserHasConsented === 'function') {
+			eCookieConsent.checkIfUserHasConsented();
+		}
+	});
+</script>
+
+</body>
+</html>
+

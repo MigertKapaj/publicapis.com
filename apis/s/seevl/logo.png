@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />	
+	<title>seevl.fm - Music Discovery as a Service</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  
+	<!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+	
+	<meta content="authenticity_token" name="csrf-param" />
+<meta content="akW7jr3bryfwOSFp61XvTrB3bPptMXAFWZqK7ZGfAUk=" name="csrf-token" />
+    <link href="/css/style.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="/css/animate.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" media="screen" rel="stylesheet" type="text/css" />
+
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+    <script src="/javascripts/theme.js"></script>
+    <script src="/javascripts/3scale.js"></script>
+    <script src="/javascripts/excanvas.compiled.js"></script>
+
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.6/html5shiv.min.js"></script>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+
+    
+<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+<body id="home">
+  
+  <header class="navbar navbar-inverse hero" role="banner">
+  		<div class="container">
+    		<div class="navbar-header">
+		      	<button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".bs-navbar-collapse">
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+			        <span class="icon-bar"></span>
+		      	</button>
+                <a href="/" class="navbar-brand">seevl.fm</a>
+    		</div>
+    		<nav class="collapse navbar-collapse bs-navbar-collapse" role="navigation">
+		       <div class="navbar-collapse collapse">
+
+  
+    <ul class="nav navbar-nav">
+      <li><a href="/docs">Documentation</a></li>
+      <li><a href="/#pricing">Plans</a></li>
+    </ul>
+    <ul class="nav navbar-nav navbar-right">
+      <li>
+      <a href="https://developer.seevl.fm/login" >
+        Sign in
+      </a>
+      </li>
+    </ul>
+  
+</div>
+
+      		</nav>
+  		</div>
+		
+		<div id="flash-messages">
+          
+        </div>
+		
+	</header>
+
+	<main id="main-content" role="main">
+      
+        <div id="hero">
+	<div class="container">
+		<h1 class="hero-text animated fadeInDown">
+			Music Discovery as a Service
+		</h1>
+		<p class="sub-text animated fadeInDown">
+			seevl.fm - your turnkey API for music discovery and personalization.
+		</p>
+		<div class="cta animated fadeInDown">
+			<a href="#features" class="button-outline">Take the tour</a>
+          <a href="/signup" class="button">Sign up</a>
+		</div>
+		<div class="img"></div>
+	</div>
+</div>
+
+
+
+
+<div id="features">
+		<div class="container">
+			<div class="row header">
+				<div class="col-md-12">
+					<h2>Need discovery and personalization for your music app?</h2>
+					<p>Look no further, seevl is the perfect API to get you started in a few hours.</p>
+				</div>
+			</div>
+			<div class="row feature">
+				<div class="col-md-6 info">
+			        <h4>Artist data: biographies, fact-sheets, external links...</h4>
+					<p>
+						Include artist biographies, fact-sheets (genre, influences, band members ...), and external links into your app, so that your users will never have to leave to know more about who they listen to.
+					</p>
+				</div>
+				<div class="col-md-6 image">
+                  <img src="images/home/data.png" class="img-responsive" alt="feature1" />
+				</div>
+			</div>
+			<div class="divider"></div>
+			<div class="row feature backwards">
+				<div class="col-md-6 info">
+					<h4>Semantic search: find music you will love</h4>
+					<p>
+						Let your users search for artists by genre, influences, band members, and more, so that they can finally decide what they want to listen to, from mainstream music to niche music tastes.
+					</p>
+				</div>
+				<div class="col-md-6 image">
+                  <img src="images/home/search.png" class="img-responsive" alt="feature2" />
+				</div>
+			</div>
+            <div class="divider"></div>
+			<div class="row feature">
+				<div class="col-md-6 info">
+					<h4>Related artists and connections</h4>
+					<p>
+                      	Suggest related artists, genres and record labels, enhancing discovery inside your app; and show artist connections to make sure your users understand who they should listen to next.
+					</p>
+				</div>
+				<div class="col-md-6 image">
+                  <img src="images/home/related.png" class="img-responsive" alt="feature2" />
+				</div>
+			</div>
+            <div class="divider"></div>
+          <div class="row feature backwards">
+				<div class="col-md-6 info">
+					<h4>A simple HTTP API</h4>
+					<p>No need for complex SDKs, use our API with your favorite programming language over HTTP, and you're ready to start; or build your own algorithms on top of our data to fine-tune your discovery experience.
+					</p>
+				</div>
+				<div class="col-md-6 image">
+                  <img src="images/home/api.png" class="img-responsive" alt="feature2" />
+				</div>
+			</div>
+		</div>		
+	</div>
+
+    <div id="pricing">
+		<div class="container">
+             <div class="row header">
+				<div class="col-md-12">
+				  <h3>Just want to hack with the API?</h3>
+                  <p>Try our <b>Stay Free</b> plan, free for non-commercial use, with 10,000 queries per day, capped to 60 per minute. <a href="/signup">Sign-up now</a>.</p>
+				</div>
+			</div>
+
+          
+			<div class="row header">
+				<div class="col-md-12">
+					<h3>Free test plan. No contract. Cancel when you want.</h3>
+				</div>
+			</div>
+			<div class="row charts">
+              
+              
+              <div class="col-md-4">
+                <div class="chart featured">
+						<div class="quantity">
+						  <span class="dollar">$</span>
+                          <span class="price">249</span>
+							<span class="period">per month</span>
+						</div>
+                       <div class="plan-name">Garageland</div>
+                  
+                      	<div class="specs">                          
+                          <div class="spec">Descriptions and fact-sheets</div>
+                          <div class="spec  na">External links</div>
+                          <div class="spec  na">Semantic search</div>
+                          <div class="spec">Related entities</div>
+                          <div class="spec  na">Entities connections</div>
+                 		 </div>
+                  
+						<div class="specs terms">     
+                          
+                          
+							<div class="spec">
+                              
+                              Commercial usage
+							</div>
+                          
+							<div class="spec">
+                              
+                              Support by e-mail
+							</div>
+                          
+                          <div class="spec  na">Push / web-hooks</div>
+                        </div>
+                        <div class="specs limits">
+                          
+                          
+							<div class="spec">
+                              <span class="limit-value">120</span> hits per minute
+                            </div>
+                          
+							<div class="spec">
+                              <span class="limit-value">25000</span> hits per day
+                            </div>
+                          
+                          
+                          
+						</div>
+                        <a class="btn-signup button-clear" href="/signup">
+							<span>Sign-up</span>
+						</a>
+					</div>
+				</div>
+              
+              
+              
+              
+              
+              <div class="col-md-4">
+                <div class="chart featured">
+						<div class="quantity">
+						  <span class="dollar">$</span>
+                          <span class="price">599</span>
+							<span class="period">per month</span>
+						</div>
+                       <div class="plan-name">Rock the Casbah</div>
+                  
+                      	<div class="specs">                          
+                          <div class="spec">Descriptions and fact-sheets</div>
+                          <div class="spec  na">External links</div>
+                          <div class="spec ">Semantic search</div>
+                          <div class="spec">Related entities</div>
+                          <div class="spec  na">Entities connections</div>
+                 		 </div>
+                  
+						<div class="specs terms">     
+                          
+                          
+							<div class="spec">
+                              
+                              Commercial usage
+							</div>
+                          
+							<div class="spec">
+                              
+                              Support by e-mail
+							</div>
+                          
+                          <div class="spec  na">Push / web-hooks</div>
+                        </div>
+                        <div class="specs limits">
+                          
+                          
+							<div class="spec">
+                              <span class="limit-value">120</span> hits per minute
+                            </div>
+                          
+							<div class="spec">
+                              <span class="limit-value">50000</span> hits per day
+                            </div>
+                          
+                          
+                          
+						</div>
+                        <a class="btn-signup button-clear" href="/signup">
+							<span>Sign-up</span>
+						</a>
+					</div>
+				</div>
+              
+              
+              
+              <div class="col-md-4">
+                <div class="chart featured">
+						<div class="quantity">
+						  <span class="dollar">$</span>
+                          <span class="price">1,499</span>
+							<span class="period">per month</span>
+						</div>
+                       <div class="plan-name">Complete Control</div>
+                  
+                      	<div class="specs">                          
+                          <div class="spec">Descriptions and fact-sheets</div>
+                          <div class="spec ">External links</div>
+                          <div class="spec ">Semantic search</div>
+                          <div class="spec">Related entities</div>
+                          <div class="spec ">Entities connections</div>
+                 		 </div>
+                  
+						<div class="specs terms">     
+                          
+                          
+							<div class="spec">
+                              
+                              Commercial usage
+							</div>
+                          
+							<div class="spec">
+                              
+                              Support by e-mail / IM
+							</div>
+                          
+                          <div class="spec ">Push / web-hooks</div>
+                        </div>
+                        <div class="specs limits">
+                          
+                          
+							<div class="spec">
+                              <span class="limit-value">240</span> hits per minute
+                            </div>
+                          
+							<div class="spec">
+                              <span class="limit-value">100000</span> hits per day
+                            </div>
+                          
+                          
+                          
+						</div>
+                        <a class="btn-signup button-clear" href="/signup">
+							<span>Sign-up</span>
+						</a>
+					</div>
+				</div>
+              
+              
+<!--
+				<div class="col-md-4">
+					<div class="chart first">
+						<div class="quantity">
+							<span class="dollar">$</span>
+							<span class="price">249</span>
+							<span class="period">/month</span>
+						</div>
+						<div class="plan-name">Garageland</div>
+						<div class="specs">
+							<div class="spec">
+								<span class="variable">5</span>
+								team members
+							</div>
+							<div class="spec">
+								<span class="variable">Digital</span>
+								recurring billing
+							</div>
+							<div class="spec">
+								<span class="variable">Virtual</span>
+								online terminal
+							</div>
+							<div class="spec">
+								<span class="variable">10</span>
+								total products
+							</div>
+							<div class="spec">
+								<span class="variable">1.0%</span>
+								Transaction fee
+							</div>
+						</div>
+						<a class="btn-signup button-clear" href="signup.html">
+							<span>Free sign-up</span>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="chart featured">
+						<div class="popular">Most popular</div>
+						<div class="quantity">
+							<span class="dollar">$</span>
+							<span class="price">599</span>
+							<span class="period">/month</span>
+						</div>
+						<div class="plan-name">Rock the Casbah</div>
+						<div class="specs">
+							<div class="spec">
+								<span class="variable">15</span>
+								team members
+							</div>
+							<div class="spec">
+								<span class="variable">Digital</span>
+								recurring billing
+							</div>
+							<div class="spec">
+								<span class="variable">Virtual</span>
+								online terminal
+							</div>
+							<div class="spec">
+								<span class="variable">15</span>
+								total products
+							</div>
+							<div class="spec">
+								<span class="variable">0.5%</span>
+								Transaction fee
+							</div>
+						</div>
+						<a class="btn-signup button-clear" href="signup.html">
+							<span>Free sign-up</span>
+						</a>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="chart last">
+						<div class="quantity">
+							<span class="dollar">$</span>
+							<span class="price">1499</span>
+							<span class="period">/month</span>
+						</div>
+						<div class="plan-name">Complete Control</div>
+						<div class="specs">
+							<div class="spec">
+								<span class="variable">Unlimited</span>
+								team members
+							</div>
+							<div class="spec">
+								<span class="variable">Digital</span>
+								recurring billing
+							</div>
+							<div class="spec">
+								<span class="variable">Virtual</span>
+								online terminal
+							</div>
+							<div class="spec">
+								<span class="variable">25</span>
+								total products
+							</div>
+							<div class="spec">
+								<span class="variable">No</span>
+								Transaction fee
+							</div>
+						</div>
+						<a class="btn-signup button-clear" href="signup.html">
+							<span>Free sign-up</span>
+						</a>
+					</div>
+				</div>-->
+			</div>
+          
+		</div>
+	</div>
+
+    <div id="slider">
+		<div class="container">
+			<div class="row header">
+				<div class="col-md-12">
+					<h3>Not convinced yet? Visit <a href="http://play.seevl.fm" target="_blank">http://play.seevl.fm</a> to see our API in action!</h3>
+				</div>
+			</div>
+			<div class="row">
+              <div class="col-md-12 slide-wrapper">
+					<div class="slideshow">
+						<div class="btn-nav prev"></div>
+						<div class="btn-nav next"></div>
+						<div class="slide active">
+							<img src="images/home/slide1.png" alt="slide3" />
+						</div>
+						<div class="slide">
+							<img src="images/home/slide2.png" alt="slide4" />
+						</div>
+						<div class="slide">
+							<img src="images/home/slide3.png" alt="slide1" />
+						</div>
+						<div class="slide">
+							<img src="images/home/slide4.png" alt="slide4" />
+						</div>
+                </div>
+              </div>	
+            </div>
+        </div>
+    </div>
+                  
+    <div id="clients">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<h3>An awarded platform and technology.</h3>
+					<p>
+                      Here are some awesome outlets and conferences where we've been featured.
+                    </p>
+					<div class="logos">
+                      <img src="images/home/tc.png">
+						<img src="images/home/hypebot.jpg">
+						<img src="images/home/tnw.png">
+						<img src="images/home/sfmt.png">
+						<img src="images/home/dws.png">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="cta">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">
+					<div class="wrapper clearfix">
+						<h3>Try seevl now and take your music app to a whole new level.</h3>
+						<a href="signup.html" class="button button-small">Free sign-up</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+      
+    </main>
+	
+    <div id="footer">
+      <!--
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-3 copyright">
+					React © 2014
+				</div>
+				<div class="col-sm-6 menu">
+					<ul>
+	      				<li>
+	          				<a href="features.html">Features</a>
+	        			</li>
+	        			<li>
+	        				<a href="services.html">Services</a>
+	        			</li>
+	        			<li class="active">
+	          				<a href="pricing.html">Pricing</a>
+	        			</li>
+	        			<li>
+	          				<a href="support.html">Support</a>
+	        			</li>
+	        			<li>
+	          				<a href="blog.html">Blog</a>
+	        			</li>
+	      			</ul>
+				</div>
+				<div class="col-sm-3 social">
+					<a href="#">
+						<img src="images/social/social-tw.png" alt="twitter" />
+					</a>
+					<a href="#">
+						<img src="images/social/social-dbl.png" alt="dribbble" />
+					</a>
+				</div>
+			</div>
+		</div>
+  -->
+      <div class="container">
+        <ul class="list-inline pull-right">
+          <li>&copy; 2014 seevl,</li>
+          <li><a class="powered-by" href="http://3scale.net/">API infrastructure powered by 3scale</a></li>
+        </ul>
+      </div>
+  
+	</div>
+
+  <!--
+	<script type="text/javascript">
+	  	$(function() {
+			$('.flexslider').flexslider({
+				directionNav: false,
+				slideshowSpeed: 4000
+			});
+			$('[data-toggle="tooltip"]').tooltip();
+	  	});
+	</script>
+-->
+    <!-- JS and analytics only. -->
+    <script src="//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+    
+
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
+NREUMQ.push(["load",new Date().getTime()]);
+var e=document.createElement("script");
+e.type="text/javascript";
+e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
+  "js-agent.newrelic.com/nr-100.js";
+document.body.appendChild(e);
+if(NREUMQ.a)NREUMQ.a();
+};
+NREUMQ.a=window.onload;window.onload=NREUMQ.f;
+};
+NREUMQ.push(["nrfj","beacon-3.newrelic.com","11a91d53e8","14533","cVhXTBZYD1kDF0oGBERSVVcUUhFqFgoXFgBeGFpVFxgNUBE6Bg0PRlJXTEtEC1oR",0,126,new Date().getTime(),"","","","",""]);</script></body>
+</html>

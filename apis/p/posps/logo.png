@@ -1,0 +1,4008 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!DOCTYPE html>
+
+
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+	
+	
+	
+	
+	
+		
+		
+		
+	
+	
+		
+	
+	
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+
+	
+	
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<!--[if lt IE 7 ]> <html lang="de" class="no-js ie6"> <![endif]-->
+	<!--[if IE 7 ]> <html lang="de" class="no-js ie7"> <![endif]-->
+	<!--[if IE 8 ]> <html lang="de" class="no-js ie8"> <![endif]-->
+	<!--[if IE 9 ]> <html lang="de" class="no-js ie9"> <![endif]-->
+	<!--[if (gt IE 9)|!(IE)]><!--> <html class="ltr" dir="ltr" lang="de"> <!--<![endif]-->
+
+
+<head>
+	<title>berliOS | berliOS Suche </title>
+		<meta name="author" content="berliOS | Fraunhofer Institut FOKUS">
+		<meta name="robots" content="index, follow">
+		<meta property="og:title" content="berliOS | Open Source Lösungen entdecken">
+		<meta property="og:type" content="software">
+		<meta property="og:url" content="http://www.berlios.de">
+		<meta property="og:image" content="/ber2def-theme/image/oefit_webapp.png" />
+		<meta property="og:site_name" content="berliOS">
+		<meta property="og:description" content="berliOS | Open Source Lösungen entdecken.">
+		<meta name="twitter:image" content="/ber2def-theme/image/oefit_webapp.png" /> 
+
+		<meta name=viewport content="width=device-width, initial-scale=1.0, minimum-scale=0.5 maximum-scale=1.0">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+		
+		<link rel="icon" type="image/png" href="/ber2def-theme/images/berlios_webapp.png" /> 
+		<link rel="apple-touch-icon" href="/ber2def-theme/images/berlios_webapp.png" /> 
+		<link rel="apple-touch-icon" sizes="72x72" href="/ber2def-theme/images/berlios_webapp.png" /> 
+		<link rel="apple-touch-icon" sizes="114x114" href="/ber2def-theme/image/berlios_webapp.png" /> 
+		<link rel="apple-touch-icon-precomposed" href="/ber2def-theme/image/berlios_webapp.png" />
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+
+
+<link href="http://www.berlios.de/ber2def-theme/images/favicon.ico" rel="Shortcut Icon" />
+
+
+
+
+
+	<link href="http&#x3a;&#x2f;&#x2f;www&#x2e;berlios&#x2e;de" rel="canonical" />
+
+	
+
+			
+				<link href="http://www.berlios.de" hreflang="x-default" rel="alternate" />
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;www&#x2e;berlios&#x2e;de&#x2f;de" hreflang="de-DE" rel="alternate" />
+
+	
+
+			
+
+			<link href="http&#x3a;&#x2f;&#x2f;www&#x2e;berlios&#x2e;de&#x2f;en" hreflang="en-GB" rel="alternate" />
+
+	
+
+
+
+
+
+<link class="lfr-css-file" href="http&#x3a;&#x2f;&#x2f;www&#x2e;berlios&#x2e;de&#x2f;ber2def-theme&#x2f;css&#x2f;aui&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;ber2def_WAR_ber2deftheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;de_DE&#x26;b&#x3d;6200&#x26;t&#x3d;1390919754000" rel="stylesheet" type="text/css" />
+
+<link href="&#x2f;html&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;ber2def_WAR_ber2deftheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;de_DE&#x26;b&#x3d;6200&#x26;t&#x3d;1383307538000" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+
+	
+
+				<link href="http://www.berlios.de/html/portlet/journal_content/css/main.css?browserId=other&amp;themeId=ber2def_WAR_ber2deftheme&amp;minifierType=css&amp;languageId=de_DE&amp;b=6200&amp;t=1391165368000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="http://www.berlios.de/ber2search-portlet/css/main.css?browserId=other&amp;themeId=ber2def_WAR_ber2deftheme&amp;minifierType=css&amp;languageId=de_DE&amp;b=6200&amp;t=1392032086000" rel="stylesheet" type="text/css" />
+
+	
+
+				<link href="http://www.berlios.de/html/portlet/login/css/main.css?browserId=other&amp;themeId=ber2def_WAR_ber2deftheme&amp;minifierType=css&amp;languageId=de_DE&amp;b=6200&amp;t=1391165368000" rel="stylesheet" type="text/css" />
+
+	
+
+
+
+
+
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		var Liferay = {
+			Browser: {
+				acceptsGzip: function() {
+					return false;
+				},
+				getMajorVersion: function() {
+					return 0.0;
+				},
+				getRevision: function() {
+					return "";
+				},
+				getVersion: function() {
+					return "";
+				},
+				isAir: function() {
+					return false;
+				},
+				isChrome: function() {
+					return false;
+				},
+				isFirefox: function() {
+					return false;
+				},
+				isGecko: function() {
+					return false;
+				},
+				isIe: function() {
+					return false;
+				},
+				isIphone: function() {
+					return false;
+				},
+				isLinux: function() {
+					return false;
+				},
+				isMac: function() {
+					return false;
+				},
+				isMobile: function() {
+					return false;
+				},
+				isMozilla: function() {
+					return false;
+				},
+				isOpera: function() {
+					return false;
+				},
+				isRtf: function() {
+					return false;
+				},
+				isSafari: function() {
+					return false;
+				},
+				isSun: function() {
+					return false;
+				},
+				isWap: function() {
+					return false;
+				},
+				isWapXhtml: function() {
+					return false;
+				},
+				isWebKit: function() {
+					return false;
+				},
+				isWindows: function() {
+					return false;
+				},
+				isWml: function() {
+					return false;
+				}
+			},
+
+			Data: {
+				NAV_SELECTOR: '#navigation',
+
+				isCustomizationView: function() {
+					return false;
+				},
+
+				notices: [
+					null
+
+					
+
+					
+				]
+			},
+
+			ThemeDisplay: {
+				
+					getLayoutId: function() {
+						return "2";
+					},
+					getLayoutURL: function() {
+						return "http://www.berlios.de/web/guest/berlios-suche";
+					},
+					getParentLayoutId: function() {
+						return "0";
+					},
+					isPrivateLayout: function() {
+						return "false";
+					},
+					isVirtualLayout: function() {
+						return false;
+					},
+				
+
+				getBCP47LanguageId: function() {
+					return "de-DE";
+				},
+				getCDNBaseURL: function() {
+					return "http://www.berlios.de";
+				},
+				getCDNDynamicResourcesHost: function() {
+					return "";
+				},
+				getCDNHost: function() {
+					return "";
+				},
+				getCompanyId: function() {
+					return "10154";
+				},
+				getCompanyGroupId: function() {
+					return "10194";
+				},
+				getDefaultLanguageId: function() {
+					return "de_DE";
+				},
+				getDoAsUserIdEncoded: function() {
+					return "";
+				},
+				getLanguageId: function() {
+					return "de_DE";
+				},
+				getParentGroupId: function() {
+					return "10181";
+				},
+				getPathContext: function() {
+					return "";
+				},
+				getPathImage: function() {
+					return "/image";
+				},
+				getPathJavaScript: function() {
+					return "/html/js";
+				},
+				getPathMain: function() {
+					return "/c";
+				},
+				getPathThemeImages: function() {
+					return "http://www.berlios.de/ber2def-theme/images";
+				},
+				getPathThemeRoot: function() {
+					return "/ber2def-theme";
+				},
+				getPlid: function() {
+					return "10814";
+				},
+				getPortalURL: function() {
+					return "http://www.berlios.de";
+				},
+				getPortletSetupShowBordersDefault: function() {
+					return true;
+				},
+				getScopeGroupId: function() {
+					return "10181";
+				},
+				getScopeGroupIdOrLiveGroupId: function() {
+					return "10181";
+				},
+				getSessionId: function() {
+					
+						
+						
+							return "";
+						
+					
+				},
+				getSiteGroupId: function() {
+					return "10181";
+				},
+				getURLControlPanel: function() {
+					return "/group/control_panel?refererPlid=10814";
+				},
+				getURLHome: function() {
+					return "http\x3a\x2f\x2fwww\x2eberlios\x2ede\x2fweb\x2fguest";
+				},
+				getUserId: function() {
+					return "10158";
+				},
+				getUserName: function() {
+					
+						
+						
+							return "";
+						
+					
+				},
+				isAddSessionIdToURL: function() {
+					return false;
+				},
+				isFreeformLayout: function() {
+					return false;
+				},
+				isImpersonated: function() {
+					return false;
+				},
+				isSignedIn: function() {
+					return false;
+				},
+				isStateExclusive: function() {
+					return false;
+				},
+				isStateMaximized: function() {
+					return false;
+				},
+				isStatePopUp: function() {
+					return false;
+				}
+			},
+
+			PropsValues: {
+				NTLM_AUTH_ENABLED: false
+			}
+		};
+
+		var themeDisplay = Liferay.ThemeDisplay;
+
+		
+
+		Liferay.AUI = {
+			getAvailableLangPath: function() {
+				return 'available_languages.jsp?browserId=other&themeId=ber2def_WAR_ber2deftheme&colorSchemeId=01&minifierType=js&languageId=de_DE&b=6200&t=1383330666000';
+			},
+			getCombine: function() {
+				return true;
+			},
+			getComboPath: function() {
+				return '/combo/?browserId=other&minifierType=&languageId=de_DE&b=6200&t=1383330666000&';
+			},
+			getFilter: function() {
+				
+					
+						return 'min';
+					
+					
+					
+				
+			},
+			getJavaScriptRootPath: function() {
+				return '/html/js';
+			},
+			getLangPath: function() {
+				return 'aui_lang.jsp?browserId=other&themeId=ber2def_WAR_ber2deftheme&colorSchemeId=01&minifierType=js&languageId=de_DE&b=6200&t=1383330666000';
+			}
+		};
+
+		Liferay.authToken = 'JNoCk33t';
+
+		
+
+		Liferay.currentURL = '\x2f';
+		Liferay.currentURLEncoded = '%2F';
+	// ]]>
+</script>
+
+
+	
+		
+			
+				<script src="/html/js/barebone.jsp?browserId=other&amp;themeId=ber2def_WAR_ber2deftheme&amp;colorSchemeId=01&amp;minifierType=js&amp;minifierBundleId=javascript.barebone.files&amp;languageId=de_DE&amp;b=6200&amp;t=1383330666000" type="text/javascript"></script>
+			
+			
+		
+	
+	
+
+
+<script type="text/javascript">
+	// <![CDATA[
+		
+
+			
+
+			
+				Liferay.Portlet.list = ['56_INSTANCE_HTC1JmNEpTqg', 'ber2search_WAR_ber2searchportlet', '56_INSTANCE_EJI1hXWTZ4gE', '56_INSTANCE_ABT2wZS8Fsyg', '58'];
+			
+		
+
+		
+
+		
+	// ]]>
+</script>
+
+
+
+
+
+	
+		
+
+			
+
+			
+		
+		
+	
+
+
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<link class="lfr-css-file" href="http&#x3a;&#x2f;&#x2f;www&#x2e;berlios&#x2e;de&#x2f;ber2def-theme&#x2f;css&#x2f;main&#x2e;css&#x3f;browserId&#x3d;other&#x26;themeId&#x3d;ber2def_WAR_ber2deftheme&#x26;minifierType&#x3d;css&#x26;languageId&#x3d;de_DE&#x26;b&#x3d;6200&#x26;t&#x3d;1390919754000" rel="stylesheet" type="text/css" />
+
+
+
+
+
+
+
+
+	<style type="text/css">
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_56_INSTANCE_HTC1JmNEpTqg_ {
+border-width:;
+border-style:
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_ber2search_WAR_ber2searchportlet_ {
+border-width:;
+border-style:
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_56_INSTANCE_EJI1hXWTZ4gE_ {
+border-width:;
+border-style:
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+				
+
+					
+
+#p_p_id_56_INSTANCE_ABT2wZS8Fsyg_ {
+border-width:;
+border-style:
+}
+
+
+
+
+				
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+			
+
+		
+
+	</style>
+
+
+
+	
+		<script type="text/javascript"  src="/ber2def-theme/js/jquery.js"> </script> 
+		<script type="text/javascript"  src="/ber2def-theme/js/jquery-ui-1.10.3.custom.min.js"> </script> 
+		<script type="text/javascript"  src="/ber2def-theme/js/jqueryrss.js"> </script> 
+		<!--[if lt IE 9]>
+			<script type="text/javascript"  src="/ber2def-theme/js/respond.js"> </script> 
+		<![endif]-->
+		
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/base.css" />
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/application.css" />
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/layout.css" />
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/dockbar.css" />
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/navigation.css" />
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/portlet.css" />
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/forms.css" />
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/extras.css" />
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/bootstrap.css" />
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/custom_common.css" />
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/custom.css" />
+		<link rel="stylesheet" type="text/css" href="/ber2def-theme/css/bootstrap-responsive.css" />
+	
+</head>
+	<body class=" yui3-skin-sam controls-visible guest-site signed-out public-page site body_bg">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+	<div>
+	
+		<!--[if lt IE 8]>
+		 <div class="alert">
+			  	  <button type="button" class="close" data-dismiss="alert">&times;</button>
+				  	 	  					<strong>Ups..</strong> Sie nutzen einen aelteren Browser. Es kann zu Problemen in der Darstellung kommen.
+								    </div>
+		
+		<![endif]-->
+				<noscript>
+			    <div class="alert">
+			  	  <button type="button" class="close" data-dismiss="alert">&times;</button>
+				  	 	  					<strong>Ups..</strong> Sie nutzen einen aelteren Browser ohne JavaScript. Es kann zu Problemen in der Darstellung kommen.
+								    </div>
+			</noscript>
+
+	
+		<header id="bannertop" role="banner"  class="row-fluid">
+			<div id="heading"  class="span3">
+					
+					 						<a class="brand" href="/" title="berliOS Home"><img alt=" berlios Logo" src="/ber2def-theme/images/berlios/BerliOS-Logo_de.png" class="oefitlogo" />
+										</a>
+				<a title="Toggle Navigation" class="btn btn-large" data-toggle="collapse" data-target=".navi.nav-collapse" id="btncollapse"><i class="icon-th-list"></i></a>
+				<a title="Toggle Filter" class="btn btn-large hide" data-toggle="collapse" data-target=".filter.nav-collapse" id="btncollapse2"><i class="icon-filter"></i></a>
+					
+			</div>
+			<div class="span8">
+											 <div class="navi nav-collapse collapse">		
+<div id="navigation" class="navbar">
+<div class="navbar-inner">	
+	<div class="container">
+
+														
+	<ul class="nav nav-stacked">
+									<li class="selected">
+			
+				<a href="http&#x3a;&#x2f;&#x2f;www&#x2e;berlios&#x2e;de&#x2f;web&#x2f;guest&#x2f;berlios-suche" title="berliOS Suche" ><span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ berliOS Suche</span></a>
+			</li>
+									<li>
+			
+				<a href="http&#x3a;&#x2f;&#x2f;www&#x2e;berlios&#x2e;de&#x2f;web&#x2f;guest&#x2f;softwareschmieden" title="Softwareschmieden" ><span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Softwareschmieden</span></a>
+			</li>
+									<li>
+			
+				<a href="http&#x3a;&#x2f;&#x2f;www&#x2e;berlios&#x2e;de&#x2f;web&#x2f;guest&#x2f;vorschlagen" title="Projekt vorschlagen" ><span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Projekt vorschlagen</span></a>
+			</li>
+									<li>
+			
+				<a href="http&#x3a;&#x2f;&#x2f;www&#x2e;berlios&#x2e;de&#x2f;web&#x2f;guest&#x2f;kontakt" title="Kontakt" ><span>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Kontakt</span></a>
+			</li>
+			</ul>
+	
+		
+		
+		
+			</div>
+	</div>
+</div>	
+</div>
+
+
+								</div>
+			<div class="span1 language">
+					<a href="/en"><img alt="Translation" src="/ber2def-theme/images/language/en_GB.png" style="width: 16px; height: 11px;" /></a> &nbsp; <a href="/de"><img alt="Übersetzung" src="/ber2def-theme/images/language/de_DE.png" style="width: 16px; height: 11px;" /></a>
+			</div>	
+		</header>
+	
+	<div class="powered"><img src="/ber2def-theme/images/poweredby.jpg" alt="powered by joinup"></div>
+
+	<div class="row-fluid">
+		<div id="content" class="span12">
+
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="columns-1" id="main-content" role="main">
+	<div class="portlet-layout row-fluid">
+		<div class="portlet-column portlet-column-only span12" id="column-1">
+			<div class="portlet-dropzone portlet-column-content portlet-column-content-only" id="layout-column_column-1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_56_  portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_HTC1JmNEpTqg_" >
+		<span id="p_56_INSTANCE_HTC1JmNEpTqg"></span>
+
+
+
+	
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				
+					
+
+						
+
+						
+
+						<div class="journal-content-article">
+							<p class="titilium mobiletxt" style="text-align: center; margin:10px 0; text-shadow:0 -1px 0 #1A2C35"><strong><span style="font-size:53px;"><span class="mobiletxt" style="color: rgb(255, 255, 255);">berliOS Suche</span></span></strong></p>
+						</div>
+
+						
+					
+					
+				
+			
+		
+	
+
+
+
+
+
+
+
+	
+		<div class="entry-links">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+	
+
+	
+
+	
+
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+
+	
+
+
+
+
+
+		
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_ber2search_WAR_ber2searchportlet_  portlet-static portlet-static-end portlet-borderless ber2search " id="p_p_id_ber2search_WAR_ber2searchportlet_" >
+		<span id="p_ber2search_WAR_ber2searchportlet"></span>
+
+
+
+	
+	
+	
+
+		
+
+			
+				
+					
+						
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+<script type="text/javascript" src="/ber2search-portlet/js/search.js"></script>
+<script type="text/javascript" src="/ber2search-portlet/js/jquery.bootpag.min.js"></script>
+<script type="text/javascript" src="/ber2search-portlet/js/bootstrap-popover.js"></script>
+<script type="text/javascript">
+
+// new search context for liferay server
+var sctx = new SearchContext("http://www.berlios.de/");
+// new query object
+var squery = new SearchQuery(sctx);
+
+
+</script>
+
+
+  
+  
+
+
+
+  
+    
+
+
+<div id="searchwrapper">
+      <form id="searchform" class="form-search" method="post" action="http://www.berlios.de/web/guest/suchresultate/-/ber2search/" name="form">
+        <div class="small" id="searchfield">
+          <div class="input-group">
+          <label class="control-label" for="searchinput"></label>
+            <input id="searchinput" type="search" class="form-control" placeholder=" Projektsuche">  <span class="input-group-btn">
+              <button class="searchbtn titilium" onclick="onSubmit(0)" type="button"> Suchen  </button> 
+              <a class="helpme" data-content="Finden Sie Projekte von berliOS und der europ&auml;ischen Initiative -JoinUp-. Sie erreichen mit englischen Suchbegriffen mehr Ergebnisse. Suchergebnisse sind teilweise nur in Englisch verf&uuml;gbar." title="Hinweis" data-toggle="popover" href="#" data-original-title="Hilfe"> <i class="icon-question-sign icon-white"></i></a>
+              
+              <script type="text/javascript">
+             	 $('.helpme').popover();
+              </script>
+            
+            </span>
+          </div>
+          
+          <br>
+          <div id="advsearch" class="filter nav-collapse collapse">
+         	 <div class="row-fluid">
+          
+          	</div>
+          
+          </div>
+          <!-- /input-group -->
+        </div>
+        <!-- /.col-lg-6 -->
+      </form>
+</div>
+
+
+
+<div id="searchresults" class="hide">
+	<div class="fullresult pull-right startup displaynull">
+	</div>
+	<div class="results">
+	</div>	
+	<div class="pagination pagination-small startup displaynull">
+	<ul> </ul>
+	</div>
+</div>
+
+
+
+<script type="text/javascript">
+/* evil inline script! */
+
+/* get root element */
+var root = $("#advsearch .row-fluid");
+if (root.length > 0) {
+  $('#searchinput').val(squery.getQuery());
+  // get types of categories
+  var terms = sctx.getCategoryNames();
+  // width of one termlist
+  var spanwidth = Math.floor(12/terms.length);
+  // iterate and create drop-down lists (sort of)
+  var key, items, child, checked;
+ 
+  $.each(terms, function() {
+    key = this;
+    items = sctx.getCategoryMap(key);
+    console.log("Appending key "+key);
+    // append child (TODO - map key to readable and localized string)
+    root.append("<div class='span"+spanwidth+" ddown'><p class='"+key+" toggle'><i class='toggledown'></i><strong> "+key+"</strong></p><div id='"+key+"' class='sub-menu span"+spanwidth+"' style='display:none'> </div></div>");
+    // get child
+    child = $('#'+key);
+   
+    for (var item in items) {
+        checked = squery.hasCategory(item);
+     //	$("#ms"+key).append("<option onclick='squery.toggleCategory(\""+item+"\")' value='"+item+"' "+(checked ? "selected" : "")+">"+items[item]+"<\/option>");
+    	child.append("<label class=\"checkbox\" title='"+items[item]+"'><input onclick='squery.toggleCategory(\""+item+"\")' type=\"checkbox\" "+(checked ? "checked" : "")+">&nbsp;"+items[item]+"</label>");
+    }
+    //click listener to open filterboxes
+    var jscript;
+    jscript = "<script type='text/javascript'>";
+    jscript +="$('."+key+".toggle').click(function() {";
+    jscript +="$('#"+key+".sub-menu').toggle();";
+    jscript +="$('."+key+".toggle .toggledown').toggleClass('up')";
+    jscript +="});";
+    jscript +="<\/script>";
+    $("body").append(jscript);
+	
+  });
+}
+
+function onSubmit(offset) {
+  squery.setOffset(offset);
+  var result = true;
+  console.log("Submit pressed.");
+  var qval = $("#searchinput").val();
+  console.log("Query is "+qval);
+  squery.setQuery(qval);
+  squery.setSessionId("20A0B664397101AE771858052061D467");
+  var form = $("#searchform");
+  if (form.length > 0) {
+    console.log("Appending serialized form data.");
+    form.append("<input type='hidden' name='jsondata' value='"+squery.serialize()+"'>");
+    console.log("Submit!");
+    form.submit();
+    result = true;
+  } else {
+    console.log("Form not found!")
+    result = false;
+  }
+  
+  return result;
+}
+
+var resultLength;
+
+function displayResults() {
+$("#searchresults, #btncollapse2").removeClass("hide"); 
+$("#navigation .nav.nav-stacked li").first().addClass("selected");
+  var resultdiv = $("#searchresults .results"); 
+  resultdiv.empty();
+  var qres = squery.send();
+  var code = qres.status;
+  var data = qres.data;
+  var berproj = qres.berliosData;
+  var matches = qres.resultSize;
+  setPaginagion(qres.resultSize,squery.getOffset()/10);
+
+  console.log("CODE: "+ code);
+  console.log("matches: "+ matches);
+  
+  var child;
+  var imgdef ="/ber2search-portlet/images/img_default.png";
+  var icons = "/ber2search-portlet/images/icons/";
+  var striped;
+  var categories;
+  var childContent;
+  // No results
+  if(qres.resultSize===0) {
+	resultdiv.append("<div class='alert alert-info'><i class='icon-info-sign'></i> Es wurden keine Projekte gefunden. </div>");
+	resultdiv.append("<h3>Vorgeschlagene Projekte:</h3>");
+  }
+	var prjindex=1;  
+  $.each(data,function(idx, elem) {
+    //uid = elem.uid;
+    //console.log("Adding child #res"+idx);
+    if(prjindex%2 != 0)
+    	striped = "striped";
+    else
+    	striped = "";
+    resultdiv.append("<div id='res"+idx+"' class='searchresult "+striped+" row-fluid'>"+"</div>");
+    child = $("#res"+idx);
+    categories = elem['categories'];
+   // print out result 
+  if(elem["icon"] !==undefined )
+	  imgdef=elem["icon"];
+
+   var link = elem['url'];
+   var title = elem['title'];
+   var descr = elem['descr'];
+   
+	childContent = "<div class=\"row-fluid\"><div class=\"span12 restitle\"><h3>"
+				+ "<a href='"+link +"' target='_blank' title='Besuchen Sie  "+ title +"'>"+title+"</a>"
+				+ "</h3><div class=\"row-fluid\">"
+				+ "<div class=\"span11\"><table><tr><td class='prjlogo'><img class='prjlogo' width='70' src='"+ imgdef+"' onerror='imgError()' alt='"+ title + "'></td>"
+				+ "<td>"+replaceLink(descr)+"</td></tr></table></div>";
+				if (elem.isBerlios) {
+					console.log("IS BERLIOS");
+					childContent += "<div class=\"span1\"><a href='"+link +"' target='_blank' title='Besuchen Sie  "+ title +"'><img src='"+icons+"link-icon.png' alt='Project on Berlios'></a></div>"
+			           + "</div><div class='row-fluid details'><div>"
+			           +  "<img src='"+icons+"fromberlios.png' alt='berliOS'> &nbsp;";
+				}	else {	
+				childContent += "<div class=\"span1\"><a href='"+ link +"' target='_blank' title='Besuchen Sie  "+ title +"'><img src='"+icons+"link-icon.png' alt='Project on JoinUp'></a></div>"
+				+ "</div><div class='row-fluid details'><div>"
+				+ "<img src='"+icons+"fromjoinup.png' alt='joinup' > &nbsp;"
+				+ "<img src='"+icons+"added.png' alt='Project added' onmouseover=\"Liferay.Portal.ToolTip.show(this, 'Projekt erstellt')\" ><small><span class=\"label\">"+elem['created']+"</span></small>"
+				+ "<img src='"+icons+"changed.png' alt='Project changed' onmouseover=\"Liferay.Portal.ToolTip.show(this, 'Letzte &Auml;nderung')\"><small><span class=\"label\">"+elem['changed']+"</span></small>";
+				}
+	
+				if (categories !== undefined && categories["Licence"] !== undefined)
+					  childContent += "<img src='"+icons+"licence.png' alt='Project licences' onmouseover=\"Liferay.Portal.ToolTip.show(this, 'Unter Lizenz')\"><small><span class=\"label\">"+categories["Licence"]+"</span></small>";
+		
+	childContent+=  "</div></div></div></div>";
+  
+  child.append(childContent);
+  	
+  prjindex++;
+	/*for ( var key in elem) {
+		console.log("Appending " + key + " to #res"+ idx);
+
+		//    child.append("<div class=\"row-fluid\"><div class='span6'><strong>"+key+"</strong></div><div class='span6'>"+elem[key]+"</div></div>");
+		}*/
+	});
+
+  //Check for image 404
+  $(document).ready(function() {
+	    setTimeout(function() {
+	      $(".prjlogo").each(function(){
+	         var image = $(this);            
+	         if(image.context.naturalWidth == 0 ||
+	         image.readyState == 'uninitialized'){   
+	            $(image).unbind("error").attr(
+	                "src", "/ber2search-portlet/images/img_default.png"
+	            );
+	         }
+	    });
+	    }, 1500);
+}); 
+  
+  
+  
+  	$(".fullresult").append("<small style='pull-right' class='label'>"+qres.resultSize+"  Projekte gefunden</small>");
+ 		resultdiv.show();
+	}// End displayResults
+	
+	
+	// set keypress to trigger search
+	$("#searchinput").bind(
+			"keyup keypress",
+			function(e) {
+				if (e.keyCode == 13) {
+					console.log("Search by key");
+					onSubmit(0);
+					$("#searchform").submit();
+					e.preventDefault();
+					return false;
+				} else {
+					if (e.keyCode == 60) {
+						var input = $(this), text = input.val().replace(String.fromCharCode(e.keyCode),"");
+						input.val(text);
+					}
+				}
+			});
+
+	//find and replace link in text
+	function replaceLink(text) {
+		var pattern = /(HTTP:\/\/|HTTPS:\/\/)([a-zA-Z0-9.\/&?_=!*,;\(\)+-]+)/ig;
+		var replace = "";
+		var result = (text != null) ? text.replace(pattern, replace) : "";
+		if (result.length > 700) {
+			result = result.substr(0,700)+'...';
+			}
+		return result;
+	}
+
+	//set pagination
+	function setPaginagion(length, page) {
+		var tmp = length % 10;
+		length = Math.floor(length / 10);
+		if (tmp > 0)
+			length++;
+
+		$('.pagination').bootpag({
+			total : length, // total pages
+			page : (page + 1), // default page
+			maxVisible : 10, // visible pagination
+			leaps : false
+		// next/prev leaps through maxVisible
+		}).on("page", function(event, num) {
+			//squery.setOffset(num*10);
+			onSubmit((num - 1) * 10);
+			// $("#content").html("Page " + num); 
+		});
+	}
+
+
+</script>
+
+
+	
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+				
+				
+			
+
+		
+
+	
+
+
+
+
+
+		
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_56_  portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_EJI1hXWTZ4gE_" >
+		<span id="p_56_INSTANCE_EJI1hXWTZ4gE"></span>
+
+
+
+	
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				
+					
+
+						
+
+						
+
+						<div class="journal-content-article">
+							<div class="spacer">
+<p style="text-align: center;"><img align="absmiddle" alt="berlion" src="/documents/10181/0/berlios_small.png/33526461-7ddb-4471-bb03-7e9726320dcb?t=1388757070378" style="width: 16px; height: 17px; vertical-align: middle;" /> <span style="color:#ffffff;">Finden Sie Ihr passendes Open Source Projekt</span></p>
+</div>
+						</div>
+
+						
+					
+					
+				
+			
+		
+	
+
+
+
+
+
+
+
+	
+		<div class="entry-links">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+	
+
+	
+
+	
+
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+
+	
+
+
+
+
+
+		
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	<div class="portlet-boundary portlet-boundary_56_  portlet-static portlet-static-end portlet-borderless portlet-journal-content " id="p_p_id_56_INSTANCE_ABT2wZS8Fsyg_" >
+		<span id="p_56_INSTANCE_ABT2wZS8Fsyg"></span>
+
+
+
+	
+	
+	
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				<div class="portlet-borderless-container" style="">
+					
+
+					
+
+
+	<div class="portlet-body">
+
+
+
+	
+		
+			
+			
+				
+					
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+				
+
+				
+					
+					
+						
+
+
+	
+	
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+		
+
+		
+			
+			
+
+				
+
+				
+					
+
+						
+
+						
+
+						<div class="journal-content-article">
+							&nbsp;
+<div class="row-fluid">
+<ul class="thumbnails">
+	<li class="span4">
+	<div class="thumbnail"><img src="/documents/10181/0/berlios1.jpg/fe5cb62c-2638-4a8e-ae0a-312bded6bc22?version=1.0&amp;t=1388757071407" />
+	<div class="caption">
+	<h3><span class="label">Über die Plattform berliOS.de</span></h3>
+
+	<p>Die Plattform berliOS.de steht einer breiten Öffentlichkeit für Fragen rund um das Thema Open Source zur Verfügung und bietet Basiswissen sowie Informationen zu verschiedenen Anwendungsbeispielen.</p>
+
+	<p>Im Rahmen der Kooperation mit »JoinUp«, einer Initiative der Europäischen Kommission, steht Ihnen eine erweiterte Suchfunktion zur Verfügung. Sie finden Organisationen, Initiativen und Projekte der Plattformen JoinUp und berliOS über das Suchfeld.</p>
+
+	<h3><span class="label">Ihr Projekt bei berliOS</span></h3>
+
+	<p>Nutzen Sie die Plattform berliOS.de um auf Ihr Projekt aufmerksam zu machen. Tragen Sie dazu alle relevanten Informationen im Bereich <a href="/web/guest/vorschlagen" title="Ihr Projekt bei berliOS.de">Projekt vorschlagen</a> ein. Nach einer redaktionellen Prüfung wird Ihr Projekt auf berliOS.de gelistet und ist über die Suchfunktion auffindbar.</p>
+
+	<p><br />
+	<a class="searchbtn titilium btn-large" href="/web/guest/vorschlagen" title="Projekt vorschlagen">Projekt vorschlagen</a></p>
+	</div>
+	</div>
+	</li>
+	<li class="span4">
+	<div class="thumbnail"><img src="/documents/10181/0/berlios2.jpg/00a816bd-80dc-4bc2-97f0-5b73c0eb66f5?t=1388757071078" />
+	<div class="caption">
+	<h3><span class="label">Neuigkeiten aus dem OS Umfeld</span></h3>
+
+	<p>Informationen und Neuigkeiten aus dem Open Source Umfeld auf einen Blick.</p>
+
+	<div id="rss-feed1">&nbsp;</div>
+
+	<div id="rss-feed2">&nbsp;</div>
+
+	<div id="rss-feed3">&nbsp;</div>
+	</div>
+	</div>
+	</li>
+	<li class="span4">
+	<div class="thumbnail"><img src="/documents/10181/0/berlios3.jpg/f3931193-b673-40c2-bcfa-8da0bd696702?t=1388757070571" />
+	<div class="caption">
+	<h3><span class="label">Eine Initiative von</span></h3>
+
+	<p>Das Fraunhofer-Institut FOKUS und das Kompetenzzentrum Öffentliche IT betreiben die Plattform berliOS um den Einsatz und die Akzeptanz von Open Source zu fördern.</p>
+
+	<p>Das im März 2013 neugegründete&nbsp;und vom Bundesministerium des Innern geförderte&nbsp;Kompetenzzentrum Öffentliche IT (ÖFIT) entwickelt darüber hinaus Strategien für den Einsatz von Open Source Lösungen im Rahmen einer föderalen Gesamtinfrastruktur und engagiert sich in EU-Projekten.</p>
+
+	<p style="text-align: justify;">&nbsp;</p>
+
+	<p align="center"><a href="http://www.oeffentliche-it.de" target="_blank"><img alt="" src="http://www.oeffentliche-it.de/oeffentliche-it-theme/images/oefit/CC-oefit-logo.png" style=" width: 217px; height: 55px;" /></a></p>
+
+	<p align="center">&nbsp;</p>
+
+	<p align="center"><a href="http://www.fokus.fraunhofer.de" target="_blank"><img alt="Fraunhofer FOKUS" src="/documents/10181/0/fraunhofer_192.png/11651c21-2630-42f9-a13f-437819123255?version=1.0&amp;t=1388757070245" style="width: 192px; height: 58px;" /></a></p>
+	</div>
+	</div>
+	</li>
+</ul>
+</div>
+<script type="text/javascript">
+$("#rss-feed1").rss("http://berlinwebweek.de/feed/", {
+    limit: 5,
+    ssl: window.location.protocol == 'https:',
+    layoutTemplate: '<dl class="dl-horizontal">{entries}</dl>',
+    entryTemplate: '<dt><a href="{url}" title="{title}" target="_blank">{title}</a></dt>'
+}).show();
+
+$("#rss-feed2").rss("http://www.linux.com/feeds/all-content", {
+    limit: 5,
+    ssl: window.location.protocol == 'https:',
+    layoutTemplate: '<dl class="dl-horizontal">{entries}</dl>',
+    entryTemplate: '<dt><a href="{url}" title="{title}" target="_blank">{title}</a></dt>'
+}).show();
+
+$("#rss-feed3").rss("http://www.oeffentliche-it.de/aktuelles/-/asset_publisher/2hSn/rss?p_p_cacheability=cacheLevelPage", {
+    limit: 5,
+    ssl: window.location.protocol == 'https:',
+    layoutTemplate: '<dl class="dl-horizontal">{entries}</dl>',
+    entryTemplate: '<dt><a href="{url}" title="{title}" target="_blank">{title}</a></dt>'
+}).show();
+</script>
+						</div>
+
+						
+					
+					
+				
+			
+		
+	
+
+
+
+
+
+
+
+	
+		<div class="entry-links">
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		</div>
+	
+
+	
+
+	
+
+	
+
+					
+				
+			
+		
+	
+	
+
+
+
+	</div>
+
+				</div>
+
+				
+			
+		
+	
+
+
+	
+
+
+
+
+
+		
+	</div>
+
+
+
+
+</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+
+	
+
+
+
+
+
+<form action="#" id="hrefFm" method="post" name="hrefFm">
+	<span></span>
+</form>
+					</div>
+	</div>
+	</div>
+</div> 
+	
+	<div class="row-fluid prefooter">
+		<footer id="footer" class="container" role="contentinfo">
+			<script type="text/javascript" src="/ber2def-theme/js/bootstrap.js"> </script>  
+			<script type="text/javascript" src="/ber2def-theme/js/socialshareprivacy.js"> </script>  
+			
+			<p class="powered-by">	
+			</p>
+			<div id="socialmedia">
+				<div id="socialshareprivacy"></div> 	     
+		      	</div>
+				<div id="footer-inner">
+				 <table border="0" class="linklist" style="width: 100%;">
+	<tbody>
+		<tr>
+			<td>
+			<table border="0">
+				<thead>
+					<tr>
+						<th scope="col"><span style="font-size:18px;">Weiterführende Links</span></th>
+						<th scope="col">&nbsp;</th>
+						<th scope="col"><span style="font-size:18px;">© Fraunhofer FOKUS</span></th>
+					</tr>
+				</thead>
+				<tbody>
+					<tr>
+						<td><a href="http://www.oeffentliche-it.de" target="_blank" title="Kompetenzzentrum Öffentliche IT">CC Öffentliche IT</a></td>
+						<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						<td><a href="/web/guest/impressum" title="Impressum">Impressum</a></td>
+					</tr>
+					<tr>
+						<td><a href="http://www.fokus.fraunhofer.de/" target="_blank" title="Fraunhofer FOKUS">Fraunhofer FOKUS</a></td>
+						<td>&nbsp;</td>
+						<td><a href="/web/guest/datenschutzbestimmungen" title="Datenschutz">Datenschutz</a></td>
+					</tr>
+					<tr>
+						<td><a href="http://www.fraunhofer.de" target="_blank" title="Fraunhofer Gesellschaft">Fraunhofer Gesellschaft</a></td>
+						<td>&nbsp;&nbsp;&nbsp;&nbsp;</td>
+						<td><a href="/web/guest/kontakt" title="Kontakt/Contact">Kontakt</a></td>
+					</tr>
+					<tr>
+						<td><a href="https://joinup.ec.europa.eu/" target="_blank" title="JoinUp">JoinUp</a></td>
+						<td>&nbsp;</td>
+						<td>&nbsp;</td>
+					</tr>
+				</tbody>
+			</table>
+			</td>
+			<td>&nbsp;</td>
+			<td align="right"><img alt="berliOS Logo" src="/ber2search-portlet/images/searchlabel.png" style="width: 142px; height: 28px;" /></td>
+		</tr>
+	</tbody>
+</table>
+
+<p><a href="/en"><img alt="Translation" src="/ber2def-theme/images/language/en_GB.png" style="width: 16px; height: 11px;" /> English</a> | <a href="/de"><img alt="Übersetzung" src="/ber2def-theme/images/language/de_DE.png" style="width: 16px; height: 11px;" /> Deutsch</a></p>
+
+<p style="float:right">© berliOS | CC Öffentliche IT</p>
+			</div>	 
+		</footer>
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+	
+
+				<script src="http://www.berlios.de/ber2search-portlet/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=de_DE&amp;b=6200&amp;t=1392032086000" type="text/javascript"></script>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+	Liferay.Util.addInputFocus();
+
+	
+
+	
+		
+		
+
+			
+
+			
+		
+	
+
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+// <![CDATA[
+
+			Liferay.Portlet.onLoad(
+				{
+					canEditTitle: false,
+					columnPos: 0,
+					isStatic: 'end',
+					namespacedId: 'p_p_id_56_INSTANCE_HTC1JmNEpTqg_',
+					portletId: '56_INSTANCE_HTC1JmNEpTqg',
+					refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10814\x26p_p_id\x3d56_INSTANCE_HTC1JmNEpTqg\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d0\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F'
+				}
+			);
+		
+			Liferay.Portlet.onLoad(
+				{
+					canEditTitle: false,
+					columnPos: 1,
+					isStatic: 'end',
+					namespacedId: 'p_p_id_ber2search_WAR_ber2searchportlet_',
+					portletId: 'ber2search_WAR_ber2searchportlet',
+					refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10814\x26p_p_id\x3dber2search_WAR_ber2searchportlet\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d1\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F'
+				}
+			);
+		
+			Liferay.Portlet.onLoad(
+				{
+					canEditTitle: false,
+					columnPos: 2,
+					isStatic: 'end',
+					namespacedId: 'p_p_id_56_INSTANCE_EJI1hXWTZ4gE_',
+					portletId: '56_INSTANCE_EJI1hXWTZ4gE',
+					refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10814\x26p_p_id\x3d56_INSTANCE_EJI1hXWTZ4gE\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d2\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F'
+				}
+			);
+		
+			Liferay.Portlet.onLoad(
+				{
+					canEditTitle: false,
+					columnPos: 3,
+					isStatic: 'end',
+					namespacedId: 'p_p_id_56_INSTANCE_ABT2wZS8Fsyg_',
+					portletId: '56_INSTANCE_ABT2wZS8Fsyg',
+					refreshURL: '\x2fc\x2fportal\x2frender_portlet\x3fp_l_id\x3d10814\x26p_p_id\x3d56_INSTANCE_ABT2wZS8Fsyg\x26p_p_lifecycle\x3d0\x26p_t_lifecycle\x3d0\x26p_p_state\x3dnormal\x26p_p_mode\x3dview\x26p_p_col_id\x3dcolumn-1\x26p_p_col_pos\x3d3\x26p_p_col_count\x3d4\x26p_p_isolated\x3d1\x26currentURL\x3d\x252F'
+				}
+			);
+		AUI().use('aui-base', 'liferay-menu', 'liferay-notice', 'liferay-poller', function(A) {(function() {
+	Liferay.Util.addInputType();
+
+	Liferay.Portlet.ready(
+		function(portletId, node) {
+			Liferay.Util.addInputType(node);
+		}
+	);
+
+	if (A.UA.mobile) {
+		Liferay.Util.addInputCancel();
+	}
+})();(function() {
+	new Liferay.Menu();
+
+	var liferayNotices = Liferay.Data.notices;
+
+	for (var i = 1; i < liferayNotices.length; i++) {
+		new Liferay.Notice(liferayNotices[i]);
+	}
+
+	
+})();});
+// ]]>
+</script>
+
+
+
+
+
+
+
+
+
+<script src="http://www.berlios.de/ber2def-theme/js/main.js?browserId=other&amp;minifierType=js&amp;languageId=de_DE&amp;b=6200&amp;t=1390919754000" type="text/javascript"></script>
+
+
+
+	
+
+	
+
+	<script type="text/javascript">
+		// <![CDATA[
+			
+
+			
+		// ]]>
+	</script>
+
+
+
+
+
+
+</body>
+
+</html>
+
