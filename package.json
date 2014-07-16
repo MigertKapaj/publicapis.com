@@ -1,0 +1,27 @@
+{
+  "name": "publicapis-hacker",
+  "version": "0.1.0",
+  "author": "Montana Flynn",
+  "description": "Hacker version of publicAPIs",
+  "main": "index.js",
+  "scripts": {
+    "move": "cp ./node_modules/lunr/lunr.min.js ./public/lib",
+    "build": "npm install && node index.js && npm run-script move",
+    "serve": "./node_modules/nws/bin/nws -o -d ./public -p 1337",
+    "start": "npm run-script build && npm run-script serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Mashape/publicapis.com.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mashape/publicapis.com/issues"
+  },
+  "homepage": "https://github.com/Mashape/publicapis.com",
+  "dependencies": {
+    "lunr": "^0.5.3",
+    "nws": "^0.5.0",
+    "readdirp": "^1.1.0"
+  }
+}
