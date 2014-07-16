@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]> <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>BuyBox Homepage</title>
+		<meta name="description" content="Buybox offers Saas solutions for e-commerce, making social payment (group buying) effortlessly available: group giftcard, multicard purchase & viral sales.">
+		<meta name="viewport" content="initial-scale=1.0, minimum-scale=1.0">
+		<meta name="google-site-verification" content="DTaawmjNmgVhPzRrDVGhWQSVbGoY6NAPU3Konhx9sBo">
+				<link href="https://www.buybox.net/images/favicon.ico" rel="icon">
+		<link href='//fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,600,700' rel='stylesheet'>
+		<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+		<link href="https://www2.buybox.net/common_tools/buybox/assets/css/simple-line-icons.min.css" rel="stylesheet">
+		<link href="https://www2.buybox.net/common_tools/buybox/assets/css/pure.min.css" rel="stylesheet">
+		<link href="https://www.buybox.net/css/main.css" rel="stylesheet">
+		<script src="https://www2.buybox.net/common_tools/buybox/assets/js/vendor/html5shiv.min.js"></script>
+		<script src="https://www2.buybox.net/common_tools/buybox/assets/js/vendor/modernizr.min.js"></script>
+				<!--[if lt IE 9]>
+		<script src="https://www2.buybox.net/common_tools/buybox/assets/js/vendor/respond.min.js"></script>
+		<![endif]-->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-40936611-1', 'buybox.net');
+			ga('send', 'pageview');
+		</script>
+			</head>
+	<body>
+		<header>
+			<div class="pure-menu pure-menu-open pure-menu-horizontal">
+				<a href="https://www.buybox.net/" class="pure-menu-heading">
+					<h1><img src="https://www.buybox.net/images/logos/buybox-137x46.png" alt="BuyBox logo" width="137" height="46"></h1>
+				</a>
+				<button class="mobile-menu-btn" data-menu="main-menu" data-content="content" data-direction="y"></button>
+				<ul id="main-menu" class="right">
+																																																	<li>
+							<a href="https://www.buybox.net/en/our-solutions/">solutions</a>
+															<ul>
+																			<li><a href="https://www.buybox.net/en/gift-card-plus/">gift card +</a></li>
+																			<li><a href="https://www.buybox.net/en/social-deals/">social deals</a></li>
+																			<li><a href="https://www.buybox.net/en/shared-purchase/">shared purchase</a></li>
+																			<li><a href="https://www.buybox.net/en/multicards/">multicards</a></li>
+																	</ul>
+													</li>
+																																																	<li>
+							<a href="https://www.buybox.net/en/documentation/">documentation</a>
+													</li>
+																																																	<li>
+							<a href="https://help.buybox.net?a=add&amp;language=English" target="_blank">contact us</a>
+													</li>
+																																																																<li>
+							<a class="xbold" href="https://www.buybox.net/en/subscribe/">subscribe</a>
+													</li>
+																																																	<li>
+							<a href="https://www.buybox.net/en/"><img src="https://www.buybox.net/images/flag_en_UK_16x11.png" width="16" height="11" alt="en_UK"></a>
+															<ul>
+																			<li><a class="active" href="https://www.buybox.net/en/?lang=en_UK"><img src="https://www.buybox.net/images/flag_en_UK_16x11.png" width="16" height="11" alt="en_UK"></a></li>
+																			<li><a href="https://www.buybox.net/fr/?lang=fr_FR"><img src="https://www.buybox.net/images/flag_fr_FR_16x11.png" width="16" height="11" alt="fr_FR"></a></li>
+																	</ul>
+													</li>
+									</ul>
+			</div>
+		</header>
+		<div id="content">
+				<div class="content">
+		<!-- DEMO ACCESS -->
+		<section class="demo">			
+			<div class="wrapper">
+				<div>
+					<h2 class="h1-like">Move to <span>Social Payment</span> and Boost your business</h2>
+					<h3>Explore BuyBox Social Payment E-Commerce Solutions</h3>
+					<a class="learn-more white" href="https://www.buybox.net/en/our-solutions/">find out more</a>
+				</div>
+				<form id="subscribe" action="https://www.buybox.net/process/subscription" method="post">
+					<div class="demo-access pure-g-r">
+						<div class="pure-u-1-3">
+							<input class="bburl required" type="text" name="merchant_url" placeholder="your store URL">
+						</div>
+						<div class="pure-u-1-3">
+							<input class="bbmail required" type="text" name="merchant_email" placeholder="Email">
+						</div>
+						<div class="pure-u-1-3">
+							<input type="submit" value="go to Demo">
+						</div>
+					</div>
+				</form>
+			</div>
+					</section>
+		<!-- /DEMO ACCESS -->
+		<main class="homepage">
+			<div class="wrapper">
+				<!-- SOLUTIONS -->
+				<section class="solutions">
+					<div class="pure-g-r mobile-mspaced">
+						<div class="pure-u-2-3 grey-box">
+							<h3 class="h2-like italic mb2">Gift Card <i class="icon-plus orange"></i><span class="subtitle">by <span class="bold normal">Buy<span class="orange">Box</span></span></span></h3>
+							<p>Set up your own client acquisition and loyalty program thanks to the digital and social giftcard.</p>
+							<a class="learn-more orange" href="https://www.buybox.net/en/gift-card-plus/">find out more</a>
+						</div>
+						<div class="pure-u-1-3 row-last">
+							<h3>and more...</h3>
+							<p>Explore BuyBox Social Payment Solutions: Social Deals, Kitty, Multicard Payment.</p>
+							<a class="learn-more orange" href="https://www.buybox.net/en/our-solutions/">find out more</a>
+						</div>
+					</div>
+				</section>
+				<!-- /SOLUTIONS -->
+				<!-- CUSTOMERS -->
+				<section>
+					<h2 class="txtcenter">they trust us.</h2>
+					<div class="customers-testimonials slideshow">
+						<ul class="clearfix">
+																																																							<li>
+											<p class="quote">
+												<i class="fa fa-quote-left"></i>The BuyBox solution is exclusive, the offer is clear and simple, and is an end-to-end turnkey service. Furthermore, BuyBox shows a real concern to respond to any questions in an efficient way.
+											</p>
+											<div class="company-rep">
+												<i class="icon-70-cmo-splendia mr2"></i>
+												<div class="vcenter">
+													<span>Guillaume Rostand</span>
+													<span>Splendia CMO</span>
+												</div>
+											</div>
+										</li>
+																																																																														<li>
+											<p class="quote">
+												<i class="fa fa-quote-left"></i>The service is acclaimed by our WonderBox customers, who took to it immediately. The number of orders placed using the service are 20% higher than the site average.
+											</p>
+											<div class="company-rep">
+												<i class="icon-70-cmo-wonderbox mr2"></i>
+												<div class="vcenter">
+													<span>Gilles Raison</span>
+													<span>Wonderbox CMO</span>
+												</div>
+											</div>
+										</li>
+																																				</ul>
+					</div>
+					<div class="customers-logos slideshow">
+						<ul class="clearfix">
+															<li><i class="logo-130-customer-psg">PSG</i></li>
+															<li><i class="logo-130-customer-edel">Banque Edel</i></li>
+															<li><i class="logo-130-customer-splendia">Splendia</i></li>
+															<li><i class="logo-130-customer-micromania">Micromania</i></li>
+															<li><i class="logo-130-customer-celio">Celio</i></li>
+															<li><i class="logo-130-customer-eden-park">Eden-Park</i></li>
+															<li><i class="logo-130-customer-wonderbox">Wonderbox</i></li>
+															<li><i class="logo-130-customer-baissonslesprix">Baissonslesprix.com</i></li>
+													</ul>
+					</div>
+					<h3 class="txtcenter mb1">BuyBox is a <span class="orange">value creator</span> for all concerned in e-commerce, both pure players and clicks&nbsp;&&nbsp;mortar companies.</h3>
+					<div class="txtcenter"><a class="learn-more orange" href="https://www.buybox.net/en/our-clients/">find out more</a></div>
+				</section>
+				<!-- /CUSTOMERS -->
+				<!-- BENEFITS -->
+				<section>
+					<h2 class="txtcenter">improve performance.</h2>
+					<div class="benefits pure-g-r mb4">
+						    <div class="pure-u-1-2">
+					<i class="icon-users xlarge orange mr1"></i>
+				<span class="xlarge bold orange">x 5</span>		<h3>Amplify customer acquisition</h3>		<p>For each purchase, on average, there will be 5 times the number of participants.</p>
+    </div>
+    <div class="pure-u-1-2">
+					<i class="icon-basket xlarge orange mr1"></i>
+				<span class="xlarge bold orange">x 2</span>		<h3>Double the average cart value</h3>		<p>Benefit from the group effect and double the value of the average cart.</p>
+    </div>
+    <div class="pure-u-1-2">
+					<i class="icon-like xlarge orange mr1"></i>
+				<span class="xlarge bold orange">+150%</span>		<h3>Develop a powerful exposure within social media</h3>		<p>By using social media, news of a purchase is broadcast 2.5 times further, than for a conventional case.</p>
+    </div>
+    <div class="pure-u-1-2">
+					<i class="icon-rocket xlarge orange mr1"></i>
+				<span class="xlarge bold orange">100%</span>		<h3>Cost effective from the first year.</h3>		<p>social Payment is a marketing tool with a guaranteed ROI.</p>
+    </div>
+					</div>
+					<h3 class="txtcenter mb1"><span class="orange">Social Payment</span> plays a key role, before, during and after a purchase.</h3>
+					<div class="txtcenter"><a class="learn-more orange" href="https://www.buybox.net/en/social-payment/">find out more</a></div>
+				</section>
+				<!-- /BENEFITS -->
+				<!-- INTEGRATION -->
+				<section>
+					<h2 class="txtcenter">Simple integration.</h2>
+					<div class="pure-g-r">
+						<div class="pure-u-1-2">
+							<h3>E-commerce platforms</h3>
+															<i class="logo-300x100-cms-magento">Magento</i>
+															<i class="logo-300x100-cms-prestashop">Prestashop</i>
+														<h4>Our payment partners</h4>
+															<i class="logo-200x60-psp-wordline">Worline</i>
+															<i class="logo-200x60-psp-paypal">Paypal</i>
+													</div>
+						<div class="pure-u-1-2">
+							<h3>BuyBox web services</h3>
+																								<p>Use our web services to directly integrate the solutions, whatever the platform.</p>
+																																<img class="sample-code" src="https://www.buybox.net/images/code-sample-400x175.png" alt="Code sample">
+																																<p>BuyBox provides an API for the creation of your own Social Payment applications.</p>
+																					</div>
+					</div>
+				</section>
+				<!-- /INTEGRATION -->
+				<!-- DOCUMENTATION & SUPPORT -->
+				<section>
+					<h2 class="txtcenter">documentation, help &amp; support.</h2>
+					<div class="support pure-g-r">
+																				<div class="pure-u-1-2">
+								<p>
+									<i class="icon-book-open mr1"></i>Discover BuyBox&#039;s solutions, consult the online guides, download the latest plugins and much more.
+									<a class="learn-more orange" href="en/documentation/">find out more</a>
+								</p>
+							</div>
+																				<div class="pure-u-1-2">
+								<p>
+									<i class="icon-support mr1"></i>Use BuyBox Customer Support for help and professional advice.
+									<a class="learn-more orange" href="https://help.buybox.net?language=English" target="_blank">find out more</a>
+								</p>
+							</div>
+											</div>
+				</section>
+				<!-- /DOCUMENTATION & SUPPORT -->
+				<!-- TRY IT -->
+				<section>
+					<h2 class="txtcenter">Develop your business now.</h2>
+					<a class="button hcenter" href="https://www.buybox.net/en/subscribe/">select your solution</a>
+				</section>
+				<!-- /TRY IT -->
+			</div>
+		</main>
+			<footer>
+												<div class="wrapper">
+					<div class="pure-g-r">
+													<div class="pure-u-1-4">
+								<h4>About Us</h4>
+								<ul class="menu">
+																			<li><a href="https://www.buybox.net/en/who-are-we/">Who are we?</a></li>
+																			<li><a href="https://www.buybox.net/en/social-payment/">Social Payment</a></li>
+																			<li><a href="https://www.buybox.net/en/our-clients/">About Us</a></li>
+																			<li><a href="https://www.buybox.net/en/job-offers/">Careers</a></li>
+																			<li><a href="https://help.buybox.net?a=add&amp;language=English" target="_blank">Contact Us</a></li>
+																	</ul>
+							</div>
+													<div class="pure-u-1-4">
+								<h4>how does it work?</h4>
+								<ul class="menu">
+																			<li><a href="https://www.buybox.net/en/our-solutions/">Solutions</a></li>
+																			<li><a href="https://www.buybox.net/en/">Demos</a></li>
+																			<li><a href="https://www.buybox.net/en/subscribe/">Subscription</a></li>
+																			<li><a href="https://www.buybox.net/en/documentation/">Documentation</a></li>
+																			<li><a href="https://help.buybox.net?language=English" target="_blank">Help & Support</a></li>
+																	</ul>
+							</div>
+													<div class="pure-u-1-4">
+								<h4>media</h4>
+								<ul class="menu">
+																			<li><a href="https://www.buybox.net/en/press-releases/">Press Releases</a></li>
+																			<li><a href="http://www.scoop.it/u/buybox" target="_blank">Press Reviews</a></li>
+																			<li><a href="https://www.buybox.net/en/media-resources/">Media Resources</a></li>
+																			<li><a href="http://www.social-payment.net/" target="_blank">Blog: Social Payment</a></li>
+																			<li><a href="http://www.baissonslesprix.com/" target="_blank">Baissonslesprix.com</a></li>
+																	</ul>
+							</div>
+												<div class="pure-u-1-4">
+							<h4>Subscribe to the newsletter</h4>
+							<form id="newsletter-form" action="http://buybox.us7.list-manage1.com/subscribe/post?u=15e3fb8e8902af2f695c93154&amp;id=9daba85fe5" method="post">
+								<div>
+									<input class="bbmail required" type="text" name="EMAIL" placeholder="Email">
+									<input class="small-button grey-gradient-bg" type="submit" value="OK">
+								</div>
+							</form>
+							<h4>follow us</h4>
+							<ul class="follow-us plain clearfix">
+																	<li><a class="social-btn-twitter" href="http://twitter.com/BuyBox" target="_blank" title="Follow us on Twitter">Twitter</a></li>
+																	<li><a class="social-btn-linkedin" href="http://www.linkedin.com/company/buybox" target="_blank" title="Follow us on LinkedIn">LinkedIn</a></li>
+																	<li><a class="social-btn-scoopit" href="http://www.scoop.it/u/buybox" target="_blank" title="Follow us on Scoop.it">Scoop.it</a></li>
+																	<li><a class="social-btn-viadeo" href="http://www.viadeo.com/fr/company/buybox" target="_blank" title="Follow us on Viadeo">Viadeo</a></li>
+																	<li><a class="social-btn-facebook" href="http://www.facebook.com/buyboxsocialpayment" target="_blank" title="Follow us on Facebook">Facebook</a></li>
+															</ul>
+						</div>
+					</div>
+					<p class="txtcenter mt4">&copy; 2010-2014 BuyBox - All rights reserved&nbsp;|&nbsp;<a href="https://www.buybox.net/en/legal-notices/">Legal Notices</a>&nbsp;|&nbsp;<a href="https://www.buybox.net/en/terms-and-conditions/">Terms and Conditions</a></p>
+				</div>
+			</footer>
+		</div>		</div>
+		<noscript>
+			<div id="buybox-overlay" class="visible"></div>
+			<div class="nojs-notification abscenter">
+				<div class="vcenter">
+					<i class="fa fa-warning large mb1"></i>
+					<p class="ma0">This site requires the activation of Javascript in order to function properly</p>
+				</div>
+			</div>
+		</noscript>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="https://www2.buybox.net/common_tools/buybox/assets/js/vendor/jquery-plugins/transit.min.js"></script>
+		<script src="https://www2.buybox.net/common_tools/buybox/assets/js/utils.min.js"></script>
+		<script src="https://www2.buybox.net/common_tools/buybox/assets/js/custom-select.min.js"></script>
+		<script src="https://www2.buybox.net/common_tools/buybox/assets/js/lang-selector.min.js"></script>
+		<script src="https://www2.buybox.net/common_tools/buybox/assets/js/dev/notifications.js"></script>
+		<script src="https://www2.buybox.net/common_tools/buybox/assets/js/alertbox.min.js"></script>
+		<script src="https://www2.buybox.net/common_tools/buybox/assets/js/formchecker.min.js"></script>
+		<script src="https://www.buybox.net/js/responsive.js"></script>
+			<script src="https://www2.buybox.net/common_tools/buybox/assets/js/dev/simple-slideshow.js"></script>
+	<script>
+		var buybox = buybox || {};
+
+		(function($, buybox) {
+
+			$(function() {
+
+				// init lang selector
+//buybox.LangSelector('.lang-selector', 'en_UK');
+
+// init alert box
+var alertbox = new buybox.AlertBox();
+alertbox.init();
+
+// init user notifications displayer
+buybox.Notifications('[]');		
+
+// init newsletter form checking	
+var newsletterChecker = new buybox.FormChecker({
+    nokMsg: {
+		mail: "Email address invalid",
+		mandatory: "Highlighted fields have not been filled in correctly"
+    }
+});
+newsletterChecker.init($('#newsletter-form'));						
+				
+				// init each slideshows
+				var slideshows = [];
+				$('.slideshow').each(function() {
+					slideshows.push(new buybox.SimpleSlideshow({
+						autoSlideDelay: $(this).hasClass('customers-testimonials') ? 10000 : 5000,
+						wrapper: $(this)
+					}));
+				});	
+
+				// init subscribe form checking
+				var subscribeChecker = new buybox.FormChecker({
+					nokMsg: {
+						url: "URL format invalid",
+						mail: "Email address invalid",
+						mandatory: "Highlighted fields have not been filled in correctly"
+					}
+				});
+				subscribeChecker.init($('#subscribe'));
+
+				// listen document events
+				$(document).on({
+					'viewportResized': function() {
+						$.each(slideshows, function(index, slideshow) {
+							slideshow.init();
+						});
+					},
+					'formValid': function(event) {
+						//
+					},
+					'formInvalid': function(event) {
+						$(document).trigger({
+							type: 'alert',
+							message: event.message
+						});
+					}
+				});
+
+				// init responsive handler
+				buybox.Responsive({
+					menuButtons: $('.mobile-menu-btn')
+				});
+
+			});
+
+		})(jQuery, buybox);
+	</script>
+	</body>
+</html>

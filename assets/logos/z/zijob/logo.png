@@ -1,0 +1,1030 @@
+
+<!doctype html>
+<!--[if lt IE 7 ]><html lang="fr" class="no-js ie6 lt-ie7 lt-ie8 ie" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/WebPage"><![endif]-->
+<!--[if IE 7 ]><html lang="fr" class="no-js ie7 lt-ie7 lt-ie8 ie" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/WebPage"><![endif]-->
+<!--[if IE 8 ]><html lang="fr" class="no-js ie8 lt-ie8 ie" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/WebPage"><![endif]-->
+<!--[if IE 9 ]><html lang="fr" class="no-js ie9 ie" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/WebPage"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html lang="fr" class="no-js" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" itemscope itemtype="http://schema.org/WebPage"><!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<title>Emploi avec RegionsJob, offres d’emploi dans votre région</title><meta name="description" content="Trouvez un emploi avec RegionsJob, premier site d’emploi dans votre région : 26557 offres, 4808 entreprises qui recrutent, CV, actualités, conseils."/> <meta name="robots" content="index,follow" /><link rel="publisher" href="https://plus.google.com/104888823919053430787" /><meta name="google-site-verification" content="AcuErIBVbdDTdt8xFlhTdkHnAPMRp2oV3V_pkg-g1Kw" /><meta property="og:title" content="Emploi avec RegionsJob, offres d’emploi dans votre région" itemprop="name"/><meta property="og:description" content="Trouvez un emploi avec RegionsJob, premier site d’emploi dans votre région : 26557 offres, 4808 entreprises qui recrutent, CV, actualités, conseils." itemprop="description"/><meta property="og:url" content="http://www.regionsjob.com" itemprop="url" /><meta property="og:site_name" content="RegionsJob"/><meta property="og:image" content="http://ressources.regionsjob.com/2012/regionsjob/img/logo-home.png" itemprop="image"/>    <meta property="og:locale" content="fr_FR">
+    <meta property="og:type" content="website">
+
+    
+ <meta name="apple-itunes-app" content="app-id=408615037"/>
+
+    <link rel="alternate" type="application/rss+xml" title="L'actualité des entreprises qui recrutent" href="http://www.regionsjob.com/Rss/EmploiALaUne" />
+     <link href="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/img/favicon.ico" type="image/x-icon" rel="shortcut icon" />
+    <link rel="icon" type="image/png" href="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/img/favicon.png" />
+    <link href="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/css/screen.css" rel="stylesheet" type="text/css">
+    <link href="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/css/print.css" rel="stylesheet" type="text/css" media="print" />
+ 
+    <link href="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/css/pages/home.css" rel="stylesheet" type="text/css">
+    
+<!--[if lt IE 9]>
+<link rel='stylesheet' media='all' href='http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/../../fonts/css/OpenSans.css' />
+<![endif]-->
+
+<!--[if (gte  IE 9)|!(IE)]><!-->
+<link href="http://fonts.googleapis.com/css?family=Open+Sans|Open+Sans+Condensed:300normal,700normal&amp;subset=all" rel="stylesheet" type="text/css">
+<!--<![endif]-->
+    <script src="http://ressources.regionsjob.com/2012/../js/librairies/modernizr/modernizr-2.6.2.min.js"></script>  
+
+    <script src="http://ressources.regionsjob.com/2012/js/classes/smart/smart_2.00.class.min.js"></script>
+
+
+
+    <script>
+   //smart.add("smart-top-right", "2943/32552", "871", ""); // dest / page / format / ciblage
+   //smart.add("smart-bottom", "2943/32552", "14658", ""); // dest / page / format / ciblage -> catfish
+    </script>
+</head>    
+
+<body class="regionsjob home">
+    
+<header id="header" class="  texture">
+   	<div class="row container">
+        <div class="col size12of12" itemscope itemtype="http://schema.org/Organization">
+            
+                         <h1 class="logo rj home"><a itemprop="url" href="/"><img itemprop="logo" src="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/img/logo-home.png" alt="RegionsJob, partout où vous vivrez" /></a></h1>
+            
+            
+      
+           
+                <div id="recherche" class="offres"> 
+ <form action="/emploi/recherche" method="post" class="col2">
+    <fieldset>
+            <legend>
+                <span class="ico ico-recherche">&nbsp;</span>26557 offres - 4808 entreprises
+            </legend>
+        
+      <!--  <label for="recherche_ville">Ville, département ou CP</label>-->
+       <input class="size1of4" data-autocomplete-url="/Utils/GetVille" data-focus="False" data-val-default="Ville, département ou CP" id="Ville" name="Ville" type="text" value="" />
+
+       <!-- <label for="recherche_fonction">Fonction</label>-->
+        <select name="FonctionId" id="recherche_fonction" data-val-default="0" data-min-width="320" class="size1of4 selectboxit">
+            <option value="0" >Fonction</option>
+            <option value="4"  rel="popover" data-icon="ico-i right" data-content="Acheteur, Responsable Service Achat, Choix des produits, Négociation prix et délais, Prospection de nouveaux fournisseurs...">Achat</option>
+            <option value="20"  rel="popover" data-icon="ico-i right" data-content="Secrétaire, Assistant Commercial, Archiviste, Documentaliste, Téléconseiller en prise de rdv sans vente...">Assistanat/Adm.ventes/Accueil</option>
+            <option value="1"  rel="popover" data-icon="ico-i right" data-content="Maçon, Plombier, Chef de Chantier, Grutier, Conducteur d’Engins de Chantier, Poseur de Cuisine, Coordonnateur SPS, Technicien Amiante...">BTP - Gros Oeuvre/Second Oeuvre</option>
+            <option value="37"  rel="popover" data-icon="ico-i right" data-content="Architecte, Projeteur, Métreur, Economiste de la Construction, Cartographe, Géomètre, Technicien d’Etude de Prix, Diagnostiqueur Immobilier, BTP (archi, conception), Maitrise d’Oeuvre/d’Ouvrage...">Bureau d'Etudes/R&amp;D/BTP archi/conception</option>
+            <option value="39"  rel="popover" data-icon="ico-i right" data-content="Vente et/ou Démonstration de Produits Techniques...">Commercial - Technico-Commercial</option>
+            <option value="31"  rel="popover" data-icon="ico-i right" data-content="Commercial Terrain, Vente aux Particuliers, Télévendeur, Télévente Particuliers si prospection et vente...">Commercial auprès des particuliers</option>
+            <option value="30"  rel="popover" data-icon="ico-i right" data-content="Commercial Terrain, Vente aux Professionnels, Télévendeur, Télévente Professionnels si prospection et vente...">Commercial auprès des professionnels</option>
+            <option value="5"  rel="popover" data-icon="ico-i right" data-content="Vendeur Conseil, Vendeur Concepteur, Conseiller de Vente...">Commercial-Vendeur en magasin</option>
+            <option value="6"  rel="popover" data-icon="ico-i right" data-content="Comptabilité, Gestion, Finance, Audit, Economie, Statistiques...">Compta/Gestion/Finance/Audit</option>
+            <option value="34"  rel="popover" data-icon="ico-i right" data-content="Directeur, Gérant, Responsable d'Etablissement ou de Magasin ou d’Agence ou de Restaurant, Franchisé...">Direction/Resp. Co. et Centre de Profit</option>
+            <option value="21"  rel="popover" data-icon="ico-i right" data-content="Commerce International, Export, Import, Langues, Trilingue, Traduction...">Import/Export/International</option>
+            <option value="22"  rel="popover" data-icon="ico-i right" data-content="Embarqué, Temps Réel, DSP...">Informatique - Dével. Hardware</option>
+            <option value="7"  rel="popover" data-icon="ico-i right" data-content="Développement tous langages, Internet,  Web...">Informatique - Développement</option>
+            <option value="9"  rel="popover" data-icon="ico-i right" data-content="Système d’Information, Informatique de Gestion, Administrateur de Base de Données...">Informatique - Systèmes d'Information</option>
+            <option value="10"  rel="popover" data-icon="ico-i right" data-content="Systèmes d'exploitation, Réseaux, Administrateur Système, Maintenance de Parc...">Informatique - Systèmes/Réseaux</option>
+            <option value="11"  rel="popover" data-icon="ico-i right" data-content="Agroalimentaire, Agricole, Agriculture...">Ingénierie - Agro/Agri</option>
+            <option value="12"  rel="popover" data-icon="ico-i right" data-content="Technicien Laboratoire, Biologiste, Chimie, Pharmacie, Biologie, Energie, Génie Chimie, Parapharmacie, Nucléaire...">Ingénierie - Chimie/Pharmacie/Bio.</option>
+            <option value="13"  rel="popover" data-icon="ico-i right" data-content="Electrotechnique, Automatique, Robotique, Génie Electrique, Génie Climatique...">Ingénierie - Electro-tech./Automat.</option>
+            <option value="14"  rel="popover" data-icon="ico-i right" data-content="Mécanique, Aéronautique, Acoustique, Physique, Génie Industriel...">Ingénierie - Mécanique/Aéron.</option>
+            <option value="15"  rel="popover" data-icon="ico-i right" data-content="Opérateur Salle Blanche, Télécoms, Traitement du Signal, Electronique, Optronique, GSM, IRM, mécatronique...">Ingénierie - Telecoms/Electronique</option>
+            <option value="44"  rel="popover" data-icon="ico-i right" data-content="Avocat, Juriste, Droit...">Juridique/Droit</option>
+            <option value="36"  rel="popover" data-icon="ico-i right" data-content="Approvisionneur, Logistique, Transport, Ordonnancement, Supply Chain, Stocks...">Logistique/Métiers du Transport </option>
+            <option value="16"  rel="popover" data-icon="ico-i right" data-content="Journaliste, Auteur, Rédacteur, Chef de Produit, Attaché de Presse, Community Manager, Webdesigner, Créateur, Publicité, Médias, Chaîne Graphique, Webmarketing, Prévisions des Ventes...">Marketing/Communication/Graphisme</option>
+            <option value="45"  rel="popover" data-icon="ico-i right" data-content="Chef de Rayon, Employé Libre Service, Hôte de Caisse, Merchandiseur, Responsable de Magasin, Retoucheur, Boulanger, Boucher...">Métiers de la distribution - Management/Resp.</option>
+            <option value="40"  rel="popover" data-icon="ico-i right" data-content="Fonction Publique d’Etat, Territoriale, Hospitalière...">Métiers de la Fonction Publique </option>
+            <option value="43"  rel="popover" data-icon="ico-i right" data-content="Commerciaux Habitat,  Gestionnaire de Copropriétés, Négociateur Location, Régisseur de Résidence, Chargé d’Opération Immobilière...">Négociation/Gestion immobilière</option>
+            <option value="17"  rel="popover" data-icon="ico-i right" data-content="Gestion de Production, Installation, Maintenance Préventive et Curative, GPAO, GMAO...">Production - Gestion/Maintenance</option>
+            <option value="41"  rel="popover" data-icon="ico-i right" data-content="Agent de Production, Chaudronnier, Soudeur, Fabrication, Conditionnement, Ligne de Production...">Production - Opérateur/Manoeuvre</option>
+            <option value="18"  rel="popover" data-icon="ico-i right" data-content="Agent de Sécurité, Qualité, Normes, Méthodes, Sécurité, Environnement, Traitement de l’air et/ou de l’eau, CHSCT, Hygiène...">Qualité/Hygiène/Sécurité/Environnement</option>
+            <option value="26"  rel="popover" data-icon="ico-i right" data-content="Restauration, Tourisme, Hôtellerie et Loisirs">Restauration/Tourisme/Hôtellerie/Loisirs</option>
+            <option value="19"  rel="popover" data-icon="ico-i right" data-content="Ressources Humaines, Gestion du Personnel, Paie, Formation...">RH/Personnel/Formation</option>
+            <option value="25"  rel="popover" data-icon="ico-i right" data-content="Sage-Femme, Infirmier, Kinésithérapeute, Pharmacien, Aide-Soignant, Assistant Social, Educateur, Vétérinaire...">Santé/Social</option>
+            <option value="35"  rel="popover" data-icon="ico-i right" data-content="Téléacteur/Télé-Enquêteur, SAV : service spécial d'une entreprise, assurant la mise en marche, l'entretien et la réparation d'un bien, Hotline : intervention technique, Support Technique...">SAV/Hotline/Téléconseiller</option>
+            <option value="42"  rel="popover" data-icon="ico-i right" data-content="Nettoyage, Autres Services aux Entreprises, Service à la Personne...">Services à la personne/aux entreprises</option>
+        </select>
+
+       <!-- <label for="recherche_qualification">
+            Qualification
+        </label>-->
+        <select name="QualifId" id="recherche_qualification" data-val-default="0" data-min-width="260" class="size1of4">
+            <option value="0" >Niveau de qualification</option>
+            <option value="7" >BEP/CAP</option>
+            <option value="4" >Employé/Opérateur/Ouvrier Spe/Bac</option>
+            <option value="3" >Technicien/Employé Bac +2</option>
+            <option value="6" >Agent de maîtrise/Bac +3/4</option>
+            <option value="2" >Ingénieur/Cadre/Bac +5</option>
+            <option value="1" >Cadre dirigeant</option>
+        </select>
+        <input data-default="" id="Word" name="Word" type="hidden" value="" />
+        
+            <input type="submit" class="size1of4 submit" value="Rechercher une offre" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'Bouton', 'Rechercher emploi Home']);" />
+       
+    </fieldset>
+     </form>
+</div>
+        </div>
+    </div>
+   
+</header>
+
+        <div  id="container" class="container relative">
+        <div id="smart-top" class="col size12of12 megaban"></div>
+        <div id="body">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row">   
+
+    <div class="col size8of12">
+        
+        <h1 class="first">tout l'emploi dans votre région</h1>
+        <div id="carte" data-responsive="true">
+             <span class="map">
+                <map name="regions" id="regions-ouest">   
+                    <img src="http://ressources.regionsjob.com/2012/img/regions/ouest.png" alt="regions" class="responsive" usemap="#regions" width="294" height="318" />
+                    <area href="http://www.ouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'OuestJob']);" alt="region ouest" data-reference="ouest" shape="poly" coords="24,74,36,66,47,78,69,76,61,45,78,43,81,55,86,53,99,62,111,53,126,80,122,110,111,115,108,127,112,137,118,135,130,152,125,159,126,168,105,198,88,196,80,181,75,176,76,162,63,154,51,127,59,126,54,120,48,123,49,117,41,114,36,117,35,109,17,102,5,106,1,94,7,91,2,83,9,75,24,73"/>
+<area href="http://www.sudouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'SudOuestJob']);" alt="region sudouest" data-reference="sudouest" shape="poly" coords="76,185,68,250,61,256,70,269,81,271,85,277,93,276,97,283,109,285,122,279,146,291,158,279,153,278,147,262,150,255,170,255,170,250,189,239,174,206,162,214,157,203,151,207,136,196,135,187,128,181,122,183,121,177,107,198,88,197,77,187"/>
+<area href="http://www.nordjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'NordJob']);" alt="region nord" data-reference="nord" shape="poly" coords="114,39,130,36,146,21,145,8,166,5,168,10,183,13,184,20,201,25,220,40,220,60,195,53,189,73,178,64,166,64,152,62,143,70,125,76,112,53"/>
+<area href="http://www.centrejob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'CentreJob']);" alt="region centre" data-reference="centre" shape="poly" coords="126,76,122,111,111,116,109,126,113,136,118,135,131,153,126,158,127,169,121,177,124,184,128,181,134,189,137,197,150,207,155,203,162,213,174,205,174,210,188,204,190,209,199,210,211,194,201,188,200,180,193,172,198,169,197,162,201,155,191,142,181,141,172,116,174,114,174,108,180,99,174,93,164,101,158,96,151,90,146,83,144,79,143,71,127,77,128,74"/>
+<area href="http://www.estjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'EstJob']);" alt="region est" data-reference="est" shape="poly" coords="292,63,287,83,285,113,269,117,260,134,254,140,249,157,247,153,243,158,238,155,232,151,231,133,222,135,201,126,198,143,182,140,172,115,180,101,174,93,178,87,183,86,189,73,192,58,196,54,207,57,218,61,219,44,232,46,233,52,256,52,261,63,280,57,282,61,291,62"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="267,279,281,273,284,261,287,296,282,316,269,309,269,297,265,299,266,281"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="145,291,162,295,182,290,178,274,182,263,189,266,205,254,230,257,249,268,271,261,271,256,288,244,294,230,277,229,275,210,265,196,258,195,259,199,247,208,239,216,243,224,239,229,231,226,226,228,210,223,199,210,187,206,176,210,189,239,172,249,170,254,146,257,154,279,147,291"/>
+<area href="http://www.parisjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'ParisJob']);" alt="region paris" data-reference="paris" shape="poly" coords="145,69,154,61,178,63,188,71,183,84,166,101,142,81,145,69"/>
+<area href="http://www.rhonealpesjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'RhoneAlpesJob']);" alt="region rhonealpes" data-reference="rhonealpes" shape="poly" coords="271,173,275,169,270,164,268,155,258,156,258,162,247,163,250,155,247,154,244,157,235,152,232,131,224,136,203,127,199,142,190,141,200,154,196,168,193,171,200,180,201,186,211,193,199,210,210,223,226,228,231,225,238,228,242,225,240,215,247,206,257,200,258,194,266,198,277,184,272,173"/>
+                </map>
+                <map name="regions" id="regions-sudouest" style="position:absolute;left:-5000px;">    
+                    <img src="http://ressources.regionsjob.com/2012/img/regions/sudouest.png" alt="regions" class="responsive" usemap="#regions" width="294" height="318" />
+                    <area href="http://www.ouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'OuestJob']);" alt="region ouest" data-reference="ouest" shape="poly" coords="24,74,36,66,47,78,69,76,61,45,78,43,81,55,86,53,99,62,111,53,126,80,122,110,111,115,108,127,112,137,118,135,130,152,125,159,126,168,105,198,88,196,80,181,75,176,76,162,63,154,51,127,59,126,54,120,48,123,49,117,41,114,36,117,35,109,17,102,5,106,1,94,7,91,2,83,9,75,24,73"/>
+<area href="http://www.sudouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'SudOuestJob']);" alt="region sudouest" data-reference="sudouest" shape="poly" coords="76,185,68,250,61,256,70,269,81,271,85,277,93,276,97,283,109,285,122,279,146,291,158,279,153,278,147,262,150,255,170,255,170,250,189,239,174,206,162,214,157,203,151,207,136,196,135,187,128,181,122,183,121,177,107,198,88,197,77,187"/>
+<area href="http://www.nordjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'NordJob']);" alt="region nord" data-reference="nord" shape="poly" coords="114,39,130,36,146,21,145,8,166,5,168,10,183,13,184,20,201,25,220,40,220,60,195,53,189,73,178,64,166,64,152,62,143,70,125,76,112,53"/>
+<area href="http://www.centrejob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'CentreJob']);" alt="region centre" data-reference="centre" shape="poly" coords="126,76,122,111,111,116,109,126,113,136,118,135,131,153,126,158,127,169,121,177,124,184,128,181,134,189,137,197,150,207,155,203,162,213,174,205,174,210,188,204,190,209,199,210,211,194,201,188,200,180,193,172,198,169,197,162,201,155,191,142,181,141,172,116,174,114,174,108,180,99,174,93,164,101,158,96,151,90,146,83,144,79,143,71,127,77,128,74"/>
+<area href="http://www.estjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'EstJob']);" alt="region est" data-reference="est" shape="poly" coords="292,63,287,83,285,113,269,117,260,134,254,140,249,157,247,153,243,158,238,155,232,151,231,133,222,135,201,126,198,143,182,140,172,115,180,101,174,93,178,87,183,86,189,73,192,58,196,54,207,57,218,61,219,44,232,46,233,52,256,52,261,63,280,57,282,61,291,62"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="267,279,281,273,284,261,287,296,282,316,269,309,269,297,265,299,266,281"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="145,291,162,295,182,290,178,274,182,263,189,266,205,254,230,257,249,268,271,261,271,256,288,244,294,230,277,229,275,210,265,196,258,195,259,199,247,208,239,216,243,224,239,229,231,226,226,228,210,223,199,210,187,206,176,210,189,239,172,249,170,254,146,257,154,279,147,291"/>
+<area href="http://www.parisjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'ParisJob']);" alt="region paris" data-reference="paris" shape="poly" coords="145,69,154,61,178,63,188,71,183,84,166,101,142,81,145,69"/>
+<area href="http://www.rhonealpesjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'RhoneAlpesJob']);" alt="region rhonealpes" data-reference="rhonealpes" shape="poly" coords="271,173,275,169,270,164,268,155,258,156,258,162,247,163,250,155,247,154,244,157,235,152,232,131,224,136,203,127,199,142,190,141,200,154,196,168,193,171,200,180,201,186,211,193,199,210,210,223,226,228,231,225,238,228,242,225,240,215,247,206,257,200,258,194,266,198,277,184,272,173"/>
+                </map>
+                <map name="regions" id="regions-nord" style="position:absolute;left:-5000px;">  
+                    <img src="http://ressources.regionsjob.com/2012/img/regions/nord.png" alt="regions" class="responsive" usemap="#regions" width="294" height="318" />
+                    <area href="http://www.ouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'OuestJob']);" alt="region ouest" data-reference="ouest" shape="poly" coords="24,74,36,66,47,78,69,76,61,45,78,43,81,55,86,53,99,62,111,53,126,80,122,110,111,115,108,127,112,137,118,135,130,152,125,159,126,168,105,198,88,196,80,181,75,176,76,162,63,154,51,127,59,126,54,120,48,123,49,117,41,114,36,117,35,109,17,102,5,106,1,94,7,91,2,83,9,75,24,73"/>
+<area href="http://www.sudouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'SudOuestJob']);" alt="region sudouest" data-reference="sudouest" shape="poly" coords="76,185,68,250,61,256,70,269,81,271,85,277,93,276,97,283,109,285,122,279,146,291,158,279,153,278,147,262,150,255,170,255,170,250,189,239,174,206,162,214,157,203,151,207,136,196,135,187,128,181,122,183,121,177,107,198,88,197,77,187"/>
+<area href="http://www.nordjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'NordJob']);" alt="region nord" data-reference="nord" shape="poly" coords="114,39,130,36,146,21,145,8,166,5,168,10,183,13,184,20,201,25,220,40,220,60,195,53,189,73,178,64,166,64,152,62,143,70,125,76,112,53"/>
+<area href="http://www.centrejob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'CentreJob']);" alt="region centre" data-reference="centre" shape="poly" coords="126,76,122,111,111,116,109,126,113,136,118,135,131,153,126,158,127,169,121,177,124,184,128,181,134,189,137,197,150,207,155,203,162,213,174,205,174,210,188,204,190,209,199,210,211,194,201,188,200,180,193,172,198,169,197,162,201,155,191,142,181,141,172,116,174,114,174,108,180,99,174,93,164,101,158,96,151,90,146,83,144,79,143,71,127,77,128,74"/>
+<area href="http://www.estjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'EstJob']);" alt="region est" data-reference="est" shape="poly" coords="292,63,287,83,285,113,269,117,260,134,254,140,249,157,247,153,243,158,238,155,232,151,231,133,222,135,201,126,198,143,182,140,172,115,180,101,174,93,178,87,183,86,189,73,192,58,196,54,207,57,218,61,219,44,232,46,233,52,256,52,261,63,280,57,282,61,291,62"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="267,279,281,273,284,261,287,296,282,316,269,309,269,297,265,299,266,281"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="145,291,162,295,182,290,178,274,182,263,189,266,205,254,230,257,249,268,271,261,271,256,288,244,294,230,277,229,275,210,265,196,258,195,259,199,247,208,239,216,243,224,239,229,231,226,226,228,210,223,199,210,187,206,176,210,189,239,172,249,170,254,146,257,154,279,147,291"/>
+<area href="http://www.parisjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'ParisJob']);" alt="region paris" data-reference="paris" shape="poly" coords="145,69,154,61,178,63,188,71,183,84,166,101,142,81,145,69"/>
+<area href="http://www.rhonealpesjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'RhoneAlpesJob']);" alt="region rhonealpes" data-reference="rhonealpes" shape="poly" coords="271,173,275,169,270,164,268,155,258,156,258,162,247,163,250,155,247,154,244,157,235,152,232,131,224,136,203,127,199,142,190,141,200,154,196,168,193,171,200,180,201,186,211,193,199,210,210,223,226,228,231,225,238,228,242,225,240,215,247,206,257,200,258,194,266,198,277,184,272,173"/>
+                </map>
+                <map name="regions" id="regions-centre" style="position:absolute;left:-5000px;">   
+                    <img src="http://ressources.regionsjob.com/2012/img/regions/centre.png" alt="regions" class="responsive" usemap="#regions" width="294" height="318" />
+                    <area href="http://www.ouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'OuestJob']);" alt="region ouest" data-reference="ouest" shape="poly" coords="24,74,36,66,47,78,69,76,61,45,78,43,81,55,86,53,99,62,111,53,126,80,122,110,111,115,108,127,112,137,118,135,130,152,125,159,126,168,105,198,88,196,80,181,75,176,76,162,63,154,51,127,59,126,54,120,48,123,49,117,41,114,36,117,35,109,17,102,5,106,1,94,7,91,2,83,9,75,24,73"/>
+<area href="http://www.sudouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'SudOuestJob']);" alt="region sudouest" data-reference="sudouest" shape="poly" coords="76,185,68,250,61,256,70,269,81,271,85,277,93,276,97,283,109,285,122,279,146,291,158,279,153,278,147,262,150,255,170,255,170,250,189,239,174,206,162,214,157,203,151,207,136,196,135,187,128,181,122,183,121,177,107,198,88,197,77,187"/>
+<area href="http://www.nordjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'NordJob']);" alt="region nord" data-reference="nord" shape="poly" coords="114,39,130,36,146,21,145,8,166,5,168,10,183,13,184,20,201,25,220,40,220,60,195,53,189,73,178,64,166,64,152,62,143,70,125,76,112,53"/>
+<area href="http://www.centrejob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'CentreJob']);" alt="region centre" data-reference="centre" shape="poly" coords="126,76,122,111,111,116,109,126,113,136,118,135,131,153,126,158,127,169,121,177,124,184,128,181,134,189,137,197,150,207,155,203,162,213,174,205,174,210,188,204,190,209,199,210,211,194,201,188,200,180,193,172,198,169,197,162,201,155,191,142,181,141,172,116,174,114,174,108,180,99,174,93,164,101,158,96,151,90,146,83,144,79,143,71,127,77,128,74"/>
+<area href="http://www.estjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'EstJob']);" alt="region est" data-reference="est" shape="poly" coords="292,63,287,83,285,113,269,117,260,134,254,140,249,157,247,153,243,158,238,155,232,151,231,133,222,135,201,126,198,143,182,140,172,115,180,101,174,93,178,87,183,86,189,73,192,58,196,54,207,57,218,61,219,44,232,46,233,52,256,52,261,63,280,57,282,61,291,62"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="267,279,281,273,284,261,287,296,282,316,269,309,269,297,265,299,266,281"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="145,291,162,295,182,290,178,274,182,263,189,266,205,254,230,257,249,268,271,261,271,256,288,244,294,230,277,229,275,210,265,196,258,195,259,199,247,208,239,216,243,224,239,229,231,226,226,228,210,223,199,210,187,206,176,210,189,239,172,249,170,254,146,257,154,279,147,291"/>
+<area href="http://www.parisjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'ParisJob']);" alt="region paris" data-reference="paris" shape="poly" coords="145,69,154,61,178,63,188,71,183,84,166,101,142,81,145,69"/>
+<area href="http://www.rhonealpesjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'RhoneAlpesJob']);" alt="region rhonealpes" data-reference="rhonealpes" shape="poly" coords="271,173,275,169,270,164,268,155,258,156,258,162,247,163,250,155,247,154,244,157,235,152,232,131,224,136,203,127,199,142,190,141,200,154,196,168,193,171,200,180,201,186,211,193,199,210,210,223,226,228,231,225,238,228,242,225,240,215,247,206,257,200,258,194,266,198,277,184,272,173"/>
+                </map>
+                <map name="regions" id="regions-est" style="position:absolute;left:-5000px;"> 
+                    <img src="http://ressources.regionsjob.com/2012/img/regions/est.png" alt="regions" class="responsive" usemap="#regions" width="294" height="318" />
+                    <area href="http://www.ouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'OuestJob']);" alt="region ouest" data-reference="ouest" shape="poly" coords="24,74,36,66,47,78,69,76,61,45,78,43,81,55,86,53,99,62,111,53,126,80,122,110,111,115,108,127,112,137,118,135,130,152,125,159,126,168,105,198,88,196,80,181,75,176,76,162,63,154,51,127,59,126,54,120,48,123,49,117,41,114,36,117,35,109,17,102,5,106,1,94,7,91,2,83,9,75,24,73"/>
+<area href="http://www.sudouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'SudOuestJob']);" alt="region sudouest" data-reference="sudouest" shape="poly" coords="76,185,68,250,61,256,70,269,81,271,85,277,93,276,97,283,109,285,122,279,146,291,158,279,153,278,147,262,150,255,170,255,170,250,189,239,174,206,162,214,157,203,151,207,136,196,135,187,128,181,122,183,121,177,107,198,88,197,77,187"/>
+<area href="http://www.nordjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'NordJob']);" alt="region nord" data-reference="nord" shape="poly" coords="114,39,130,36,146,21,145,8,166,5,168,10,183,13,184,20,201,25,220,40,220,60,195,53,189,73,178,64,166,64,152,62,143,70,125,76,112,53"/>
+<area href="http://www.centrejob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'CentreJob']);" alt="region centre" data-reference="centre" shape="poly" coords="126,76,122,111,111,116,109,126,113,136,118,135,131,153,126,158,127,169,121,177,124,184,128,181,134,189,137,197,150,207,155,203,162,213,174,205,174,210,188,204,190,209,199,210,211,194,201,188,200,180,193,172,198,169,197,162,201,155,191,142,181,141,172,116,174,114,174,108,180,99,174,93,164,101,158,96,151,90,146,83,144,79,143,71,127,77,128,74"/>
+<area href="http://www.estjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'EstJob']);" alt="region est" data-reference="est" shape="poly" coords="292,63,287,83,285,113,269,117,260,134,254,140,249,157,247,153,243,158,238,155,232,151,231,133,222,135,201,126,198,143,182,140,172,115,180,101,174,93,178,87,183,86,189,73,192,58,196,54,207,57,218,61,219,44,232,46,233,52,256,52,261,63,280,57,282,61,291,62"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="267,279,281,273,284,261,287,296,282,316,269,309,269,297,265,299,266,281"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="145,291,162,295,182,290,178,274,182,263,189,266,205,254,230,257,249,268,271,261,271,256,288,244,294,230,277,229,275,210,265,196,258,195,259,199,247,208,239,216,243,224,239,229,231,226,226,228,210,223,199,210,187,206,176,210,189,239,172,249,170,254,146,257,154,279,147,291"/>
+<area href="http://www.parisjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'ParisJob']);" alt="region paris" data-reference="paris" shape="poly" coords="145,69,154,61,178,63,188,71,183,84,166,101,142,81,145,69"/>
+<area href="http://www.rhonealpesjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'RhoneAlpesJob']);" alt="region rhonealpes" data-reference="rhonealpes" shape="poly" coords="271,173,275,169,270,164,268,155,258,156,258,162,247,163,250,155,247,154,244,157,235,152,232,131,224,136,203,127,199,142,190,141,200,154,196,168,193,171,200,180,201,186,211,193,199,210,210,223,226,228,231,225,238,228,242,225,240,215,247,206,257,200,258,194,266,198,277,184,272,173"/>
+                </map>
+                <map name="regions" id="regions-paca" style="position:absolute;left:-5000px;">  
+                    <img src="http://ressources.regionsjob.com/2012/img/regions/paca.png" alt="regions" class="responsive" usemap="#regions" width="294" height="318" />
+                    <area href="http://www.ouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'OuestJob']);" alt="region ouest" data-reference="ouest" shape="poly" coords="24,74,36,66,47,78,69,76,61,45,78,43,81,55,86,53,99,62,111,53,126,80,122,110,111,115,108,127,112,137,118,135,130,152,125,159,126,168,105,198,88,196,80,181,75,176,76,162,63,154,51,127,59,126,54,120,48,123,49,117,41,114,36,117,35,109,17,102,5,106,1,94,7,91,2,83,9,75,24,73"/>
+<area href="http://www.sudouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'SudOuestJob']);" alt="region sudouest" data-reference="sudouest" shape="poly" coords="76,185,68,250,61,256,70,269,81,271,85,277,93,276,97,283,109,285,122,279,146,291,158,279,153,278,147,262,150,255,170,255,170,250,189,239,174,206,162,214,157,203,151,207,136,196,135,187,128,181,122,183,121,177,107,198,88,197,77,187"/>
+<area href="http://www.nordjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'NordJob']);" alt="region nord" data-reference="nord" shape="poly" coords="114,39,130,36,146,21,145,8,166,5,168,10,183,13,184,20,201,25,220,40,220,60,195,53,189,73,178,64,166,64,152,62,143,70,125,76,112,53"/>
+<area href="http://www.centrejob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'CentreJob']);" alt="region centre" data-reference="centre" shape="poly" coords="126,76,122,111,111,116,109,126,113,136,118,135,131,153,126,158,127,169,121,177,124,184,128,181,134,189,137,197,150,207,155,203,162,213,174,205,174,210,188,204,190,209,199,210,211,194,201,188,200,180,193,172,198,169,197,162,201,155,191,142,181,141,172,116,174,114,174,108,180,99,174,93,164,101,158,96,151,90,146,83,144,79,143,71,127,77,128,74"/>
+<area href="http://www.estjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'EstJob']);" alt="region est" data-reference="est" shape="poly" coords="292,63,287,83,285,113,269,117,260,134,254,140,249,157,247,153,243,158,238,155,232,151,231,133,222,135,201,126,198,143,182,140,172,115,180,101,174,93,178,87,183,86,189,73,192,58,196,54,207,57,218,61,219,44,232,46,233,52,256,52,261,63,280,57,282,61,291,62"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="267,279,281,273,284,261,287,296,282,316,269,309,269,297,265,299,266,281"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="145,291,162,295,182,290,178,274,182,263,189,266,205,254,230,257,249,268,271,261,271,256,288,244,294,230,277,229,275,210,265,196,258,195,259,199,247,208,239,216,243,224,239,229,231,226,226,228,210,223,199,210,187,206,176,210,189,239,172,249,170,254,146,257,154,279,147,291"/>
+<area href="http://www.parisjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'ParisJob']);" alt="region paris" data-reference="paris" shape="poly" coords="145,69,154,61,178,63,188,71,183,84,166,101,142,81,145,69"/>
+<area href="http://www.rhonealpesjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'RhoneAlpesJob']);" alt="region rhonealpes" data-reference="rhonealpes" shape="poly" coords="271,173,275,169,270,164,268,155,258,156,258,162,247,163,250,155,247,154,244,157,235,152,232,131,224,136,203,127,199,142,190,141,200,154,196,168,193,171,200,180,201,186,211,193,199,210,210,223,226,228,231,225,238,228,242,225,240,215,247,206,257,200,258,194,266,198,277,184,272,173"/>
+                </map>
+                <map name="regions" id="regions-paris" style="position:absolute;left:-5000px;">   
+                    <img src="http://ressources.regionsjob.com/2012/img/regions/paris.png" alt="regions" class="responsive" usemap="#regions" width="294" height="318" />
+                    <area href="http://www.ouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'OuestJob']);" alt="region ouest" data-reference="ouest" shape="poly" coords="24,74,36,66,47,78,69,76,61,45,78,43,81,55,86,53,99,62,111,53,126,80,122,110,111,115,108,127,112,137,118,135,130,152,125,159,126,168,105,198,88,196,80,181,75,176,76,162,63,154,51,127,59,126,54,120,48,123,49,117,41,114,36,117,35,109,17,102,5,106,1,94,7,91,2,83,9,75,24,73"/>
+<area href="http://www.sudouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'SudOuestJob']);" alt="region sudouest" data-reference="sudouest" shape="poly" coords="76,185,68,250,61,256,70,269,81,271,85,277,93,276,97,283,109,285,122,279,146,291,158,279,153,278,147,262,150,255,170,255,170,250,189,239,174,206,162,214,157,203,151,207,136,196,135,187,128,181,122,183,121,177,107,198,88,197,77,187"/>
+<area href="http://www.nordjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'NordJob']);" alt="region nord" data-reference="nord" shape="poly" coords="114,39,130,36,146,21,145,8,166,5,168,10,183,13,184,20,201,25,220,40,220,60,195,53,189,73,178,64,166,64,152,62,143,70,125,76,112,53"/>
+<area href="http://www.centrejob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'CentreJob']);" alt="region centre" data-reference="centre" shape="poly" coords="126,76,122,111,111,116,109,126,113,136,118,135,131,153,126,158,127,169,121,177,124,184,128,181,134,189,137,197,150,207,155,203,162,213,174,205,174,210,188,204,190,209,199,210,211,194,201,188,200,180,193,172,198,169,197,162,201,155,191,142,181,141,172,116,174,114,174,108,180,99,174,93,164,101,158,96,151,90,146,83,144,79,143,71,127,77,128,74"/>
+<area href="http://www.estjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'EstJob']);" alt="region est" data-reference="est" shape="poly" coords="292,63,287,83,285,113,269,117,260,134,254,140,249,157,247,153,243,158,238,155,232,151,231,133,222,135,201,126,198,143,182,140,172,115,180,101,174,93,178,87,183,86,189,73,192,58,196,54,207,57,218,61,219,44,232,46,233,52,256,52,261,63,280,57,282,61,291,62"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="267,279,281,273,284,261,287,296,282,316,269,309,269,297,265,299,266,281"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="145,291,162,295,182,290,178,274,182,263,189,266,205,254,230,257,249,268,271,261,271,256,288,244,294,230,277,229,275,210,265,196,258,195,259,199,247,208,239,216,243,224,239,229,231,226,226,228,210,223,199,210,187,206,176,210,189,239,172,249,170,254,146,257,154,279,147,291"/>
+<area href="http://www.parisjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'ParisJob']);" alt="region paris" data-reference="paris" shape="poly" coords="145,69,154,61,178,63,188,71,183,84,166,101,142,81,145,69"/>
+<area href="http://www.rhonealpesjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'RhoneAlpesJob']);" alt="region rhonealpes" data-reference="rhonealpes" shape="poly" coords="271,173,275,169,270,164,268,155,258,156,258,162,247,163,250,155,247,154,244,157,235,152,232,131,224,136,203,127,199,142,190,141,200,154,196,168,193,171,200,180,201,186,211,193,199,210,210,223,226,228,231,225,238,228,242,225,240,215,247,206,257,200,258,194,266,198,277,184,272,173"/>
+                </map>
+                <map name="regions" id="regions-rhonealpes" style="position:absolute;left:-5000px;">   
+                    <img src="http://ressources.regionsjob.com/2012/img/regions/rhonealpes.png" alt="regions" class="responsive" usemap="#regions" width="294" height="318" />
+                    <area href="http://www.ouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'OuestJob']);" alt="region ouest" data-reference="ouest" shape="poly" coords="24,74,36,66,47,78,69,76,61,45,78,43,81,55,86,53,99,62,111,53,126,80,122,110,111,115,108,127,112,137,118,135,130,152,125,159,126,168,105,198,88,196,80,181,75,176,76,162,63,154,51,127,59,126,54,120,48,123,49,117,41,114,36,117,35,109,17,102,5,106,1,94,7,91,2,83,9,75,24,73"/>
+<area href="http://www.sudouestjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'SudOuestJob']);" alt="region sudouest" data-reference="sudouest" shape="poly" coords="76,185,68,250,61,256,70,269,81,271,85,277,93,276,97,283,109,285,122,279,146,291,158,279,153,278,147,262,150,255,170,255,170,250,189,239,174,206,162,214,157,203,151,207,136,196,135,187,128,181,122,183,121,177,107,198,88,197,77,187"/>
+<area href="http://www.nordjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'NordJob']);" alt="region nord" data-reference="nord" shape="poly" coords="114,39,130,36,146,21,145,8,166,5,168,10,183,13,184,20,201,25,220,40,220,60,195,53,189,73,178,64,166,64,152,62,143,70,125,76,112,53"/>
+<area href="http://www.centrejob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'CentreJob']);" alt="region centre" data-reference="centre" shape="poly" coords="126,76,122,111,111,116,109,126,113,136,118,135,131,153,126,158,127,169,121,177,124,184,128,181,134,189,137,197,150,207,155,203,162,213,174,205,174,210,188,204,190,209,199,210,211,194,201,188,200,180,193,172,198,169,197,162,201,155,191,142,181,141,172,116,174,114,174,108,180,99,174,93,164,101,158,96,151,90,146,83,144,79,143,71,127,77,128,74"/>
+<area href="http://www.estjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'EstJob']);" alt="region est" data-reference="est" shape="poly" coords="292,63,287,83,285,113,269,117,260,134,254,140,249,157,247,153,243,158,238,155,232,151,231,133,222,135,201,126,198,143,182,140,172,115,180,101,174,93,178,87,183,86,189,73,192,58,196,54,207,57,218,61,219,44,232,46,233,52,256,52,261,63,280,57,282,61,291,62"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="267,279,281,273,284,261,287,296,282,316,269,309,269,297,265,299,266,281"/>
+<area href="http://www.pacajob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);" alt="region paca" data-reference="paca" shape="poly" coords="145,291,162,295,182,290,178,274,182,263,189,266,205,254,230,257,249,268,271,261,271,256,288,244,294,230,277,229,275,210,265,196,258,195,259,199,247,208,239,216,243,224,239,229,231,226,226,228,210,223,199,210,187,206,176,210,189,239,172,249,170,254,146,257,154,279,147,291"/>
+<area href="http://www.parisjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'ParisJob']);" alt="region paris" data-reference="paris" shape="poly" coords="145,69,154,61,178,63,188,71,183,84,166,101,142,81,145,69"/>
+<area href="http://www.rhonealpesjob.com/" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'RhoneAlpesJob']);" alt="region rhonealpes" data-reference="rhonealpes" shape="poly" coords="271,173,275,169,270,164,268,155,258,156,258,162,247,163,250,155,247,154,244,157,235,152,232,131,224,136,203,127,199,142,190,141,200,154,196,168,193,171,200,180,201,186,211,193,199,210,210,223,226,228,231,225,238,228,242,225,240,215,247,206,257,200,258,194,266,198,277,184,272,173"/>
+                </map>
+             </span>
+
+
+            <ul id="sites">
+                <li class="l"><a href="http://www.centrejob.com" id="lien-centre" data-reference="centre" class="visible" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'CentreJob']);">CentreJob<span class="ico ico-site ico-site-centrejob "></span></a></li>
+                <li class="r"><a href="http://www.estjob.com" id="lien-est" data-reference="est" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'EstJob']);">EstJob<span class="ico ico-site ico-site-estjob"></span></a></li>
+                <li class="l"><a href="http://www.nordjob.com" id="lien-nord" data-reference="nord" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'NordJob']);">NordJob<span class="ico ico-site ico-site-nordjob"></span></a></li>
+                <li class="r"><a href="http://www.ouestjob.com" id="lien-ouest" data-reference="ouest" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'OuestJob']);">OuestJob<span class="ico ico-site ico-site-ouestjob"></span></a></li>
+                <li class="l"><a href="http://www.pacajob.com" id="lien-paca" data-reference="paca" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'PacaJob']);">PacaJob<span class="ico ico-site ico-site-pacajob"></span></a></li>
+                <li class="r"><a href="http://www.parisjob.com" id="lien-paris" data-reference="paris" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'ParisJob']);">ParisJob<span class="ico ico-site ico-site-parisjob"></span></a></li>
+                <li class="l"><a href="http://www.rhonealpesjob.com" id="lien-rhonealpes" data-reference="rhonealpes" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'RhoneAlpesJob']);">RhoneAlpesJob<span class="ico ico-site ico-site-rhonealpesjob"></span></a></li>
+                <li class="r"><a href="http://www.sudouestjob.com" id="lien-sudouest" data-reference="sudouest" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'SudOuestJob']);">SudOuestJob<span class="ico ico-site ico-site-sudouestjob"></span></a></li>                  
+                <li class="jobtrotter texture hide_mobile"><span class="ico ico-avion"></span>Envie d'aller plus loin ?<br />Expatriez-vous avec <a href="http://www.jobtrotter.com" id="lien-jobtrotter" onclick="javascript:_gaq.push(['_trackEvent', 'Clics', 'xJob', 'JobTrotter']);">JobTrotter</a></li>
+            </ul>
+
+            <div id="carte-candidat" class=" hide_mobile">
+                <div class="h2 hide_tablet">candidats</div>
+                <ul class="candidat">
+                    <li><a href="/static/deposer-votre-cv"><span class="ico ico-cv-home"></span><strong>Déposer son cv</strong><img style="margin-left:5px;" src="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/img/pictos/2minutes.png" /></a></li>
+                    <li><a href="/static/creer-une-alerte-email"><span class="ico ico-alert"></span>Créer une alerte email</a></li>
+                    <li><a href="/conseils-experts"><span class="ico ico-expert"></span>Consulter les conseils d'experts</a></li>
+                </ul>
+              </div>
+            
+
+
+        </div>
+
+
+    </div>
+
+    <div class="col size4of12 hide_mobile" style="margin-top:7px;">
+
+        <section class="recruteurs">
+            <div class="h3"><span  class="bt"><a href="http://entreprise.regionsjob.com" >recruteurs</a></span><a href="http://entreprise.regionsjob.com/contact.aspx">Contact</a> <span class="sep">|</span> <a href="http://entreprise.regionsjob.com">Passer une annonce</a></div>
+        </section>   
+
+        <div id="smart-top-right" ></div>
+
+        <div class="hide_mobile"><div class="h2">suivez RegionsJob</div>
+<nav>
+    <ul class="social">
+        <li><a href="http://aliaz.com/regionsjob" class="ico ico-social ico-social-aliaz">sur aliaz</a></li>
+        <li><a href="/mobile" class="ico ico-social ico-social-mobile">sur iphone</a></li>
+      <li><a href="https://www.facebook.com/regionsjob" class="ico ico-social ico-social-facebook">sur facebook</a></li>
+              <li><a href="https://twitter.com/regionsjob" class="ico ico-social ico-social-twitter">sur twitter</a></li>
+        <li><a href="https://plus.google.com/+regionsjob" class="ico ico-social ico-social-google">sur google+</a></li>
+           <li   class="last"><a href="http://www.dailymotion.com/RegionsJob" class="ico ico-social ico-social-dailymotion">sur dailymotion</a></li>    
+    </ul>
+</nav>        </div>
+    </div>
+
+</div>
+
+<div class="row">
+	
+    <div class="col size12of12">
+        <h1><a href="/actualites" class="ico ico-suite right" title="Toute l'actualité de l'emploi">Toutes les actualités</a>actualité de l'emploi</h1>
+    </div>
+   
+    <div class="col size8of12">                
+        
+        <div class="h2">à la Une</div>
+        
+            <article itemscope itemtype="http://schema.org/Article">
+        <a href="http://www.regionsjob.com/actualites/alcool-au-travail-ce-qu-il-faut-savoir-24158" class="left">
+                <img src="http://www.estjob.com/fr/fil_info/img/Alcoolentreprise2_vignette.gif" alt="Alcool au travail : ce qu&#39;il faut savoir"/>
+        </a>
+    <h1 class="h3">
+        <a href="http://www.regionsjob.com/actualites/alcool-au-travail-ce-qu-il-faut-savoir-24158" itemprop="headline"> Alcool au travail : ce qu&#39;il faut savoir</a>
+
+                <span class="source">Actualit&#233; - 14 juillet 2014 </span>
+    </h1>
+    <!--<meta itemprop="datePublished" content="7/14/2014 12:00:00 AM">
+    <meta itemprop="genre" content="Interview">-->
+        <p itemprop="articleBody">Peut-on boire au bureau ? Que risque un salarié ivre sur son lieu de travail ? L'entreprise a-t-elle le droit de licencier un employé en état d'ébriété ? Éléments de réponse. 
+        </p>
+
+</article>
+
+
+            <section class="article home  detect-last-child petitemargeh">
+
+                
+
+                
+                
+                    <ul class="size50pourc left col  article  ">
+                                <li class="l ">
+                                    
+    <span class="centrejob">CentreJob</span>&nbsp;- 
+
+<a href="http://www.regionsjob.com/actualites/quelles-perspectives-pour-les-cadres-en-region-centre-24112">Quelles perspectives pour les cadres en r&#233;gion Centre ?</a>
+                                </li>
+                                <li class="l ">
+                                    
+    <span class="nordjob">NordJob</span>&nbsp;- 
+
+<a href="http://www.regionsjob.com/actualites/quelles-perspectives-pour-les-cadres-en-region-nord-24137">Quelles perspectives pour les cadres en r&#233;gion Nord ?</a>
+                                </li>
+                                <li class="l ">
+                                    
+    <span class="pacajob">PacaJob</span>&nbsp;- 
+
+<a href="http://www.regionsjob.com/actualites/cometik-recrute-des-commerciaux-a-montpellier-24197">Cometik recrute des commerciaux &#224; Montpellier</a>
+                                </li>
+                                <li class="l last">
+                                    
+    <span class="rhonealpesjob">RhonealpesJob</span>&nbsp;- 
+
+<a href="http://www.regionsjob.com/actualites/quelles-perspectives-pour-les-cadres-en-region-rhone-alpes-24140">Quelles perspectives pour les cadres en r&#233;gion Rh&#244;ne-Alpes</a>
+                                </li>
+                    </ul>
+                    <ul class="size50pourc left col article bottomelement">
+                                <li class="r ">
+                                    
+    <span class="estjob">EstJob</span>&nbsp;- 
+
+<a href="http://www.regionsjob.com/actualites/agipi-qualite-de-service-et-qualite-de-vie-au-travail-24188">Agipi, qualit&#233; de service et qualit&#233; de vie au travail</a>
+                                </li>
+                                <li class="r ">
+                                    
+    <span class="ouestjob">OuestJob</span>&nbsp;- 
+
+<a href="http://www.regionsjob.com/actualites/quelles-perspectives-pour-les-cadres-dans-l-ouest-24138">Quelles perspectives pour les cadres dans l&#39;Ouest ?</a>
+                                </li>
+                                <li class="r ">
+                                    
+    <span class="parisjob">ParisJob</span>&nbsp;- 
+
+<a href="http://www.regionsjob.com/actualites/quelles-perspectives-pour-les-cadres-en-ile-de-france-24179">Quelles perspectives pour les cadres en &#206;le-de-France ?</a>
+                                </li>
+                                <li class="r last">
+                                    
+    <span class="sudouestjob">SudouestJob</span>&nbsp;- 
+
+<a href="http://www.regionsjob.com/actualites/quelles-perspectives-pour-les-cadres-dans-le-sud-ouest-24139">Quelles perspectives pour les cadres dans le Sud-Ouest ?</a>
+                                </li>
+
+                        <li class="flux last emploi margeh hide_mobile r">
+                            
+<a href="/Rss/EmploiALaUne"><span class="ico ico-flux ico-flux-rss"></span>Flux RSS</a>
+<a href="javascript:displayOrHide('newsletter_actualite');"><span class="ico ico-flux ico-flux-nsl"></span>Newsletter</a>
+
+
+<form action="/Newsletter/SubscribeNewsletterEmploi" method="post" class="newsletter hidewithjs -hide" id="newsletter_actualite" data-ajax = "true" data-val-error-dest="precision">
+
+<span class="ico ico-fermer fermer" data-reference="newsletter_actualite">fermer</span>
+<span class="ico ico-top"></span>
+<fieldset>
+    <p>
+        <label for="newsletter-region">Votre région</label>
+        <select name="region" id="newsletter-region" data-val-default="0" data-controle-type="1" data-val="true" data-val-required="Le champ région est obligatoire">
+            <option value="0">Votre région</option>
+            <option value="CentreJob">Centre</option>
+            <option value="EstJob">Est</option>
+            <option value="NordJob">Nord</option>
+            <option value="OuestJob">Ouest</option>
+            <option value="PacaJob">Paca</option>
+            <option value="ParisJob">Ile de France</option>
+            <option value="RhonealpesJob">Rhone Alpes</option>
+            <option value="SudouestJob">Sud Ouest</option>
+            <option value="Jobtrotter">International</option>
+        </select>   
+    </p>
+    <p>
+        <label for="newsletter-email">
+            Votre email</label>
+        <input type="text" id="newsletter-email" name="email" value="" data-controle-type="3" data-controle-format="email" data-val-default="Votre adresse email" data-val-remote="Email invalide">
+    </p>
+    <p>
+        <input type="submit" class="submit" value="S'abonner à la newsletter">
+    </p>
+</fieldset>
+</form>
+                    
+                        </li>
+                    </ul>
+                    <a href="/actualites" class="size100pourc left"><span  class="ico ico-suite-petit"></span>Toutes les actualités de l'emploi</a>
+            </section> 
+    </div>
+
+    <div class="col size4of12"> 
+
+            <div class="h2"><a href="http://www.blog-emploi.com/" class="right ico ico-site ico-site-modeemploi">Blog mode(s) d'emploi</a>mode(s) d'emploi</div>
+            <article>
+                <h1 class="h3">
+
+                <a href="http://www.blog-emploi.com/decryptage-fiche-paie/">Comprendre votre bulletin de salaire en 3 minutes</a></h1>
+                Salaire brut, superbrut, net imposable, CSG, RDS, salaire forfaitaire, revenu imposable, cotisations salariales&#8230; Pas facile de s&#8217;y retrouver quand ...<a href="http://www.blog-emploi.com/decryptage-fiche-paie/">Lire la suite</a>
+            </article>
+        
+        
+<div class="hide_mobile" style="margin-top:20px;border-top:4px solid #FB6D32;background:#F3F3F3 url(http://ressources.regionsjob.com/2012/img/background/texture.png) top left repeat-x;color:#666;border-bottom:1px solid #FB6D32;margin-bottom:0;">
+    <div class="h3" style="margin-left:12px;height:26px; line-height:26px; padding:3px 10px 3px 0;font-size:18px;border-top:0;border-bottom:1px solid #FB6D32; color:#333333;font-size:22px;font-weight:normal;"><img src="http://ressources.regionsjob.com/2012/img/pictos/thema.png" alt="" style="float:left;margin-left:5px;position:relative;top:2px;left:-5px;margin-right:5px;"> Théma emploi</div>
+    <ul style="margin-top:10px;margin-left:45px;list-style-type:square;line-height:22px;padding:0;margin-bottom:10px;">
+        <li style="color:#FB6D32;list-style-type:square;"><a href="http://www.blog-emploi.com/recherche-emploi/premier-emploi/">Jeunes diplômés</a></li>
+        <li style="color:#A2A345;list-style-type:square;"><a href="http://www.blog-emploi.com/travailler-autrement/creation-d-entreprise/">Franchise - Entrepreneuriat</a></li>
+        <li style="color:#66A6B5;list-style-type:square;"><a href="http://www.blog-emploi.com/diversite/emploi-et-handicap/">Handicap</a></li>
+        <li style="color:#816D98;list-style-type:square;"><a href="http://www.blog-emploi.com/diversite/egalite-professionnelle/">Egalité hommes - femmes</a></li>
+        <li style="color:#CC5266;list-style-type:square;"><a href="http://www.blog-emploi.com/formation/alternance/">Alternance</a></li>
+    </ul>
+    <p style="height:15px;line-height:20px; font-size:13px;text-align:right;margin-bottom:0;margin-top:0;">sur <a href="http://www.blog-emploi.com"><img src="http://ressources.regionsjob.com/2012/img/logos/modedemploi.png" alt="" style="vertical-align:top;float:none;position:relative;top:1px;margin-right:15px; margin-left:5px;"></a></p>
+</div>  
+    </div>
+
+</div>
+
+<div class="row" style="z-index:0;">
+	
+    <div class="col size12of12" style="z-index:0;">
+        <h1>
+            <a href="http://aliaz.com" class="ico ico-aliaz right">aliaz.com</a>
+            <a href="http://www.blogdumoderateur.com/" class="ico ico-moderateur right">Le blog du modérateur</a>
+            réseaux sociaux et identité numérique
+        </h1>
+    </div>
+
+    <div class="col size8of12"> 
+        <h2>à la Une</h2>
+<article itemscope itemtype="http://schema.org/Article">
+    <h1 class="h3">
+        <a href="http://www.blogdumoderateur.com/offres-emploi-web-de-la-semaine-73/" itemprop="headline"> Offres d’emploi web de la semaine : community manager, graphiste, web analyst…</a>
+
+                <span class="source">Blog du Mod&#233;rateur - 15 juillet 2014 </span>
+    </h1>
+    <!--<meta itemprop="datePublished" content="7/15/2014 3:52:07 PM">
+    <meta itemprop="genre" content="Interview">-->
+        <p itemprop="articleBody">Comme chaque début de semaine, nous vous proposons une sélection des meilleures offres d’emploi des différents sites du réseau RegionsJob. Cette semaine, vous pourrez notamment postuler à des offres de community manager, graphiste, account manager, ...
+        </p>
+
+</article>
+        <section class="article home petitemargeh">
+            <ul class="article bottomelement size50pourc left col ">
+
+                 <li class="l"><a href="http://www.blogdumoderateur.com/twitter-lance-ses-analytics/">Twitter lance (enfin) ses analytics</a></li>
+                 <li class="l last"> <a href="http://www.blogdumoderateur.com/bilan-itele-coupe-du-monde/">Bilan : la strat&#233;gie digitale d’i&gt;TELE pendant la Coupe du Monde</a></li>          
+                </ul>  
+                    <ul class="article bottomelement size50pourc left col ">
+                 <li class="r last"><a href="http://www.blogdumoderateur.com/actu-web-semaine-2/">Actualit&#233;s web de la semaine : remaniement Twitter, Kickstarter, Oasis…</a> </li>            
+                <li class="flux last idenum hide_mobile margeh r">
+                    <a href="http://www.blogdumoderateur.com/feed/"><span class="ico ico-flux ico-flux-rss"></span>Flux RSS</a>
+                    <a href="javascript:displayOrHide('newsletter_identitenum');"><span class="ico ico-flux ico-flux-nsl"></span>Newsletter</a>
+
+                    <form action="/Newsletter/SubscribeNewsletterIdentiteNumerique" method="post" class="newsletter hidewithjs -hide" id="newsletter_identitenum" data-ajax = "true" data-val-error-dest="precision">
+                        <span class="ico ico-fermer fermer" data-reference="newsletter_identitenum">fermer</span>
+                        <span class="ico ico-top"></span>
+                        <fieldset>
+                            <p>
+                                <label for="newsletter-email">
+                                    Votre email</label>
+                                <input type="text" id="newsletter-email" name="email" value="" data-val-default="Votre adresse email" data-controle-format="email" data-controle-type="3" data-val-default="Votre adresse email"  data-val-remote="Email invalide"/>
+                            </p>
+                            <p>
+                                <input type="submit" class="submit" value="S'abonner à la newsletter"/>
+                            </p>
+                        </fieldset>
+                    </form>
+                </li>
+            </ul>
+ 
+        </section>
+           
+    </div>
+   
+    <div class="col size4of12 petitemargeb">
+         <div class="h2 hide_mobile">identité numérique</div>
+
+<article class="hide_mobile padding0">
+    <h1 class="h3"><a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/14305/Guide-sur-l-identite-numerique.aspx ">Guide de l'identité numérique</a></h1>
+    <img src="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/img/visuels/guide-identite-numerique.png" alt="Guide de l'identité numérique" class="left" width="100" height="133">
+    <p>Avec l'utilisation croissante des différents médias sociaux, l'identité numérique est aujourd'hui un concept clé. Découvrez notre guide dès maintenant.<br><a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/14305/Guide-sur-l-identite-numerique.aspx ">Télécharger le guide</a></p>
+    <p class="margeh"><a href="http://aliaz.com/"><img src="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/img/promo/promo-aliaz.png" alt="Contraliser votre identité numérique avec aliaz" class="responsive bottomelement" width="299" height="59"></a></p>
+</article>
+<div class="show_mobile"><a href="http://aliaz.com/"><img src="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/img/promo/promo-aliaz.png" alt="Contraliser votre identité numérique avec aliaz" class="responsive bottomelement topelement" width="299" height="59" /></a></div>
+    </div>      
+
+</div>
+
+<div class="row bg publications hide_mobile">
+
+    <div class="col size12of12 texture">
+        
+<h1 class="navigation">
+    <span class="ico ico-prevgrossier" id="diaporama-publications-prev">précédent</span>
+    publications
+    <span class="ico ico-nextgrossier" id="diaporama-publications-next">suivant</span></h1>
+<div id="diaporama-publications" class="diaporama" data-diaporama-autostart="false"  data-diaporama-infini="true" data-diaporama-bt-prev="diaporama-publications-prev" data-diaporama-bt-next="diaporama-publications-next">   
+	<div class="diaporama-item">
+            <a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/21381/Enquete---a-quoi-ressemble-l-entreprise-ideale--.aspx"><img src="http://ressources.regionsjob.com/img/publications/ENQ_l-entreprise-ideale.png" alt="Enqu&#234;te : &#224; quoi ressemble l&#39;entreprise id&#233;ale ?" style="height:124px;width:300px;" /></a>
+            <a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/19389/Les-sujets-emploi-les-plus-discutes-sur-les-reseaux-sociaux.aspx"><img src="http://ressources.regionsjob.com/img/publications/BAR_sujets-emploi-discutes-sur-RS.png" alt="Les sujets emploi les plus discut&#233;s sur les r&#233;seaux sociaux" style="height:124px;width:300px;" /></a>
+            <a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/19292/Barometre-Emploi---Reseaux-sociaux-numero-2---la-formation.aspx"><img src="http://ressources.regionsjob.com/img/publications/BAR_la-formation.png" alt="Barom&#232;tre Emploi &amp; R&#233;seaux sociaux num&#233;ro 2 : la formation" style="height:124px;width:300px;" /></a>
+</div><div class="diaporama-item">            <a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/19529/Enquete-sur-les-community-managers-en-France---edition-2013.aspx"><img src="http://ressources.regionsjob.com/img/publications/TEM_CM-en-France-2013.png" alt="Enqu&#234;te sur les community managers en France - &#233;dition 2013" style="height:124px;width:300px;" /></a>
+            <a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/20953/Enquete---le-quotidien-des-recruteurs-en-2013.aspx"><img src="http://ressources.regionsjob.com/img/publications/ENQ_Quotidien-des-recruteurs-2013.png" alt="Enqu&#234;te : le quotidien des recruteurs en 2013" style="height:124px;width:300px;" /></a>
+            <a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/21231/Barometre-emploi---les-outils-les-plus-cites-sur-les-reseaux-sociaux.aspx"><img src="http://ressources.regionsjob.com/img/publications/BAR_outils-plus-cites-sur-RS.png" alt="Barom&#232;tre emploi : les outils les plus cit&#233;s sur les r&#233;seaux sociaux" style="height:124px;width:300px;" /></a>
+</div><div class="diaporama-item">            <a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/20086/Barometre-Emploi---Reseaux-sociaux--special-Tendances-emploi.aspx"><img src="http://ressources.regionsjob.com/img/publications/BAR_les-tendances-de-l-emploi.png" alt="Barom&#232;tre Emploi &amp; R&#233;seaux sociaux, sp&#233;cial Tendances emploi" style="height:124px;width:300px;" /></a>
+            <a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/20194/Enquete---la-recherche-d-emploi-en-2013.aspx"><img src="http://ressources.regionsjob.com/img/publications/ENQ_Recherche-d-emploi-2013.png" alt="Enqu&#234;te : la recherche d&#39;emploi en 2013" style="height:124px;width:300px;" /></a>
+            <a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/21314/Recrutement-innovant---tout-savoir-sur-les-serious-games.aspx"><img src="http://ressources.regionsjob.com/img/publications/EBO_recrutement-innovant-serious-games.png" alt="Recrutement innovant : tout savoir sur les serious games" style="height:124px;width:300px;" /></a>
+</div><div class="diaporama-item">            <a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/19391/Le-guide-des-metiers-du-web.aspx"><img src="http://ressources.regionsjob.com/img/publications/EBO_guide-metiers-du-web.png" alt="Le guide des m&#233;tiers du web" style="height:124px;width:300px;" /></a>
+            <a href="http://groupe.regionsjob.com/etudes/publications/FilInfo/20679/Bien-chercher-un-emploi---50-pages-de-conseils-pratiques.aspx"><img src="http://ressources.regionsjob.com/img/publications/GUI_bien-chercher-un-emploi.png" alt="Bien chercher un emploi : 50 pages de conseils pratiques" style="height:124px;width:300px;" /></a>
+	</div>
+</div>
+<script>
+    var oldonload = window.onload;
+    window.onload = function () {
+        if (oldonload) oldonload();
+        $("#diaporama-publications").rjdiaporama();
+    };
+</script>
+    </div>
+
+</div>
+
+<div class="row hide_mobile" id="offrespartheme">
+  
+   <div class="col size12of12">
+        <h1 style="margin-bottom:0;">toutes les offres d’emploi par thème </h1>
+    </div>
+ 
+   <div class="clear"></div>
+   	
+   <div class="onglets margeg marged">  
+        <div class="col size2of12 ssmarge">
+            <section>
+                <ul class="items margeg">
+                    <li><a href="#metiers" class="onglet click  selected">métiers</a></li>
+                    <li><a href="#secteur" class="onglet click">secteurs</a></li>                    
+                    <li><a href="#fonctions" class="onglet click">fonctions</a></li>
+                    <li><a href="#villes" class="onglet click">villes</a></li>
+                </ul>
+            </section>
+        </div>
+        <div class="col size10of12 ssmarge">
+            <div class="information marged">
+                     <ul class="onglet mod4col aere" data-identifiant="metiers" style="display: none; ">   
+                        <li class="">
+                            <a href="/offre/assistant-de-direction" title="Assistant De Direction">Assistant De Direction</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/chef-de-chantier" title="Chef De Chantier">Chef De Chantier</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/chef-de-rayon" title="Chef De Rayon">Chef De Rayon</a>
+                        </li>
+                        <li class="last">
+                            <a href="/offre/chef-de-secteur" title="Chef De Secteur">Chef De Secteur</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/commercial" title="Commercial">Commercial</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/comptable" title="Comptable">Comptable</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/conducteur-de-travaux" title="Conducteur De Travaux">Conducteur De Travaux</a>
+                        </li>
+                        <li class="last">
+                            <a href="/offre/conseiller-commercial" title="Conseiller Commercial">Conseiller Commercial</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/consultant" title="Consultant">Consultant</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/controleur-de-gestion" title="Controleur De Gestion ">Controleur De Gestion </a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/directeur-commercial" title="Directeur Commercial">Directeur Commercial</a>
+                        </li>
+                        <li class="last">
+                            <a href="/offre/directeur-de-magasin" title="Directeur De Magasin">Directeur De Magasin</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/directeur-general" title="Directeur G&#233;n&#233;ral">Directeur G&#233;n&#233;ral</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/directeur-marketing" title="Directeur Marketing">Directeur Marketing</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/electricien" title="Electricien">Electricien</a>
+                        </li>
+                        <li class="last">
+                            <a href="/offre/formateur" title="Formateur ">Formateur </a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/infirmier-diplome-d-etat" title="Infirmier Diplom&#233; D&#39;Etat">Infirmier Diplom&#233; D&#39;Etat</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/infographiste" title="Infographiste">Infographiste</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/ingenieur-commercial" title="Ing&#233;nieur Commercial">Ing&#233;nieur Commercial</a>
+                        </li>
+                        <li class="last">
+                            <a href="/offre/ingenieur-d-affaires" title="Ing&#233;nieur D&#39;Affaires">Ing&#233;nieur D&#39;Affaires</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/ingenieur-informatique" title="Ing&#233;nieur Informatique">Ing&#233;nieur Informatique</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/ingenieur-telecom" title="Ing&#233;nieur T&#233;l&#233;com">Ing&#233;nieur T&#233;l&#233;com</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/juriste" title="Juriste">Juriste</a>
+                        </li>
+                        <li class="last">
+                            <a href="/offre/mecanicien" title="M&#233;canicien">M&#233;canicien</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/plombier" title="Plombier">Plombier</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/responsable-d-agence" title="Responsable D&#39;Agence ">Responsable D&#39;Agence </a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/responsable-informatique" title="Responsable Informatique">Responsable Informatique</a>
+                        </li>
+                        <li class="last">
+                            <a href="/offre/responsable-logistique" title="Responsable Logistique">Responsable Logistique</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/secretaire" title="Secr&#233;taire">Secr&#233;taire</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/standardiste" title="Standardiste">Standardiste</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/technicien" title="Technicien">Technicien</a>
+                        </li>
+                        <li class="last">
+                            <a href="/offre/technicien-de-maintenance" title="Technicien De Maintenance">Technicien De Maintenance</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/vendeur" title="Vendeur">Vendeur</a>
+                        </li>
+                        <li class="">
+                            <a href="/offre/webmaster" title="Webmaster">Webmaster</a>
+                        </li>
+                </ul>                      
+
+
+                <ul class="onglet mod4col aere" data-identifiant="secteur" style="display: none; ">
+                        <li class="">
+                         <a href="/offre/administration" title="Administration">Administration</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/aeronautique" title="A&#233;ronautique">A&#233;ronautique</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/agriculture" title="Agriculture">Agriculture</a>
+                           
+                        </li>
+                        <li class="last">
+                         <a href="/offre/agroalimentaire" title="Agroalimentaire">Agroalimentaire</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/art-decoration" title="Art D&#233;coration">Art D&#233;coration</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/artisanat" title="Artisanat">Artisanat</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/assurance" title="Assurance">Assurance</a>
+                           
+                        </li>
+                        <li class="last">
+                         <a href="/offre/audit" title="Audit">Audit</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/automobile" title="Automobile">Automobile</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/banque" title="Banque">Banque</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/batiment" title="Batiment">Batiment</a>
+                           
+                        </li>
+                        <li class="last">
+                         <a href="/offre/conseil" title="Conseil">Conseil</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/developpement-durable" title="D&#233;veloppement Durable">D&#233;veloppement Durable</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/directeur" title="Directeur">Directeur</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/edition" title="&#201;dition">&#201;dition</a>
+                           
+                        </li>
+                        <li class="last">
+                         <a href="/offre/energie" title="&#201;nergie">&#201;nergie</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/evenementiel" title="&#201;v&#233;nementiel">&#201;v&#233;nementiel</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/fiscalite" title="Fiscalit&#233;">Fiscalit&#233;</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/immobilier" title="Immobilier">Immobilier</a>
+                           
+                        </li>
+                        <li class="last">
+                         <a href="/offre/imprimerie" title="Imprimerie">Imprimerie</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/industrie-textile" title="Industrie Textile">Industrie Textile</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/ingenierie" title="Ing&#233;nierie">Ing&#233;nierie</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/mecanique" title="M&#233;canique">M&#233;canique</a>
+                           
+                        </li>
+                        <li class="last">
+                         <a href="/offre/medical" title="M&#233;dical">M&#233;dical</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/metallurgie" title="M&#233;tallurgie">M&#233;tallurgie</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/mode" title="Mode">Mode</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/pharmacie" title="Pharmacie">Pharmacie</a>
+                           
+                        </li>
+                        <li class="last">
+                         <a href="/offre/publicite" title="Publicit&#233;">Publicit&#233;</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/recrutement" title="Recrutement">Recrutement</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/secretariat" title="Secr&#233;tariat">Secr&#233;tariat</a>
+                           
+                        </li>
+                        <li class="">
+                         <a href="/offre/transport" title="Transport">Transport</a>
+                           
+                        </li>
+                </ul>
+
+              
+                <ul class="onglet mod3col aere" data-identifiant="fonctions" style="display: none; ">   
+                        <li class="">
+                            <a href="/fonction/achat-4" title="Achat">Achat</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/assistanat-adm-ventes-accueil-20" title="Assistanat/Adm Ventes/Accueil">Assistanat/Adm Ventes/Accueil</a>
+                        </li>
+                        <li class="last">
+                            <a href="/fonction/btp-1" title="Btp">Btp</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/bureau-d-etudes-r-et-d-37" title="Bureau D&#39;Etudes/R&amp;D">Bureau D&#39;Etudes/R&amp;D</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/commercial-vente-partdot-31" title="Commercial - Vente Part.">Commercial - Vente Part.</a>
+                        </li>
+                        <li class="last">
+                            <a href="/fonction/commercial-vente-pro-30" title="Commercial - Vente Pro">Commercial - Vente Pro</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/comptadot-gestion-finance-audit-6" title="Compta./Gestion/Finance/Audit">Compta./Gestion/Finance/Audit</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/direction-respdotcentre-profit-34" title="Direction/Resp.Centre Profit">Direction/Resp.Centre Profit</a>
+                        </li>
+                        <li class="last">
+                            <a href="/fonction/distribution-vente-en-magasin-45" title="Distribution - Vente En Magasin">Distribution - Vente En Magasin</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/import-export-international-21" title="Import/Export/International">Import/Export/International</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/informatique-develdot-hardware-22" title="Informatique - D&#233;vel. Hardware">Informatique - D&#233;vel. Hardware</a>
+                        </li>
+                        <li class="last">
+                            <a href="/fonction/informatique-developpement-7" title="Informatique - D&#233;veloppement">Informatique - D&#233;veloppement</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/informatique-reseaux-10" title="Informatique - R&#233;seaux">Informatique - R&#233;seaux</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/informatique-si-9" title="Informatique - Si">Informatique - Si</a>
+                        </li>
+                        <li class="last">
+                            <a href="/fonction/ingenierie-electrotechnique-13" title="Ing&#233;nierie &#201;lectrotechnique">Ing&#233;nierie &#201;lectrotechnique</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/logistique-metiers-du-transport-36" title="Logistique/M&#233;tiers Du Transport">Logistique/M&#233;tiers Du Transport</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/marketing-com-graphisme-16" title="Marketing/Com/Graphisme">Marketing/Com/Graphisme</a>
+                        </li>
+                        <li class="last">
+                            <a href="/fonction/metiers-fonction-publique-40" title="M&#233;tiers Fonction Publique">M&#233;tiers Fonction Publique</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/production-41" title="Production">Production</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/qualite-securite%E2%80%A6-18" title="Qualit&#233;/S&#233;curit&#233;…">Qualit&#233;/S&#233;curit&#233;…</a>
+                        </li>
+                        <li class="last">
+                            <a href="/fonction/restauration-tourisme%E2%80%A6-26" title="Restauration/Tourisme…">Restauration/Tourisme…</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/rh-personnel-formation-19" title="Rh/Personnel/Formation">Rh/Personnel/Formation</a>
+                        </li>
+                        <li class="">
+                            <a href="/fonction/sante-social-25" title="Sant&#233;/Social">Sant&#233;/Social</a>
+                        </li>
+                        <li class="last">
+                            <a href="/fonction/sav-hot-line-35" title="Sav/Hot Line">Sav/Hot Line</a>
+                        </li>
+                </ul>
+                
+                <ul class="onglet aere" data-identifiant="villes" style="display: none;">   
+                    <li class="padding0"><span class="ico ico-site ico-site-centrejob"></span>CentreJob : <a title="Offres d'emploi à Bourges" href="http://www.centrejob.com/offre_emploi_ville/offre_emploi_bourges.htm">Bourges</a> | <a title="Offres d'emploi à Chartres" href="http://www.centrejob.com/offre_emploi_ville/offre_emploi_chartres.htm">Chartres</a> | <a title="Offres d'emploi à Clermont-Ferrand" href="http://www.centrejob.com/offre_emploi_ville/offre_emploi_clermont_ferrand.htm">Clermont-Ferrand</a> | <a title="Offres d'emploi à Limoges" href="http://www.centrejob.com/offre_emploi_ville/offre_emploi_limoges.htm">Limoges</a> | <a title="Offres d'emploi à Orléans" href="http://www.centrejob.com/offre_emploi_ville/offre_emploi_orleans.htm">Orléans</a> | <a title="Offres d'emploi à Tours" href="http://www.centrejob.com/offre_emploi_ville/offre_emploi_tours.htm">Tours</a> | <a title="Offres d'emploi dans les autres villes de centrejob" href="http://www.centrejob.com/offre_emploi_ville/offres-emploi.htm">Autre</a></li>
+                    <li class="padding0"><span class="ico ico-site ico-site-estjob"></span>EstJob : <a title="Offres d'emploi à Auxerre" href="http://www.estjob.com/offre_emploi_ville/offre_emploi_auxerre.htm">Auxerre</a> | <a title="Offres d'emploi à Belfort" xhref="http://www.estjob.com/offre_emploi_ville/offre_emploi_belfort.htm">Belfort</a> | <a title="Offres d'emploi à Besançon" href="http://www.estjob.com/offre_emploi_ville/offre_emploi_besancon.htm">Besançon</a> | <a title="Offres d'emploi à Metz" href="http://www.estjob.com/offre_emploi_ville/offre_emploi_metz.htm">Metz</a> | <a title="Offres d'emploi à Mulhouse" href="http://www.estjob.com/offre_emploi_ville/offre_emploi_mulhouse.htm">Mulhouse</a> | <a title="Offres d'emploi à Nancy" href="http://www.estjob.com/offre_emploi_ville/offre_emploi_nancy.htm">Nancy</a> | <a title="Offres d'emploi à Reims" href="http://www.estjob.com/offre_emploi_ville/offre_emploi_reims.htm">Reims</a> | <a title="Offres d'emploi à Strasbourg" href="http://www.estjob.com/offre_emploi_ville/offre_emploi_strasbourg.htm">Strasbourg</a> | <a title="Offres d'emploi dans les autres villes de estjob" href="http://www.estjob.com/offre_emploi_ville/offres-emploi.htm">Autre</a></li>
+                    <li class="padding0"><span class="ico ico-site ico-site-nordjob"></span>NordJob : <a title="Offres d'emploi à Amiens" href="http://www.nordjob.com/offre_emploi_ville/offre_emploi_amiens.htm">Amiens</a> | <a title="Offres d'emploi à Arras" href="http://www.nordjob.com/offre_emploi_ville/offre_emploi_arras.htm">Arras</a> |  <a title="Offres d'emploi à Charleville-Mézières" href="http://www.nordjob.com/offre_emploi_ville/offre_emploi_charleville_mezieres.htm">Charleville-Mézières</a> | <a title="Offres d'emploi à Douai" href="http://www.nordjob.com/offre_emploi_ville/offre_emploi_douai.htm">Douai</a> | <a title="Offres d'emploi à Dunkerque" href="http://www.nordjob.com/offre_emploi_ville/offre_emploi_dunkerque.htm">Dunkerque</a> | 
+	                <a title="Offres d'emploi à Le Havre" href="http://www.nordjob.com/offre_emploi_ville/offre_emploi_le_havre.htm">Le Havre</a> | <a title="Offres d'emploi à Lille" href="http://www.nordjob.com/offre_emploi_ville/offre_emploi_lille.htm">Lille</a> | <a title="Offres d'emploi à Rouen" href="http://www.nordjob.com/offre_emploi_ville/offre_emploi_rouen.htm">Rouen</a> | <a title="Offres d'emploi à Valenciennes" href="http://www.nordjob.com/offre_emploi_ville/offre_emploi_valenciennes.htm">Valenciennes</a> | <a title="Offres d'emploi dans les autres villes de nordjob" href="http://www.nordjob.com/offre_emploi_ville/offres-emploi.htm">Autre</a></li>
+                    <li class="padding0"><span class="ico ico-site ico-site-ouestjob"></span>OuestJob : <a title="Offres d'emploi à Angers" href="http://www.ouestjob.com/offre_emploi_ville/offre_emploi_angers.htm">Angers</a> | <a title="Offres d'emploi à Brest" href="http://www.ouestjob.com/offre_emploi_ville/offre_emploi_brest.htm">Brest</a> | <a title="Offres d'emploi à Caen" href="http://www.ouestjob.com/offre_emploi_ville/offre_emploi_caen.htm">Caen</a> | <a title="Offres d'emploi à Chartres" href="http://www.ouestjob.com/offre_emploi_ville/offre_emploi_chartres.htm">Chartres</a> | <a title="Offres d'emploi à La Roche-sur-Yon"  href="http://www.ouestjob.com/offre_emploi_ville/offre_emploi_la_roche_sur_yon.htm">La Roche-sur-Yon</a> | <a title="Offres d'emploi à Nantes" href="http://www.ouestjob.com/offre_emploi_ville/offre_emploi_nantes.htm">Nantes</a> | <a title="Offres d'emploi à Rennes" href="http://www.ouestjob.com/offre_emploi_ville/offre_emploi_rennes.htm">Rennes</a> | <a title="Offres d'emploi à Vannes" href="http://www.ouestjob.com/offre_emploi_ville/offre_emploi_vannes.htm">Vannes</a> | <a title="Offres d'emploi dans les autres villes de ouestjob" href="http://www.ouestjob.com/offre_emploi_ville/offres-emploi.htm">Autre</a></li>
+                    <li class="padding0"><span class="ico ico-site ico-site-pacajob"></span>PacaJob : <a title="Offres d'emploi à Aix-en-Provence" href="http://www.pacajob.com/offre_emploi_ville/offre_emploi_aix_en_provence.htm">Aix-en-Provence</a> | <a title="Offres d'emploi à Sophia Antipolis" href="http://www.pacajob.com/offre_emploi_ville/offre_emploi_sophia_antipolis.htm">Sophia</a> | <a title="Offres d'emploi à Marseille" href="http://www.pacajob.com/offre_emploi_ville/offre_emploi_marseille.htm">Marseille</a> | <a title="Offres d'emploi à Nice" href="http://www.pacajob.com/offre_emploi_ville/offre_emploi_nice.htm">Nice</a> | <a title="Offres d'emploi à Montpellier" href="http://www.pacajob.com/offre_emploi_ville/offre_emploi_montpellier.htm">Montpellier</a> | <a title="Offres d'emploi à Nîmes" href="http://www.pacajob.com/offre_emploi_ville/offre_emploi_nimes.htm">Nîmes</a> | <a title="Offres d'emploi à Perpignan" href="http://www.pacajob.com/offre_emploi_ville/offre_emploi_perpignan.htm">Perpignan</a> | <a title="Offres d'emploi à Toulon" href="http://www.pacajob.com/offre_emploi_ville/offre_emploi_toulon.htm">Toulon</a> | <a title="Offres d'emploi dans les autres villes de pacajob" href="http://www.pacajob.com/offre_emploi_ville/offres-emploi.htm">Autre</a></li>
+                    <li class="padding0"><span class="ico ico-site ico-site-parisjob"></span>ParisJob : <a title="Offres d'emploi à Paris" href="http://www.parisjob.com/offre_emploi_ville/offre_emploi_paris.htm">Paris</a> |  <a title="Offres d'emploi à Hauts de Seine" href="http://www.parisjob.com/offre_emploi_ville/offre_emploi_hauts_de_seine.htm">Hauts de Seine</a> | <a title="Offres d'emploi à Seine Saint Denis" href="http://www.parisjob.com/offre_emploi_ville/offre_emploi_seine_saint_denis.htm">Seine Saint Denis</a> | <a title="Offres d'emploi à Val de Marne" href="http://www.parisjob.com/offre_emploi_ville/offre_emploi_val_de_marne.htm">Val de Marne</a> | <a title="Offres d'emploi à Yvelines" href="http://www.parisjob.com/offre_emploi_ville/offre_emploi_yvelines.htm">Yvelines</a> | <a title="Offres d'emploi à Essonne" href="http://www.parisjob.com/offre_emploi_ville/offre_emploi_essonne.htm">Essonne</a> | <a title="Offres d'emploi dans les autres villes de parisjob" href="http://www.parisjob.com/offre_emploi_ville/offres-emploi.htm">Autre</a></li>
+                    <li class="padding0"><span class="ico ico-site ico-site-rhonealpesjob"></span>RhoneAlpesJob : <a title="Offres d'emploi à Annecy" href="http://www.rhonealpesjob.com/offre_emploi_ville/offre_emploi_annecy.htm">Annecy</a> | <a title="Offres d'emploi à Bourg-en-Bresse" href="http://www.rhonealpesjob.com/offre_emploi_ville/offre_emploi_bourg_en_bresse.htm">Bourg-en-Bresse</a> | <a title="Offres d'emploi à Grenoble" href="http://www.rhonealpesjob.com/offre_emploi_ville/offre_emploi_grenoble.htm">Grenoble</a> | <a title="Offres d'emploi à Lyon" href="http://www.rhonealpesjob.com/offre_emploi_ville/offre_emploi_lyon.htm">Lyon</a> | <a title="Offres d'emploi à Saint-Etienne" href="http://www.rhonealpesjob.com/offre_emploi_ville/offre_emploi_saint_etienne.htm">Saint-Etienne</a> | <a title="Offres d'emploi dans les autres villes de rhonealpesjob" href="http://www.rhonealpesjob.com/offre_emploi_ville/offres-emploi.htm">Autre</a></li>
+                    <li class="padding0"><span class="ico ico-site ico-site-sudouestjob"></span>SudOuestJob : <a title="Offres d'emploi à Agen" href="http://www.sudouestjob.com/offre_emploi_ville/offre_emploi_agen.htm">Agen</a> | <a title="Offres d'emploi à Bordeaux" href="http://www.sudouestjob.com/offre_emploi_ville/offre_emploi_bordeaux.htm">Bordeaux</a> | <a title="Offres d'emploi à Cahors" href="http://www.sudouestjob.com/offre_emploi_ville/offre_emploi_cahors.htm">Cahors</a> | <a title="Offres d'emploi à Foix" href="http://www.sudouestjob.com/offre_emploi_ville/offre_emploi_foix.htm">Foix</a> | <a title="Offres d'emploi à Limoges" href="http://www.sudouestjob.com/offre_emploi_ville/offre_emploi_limoges.htm">Limoges</a> |  <a title="Offres d'emploi à Rodez" href="http://www.sudouestjob.com/offre_emploi_ville/offre_emploi_rodez.htm">Rodez</a> | <a title="Offres d'emploi à Toulouse" href="http://www.sudouestjob.com/offre_emploi_ville/offre_emploi_toulouse.htm">Toulouse</a> | <a title="Offres d'emploi à Tulle" href="http://www.sudouestjob.com/offre_emploi_ville/offre_emploi_tulle.htm">Tulle</a> | <a title="Offres d'emploi dans les autres villes de sudouestjob" href="http://www.sudouestjob.com/offre_emploi_ville/offres-emploi.htm">Autre</a></li>
+                </ul>
+   
+            </div>
+        </div>
+        
+        <div class="clearfix"></div>
+    </div>
+
+</div>
+
+
+
+</div>
+    </div>
+
+
+
+
+<footer id="footer">
+    
+    <div class="container web">
+
+        <div class="col size12of12">
+            <p>
+            	<a href="http://groupe.regionsjob.com/">Qui sommes-nous ?</a> | <a href="http://groupe.regionsjob.com/carrieres/index.aspx" rel="nofollow">RegionsJob recrute</a> | <a href="/static/infos-legales" rel="nofollow">Informations légales</a> | <a href="/static/cgu" rel="nofollow">Conditions générales d'utilisation</a> | <a href="/static/aide-contact" rel="nofollow">Aide et contact</a> | <a href="/static/partenaires">Partenaires</a> | <a href="http://pro.regionsjob.com" rel="nofollow">RegionsJob connect</a> 
+                | <a href="http://www.cadreo.com">cadreo</a>
+				© RegionsJob SAS est membre de l'<a href="http://www.appei.net/">APPEI</a>, partenaire de <a href="http://groupe.regionsjob.com/info/a-competence-egale.aspx">à Compétence Égale</a>. L'audience des sites RegionsJob est certifiée par l'<a href="http://www.ojd.com">OJD</a>
+			</p>
+        </div>
+    </div>
+   
+    <div class="container mobile row">
+        <div class="col size50pourc">
+        	<div class="marged">
+	        	<a href="/" class="bt bt-beige">Emploi</a>
+            </div>
+        </div>
+        <div class="col size50pourc">
+        	<div class="margeg">
+	        	<a href="http://www.maformation.fr" class="bt bt-beige">Formation</a>
+            </div>
+        </div>
+        <div class="col size12of12">
+	       <a href="/static/infos-legales" class="bt bt-beige">Informations légales</a>
+       </div>
+        <p class="center">© RegionsJob SAS</p>
+    </div>
+
+</footer>
+    <div id="raccourcis">
+    <div class="container">
+        <div class=" col size12of12">
+            <div class="bordure"><a href="http://www.maformation.fr" class="logo light mf"><img class="" src="http://ressources.regionsjob.com/2012/img/maformation_ssbulle.png" alt="Regionsjob" /></a></div>
+       </div>
+    </div>
+</div>
+
+
+    <script src="http://ressources.regionsjob.com/2012/../js/jquery/jquery-1.8/jquery-1.8.2.min.js"></script>
+    <script src="http://ressources.regionsjob.com/2012/../js/jquery-ui/jquery-ui-1.9/jquery-ui-1.9.0.custom.min.js"></script>
+    <script src="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/js/scripts.min.js"></script>
+    
+
+    <script src="http://ressources.regionsjob.com/2012/../js/jquery/regionsjob/jquery.diaporama/jquery.diaporama_1.01.min.js"></script>
+    <script src="http://ressources.regionsjob.com/2012/../js/classes/onglets/onglets_1.00.class.min.js"></script>
+    <script src="http://ressources.regionsjob.com/2012/tags/1.0.0/regionsjob/js/pages/accueil/scripts.min.js"></script>
+    <div style="display:none;" data-smart="smart-top-right" class="smart"><script>SmartAdServer("2943/32552", 871, "");</script></div>
+    <div style="display:none;" data-smart="smart-bottom" class="smart"><script>SmartAdServer("2943/32552", 4519, "");</script>
+    
+    <div id="smart-bottom"></div>
+    
+
+<!-- Google Analytics -->
+
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-32622431-1']);
+    _gaq.push(['b._setAccount', 'UA-32617926-3']);
+
+    
+
+        _gaq.push(['_trackPageview']);
+        _gaq.push(['b._trackPageview']);
+    
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
+
+
+
+<!-- Xiti -->
+<script type="text/javascript">
+<!--
+    xtnv = document;        //parent.document or top.document or document         
+    xtsd = "http://logc1";
+    xtsite = "84285";
+    xtn2 = "8";   // level 2 site 
+    xtpage = "emploi::accueil::accueil";        //page name (with the use of :: to create chapters)
+    xtdi = "";        //implication degree
+    xt_multc = "";    //customised indicators
+    xt_an = "";       //numeric identifier
+    xt_ac = "";       //category
+
+    //do not modify below
+    if (window.xtparam != null) { window.xtparam += "&ac=" + xt_ac + "&an=" + xt_an + xt_multc; }
+    else { window.xtparam = "&ac=" + xt_ac + "&an=" + xt_an + xt_multc; };
+//-->
+</script>
+<script type="text/javascript">
+<!--
+    (function () {
+        var at = document.createElement('script');
+        at.type = 'text/javascript';
+        at.async = true;
+        at.src = 'http://www.regionsjob.com/xtcore.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] || document.getElementsByTagName('script')[0].parentNode).insertBefore(at, null);
+    })();
+-->
+</script>
+<noscript>
+<img width="1" height="1" alt="" src="http://logc1.xiti.com/hit.xiti?s=84285&s2=8&p=emploi::accueil::accueil&di=2&ac=&an=&" >
+</noscript>             
+    
+    <script>smart.genere();</script>
+
+</body>
+</html>

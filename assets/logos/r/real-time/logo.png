@@ -1,0 +1,405 @@
+	<!doctype html>
+	<!--[if !IE]>
+	<html class="no-js non-ie" lang="en-US"> <![endif]-->
+	<!--[if IE 7 ]>
+	<html class="no-js ie7" lang="en-US"> <![endif]-->
+	<!--[if IE 8 ]>
+	<html class="no-js ie8" lang="en-US"> <![endif]-->
+	<!--[if IE 9 ]>
+	<html class="no-js ie9" lang="en-US"> <![endif]-->
+	<!--[if gt IE 9]><!-->
+<html class="no-js" lang="en-US"> <!--<![endif]-->
+	<head>
+
+		<meta charset="UTF-8"/>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+		<title>Events, Movies, Travel &amp; Location-based Content Provider - Wcities Corporate Website</title>
+
+		<link rel="profile" href="http://gmpg.org/xfn/11"/>
+		<link rel="pingback" href="http://wcities.com/xmlrpc.php"/>
+                <link rel="icon" href="http://wcities.com/fav-icon32.png" type="image/png" />
+                <link rel="shortcut icon" href="http://wcities.com/fav-icon32.png" type="image/png" />
+
+		
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-167953-1']);
+				            _gaq.push(['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel='stylesheet' id='responsive-style-css'  href='http://wcities.com/wp-content/themes/responsive/core/css/style.css?ver=1.9.5.5' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-media-queries-css'  href='http://wcities.com/wp-content/themes/responsive/core/css/responsive.css?ver=1.9.5.5' type='text/css' media='all' />
+<script type='text/javascript' src='http://wcities.com/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
+<script type='text/javascript' src='http://wcities.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://wcities.com/wp-content/themes/responsive/core/js/responsive-modernizr.min.js?ver=2.6.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://wcities.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://wcities.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='next' title='City Guide' href='http://wcities.com/city-guide/' />
+<meta name="generator" content="WordPress 3.9" />
+<link rel='shortlink' href='http://wcities.com/' />
+
+<!-- Contact Us Form -->
+<style type="text/css">
+.cuf_input {display:none !important; visibility:hidden !important;}
+#contactsubmit:hover, #contactsubmit:focus {
+	background: #4782AD repeat-x;
+	color: #FFF;
+	text-decoration: none;
+}
+#contactsubmit:active {/*background: #849F00*/}
+#contactsubmit {
+	color: #FFF;
+	background: #004B82 repeat-x;
+	display: block;
+	float: left;
+	height: 45px;
+	/*padding-right: 23px;
+	padding-left: 23px;*/
+	font-size: 12px;
+	text-transform: uppercase;
+	text-decoration: none;
+	font-weight: bold;
+	text-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
+	filter: dropshadow(color=rgba(0, 0, 0, 0.2), offx=0, offy=1);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+        width:100%;
+	/*border-radius: 5px;*/
+	-webkit-transition: background 300ms linear;
+-moz-transition: background 300ms linear;
+-o-transition: background 300ms linear;
+transition: background 300ms linear;
+/*-webkit-box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2);
+-moz-box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2);
+box-shadow: 0px 2px 2px 0px rgba(0, 0, 0, 0.2);*/
+text-align:center;
+-webkit-appearance: none;
+}
+.cuf_field {
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+	background:#EFEDEE;
+	border:1px solid #A9B3BC;
+	padding:8px;
+	width:100%;
+	margin-top:5px;
+margin-bottom:15px;
+	outline:none; 
+        font-family:Helvetica-Neue;
+}
+#tinyform {
+clear: both;
+/*	width:500px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:30px;
+	padding:20px;
+	-webkit-border-radius:5px;
+	-moz-border-radius:5px;
+	border-radius:5px;
+	-webkit-box-shadow:0px 0px 10px 0px rgba(0,0,0,0.2);
+	-moz-box-shadow:0px 0px 10px 0px rgba(0,0,0,0.2);
+	box-shadow:0px 0px 10px 0px rgba(0,0,0,0.2);
+	border:4px solid #FFF;
+	-webkit-transition:all 200ms linear;
+	-moz-transition:all 200ms linear;
+	-o-transition:all 200ms linear;
+	transition:all 200ms linear;*/
+}
+.cuf_textarea {
+	-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+	background:#EFEDEE;
+	border:1px solid #A9B3BC;
+	padding:8px;
+	width:100%;
+	margin-top:5px;
+	outline:none;
+margin-bottom:15px;
+height:206px;
+font-family:Helvetica-Neue;
+}
+</style>
+<!-- We need this for debugging -->
+<!-- Responsive 1.9.5.5 -->
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+
+<!-- All in One SEO Pack 2.1.5 by Michael Torbert of Semper Fi Web Design[496,503] -->
+<meta name="description" content="Wcities is one of the leading providers of content for events, movies, travel &amp; location based information." />
+
+<meta name="keywords" content="events, movies, city guides, travel, attractions, restaurants, bars, cafes, hotels, shopping, museums, nightlife, concerts, theater, tours" />
+<meta name="robots" content="index,follow" />
+
+<link rel="canonical" href="http://wcities.com/" />
+<!-- /all in one seo pack -->
+<style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style>	</head>
+
+<body class="home page page-id-28 page-template page-template-full-width-page-php">
+
+<div id="container" class="hfeed">
+
+	<div class="skip-container cf">
+		<a class="skip-link screen-reader-text focusable" href="#main">&darr; Skip to Main Content</a>
+	</div><!-- .skip-container -->
+	<div id="header">
+
+		
+		
+		
+		
+			<div id="logo">
+				<a href="http://wcities.com/"><img src="http://108.166.122.19/wcities-website/wp-content/uploads/2014/05/wcities-logo-small.png" width="500" height="89" alt="Wcities Corporate"/></a>
+			</div><!-- end of #logo -->
+
+		
+		
+				<div class="main-nav"><ul id="menu-hmenu" class="menu"><li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28 current_page_item menu-item-30"><a href="http://wcities.com/" >HOME</a></li>
+<li id="menu-item-33" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-33"><a href="#">PRODUCTS</a>
+<ul class="sub-menu">
+	<li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="http://wcities.com/city-guide/" >CITY GUIDE</a></li>
+	<li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="http://wcities.com/event-guide/" >EVENT GUIDE</a></li>
+	<li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="http://wcities.com/movie-guide/" >MOVIE GUIDE</a></li>
+</ul>
+</li>
+<li id="menu-item-60" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-60"><a href="#">SERVICES</a>
+<ul class="sub-menu">
+	<li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-61"><a href="http://wcities.com/content-solutions/" >CONTENT SOLUTIONS</a></li>
+	<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="http://wcities.com/in-flight-entertainment/" >IN-FLIGHT ENTERTAINMENT</a></li>
+	<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-63"><a href="http://wcities.com/digital-signage/" >DIGITAL SIGNAGE</a></li>
+	<li id="menu-item-64" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-64"><a href="http://wcities.com/connected-cars/" >CONNECTED CAR</a></li>
+	<li id="menu-item-193" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-193"><a href="http://cityseekr.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://cityseekr.com']);">CITYSEEKER</a></li>
+	<li id="menu-item-194" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-194"><a href="http://eventseeker.com" onclick="javascript:_gaq.push(['_trackEvent','outbound-menu','http://eventseeker.com']);">EVENTSEEKER</a></li>
+	<li id="menu-item-197" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-197"><a href="http://wcities.com/hospitality/" >HOSPITALITY</a></li>
+</ul>
+</li>
+<li id="menu-item-386" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-386"><a href="#">CONTACT US</a>
+<ul class="sub-menu">
+	<li id="menu-item-196" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-196"><a href="http://wcities.com/contact/" >CONTACT</a></li>
+</ul>
+</li>
+</ul></div>
+		        <!--<div class="partnership"><img src="http://wcities.com//wp-content/themes/responsive/core/images/partnership.png">&nbsp;PARTNERSHIPS</div>-->
+			</div><!-- end of #header -->
+
+	<div id="wrapper" class="clearfix">
+
+
+<div id="content-full" class="grid col-940">
+
+	
+		
+			
+						<div id="post-28" class="post-28 page type-page status-publish hentry">
+				
+				
+	<h1 class="entry-title post-title"></h1>
+
+
+				<div class="post-entry">
+					<div class="gallery"><img class="aligncenter size-full wp-image-369 website-disp main-img" src="http://26f3136b9214a675a7a7-7a534f602261f6ee95030964c57f1ebc.r68.cf2.rackcdn.com/Home1-v2.jpg" alt="homepage main" /><img id="home_page" class="aligncenter size-full wp-image-369 mobile-disp" src="http://26f3136b9214a675a7a7-7a534f602261f6ee95030964c57f1ebc.r68.cf2.rackcdn.com/Home1-v2.jpg" alt="homepage main" /></div>
+<div class="text_center_grey_homepage">OUR SERVICES</div>
+
+		
+		<div id='gallery-1' class='gallery galleryid-28 gallery-columns-5 gallery-size-responsive-200'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="146" height="144" src="http://wcities.com/wp-content/uploads/2014/04/personalization.png" class="attachment-responsive-200" alt="PERSONALIZATIONOur content can fit any personality or brand. From family friendly attractions to trendy bars, you&#039;ll find exactly what you&#039;re looking for." />
+			</dt>
+				<p class='wp-caption-text gallery-caption'>
+				<p class="text_center"><b>PERSONALIZATION</b></p><p class="text_center_small">Our content can fit any personality or brand. From family friendly attractions to trendy bars, you&#8217;ll find exactly what you&#8217;re looking for.<p>
+				</p></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="145" height="144" src="http://wcities.com/wp-content/uploads/2014/04/custom.png" class="attachment-responsive-200" alt="CUSTOM CONTENTOur large editorial staff can create custom content that&#039;s just for you. We can capture your voice to ensure it fits your audience." />
+			</dt>
+				<p class='wp-caption-text gallery-caption'>
+				<p class="text_center"><b>CUSTOM CONTENT</b></p><p class="text_center_small" >Our large editorial staff can create custom content that&#8217;s just for you. We can capture your voice to ensure it fits your audience.</p>
+				</p></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="146" height="144" src="http://wcities.com/wp-content/uploads/2014/04/curated.png" class="attachment-responsive-200" alt="CURATED CONTENTWe carefully research each location to ensure that we cover the top picks. We find the places you want to visit and activities you want to do." />
+			</dt>
+				<p class='wp-caption-text gallery-caption'>
+				<p class="text_center"><b>CURATED CONTENT</b></p><p class="text_center_small" >We carefully research each location to ensure that we cover the top picks. We find the places you want to visit and activities you want to do.</p>
+				</p></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="146" height="144" src="http://wcities.com/wp-content/uploads/2014/04/mobile.png" class="attachment-responsive-200" alt="MOBILE CONTENTWe can create mobile content and custom apps. No matter what your requirements are, we can offer support and provide relevant data." />
+			</dt>
+				<p class='wp-caption-text gallery-caption'>
+				<p class="text_center"><b>MOBILE CONTENT</b></p><p class="text_center_small">We can create mobile content and custom apps. No matter what your requirements are, we can offer support and provide relevant data.</p>
+				</p></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="146" height="144" src="http://wcities.com/wp-content/uploads/2014/04/languages.png" class="attachment-responsive-200" alt="LANGUAGESOur comprehensive content has select coverage in 27 languages. Whether you need Spanish, French or even Slovenian, we have you covered." />
+			</dt>
+				<p class='wp-caption-text gallery-caption'>
+				<p class="text_center"><b>LANGUAGES</b></p><p class="text_center_small">Our comprehensive content has select coverage in 27 languages. Whether you need Spanish, French or even Slovenian, we have you covered.</p>
+				</p></dl><br style="clear: both" />
+		</div>
+
+<div class="text_center_grey_homepage">OUR CONTENT</div>
+<div id="gallery-mid" class="gallery galleryid-28 gallery-columns-3 gallery-size-full website-disp">
+<dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<a href="http://wcities.com/city-guide/"></p>
+<div class="details">
+<h4>CITY GUIDE</h4>
+<p>500 Cities World Wide</p>
+<p>Half Million Points Of Interest</p>
+</div>
+<p></a></p>
+<div class="image-backdrop"><img class="attachment-full" title="City Guide" src="http://26f3136b9214a675a7a7-7a534f602261f6ee95030964c57f1ebc.r68.cf2.rackcdn.com/homepage-new-1.jpg" alt="homepage-1" /></div>
+</dt>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<a href="http://wcities.com/event-guide/"></p>
+<div class="details">
+<h4>EVENT GUIDE</h4>
+<p>2000 Cities World Wide</p>
+<p>2 Million Events</p>
+</div>
+<p></a></p>
+<div class="image-backdrop"><img class="attachment-full" title="Event Guide" src="http://26f3136b9214a675a7a7-7a534f602261f6ee95030964c57f1ebc.r68.cf2.rackcdn.com/homepage-new-2.jpg" alt="homepage2" /></div>
+</dt>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<a href="http://wcities.com/movie-guide/"></p>
+<div class="details">
+<h4>MOVIE GUIDE</h4>
+<p>50 Countries 27 Languages</p>
+</div>
+<p></a></p>
+<div class="image-backdrop"><img class="attachment-full" title="Movie Guide" src="http://26f3136b9214a675a7a7-7a534f602261f6ee95030964c57f1ebc.r68.cf2.rackcdn.com/homepage-new-3.jpg" alt="homepage3" /></div>
+</dt>
+</dl>
+</div>
+<div id="gallery-mid" class="gallery galleryid-28 gallery-columns-3 gallery-size-full mobile-disp">
+<dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<a href="http://wcities.com/city-guide/"></p>
+<div class="details">
+<h4>CITY GUIDE</h4>
+<p>500 Cities World Wide Half Million Points Of Interest
+</p></div>
+<p></a></p>
+<div class="image-backdrop"><img class="attachment-full" title="City Guide" src="http://108.166.122.19/wcities-website/wp-content/uploads/2014/05/homepage-mobile-1.jpg" alt="homepage-1" /></div>
+</dt>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<a href="http://wcities.com/event-guide/"></p>
+<div class="details">
+<h4>EVENT GUIDE</h4>
+<p>2000 Cities World Wide 2 Million Events</p></div>
+<p></a></p>
+<div class="image-backdrop"><img class="attachment-full" title="Event Guide" src="http://108.166.122.19/wcities-website/wp-content/uploads/2014/05/homepage-mobile-2.jpg" alt="homepage2" /></div>
+</dt>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape">
+<a href="http://wcities.com/movie-guide/"></p>
+<div class="details">
+<h4>MOVIE GUIDE</h4>
+<p>50 Countries 27 Languages</p></div>
+<p></a></p>
+<div class="image-backdrop"><img class="attachment-full" title="Movie Guide" src="http://108.166.122.19/wcities-website/wp-content/uploads/2014/05/homepage-mobile-3.jpg" alt="homepage3" /></div>
+</dt>
+</dl>
+</div>
+<div class="text_center_grey_homepage">OUR CLIENTS</div>
+
+		
+		<div id='gallery-2' class='gallery galleryid-28 gallery-columns-4 gallery-size-responsive-200'><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="200" height="120" src="http://wcities.com/wp-content/uploads/2014/04/audi-200x120.png" class="attachment-responsive-200" alt="audi" />
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="200" height="120" src="http://wcities.com/wp-content/uploads/2014/04/marriott-200x120.png" class="attachment-responsive-200" alt="marriott" />
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="200" height="120" src="http://wcities.com/wp-content/uploads/2014/04/panasonic1-200x120.png" class="attachment-responsive-200" alt="panasonic" />
+			</dt></dl><dl class='gallery-item'>
+			<dt class='gallery-icon landscape'>
+				<img width="200" height="120" src="http://wcities.com/wp-content/uploads/2014/04/yahoo1-200x120.png" class="attachment-responsive-200" alt="yahoo" />
+			</dt></dl><br style="clear: both" />
+		</div>
+
+									</div>
+				<!-- end of .post-entry -->
+
+				
+
+<div class="post-edit"></div>
+							</div><!-- end of #post-28 -->
+			
+									
+		
+</div><!-- end of #content-full -->
+
+</div><!-- end of #wrapper -->
+</div><!-- end of #container -->
+
+<div id="footer" class="clearfix">
+	
+	<div id="footer-wrapper">
+
+		
+		<div class="grid col-940 ">
+
+			<div class="grid col-540">
+									<ul id="menu-fmenu" class="footer-menu"><li id="menu-item-68" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28 current_page_item menu-item-68"><a href="http://wcities.com/" >HOME</a></li>
+<li id="menu-item-418" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-418"><a href="http://wcities.com/docs/wCities%20-%20Terms%20of%20Service%202012.doc" onclick="javascript:_gaq.push(['_trackEvent','download','http://wcities.com/docs/wCities%20-%20Terms%20of%20Service%202012.doc']);">TERMS &#038; CONDITIONS</a></li>
+<li id="menu-item-77" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-77"><a href="http://wcities.com/contact/" >CONTACT</a></li>
+</ul>							</div>
+			<!-- end of col-540 -->
+
+
+			<!-- end of col-380 fit -->
+
+		</div>
+		<!-- end of col-940 -->
+		
+		<div class="grid col-300 copyright">
+			Wcities. Inc 
+                        512 2nd Street Second Floor, San Francisco, CA 94107 
+<!--                        <a href="http://wcities.com/" title="Wcities Corporate">
+				Wcities Corporate			</a>-->
+		</div>
+		<!-- end of .copyright -->
+
+<!-- 		<div class="grid col-300 scroll-top"><a href="#scroll-top" title="scroll to top">&uarr;</a></div> -->
+
+<!--		<div class="grid col-300 fit powered">
+			<a href="http://cyberchimps.com/responsive-theme/" title="Responsive Theme">
+				Responsive Theme</a>
+			powered by <a href="http://wordpress.org/" title="WordPress">
+				WordPress</a>
+		</div>-->
+		<!-- end .powered -->
+
+	</div>
+	<!-- end #footer-wrapper -->
+
+	</div><!-- end #footer -->
+
+<script type='text/javascript' src='http://wcities.com/wp-content/themes/responsive/core/js/responsive-scripts.min.js?ver=1.2.5'></script>
+<script type='text/javascript' src='http://wcities.com/wp-content/themes/responsive/core/js/jquery.placeholder.min.js?ver=2.0.7'></script>
+</body>
+</html>
+
+<!-- Dynamic page generated in 0.157 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2014-07-15 20:21:10 -->
+
+<!-- super cache -->

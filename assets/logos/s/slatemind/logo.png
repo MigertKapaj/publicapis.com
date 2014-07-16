@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script type="text/javascript">
+  __fast_render_config = {"subscriptions":{},"serverRoutePath":"/public/images/v2/slatebox_logo.png","subscriptionIdMap":{},"loadedSubscriptions":{}}
+</script>
+
+  <link rel="stylesheet" href="/52dff6950560abc32d8343ede25651c43c52c8db.css?meteor_css_resource=true">
+
+
+<script type="text/javascript">__meteor_runtime_config__ = {"meteorRelease":"0.8.1.3","ROOT_URL":"http://107.170.117.181","ROOT_URL_PATH_PREFIX":"","autoupdateVersion":"1d38182a6415d531478ad53197c6188c9523cbaa"};</script>
+
+  <script type="text/javascript" src="/23384299b942732c3587c9912505f5cb59e497bc.js"></script>
+
+
+<script type="text/javascript">
+if (typeof Package === 'undefined' ||
+    ! Package.webapp ||
+    ! Package.webapp.WebApp ||
+    ! Package.webapp.WebApp._isCssLoaded())
+  document.location.reload(); 
+</script>
+
+<meta name="fragment" content="!">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="text/javascript">
+  if(typeof Package['fast-render'].__init_fast_render == 'function') {
+    Package['fast-render'].__init_fast_render("%7B%22collectionData%22:%7B%7D%7D")
+  }
+</script>
+</head>
+<body>
+
+</body>
+</html>
